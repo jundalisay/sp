@@ -3,7 +3,7 @@ heading: "Chapter 9c"
 title: "Critical Thinking and Critical Feeling"
 date: 2023-12-08
 weight: 655
-photos: /photos/psych/stop.jpg
+image: /photos/psych/stop.jpg
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
 writer:
   name: Juan

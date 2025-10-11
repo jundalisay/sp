@@ -12,9 +12,7 @@ A sophistry is a half-truth, or a fallacy that has some bits of relative truths 
 Fallacies naturally come from the limited abilities of humans. This is imposed by Nature itself:
 
 {{< q a="Rene Descartes" c="Meditations, Part 1" >}} 
-I shall suppose that some malicious, powerful, cunning demon has done all to deceive me. I shall think that the sky, air, earth, shapes, and all external things are dreams that the demon has contrived as traps for my judgment.
-
-Like a prisoner who dreams that he is free, my laziness starts to suspect that my reality is merely a dream. It wants to go on dreaming rather than waking up. I fear being shaken out of my dream because I am afraid to realize the prison that I am in
+I shall suppose that some malicious, powerful, cunning demon has done all to deceive me. I shall think that the sky, air, earth, shapes, and all external things are dreams that the demon has contrived as traps for my judgment. Like a prisoner who dreams that he is free, my laziness starts to suspect that my reality is merely a dream. It wants to go on dreaming rather than waking up. I fear being shaken out of my dream because I am afraid to realize the prison that I am in
 {{< /q >}}
 
 
@@ -30,7 +28,7 @@ Evolution Theory | Survival of the Fittest | Nazism, Racism, Exploitation of the
 Psychology | Consciousness Comes From Brain | Ineffective Treatments that cause side effects
 
 
-### The Sophistries in the Sciences
+## The Sophistries in the Sciences
 
 The Indians, through the Vedas, were the first ones to discover the illusion of reality -- the physical universe was itself false. This led them to have a culture of renouncing the false world and chasing the Truth.
 
@@ -78,7 +76,7 @@ They therefore have 3 components:
 These 3 are all part of the Negative Force or Yin in Taoism or Shakti in Hinduism.
 
 
-### The FTX Scam
+## The FTX Scam
 
 A very recent large scam was the blockchain company FTX which really was a ponzi scheme. Its mechanism is the ignorance of people on how blockchain works.
 
@@ -107,16 +105,14 @@ God, or substance, consisting of infinite attributes, of which each expresses et
 
 
 
-### The Einstein Scam: The Simultaneity of Time
+## The Einstein Scam: The Simultaneity of Time
 
 <!-- Unlike Newton, Descartes, and Spinoza who ascribed the causal mechanisms of everything to God, Spirit, or Substance, Einstein put all to matter and energy. -->
 
 Einstein's scam began in 1905 when he pushed the concept of **simultaneity of time**. 
 
 {{< q a="Einstein" >}}
-We test simultaneity by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. If he sees both flashes at the same time, then they are simultaneous. You object by saying that "time" would be measured by light, but the speed of light is measured by time. You would say this is **reasoning in a circle** and therefore, simultaneity has absolutely nothing to do with light.
-
-I answer that this is only used for us to make empirical decisions.
+We test simultaneity by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. If he sees both flashes at the same time, then they are simultaneous. You object by saying that "time" would be measured by light, but the speed of light is measured by time. You would say this is **reasoning in a circle** and therefore, simultaneity has absolutely nothing to do with light. I answer that this is only used for us to make empirical decisions.
 {{< /q >}}
 
 <!--  simultaneity of time
@@ -167,16 +163,16 @@ It would have been better for physicists to sleep for 100 years achieving nothin
 Lorentz and Poincare were wise to keep time psychological, avoiding the temptation to use physical light as the basis for psychological time:
 
 {{< q a="Henri Poincare" c="The Measure of Time" >}}
-We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion. What do I mean when I say, from 12 noon to 1 pm, the same time passes as from 2 pm to 3 pm?
-
-The least reflection shows that by itself it has no meaning at all. It will only have the meaning that I give to it, making it arbitrary.
+We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion. What do I mean when I say, from 12 noon to 1 pm, the same time passes as from 2 pm to 3 pm? The least reflection shows that by itself it has no meaning at all. It will only have the meaning that I give to it, making it arbitrary.
 {{< /q >}}
 
 
 Poincare created the first Relativity theory, but never won a Nobel Prize because he didn't scam people.
 
+Our other post explains the [other side of the fallacy of Relativity](/material/fallacies/simultaniety/), as using the invariance of light to glue disparate times.
 
-### Too Much Math is to Blame
+
+## Too Much Math is to Blame
 
 Both Poincare and Sabine Hossenfelder blames the collapse of Physics to the dominance of mathematicians who are out of touch with reality.  
 

@@ -1,64 +1,146 @@
 ---
 heading: "Chapter 8f"
-title: "Data Science as Socratic Dialectics"
-date: 2024-08-21
-image: /photos/tech/mac.jpg
-# date: 2020-12-10
-a: Socrates
-weight: 510
-description: "Socratic Dialectics relies on all six senses and requires the ego to be lowered"
+title: "The Ratio Sign as Mind Splitter"
+date: 2020-12-27
+weight: 506
+image: "/graphics/movement.png"
+description: "The harmony or disharmony between spins leads to attraction and cohesion, or repulsion and disintegration"
+icon: "Juan"
+aliases:
+  /eagle
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
 ---
 
 
 
+In `1 + 1 = 2`, the mind sweeps from the left to the right. 
 
-Socratic Dialectics relies on all six senses and requires the ego to be lowered. This is why Socrates called it more laborious than the sciences causing it to be rarely developed. 
+But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. 
 
-For example, an alternative cancer cure that works for Mr. X might not work for Mr. Y. This would make it unacceptable to 'scientific' modern medicine which throws away such useful cures. 
-
-Superphysics solves this by finding out the pattern of differences between Mr. X and Y so that that the cure can work for all Mr. X-types. It then finds the cures that fit Y-types, Z-types, etc. 
-
-This method is unthinkable in science because the ego wants to think of itself as unique and does not want itself to be classified or branded.
-
-A common example of classification is how the Japanese believe that human behavior can be categorized according to four blood types, which was pseudo-science [until Covid came](https://www.tmc.edu/news/2020/06/blood-type-may-affect-covid-19-outcomes-study-shows/). 
+It becomes an impartial spectator of both sides or states, an idea developed by Adam Smith, as a manifestation of relationality:
 
 
-<!-- The goal is to solve problems by going outside of the box imposed by science. Superphysics adds that quality control to determine which is good pseudo-science and which is quack pseudo-science or those with zero or random replicability, in order to fill in the gaps in human knowledge and finally solve those unsolved by science. 
+{{< q a="Adam Smith" c="Theory of Moral Sentiments, Part 3, Chapter 1" >}}
+I divide myself into 2 persons whenever I examine my own conduct. The first "I" is the judge. The second I is myself, as the agent and the person judged.
+{{< /q >}}
+
+
+The ratio sign stops the mindless one way flow from one side to the other, which now manifests as a "shut up and calculate" mentality which shows the Materialist Disease. 
+
+
+## Examples
+
+The formula of economist John Maynard Keynes for money supply `M` as being affected by liquidity preference `L` and interest rate `r` is:
+
+```elixir
+M = Lr
+```
+
+This becomes:
+
+
+```elixir
+M :: (L : r)
+```
+
+when deconstructed:
+
+```elixir
+money_supply :: (liquidity_preference : interest-rate)
+```
+
+This translates to "the money supply is totally dependent on the love of cash and the profits in lending (or cost of borrowing) cash"
+
+
+
+Likewise, Newton's gravity changes from 
+
+```elixir
+F = (Gm1m2)/r^2
+```
+
+into
+
+
+```elixir
+F :: (G (m1/r^2 : m2/r^2))
+```
+
+
+Notice how this isolates Newton's `G` away from the two masses being compared. 
+
+We then deconstruct it in Cartesian Physics further:
+
+<!-- `gravity between objects :: Gravitational_limiter (Mass1 / distance_between_them ^ 2 : Mass2 / distance_between_them ^ 2)` -->
+<!-- material-layer-gravitational-signature -->
+
+```elixir
+gravity_between :: (material_layer_limiter (matter_amount_in_identity1 / distance_between^2 : matter_amount_in_identity2 / distance_between^2)
+```
+
+This translates as "the pushing force of spacetime between 2 material identities depends on the quantity and quality of matter in them and their distance from each other."
+
+In future posts, we can apply the same technique to Maxwell's equations to show how the spacetime, radiant, and material layers work together to create Electromagnetism.  
+
+
+In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government) in order to reveal the natural price ratios from their own perspective. 
+
+The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Notice how this system does not require PEMDAS because of the allowance for mind-splitting behavior.
+
+
+## Math with a Practical and Moral Purpose Inspired by Al-Khwarizmi and Descartes
+
+
+The above decontstructed equation "`gravity_between`" gives us 2 benefits:
+
+1. Practical: It helps us *code* the equation more easily into procedures and algorithms
+2. Moral: It makes us think of `Mass1` and `Mass2` independently, and separate from its limiter
+
+Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on "Calculation by Completion and Balancing". 
+
+The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*.
+
+{{< img cap="Automated Natural Intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
+
+
+{{< n n="*The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion." >}}
+   
+
+An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Natural Intelligence](/superphysics/solutions/isaiah) (ANI) and is one of the goals of Superphysics.
+
+
+Qualimath will allow an AI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
+
+{{< n n="*The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores (Update 2024: This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics." >}}
+
+  
+ 
+
+A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
+
+{{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}
+I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
+{{< /q >}}
+
+{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses Poincare's Law of Relativity which uses aethereal state-change instead of Einstein's Relativity which uses tensors" >}}
+
+
+
+Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 
+
+While the practical aspect is based on [Al-Khwarizmi](/research/musa/algebra/chapter-01), this moral aspect is based on Rene Descartes who invented exponents and the Cartesian plane, among others, from his realizations on how the mind works*, as well as David Hume from whom Adam Smith got his ideas.
+
+
+<!-- This is in line with the Hindus inventing zero to represent the existence of nothingness. Rather, zero implies that space is empty *but is actually meant by Nature to be filled* (since Nature abhors a vacuum). The Romans and the ancient Chinese did not have such an advanced metaphysical concept. Aristotle had, but did not seem to deploy it into reality.
+
+Qualimath also bridges modern math, which 'prefers' single integers or the small picture or 'micro', with ancient Egyptian math, which 'prefers' the large view or 'macro'. Thus, it harmonizes the different ways of looking at existence, making it more flexible and dynamic:
+
+- Modern math from the micro going macro
+- Ancient Egyptian math from the macro going micro
+- Hindu (Vedic) math grouping and scaling identities via zero 
  -->
 
+ {{< n n="*We extend the Cartesian plane into two: [a physical one and a metaphysical one](/material/solutions/cartesian-view)" >}}
 
-### Data Science as the Main Tool of Superphysics
-
-Data Science* is really good at classification and in finding patterns and so it will be the primary tool of the Superphysicist, Superphysician, and Supersociologist who are upgraded from ordinary physicists, physicians, and sociologists. 
-
-The discovery of patterns in scientific data makes Superphysics the bridge or missing link between physics and metaphysics, or science and philosophy.
-
-
-{{< q a="Francis Bacon" c="Nova Organum Simplified, Book 1, Chapter 5" >}}
-Are we perfecting natural philosophy alone according to our method? Or the other sciences also, such as logic, ethics, politics?
-
-**We certainly intend to comprehend them all.**
-{{< /q >}}
-
-
-{{< q a="David Hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
-All the sciences have a relation to human nature. No matter how far any science runs away from human nature, it still returns by one way or another. In pretending to explain the principles of human nature, we in effect propose a complete system of the sciences. This system is built on an almost entirely new foundation. This foundation is the only one on which the sciences can be secured. The science of man is the only solid foundation for the other sciences.
-{{< /q >}}
-
-{{< box >}}
-### Data Science is More of an Art than a Science
-
-Data Science cooks up useful predictions and interpretations of raw data using statistical techniques and activation functions, just as a chef cooks up dishes from raw ingredients using steaming, frying, marinating, etc.
-
-This is because data are really products of human perception, while math is the system of processes that human minds are capable of. 
-
-Animals can also perceive data but their math is very limited. For example, penguins can add rocks to each other but not divide them. 
-
-Humans that require mathematical proof are therefore really asking to have the mental processes of a learned person transplanted into their own minds. The problem is that the higher (aethereal) principles are very complex and ever-changing and so it would useless to put them in a fixed equation or mathematical proof. 
-
-Instead, our solution is to code them into the AI directly and let the AI show the calculated proofs dynamically.
-{{< /box >}}

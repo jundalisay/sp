@@ -12,6 +12,16 @@ icon: "Juan"
 ---
 
 
+
+{{< b >}}
+Principles | Concepts Introduced
+--- | ---
+Four Wave Properties: Commonality, Density, Strength, Spread | 
+{{< /b >}}
+
+
+
+
 The previous section explained how Existence is formed from waves in abstract spaces. This creates the current universe that is wave-based, as proven by:
 - electromagnetic waves
 - gravitational waves

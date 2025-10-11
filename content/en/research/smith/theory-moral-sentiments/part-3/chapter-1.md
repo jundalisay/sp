@@ -1,5 +1,5 @@
 ---
-title: "The Principle of Self-approbation Simplified"
+title: "The Principle of Self-approbation"
 heading: "Chapter 1"
 description: "Private Morals are based on the sympathy of the Deity on us, through a natural construct called the conscience"
 # date: 2015-09-30
@@ -26,7 +26,9 @@ icon: "Adam Smith"
 
 We can only do this by viewing them with the eyes of other people. 
 
-Our judgment always bears some secret reference to what we imagine would be the judgment of others. We examine our own conduct as we imagine any other fair and impartial spectator would examine it. If we place ourselves in his situation and enter into all his passions and motives which influenced it, we approve of it by sympathy with the approbation of this supposed equitable judge. If otherwise, we enter into his disapprobation and condemn it.
+Our judgment always bears some secret reference to what we imagine would be the judgment of others. We examine our own conduct as we imagine any other fair and impartial spectator would examine it. 
+
+If we place ourselves in his situation and enter into all his passions and motives which influenced it, we approve of it by sympathy with the approbation of this supposed equitable judge. If otherwise, we enter into his disapprobation and condemn it.
  
 
 ### While Public Morals are based on our sympathy with others, Private Morals are based on the sympathy of the Deity on us, through a natural construct called the conscience or an artificial construct called the impartial spectator which is our projection of our ideal self
@@ -89,16 +91,19 @@ Because we are secure that we are the natural and proper objects of approbation,
 On the contrary, if we are doubtful about our view in the mirror, we are often more anxious to gain their approbation. As long as we are not yet infamous, we are distracted at the thoughts of their censure. This strikes us with double severity.
 
 
-{{< s v="6" >}} I divide myself into two persons when I:
+{{< s v="6" >}} I divide myself into 2 persons when I:
 - examine my own conduct, and
 - pass sentence on it to approve or condemn it.
 
 I as the examiner and judge, is a different character from the I whose conduct is examined and judged. The first I is the spectator and the judge.
+
 I enter into his sentiments regarding my own conduct by: 
 - placing myself in his situation, and
 - considering how it would appear to me, when seen from that point of view.
 
-The second I is myself, the agent and the person judged. I tried to form some opinion of my conduct, under the spectator's character. But it is impossible that the judge should be the same with the person judged of, just as it is impossible that the cause should be the same with the effect.
+The second I is myself, the agent and the person judged. 
+
+I tried to form some opinion of my conduct, under the spectator's character. But it is impossible that the judge should be the same with the person judged of, just as it is impossible that the cause should be the same with the effect.
 
 
 {{< s v="7" >}} The great characters of virtue are: 

@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 6d"
-title: "Spin"
+title: "Spin as Effort"
 date: 2025-10-05
 weight: 410
-image: "/photos/tech/phone.jpg"
+image: "/photos/physics/quasar.jpg" 
 description: "Spin energy comes from outside"
 icon: "Juan"
 writer:
@@ -40,13 +40,25 @@ Therefore, relational action action mostly comes from the identity's configurati
 {{< i s="/graphics/physics/exist.jpg" a="Spin" c="The configuration of an identity determines what can flow through it" >}}
 
 
-This is because the outside forces actually power the spin, but that power can only flow through it if it is configured to receive that flow. 
+This is because the outside forces actually power the spin, but that power can only flow through it if it is configured to receive that flow.
+
+
+## Spin is Effort
+
+We call the persitence of this configuration, as well as the changes to it, as "Effort".
 
 An example is a claw machine that has so many toys under it. The claw can grab (receive) a toy if it can match the shape of the toy (match its spatial nature) as to be able to lift it to the hole.  
 
+
 {{< i s="/photos/objects/claw.jpg" a="Claw machine" c="The claw needs to match the toy" >}}
 
-Unfortunately, the claw is limited to a certain range of movements, making it incapable of matching the spatial nature of most toys. 
+The effort of the machine therefore is to:
+1. Actually execute the action by deploying the claw (Property 4)
+2. Making the claw match the toy (Property 2)
+3. Keep the toy held until it reaches the hole (Property 3)
+
+
+Unfortunately, the claw is limited to a certain range of movements (stifled Property 4 and 2). This makes it incapable of matching the spatial nature of most toys. 
 
 
 ## So What's The Use of Spin?

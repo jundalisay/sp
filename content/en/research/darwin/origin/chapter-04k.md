@@ -8,19 +8,35 @@ c: "firebrick"
 
 
 
-If during the long course of ages and under varying conditions of life, organic beings vary at all in the several parts of their organisation, and I think this cannot be disputed; 
+After many ages under varying life conditions, organic beings vary in the several parts of their organisation.
 
-if there be, owing to the high geometrical powers of increase of each species, at some age, season, or year, a severe struggle for life, and this certainly cannot be disputed; 
+<!-- if there be, owing to the high geometrical powers of increase of each species, at some age, season, or year, a severe struggle for life, and this certainly cannot be disputed;  -->
 
-then, considering the infinite complexity of the relations of all organic beings to each other and to their conditions of existence, causing an infinite diversity in structure, constitution, and habits, to be advantageous to them, I think it would be a most extraordinary fact if no variation ever had occurred useful to each being's own welfare, in the same way as so many variations have occurred useful to man. But if variations useful to any organic being do occur, assuredly individuals thus characterised will have the best chance of being preserved in the struggle for life; and from the strong principle of inheritance they will tend to produce offspring similarly characterised.
+An infinite diversity in advantageous structure, constitution, and habits is from the infinite complexity of:
+- the relations of organic beings to each other
+- their conditions of existence
+
+<!-- , to be  to them, I think it would be a most extraordinary fact if no variation ever had occurred useful to each being's own welfare, in the same way as so many variations have occurred useful to man. But if variations useful to any organic being do occur, assuredly  -->
+
+Individuals with such advantages will have the best chance of being preserved in the struggle for life.
+
+From the strong principle of inheritance they will tend to produce offspring similarly characterised.
 
 This principle of preservation is Natural Selection.
 
 Natural selection, on the principle of qualities being inherited at corresponding ages, can modify the egg, seed, or young, as easily as the adult.
 
-Amongst many animals, sexual selection will give its aid to ordinary selection, by assuring to the most vigorous and best adapted males the greatest number of offspring. Sexual selection will also give characters useful to the males alone, in their struggles with other males. Whether natural selection has really thus acted in nature, in modifying and adapting the various forms of life to their several conditions and stations, must be judged of by the general tenour and balance of evidence given in the following chapters. But we already see how it entails extinction; and how largely extinction has acted in the world's history, geology plainly declares.
+Amongst many animals, sexual selection will give its aid to ordinary selection, by assuring to the most vigorous and best adapted males the greatest number of offspring. 
 
-Natural selection, also, leads to divergence of character; for more living beings can be supported on the same area the more they diverge in structure, habits, and constitution, of which we see proof by looking at the inhabitants of any small spot or at naturalised productions. Therefore during the modification of the descendants of any one species, and during the incessant struggle of all species to increase in numbers, the more diversified these descendants become, the better will be their chance of succeeding in the battle of life.
+Sexual selection will also give characters useful to the males alone, in their struggles with other males. 
+
+Whether natural selection has really thus acted in nature, in modifying and adapting the various forms of life to their several conditions and stations, must be judged of by the general tenour and balance of evidence given in the following chapters. But we already see how it entails extinction; and how largely extinction has acted in the world's history, geology plainly declares.
+
+Natural selection also leads to divergence of character.
+
+More living beings can be supported on the same area the more they diverge in structure, habits, and constitution, of which we see proof by looking at the inhabitants of any small spot or at naturalised productions. 
+
+Therefore during the modification of the descendants of any one species, and during the incessant struggle of all species to increase in numbers, the more diversified these descendants become, the better will be their chance of succeeding in the battle of life.
 
 Thus the small differences distinguishing varieties of the same species, will steadily tend to increase till they come to equal the greater differences between species of the same genus, or even of distinct genera.We have seen that it is the common, the widely-diffused, and widely-ranging species, belonging to the larger genera, which vary most; and these will tend to transmit to their modified offspring that superiority which now makes them dominant in their own countries. Natural selection, as has just been remarked, leads to divergence of character and to much extinction of the less improved and intermediate forms of life.
 

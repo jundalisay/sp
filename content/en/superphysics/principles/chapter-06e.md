@@ -65,9 +65,9 @@ We use the word 'relationality' to:
 - avoid assocation with the scam theory of relativity of Einstein
 
 
-Relationality explains how everything in Existence is connected to each other spatially indirectly, but directly through the aether which bypasses space and time. 
+Relationality explains how everything in Existence is connected to each other spatially indirectly, but directly through the aether which bypasses space and time.
 
-This is because the connection of everything is from the aethereal wave-nature of everythig.
+This is because the connection of everything is from the aethereal wave-nature of everything.
 
 The ratio sign signifies this connection.
 
@@ -99,6 +99,9 @@ When God compares two simple substances, he finds reasons in them to accommodate
 - active in so far as what is known distinctly in it provides the reason for what happens in another created substance.
 - passive in so far as the reason for what happens in it is found in what is known distinctly in another.
 {{< /q >}}
+
+
+**Relationality is one of the most important concepts in Superphysics.**
 
 
 ## The Realities Create a Universe Matrix

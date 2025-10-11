@@ -1,8 +1,8 @@
 ---
-title: "Humanity versus self-command Simplified"
-heading: "Chapter 3b"
-description: "Humanity is a gentle virtue, self-command is an austere virtue."
-date: 2015-09-10
+title: "The Influences and Authority of Conscience"
+heading: "Chapter 3d"
+description: "The Eye of the Impartial Spectator"
+date: 2015-09-18
 c: "indigo"
 writer:
   name: Adam Smith
@@ -11,200 +11,151 @@ icon: "Adam Smith"
 ---
 
 
-{{< s v="79" >}} Humanity is a gentle virtue. Self-command is an austere virtue.
+<sup>62</sup> In all other private misfortunes which affect ourselves immediately and directly, we can very seldom offend by appearing to be too little affected.
 
-Humanity is best cultivated in situations different from those for forming self-command.
+We frequently remember our sensibility to the misfortunes of others with pleasure and satisfaction.
 
-The man who is at ease can best attend to the distress of others.
+We can seldom remember our sensibility to our own misfortunes without some shame and humiliation.
+ 
+<sup>63</sup> If we examine our weakness and self-command in common life, we will see that this control of our passive feelings is acquired from: 
+- that great discipline which Nature established for the acquisition of virtues.
+- a regard to the sentiments of the real or supposed spectator of our conduct.
 
-The man who is exposed to hardships must control his own feelings.
+It is not acquired from the abstruse syllogisms of a quibbling dialectic.
 
-Humanity flourishes the most in: 
-- the mild sunshine of undisturbed tranquillity, and
-- the calm retirement of philosophical leisure.
+ 
+<sup>64</sup> A very young child has no self-command.
 
-It is capable of the highest improvement.
+By the violence of its outcries, it always tries to alarm its nurse's or parents' attention, whatever its emotions are.
 
-But, in such situations, the greatest exertions of self-command have little exercise.
+While it remains with such partial protectors, its anger is the first and, perhaps, the only passion which it is taught to moderate.
 
-During war, faction, public tumult and confusion: 
-- self-command: 
-  - prospers the most, and
-  - can be cultivated most successfully.
+By noise and threats, they often frighten it into good temper for their own ease.
 
-But the strongest suggestions of humanity is frequently neglected
-Every such neglect necessarily weakens the principle of humanity.
+The passion which incites the child to attack, is restrained by the passion which teaches it to attend to its own safety.
 
-It is frequently a soldier's duty not to take, and sometimes his duty not to give quarter.
-The humanity of the man who does this disagreeable duty several times will be greatly reduced.
-For his own ease, he learns to make light of the misfortunes that he brings.
-The sacred regard to life and property is the foundation of justice and humanity.
+When it is old enough to go to school or mix with its equals, it soon finds that they have no such indulgent partiality.
 
-The situations which need the noblest exertions of self-command always reduce and often extinguish that sacred regard, by imposing the need to violate our neighbour's life and property.
-Because of this, we frequently find men of great humanity who have little self-command.
+It naturally wishes to: 
+- gain their favour, and
+- avoid their hatred or contempt.
 
-The humane are indolent, irresolute, and easily disheartened from honourable pursuits by difficulty or danger.
+It is taught to do so from a regard to its own safety.
 
-On the contrary, we find men of the most perfect self-command not discouraged by difficulty or danger.
+It soon finds that it can do so only by moderating its anger and all its other passions to the degree which its play-fellows are pleased with.
 
-They are always ready for daring and desperate enterprises.
+It thus enters into the great school of self-command.
 
-But at the same time, they seem to be hardened against all sense of justice or humanity.
+It studies to be master of itself more and more.
 
-{{< s v="80" >}} In solitude, we tend to feel too strongly for whatever relates to ourselves.
+It begins to exercise a discipline over its own feelings.
 
-We tend to over-rate: 
-- the good offices we may have done, and
-- the injuries we may have suffered.
-
-We tend to be: 
-- too much elated by our own good fortune, and
-- too much dejected by our own bad fortune.
-
-Our friend's conversation brings us to a better temper.
-
-A stranger's conversation brings us to a still better temper.
-
-The man within the breast is the abstract and ideal spectator of our sentiments and conduct.
-It often requires to be awakened and put in mind of his duty by the presence of the real spectator.
-We are likely to learn the most complete lesson of self-command always from the real spectator.
-We can expect the least sympathy and indulgence from it.
-
-
-{{< s v="81" >}} Are you in adversity?
-
-Do not mourn in the darkness of solitude.
-Do not regulate your sorrow according to the indulgent sympathy of your intimate friends.
-Return to the daylight of the world and society as soon as possible.
-Live with strangers, with those who know nothing or care nothing about your misfortune.
-Do not even shun the company of enemies.
-Give yourself the pleasure of mortifying their malignant joy by: 
-making them feel how little you are affected by your calamity, and
-how much you are above it.
-
-
-{{< s v="82" >}} Are you in prosperity?
-
-Do not confine the enjoyment of your good fortune to: 
-- your own house, and
-- the company of your: 
-  - own friends, and
-  - flatterers, perhaps those who build on your fortune in the hopes of mending their own.
-
-**Frequent those who are independent of you.**
-
-They can value you only for your character and conduct and not for your fortune.
-Do not seek, shun, intrude yourself into, or run away from your former superiors.
-They may be hurt at finding you their equal or even their superior.
-The impertinence of their pride might render their company too disagreeable.
-But if it should not, be assured that it is the best company you can possibly keep.
-
-If, by the simplicity of your unassuming demeanour, you can gain their favour and kindness, you may rest satisfied that: 
-- you are modest enough
-- your head has been not turned by your good fortune
-
-Factions tend to corrupt our moral feelings because it separates us from others
-
-83 The propriety of our moral feelings is easily corrupted when the indulgent and partial spectator is near and the indifferent and impartial one is far.
-
-
-
-84 Neutral nations are the only impartial spectators of the conduct of one independent nation towards another.
-
-But they are placed so far that they are almost quite out of sight.
-When two nations are in conflict, the citizen of each pays little regard to the feelings of foreign nations on his own conduct.
-
-His whole ambition is to obtain his fellow-citizens' approbation.
-
-They are all animated by the same hostile passions which animate himself.
-He can please them by enraging and offending their enemies.
-The partial spectator is very near.
-The impartial one is very far.
-
-Therefore, in war and negotiation, the laws of justice are very seldom observed.
-Truth and fair dealing are almost totally disregarded.
-Treaties are violated.
-
-The advantageous violation does not give any dishonour on the violator.
-The ambassador who dupes a foreign minister is admired and applauded.
-In all private transactions, the just man who disdains to take or give any advantage would be most beloved and esteemed.
-
-In those public transactions he is regarded as: 
-- a fool and an idiot, and
-- someone who does not understand his business.
-
-He always incurs his fellow-citizens' contempt and sometimes their detestation.
-
-In war, the laws of nations are frequently violated without the violator getting any considerable dishonour from his own fellow-citizens.
-
-The violator only regards their judgments.
-
-But most of those laws are laid down with very little regard to the most obvious rules of justice.
-
-One of the most obvious rules of justice is that the innocent should not suffer or be punished for the guilty.
-
-The innocent might be unable to help being somewhat connected or dependent on the guilty.
-
-In the most unjust war, only the rulers are commonly guilty.
-The subjects are almost always perfectly innocent.
-
-However, whenever it suits a public enemy's convenience, the peaceful citizens' goods are seized at land and sea.
-Their lands are laid waste.
-Their houses are burnt.
-
-They are murdered or captured if they resist.
-All this conforms perfectly to 'the laws of nations'.
+The longest life is very seldom enough to perfect this discipline.
  
 
-{{< s v="85" >}} The animosity of hostile civil or ecclesiastical factions, is often more furious than the animosity of hostile nations.
+<sup>65</sup> In all private misfortunes, pain, sickness, sorrow, the weakest man is immediately impressed with the view that visiting friends or strangers are likely to have on his situation.
 
-Their conduct towards one another is often more atrocious.
-The laws of faction have often been laid down by grave authors with less regard to the rules of justice than the laws of nations.
+Their view calls off his attention from his own view.
 
-The most ferocious patriot never stated it as a serious question, whether faith should be kept with: 
-- public enemies?
-- rebels?
-- heretics?
+His breast is somewhat calmed when they come into his presence.
 
-These are questions which have been often furiously agitated by celebrated civil and ecclesiastical doctors.
-Rebels and heretics are those unlucky persons who have the misfortune of being the weaker party.
-In a nation distracted by faction, there are very few who preserve their judgment untainted by the contagion.
-They seldom amount to more than a solitary individual here and there.
-He does not have any influence.
+This effect is produced instantaneously and mechanically.
 
-He is excluded by his own candour from the confidence of either party.
+But it does not last long with a weak man.
 
-He is one of the most insignificant men in the society because he might be one of the wisest.
+His own view of his situation immediately recurs on him.
 
-All such people are held in contempt and derision, frequently in detestation, by the furious zealots of both parties.
-A true party-man hates and despises candour.
+He abandons himself, as before, to sighs and tears and lamentations.
 
-In reality, the virtue of candour effectively disqualifies him the best for the role of a party-man.
-The real, revered, and impartial spectator, therefore, is at its farthest during the violence and rage of contending parties.
-To them, no such spectator exists anywhere in the universe.
+Like a child that has not yet gone to school, he tries to produce some harmony between his own grief and the spectator's  compassion.
 
-They impute all their own prejudices even to the great Judge of the universe.
-They often view that Divine Being as animated by all their own vindictive and implacable passions.
-Of all the corrupters of moral sentiments, therefore, faction and fanaticism have always been by far the greatest.
-
-
-{{< s v="86" >}} Our admiration for the man who continues to be firm under the heaviest and most unexpected misfortunes, always supposes that his sensibility to those misfortunes: 
-- is very great
-- requires a very great effort to command
-
-The man who was insensible to bodily pain, could deserve no applause from enduring the torture with perfect patience.
-
-The man born without the natural fear of death, could claim no merit from preserving his coolness during the most dreadful dangers.
-
-Seneca was a Stoical wise man who had such extravagant self command which was, in this respect, superior even to a god.
-The security of the god came from nature, which had exempted Him from suffering.
-But that the security of Seneca was his own benefit.
-It was derived altogether from himself and from his own exertions.
+He does this by importunately calling on the spectator instead of moderating his grief.
  
 
-{{< s v="87" >}} However, the sensibility of some men to some of the objects which immediately affect themselves, is sometimes so strong as to render all self-command impossible.
+<sup>66</sup> With a firmer man, the effect is somewhat more permanent.
 
-No sense of honour can control the fears of the man upon the approach of danger.
+He tries, as much as he can, to fix his attention on the view which the visitors are likely to take of his situation.
 
-Such weakness of nerves might not be cured by gradual exercise and proper discipline.
-Such weakness should never be trusted or employed.
+At the same time, he feels their natural esteem and approbation for him when he preserves his tranquility.
+
+Though under the pressure of some great calamity, he appears to feel for himself no more than what they really feel for him.
+
+He approves and applauds himself by sympathy with their approbation.
+
+His pleasure from this enables him more easily to continue this generous effort.
+
+In most cases, he avoids mentioning his own misfortune.
+
+If his visitors are tolerably well bred, they would not anything which can remind him of it.
+
+He tries to: 
+- entertain them in his usual way on indifferent subjects or
+- if he feels himself strong enough to venture to mention his misfortune, he tries to talk of it as he thinks they are capable of talking of it.
+
+He even feels it no further than they are capable of feeling it.
+- if he has not been well inured to the hard discipline of self-command, he soon grows weary of this restraint.
+
+A long visit fatigues him.
+
+Towards its end, he is constantly in danger of abandoning himself to all the weakness of excessive sorrow.
+
+He always does this when the visit is over.
+
+Modern good manners are extremely indulgent to human weakness.
+
+For some time, they forbid the visits of strangers to persons under great family distress.
+
+They only allow the visits of nearest relations and most intimate friends.
+
+The presence of intimate friends is thought to impose less restraint than the presence of the nearest relations.
+
+The sufferers can more easily accommodate themselves to the feelings of those, from whom they have reason to expect a more indulgent sympathy.
+
+Secret enemies are frequently fond of making those charitable visits as early as the most intimate friends.
+
+In this case, the weakest man in the world tries to support his manly countenance.
+
+He tries to behave with as much gaiety and ease as he can, from indignation and contempt of their malice.
+ 
+
+<sup>67</sup> The man of real constancy and firmness is the wise and just man who has been thoroughly bred in: 
+- the great school of self-command
+- the bustle and business of the world
+
+He has been perhaps exposed to: 
+- the violence and injustice of faction
+- the hardships and hazards of war
+
+Such a man always maintains this control of his passive feelings.
+
+He wears nearly the same countenance whether in solitude or in society.
+
+He is affected very nearly in the same manner.
+
+He has often been under the necessity of supporting this manhood: 
+- in success and in disappointment
+- in prosperity and in adversity before friends and enemies
+
+He has never dared to forget for one moment the judgment which the impartial spectator would pass on his sentiments and conduct.
+
+He has never dared to suffer the man within the breast to be absent one moment from his attention.
+
+With the eyes of this great inmate he has always been accustomed to regard whatever relates to himself.
+
+This habit has become perfectly familiar to him.
+
+He has been in the constant practice and under the constant necessity of modelling or of trying to model: 
+
+- his outward conduct and behaviour
+- even his inward sentiments and feelings as much as he can, according to those of this awful and respectable judge.
+
+He does not merely affect the sentiments of the impartial spectator.
+
+He really adopts them.
+
+He almost identifies himself with it.
+
+He almost becomes himself that impartial spectator.
+
+He even only feels what that great arbiter of his conduct directs him to feel.
+

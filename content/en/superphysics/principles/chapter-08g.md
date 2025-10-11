@@ -1,261 +1,179 @@
 ---
-heading: "Chapter 8g"
-title: "What is Socratic Dialectics?"
-date: 2019-01-02
-weight: 610
-a: "Socrates"
-c: "steelblue"
-description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
+heading: Chapter 8g
+title: "The Meaning of Red Herring, Ad Hominem, etc"
+date: 2020-09-29
+image: /graphics/logic/truth.jpg
+description: "We explain the meaning of common fallacies by removing the jargon"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+weight: 508
+icon: "Juan"
+# aliases:
+#   /superphysics/fallacies/red-herring
 ---
 
 
-{{< dc t="Principles (click to expand)" >}}
-Principle | Assertion
---- | ---
-The Positive Force is Superior to the Negative | Socratic Dialectics uses the Positive Force to sort through the belligerence of the Positive and Negative within the 5 Layers
-{{< /dc >}}
+
+People sometimes use strange jargon like “red herring” or ‘Occam’s razor” when they try to disprove arguments that they don’t like. Such words then force the other side to do research on what those jargon mean. This can potentially waste a lot of time since there are a lot of fallacies. 
+
+These fallacies were merely created by academics for the sake of creating something, just as mathematicians create paradoxes, and theoretical physicists create useless theories because thinking is part of their job.
+
+Socrates was aware of such useless thinking and so he classified the output of all logic into either truth, falsehood, or sophistry. I combined this with David Hume’s definitions to visualize them.
 
 
-The previous chapter explained Critical Thinking and Critical Feeling. 
+## Truth vs Fallacy
 
-- Critical thinking is the application of the intellect with added effort in order to push against, or break through, the limitations imposed by the Negative Force
-- Critical feeling is the application of the feelings with added effort in order to go outside of the ego or the feeling of the self which is also a result of the Negative Force
+{{< img src="/graphics/logic/truth.jpg" alt="Fallacy diagram" cap="A fallacy is something that cannot be perceived by anyone in either the physical or metaphysical domains" >}}
 
-These two are used to solve problems. 
-- Critical thinking is usually for intellectual and physical problems
-- Critical feeling is usually for social and psychological ones
+<!-- ![](https://sorasystem.sirv.com/graphics/f-truth.jpg) -->
 
+<!-- https://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg
+https://sorasystem.sirv.com/graphics/f-attack.jpg
+https://sorasystem.sirv.com/graphics/f-circ.jpg
+https://sorasystem.sirv.com/graphics/f-circr.jpg
+https://sorasystem.sirv.com/graphics/f-cut.jpg -->
 
-Superphysics combines both and packages them around *dharma* or true nature in order to create a problem-solving tool which we call **Socratic Dialectics**.
+A truth is a direct relation and equivalence of a metaphysical idea to a physical reality or manifestation. 
 
+A fallacy is a non-equivalence. “Unicorns exist” is true if they are perceivable by all and false if not perceivable.
 
-## Dialectics is to Nature as Socratic Dialectics is to True Nature
+A truthful logic leads to an idea that everyone can perceive or exist in reality. 
 
-Ordinary Dialectics is an expanded way of analysis that based on the ego.
+A false logic directly leads to an idea that does not exist or cannot persist (just as some subatomic particles exist only for a few nanoseconds). These are called “formal fallacies”
 
-<!-- , instead of the Supreme or the True Nature of Things.  -->
-
-<!-- ## The Original Dialectics, Based on the Nature of Things
-
- or David Hume's science of man, -->
-
-The Dialectics of Socrates, on the other hand, is a system of analysis based on the invisible metaphysical True Nature or Dharma or Tao* of anything that exists in reality.
-
-{{< box >}}
-#### Dharma versus Tao versus tao
-- "Dharma" is the passive version. An analogy is source code before it is deployed.
-- "The Tao" is the active 'flowing' version. An analogy is the logic in the app after it is deployed or is online.
-
-Both have reference to metaphysical causes or the Supreme Entity. 
-
-- "dharma" and "tao" are the ordinary version in nature. 
-
-Similarly, 'True Nature' is anchored in something Divine and invisible, while 'nature' is what is ordinarily inherent.
-{{< /box >}}
+{{< img src="/graphics/logic/sophistry.jpg" alt="Sophistry diagram" cap="A sophistry is a logic that is true only to some people from a limited perspective. It is not true universally or all the time even if it is believed to be universal and constant" >}}
 
 
-You could say that:
-- Dialectics is from the perspective of the limited self
-- Socratic Dialectics is from the perspective of the Universe or Existence or the Totality of Selves* (which the self is a part of). 
+A sophistry is a train of ideas that leads to a fallacy. An example is: “The economy will grow fastest if capital gains taxes are abolished.” Sophistries are now called “informal fallacies”
 
-{{< f f="*The Hindus call this totality as Brahma." >}}
+Fallacies are easy to detect because there is no long train of ideas to confuse the mind. But sophistries are harder because of the long logic. In order to simplify them, common English words can be used instead of jargon below.
 
-
-
-Problems begin when something does not keep in line with its nature. For example:
-- loading a pickup truck with 2 tons when it was only designed for 1 ton will cause problems
-- eating too much too fast will lead to stomach problems
-- installing an app that requires 2GB RAM on a device with only 1GB RAM will lead to errors
-
-Superphysics aims to solve real-world problems by:
-- finding the true nature, dharma, or tao of the elements of the problem
-- tracing the events or circumstances that caused those elements to veer off of its nature  
-- suggest ways to get back to that 'natural' or proper state
+<!-- > Solution: Give a real-world example that refutes the fallacy -->
 
 
-![Socrates' profile](/covers/socrates.jpg)
+### “Misdirection” instead of “Red Herring”
+
+![Red-herring diagram](/graphics/logic/misdirection.jpg)
+
+A misdirection uses the natural relation of two related ideas to misdirect the logic onto a fallacy. An example is: “Children are our future, so we must raise taxes for a better future.”
+
+> Solution: Crush the misdirecwtion
 
 
-Socrates calls this Dharma or Tao as the first principle or True Nature of anything that exists in the physical domain (observable by the five senses). This Dharma, Tao, or True Nature itself resides in the invisible metaphysical domain of ideas and feelings. 
+### “Specific Misdirection” instead of “Straw Man”
 
-You cannot see your ideas and feelings. Instead, you can make them 'real' in the physical domain by expressing them physically:
-- speaking
-- drawing
-- acting out 
-- writing, etc  
+{{< img src="/graphics/logic/sophistry.jpg" alt="Specific Misdirection" >}}
+
+<!-- ![Straw man diagram](/graphics/lgoichttps://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg) -->
+
+A specific misdirection is a misdirection that resolves into a specific idea. Examples are: 
+- Children are our future, so we must raise taxes to fund all children’s programs.
+
+> Solution: Same as above
 
 
-{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7, Chapter 4" >}}
-Dialectic alone goes directly to the first principle. It is the only science which does away with hypotheses in order to make her ground secure. By her gentle aid, she lifts up the eye of the soul which is literally buried in an outlandish slough. She uses as handmaids and helpers the sciences in the work of conversion. Custom calls them sciences. But they should have some other name implying greater clearness than opinion and less clearness than science. We called this "understanding".
+### “Fake Dilemma” instead of “False Dichotomy"
+
+{{< img src="/graphics/logic/dilemma.jpg" alt="Fake dilemma”" >}}
+
+A fake dilemma forks away from the truth. Examples are: 
+- "Children are our future. Either we give them everything they need or give them nothing at all." 
+- "You can either get married or be alone for the rest of your life"
+
+<!-- tu quoque --> 
+
+> Solution: Mention a third option
+
+
+### “Personal Attack” instead of “Ad hominem”
+
+{{< img src="/graphics/logic/attack.jpg" alt="Personal Attack" >}}
+
+A personal attack goes outside of the ideas in the logic and goes to the other party instead, as an idea in itself. An example is: 
+- “You’ve never had children so your advocacy against children’s programs is wrong.”
+
+> Solution: Re-divert back to the topic
+
+
+### “Circular Answer” instead of “Begging the Question”
+
+{{< img src="/graphics/logic/circle.jpg" alt="Circular Answer" >}}
+
+A circular answer answers itself. An example is: 
+- “Children are the future because children are the future.” 
+
+The real answer is arbitrary depending on the person’s mind.
+
+> Solution: Ask why he feels that way
+
+
+### Circular Reasoning
+
+{{< img src="/graphics/logic/circular.jpg" alt="Circular Reasoning" >}}
+
+A circular reasoning is a circular answer that goes through other ideas before coming back to itself. This is similar to how a specific misdirection is a long version of a misdirection. 
+
+An example is:
+- “Children are the future because we ourselves were children in the past”
+
+> Solution: Same as circular answer
+
+
+### “Cutting to the Chase” instead of “Occam’s Razor”
+
+{{< img src="/graphics/logic/cut.jpg" alt="Cutting to the Chase" >}}
+
+Cutting to the chase goes direct to the cause and effect by disregarding superfluous ideas. All reasoning is based on feelings and so cutting to the chase goes to the more direct relation of cause and effect by taking into account the feeling of the other person.
+
+> Solution: Simplify his reasoning
+
+
+### “Doesn't Follow" instead of “Non-sequitir”
+
+{{< img src="/graphics/logic/follow.png" alt="“Doesn't Follow" >}}
+
+Something is unconnected to an idea if it doesn't naturally follow it. Unlike misdirection, the premise was not built up. Instead an idea is connected immediately to another idea.
+
+An example is:
+- "The influx of Mexican immmigrants influenced the mask mandates of the federal government.“ 
+
+> Solution: Give real-world examples
+
+
+## An Easy Way to Prevent Errors 
+
+An easy way to prevent errors is to withhold judgement or conclusions until all the relevent information is obtained. This is explained best by Descartes.
+
+{{< q a="Rene Descartes" >}}
+Whenever I do not perceive the truth clearly, I simply suspend judgment in order to avoid error.
 {{< /q >}}
 
+For example, if your spouse or partner does not reply to your messages or answer your calls, do not let your mind jump to a false conclusion that he or she is cheating on you. Instead, calm your feelings down and get more information. 
 
-### Built to Solve Problems
 
-Unlike spiritual theories which are often useless, Socratic Dialectics is meant to solve real world problems. This makes it more in line with science and technology than philosophy. 
+## How to Counter Sophistry
 
-{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7, Chapter 4" >}}
-The Pythagoreans who have enquired about harmony are as wrong as the astronomers.
-They investigate the numbers of the harmonies which are heard. But they never apply them to problems. They never reach the natural harmonies of number, or reflect why some numbers are harmonious and others are not.. Their pursuit will be valuable for our objects if all these studies reach the point of inter-communion and connection with one another and become considered in their mutual affinities. Until then, there is no profit in pursuing them.
+All of these then imply that all sophistries and fallacies are caused by humans having different or uncontrolled feelings.
+- “He advocates children’s programs because he loves children.”
+- “Einstein created hidden variables theory because he felt that God shouldn’t play dice with the world.”
+
+Since all sophistries arise from the natural variation in feelings among all humans, does this mean that more and more arguments, and subsequently more and more chaos will arise as time passes? If people feel the desire for chaos, then it will. An example of growing chaos is the Seven Years’ War leading to the Napoleonic wars, which led to World War I and then World War II, each with more deaths than the war that came before.
+
+But if people feel the need for peace and order, then they can create a solution to sophistry, perpetual arguments, and chaos. Socrates' solution is called dialectics — a system of logic that has a goal that everyone agrees to. With dialectics, the parties don’t push their own egos and argue endlessly. 
+
+In the non-dialectic system of debate, people just push their own egos without coming to any synthesis of ideas. But with dialectics, they agree to surrender their egos from the very beginning in order to eventually synhesize their minds and come up with a real solution.
+
+{{< img src="/graphics/logic/dialectics.jpg" alt="Debate vs Dialectics" cap="Diffcult disagreements (caused by conflicting aethereal ideas) can be easily resolved by tapping into the spacetime layer (giving it time)" >}}
+
+
+
+So if you’re arguing with someone endlessly without any compromise, it simply means that his ego only feels for himself and his own ideas and has no desire to reduce itself. Normally, this is solved by disconnecting from that person in order to avoid his toxic ego. 
+
+But if that person is your boss or the president of your country, then without any system of dialectics, the only choices are to stay and accept the problem or leave to find a new boss or country. Therefore, it would make sense for stability-loving people to advocate dialectics as early as possible. 
+
+Socrates suggests it be taught to people 30 years old and above:
+
+{{< q a="Socrates" c="Republic Book 7" >}}
+Therefore, that your feelings may not be moved to pity about our citizens who are now thirty years of age, every care must be taken in introducing them to dialectic. 
 {{< /q >}}
-
-
-
-## Science and Math versus Socratic Dialectics and Data Science
-
-Current science is totally based on the physical perceptions of things that already exist. This makes it the opposite of metaphysics which is totally based on invisible perceptions as ideas and feelings.  
-
-
-{{< q a="Adam Smith" c="Origin of Philosophy Simplified" >}}
-Archyta invented the Categories. He may be regarded as the founder of ancient Dialectics.<br><br>The opinions of Empedocles coincide with those of Aristotle. Empedocles authored the doctrine of the Four Elements. He may be regarded as the founder of [its rival] ancient Physics*.
-{{< /q >}}
-
-
-
-{{< f f="*Superphysics marries the invisible metaphysics of Archyta with the visible physics of Empedocles." >}}
-
-
-Science uses math to plot the patterns of its  physical perceptions. From those patterns, it tries to work back to the cause.
-
-The problem here is that **all causes are metaphysical in nature, since all causes are based on ideas and feelings**
-
-- Terrorism is caused by the angry feelings of the terrorist and the idea to use bombs to express his anger
-- Supertyphoons are caused by the feelings of heat by the planet <!-- ideas of thermodynamics leading to the compound idea of --> as global warming
-- Covid is caused by the idea of coronaviruses which are felt as symptoms of coughing, fever, loss of taste, etc. Before science, epidemics were thought to be caused by evil spirits of unknown cause. Both science and non-science are ignorant* of the root cause of such viruses and evil spirits. 
-
-
-{{< f f="*Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covid-star), just like all matter comes from supernovae (star explosion). This is in line with the ancient 5 Elements model and is what Kepler's data-driven astrology was trying to prove. Unfortunately, science only took his astronomical observations, as Kepler's Laws. You could think of stars and supernovae as the 'deploy' phase of the aethereal ideas of the Supreme onto reality." >}}
-
-
-
-Math, on the other hand, is confined to physical perceptions. The best that math and science can do is to speculate on the causes of problems based on the pattern of effects. It's like a blind man groping in the dark to discover where he is or what's around him. 
-
-For example, science knows that global warming is caused by greenhouse gas emissions. But it is helpless in actually solving those emissions which is rooted in the love for the causes of emissions:
-- the love of eating meat
-- the love of electricity and oil
-- the love of clearing ugly forests to build beautiful real estate
-- and so on 
-
-
-{{< img src="/graphics/science.jpg" alt="Science versus Dialectics" cap="Science uses Math to drill down to an answer. Superphysics uses Dialectics first to think out of the box and gather all ideas about the nature of the problem and then uses math and logic, as data science, to drill down to the best answer" >}}
-
-
-{{< q a="Socrates" c="The Republic Book 7" >}}
-Surely the skilled mathematician is not a dialectician.
-{{< /q >}}
-
-
-
-### The Dialectical Upgrade
-
-Dialectics is an upgrade of current science. It not only finds patterns in physical perceptions and facts, but also in metaphysical perceptions as the feelings, opinions, and interpretation of the facts by other minds*.
-
-
-{{< f f="*Recall that we [divided reality into the physical and metaphysical domains](/superphysics/principles/chapter-01). Physical things exist in the former, while metaphysical things, such as ideas and feelings, exist in the latter. Metaphysics is the cause, physics is the effect. The soul is the cause, brain activity is the effect. The chakras are the cause, the hormones are the effect." >}}
-
-
-Science only deals with the interpetation of a dataset. But Dialectics deals with **all possible interpetations** of a dataset. 
-
-By getting all the data, as well as all the interpretations of the data, then total knowledge is achieved. 
-
-
-{{< img src="/graphics/socdialectics.jpg" alt="Socratic dialectics" cap="The Dialectics of Aristotle is merely based on a thesis. The Dialectics of Socrates is based on the True Nature of a thing as it was designed by the Supreme" >}}
-
-
-But not all data is useful, just as not all interpretations are valid. To solve this, Socratic Dialectics uses wise minds to churn, project, then weed out the bad data and interpretations to preserve only the good and solid ones. Such minds have a more solid grasp of both metaphysics and physics or science and have no bias. 
-
-Socrates does this churning process as the **Socratic method** wherein a wise mind takes an idea from a theorist and then walks forward with the theorist's mind towards the projected effect of his idea, or backwards in order to discover the cause together.
-
-The natural contradiction between the metaphysical and physical dimensions then manifest as the "contradictions" which Hegel emphasized. 
-
-
-{{< q a="Socrates" c="The Republic by Plato Simplified" >}}
-A person will find himself at the top of the intellectual world when he tries to discover the absolute by the light of reason only [via intution], without the help of the senses, and perseveres by pure intelligence until perceives the absolute good [dharma or tao]. This is the same as the sight that has seen the visible. This progress is called dialectic.
-{{< /q >}}
-
-
-{{< q a="Parmenides" c="Parmenides by Plato Simplified" >}}Yes but I think that you should go a step further, and <i>consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis.</i>
-{{< /q >}}
-
-
-Nowadays, this manifests as peer reviews where new theories and interpretations are filtered out by senior academics* who are supposed to have a better grasp of principles.  
-
-{{< f f="*In contrast to scientific peer reviews where the academic is a master of material principles, dialectical peer reviews are done by senior metaphysicians (dialecticians) who have a solid grasp of both Eastern and Western metaphysics. Unlike the academic who is verified by a man-made PhD, the seniority of a Socratic dialectician is verified by his track record of predicting things correctly (ideas matching reality)." >}}
-
-
- <!-- For example, he can predict that a policy on mask-wearing will be accepted by City A but rejected by City B.  -->
-
-
-Inferior theorists, such as Kant, would likely be filtered out by such minds. This explains why Kant attacked Dialectics: 
-
-{{< q a="Kant" c="Critique of Pure Reason Simplified, Part 2, Introduction" >}}
-Dialectics is a logic of illusion. It is a sophistical art for giving ignorance and intentional sophistries.. it teaches us nothing regarding the content of our cognitions. It merely shows the formal conditions of their accordance with the understanding, which do not relate to and are quite indifferent in respect of objects. Any attempt to employ it as a tool to extend our knowledge must end in mere nonsense since anyone can oppose any assertion.
-{{< /q >}}
-
-
-<!-- > *For example, the collapse of the USSR clearly shows that the ideas of Marx and Lenin were wrong. Thus, they can never be regarded as Socratic dialecticians. On the other hand, the ideas of The Prophet Mohammad, Jesus, and Buddha have persisted and flourished. These prove that they are in line with the True Nature of things.  -->
-
-
-
-The distillation of the total knowledge then leads to a single pattern knowledge called **principles** which form the foundation of Superphysics.
-
-<!-- A product of the distillation of the knowledge* of Western and Eastern philosophy then produces universal and timeless principles which we call The Metaphysics of Things or MoT. -->
-<!-- https://play.google.com/store/books/details/['Juan']_Dalisay_Jr_The_Metaphysics_of_Things_Book_1?id=JY3tDwAAQBAJ -->
-
-Unlike metaphysical principles which are purely theoretical, the principles must survive in physical reality, either as actual evidence, demonstrations, or successful predictions.
-
-{{< dc t="Update: December 2021" >}}
-Below are examples of real-world evidence.
-
-Science | Evidence
---- | ---
-Bio Superphysics | The success of traditional Chinese medicine against Covid, relative to their total lack in the West
-Economic Superphysics | The correct prediction of the crisis years starting in 2019 onwards, relative to a prediction of a recovery in 2021 from pent-up demand and vaccine success
-Social Superphysics | The low cases of mass shootings, conflict, and revolutions in Asia, relative to the Americas and Africa
-Material Superphysics | The prediction that fusion will not work because artificial gravity has not been discovered yet
-{{< /dc >}}
-
-
-
-### The Socratic Dialogue as Relationality Implemented
-
-Cartesian Relationality is a key concept in Superphysics which focuses on the relation or relativity between 2 identities. 
-
-This relation is the effect of the differences or similarities between the gravitational signature or dharma of 2 identities. 
-
-Identities interact with each other because they have some wave in common. For example, in our physical reality, every single thing that we experience has some physicality coded in one of its many waves, since every identity is a compound idea. 
-
-This means there are other perceptions that we cannot have because they do not have physicality in their waves. 
-
-The fact that things come into our perception means that they have some thing in common with us and our own bunch of waves. 
-
-We know how such things are related to us by observing them. We call this passively getting the waves from that identity. 
-
-The problem is that some waves are deep and need effort to be revealed. Ths is where probing comes into the picture.
-
-We probe:
-- a rock by tapping it with a metal rod
-- a body of water by dipping our feet in
-- a fruit by pressing it with our fingers
-
-These probing actions inject contact between us with the other identity or object. 
-
-This contact then creates a feedback to our own minds that creates am aethereal relation between us and the identity. 
-
-For physical things, we use physical objects like a metal rod, our feet and fingers. 
-
-For metaphysical things such as souls, we use our own souls. For example, we talk to a person to get feedback from his mind or soul. 
-
-If we try to talk to a rock, we will not get any feedback because the soul of the rock is undeveloped and cannot make independent expressions. 
-
-So talking to another man lets us build the relation between him and our own soul. We can probe this relation better if we ask him questions. 
-
-{{< i s="/photos/social/family.jpg" a="Dinner" c="Talking to other humans builds relations" >}}
-
-
-This is what Socrtatic Dialectics does. This technique was also used in the Bhagavad Gita and the Analects by Confucius.
-

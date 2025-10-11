@@ -12,6 +12,14 @@ writer:
 ---
 
 
+
+{{< b >}}
+Principles | Concepts Introduced
+--- | ---
+The Materialist View is Negative | Positive, Negative, Microscope Thinking, Materialist Disease, Crude Stratum
+{{< /b >}}
+
+
 The current prevailing belief among humans is that material phenomena is the cause of mental phenomena. 
 
 This is best explained by Karl Marx.
@@ -35,17 +43,30 @@ We call this the materialist perspective, as the opposite of the spiritual which
 
 The materialist mirrors the qualities of the Negative Force as being forceful, rigid, static, and selfish.
 
-This is beceause the main duty of the Negative is to divide and isolate in order to focus perceptions into a single point of Existence that preserves **itself**, just as the Positive is subtle, expansive, dynamic, unifying, and all-embracing to spread perception to all of Existence to preserve **all**. This will be explained in Chapter 3.
+This is because:
+- the main duty of the Negative is to divide and isolate in order to focus perceptions into a single point of Existence that preserves **itself**
+- the main duty of the Positive is to spread perception to all of Existence to preserve **all**.
+  - This is why the Positive is subtle, expansive, dynamic, unifying, and all-embracing. This will be explained in Chapter 3.
 
 In other words:
 - materialists are selfish and specialization or thinking in silos
 - the spiritual are selfless and holistic thinking or interdisciplinary
 
 
-This materialist selfishness is echoed by Ayn Rand, the Objectivist:
+This materialist selfishness is echoed by Ayn Rand, the Objectivist, Charles Darwin, and John Stuart Mill:
 
 {{< q a="Ayn Rand" c="Critique of Political Economy, Preface" >}}
 Objectivist ethics proudly advocates and upholds rational selfishness. Rational selfishness is made up of the values required for human survival.
+{{< /q >}}
+
+
+{{< q a="Charles Darwin" c="On the Origin of Species" >}}
+The differences between genera are caused by the struggle for life. All variations are for self-preservation. These will generally be inherited by its offspring.
+{{< /q >}}
+
+
+{{< q a="John Stuart Mill" c="Utilitarianism" >}}
+According to the Greatest Happiness Principle, the ultimate end is an existence exempt from pain, and as rich in enjoyments, both in quantity and quality.
 {{< /q >}}
 
 

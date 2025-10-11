@@ -23,6 +23,8 @@ description: "We sympathize with the joy of our loved ones when in prosperity"
 - An action deserves reward if everybody who knows of it would wish to reward it.
 - An action deserves punishment if everybody who hears it becomes angry with it and wishes to see it punished. -->
 
+
+
 {{< s v="13" >}} We sympathize with the joy of our loved ones when in prosperity. 
 
 When we see one man assisted, protected, relieved by another, our sympathy with the beneficiary's joy animates our fellow-feeling with his gratitude to his benefactor. We therefore readily sympathize with his gratitude and applaud the returns he makes to his benefactor.
@@ -35,7 +37,7 @@ We consequently applaud the returns he is disposed to make for the good offices 
 As we entirely enter into this sentiment, it necessarily seems suitable to its object in every way. -->
 
 
-### The Origin of Superstition and Ghosts
+## The Origin of Superstition and Ghosts
 
 {{< s v="14" >}} In the same way, we sympathize with our fellow-creature's abhorrence for whatever has caused his distress.
 

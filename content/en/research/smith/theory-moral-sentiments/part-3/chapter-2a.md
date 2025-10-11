@@ -31,7 +31,11 @@ icon: "Adam Smith"
 Emulation is the anxious desire that we ourselves should excel.
 - It is originally founded in our admiration of the excellence of others.
 
-We are not satisfied with being merely admired for what other people are admired. We ourselves must be admirable for what they are admirable. To do this, we must: 
+We are not satisfied with being merely admired for what other people are admired. 
+
+We ourselves must be admirable for what they are admirable. 
+
+To do this, we must: 
 - become the impartial spectators of our own character and
 - view it as other people would.
 

@@ -143,5 +143,4 @@ You might be perfectly grateful and justly refuse to lend him a halfpenny. On th
 
 However, the duties of gratitude are perhaps the most sacred of all those prescribed to us by the beneficent virtues. The general rules which determine those duties are the most accurate. Those rules which ascertain the actions required by friendship, humanity, hospitality, generosity, are still more vague.
  
-The general rules are precise with the virtue of Justice
-
+The general rules are precise with the virtue of Justice.

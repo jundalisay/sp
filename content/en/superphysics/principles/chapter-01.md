@@ -7,25 +7,26 @@ weight: 5
 image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
 icon: "Superphysics"
+tags: ["domains"]
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
-{{< dc t="Principles (click to expand)" >}}
-Principles | Assertions
+{{< b >}}
+Principles | Concepts Introduced
 --- | ---
-There are 2 Domains in Reality | 
-{{< /dc >}}
-
+There are 2 Domains in Existence | Physical and Metaphysical Domain
+{{< /b >}}
 
 
 {{< youtube TpN23dGFcSA>}}
 
-We know the existence of thing through our perceptions of it. Each perception has two aspects:
-- physical
-- metaphysical
+We know the existence of thing through our perceptions of it. Each perception has 2 aspects:
+
+1. Physical
+2. Metaphysical
 
 For example, when we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
 

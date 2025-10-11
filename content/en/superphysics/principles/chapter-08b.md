@@ -2,7 +2,7 @@
 heading: "Chapter 8b"
 title: "The Thinking Process"
 date: 2020-12-06
-image: /photos/psych/self.jpg
+image: /graphics/psych/think.jpg
 weight: 484
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
@@ -10,7 +10,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 ---
-
 
 
 The previous section explained the 3 Actions of the Mind. 

@@ -13,6 +13,14 @@ writer:
 
 
 
+
+{{< b >}}
+Principles | Concepts Introduced
+--- | ---
+The Natural View is Positive | Natural View
+{{< /b >}}
+
+
 The previous section exposed the materialist view as the dominant, but wrong view of reality and how the universe works. 
 
 We correct this with a  natural holistic view of the universe as something that is infinite and eternal. 
@@ -63,7 +71,7 @@ The natural or spiritual view of the universe, on the other hand:
 {{< i s="/graphics/super/free.jpg" a="Natural" c="The natural view frees the mind from limitation so that it can solve problems more conclusively" >}}
 
 
-## So What's the Use of the Natural View of the Univese?
+## So What's the Use of the Natural View of the Universe?
 
 The natural view gets rid of the limitations imposed by the materialist view and expands mentality into the invisible aether. 
 

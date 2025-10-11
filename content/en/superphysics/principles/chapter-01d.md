@@ -13,6 +13,17 @@ icon: "Superphysics"
 ---
 
 
+
+
+{{< b >}}
+Principles | Concepts Introduced
+--- | ---
+Existence is made up of 3 kinds of spaces | Waves, Reality, Brahma (Supreme Entity) as Existence, Existence/Identity/Perception Spaces
+Superiority of the Metaphysical |
+{{< /b >}}
+
+
+
 The previous section explained the 2 domains of reality as the physical and metaphysical.
 
 Reality is an effect of perception. 
@@ -24,7 +35,6 @@ The resulting existence is called Brahma including visible, invisible, and physi
 {{< i s="/graphics/super/absolute.svg" a="The Absolute" c="The metaphysical domain is much much larger than the physical domain despite having no physical size" >}}
 
 For those who are allergic to religion and think that Brahma is a religious word, we can use the layman term **Totality of Existence**, or Existence with a capital 'e', instead. 
-
 
 
 To know Itself, the Absolute Entity expresses ideas and feelings which then converts Itself into the Supreme Entity with an abstract space for that expression.  

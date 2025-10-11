@@ -4,7 +4,7 @@ title: "Qualimath Decon Notation: Solving the Measurement Problem"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
 weight: 502
-image: "/graphics/movement.png"
+image: "/photos/physics/phoenix.jpg"
 description: "Decon Notation helps make ratios understandable"
 icon: "Superphysics"
 math: true
@@ -15,17 +15,20 @@ writer:
 
 
 
-The root cause in the limitations in Physics (and consequently, in the technologies that humans can develop) is the limited ability of humans to perceive beyond the Radiant Layer (electromagnetism and light). 
+The root cause in the limitations in Physics (and consequently, in the technologies that humans can develop) is the seeming limited ability of humans to perceive beyond the Fire Element (electromagnetism and light).
+
+Beyond the Fire Element is the Air (Space and Time) and the Aether Elements (Idea).
+- These 2 Elements are totally subjective and dynamic.
 
 <!-- The real cause of the absurdity is the scientific decree to make things measurable.  -->
 
-Objective measurements are based on light giving our natural light-detectors (eyes) objective information. 
+<!-- Objective measurements are based on light giving our natural light-detectors (eyes) objective information.  -->
 
-Beyond the Radiant Layer are the Spacetime and Aether layers where the measurements are naturally subjective. For example:
+For example:
 - The distance from House A to House B can be denoted in meters, yards, feet, etc.
 - An idea can be important to some, but not important to others.  
 
-We say that such measurements are subjective and heterogenous and thus are more qualitative instead of quantitative or homogenous. 
+We say that such measurements are subjective and heterogenous. Thus, they are more qualitative instead of quantitative or homogenous. 
 
 {{< q a="PR Sarkar" c="Idea and Ideology, Chapter 3" >}}
 Hence, tanmátras [quantum-perceptions] are the waves produced by the objects as a result of reflection of the subtler bhúta [element or factor] on the cruder ones. Quantum-perceptions in the mathematical sense are **heterogeneous**, not homogeneous
@@ -33,14 +36,28 @@ Hence, tanmátras [quantum-perceptions] are the waves produced by the objects a
 
 
 We can say that: 
-- Materiality and Electromagnetism focus on quantitative particles
-- Space, time, and feelings focus on qualitative waves
+- The Fire and Earth Elements, as electromagnetism and atoms (strong force) focus on quantitative particles, and make up the Physical Domain
+- The Air and Aether Elements, as spacetime and ideas focus on qualitative waves, and make up the Metaphysical Domain
+
+The smallest measuring tool:
+- for the physical domain is the electron
+- for the metaphysical domain is idea
+
+Therefore, idea solves the measurement problem. 
 
 <!--  wich c as the ghighest kind of ruler. The wohole big giat problem is that the aetehr is above spacetime whtih itselfis above lectromagentism. So The aether is not measurebale by sight or electronic eqiupement fof the electomagneic layer and is onlyindirectly measurable by the spacetime layer. 
 
 This neesd a whole new math which we call qualimath which measures chanigng aetereal qualities instead of discrete material quantities.  -->
 
 <!-- We can further simplify math by  -->
+
+## Qualimath
+
+An idea is qualitative, not quantitive. 
+
+For example, the idea of demoracy has similar qualities to the idea of liberalism and the opposite qualities of tyranny.  
+
+The idea of demoracy is closer to the idea of economy than the idea of a potato. There is no way to quantify the difference between democracy and potato, or democracy as a system of government versus democracy as freedom. 
 
 We thus assign qualities to our deconstructed equations. 
 
@@ -112,7 +129,7 @@ To account for this mind-splitting behavior, <!--  make ratios and relationality
 
 
 
-{{< box >}}
+<!-- {{< box >}}
 ### The Theory of Universal Relationality
 
 This ratio represents our theory of "universal relationality*" which is represented in reality by [gravitational relationality](/material/principles/part-2/chapter-04), among others.
@@ -135,127 +152,6 @@ An example of the "hardness" of this dimension is the hardness of will of Russia
 In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will "soften" their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
 
 In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter.
-{{< /box >}}
+{{< /box >}} -->
 
-
-## The State Limiter
-
-In `1 + 1 = 2`, the mind sweeps from the left to the right. But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. It becomes an impartial spectator* of both sides or states.
-
-{{< f f="*This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts. Economics enshrines growth because it has imposed money-only as the means of transaction. The problem is that money is an inert and static thing that gets its value from being exchanged. This mindless, self-destructive, constant exchange gives movement, growth, and consequently value." >}}
-
-
-In this way, the formula of economist John Maynard Keynes for money supply `M` as being affected by liquidity preference `L` and interest rate `r` 
-
-```elixir
-M = Lr
-```
-
-becomes:
-
-
-```elixir
-M :: (L : r)
-```
-
-when deconstructed:
-
-```elixir
-money_supply :: (liquidity_preference : interest-rate)
-```
-
-This translates to "the money supply is totally dependent on the love of cash and the profits in lending (or cost of borrowing) cash"
-
-
-
-Likewise, Newton's gravity changes from 
-
-```elixir
-F = (Gm1m2)/r^2
-```
-
-into
-
-
-```elixir
-F :: (G (m1/r^2 : m2/r^2))
-```
-
-
-Notice how this isolates Newton's `G` away from the two masses being compared. 
-
-We then deconstruct it in Cartesian Physics further:
-
-<!-- `gravity between objects :: Gravitational_limiter (Mass1 / distance_between_them ^ 2 : Mass2 / distance_between_them ^ 2)` -->
-<!-- material-layer-gravitational-signature -->
-
-```elixir
-gravity_between :: (material_layer_limiter (matter_amount_in_identity1 / distance_between^2 : matter_amount_in_identity2 / distance_between^2)
-```
-
-This translates as "the pushing force of spacetime between 2 material identities depends on the quantity and quality of matter in them and their distance from each other."
-
-In future posts, we can apply the same technique to Maxwell's equations to show how the spacetime, radiant, and material layers work together to create Electromagnetism.  
-
-
-
-
-In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government) in order to reveal the natural price ratios from their own perspective. 
-
-The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Notice how this system does not require PEMDAS because of the allowance for mind-splitting behavior.
-
-
-## Math with a Practical and Moral Purpose Inspired by Al-Khwarizmi and Descartes
-
-
-The above decontstructed equation "`gravity_between`" gives us 2 benefits:
-
-1. Practical: It helps us *code* the equation more easily into procedures and algorithms
-2. Moral: It makes us think of `Mass1` and `Mass2` independently, and separate from its limiter
-
-Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on "Calculation by Completion and Balancing". 
-
-The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*.
-
-{{< img cap="Automated Natural Intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
-
-
-{{< n n="*The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion." >}}
-   
-
-An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Natural Intelligence](/superphysics/solutions/isaiah) (ANI) and is one of the goals of Superphysics.
-
-
-Qualimath will allow an AI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
-
-{{< n n="*The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores (Update 2024: This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics." >}}
-
-  
- 
-
-A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
-
-{{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}
-I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
-{{< /q >}}
-
-{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses Poincare's Law of Relativity which uses aethereal state-change instead of Einstein's Relativity which uses tensors" >}}
-
-
-
-Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 
-
-While the practical aspect is based on [Al-Khwarizmi](/research/musa/algebra/chapter-01), this moral aspect is based on Rene Descartes who invented exponents and the Cartesian plane, among others, from his realizations on how the mind works*, as well as David Hume from whom Adam Smith got his ideas.
-
-
-<!-- This is in line with the Hindus inventing zero to represent the existence of nothingness. Rather, zero implies that space is empty *but is actually meant by Nature to be filled* (since Nature abhors a vacuum). The Romans and the ancient Chinese did not have such an advanced metaphysical concept. Aristotle had, but did not seem to deploy it into reality.
-
-Qualimath also bridges modern math, which 'prefers' single integers or the small picture or 'micro', with ancient Egyptian math, which 'prefers' the large view or 'macro'. Thus, it harmonizes the different ways of looking at existence, making it more flexible and dynamic:
-
-- Modern math from the micro going macro
-- Ancient Egyptian math from the macro going micro
-- Hindu (Vedic) math grouping and scaling identities via zero 
- -->
-
- {{< n n="*We extend the Cartesian plane into two: [a physical one and a metaphysical one](/material/solutions/cartesian-view)" >}}
 
