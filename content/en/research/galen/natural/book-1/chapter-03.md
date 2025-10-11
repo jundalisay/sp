@@ -67,21 +67,28 @@ Thus we say that:
 If, therefore, we are to investigate methodically the number and kinds of faculties, we must begin with the effects; for each of these effects comes from a certain activity, and each of these again is preceded by a cause.
 
 
-## Chapter 5
+## Chapter 5: Substance
 
-The effects of Nature, then, while the animal is still being formed in the womb, are all the different parts of its body.
+While the animal is still being formed in the womb, the effects of Nature are all the different parts of its body.
 
 After it has been born, an effect in which all parts share is the progress of each to its full size, and thereafter its maintenance of itself as long as possible.
 
-The activities corresponding to the three effects mentioned are necessarily three—one to each—namely, Genesis, Growth, and Nutrition. 
+The activities corresponding to the 3 effects mentioned are necessarily 3, 1 to each:
 
-Genesis, however, is not a simple activity of Nature, but is compounded of alteration and of shaping.
+1. Genesis
+2. Growth
+3. Nutrition
 
-That is to say, in order that bone, nerve, veins, and all other [tissues] may come into existence, the underlying substance from which the animal springs must be altered; 
+Genesis, however, is not a simple activity of Nature.
+- It is compounded of alteration and of shaping.
 
-and in order that the substance so altered may acquire its appropriate shape and position, its cavities, outgrowths, attachments, and so forth, it has to undergo a shaping or formative process.
+The animal's underlying substance must:
+- be altered in order to generate that bone, nerve, veins, and all other [tissues].
+- undergo a shaping or formative process for that the substance may be so altered to acquire its appropriate shape and position, its cavities, outgrowths, attachments, etc
 
-One would be justified in calling this substance which undergoes alteration the material of the animal, just as wood is the material of a ship, and wax of an image.
+This substance is the material of the animal just as:
+- wood is the material of a ship
+- wax is the material of an image
 
 Growth is an increase and expansion in length, breadth, and thickness of the solid parts of the animal (those which have been subjected to the moulding or shaping process). 
 

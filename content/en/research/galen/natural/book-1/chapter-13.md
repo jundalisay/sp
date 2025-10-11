@@ -67,7 +67,7 @@ But:
 - the outer coat of the bladder springs from the peritoneum and is essentially the same as it
 - the inner coat, which is peculiar to the bladder, is more than twice as thick as the outer
 
-Perhaps, however, it is not the thickness or thinness of the coats, but the situation of the bladder, which is the reason for the vapours being carried into it? 
+Perhaps it is not the thickness of the coats, but the situation of the bladder which is the reason for the vapours being carried into it? 
 
 On the contrary, even if it were probable for every other reason that the vapours accumulate there, yet the situation of the bladder would be enough in itself to prevent this.
 
@@ -99,5 +99,7 @@ And some of them who had allowed themselves to be shown the ureters coming from 
 
 When, therefore, we had demonstrated to them the real spermatic ducts92 entering the neck of the bladder lower down than the ureters, we supposed that, if we had not done so before, we would now at least draw them away from their false assumptions, and convert them forthwith to the opposite view.
 
-But even this they presumed to dispute, and said that it was not to be wondered at that the semen should remain longer in these latter ducts, these being more constricted, and that it should flow quickly down the ducts which came from the kidneys, seeing that these were well dilated.
+But even this they dispute.
+
+They said that it was not to be wondered at that the semen should remain longer in these latter ducts, these being more constricted, and that it should flow quickly down the ducts which came from the kidneys, seeing that these were well dilated.
 

@@ -54,7 +54,7 @@ The principle of the refilling of a vacuum is a necessary addition if:
 - some other mechanism makes the blood go in all directions
 
 
-there will not, however, be a plethora in any of the parts coming after the liver,175 or, if there be, it will be in the region of the heart and lungs; 
+There will not, however, be a plethora in any of the parts coming after the liver, or, if there be, it will be in the region of the heart and lungs; 
 
 for the heart alone of the parts which come after the liver draws the nutriment into its right ventricle, thereafter sending it through the arterioid vein to the lungs (for Erasistratus himself will have it that, owing to the membranous excrescences, no other parts save the lungs receive nourishment from the heart).
 
@@ -64,28 +64,3 @@ Plethora comes about through the force of compression by the stomach to persist 
 This removes the need of the principle of the refilling of a vacuum, especially if we assume contraction of the veins in addition—as is, again, agreeable to Erasistratus himself.
 
 
-## Chapter 2
-
-I will refute those who object to the principle of attraction. 
-
-Nobody has explained any other cause or means for the secretion of urine.
-
-We would appear mad if we said that:
-- the urine passes into the kidneys as a vapour.
-- a vacuum is refilled;178
- - This idea is foolish in the case of blood
- - It is impossible and nonsensical in the case of the urine.179
-
-This is one blunder made by those who dissociate themselves from the principle of attraction.
-
-Another is that which they make about the secretion of yellow bile. For in this case, too, it is not a fact that when the blood runs past the mouths [stomata] of the bile-ducts there will be a thorough separation out [secretion] of biliary waste-matter. “Well,” say they, “let us suppose that it is not secreted but carried with the blood all over the body.” 
-
-But, you sapient folk, Erasistratus himself supposed that Nature took thought for the animals’ future, and was workmanlike in her method; and at the same time he maintained that the biliary fluid was useless in every way for the animals. Now these two things are incompatible. For how could Nature be still looked on as exercising forethought for the animal when she allowed a noxious humour such as this to be carried off and distributed with the blood?...
-
-This, however, is a small matter. I shall again point out here the greatest and most obvious error. For if the yellow bile adjusts itself to the narrower vessels and stomata, and the blood to the wider ones, for no other reason than that blood is thicker and bile thinner, and that the stomata of the veins are wider and those of the bile-ducts narrower, then it is clear that this watery and serous superfluity, too, will run out into the bile-ducts quicker than does the bile, exactly in proportion as it is thinner than the bile! 
-
-How is it, then, that it does not run out? “Because,” it may be said, “urine is thicker than bile!” This was what one of our Erasistrateans ventured to say, herein clearly disregarding the evidence of his senses, although he had trusted these in the case of the bile and blood.
-
-For, if it be that we are to look on bile as thinner than blood because it runs more, then, since the serous residue181 passes through fine linen or lint or a sieve more easily even than does bile, by these tokens bile must also be thicker than the watery fluid. For here, again, there is no argument which will demonstrate that bile is thinner than the serous superfluities.
-
-But when a man shamelessly goes on using circumlocutions, and never acknowledges when he has had a fall, he is like the amateur wrestlers, who, when they have been overthrown by the experts and are lying on their backs on the ground, so far from recognizing their fall, actually seize their victorious adversaries by the necks and prevent them from getting away, thus supposing themselves to be the winners!

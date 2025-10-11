@@ -11,7 +11,7 @@ c: "firebrick"
 
 The organs which have to do with the disposal of the nutriment, as also their faculties, exist for the sake of this nutritive faculty. 
 
-For since the action of this faculty55 is assimilation, and it is impossible for anything to be assimilated by, and to change into anything else unless they already possess a certain community and affinity in their qualities,56 therefore, in the first place, any animal cannot naturally derive nourishment from any kind of food, and secondly, even in the case of those from which it can do so, it cannot do this at once. 
+For since the action of this faculty is assimilation, and it is impossible for anything to be assimilated by, and to change into anything else unless they already possess a certain community and affinity in their qualities, therefore, in the first place, any animal cannot naturally derive nourishment from any kind of food, and secondly, even in the case of those from which it can do so, it cannot do this at once. 
 
 Therefore, by reason of this law,57 every animal needs several organs for altering the nutriment. For in order that the yellow may become red, and the red yellow, one simple process of alteration is required, but in order that the white may become black, and the black white, all the intermediate stages are needed.58 
 
@@ -37,7 +37,11 @@ Nature, therefore had need of a second process of separation for the superfluiti
 
 Thus, then, you have discovered bodily parts of a second kind, consecrated in this case to the [removal of the] superfluities of the food. There is, however, also a third kind, for carrying the pabulum in every direction; these are like a number of roads intersecting the whole body.
 
-Thus there is one entrance—that through the mouth—for all the various articles of food. What receives nourishment, however, is not one single part, but a great many parts, and these widely separated; do not be surprised, therefore, at the abundance of organs which Nature has created for the purpose of nutrition. For those of them which have to do with Greek text alteration prepare the nutriment suitable for each part; others separate out the superfluities; some pass these along, others store them up, others excrete them; some, again, are paths for the transit62 in all directions of the utilisable juices. So, if you wish to gain a thorough acquaintance with all the faculties of Nature,63 you will have to consider each one of these organs.
+Thus there is one entrance—that through the mouth—for all the various articles of food. What receives nourishment, however, is not one single part, but a great many parts, and these widely separated; do not be surprised, therefore, at the abundance of organs which Nature has created for the purpose of nutrition. 
+
+For those of them which have to do with Greek text alteration prepare the nutriment suitable for each part; others separate out the superfluities; some pass these along, others store them up, others excrete them; some, again, are paths for the transit62 in all directions of the utilisable juices. 
+
+So, if you wish to gain a thorough acquaintance with all the faculties of Nature,63 you will have to consider each one of these organs.
 
 Now in giving an account of these we must begin with those effects of Nature, together with their corresponding parts and faculties, which are closely connected with the purpose to be achieved.64
 

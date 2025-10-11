@@ -9,11 +9,13 @@ c: "firebrick"
 ---
 
 
-Genesis results from alteration together with shaping.
+Genesis results from change with shaping.
 
-The seed having been cast into the womb or into the earth (for there is no difference), then, after a certain definite period, a great number of parts become constituted in the substance which is being generated; 
+The seed being cast into the womb is the same as being cast into the earth.
 
-These differ as regards moisture, dryness, coldness and warmth,35 and in all the other qualities which naturally derive therefrom.
+After a certain definite period, many parts become constituted in the substance which is being generated.
+
+These differ as regards moisture, dryness, coldness and warmth, and in all the other qualities which naturally derive therefrom.
 
 These derivative qualities, you are acquainted with, if you have given any sort of scientific consideration to the question of genesis and destruction. 
 
@@ -31,7 +33,11 @@ The name "sensible elements" is given to all the homogeneous parts of the body.
 
 These are to be detected not by any system, but by personal observation of dissections.
 
-Nature constructs bone, cartilage, nerve, membrane, ligament, vein, and so forth, at the first stage of the animal’s genesis, employing at this task a faculty which is, in general terms, generative and alterative, and, in more detail, warming, chilling, drying, or moistening; or such as spring from the blending of these, for example, the bone-producing, nerve-producing, and cartilage-producing faculties (since for the sake of clearness these names must be used as well).
+Nature constructs bone, cartilage, nerve, membrane, ligament, vein, and so forth, at the first stage of the animal’s genesis.
+
+Nature uses a generative and alterative faculty for this which is warming, chilling, drying, or moistening or such as spring from the blending of these.
+
+Examples are the bone-producing, nerve-producing, and cartilage-producing faculties (since for the sake of clearness these names must be used as well).
 
 The flesh of the liver is of this kind as well, also that of the spleen, that of the kidneys, that of the lungs, and that of the heart; 
 
@@ -45,7 +51,13 @@ Each of these 2 coats has an alterative faculty peculiar to it, which has engend
 
 Thus the special alterative faculties in each animal are of the same number as the elementary parts.
 
-The activities must necessarily correspond each to one of the special parts, just as each part has its special use—for example, those ducts which extend from the kidneys into the bladder, and which are called ureters; for these are not arteries, since they do not pulsate nor do they consist of two coats; and they are not veins, since they neither contain blood, nor do their coats in any way resemble those of veins; from nerves they differ still more than from the structures mentioned.
+The activities must necessarily correspond each to one of the special parts, just as each part has its special use.
+
+Examples are those ducts which extend from the kidneys into the bladder, and which are called ureters.
+
+These are not arteries, since they do not pulsate nor do they consist of two coats.
+
+They are not veins, since they neither contain blood, nor do their coats in any way resemble those of veins; from nerves they differ still more than from the structures mentioned.
 
 What are they?
 
@@ -55,7 +67,9 @@ Every part is either an artery, a vein, a nerve, or a complex of these.
 
 For in fact the two bladders—that which receives the urine, and that which receives the yellow bile—not only differ from all other organs, but also from one another. 
 
-Further, the ducts which spring out like kinds of conduits from the gall-bladder and which pass into the liver have no resemblance either to arteries, veins or nerves. But these parts have been treated at a greater length in my work “On the Anatomy of Hippocrates,” as well as elsewhere.
+The ducts which spring out like kinds of conduits from the gall-bladder and which pass into the liver have no resemblance either to arteries, veins or nerves. 
+
+But these parts have been treated at a greater length in my work “On the Anatomy of Hippocrates,” as well as elsewhere.
 
 As for the actual substance of the coats of the stomach, intestine, and uterus, each of these has been rendered what it is by a special alterative faculty of Nature; while the bringing of these together, the combination therewith of the structures which are inserted into them, the outgrowth into the intestine, the shape of the inner cavities, and the like, have all been determined by a faculty which we call the shaping or formative faculty.
 

@@ -63,19 +63,23 @@ Thus Lycus is speaking only from himself.
 
 Now it is agreed that all parts which are undergoing nutrition produce a certain amount of residue, but it is neither agreed nor is it likely, that the kidneys alone, small bodies as they are, could hold four whole congii,164 and sometimes even more, of residual matter. 
 
-For this surplus must necessarily be greater in quantity in each of the larger viscera; thus, for example, that of the lung, if it corresponds in amount to the size of the viscus, will obviously be many times more than that in the kidneys, and thus the whole of the thorax will become filled, and the animal will be at once suffocated. But if it be said that the residual matter is equal in amount in each of the other parts, where are the bladders, one may ask, through which it is excreted? For, if the kidneys produce in drinkers three and sometimes four congii of superfluous matter, that of each of the other viscera will be much more, and thus an enormous barrel will be needed to contain the waste products of them all. 
+For this surplus must necessarily be greater in quantity in each of the larger viscera; thus, for example, that of the lung, if it corresponds in amount to the size of the viscus, will obviously be many times more than that in the kidneys, and thus the whole of the thorax will become filled, and the animal will be at once suffocated. 
+
+But if it be said that the residual matter is equal in amount in each of the other parts, where are the bladders, one may ask, through which it is excreted? 
+
+For, if the kidneys produce in drinkers three and sometimes four congii of superfluous matter, that of each of the other viscera will be much more, and thus an enormous barrel will be needed to contain the waste products of them all. 
 
 Yet one often urinates practically the same quantity as one has drunk, which would show that the whole of what one drinks goes to the kidneys.
 
-Thus the author of this third piece of trickery would appear to have achieved nothing, but to have been at once detected, and there still remains the original difficulty which was insoluble by Erasistratus and by all others except Hippocrates. I dwell purposely on this topic, knowing well that nobody else has anything to say about the function of the kidneys, but that either we must prove more foolish than the very butchers if we do not agree that the urine passes through the kidneys; or, if one acknowledges this, that then one cannot possibly give any other reason for the secretion than the principle of attraction.
+Thus the author of this third piece of trickery would appear to have achieved nothing, but to have been at once detected, and there still remains the original difficulty which was insoluble by Erasistratus and by all others except Hippocrates. 
+
+I dwell purposely on this topic, knowing well that nobody else has anything to say about the function of the kidneys, but that either we must prove more foolish than the very butchers if we do not agree that the urine passes through the kidneys; or, if one acknowledges this, that then one cannot possibly give any other reason for the secretion than the principle of attraction.
 
 Now, if the movement of urine does not depend on the tendency of a vacuum to become refilled,166 it is clear that neither does that of the blood nor that of the bile; or if that of these latter does so, then so also does that of the former. For they must all be accomplished in one and the same way, even according to Erasistratus himself.
 
 This matter will be discussed in Book 2.
 
-
-
-5 That is, “On the Natural Powers,” the powers of the Physis or Nature. By that Galen practically means what we would call the physiological or biological powers, the characteristic faculties of the living organism; his Physis is the subconscious vital principle of the animal or plant. Like Aristotle, however, he also ascribes quasi-vital properties to inanimate things, cf. Introduction, p. xxvii.
+<!-- 5 That is, “On the Natural Powers,” the powers of the Physis or Nature. By that Galen practically means what we would call the physiological or biological powers, the characteristic faculties of the living organism; his Physis is the subconscious vital principle of the animal or plant. Like Aristotle, however, he also ascribes quasi-vital properties to inanimate things, cf. Introduction, p. xxvii.
 
 6 Ergon, here rendered an effect, is literally a work or deed; strictly speaking, it is something done, completed, as distinguished from energeia, which is the actual doing, the activity which produces this ergon, cf. p. 13, and Introduction, p. xxx.
 
@@ -398,7 +402,4 @@ This matter will be discussed in Book 2.
 165 cf. p. 51.
 
 166 Horror vacui. Note analogical reasoning; cf. p. 289, note 1.
-
-Pg 117
-
-
+ -->

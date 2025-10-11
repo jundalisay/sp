@@ -13,7 +13,7 @@ The faculty of Growth is present in the foetus in utero as is also the nutritive
 
 At that stage these 2 faculties are handmaids to those already mentioned. They do not possess in themselves supreme authority. 
 
-When, however, the animal52 has attained its complete size, then, during the whole period following its birth and until the acme is reached, the faculty of growth is predominant, while the alterative and nutritive faculties are accessory—in fact, act as its handmaids. What, then, is the property of this faculty of growth? 
+When, however, the animal has attained its complete size, then, during the whole period following its birth and until the acme is reached, the faculty of growth is predominant, while the alterative and nutritive faculties are accessory—in fact, act as its handmaids. What, then, is the property of this faculty of growth? 
 
 To extend in every direction that which has already come into existence—that is to say, the solid parts of the body, the arteries, veins, nerves, bones, cartilages, membranes, ligaments, and the various coats which we have just called elementary, homogeneous, and simple. And I shall state in what way they gain this extension in every direction, first giving an illustration for the sake of clearness.
 
@@ -36,7 +36,11 @@ Such then is growth, and it cannot occur without the nutriment which flows to th
 
 Nutrition is the third faculty.
 
-For, when the matter which flows to each part of the body in the form of nutriment is being worked up into it, this activity is nutrition, and its cause is the nutritive faculty. Of course, the kind of activity here involved is also an alteration, but not an alteration like that occurring at the stage of genesis.53 For in the latter case something comes into existence which did not exist previously, while in nutrition the inflowing material becomes assimilated to that which has already come into existence.
+For, when the matter which flows to each part of the body in the form of nutriment is being worked up into it, this activity is nutrition, and its cause is the nutritive faculty.
+
+The kind of activity here involved is also an alteration, but not an alteration like that occurring at the stage of genesis.
+
+For in the latter case something comes into existence which did not exist previously, while in nutrition the inflowing material becomes assimilated to that which has already come into existence.
 
 Therefore, the former kind of alteration has with reason been termed genesis, and the latter, assimilation.
 
