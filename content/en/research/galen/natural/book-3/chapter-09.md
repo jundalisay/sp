@@ -59,9 +59,11 @@ But in the organs composed of one coat it is found along with the other two kind
 
 For during this period the part needs to be tightly contracted and stretched over its contents at every point—the stomach during the whole period of digestion,356 and the uterus during that of gestation.
 
-Thus too, the coat of a vein, being single, consists of various kinds of fibres; whilst the outer coat of an artery consists of circular fibres, and its inner coat mostly of longitudinal fibres, but with a few oblique ones also amongst them. Veins thus resemble the uterus or the bladder as regards the arrangement of their fibres, even though they are deficient in thickness; similarly arteries resemble the stomach. 
+Thus too, the coat of a vein, being single, consists of various kinds of fibres; whilst the outer coat of an artery consists of circular fibres, and its inner coat mostly of longitudinal fibres, but with a few oblique ones also amongst them. 
 
-Alone of all organs the intestines consist of two coats of which both have their fibres transverse.357 
+Veins thus resemble the uterus or the bladder as regards the arrangement of their fibres, even though they are deficient in thickness; similarly arteries resemble the stomach. 
+
+Alone of all organs the intestines consist of two coats of which both have their fibres transverse.
 
 Now the proof that it was for the best that all the organs should be naturally such as they are (that, for instance, the intestines should be composed of two coats) belongs to the subject of the use of parts358; 
 

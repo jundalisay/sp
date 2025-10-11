@@ -85,13 +85,33 @@ There is no comparison between these two processes; we have only to consider wha
 
 If one considers along with this the adjacent viscera, like a lot of burning hearths around a great cauldron—to the right the liver, to the left the spleen, the heart above, and along with it the diaphragm (suspended and in a state of constant movement), and the omentum sheltering them all—you may believe what an extraordinary alteration it is which occurs in the food taken into the stomach.
 
-How could it easily become blood if it were not previously prepared by means of a change of this kind? It has already been shown333 that nothing is altered all at once from one quality to its opposite. How then could bread, beef, beans, or any other food turn into blood if they had not previously undergone some other alteration? 
+How could it easily become blood if it were not previously prepared by means of a change of this kind? 
 
-And how could the faeces be generated right away in the small intestine?334 For what is there in this organ more potent in producing alteration than the factors in the stomach? Is it the number of the coats, or the way it is surrounded by neighbouring viscera, or the time that the food remains in it, or some kind of innate heat which it contains? Most assuredly the intestines have the advantage of the stomach in none of these respects. For what possible reason, then, will objectors have it that bread may often remain a whole night in the stomach and still preserve its original qualities, whereas when once it is projected into the intestines, it straightway becomes ordure? 
+Nothing is altered all at once from one quality to its opposite. 
 
-For, if such a long period of time is incapable of altering it, neither will the short period be sufficient, or, if the latter is enough, surely the longer time will be much more so! Well, then, can it be that, while the nutriment does undergo an alteration in the stomach, this is a different kind of alteration and one which is not dependent on the nature of the organ which alters it? Or if it be an alteration of this latter kind, yet one perhaps which is not proper to the body of the animal? This is still more impossible. Digestion was shown to be nothing else than an alteration to the quality proper to that which is receiving nourishment.335 Since, then, this is what digestion means and since the nutriment has been shown to take on in the stomach a quality appropriate to the animal which is about to be nourished by it, it has been demonstrated adequately that nutriment does undergo digestion in the stomach.
+How then could bread, beef, beans, or any other food turn into blood if they had not previously undergone some other alteration? 
 
-And Asclepiades is absurd when he states that the quality of the digested food never shows itself either in eructations or in the vomited matter, or on dissection.336 For of course the mere fact that the food smells of the body shows that it has undergone gastric digestion. But this man is so foolish that, when he hears the Ancients saying that the food is converted in the stomach into something “good,” he thinks it proper to look out not for what is good in its possible effects, but for what is good to the taste: this is like saying that apples (for so one has to argue with him) become more apple-like [in flavour] in the stomach, or honey more honey-like!
+How could the feces be generated right away in the small intestine?
+
+For what is there in this organ more potent in producing alteration than the factors in the stomach? 
+
+Is it the number of the coats, or the way it is surrounded by neighbouring viscera, or the time that the food remains in it, or some kind of innate heat which it contains? 
+
+Most assuredly the intestines have the advantage of the stomach in none of these respects. 
+
+For what possible reason, then, will objectors have it that bread may often remain a whole night in the stomach and still preserve its original qualities, whereas when once it is projected into the intestines, it straightway becomes ordure? 
+
+For, if such a long period of time is incapable of altering it, neither will the short period be sufficient, or, if the latter is enough, surely the longer time will be much more so! 
+
+Well, then, can it be that, while the nutriment does undergo an alteration in the stomach, this is a different kind of alteration and one which is not dependent on the nature of the organ which alters it? Or if it be an alteration of this latter kind, yet one perhaps which is not proper to the body of the animal? 
+
+This is still more impossible. Digestion was shown to be nothing else than an alteration to the quality proper to that which is receiving nourishment.
+
+Since, then, this is what digestion means and since the nutriment has been shown to take on in the stomach a quality appropriate to the animal which is about to be nourished by it, it has been demonstrated adequately that nutriment does undergo digestion in the stomach.
+
+Asclepiades is absurd when he states that the quality of the digested food never shows itself either in eructations or in the vomited matter, or on dissection.
+
+The mere fact that the food smells of the body shows that it has undergone gastric digestion. But this man is so foolish that, when he hears the Ancients saying that the food is converted in the stomach into something “good,” he thinks it proper to look out not for what is good in its possible effects, but for what is good to the taste: this is like saying that apples (for so one has to argue with him) become more apple-like [in flavour] in the stomach, or honey more honey-like!
 
 Erasistratus, however, is still more foolish and absurd.
 
@@ -115,6 +135,10 @@ But if he was unable to demonstrate this any more than any of the previous propo
 
 The one starting-point of all this is an enquiry into the question of the Warm, Cold, Dry and Moist.
 
-This Aristotle carried out in the second of his books “On Genesis and Destruction”. There, he shows that all the transmutations and alterations throughout the body take place as a result of these principles. 
+This Aristotle carried out in the second of his books “On Genesis and Destruction”. 
 
-Erasistratus, however, advanced nothing against these or anything else that has been said above, but occupied himself merely with the word “boiling.”
+There, he shows that all the transmutations and alterations throughout the body take place as a result of these principles. 
+
+Erasistratus, however:
+- advanced nothing against these
+- occupied himself merely with the word “boiling.”

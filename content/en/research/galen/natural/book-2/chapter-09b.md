@@ -24,36 +24,59 @@ What else, then, remains but to explain clearly what it is that happens in the g
 
 Imagine, then, some new wine which has been not long ago pressed from the grape, and which is fermenting and undergoing alteration through the agency of its contained heat.289 Imagine next two residual substances produced during this process of alteration, the one tending to be light and air-like and the other to be heavy and more of the nature of earth; of these the one, as I understand, they call the flower and the other the lees. 
 
-Now you may correctly compare yellow bile to the first of these, and black bile to the latter, although these humours have not the same appearance when the animal is in normal health as that which they often show when it is not so; for then the yellow bile becomes vitelline,290 being so termed because it becomes like the yolk of an egg, both in colour and density; and again, even the black bile itself becomes much more malignant than when in its normal condition,291 but no particular name has been given to [such a condition of] the humour, except that some people have called it corrosive or acetose, because it also becomes sharp like vinegar and corrodes the animal’s body—as also the earth, if it be poured out upon it—and it produces a kind of fermentation and seething, accompanied by bubbles—an abnormal putrefaction having become added to the natural condition of the black humour. 
+We may compare:
+- yellow bile to the first of these
+- black bile to the latter.
+
+Although these humours have not the same appearance when the animal is in normal health as that which they often show when it is not so.
+
+For then the yellow bile becomes vitelline, being so termed because it becomes like the yolk of an egg, both in colour and density; and again, even the black bile itself becomes much more malignant than when in its normal condition, but no particular name has been given to [such a condition of] the humour, except that some people have called it corrosive or acetose, because it also becomes sharp like vinegar and corrodes the animal’s body—as also the earth, if it be poured out upon it—and it produces a kind of fermentation and seething, accompanied by bubbles—an abnormal putrefaction having become added to the natural condition of the black humour. 
 
 Most of the ancient physicians give the name black humour and not black bile to the normal portion of this humour, which is discharged from the bowel and which also frequently rises to the top [of the stomach-contents].
 
 They call black bile that part which, through a kind of combustion and putrefaction, has had its quality changed to acid. There is no need, however, to dispute about names, but we must realise the facts, which are as follow:—
 
-In the genesis of blood, everything in the nutriment292 which belongs naturally to the thick and earth-like part of the food,292 and which does not take on well the alteration produced by the innate heat—all this the spleen draws into itself. On the other hand, that part of the nutriment which is roasted, so to speak, or burnt (this will be the warmest and sweetest part of it, like honey and fat), becomes yellow bile, and is cleared away through the so-called biliary293 vessels; now, this is thin, moist, and fluid, not like what it is when, having been roasted to an excessive degree, it becomes yellow, fiery, and thick, like the yolk of eggs; for this latter is already abnormal, while the previously mentioned state is natural.
+In the genesis of blood, everything in the nutriment292 which belongs naturally to the thick and earth-like part of the food, and which does not take on well the alteration produced by the innate heat—all this the spleen draws into itself. 
 
-Similarly with the black humour: that which does not yet produce, as I say, this seething and fermentation on the ground, is natural, while that which has taken over this character and faculty is unnatural; it has assumed an acridity owing to the combustion caused by abnormal heat, and has practically become transformed into ashes.294 In somewhat the same way burned lees differ from unburned. The former is a warm substance, able to burn, dissolve, and destroy the flesh. The other kind, which has not yet undergone combustion, one may find the physicians employing for the same purposes that one uses the so-called potter’s earth and other substances which have naturally a combined drying and chilling action.
+On the other hand, that part of the nutriment which is roasted, so to speak, or burnt (this will be the warmest and sweetest part of it, like honey and fat), becomes yellow bile, and is cleared away through the so-called biliary293 vessels; now, this is thin, moist, and fluid, not like what it is when, having been roasted to an excessive degree, it becomes yellow, fiery, and thick, like the yolk of eggs; for this latter is already abnormal, while the previously mentioned state is natural.
+
+Similarly with the black humour: that which does not yet produce, as I say, this seething and fermentation on the ground, is natural, while that which has taken over this character and faculty is unnatural; it has assumed an acridity owing to the combustion caused by abnormal heat, and has practically become transformed into ashes.
+
+In somewhat the same way burned lees differ from unburned. The former is a warm substance, able to burn, dissolve, and destroy the flesh. 
+
+The other kind, which has not yet undergone combustion, one may find the physicians employing for the same purposes that one uses the so-called potter’s earth and other substances which have naturally a combined drying and chilling action.
 
 Now the vitelline bile also may take on the appearance of this combusted black bile, if ever it chance to be roasted, so to say, by fiery heat.
 
-And all the other forms of bile are produced, some from a blending of those mentioned, others being, as it were, transition-stages in the genesis of these or in their conversion into one another. And they differ in that those first mentioned are unmixed and unique, while the latter forms are diluted with various kinds of serum. And all the serums in the humours are waste substances, and the animal body needs to be purified from them.
+And all the other forms of bile are produced, some from a blending of those mentioned, others being, as it were, transition-stages in the genesis of these or in their conversion into one another. 
+
+They differ in that those first mentioned are unmixed and unique, while the latter forms are diluted with various kinds of serum. And all the serums in the humours are waste substances, and the animal body needs to be purified from them.
 
 There is, however, a natural use for the humours first mentioned, both thick and thin; the blood is purified both by the spleen and by the bladder beside the liver, and a part of each of the two humours is put away, of such quantity and quality that, if it were carried all over the body, it would do a certain amount of harm. 
 
 For that which is decidedly thick and earthy in nature, and has entirely escaped alteration in the liver, is drawn by the spleen into itself295; the other part which is only moderately thick, after being elaborated [in the liver], is carried all over the body. For the blood in many parts of the body has need of a certain amount of thickening, as also, I take it, of the fibres which it contains. And the use of these has been discussed by Plato,296 and it will also be discussed by me in such of my treatises as may deal with the use of parts. And the blood also needs, not least, the yellow humour, which has as yet not reached the extreme stage of combustion; in the treatises mentioned it will be pointed out what purpose is subserved by this.
 
-Now Nature has made no organ for clearing away phlegm, this being cold and moist, and, as it were, half-digested nutriment; such a substance, therefore, does not need to be evacuated, but remains in the body and undergoes alteration there. And perhaps one cannot properly give the name of phlegm to the surplus-substance which runs down from the brain,297 but one should call it mucus [blenna] or coryza—as, in fact, it is actually termed; in any case it will be pointed out, in the treatise “On the Use of Parts,” how Nature has provided for the evacuation of this substance. Further, the device provided by Nature which ensures that the phlegm which forms in the stomach and intestines may be evacuated in the most rapid and effective way possible—this also will be described in that commentary.
+Nature has made no organ for clearing away phlegm, this being cold and moist, and, as it were, half-digested nutriment; such a substance, therefore, does not need to be evacuated, but remains in the body and undergoes alteration there. 
 
-As to that portion of the phlegm which is carried in the veins, seeing that this is of service to the animal it requires no evacuation. Here too, then, we must pay attention and recognise that, just as in the case of each of the two kinds of bile, there is one part which is useful to the animal and in accordance with its nature, while the other part is useless and contrary to nature, so also is it with the phlegm; such of it as is sweet is useful to the animal and according to nature, while, as to such of it as has become bitter or salt, that part which is bitter is completely undigested, while that part which is salt has undergone putrefaction. And the term “complete indigestion” refers of course to the second digestion—that which takes place in the veins; it is not a failure of the first digestion—that in the alimentary canal—for it would not have become a humour at the outset if it had escaped this digestion also.
+One cannot properly give the name of phlegm to the surplus-substance which runs down from the brain, but one should call it mucus [blenna] or coryza—as, in fact, it is actually termed; in any case it will be pointed out, in the treatise “On the Use of Parts,” how Nature has provided for the evacuation of this substance. 
 
-It seems to me that I have made enough reference to what has been said regarding the genesis and destruction of humours by Hippocrates, Plato, Aristotle, Praxagoras, and Diocles, and many others among the Ancients; I did not deem it right to transport the whole of their final pronouncements into this treatise. I have said only so much regarding each of the humours as will stir up the reader, unless he be absolutely inept, to make himself familiar with the writings of the Ancients, and will help him to gain more easy access to them. In another treatise298 I have written on the humours according to Praxagoras, son of Nicarchus; although this authority makes as many as ten humours, not
- including the blood (the blood itself being an eleventh), this is not a departure from the teaching of Hippocrates; for Praxagoras divides into species and varieties the humours which Hippocrates first mentioned, with the demonstration proper to each.
+The device provided by Nature which ensures that the phlegm which forms in the stomach and intestines may be evacuated in the most rapid and effective way possible—this also will be described in that commentary.
+
+As to that portion of the phlegm which is carried in the veins, seeing that this is of service to the animal it requires no evacuation. 
+
+Here too, then, we must pay attention and recognise that, just as in the case of each of the two kinds of bile, there is one part which is useful to the animal and in accordance with its nature, while the other part is useless and contrary to nature, so also is it with the phlegm; such of it as is sweet is useful to the animal and according to nature, while, as to such of it as has become bitter or salt, that part which is bitter is completely undigested, while that part which is salt has undergone putrefaction. 
+
+The term “complete indigestion” refers of course to the second digestion—that which takes place in the veins; it is not a failure of the first digestion—that in the alimentary canal—for it would not have become a humour at the outset if it had escaped this digestion also.
+
+<!-- It seems to me that I have made enough reference to what has been said regarding the genesis and destruction of humours by Hippocrates, Plato, Aristotle, Praxagoras, and Diocles, and many others among the Ancients; I did not deem it right to transport the whole of their final pronouncements into this treatise. I have said only so much regarding each of the humours as will stir up the reader, unless he be absolutely inept, to make himself familiar with the writings of the Ancients, and will help him to gain more easy access to them.  -->
+
+In another treatise, I have written on the humours according to Praxagoras, son of Nicarchus; although this authority makes as many as ten humours, not  including the blood (the blood itself being an eleventh), this is not a departure from the teaching of Hippocrates; for Praxagoras divides into species and varieties the humours which Hippocrates first mentioned, with the demonstration proper to each.
 
 Those, then, are to be praised who explain the points which have been duly mentioned, as also those who add what has been left out; for it is not possible for the same man to make both a beginning and an end. Those, on the other hand, deserve censure who are so impatient that they will not wait to learn any of the things which have been duly mentioned, as do also those who are so ambitious that, in their lust after novel doctrines, they are always attempting some fraudulent sophistry, either purposely neglecting certain subjects, as Erasistratus does in the case of the humours, or unscrupulously attacking other people, as does this same writer, as well as many of the more recent authorities.
 
 But let this discussion come to an end here, and I shall add in the third book all that remains.
 
-167 cf. p. 89.
+<!-- 167 cf. p. 89.
 
 168 This term is nowadays limited to the drawing action of a blister, cf. p. 223.
 
@@ -316,7 +339,4 @@ But let this discussion come to an end here, and I shall add in the third book a
 297 cf. p. 90, note 1. The term “catarrh” refers to this “running down,” which was supposed to take place through the pores of the cribriform plate of the ethmoid into the nose.
 
 298 Now lost.
-
-Pg 223
-
-
+ -->

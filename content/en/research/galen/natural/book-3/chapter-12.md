@@ -37,13 +37,19 @@ Irritation is when the fluids pent up in the membranes flow out.
 
 This causes a rupture into the uterus itself, or else when the whole foetus perishes, putrefies, and is resolved into pernicious ichors, and so irritates and bites the coat of the uterus.
 
-In all organs, then, both their natural effects and their disorders and maladies plainly take place on analogous lines,359 some so clearly and manifestly as to need no demonstration, and others less plainly, although not entirely unrecognizable to those who are willing to pay attention.
+In all organs, then, both their natural effects and their disorders and maladies plainly take place on analogous lines, some so clearly and manifestly as to need no demonstration, and others less plainly, although not entirely unrecognizable to those who are willing to pay attention.
 
-Thus, to take the case of the stomach: the irritation is evident here because this organ possesses most sensibility, and among its other affections those producing nausea and the so-called heartburn clearly demonstrate the eliminative faculty which expels foreign matter. So also in the case of the uterus and the urinary bladder; this latter also may be plainly observed to receive and accumulate fluid until it is so stretched by the amount of this as to be incapable of enduring the pain; or it may be the quality of the urine which irritates it; for every superfluous substance which lingers in the body must obviously putrefy, some in a shorter, and some in a longer time, and thus it becomes pungent, acrid, and burdensome to the organ which contains it. 
+Thus, to take the case of the stomach: the irritation is evident here because this organ possesses most sensibility, and among its other affections those producing nausea and the so-called heartburn clearly demonstrate the eliminative faculty which expels foreign matter. 
+
+So also in the case of the uterus and the urinary bladder; this latter also may be plainly observed to receive and accumulate fluid until it is so stretched by the amount of this as to be incapable of enduring the pain; or it may be the quality of the urine which irritates it; for every superfluous substance which lingers in the body must obviously putrefy, some in a shorter, and some in a longer time, and thus it becomes pungent, acrid, and burdensome to the organ which contains it. 
 
 This does not apply, however, in the case of the bladder alongside the liver, whence it is clear that it possesses fewer nerves than do the other organs. Here too, however, at least the physiologist360 must discover an analogy.
 
 For since it was shown that the gall-bladder attracts its own special juice, so as to be often found full, and that it discharges it soon after, this desire to discharge must be either due to the fact that it is burdened by the quantity or that the bile has changed in quality to pungent and acrid. 
 
-For while food does not change its original quality so fast that it is already ordure as soon as it falls into the small intestine, on the other hand the bile even more readily than the urine becomes altered in quality as soon as ever it leaves the veins, and rapidly undergoes change and putrefaction. Now, if there be clear evidence in relation to the uterus, stomach, and intestines, as well as to the urinary bladder, that there is either some distention, irritation, or burden inciting each of these organs to elimination, there is no difficulty in imagining this in the case of the gall-bladder also, as well as in the other organs,—to which obviously the arteries and veins also belong.
+Food does not change its original quality so fast that it is already ordure as soon as it falls into the small intestine.
+
+On the other hand, the bile even more readily than the urine becomes altered in quality as soon as ever it leaves the veins, and rapidly undergoes change and putrefaction. 
+
+Now, if there be clear evidence in relation to the uterus, stomach, and intestines, as well as to the urinary bladder, that there is either some distention, irritation, or burden inciting each of these organs to elimination, there is no difficulty in imagining this in the case of the gall-bladder also, as well as in the other organs,—to which obviously the arteries and veins also belong.
 

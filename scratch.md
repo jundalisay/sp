@@ -1,3 +1,23 @@
+
+logistics 
+disruption forecasting
+predictive maintenance
+crew 
+
+
+
+
+ego 
+what he thinks he wants 
+what he really wants
+
+epolar payment gateway
+
+Our team uses Claude in hackathons. But what is Cursor?
+
+https://www.linkedin.com/pulse/vietnam-bright-spot-tumultuous-trade-war-lam-nguyen-6dkac
+
+
 <!-- inject such particles into protons. It would be like using a sniper to get rid of a single terrorist instead of using a huge bomb to destroy his whole house, hoping that he is inside.
 
 Since the aetherspace is closer to the aether than to matter, then the physics of the aether should be understood. 

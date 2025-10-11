@@ -9,17 +9,21 @@ c: "firebrick"
 ---
 
 
-Every hypothesis of channels182 as an explanation of natural functioning is perfect nonsense.
+Every hypothesis of channels as an explanation of natural functioning is perfect nonsense.
 
 For, if there were not an inborn faculty given by Nature to each one of the organs at the very beginning, then animals could not continue to live even for a few days, far less for the number of years which they actually do. 
 
-For let us suppose they were under no guardianship, lacking in creative ingenuity183 and forethought; let us suppose they were steered only by material forces,184 and not by any special faculties (the one attracting what is proper to it, another rejecting what is foreign, and yet another causing alteration and adhesion of the matter destined to nourish it); if we suppose this, I am sure it would be ridiculous for us to discuss natural, or, still more, psychical, activities—or, in fact, life as a whole.185
+For let us suppose they were under no guardianship, lacking in creative ingenuity183 and forethought.
+
+Let us suppose they were steered only by material forces, and not by any special faculties (the one attracting what is proper to it, another rejecting what is foreign, and yet another causing alteration and adhesion of the matter destined to nourish it); if we suppose this, I am sure it would be ridiculous for us to discuss natural, or, still more, psychical, activities—or, in fact, life as a whole.185
 
 For there is not a single animal which could live or endure for the shortest time if, possessing within itself so many different parts, it did not employ faculties which were attractive of what is appropriate, eliminative of what is foreign, and alterative of what is destined for nutrition. 
 
 On the other hand, if we have these faculties, we no longer need channels, little or big, resting on an unproven hypothesis, for explaining the secretion of urine and bile, and the conception of some favourable situation (in which point alone Erasistratus shows some common sense, since he does regard all the parts of the body as having been well and truly placed and shaped by Nature).
 
-But let us suppose he remained true to his own statement that Nature is “artistic”—this Nature which, at the beginning, well and truly shaped and disposed all the parts of the animal,186 and, after carrying out this function (for she left nothing undone), brought it forward to the light of day, endowed with certain faculties necessary for its very existence, and, thereafter, gradually increased it until it reached its due size. If he argued consistently on this principle, I fail to see how he can continue to refer natural functions to the smallness or largeness of canals, or to any other similarly absurd hypothesis.
+But let us suppose he remained true to his own statement that Nature is “artistic”—this Nature which, at the beginning, well and truly shaped and disposed all the parts of the animal,186 and, after carrying out this function (for she left nothing undone), brought it forward to the light of day, endowed with certain faculties necessary for its very existence, and, thereafter, gradually increased it until it reached its due size. 
+
+If he argued consistently on this principle, I fail to see how he can continue to refer natural functions to the smallness or largeness of canals, or to any other similarly absurd hypothesis.
 
 For this Nature which shapes and gradually adds to the parts is most certainly extended throughout their whole substance. Yes indeed, she shapes and nourishes and increases them through and through, not on the outside only. 
 
@@ -27,7 +31,9 @@ Praxiteles and Phidias and all the other statuaries used merely to decorate thei
 
 But Nature does not preserve the original character of any kind of matter; if she did so then all parts of the animal would be blood—that blood, namely, which flows to the semen from the impregnated female and which is, so to speak, like the statuary’s wax, a single uniform matter, subjected to the artificer. From this blood there arises no part of the animal which is as red and moist [as blood is], for bone, artery, vein, nerve, cartilage, fat, gland, membrane, and marrow are not blood, though they arise from it.
 
-I would then ask Erasistratus himself to inform me what the altering, coagulating, and shaping agent is. He would doubtless say, “Either Nature or the semen,” meaning the same thing in both cases, but explaining it by different devices. For that which was previously semen, when it begins to procreate and to shape the animal, becomes, so to say, a special nature.187 For in the same way that Phidias possessed the faculties of his art even before touching his material, and then activated these in connection with this material (for every faculty remains inoperative in the absence of its proper material), so it is with the semen: its faculties it possessed from the beginning,188 while its activities it does not receive from its material, but it manifests them in connection therewith.
+I would then ask Erasistratus himself to inform me what the altering, coagulating, and shaping agent is. 
+
+He would doubtless say, “Either Nature or the semen,” meaning the same thing in both cases, but explaining it by different devices. For that which was previously semen, when it begins to procreate and to shape the animal, becomes, so to say, a special nature.187 For in the same way that Phidias possessed the faculties of his art even before touching his material, and then activated these in connection with this material (for every faculty remains inoperative in the absence of its proper material), so it is with the semen: its faculties it possessed from the beginning,188 while its activities it does not receive from its material, but it manifests them in connection therewith.
 
 And, of course, if it were to be overwhelmed with a great quantity of blood, it would perish, while if it were to be entirely deprived of blood it would remain inoperative and would not turn into a nature. Therefore, in order that it may not perish, but may become a nature in place of semen, there must be an afflux to it of a little blood—or, rather, one should not say a little, but a quantity commensurate with that of the semen.
 
@@ -51,6 +57,8 @@ He imagines that animals grow like webs, ropes, sacks, or baskets, each of which
 
 But this, most sapient sir, is not growth, but genesis! For a bag, sack, garment, house, ship, or the like is said to be still coming into existence [undergoing genesis] so long as the appropriate form for the sake of which it is being constructed by the artificer is still incomplete. Then, when does it grow? Only when the basket, being complete, with a bottom, a mouth, and a belly, as it were, as well as the intermediate parts, now becomes larger in all these respects.
 
-“And how can this happen?” someone will ask. Only by our basket suddenly becoming an animal or a plant; for growth belongs to living things alone. Possibly you imagine that a house grows when it is being built, or a basket when being plaited, or a garment when being woven? It is not so however. Growth belongs to that which has already been completed in respect to its form, whereas the process by which that which is still becoming attains its form is termed not growth but genesis. That which is, grows, while that which is not, becomes.
+How can this happen?
 
+Only by our basket suddenly becoming an animal or a plant; for growth belongs to living things alone. 
 
+Possibly you imagine that a house grows when it is being built, or a basket when being plaited, or a garment when being woven? It is not so however. Growth belongs to that which has already been completed in respect to its form, whereas the process by which that which is still becoming attains its form is termed not growth but genesis. That which is, grows, while that which is not, becomes.

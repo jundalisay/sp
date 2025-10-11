@@ -9,7 +9,9 @@ c: "firebrick"
 ---
 
 
-Book 1 showed that Erasistratus and all those who wrote about urinary secretion must acknowledge that the kidneys have some faculty which attracts to them this particular quality existing in the urine.167 
+Book 1 showed that the kidneys have some faculty which attracts to them this quality existing in the urine.
+
+ <!-- Erasistratus and all those who wrote about urinary secretion must acknowledge  -->
 
 But urine is carried through the kidneys into the bladder by 2 methods:
 
@@ -18,7 +20,7 @@ But urine is carried through the kidneys into the bladder by 2 methods:
 
 For when once there has been demonstrated in any one organ, the drawing, or so-called epispastic168 faculty, there is then no difficulty in transferring it to the rest.
 
-Nature did not give a power such as this to the kidneys without giving it also to the vessels which abstract the biliary fluid,169 nor did she give it to the latter without also giving it to each of the other parts.
+Nature did not give a power such as this to the kidneys without giving it also to the vessels which abstract the biliary fluid, nor did she give it to the latter without also giving it to each of the other parts.
 
 Assuredly, if this is true, we must marvel that Erasistratus should make statements concerning the delivery of nutriment from the food-canal170 which are so false as to be detected even by Asclepiades. 
 
@@ -35,14 +37,17 @@ Asclepiades, however, has 3 effects:
 
 This is because when reeds and tubes aresubmerged in water, and are emptied of the air then either a completely empty space will be left, or the contiguous portion will move onwards; 
 
-In the case of veins this no longer holds, since their coats can collapse and so fall in upon the interior cavity. It may be seen, then, how false this hypothesis—by Zeus, I cannot call it a demonstration!—of Erasistratus is.
+In the case of veins this no longer holds, since their coats can collapse and so fall in upon the interior cavity. 
 
+Erasistratus is so wrong!
 
-Erasistratus supposed that:
+<!-- It may be seen, then, how false this hypothesis—by Zeus, I cannot call it a demonstration!—of . -->
+
+He supposed that:
 - the stomach can compress the veins
 - the veins can contract the contents of the stomach and propel them forwards.172 
 
-No plethora173 would ever take place in the body, if delivery of nutriment resulted merely from the tendency of a vacuum to become refilled. 
+No plethora would ever take place in the body, if delivery of nutriment resulted merely from the tendency of a vacuum to become refilled. 
 
 The principle of the refilling of a vacuum is a necessary addition if:
 - the compression of the stomach becomes weaker the further it goes, and cannot reach to an indefinite distance
@@ -51,9 +56,12 @@ The principle of the refilling of a vacuum is a necessary addition if:
 
 there will not, however, be a plethora in any of the parts coming after the liver,175 or, if there be, it will be in the region of the heart and lungs; 
 
-for the heart alone of the parts which come after the liver draws the nutriment into its right ventricle, thereafter sending it through the arterioid vein176 to the lungs (for Erasistratus himself will have it that, owing to the membranous excrescences,177 no other parts save the lungs receive nourishment from the heart).
+for the heart alone of the parts which come after the liver draws the nutriment into its right ventricle, thereafter sending it through the arterioid vein to the lungs (for Erasistratus himself will have it that, owing to the membranous excrescences, no other parts save the lungs receive nourishment from the heart).
 
-If, however, in order to explain how plethora comes about, we suppose the force of compression by the stomach to persist indefinitely, we have no further need of the principle of the refilling of a vacuum, especially if we assume contraction of the veins in addition—as is, again, agreeable to Erasistratus himself.
+
+Plethora comes about through the force of compression by the stomach to persist indefinitely.
+
+This removes the need of the principle of the refilling of a vacuum, especially if we assume contraction of the veins in addition—as is, again, agreeable to Erasistratus himself.
 
 
 ## Chapter 2
@@ -74,7 +82,7 @@ Another is that which they make about the secretion of yellow bile. For in this 
 
 But, you sapient folk, Erasistratus himself supposed that Nature took thought for the animals’ future, and was workmanlike in her method; and at the same time he maintained that the biliary fluid was useless in every way for the animals. Now these two things are incompatible. For how could Nature be still looked on as exercising forethought for the animal when she allowed a noxious humour such as this to be carried off and distributed with the blood?...
 
-This, however, is a small matter. I shall again point out here the greatest and most obvious error. For if the yellow bile adjusts itself to the narrower vessels and stomata, and the blood to the wider ones, for no other reason than that blood is thicker and bile thinner, and that the stomata of the veins are wider and those of the bile-ducts narrower,180 then it is clear that this watery and serous superfluity,181 too, will run out into the bile-ducts quicker than does the bile, exactly in proportion as it is thinner than the bile! 
+This, however, is a small matter. I shall again point out here the greatest and most obvious error. For if the yellow bile adjusts itself to the narrower vessels and stomata, and the blood to the wider ones, for no other reason than that blood is thicker and bile thinner, and that the stomata of the veins are wider and those of the bile-ducts narrower, then it is clear that this watery and serous superfluity, too, will run out into the bile-ducts quicker than does the bile, exactly in proportion as it is thinner than the bile! 
 
 How is it, then, that it does not run out? “Because,” it may be said, “urine is thicker than bile!” This was what one of our Erasistrateans ventured to say, herein clearly disregarding the evidence of his senses, although he had trusted these in the case of the bile and blood.
 

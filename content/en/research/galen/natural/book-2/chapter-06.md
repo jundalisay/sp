@@ -4,7 +4,7 @@ title: "The Nerves and the Refilling of a Vacuum"
 date: 2024-12-17
 weight: 10
 author: Galen
-description: ""
+description: "When blood is running through the veins, an absolutely empty space cannot result."
 c: "firebrick"
 ---
 
@@ -122,20 +122,32 @@ Their hypothesis could not escape the difficulty regarding nutrition. It is not 
 
 For, if we do not grant a certain unity of substance218 to these simple structures as well, and if we arrive eventually at inharmonious and indivisible elements,219 we shall most assuredly deprive Nature of her artistic skill, as do all the physicians and philosophers who start from this hypothesis. 
 
-For, according to such a hypothesis, Nature does not precede, but is secondary to the parts of the animal.220 Now, it is not the province of what comes secondarily, but of what pre-exists, to shape and to construct.
+For, according to such a hypothesis, Nature does not precede, but is secondary to the parts of the animal.
 
-Thus we must necessarily suppose that the faculties of Nature, by which she shapes the animal, and makes it grow and receive nourishment, are present from the seed onwards; whereas none of these inharmonious and non-partite corpuscles contains within itself any formative, incremental,221 nutritive, or, in a word, any artistic power; it is, by hypothesis, unimpressionable and untransformable,222 whereas, as we have previously shown,223 none of the processes mentioned takes place without transformation, alteration, and complete intermixture. 
+It is not the province of what comes secondarily, but of what pre-exists, to shape and to construct.
+
+The faculties of Nature that shapes the animal and makes it grow and receive nourishment are present from the seed onwards; whereas none of these inharmonious and non-partite corpuscles contains within itself any formative, incremental, nutritive, or, in a word, any artistic power; it is, by hypothesis, unimpressionable and untransformable, whereas, as we have previously shown, none of the processes mentioned takes place without transformation, alteration, and complete intermixture. 
 
 And, owing to this necessity, those who belong to these sects are unable to follow out the consequences of their supposed elements, and they are all therefore forced to declare Nature devoid of art. It is not from us, however, that the Erasistrateans should have learnt this, but from those very philosophers who lay most stress on a preliminary investigation into the elements of all existing things.
 
-Now, one can hardly be right in supposing that Erasistratus could reach such a pitch of foolishness as to be incapable of recognizing the logical consequences of this theory, and that, while assuming Nature to be artistically creative, he would at the same time break up substance into insensible, inharmonious, and untransformable elements. If, however, he will grant that there occurs in the elements a process of alteration and transformation, and that there exists in them unity and continuity, then that simple vessel of his (as he himself names it) will turn out to be single and uncompounded. And the simple vein will receive nourishment from itself, and the nerve and artery from the vein.
 
-How, and in what way? For, when we were at this point before, we drew attention to the disagreement among the Erasistrateans,224 and we showed that the nutrition of these simple vessels was impracticable according to the teachings of both parties, although we did not hesitate to adjudicate in their quarrel and to do Erasistratus the honour of placing him in the better sect.225
+
+It is foolish for Erasistratus to assume Nature to be artistically creative, while at the same time break up substance into insensible, inharmonious, and untransformable elements.
+
+If, however, he will grant that there occurs in the elements a process of alteration and transformation, and that there exists in them unity and continuity, then that simple vessel of his (as he himself names it) will turn out to be single and uncompounded. 
+
+The simple vein will receive nourishment from itself, and the nerve and artery from the vein.
+
+How, and in what way? 
+
+<!-- For, when we were at this point before, we drew attention to the disagreement among the Erasistrateans and  -->
+
+I showed that the nutrition of these simple vessels was impracticable according to the teachings of both parties, although we did not hesitate to adjudicate in their quarrel and to do Erasistratus the honour of placing him in the better sect.
 
 
 I follow the doctrine which assumes this elementary nerve is a single, simple, and unified structure.
 
- and let us consider how it is to be nourished; for what is discovered here will at once be found to be common also to the school of Hippocrates.
+ <!-- and let us consider how it is to be nourished; for what is discovered here will at once be found to be common also to the school of Hippocrates. -->
 
 It seems to me that our enquiry can be most rigorously pursued in subjects who are suffering from illness and have become very emaciated, since in these people all parts of the body are obviously atrophied and thin, and in need of additional substance and feeding-up; for the same reason the ordinary perceptible nerve, regarding which we originally began this discussion, has become thin, and requires nourishment. 
 
@@ -143,13 +155,15 @@ Now, this contains within itself various parts, namely, a great many of these pr
 
 Thus, all its elementary nerves have themselves also obviously become emaciated; for, if they had not, neither would the nerve as a whole; and of course, in such a case, the whole nerve cannot require nourishment without each of these requiring it too. 
 
-Now, if on the one hand they stand in need of feeding-up, and if on the other the principle of the refilling of a vacuum227 can give them no help—both by reason of the difficulties previously mentioned and the actual thinness, as I shall show—we must then seek another cause for nutrition.
+Now, if on the one hand they stand in need of feeding-up, and if on the other the principle of the refilling of a vacuum can give them no help—both by reason of the difficulties previously mentioned and the actual thinness, as I shall show—we must then seek another cause for nutrition.
 
 How is it, then, that the tendency of a vacuum to become refilled is unable to afford nourishment to one in such a condition? 
 
 Because its rule is that only so much of the contiguous matter should succeed as has flowed away. 
 
-This is sufficient for nourishment in the case of those who are in good condition, for, in them, what is presented228 must be equal to what has flowed away. But in the case of those who are very emaciated and who need a great restoration of nutrition, unless what was presented were many times greater than what has been emptied out, they would never be able to regain their original habit.
+This is sufficient for nourishment in the case of those who are in good condition, for, in them, what is presented must be equal to what has flowed away. 
+
+But in the case of those who are very emaciated and who need a great restoration of nutrition, unless what was presented were many times greater than what has been emptied out, they would never be able to regain their original habit.
 
 It is clear, therefore, that these parts will have to exert a greater amount of attraction, in so far as their requirements are greater. And I fail to understand how Erasistratus does not perceive that here again he is putting the cart before the horse. 
 
@@ -157,16 +171,14 @@ Because, in the case of the sick, there must be a large amount of presentation22
 
 How could much presentation take place if it were not preceded by an abundant delivery229 of nutriment? 
 
-If he calls the conveyance of food through the veins delivery, and its assumption by each of these simple and visible nerves and arteries not delivery but distribution,230 as some people have thought fit to name it, and then ascribes conveyance through the veins to the principle of vacuum-refilling alone, let him explain to us the assumption of food by the hypothetical elements.231 
+If he calls the conveyance of food through the veins delivery, and its assumption by each of these simple and visible nerves and arteries not delivery but distribution, as some people have thought fit to name it, and then ascribes conveyance through the veins to the principle of vacuum-refilling alone, let him explain to us the assumption of food by the hypothetical elements.231 
 
 There is no such thing as the refilling of a vacuum especially where the parts are very attenuated.
 
 Erasistratus writes about these cases in Book 2 of his “General Principles”: 
 
 {{< q a="Erasistratus" >}}
-In the ultimate simple [vessels], which are thin and narrow, presentation takes place from the adjacent vessels.
-
-The nutriment is attracted through the sides of the vessels and deposited in the empty spaces left by the matter which has been carried away.
+In the ultimate simple [vessels], which are thin and narrow, presentation takes place from the adjacent vessels. The nutriment is attracted through the sides of the vessels and deposited in the empty spaces left by the matter which has been carried away.
 {{< /q >}}
 
 
