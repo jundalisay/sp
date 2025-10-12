@@ -94,9 +94,23 @@ Dharma then leads to related concepts like sustainability, harmony, long happy l
 
 The job of knowing or discovering this `G` and predicting its movement-results is done by specific sciences:
 
+For example:
+- Biology looks into the nature of cells
+- Physics looks into the nature of particles
+- Metaphysics looks into the nature of souls and ideas
+- Economics looks into the nature of goods and services
 
+These sciences use the scientific method which involves the following steps:
 
-{{< img src="/graphics/physics/layers.png" alt="The five layers" >}}
+1. Observation
+2. Question
+3. : Formulate a clear, specific question based on the observation. 
+Conduct background research: Gather information and learn what is already known about the topic. 
+Formulate a hypothesis: Create a testable explanation or prediction for the phenomenon. 
+Test the hypothesis with an experiment: Design and perform a controlled experiment to collect data that will support or refute the hypothesis. 
+Analyze the data: Examine the results from the experiment to identify patterns and trends. 
+Draw conclusions: Interpret the data to determine if the hypothesis was supported or needs to be modified. 
+Communicate results: Share the findings with others, which allows for peer review and further investigation. 
 
 
 

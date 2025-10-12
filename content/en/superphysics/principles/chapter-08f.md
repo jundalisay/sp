@@ -2,7 +2,7 @@
 heading: "Chapter 8f"
 title: "The Ratio Sign as Mind Splitter"
 date: 2020-12-27
-weight: 506
+weight: 508
 image: "/graphics/movement.png"
 description: "The harmony or disharmony between spins leads to attraction and cohesion, or repulsion and disintegration"
 icon: "Juan"
@@ -77,7 +77,10 @@ We then deconstruct it in Cartesian Physics further:
 <!-- material-layer-gravitational-signature -->
 
 ```elixir
-gravity_between :: (material_layer_limiter (matter_amount_in_identity1 / distance_between^2 : matter_amount_in_identity2 / distance_between^2)
+gravity_between :: 
+  (material_layer_limiter 
+    (matter_amount_in_identity1 / distance_between^2 : 
+    matter_amount_in_identity2 / distance_between^2)
 ```
 
 This translates as "the pushing force of spacetime between 2 material identities depends on the quantity and quality of matter in them and their distance from each other."
@@ -90,42 +93,57 @@ In price equations, this will allow us to more easily remove the influence of in
 The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Notice how this system does not require PEMDAS because of the allowance for mind-splitting behavior.
 
 
+
 ## Math with a Practical and Moral Purpose Inspired by Al-Khwarizmi and Descartes
 
-
-The above decontstructed equation "`gravity_between`" gives us 2 benefits:
+The above deconstructed equation "`gravity_between`" gives us 2 benefits:
 
 1. Practical: It helps us *code* the equation more easily into procedures and algorithms
 2. Moral: It makes us think of `Mass1` and `Mass2` independently, and separate from its limiter
 
 Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on "Calculation by Completion and Balancing". 
 
-The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*.
+The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi.
 
 {{< img cap="Automated Natural Intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
 
 
-{{< n n="*The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion." >}}
-   
+The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir.
 
-An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Natural Intelligence](/superphysics/solutions/isaiah) (ANI) and is one of the goals of Superphysics.
+This matches the problem-solving nature of Superphysics. 
 
+This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. 
 
-Qualimath will allow an AI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
+It is also different from Newton's Calculus which originated from plotting curvilinear motion. 
 
-{{< n n="*The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores (Update 2024: This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics." >}}
+Superphysics allows teleportation which totally negates curvilinear motion. This is one of the reasons why we had to invent Qualimath for Superphysics, just as Calculus was invented for Physics.
 
-  
+Qualimath is in between the current math and the math of the Essassani which uses shapes instead of numbers.
+
+An algorithm is an implementation or processing of a model which is the shape or structure of interconnected ideas that make up a complex idea.
+
+This lets algorithms solve complex mathematical problems.  
+
+This processing is automated by computers as machine learning, which is the automation of natural intelligence, wrongly called artificial intelligence by modern science. 
+
+We call it properly as Automated Natural Intelligence or ANI and is one of the goals of Superphysics.
+
+Qualimath will allow an ANI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
+
+The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores.
+
+{{< d t="Update 2024" >}}
+This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics.
+{{< /d >}}
  
 
-A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
+A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that definition is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
 
 {{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}
 I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
 {{< /q >}}
 
-{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses Poincare's Law of Relativity which uses aethereal state-change instead of Einstein's Relativity which uses tensors" >}}
-
+{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses relationality via Poincare's Law of Relativity which uses aethereal state-change instead of Einstein's Relativity which uses tensors which traverse space slices sequentially" >}}
 
 
 Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 

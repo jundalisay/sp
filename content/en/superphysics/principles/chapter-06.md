@@ -46,6 +46,12 @@ What is the Signature of things? Things are signed by whom? Who is the Signator?
 
 This `G` is unique for every thing. 
 
+
+{{< q a="Sri Yukteswar" c="Autobiography of a Yogi, Chapter 43" >}}
+Every atom in creation is inextinguishably dowered with individuality.
+{{< /q >}}
+
+
 Combine all `G`s into a single idea and you get the Absolute Entity as `1`. 
 
 {{< q a="Parmenides" c="Parmenides by Plato, Chapter 11" >}}

@@ -8,7 +8,6 @@ weight: 70
 ---
 
 
-
 “You are strong enough now to travel. I will accompany you to Kashmir,” Sri Yukteswar informed me two days after my miraculous recovery from Asiatic cholera.
 
 That evening our party of six entrained for the north. Our first leisurely stop was at Simla, a queenly city resting on the throne of Himalayan hills. We strolled over the steep streets, admiring the magnificent views.

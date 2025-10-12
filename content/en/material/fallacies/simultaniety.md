@@ -65,16 +65,21 @@ The second fallacy wastes away research funding into trying to figure out the Hu
 
 We call these 2 Fallacies the trap that creates violations of Nature:
 
-1. Using light as the measure of speed unifies space and time as one entity even if time is a superior aethereal object than space
+1. Relativity uses light as the measure of speed, when "idea" is the real measure.
 
-2. It makes time a product of electromagnetism instead of the aether and the aethereal mind -- it gives life to photons, with absurd statements like "photons do experience time"
+This unifies space and time as one entity, even if "time" is a superior aethereal object than "space".
 
-3. Since the aether is the real cause of gravity and space, Relativity eliminates the possibility of antigravity technologies already seen in UFOs and is essential for fusion
+2. Simultaneity makes time a product of electromagnetism instead of the aether idea and the aethereal mind.
+
+This gives life to photons, with absurd statements like "photons do experience time"
+
+Since the aether is the real cause of gravity and space, Relativity eliminates the possibility of antigravity technologies already seen in UFOs and is essential for fusion
 
 <!-- wrongly assigned the properties of space and time into has stifled the real development of  -->
 
 
 <!-- The cause is Einstein pegging the simultaneity of time to the speed of light as Special Relativity simply because light, as c, is constant and invariant in empty space. -->
+
 
 ### Absurd Concepts from Relativity
 
@@ -247,4 +252,4 @@ Speed is the amount of space covered per unit of time. So if you declare speed t
 {{< cap >}}
 Veritasium has the guts to expose the sophistry of Einstein in setting the 2-way speed of light as a constant. However, his solution, as the one-way speed of light, is as arbitrary as the c of Einstein.
 {{< /cap >}} -->
-  
+

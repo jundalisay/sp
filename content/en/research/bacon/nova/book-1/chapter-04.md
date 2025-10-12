@@ -47,16 +47,25 @@ Our ideas are detailed in our Tables of Invention.
 <!-- for without it all that we have said tends rather to produce a gloom than to encourage activity or quicken the industry of experiment, by causing them to have a worse and more contemptuous opinion of things as they are than they now entertain, and to perceive and feel more thoroughly their unfortunate condition. We must, therefore, disclose and prefix our reasons for not thinking the hope of success improbable, as Columbus, before his wonderful voyage over the Atlantic, gave the reasons of his conviction that new lands and continents might be discovered besides those[75] already known; and these reasons, though at first rejected, were yet proved by subsequent experience, and were the causes and beginnings of the greatest events. -->
 
 
-{{< s v="83" >}} Let us:
+{{< s v="93" >}} Let us:
 - begin from God
 - show that our pursuit from its exceeding goodness clearly proceeds from him
 
 
 In all divine works, the smallest beginnings lead assuredly to some result.
 
-The remark in spiritual matters that “the kingdom of God cometh without observation,” is also found to be true in every great work of Divine Providence, so that everything glides quietly on without confusion or noise, and the matter is achieved before men either think or perceive that it is commenced. 
+In the spiritual matters, there is a saying: “the kingdom of God comes without observation”.
 
-Nor should we neglect to mention the prophecy of Daniel, of the last days of the world, “Many shall run to and fro, and knowledge shall be increased,”[56] thus plainly hinting and suggesting that fate (which is Providence) would cause the complete circuit of the globe (now accomplished, or at least going forward by means of so many distant voyages), and the increase of learning to happen at the same epoch.
+This is also true in every great work of Divine Providence.
+
+Everything glides quietly on without confusion or noise. The matter is achieved before men either think or perceive that it is commenced.
+
+The prophecy of Daniel of the last days of the world says: “Many shall run to and fro, and knowledge shall be increased”.
+
+It suggests that fate (which is Providence) would cause:
+- the complete circuit of the globe
+  - This is now accomplished by so many distant voyages
+- the increase of learning to happen at the same epoch.
 
 
 <!-- {{< s v="94" >}} We will next give a most potent reason for hope deduced from the errors of the past, and the ways still unattempted; for well was an ill-governed state thus reproved, “That which is worst with regard to the past should appear most consolatory for the future; for if you had done all that your duty commanded, and your affairs proceeded no better, you could not even hope for their improvement; but since their present unhappy situation is not owing to the force of circumstances, but to your own errors, you have reason to hope that by banishing or correcting the latter[76] you can produce a great change for the better in the former.” 
@@ -69,15 +78,27 @@ but if they have mistaken the way and wasted their labor on improper objects, it
 {{< s v="95" >}} Those who have treated of the sciences have been either:
 - empirics or
   - These are like ants which only heap up and use their store
-- dogmatical.[57] 
+- dogmatical
   - These are like spiders which spin out their own webs. 
 
 The bee is a mean between both. It extracts matter from the flowers of the garden and the field, but works and fashions it by its own efforts. 
 
-The true labor of philosophy resembles hers, for it neither relies entirely or principally on the powers of the mind, nor yet lays up in the memory the matter afforded by the experiments of natural history and mechanics in its raw state, but changes and works it in the understanding. We have good reason,[77] therefore, to derive hope from a closer and purer alliance of these faculties (the experimental and rational) than has yet been attempted.
+The true labor of philosophy resembles hers. It does not rely entirely on:
+- the powers of the mind, or
+- the experiments of natural history and mechanics in its raw state
 
+Insted philosophy changes and works these in the understanding. 
 
-{{< s v="96" >}} Natural philosophy is not yet to be found unadulterated, but is impure and corrupted—by logic in the school of Aristotle, by natural theology in that of Plato,[58] by mathematics in the second school of Plato (that of Proclus and others)[59] which ought rather to terminate natural philosophy than to generate or create it. We may, therefore, hope for better results from pure and unmixed natural philosophy.
+<!-- We have good reason,[77] therefore, to derive hope from a closer and purer alliance of these faculties (the experimental and rational) than has yet been attempted. -->
+
+<!-- not yet unadulterated, but is -->
+{{< s v="96" >}} Natural philosophy is now impure and corrupted by:
+- logic through the school of Aristotle
+- natural theology of Plato
+- mathematics in the second school of Plato (that of Proclus and others)
+  - This should rather terminate natural philosophy than to generate or create it.
+
+We may, therefore, hope for better results from pure and unmixed natural philosophy.
 
 {{< s v="97" >}} No one has yet had the firmness and severity to:
 - entirely abolish common theories and notions, and
@@ -85,7 +106,16 @@ The true labor of philosophy resembles hers, for it neither relies entirely or p
 
 Hence, our human reasoning is a mere farrago and crude mass made up of a lot of credulity and accident. <!-- , and the puerile notions it originally contracted. -->
 
-But if a man of mature age, unprejudiced senses, and clear mind, would betake himself anew to experience and particulars, we might hope much more from such a one. In this respect, we promise ourselves the fortune of Alexander the Great. <!--  and let none accuse us of vanity till they have heard the tale, which is intended to check vanity. -->
+Better human reasoning needs a man of:
+- mature age
+- unprejudiced senses
+- clear mind
+
+ <!-- would betake himself anew to experience and particulars, we might hope much more from such a one. In this respect, we promise ourselves the fortune of  -->
+
+This would give us the fortune of Alexander the Great in reasoning. 
+
+<!--  and let none accuse us of vanity till they have heard the tale, which is intended to check vanity. -->
 
 Aeschines spoke thus of Alexander and his exploits: 
 
@@ -93,18 +123,40 @@ Aeschines spoke thus of Alexander and his exploits:
 We live not the life of mortals, but are born at such a period that posterity will relate and declare our prodigies.
 {{< /q >}}
 
+
 He considered Alexander's exploits to be miraculous.
 
-But in succeeding ages[60], Livy took a better view and observed that Alexander did no more than dare to despise insignificance.
+But afterwards, Livy took a better view and observed that Alexander merely aspired to greatness.
 
-So in our opinion, posterity will judge of us, that we have achieved no great matters, but only set less account upon what is considered important. 
+ <!-- did no more than dare to despise insignificance. -->
 
-For the meantime, our only hope is in the regeneration of the sciences, by regularly raising them on the foundation of experience and building them anew, which I think none can venture to affirm to have been already done or even thought of.
+So currently, we have achieved nothing great philosophically as we have not focused on what is important.
+
+<!-- So in our opinion, posterity will judge of us, that we have achieved no great matters, but only set less account upon what is considered important.  -->
+
+Our only hope is the regeneration of the sciences by:
+- raising them to match experience and
+- building them anew
+
+These have not been done by anyone.
+
+ <!-- which I think none can venture to affirm to have been already done or even thought of. -->
 
 
-{{< s v="98" >}} The foundations of experience (our sole resource) have hitherto failed completely or have been very weak. nor has a store and collection of particular facts, capable of informing the mind or in any way satisfactory, been either sought after or amassed. 
+{{< s v="98" >}} Our sole resource is experience. 
 
-On the contrary, learned, but idle and indolent, men have received some[79] mere reports of experience, traditions as it were of dreams, as establishing or confirming their philosophy, and have not hesitated to allow them the weight of legitimate evidence. 
+This is the foundation of this rebuilt science.
+
+The foundations of experience have hitherto failed completely or have been very weak.
+
+A collection of particular facts has not been amassed.
+
+<!-- , capable of informing the mind or in any way satisfactory, been either sought after or amassed.  -->
+
+On the contrary, learned, but idle and indolent men have received mere reports of dreams that confirm their philosophy.
+- These have been given weight as legitimate evidence.
+
+<!-- experience, traditions as it were of dreams, as establishing or , and have not hesitated to allow them the weight of .  -->
 
 So that a system has been pursued in philosophy with regard to experience resembling that of a kingdom or state which would direct its councils and affairs according to the gossip of city and street politicians, instead of the letters and reports of ambassadors and messengers worthy of credit. 
 
