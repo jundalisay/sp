@@ -1,10 +1,10 @@
 ---
 title: "Sri Yukteswar Explains Astral Planets"
-heading: Chapter 21
-description: ""
+heading: Chapter 43b
+description: "There are many astral planets, teeming with astral beings"
 c: "indigo"
 author: "Yogananda"
-weight: 70
+weight: 356
 ---
 
 

@@ -4,12 +4,13 @@ title: "Life: Living Things as Expressive Minds"
 # date: 2020-01-01
 date: 2020-12-10
 weight: 450
+tags: ["life", "mind", "soul"]
 image: /graphics/super/node.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 

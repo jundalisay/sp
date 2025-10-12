@@ -9,7 +9,6 @@
     gtag('config', 'G-KK1Q2RRQLM');
   </script>
 
-
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="yandex-verification" content="eef333a56a2c814a" />
@@ -68,69 +67,50 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477" crossorigin="anonymous"></script>
 
   {{ if .Params.Writer }}
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org/",
-      "@type": "Article",
-      "name": "{{ .Title }}",
-      "author": {
-        "@type": "Person",
-        "name": "{{ .Params.Writer.name }}"
-      },
-        "datePublished": "{{ .Params.Date }}",
-        "description": "{{ .Description }}",
-    }
-  </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "Article",
+        "name": "{{ .Title }}",
+        "author": {
+          "@type": "Person",
+          "name": "{{ .Params.Writer.name }}"
+        },
+          "datePublished": "{{ .Params.Date }}",
+          "description": "{{ .Description }}",
+      }
+    </script>
   {{ else }}
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org/",
-      "@type": "Article",
-      "name": "{{ .Title }}",
-        "datePublished": "{{ .Params.Date }}",
-        "description": "{{ .Description }}",
-    }
-  </script>
-
-
-
-<!-- Inside <head> OR before </body> -->
-<script>
-  // Apply dark mode on page load
-  (function() {
-    if (localStorage.theme === 'dark' ||
-        (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.classList.add('dark');
-    } else {
-      document.documentElement.classList.remove('dark');
-    }
-  })();
-
-  // Expose globally
-  function toggleDarkMode() {
-    document.documentElement.classList.toggle('dark');
-    localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-  }
-</script>
-
-
-<!-- <script type="text/javascript">
-  // put darkmode here because AI says so
-  (() => {
-    if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.classList.add('dark');
-    } else {
-      document.documentElement.classList.remove('dark');
-    }
-  })();
-
-  const toggleDarkMode = () => {
-    document.documentElement.classList.toggle('dark');
-    localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-  };
-
-</script> -->
-
-
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "Article",
+        "name": "{{ .Title }}",
+          "datePublished": "{{ .Params.Date }}",
+          "description": "{{ .Description }}",
+      }
+    </script>
   {{ end }}
+
+  
+    <!-- Inside <head> OR before </body> -->
+    <script>
+      // Apply dark mode on page load
+      (function() {
+        if (localStorage.theme === 'dark' ||
+            (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      })();
+
+      // Expose globally
+      function toggleDarkMode() {
+        document.documentElement.classList.toggle('dark');
+        localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+      }
+    </script>
+
+
 </head>

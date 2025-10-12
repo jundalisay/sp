@@ -158,9 +158,13 @@ On the contrary, learned, but idle and indolent men have received mere reports o
 
 <!-- experience, traditions as it were of dreams, as establishing or , and have not hesitated to allow them the weight of .  -->
 
-So that a system has been pursued in philosophy with regard to experience resembling that of a kingdom or state which would direct its councils and affairs according to the gossip of city and street politicians, instead of the letters and reports of ambassadors and messengers worthy of credit. 
+In this way, philosophy has directed state policies according to the gossip of city and street politicians, instead of the reports from ambassadors and messengers worthy of credit. 
 
-Nothing is rightly inquired into, or verified, noted, weighed, or measured, in natural history; indefinite and vague observation produces fallacious and uncertain information. If this appear strange, or our complaint somewhat too unjust (because Aristotle himself, so distinguished a man and supported by the wealth of so great a king, has completed an accurate history of animals, to which others with greater diligence but less noise have made considerable additions, and others again have composed copious histories and notices of plants, metals, and fossils), it will arise from a want of sufficiently attending to and comprehending our present observations; for a natural history compiled on its own account, and one collected for the mind’s information as a foundation for philosophy, are two different things. 
+ <!-- with regard to experience resembling that of a kingdom or state which would direct its councils and affairs  -->
+
+Nothing is rightly inquired into, or verified, noted, weighed, or measured, in natural history; 
+
+indefinite and vague observation produces fallacious and uncertain information. If this appear strange, or our complaint somewhat too unjust (because Aristotle himself, so distinguished a man and supported by the wealth of so great a king, has completed an accurate history of animals, to which others with greater diligence but less noise have made considerable additions, and others again have composed copious histories and notices of plants, metals, and fossils), it will arise from a want of sufficiently attending to and comprehending our present observations; for a natural history compiled on its own account, and one collected for the mind’s information as a foundation for philosophy, are two different things. 
 
 They differ principally in thiat the former contains only the varieties of natural species without the experiments of mechanical arts.
 

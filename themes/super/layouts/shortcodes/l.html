@@ -3,9 +3,8 @@
 {{ $imgName := printf "%s.jpg" $a }}
 {{ $img := resources.Get (printf "icons/%s" $imgName) }}
 
-<!-- fly-in fly-in-left style="margin: 0% 3% 0% 0%;"-->
-
-<div class="animate-fadeIn flex justify-start items-start gap-2 px-2 py-4 relative">
+<!-- animate-fly-in-from-left -->
+<div class="fly-in-left flex justify-start items-start gap-2 px-2 py-4 relative">
   {{ if $img }}
     <img class="w-14 h-14 rounded-full shadow-lg -mr-4 z-10" src="{{ $img.Permalink }}" alt="{{ $a }}">
   {{ else }}

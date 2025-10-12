@@ -129,9 +129,18 @@ Soon everyone was vibrating before me like a human motor. It was easy to observe
 
 Later I initiated the group into the liberating technique of Kriya Yoga.
 
-The Mahatma has reverently studied all world religions. The Jain scriptures, the Biblical New Testament, and the sociological writings of Tolstoy 44-11 are the three main sources of Gandhi’s nonviolent convictions. He has stated his credo thus:
+The Mahatma has reverently studied all world religions. 
 
-I believe the Bible, the Koran, and the Zend-Avesta 44-12 to be as divinely inspired as the Vedas. I believe in the institution of Gurus, but in this age millions must go without a Guru, because it is a rare thing to find a combination of perfect purity and perfect learning. But one need not despair of ever knowing the truth of one’s religion, because the fundamentals of Hinduism as of every great religion are unchangeable, and easily understood.
+Gandhi’s nonviolent convictions are based on 3 main sources:
+
+1. The Jain scriptures
+2. The Biblical New Testament
+3. The sociological writings of Tolstoy
+
+
+He has stated his credo thus:
+
+I believe the Bible, the Koran, and the Zend-Avesta to be as divinely inspired as the Vedas. I believe in the institution of Gurus, but in this age millions must go without a Guru, because it is a rare thing to find a combination of perfect purity and perfect learning. But one need not despair of ever knowing the truth of one’s religion, because the fundamentals of Hinduism as of every great religion are unchangeable, and easily understood.
 
 I believe like every Hindu in God and His oneness, in rebirth and salvation. . . . I can no more describe my feeling for Hinduism than for my own wife. She moves me as no other woman in the world can. Not that she has no faults; I daresay she has many more than I see myself. But the feeling of an indissoluble bond is there. Even so I feel for and about Hinduism with all its faults and limitations. Nothing delights me so much as the music of the Gita, or the Ramayana by Tulsidas. When I fancied I was taking my last breath, the Gita was my solace.
 
@@ -201,14 +210,11 @@ Gandhi’s epoch has extended, with the beautiful precision of cosmic timing, in
 
 MAHATMA GANDHI’S HANDWRITING IN HINDI
 
-gandhi handwriting
-
 Mahatma Gandhi visited my high school with yoga training at Ranchi. He graciously wrote the above lines in the Ranchi guest-book. The translation is: “This institution has deeply impressed my mind. I cherish high hopes that this school will encourage the further practical use of the spinning wheel.”
 
 (Signed) MOHANDAS GANDHI
 September 17, 1925
 
-gandhi handwriting
 
 A national flag for India was designed in 1921 by Gandhi. The stripes are saffron, white and green; the charka (spinning wheel) in the center is dark blue. “The charka symbolizes energy,” he wrote, “and reminds us that during the past eras of prosperity in India’s history, hand spinning and other domestic crafts were prominent.”
 

@@ -24,55 +24,40 @@
 
       {{ partial "bread.html" . }}
 
-      <!-- Header -->
+      {{ with .Params.heading }}          
+        <small class="py-2 dark:text-white" style="text-transform: uppercase">{{ . }}</small>
+      {{- end }}
 
-        {{ with .Params.heading }}          
-          <small class="py-2 dark:text-white" style="text-transform: uppercase">{{ . }}</small>
-        {{- end }}
-
-        
       <div class="flex items-start justify-between">
         <div class="flex-1">
-          <h1 class="text-4xl font-bold dark:text-white mb-2">{{ .Title }}</h1>
-          
+          <h1 class="text-5xl md:text-6xl font-bold dark:text-white text-gray-900 mb-6 leading-tight">{{ .Title }}</h1>    
 
-          <div class="flex items-start space-x-4">
-            <!-- Avatar -->
+          <div class="flex items-start space-x-4 pb-8">
             {{ with .Params.icon }}
-              <img src="/icons/{{ . }}.jpg" alt="Author avatar" class="w-8 h-8 inline-block align-baseline shadow-lg rounded-full">
+              <img src="/icons/{{ . }}.jpg" alt="Author avatar" class="w-12 h-12 inline-block align-baseline shadow-lg rounded-full">
             {{ end }}
-            <!-- Meta -->
+
             <div class="text-sm dark:text-gray-200 text-gray-700">
               <div>
                   {{ with .Params.contributors }}          
-                    by 
-                    {{- range . }}
-                      {{ . }}
-                    {{- end }}
+                    by {{- range . }} {{ . }} {{- end }}
                   {{- end }}
                   {{ with .Params.author }}          
-                      by {{ . }}
+                    by {{ . }}
                   {{- end }} 
                   {{ with .Params.writer }}   
-                      by <a href="{{ .url }}">{{ .name }}</a>
+                    by <a href="{{ .url }}">{{ .name }}</a>
                   {{- end }}      
-
                   {{ with .Params.Date }}
-                    {{ . | time.Format "Jan 2, 2006" }}
+                    | {{ . | time.Format "Jan 2, 2006" }}
                   {{ end }}
               </div>
 
-
               <div class="flex">
-                <svg class="dark:text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="gray" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-
+                <svg class="" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                 <span class="px-4 dark:text-gray-200"> {{ .ReadingTime }} min read </span>
-
-                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="gray" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="dark:text-white pl-4"><path d="M15 12h-5"/><path d="M15 8h-5"/><path d="M19 17V5a2 2 0 0 0-2-2H4"/><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3"/></svg> -->
-
-
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-scroll-text-icon lucide-scroll-text"><path d="M15 12h-5"/><path d="M15 8h-5"/><path d="M19 17V5a2 2 0 0 0-2-2H4"/><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3"/></svg>
-
+                
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class=""><path d="M15 12h-5"/><path d="M15 8h-5"/><path d="M19 17V5a2 2 0 0 0-2-2H4"/><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3"/></svg>
                 <span class="dark:text-gray-200"> {{ .WordCount }} words</span>
 
                 {{ if .IsTranslated -}}
@@ -80,51 +65,45 @@
                   {{- $links := apply $sortedTranslations "partial" "translation_link.html" "." -}}
                   {{- $cleanLinks := apply $links "chomp" "." -}}
                   {{- $linksOutput := delimit $cleanLinks (i18n "translationsSeparator") -}}
-                  &nbsp;&nbsp; {{ i18n "translationsLabel" }} {{ $linksOutput | safeHTML }}
+                  <svg class="mx-4" fill="currentColor" width="24" height="24" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><title>ionicons-v5-l</title><path d="M478.33,433.6l-90-218a22,22,0,0,0-40.67,0l-90,218a22,22,0,1,0,40.67,16.79L316.66,406H419.33l18.33,44.39A22,22,0,0,0,458,464a22,22,0,0,0,20.32-30.4ZM334.83,362,368,281.65,401.17,362Z"/><path d="M267.84,342.92a22,22,0,0,0-4.89-30.7c-.2-.15-15-11.13-36.49-34.73,39.65-53.68,62.11-114.75,71.27-143.49H330a22,22,0,0,0,0-44H214V70a22,22,0,0,0-44,0V90H54a22,22,0,0,0,0,44H251.25c-9.52,26.95-27.05,69.5-53.79,108.36-31.41-41.68-43.08-68.65-43.17-68.87a22,22,0,0,0-40.58,17c.58,1.38,14.55,34.23,52.86,83.93.92,1.19,1.83,2.35,2.74,3.51-39.24,44.35-77.74,71.86-93.85,80.74a22,22,0,1,0,21.07,38.63c2.16-1.18,48.6-26.89,101.63-85.59,22.52,24.08,38,35.44,38.93,36.1a22,22,0,0,0,30.75-4.9Z"/></svg>
+                  {{ $linksOutput | safeHTML }}
                 {{- end }}
-
-
-                {{ with .Params.tags -}}
-                  {{ range . }}
-                    <a href="/tags/{{ . | urlize }}" class="mx-2 hover:scale-110 inline-flex items-center gap-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 text-sm py-1 px-2">
-                      {{ . }}
-                    </a>
-                  {{ end }}
-                {{ end }}
-
               </div>
 
+              {{ with .Params.tags }}
+                <div class="flex flex-wrap items-center gap-2 mb-6">
+                  <svg class="" stroke="currentColor" width="24" height="24" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                    <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/>
+                  </svg>
+                  {{ range . }}
+                    <button class="button rounded-full bg-gray-200 dark:bg-gray-800 p-1 hover:bg-gray-400 dark:hover:bg-gray-400"><a href="/tags/{{ . | urlize }}" style="text-decoration: none;">{{ . }}</a></button>
+                  {{ end }}
+                </div>
+              {{ end }}
             </div>
           </div>
 
-
-          <!-- TOC toggle button -->
-          {{ if eq .Params.TOC false }}
-
-          {{ else -}}
-
-            <details class="group w-fit mt-4 rounded-md shadow-sm transition">
-              <summary class="cursor-pointer flex items-center justify-between gap-2 px-4 py-2 bg-white text-sm dark:bg-slate-700 dark:text-gray-200 text-gray-700 hover:bg-blue-50 hover:text-blue-600 rounded-md">
-                <span>Table of Contents</span>
-                <svg
-                  class="w-4 h-4 transition-transform duration-300 group-open:rotate-180"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                >
-                  <path d="M19 9l-7 7-7-7" />
+          <!-- Table of Contents -->
+          {{ if ne .Params.TOC false }}
+            <details class="group mb-8 border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden bg-white dark:bg-gray-800 shadow-sm">
+              <summary class="cursor-pointer flex items-center justify-between px-4 py-3 text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                <div class="flex items-center gap-2">
+                  <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                    <line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/>
+                  </svg>
+                  <span>Table of Contents</span>
+                </div>
+                <svg class="w-4 h-4 transition-transform duration-200 group-open:rotate-180" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M19 9l-7 7-7-7"/>
                 </svg>
               </summary>
-
-              <!-- Animated content -->
-              <div class="mt-2 p-3 bg-gray-50 rounded-md shadow-inner border border-gray-200 animate-fade-slide text-sm text-gray-700">
+              <div class="px-4 py-3 text-sm border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900/50">
                 {{ .TableOfContents }}
               </div>
             </details>
-          {{ end -}}
+          {{ end }}
+
+
 
           <!-- Content dark:text-white text-black-->
           <div class="mt-6 pb-24 prose text-black dark:prose-headings:text-white dark:text-white prose-xl max-w-none ">
