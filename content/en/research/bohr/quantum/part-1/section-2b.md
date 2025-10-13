@@ -19,35 +19,11 @@ Let the potential of the external field at t ≥ 0 be given by Ω, expressed as
 
 At any given moment t > 0 we have then
 
-<!-- δE = −
-Z 0
-−ϑ
-ϑ + t
-ϑ
-Xs
-1
-∂Ω
-∂qk
-q˙k dt −
-Z t
-0
-Xs
-1
-∂Ω
-∂qk
-q˙k dt, -->
-
 ...
 
 which gives by partial integration
 
-<!-- δE =
-1
-ϑ
-Z 0
-−ϑ
-Ω dt − Ωt
-, -->
+...
 
 where the values for the q’s to be introduced in Ω in the first term are those corresponding to the motion under the influence of the increasing external field, and the values to be introduced in the second term are those corresponding to the configuration at the time t.
 
@@ -180,31 +156,14 @@ Consider now a transition between the state corresponding to n = n 0 and the sta
 In that case we may in (8) for δE put
 
 ...
-<!-- E
-0 − E
-00 and for δI put I
-0 − I
-00, and  -->
 
 We get therefore from (1) and (10) for the frequency of the radiation emitted or absorbed during the transition between the two states 
 
-<!-- ν =
-1
-h
-(E
-0 − E
-00) = ω
-h
-(I
-0 − I
-00) = (n
-0 − n
-00)ω. (13) -->
+...
 
 In a stationary state of a periodic system the displacement of the particles in any given direction may always be expressed by means of a Fourier-series as a sum of harmonic vibrations:
 
-<!-- ξ =
-XCτ cos 2π(τωt + cτ ), (14) -->
+...
 
 where the C’s and c’s are constants and the summation is
 to be extended over all positive entire values of τ . 

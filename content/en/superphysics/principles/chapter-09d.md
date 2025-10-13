@@ -31,3 +31,11 @@ Each mind has a configuration called personality structure that manifests as one
 
 
 
+
+
+## Love Versus Money, Heart Versus Intellect
+
+A common philosophical question asked by young people is whether to go for love or money, or follow the heart or the intellect.
+
+
+
