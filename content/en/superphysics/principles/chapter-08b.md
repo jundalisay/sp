@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8b"
-title: "The Thinking Process"
+title: "The 4 Operations of Thinking"
 date: 2020-12-06
 image: /graphics/psych/think.jpg
 weight: 484

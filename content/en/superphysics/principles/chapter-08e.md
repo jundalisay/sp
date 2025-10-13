@@ -3,7 +3,7 @@ heading: "Chapter 8e"
 title: "The Eagle"
 date: 2020-12-27
 weight: 506
-image: "/graphics/movement.png"
+image: "/graphics/super/egl.jpg"
 description: "The harmony or disharmony between spins leads to attraction and cohesion, or repulsion and disintegration"
 icon: "Juan"
 aliases:

@@ -1,10 +1,9 @@
 ---
 title: "Social Welfare Measures"
-heading: Chapter 11
-linkTitle: Freud
-# date: 2022-07-21
-weight: 34
-description: "Sigmund Freud was the founder of psychoanalysis, a clinical method for evaluating and treating pathologies through dialogue with a patient"
+heading: Chapter 11b
+weight: 15
+c: "firebrick"
+description: ""
 ---
 
 

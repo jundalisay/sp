@@ -2,8 +2,8 @@
 title: "Social Welfare Measures"
 heading: Chapter 11
 linkTitle: Freud
-# date: 2022-07-21
-weight: 34
+c: "firebrick"
+weight: 8
 description: "Sigmund Freud was the founder of psychoanalysis, a clinical method for evaluating and treating pathologies through dialogue with a patient"
 ---
 
@@ -17,33 +17,47 @@ at somewhat greater length the largest single component of the social security
 program, old age and survivor's insurance.
 Miscellaneous Welfare Measures
 
- I. Public Housing One argument frequently made for public housing is
-based on an alleged neighborhood effect: slum districts in particular, and other
-low quality housing to a lesser degree, are said to impose higher costs on the
-community in the form of fire and police protection. This literal neighborhood
-effect may well exist. But insofar as it does, it alone argues, not for public
-housing, but for higher taxes on the kind of housing that adds to social costs
-since this would tend to equalize private and social cost.
+1. Public Housing 
 
- It will be answered at once that the extra taxes would bear on low-income
-people and that this is undesirable. The answer means that public housing is
-proposed not on the ground of neighborhood effects but as a means of helping
-low-income people. If this be the case, why subsidize housing in particular? If
-funds are to be used to help the poor, would they not be used more effectively
-by being given in cash rather than in kind? Surely, the families being helped
-would rather have" a given sum in cash than in the form of housing. They could
-themselves spend the money on housing if they so desired. Hence, they would
-never be worse off if given cash; if they regarded other needs as more
-important, they would be better off. The cash subsidy would solve the
-neighborhood effect as well as the subsidy in kind, since if it were not used to
+One argument frequently made for public housing is based on an alleged neighborhood effect: slums and low quality housing impose higher costs on the community as fire and police protection. 
+
+This argues for higher taxes on the poor in order to equalize private and social cost.
+
+<!--  the kind of housing that adds to social costs
+since this would tend  -->
+
+But this is undesirable.
+
+And so people propose public housing as a means of helping low-income people. 
+
+<!-- If this be the case, why subsidize housing in particular?  -->
+
+<!-- If funds are to be used to help the poor, would they not be used more effectively by being given in cash rather than in kind?  -->
+
+It is better to give cash to poor families than actual housing. 
+
+<!-- Surely, the families being helped would rather have" a given sum in cash than in the form of housing.  -->
+
+They could themselves spend the money on housing if they wanted. 
+
+<!-- Hence, they would never be worse off if given cash; if they regarded other needs as more
+important, they would be better off.  -->
+
+The cash subsidy would solve:
+- the congestion
+- the need to help the poor
+
+<!--  the neighborhood effect as well as the subsidy in kind, since if it were not used to
 buy housing it would be available to pay extra taxes justified by the
-neighborhood effect.
+neighborhood effect. -->
 
- Public housing cannot therefore be justified on the grounds either of
-neighborhood effects or of helping poor families. It can be justified, if at all, only
-on grounds of paternalism; that the families being helped "need" housing more
-than they "need" other things but would themselves either not agree or would spend the money unwisely. The liberal will be inclined to reject this argument for
-responsible adults. 
+Public housing cannot therefore be justified by either:
+- neighborhood effects or
+- helping poor families
+
+Its justification is only on grounds of paternalism -- families being helped "need" housing more than they "need" other things but would themselves either not agree or would spend the money unwisely. 
+
+The liberal will be inclined to reject this argument for responsible adults. 
 
 He cannot completely reject it in the more indirect form in
 which it affects children; namely, that parents will neglect the welfare of the
@@ -84,24 +98,15 @@ serve.
 In this case, the special interests were those local groups that were
 anxious to have blighted areas cleared and refurbished, either because they
 owned property there or because the blight was threatening local or central
-business districts. Public housing served as a convenient means to accomplish
+business districts. 
+
+Public housing served as a convenient means to accomplish
 their objective, which required more destruction than construction.
  Even so, "urban blight" is still with us in undiminished force, to judge by
 the growing pressure for federal funds to deal with it.
  
-Another gain its proponents expected from public housing was the
-reduction of juvenile delinquency by improving housing conditions. Here again,
-the program in many instances had precisely the opposite effect, entirely aside
-from its failure to improve average housing conditions. The income limitations
-quite properly imposed for the occupancy of public housing at subsidized rentals
-have led to a very high density of "broken" families in particular, divorced or
-widowed mothers with children. Children of broken families are especially likely
-to be "problem" children and a high concentration of such children is likely to
-increase juvenile delinquency. One manifestation has been the very adverse
-effect on schools in the neighborhood of a public housing project. Whereas a
-school can readily absorb a few "problem" children it is very difficult for it to
-absorb a large number. Yet in some cases, broken families are a third or more of
-the total in a public housing project and the project may account for a majority
-of the children in the school. Had these families been assisted through cash
-grants, they would have been spread much more thinly through the community.
+Another gain its proponents expected from public housing was the reduction of juvenile delinquency by improving housing conditions. Here again, the program in many instances had precisely the opposite effect, entirely aside from its failure to improve average housing conditions. 
 
+The income limitations quite properly imposed for the occupancy of public housing at subsidized rentals have led to a very high density of "broken" families in particular, divorced or widowed mothers with children. Children of broken families are especially likely to be "problem" children and a high concentration of such children is likely to increase juvenile delinquency. 
+
+One manifestation has been the very adverse effect on schools in the neighborhood of a public housing project. Whereas a school can readily absorb a few "problem" children it is very difficult for it to absorb a large number. Yet in some cases, broken families are a third or more of the total in a public housing project and the project may account for a majority of the children in the school. Had these families been assisted through cash grants, they would have been spread much more thinly through the community.

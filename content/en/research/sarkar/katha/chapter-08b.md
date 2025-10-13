@@ -61,8 +61,9 @@ Later I also came to understand what it meant for Dattaji to ‘send’ the Mukh
 Ahamad. 
 
 It did not mean that Dattaji had the power of command over the Mukhtare
-Ahamad, or that Baba was subordinate to him. Rather, the laws of the mystic world
-would bind Baba, as a higher authority, to grant the wishes of those who have attained
+Ahamad, or that Baba was subordinate to him. 
+
+Rather, the laws of the mystic world would bind Baba, as a higher authority, to grant the wishes of those who have attained
 a very high degree of spiritual development. 
 
 Regardless of whether they were Margiis

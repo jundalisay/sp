@@ -6,7 +6,7 @@ description: "3 strands of DNA are for physical reality"
 ---
 
 
-### Part of Reality Generation 
+## Part of Reality Generation 
 
 2 or 3 strands of DNA are for physical reality.
 
@@ -22,4 +22,12 @@ These had switching mechanisms which turned on by themselves.
 The Atlanteans learned to switch these on or off themselves. They tried to mimic the Anunnaki. 
 
 They thought they were copying perfection but ended up copying Anunnaki imperfection. 
+
+
+
+## Blood Types
+
+RH negative blood is from Sirius
+
+
 

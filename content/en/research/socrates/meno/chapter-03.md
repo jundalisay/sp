@@ -78,20 +78,28 @@ SOCRATES: I know, Meno, what you mean; but just see what a tiresome dispute you 
 
 MENO: Well, Socrates, and is not the argument sound?
 
-SOCRATES: I have heard from certain wise men and women who spoke of things divine, of a glorious truth. Some of them were priests and priestesses, who had studied how they might be able to give a reason of their profession: 
 
-There have been poets also, who spoke of these things by inspiration, like Pindar, and many others who were inspired.
+{{< l a="Socrates">}}
+I have heard from wise men and women who spoke of things divine, of a glorious truth.
 
-They say—mark, now, and see whether their words are true—they say that the soul of man is immortal, and at one time has an end, which is termed dying, and at another time is born again, but is never destroyed. 
+<!--  Some of them were priests and priestesses, who had studied how they might be able to give a reason of their profession: 
 
-The moral is, that a man ought to live always in perfect holiness. 'For in the ninth year Persephone sends the souls of those from whom she has received the penalty of ancient crime back again from beneath into the light of the sun above, and these are they who become noble kings and mighty men and great in wisdom and are called saintly heroes in after ages.' 
+There have been poets also, who spoke of these things by inspiration, like Pindar, and many others who were inspired -->
 
-The soul, then, as being immortal, and having been born again many times, and having seen all things that exist, whether in this world or in the world below, has knowledge of them all; and it is no wonder that she should be able to call to remembrance all that she ever knew about virtue, and about everything; 
+They say that the soul of man is immortal, and at one time has an end, which is termed dying, and at another time is born again, but is never destroyed. 
+
+The moral is that a man should live always in perfect holiness. 'For in the ninth year Persephone sends the souls of those from whom she has received the penalty of ancient crime back again from beneath into the light of the sun above, and these are they who become noble kings and mighty men and great in wisdom and are called saintly heroes in after ages.' 
+
+The soul, then, as being immortal, and having been born again many times, and having seen all things that exist, whether in this world or in the world below, has knowledge of them all. It is no wonder that she should be able to call to remembrance all that she ever knew about virtue, and about everything.
 
 For as all nature is akin, and the soul has learned all things; there is no difficulty in her eliciting or as men say learning, out of a single recollection all the rest, if a man is strenuous and does not faint; for all enquiry and all learning is but recollection. 
 
-Therefore we ought not to listen to this sophistical argument about the impossibility of enquiry: for it will make us idle; and is sweet only to the sluggard; but the other saying will make us active and inquisitive. In that confiding, I will gladly enquire with you into the nature of virtue.
+Therefore we should not listen to this sophistical argument about the impossibility of enquiry as it:
+- will make us idle
+- is sweet only to the sluggard
 
+But the other saying will make us active and inquisitive. In that confiding, I will gladly enquire with you into the nature of virtue.
+{{< /l >}}
 
 MENO: Yes, but what do you mean that we do not learn, and that learning is only a process of recollection?
 

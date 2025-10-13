@@ -1,0 +1,42 @@
+---
+heading: "Chapter 10b"
+title: "Group Feeling, Morality, and Justice"
+date: 2025-10-07
+weight: 690
+image: /photos/econ/prices.jpg
+description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: "Juan"
+draft: true
+---
+
+
+Chapter 9 explained that feelings are important. 
+
+
+
+Our logic is based on our feelings because particles are inferiot wvae
+
+
+Morality is
+
+## Ease and Unease, Peace and Agitation
+
+
+Western moral philosophy focuses on the feelings of pain and pleasure as the basis for morality. 
+
+The problme is that such feelings can either be physical or metaphysical (mental). 
+- Physical pain can manifest as a wound or a toothache
+- Metaphysical pain can manifest as the pain of  seeing your ex-partner happy with someone else, or the pain of not seeing our loved ones for a long time
+
+Moreover, pleasure is usually associated with physicality such as eating delicious food, listening to our favorite music, having a relaxing massage, doing sexual acts, etc. 
+
+We do not usually associate the word pleasure with giving relief goods to victims of disasters, or in solving the problem of our friends or customers. 
+
+In such cases, we get a warm, lightweight feeling in our hearts instead of strong pleasureable semsations in our brains. 
+
+This is why our basis for morality is not pain or pleasure, but ease and unease, or pain and agitation. 
+
+

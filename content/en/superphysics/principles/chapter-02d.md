@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2d"
-title: "The Fire Element"
+title: "Fire: Light and Heat"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04

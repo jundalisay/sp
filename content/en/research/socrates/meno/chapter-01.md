@@ -1,4 +1,5 @@
 ---
+heading: Chapter 1
 title: "Gorgias and Virtue"
 weight: 4
 writer:

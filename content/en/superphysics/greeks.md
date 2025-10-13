@@ -22,6 +22,7 @@ Period | Philosopher | Key Idea
 480-420 BC | Leucippus | Founder of Atomism -- universe is made of indivisible atoms moving in a void
 460–370 BC | Democritus | Student of Leucippus 
 470–399 BC |  Socrates | Socratic Method
+435-350 BC | Arychtas | Dialectics
 428–348 BC |  Plato Pupil of Socrates | Founded the Academy. Developed the Theory of Forms -- non-physical Forms represent the most accurate reality
 384–322 BC | Aristotle Pupil of Plato | Founded the Lyceum. Developed Formal Logic and systematic studies in biology, physics, ethics, and politics. Introduced concepts of teleology (purpose)
 341–270 BC |  Epicurus | Founded Epicureanism -- the goal of life is ataraxia (freedom from fear) and aponia (absence of pain)

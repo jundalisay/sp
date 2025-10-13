@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2"
-title: "The 5 Elements of Reality"
+title: "The 5 Elements as the 5 Layers of Reality"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04
@@ -56,7 +56,7 @@ Material | Strong Force
 This is because physicists impose a limitation on themselves to ignore or avoid metaphysical perceptions like ideas, feelings, and spirits. This in turn is because their minds favor the material and crude perceptions as being universal or common to all. 
 
 
-## The Forces Have A Hierarchy
+## Layers with a Hierarchy
 
 Section 1b explained that the metaphysical is superior to the physical since physicality itself is the effect of metaphysicality. 
 
@@ -84,27 +84,77 @@ Both creation and discovery are part of existence or reality -- you create somet
 {{< i s="/graphics/super/operative.svg" a="The 5 Layers of Superphysics" c="The 5 Layers, 5 Elements, 5 Strata are similar but different. The 5 Layers are for Physical Phenomena. The 5 Elements are for Living Phenomena. The 5 Strata are for Mental and Spiritual Phenomena. The Mental-Spiritual is Superior to the Physical" >}}
  -->
 
-We then list the 5 Elements according to rank in Nature.
+However, the concept of the ancient Greek Elements did not have hierarchy built-in. Instead, they used the center or mean.
+
+
+{{< q a="Timaeus" c="Timaeus by Plato, Chapter 3" >}}
+If a set of any 3 numbers has a mean, the mean is to the 1st number just as it is to the last number.. If the universal frame was just a surface with no depth, a single mean would have sufficed to bind together itself and the other terms.
+{{< /q >}}
+
+
+We use the concept of Influences or Gunas to impart the idea of a center or mean for each Element.
+
+This is why we rename the "Elements" into "Layers" in order to impart:
+- the hierarchy within the 5 Layers
+- the subdivision of each Layer into 3 Sublayers
+
+
+An analogy is a Photoshop image which is made up layers that are on top of each other. 
+
+{{< img src="/graphics/super/layers.jpg" alt="Layers in an image" cap="Reality is made up of 5 Layers which the ancients called the 5 Elements" >}}
+
+For example, the reality of a rock is made up of layers of properties are perceived together in the identity of the rock:
+
+1. The aethereal idea of the rock 
+2. The volumetric space occupied by the rock
+3. The color of the rock as the light bounces off of it
+4. The intermolecular forces that hold the rock together
+5. The contact forces that prevent the rock from going through the ground 
+
+
+We put these Layers into a hierarchy 
+
+1. Aether Layer
+2. Air Layer
+3. Fire Layer
+4. Water Layer
+5. Earth Layer
+
+We then expand these into 15 to account for the Spiritual-Social, Biological, and Material aspects of Nature.
+
+
+Rank | Spiritual and Social | Biological | Material | Assigned Number
+--- |  --- | --- | --- | ---
+1 | Causal | Aether | Aethereal | 5
+2 | Essential | Air | Spatial | 4
+3 | Astral | Fire | Radiant | 3
+4 | Subtle | Water | Convertible | 2
+5 | Crude | Earth | Material | 1
+
+
+The assigned numbers are what the Greeks gave to the Elements or Layers. This is why we call the Causal or Aetheral as the 5th Element or Layer.  
 
 
 
-### The 5 Elements is an Atheist or Pantheist Belief 
+<!-- ## The 5 Layers are an Atheist or Pantheist Belief 
 
-Bacon and Descartes clearly did not believe in a dominating personal God, as proven by Bacon's own essay: 
+Francis Bacon and Rene Descartes clearly did not believe in a dominating personal God, as proven by Bacon's own essay: 
 
 {{< q a="Francis Bacon" >}}
-"For it is a thousand times more credible, that four mutable elements, and one immutable fifth essence, duly and eternally placed, need no God, than that an army of infinite small portions, or seeds unplaced, should have produced this order and beauty, without a divine marshal"
+It is a thousand times more credible, that 4 mutable elements, and 1 immutable fifth essence, duly and eternally placed, need no God, than that an army of infinite small portions, or seeds unplaced, should have produced this order and beauty, without a divine marshal
 {{< /q >}}
+
 
 The 5 Layers are Atheist in the sense that all layers and particles are 'programmed' and do not need an overseer. 
 
-Socrates promoted the Elements paradigm of Timaeus and was executed because of his atheism. 
+Socrates promoted the Elements paradigm of Timaeus and was executed because of his atheism.  -->
 
 <!-- However, they are Theist in the sense that a program needs a programmer.  -->
-
+<!-- 
 This is opposite of the Theist Universe of Isaac Newton:
 
 {{< q a="Newton" >}}
 "This most beautiful system [of the universe] can only come from an intelligent and powerful Being.. This Being governs all things, not as the soul of the universe, but as Lord overall. I call Him Lord God or Universal Ruler"
 {{< /q >}}
 
+ -->

@@ -11,46 +11,28 @@ writer:
 ---
 
 
-If now, with the exposition which has been given of
-art in general, we turn from plastic and pictorial art to poetry,
-we shall have no doubt that its aim also is the revelation of
-the Ideas, the grades of the objectification of will, and the
-communication of them to the hearer with the distinctness and
-vividness with which the poetical sense comprehends them. Ideas
-are essentially perceptible; if, therefore, in poetry only abstract
+
+The aim of plastic and pictorial art to poetry is the revelation of the Ideas, the grades of the objectification of will, and the communication of them to the hearer with the distinctness and
+vividness with which the poetical sense comprehends them. 
+
+Ideas are essentially perceptible; if, therefore, in poetry only abstract
 conceptions are directly communicated through words, it is yet
 clearly the intention to make the hearer perceive the Ideas of
 life in the representatives of these conceptions, and this can only
-take place through the assistance of his own imagination. But
-in order to set the imagination to work for the accomplishment
-of this end, the abstract conceptions, which are the immediate
-material of poetry as of dry prose, must be so arranged that
-their spheres intersect each other in such a way that none of
-them can remain in its abstract universality; but, instead of it,
-a perceptible representative appears to the imagination; and this
-is always further modified by the words of the poet according
-to what his intention may be. As the chemist obtains solid
-precipitates by combining perfectly clear and transparent fluids;
-the poet understands how to precipitate, as it were, the concrete,
-the individual, the perceptible idea, out of the abstract and
-transparent universality of the concepts by the manner in which
-he combines them. For the Idea can only be known by perception; [314]
-and knowledge of the Idea is the end of art. The skill of a master,
-in poetry as in chemistry, enables us always to obtain the precise
-precipitate we intended. 
+take place through the assistance of his own imagination. 
 
-This end is assisted by the numerous epithets in poetry, by means of which the universality of every
-concept is narrowed more and more till we reach the perceptible.
-Homer attaches to almost every substantive an adjective, whose
-concept intersects and considerably diminishes the sphere of the
-concept of the substantive, which is thus brought so much the
-nearer to perception: for example—
+But in order to set the imagination to work for the accomplishment of this end, the abstract conceptions, which are the immediate material of poetry as of dry prose, must be so arranged that their spheres intersect each other in such a way that none of them can remain in its abstract universality; but, instead of it, a perceptible representative appears to the imagination; and this is always further modified by the words of the poet according to what his intention may be. 
+
+As the chemist obtains solid precipitates by combining perfectly clear and transparent fluids; the poet understands how to precipitate, as it were, the concrete, the individual, the perceptible idea, out of the abstract and transparent universality of the concepts by the manner in which he combines them. For the Idea can only be known by perception; [314] and knowledge of the Idea is the end of art. The skill of a master, in poetry as in chemistry, enables us always to obtain the precise precipitate we intended.
+
+This end is assisted by the numerous epithets in poetry, by means of which the universality of every concept is narrowed more and more till we reach the perceptible. Homer attaches to almost every substantive an adjective, whose concept intersects and considerably diminishes the sphere of the concept of the substantive, which is thus brought so much the nearer to perception: for example—
 
 “ïΩ ¥Ω μ¿μ√Ω ©∫μ±ΩÛ ª±º¿¡øΩ ∆±ø¬ !μªπøπø,
 ª∫øΩ Ω≈∫ƒ± ºμª±πΩ±Ω μ¿π ∂μπ¥…¡øΩ ±¡ø≈¡±Ω.”
 (“Occidit vero in Oceanum splendidum lumen solis,
 Trahens noctem nigram super almam terram.”)
 And—
+
 “Where gentle winds from the blue heavens sigh,
 There stand the myrtles still, the laurel high,”—
 
@@ -323,7 +305,9 @@ true, powerful, and fresh. But if the poet is always the universal
 man, then all that has ever moved a human heart, all that human
 nature in any situation has ever produced from itself, all that
 dwells and broods in any human breast—is his theme and his
-material, and also all the rest of nature. Therefore the poet may
+material, and also all the rest of nature. 
+
+Therefore the poet may
 just as well sing of voluptuousness as of mysticism, be Anacreon
 or Angelus Silesius, write tragedies or comedies, represent the
 sublime or the common mind—according to humour or vocation.
@@ -332,6 +316,7 @@ to be—noble and sublime, moral, pious, Christian, one thing
 or another, still less to reproach him because he is one thing
 and not another. He is the mirror of mankind, and brings to its
 consciousness what it feels and does.
+
 If we now consider more closely the nature of the lyric
 proper, and select as examples exquisite and pure models, not
 those that approach in any way to some other form of poetry,
@@ -394,11 +379,13 @@ with it, as Byron very beautifully expresses—
 “I live not in myself, but I become
 Portion of that around me; and to me
 High mountains are a feeling.”
+
 This is why the youth clings so closely to the perceptible and
 outward side of things; this is why he is only fit for lyrical poetry,
 and only the full-grown man is capable of the drama. The old
 man we can think of as at the most an epic poet, like Ossian, and
 Homer, for narration is characteristic of old age.
+
 In the more objective kinds of poetry, especially in the
 romance, the epic, and the drama, the end, the revelation of
 the Idea of man, is principally attained by two means, by
@@ -439,9 +426,10 @@ other. For example, in order to comprehend fully the Ideas
 of water it is not sufficient to see it in the quiet pond or in
 the evenly-flowing stream; but these Ideas disclose themselves
 fully only when the water appears under all circumstances and
-exposed to all kinds of obstacles. The effects of the varied
-circumstances and obstacles give it the opportunity of fully [326]
-exhibiting all its qualities. This is why we find it beautiful when
+exposed to all kinds of obstacles. 
+
+The effects of the varied
+circumstances and obstacles give it the opportunity of fully exhibiting all its qualities. This is why we find it beautiful when
 it tumbles, rushes, and foams, or leaps into the air, or falls in
 a cataract of spray; or, lastly, if artificially confined it springs
 up in a fountain. Thus showing itself different under different
@@ -453,10 +441,10 @@ of water, the architect achieves with the rigid matter of stone,
 and just this the epic or dramatic poet achieves with the Idea of
 man. Unfolding and rendering distinct the Idea expressing itself
 in the object of every art, the Idea of the will which objectifies
-itself at each grade, is the common end of all the arts. The life
-of man, as it shows itself for the most part in the real world, is
-330 The World As Will And Idea (Vol. 1 of 3)
-like the water, as it is generally seen in the pond and the river;
+itself at each grade, is the common end of all the arts. 
+
+The life
+of man, as it shows itself for the most part in the real world, is like the water, as it is generally seen in the pond and the river;
 but in the epic, the romance, the tragedy, selected characters are
 placed in those circumstances in which all their special qualities
 unfold themselves, the depths of the human heart are revealed,
@@ -465,8 +453,10 @@ Thus poetry objectifies the Idea of man, an Idea which has the
 peculiarity of expressing itself in highly individual characters.
 Tragedy is to be regarded, and is recognised as the summit
 of poetical art, both on account of the greatness of its effect
-and the difficulty of its achievement. It is very significant for
-our whole system, and well worthy of observation, that the end
+and the difficulty of its achievement. 
+
+
+It is very significant for our whole system, and well worthy of observation, that the end
 of this highest poetical achievement is the representation of the
 terrible side of life. The unspeakable pain, the wail of humanity,
 the triumph of evil, the scornful mastery of chance, and the
@@ -488,10 +478,10 @@ of knowledge, in another less so, till at last, in some single
 case, this knowledge, purified and heightened by suffering itself,
 reaches the point at which the phenomenon, the veil of Mâya, no
 longer deceives it. It sees through the form of the phenomenon,
-the principium individuationis. The egoism which rests on this
-perishes with it, so that now the motives that were so powerful
-331
-before have lost their might, and instead of them the complete
+the principium individuationis. 
+
+The egoism which rests on this
+perishes with it, so that now the motives that were so powerful before have lost their might, and instead of them the complete
 knowledge of the nature of the world, which has a quieting effect
 on the will, produces resignation, the surrender not merely of life,
 but of the very will to live. Thus we see in tragedies the noblest
@@ -519,37 +509,40 @@ view of life will make the demand for poetical justice, and find
 satisfaction in it. The true sense of tragedy is the deeper insight,
 that it is not his own individual sins that the hero atones for, but
 original sin, i.e., the crime of existence itself:
+
 “Pues el delito mayor
 Del hombre es haber nacido;”
 (“For the greatest crime of man
 Is that he was born;”)
-332 The World As Will And Idea (Vol. 1 of 3)
 as Calderon exactly expresses it.
-I shall allow myself only one remark, more closely concerning
-the treatment of tragedy. The representation of a great misfortune
-is alone essential to tragedy. But the many different ways in
-which this is introduced by the poet may be brought under three
-specific conceptions. It may happen by means of a character
-of extraordinary wickedness, touching the utmost limits of
-possibility, who becomes the author of the misfortune; examples
-of this kind are Richard III., Iago in “Othello,” Shylock in “The
-Merchant of Venice,” Franz Moor, Phædra of Euripides, Creon in
-the “Antigone,” &c., &c. Secondly, it may happen through blind
-fate, i.e., chance and error; a true pattern of this kind is the Œdipus
-Rex of Sophocles, the “Trachiniæ” also; and in general most of
-the tragedies of the ancients belong to this class. Among modern[329]
-tragedies, “Romeo and Juliet,” “Tancred” by Voltaire, and “The
-Bride of Messina,” are examples. Lastly, the misfortune may
-be brought about by the mere position of the dramatis personæ
-with regard to each other, through their relations; so that there is
-no need either for a tremendous error or an unheard-of accident,
+
+
+The representation of a great misfortune is alone essential to tragedy. This may be brought in 3 ways:
+
+1. Through a very wicked character
+
+Examples are Richard 3, Iago in “Othello,” Shylock in “The Merchant of Venice,” Franz Moor, Phædra of Euripides, Creon in the “Antigone,” &c., &c. 
+
+2. Through blind fate as chance and error
+
+Examples are the Œdipus Rex of Sophocles, the “Trachiniæ” also; and in general most of the tragedies of the ancients belong to this class. 
+
+Among modern  tragedies, “Romeo and Juliet,” “Tancred” by Voltaire, and “The
+Bride of Messina,” are examples.
+
+3. Through relations of the mere position of the dramatis personæ with regard to each other
+
+so that there is no need either for a tremendous error or an unheard-of accident,
 nor yet for a character whose wickedness reaches the limits of
-human possibility; but characters of ordinary morality, under
+human possibility; 
+
+but characters of ordinary morality, under
 circumstances such as often occur, are so situated with regard
 to each other that their position compels them, knowingly and
 with their eyes open, to do each other the greatest injury, without
-any one of them being entirely in the wrong. This last kind of
-tragedy seems to me far to surpass the other two, for it shows
+any one of them being entirely in the wrong. 
+
+This last kind of tragedy seems to me far to surpass the other two, for it shows
 us the greatest misfortune, not as an exception, not as something
 occasioned by rare circumstances or monstrous characters, but
 as arising easily and of itself out of the actions and characters
@@ -557,9 +550,9 @@ of men, indeed almost as essential to them, and thus brings it
 terribly near to us. In the other two kinds we may look on the
 prodigious fate and the horrible wickedness as terrible powers
 which certainly threaten us, but only from afar, which we may
-very well escape without taking refuge in renunciation. But in
-333
-the last kind of tragedy we see that those powers which destroy
+very well escape without taking refuge in renunciation. 
+
+But in the last kind of tragedy we see that those powers which destroy
 happiness and life are such that their path to us also is open at
 every moment; we see the greatest sufferings brought about by
 entanglements that our fate might also partake of, and through
@@ -580,4 +573,3 @@ to this class, if we regard the events connected with Gretchen and
 her brother as the principal action; also the “Cid” of Corneille,
 only that it lacks the tragic conclusion, while on the contrary the
 analogous relation of Max to Thecla has it.61
-

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: "The 3 Actions of the Mind and the 4 Operations of Thinking"
+title: "The 3 Actions of the Mind"
 date: 2020-12-06
 image: /photos/psych/self.jpg
 weight: 480
@@ -18,7 +18,7 @@ Therefore, everything is already known and all problems are already solved from 
 - We call this the state of omniscience.
 
 However, this perfected state is also worthless. 
-
+gen
 This is why:
 - the Negative Force keeps on disturbing the perfection
 - the Positive Force keeps on realizing the value of that perfection
@@ -132,9 +132,11 @@ Therefore, **thinking** is the process of integrating external idea-nodes within
 {{< i s="/graphics/psych/think.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}
 
 
-Genius is a mind that has enough subtlety to access the higher mind easily.
+Genius is a state of mind that has enough subtlety to access the higher mind easily.
 
-Stupidity is a mind that has no access to the higher mind and is confined to the lower mind. For example, a stupid mind would answer `1 + 1 = 11` because it has no access to a new idea of `2`. 
+Stupidity is a state of mind that has no access to the higher mind and is confined to the lower mind. For example, a stupid mind would answer `1 + 1 = 11` because it has no access to a new idea of `2`. 
+
+Enlightenment is a state of mind that has made contact with the subtlest waves in the higher mind. This allows it to penetrate the cruder waves which create Maya or the illusion of physical existence. 
 
 
 In terms of feeling-waves:

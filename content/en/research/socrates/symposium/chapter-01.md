@@ -19,14 +19,14 @@ PERSONS OF THE DIALOGUE:
 Name | Photo
 --- | ---
 Apollodorus | ![Apollodorus](/icons/Apollodorus.jpg)
-Phaedrus |
-Pausanias |
-Eryximachus |
-Aristophanes |
-Agathon | 
+Phaedrus | ![Phaedrus](/icons/Phaedrus.jpg)
+Pausanias | ![Phaedrus](/icons/Pausanias.jpg)
+Eryximachus | ![Phaedrus](/icons/Eryximachus.jpg)
+Aristophanes | ![Phaedrus](/icons/Aristophanes.jpg)
+Agathon |  ![Agathon](/icons/Agathon.jpg)
 Socrates | ![Socrates](/icons/Socrates.jpg)
-Alcibiades | 
-A Troop of Revellers | 
+Alcibiades |  ![Alcibiades](/icons/Alcibiades.jpg)
+A Troop of Revellers | ![People](/icons/People.jpg)
 
 
 Apollodorus repeats to his companion the dialogue which he had heard from Aristodemus, and had already once narrated to Glaucon.
@@ -36,7 +36,7 @@ SCENE: The House of Agathon.
 <!-- Concerning the things about which you ask to be informed I believe that I am not ill-prepared with an answer. For  -->
 
 {{< l a="Apollodorus" >}}
-The day before yesterday I was coming from my own home at Phalerum to the city. An acquaintance called out playfully in the distance and said: 
+The day before yesterday I was coming from my own home at Phalerum to the city. An acquaintance called out playfully in the distance and said
 {{< /l >}}
 
 <!-- , O thou Phalerian (Probably a play of words on (Greek), 'bald-headed.') man, -->
@@ -69,7 +69,7 @@ In our boyhood, when Agathon won the prize with his first tragedy, on the day af
 
 
 {{< r a="Companion" >}}
-Then it must have been a long while ago. Who told you—did Socrates?
+Then it must have been a long while ago. Did Socrates tell you?
 {{< /r >}}
 
 
@@ -99,44 +99,33 @@ I do believe that you pity all mankind, with the exception of Socrates, yourself
 
 {{< l a="Apollodorus" >}}
 Yes. I am said to be mad and out of my wits just because I have these notions of myself and you; no other evidence is required.
-{{< /l >}}
 
-
-COMPANION: No more of that, Apollodorus; but let me renew my request that you would repeat the conversation.
-
-
-{{< l a="Apollodorus" >}}
 Well, the tale of love was on this wise:—But perhaps I had better begin at the beginning, and endeavour to give you the exact words of Aristodemus:
 {{< /l >}}
 
 
-He said that he met Socrates fresh from the bath and sandalled; and as the sight of the sandals was unusual, he asked him whither he was going that he had been converted into such a beau:—
 
-To a banquet at Agathon's, he replied, whose invitation to his sacrifice of victory I refused yesterday, fearing a crowd, but promising that I would come to-day instead; and so I have put on my finery, because he is such a fine man. What say you to going with me unasked?
+{{< r a="Aristodemus" >}}
+I met Socrates fresh from the bath and sandalled. I asked him where was he going.
+{{< /r >}}
 
-I will do as you bid me, I replied.
+{{< l a="Socrates" >}}
+To a banquet at Agathon's. I refused his invitation to his sacrifice of victory yesterday, fearing a crowd. I promised that I would come today instead. Follow me and let us demolish the proverb: 'To the feasts of inferior men the good unbidden go;'
 
-Follow then, he said, and let us demolish the proverb:—
+Instead of which our proverb will be: 'To the feasts of the good the good unbidden go;'
 
-'To the feasts of inferior men the good unbidden go;'
+This change may be supported by the authority of Homer himself, who not only demolishes but literally outrages the proverb. For, after picturing Agamemnon as the most valiant of men, he makes Menelaus, who is but a fainthearted warrior, come unbidden (Iliad) to the banquet of Agamemnon, who is feasting and offering sacrifices, not the better to the worse, but the worse to the better.
+{{< /l >}}
 
-instead of which our proverb will run:—
 
-'To the feasts of the good the good unbidden go;'
+{{< r a="Aristodemus" >}}
+I fear that I shall be the inferior person, who 'To the feasts of the wise unbidden goes.' But I shall say that I was bidden of you, and then you will have to make an excuse: 'Two going together,'
+{{< /r >}}
+<!-- he replied, in Homeric fashion, one or other of them may invent an excuse by the way (Iliad). -->
 
-and this alteration may be supported by the authority of Homer himself, who not only demolishes but literally outrages the proverb. For, after picturing Agamemnon as the most valiant of men, he makes Menelaus, who is but a fainthearted warrior, come unbidden (Iliad) to the banquet of Agamemnon, who is feasting and offering sacrifices, not the better to the worse, but the worse to the better.
+This was the style of their conversation as they went along. Socrates dropped behind in a fit of abstraction, and desired Aristodemus, who was waiting, to go on before him. When he reached the house of Agathon he found the doors wide open, and a comical thing happened. 
 
-I rather fear, Socrates, said Aristodemus, lest this may still be my case; and that, like Menelaus in Homer, I shall be the inferior person, who
-
-'To the feasts of the wise unbidden goes.'
-
-But I shall say that I was bidden of you, and then you will have to make an excuse.
-
-'Two going together,'
-
-he replied, in Homeric fashion, one or other of them may invent an excuse by the way (Iliad).
-
-This was the style of their conversation as they went along. Socrates dropped behind in a fit of abstraction, and desired Aristodemus, who was waiting, to go on before him. When he reached the house of Agathon he found the doors wide open, and a comical thing happened. A servant coming out met him, and led him at once into the banqueting-hall in which the guests were reclining, for the banquet was about to begin. Welcome, Aristodemus, said Agathon, as soon as he appeared—you are just in time to sup with us; if you come on any other matter put it off, and make one of us, as I was looking for you yesterday and meant to have asked you, if I could have found you. But what have you done with Socrates?
+A servant coming out met him, and led him at once into the banqueting-hall in which the guests were reclining, for the banquet was about to begin. Welcome, Aristodemus, said Agathon, as soon as he appeared—you are just in time to sup with us; if you come on any other matter put it off, and make one of us, as I was looking for you yesterday and meant to have asked you, if I could have found you. But what have you done with Socrates?
 
 I turned round, but Socrates was nowhere to be seen; and I had to explain that he had been with me a moment before, and that I came by his invitation to the supper.
 
@@ -179,5 +168,3 @@ I will begin, he said, after the manner of Melanippe in Euripides,
 'Not mine the word'
 
 which I am about to speak, but that of Phaedrus. For often he says to me in an indignant tone:—'What a strange thing it is, Eryximachus, that, whereas other gods have poems and hymns made in their honour, the great and glorious god, Love, has no encomiast among all the poets who are so many. 
-
-

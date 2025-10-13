@@ -98,15 +98,15 @@ friends
 
 (Left to right) Jitendra Mazumdar, my companion on the “penniless test” at Brindaban; Lalit-da, my cousin; Swami Kebelananda (“Shastri Mahasaya”), my saintly Sanskrit tutor; myself, as a high school youth
 
-amoyima
-
-Ananda Moyi Ma
+<!-- Ananda Moyi Ma
 the Bengali “Joy-Permeated Mother.”
-cave
+cave -->
 
-One of the caves occupied by Babaji in the Drongiri Mountains near Ranikhet in the Himalayas. A grandson of Lahiri Mahasaya, Ananda Mohan Lahiri (second from right, in white), and three other devotees are visiting the sacred spot.
+One of the caves occupied by Babaji in the Drongiri Mountains near Ranikhet in the Himalayas. 
 
-“Good-by, young friends.” Our two acquaintances walked to the door. “We shall meet again, if God be willing.”
+A grandson of Lahiri Mahasaya, Ananda Mohan Lahiri (second from right, in white), and three other devotees are visiting the sacred spot.
+
+“Good-bye, young friends.” Our two acquaintances walked to the door. “We shall meet again, if God be willing.”
 
 “You are welcome here.” Gauri Ma smiled in motherly fashion on her two unexpected charges. “You could not have come on a better day. I was expecting two royal patrons of this hermitage. What a shame if my cooking had found none to appreciate it!”
 

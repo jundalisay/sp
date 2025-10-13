@@ -1,11 +1,9 @@
 ---
-title: "Fresnel, Augustin-Jean"
-linkTitle: Fresnel
-date: 2023-05-29
-weight: 33
-# c: "firebrick"
+title: "Social Welfare Measures"
+heading: Chapter 11c
+weight: 18
 c: "firebrick"
-a: "Fresnel"
+description: ""
 ---
 
 
@@ -27,7 +25,9 @@ the measure in a false guise. Needless to say, the people who argue this way are
 the loudest in their condemnation of "misleading" commercial advertising!1
 
 
-2. Nationalization of the provision of required annuities Suppose we avoid
+2. Nationalization of the provision of required annuities 
+
+Suppose we avoid
 redistribution by requiring each person to pay for the annuity he gets, in the
 sense of course, that the premium suffices to cover the present value of the
 annuity, account being taken both of mortality and interest returns. 

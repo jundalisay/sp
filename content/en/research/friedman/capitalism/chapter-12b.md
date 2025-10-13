@@ -1,14 +1,15 @@
 ---
-title: ".."
-# linkTitle: Fresnel
-date: 2025-09-25
-weight: 33
+title: "Social Welfare Measures"
+heading: Chapter 12b
+weight: 25
 c: "firebrick"
+description: ""
 ---
 
 
+2. Minimum wage laws 
 
-2. Minimum wage laws Minimum wage laws are about as clear a case as
+Minimum wage laws are about as clear a case as
 one can find of a measure the effects of which are precisely the opposite of
 those intended by the men of good will who support it. Many proponents of
 minimum wage laws quite properly deplore extremely low rates; they regard
@@ -344,4 +345,3 @@ subsidies could not be passed and that the only way to get disproportionate
 subsidies to poorer states is to include them in a bill providing subsidies to all
 states.
 
- 

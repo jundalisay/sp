@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2b"
-title: "The Aether Element: Substance"
+title: "The Aether Element or Layer: Substance"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04

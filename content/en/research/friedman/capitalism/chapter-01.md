@@ -2,7 +2,8 @@
 heading: "Chapter 1"
 title: The Relation Between Economic Freedom and Political FreedomFreedom
 date: 2025-09-24
-weight: 34
+weight: 4
+c: "firebrick"
 description: ""
 ---
 
@@ -13,16 +14,17 @@ unconnected; that individual freedom is a political problem and material
 welfare an economic problem; and that any kind of political arrangements
 can be combined with any kind of economic arrangements. 
 
-The chief contemporary manifestation of this idea is the advocacy of “democratic socialism” by many who condemn out of hand the restrictions on individual freedom imposed by “totalitarian socialism” in Russia, and who are persuaded that it is possible for a country to adopt the essential features of
-Russian economic arrangements and yet to ensure individual freedom
+The chief contemporary manifestation of this idea is the advocacy of “democratic socialism” by many who condemn out of hand the restrictions on individual freedom imposed by “totalitarian socialism” in Russia, and who are persuaded that it is possible for a country to adopt the essential features of Russian economic arrangements and yet to ensure individual freedom
 through political arrangements. The thesis of this chapter is that such a
 view is a delusion, that there is an intimate connection between economics
-and politics, that only certain combinations of political and economic arrangements are possible, and that in particular, a society which is socialist
-cannot also be democratic, in the sense of guaranteeing individual freedom.
+and politics, that only certain combinations of political and economic arrangements are possible, and that in particular, a society which is socialist cannot also be democratic, in the sense of guaranteeing individual freedom.
 Economic arrangements play a dual role in the promotion of a free society. On the one hand, freedom in economic arrangements is itself a
 component of freedom broadly understood, so economic freedom is an end
-in itself. In the second place, economic freedom is also an indispensable
+in itself. 
+
+In the second place, economic freedom is also an indispensable
 means toward the achievement of political freedom.
+
 The first of these roles of economic freedom needs special emphasis because intellectuals in particular have a strong bias against regarding this
 aspect of freedom as important. They tend to express contempt for what
 they regard as material aspects of life, and to regard their own pursuit of
@@ -30,6 +32,7 @@ allegedly higher values as on a different plane of significance and as deserving
 not for the intellectual, the direct importance of economic freedom is at
 least comparable in significance to the indirect importance of economic
 freedom as a means to political freedom.
+
 The citizen of Great Britain, who after World War II was not permitted
 to spend his vacation in the United States because of exchange control,
 was being deprived of an essential freedom no less than the citizen of the
@@ -37,6 +40,7 @@ United States, who was denied the opportunity to spend his vacation in
 Russia because of his political views. The one was ostensibly an economic
 limitation on freedom and the other a political limitation, yet there is no
 essential difference between the two.
+
 The citizen of the United States who is compelled by law to devote
 something like 10 per cent of his income to the purchase of a particular
 kind of retirement contract, administered by the government, is being deprived of a corresponding part of his personal freedom. How strongly this
@@ -46,10 +50,10 @@ the Amish sect. On rounds of principle, this group regarded compulsory
 federal old age programs as an infringement of their personal individual
 freedom and refused to pay taxes or accept benefits. As a result, some of
 their livestock were sold by auction in order to satisfy claims for social security levies. True, the number of citizens who regard compulsory old age insurance as a deprivation of freedom may be few, but the believer in freedom has never counted noses.
+
 A citizen in the United States who under the laws of various states is
 not free to follow the occupation of his own choosing unless he can get a
-license for it, is likewise being deprived of an essential part of his freedom. So is the man who would like to exchange some of his goods with,
-say, a Swiss for a watch but is prevented from doing so by a quota. So
+license for it, is likewise being deprived of an essential part of his freedom. So is the man who would like to exchange some of his goods with, say, a Swiss for a watch but is prevented from doing so by a quota. So
 also is the Californian who was thrown into jail for selling Alka Seltzer at
 a price below that set by the manufacturer under so-called “fair trade”
 laws. So also is the farmer who cannot grow the amount of wheat he

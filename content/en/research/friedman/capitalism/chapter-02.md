@@ -1,21 +1,23 @@
 ---
 title: "Social Welfare Measures"
 heading: Chapter 2
-linkTitle: Freud
 # date: 2022-07-21
-weight: 34
+weight: 6
+c: "firebrick"
 description: "Sigmund Freud was the founder of psychoanalysis, a clinical method for evaluating and treating pathologies through dialogue with a patient"
 ---
 
 
-COMMON OBJECTION to totalitarian societies is that they re- gard the end as justifying the means. Taken literally, this objec- tion is clearly illogical. If the end does not justify the means, what does? But this easy answer does not dispose of the objection; it simply shows that the objection is not well put. To deny that the end justifies the means is indirectly to assert that the end in question is not the ultimate end, that the ultimate end is itself the use of the proper means. Desirable or not, any end that can be attained only by the use of bad means must give way to the more basic end of the use of acceptable means.
-To the liberal, the appropriate means are free discussion and voluntary co-operation, which implies that any form of coercion is inappropriate. The ideal is unanimity among responsible indi-
-Government in a Free Society
-23
-viduals achieved on the basis of free and full discussion. This is another way of expressing the goal of freedom emphasized in the preceding chapter.
-From this standpoint, the role of the market, as already noted, is that it permits unanimity without conformity; that it is a sys- tem of effectively proportional representation. On the other hand, the characteristic feature of action through explicitly po- litical channels is that it tends to require or to enforce substantial conformity. The typical issue must be decided "yes" or "no"; at most, provision can be made for a fairly limited number of alternatives. Even the use of proportional representation in its explicitly political form does not alter this conclusion. 
 
-The number of separate groups that can in fact be represented is narrowly limited, enormously so by comparison with the proportional rep- resentation of the market. More important, the fact that the final outcome generally must be a law applicable to all groups, rather than separate legislative enactments for each "party" rep- resented, means that proportional representation in its political version, far from permitting unanimity without conformity, tends toward ineffectiveness and fragmentation. It thereby op- erates to destroy any consensus on which unanimity with con- formity can rest.
+COMMON OBJECTION to totalitarian societies is that they re- gard the end as justifying the means. Taken literally, this objec- tion is clearly illogical. If the end does not justify the means, what does? But this easy answer does not dispose of the objection; it simply shows that the objection is not well put. To deny that the end justifies the means is indirectly to assert that the end in question is not the ultimate end, that the ultimate end is itself the use of the proper means. Desirable or not, any end that can be attained only by the use of bad means must give way to the more basic end of the use of acceptable means.
+
+To the liberal, the appropriate means are free discussion and voluntary co-operation, which implies that any form of coercion is inappropriate. The ideal is unanimity among responsible individuals achieved on the basis of free and full discussion. This is another way of expressing the goal of freedom emphasized in the preceding chapter.
+
+From this standpoint, the role of the market, as already noted, is that it permits unanimity without conformity; that it is a system of effectively proportional representation. On the other hand, the characteristic feature of action through explicitly political channels is that it tends to require or to enforce substantial conformity. The typical issue must be decided "yes" or "no"; at most, provision can be made for a fairly limited number of alternatives. Even the use of proportional representation in its explicitly political form does not alter this conclusion. 
+
+The number of separate groups that can in fact be represented is narrowly limited, enormously so by comparison with the proportional representation of the market. More important, the fact that the final outcome generally must be a law applicable to all groups, rather than separate legislative enactments for each "party" rep- resented, means that proportional representation in its political version, far from permitting unanimity without conformity, tends toward ineffectiveness and fragmentation. 
+
+It thereby operates to destroy any consensus on which unanimity with con- formity can rest.
 
 There are clearly some matters with respect to which effective proportional representation is impossible. I cannot get the amount of national defense I want and you, a different amount. With respect to such indivisible matters we can discuss, and argue, and vote. But having decided, we must conform. It is pre- cisely the existence of such indivisible matters-protection of the individual and the nation from coercion are clearly the most basic-that prevents exclusive reliance on individual action through the market. If we are to use some of our resources for such indivisible items, we must employ political channels to reconcile differences.
 
@@ -31,6 +33,7 @@ The use of political channels, while inevitable, tends to strain the social cohe
 ## GOVERNMENT AS RULE-MAKER AND UMPIRE
 
 It is important to distinguish the day-to-day activities of people from the general customary and legal framework within which these take place. The day-to-day activities are like the actions of the participants in a game when they are playing it; the frame- work, like the rules of the game they play. And just as a good game requires acceptance by the players both of the rules and of the umpire to interpret and enforce them, so a good society re- quires that its members agree on the general conditions that will govern relations among them, on some means of arbitrating different interpretations of these conditions, and on some device for enforcing compliance with the generally accepted rules. As in games, so also in society, most of the general conditions are the unintended outcome of custom, accepted unthinkingly. At most, we consider explicitly only minor modifications in them, though the cumulative effect of a series of minor modifications may be a drastic alteration in the character of the game or of the society. In both games and society also, no set of rules can prevail unless most participants most of the time conform to them without external sanctions; unless that is, there is a broad underlying social consensus. But we cannot rely on custom or on this con- sensus alone to interpret and to enforce the rules; we need an umpire. These then are the basic roles of government in a free society: to provide a means whereby we can modify the rules, to mediate differences among us on the meaning of the rules, and to enforce compliance with the rules on the part of those few who would otherwise not play the game.
+
 The need for government in these respects arises because ab- solute freedom is impossible. However attractive anarchy may be as a philosophy, it is not feasible in a world of imperfect men.
 
 

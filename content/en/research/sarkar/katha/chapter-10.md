@@ -75,60 +75,82 @@ Baba ordered the man’s kundalinii, in Bengali language, and I am quoting His v
 
 “Kulakundalinii, I Yogeshvara Anandamurti order you to leave the muladhara cakra and reach svadhisthana.”
 
-As soon as the kundalinii left the muladhara cakra there was a vibration in Shri Chatterjee’s body and this vibration increased a lot when the kundalinii crossed the
-svadhisthana and proceeded towards the manipura cakra.
+As soon as the kundalinii left the muladhara cakra, there was a vibration in Shri Chatterjee’s body.
+- This vibration increased a lot when the kundalinii crossed the svadhisthana and proceeded towards the manipura cakra.
 
 When the kundalinii reached the manipura cakra, he became peaceful for a very short while and began to lean backwards while still seated in the lotus pose.
 
-As long as the kundalinii did not reach the ajina plexus, such directions to the kundalinii were repeated to move from one lower plexus to the higher one. I saw that at
-each order the kundalinii would rise immediately.
+As long as the kundalinii did not reach the ajina plexus, such directions to the kundalinii were repeated to move from one lower plexus to the higher one. I saw that at each order the kundalinii would rise immediately.
 
-As I was a novice in the world of mysticism, I could not understand whether the kundalinii was following the orders after they were given or as the thought arose in His
-mind she would start trembling and move in the direction of the order. 
+As I was a novice in the world of mysticism, I could not understand whether the kundalinii was following the orders after they were given or as the thought arose in His mind, she would start trembling and move in the direction of the order. 
 
 It looked as if she was moving by the sheer thought of Baba and was being controlled by His will.
 
-Now Baba ordered the subject’s kundalinii to proceed towards the anahata cakra. 
+Baba then ordered the subject’s kundalinii to proceed towards the anahata cakra. 
 
 As the kundalinii left manipura, the subject fell on his back whilst still in the lotus pose. 
 
 The ‘humkara’ sound, ‘hum, hum’ was also emerging from him as a deep sonorous sound.
 
 Then Baba ordered the kundalinii to go to the vishuddha cakra and he became very peaceful as the kundalinii entered the cakra. 
+- There was neither a vibration in his body nor the sound of 'hum' from his mouth any more. 
+- There was a special kind of halo and shine around his face*.
 
-Now there was neither a vibration in his body nor the sound of 'hum' from his mouth any more. 
+{{< n n="These are the organic electrons called lifetrons by Sri Yukteshwar and microvita by PR Sarkar" >}}
 
-There was a special kind of halo and shine around his face.
 
-Then Baba ordered the kundalinii to reach the ajina cakra and when the kundalinii reached there Baba looked at that sadhaka and told him to enjoy the bliss of
-that state for some time.
+Then Baba ordered the kundalinii to reach the ajina cakra.
+- When the kundalinii reached it, Baba looked at that sadhaka and told him to enjoy the bliss of that state for some time.
 
-Baba smiled at us and informed us, “This is the much-coveted state of savikalpa samadhi.  There is a feeling of intense bliss in this condition and this is also called mukti.  By regular practice of sadhana, with diligence and concentration, you too can reach this state”.
+Baba smiled at us:
+
+{{< l a="Baba" >}}
+This is the much-coveted state of savikalpa samadhi. There is a feeling of intense bliss in this condition. This is also called mukti. By regular practice of sadhana, with diligence and concentration, you too can reach this state.
+{{< /l >}}
+
 
 During this time, Shri Chaterjee had remained absorbed as if in ecstasy for the entire time. 
 
-Baba turned him, saying, “You have been very fortunate to enjoy this. Now kundalinii, return to vishuddha cakra”.
+Baba turned him, saying:
+
+{{< l a="Baba" >}}
+You have been very fortunate to enjoy this. Now kundalinii, return to vishuddha cakra.
+{{< /l >}}
+
 
 At these words Shri Chatterjee began to weep and cry bitterly like a child.
 
-Compassionate Baba said, “Very well, very well. Enjoy for some more time”.
+Compassionate Baba said:
 
-Thus said Baba and remained quiet for some time. Then he ordered the kundalinii to leave the ajina cakra and return to muladhara. The kundalinii obeyed Baba’s orders instantly and the subject unwillingly came out of that blissful state and returned to the awareness of the temporal. 
+{{< l a="Baba" >}}
+Very well, very well. Enjoy for some more time.
+{{< /l >}}
 
-Laying his face in Baba’s lap he wept bitterly for quite some time and most kind-hearted Baba caressed and patted him, rubbed his back and continued to pacify and soothe him until he became calm and
-peaceful. Baba also continued to reassure him that he would be given this kind of samadhi again.
 
-Shri Chatterjee was thus doubly blessed! He had first remained in savikalpa samadhi for such a long time and then received the love and caressing from Baba in His lap. Loved and caressed like an infant by Baba while he was lying in Baba’s lap, he also received the assurance of another taste of ananda in the future. 
+Baba remained quiet for some time. Then he ordered the kundalinii to leave the ajina cakra and return to muladhara. 
+
+The kundalinii obeyed Baba’s orders instantly and the subject unwillingly came out of that blissful state and returned to the awareness of the temporal.
+
+Laying his face in Baba’s lap he wept bitterly for quite some time and most kind-hearted Baba caressed and patted him, rubbed his back and continued to pacify and soothe him until he became calm and peaceful.
+
+Baba also continued to reassure him that he would be given this kind of samadhi again.
+
+Shri Chatterjee was thus doubly blessed! 
+
+He had first remained in savikalpa samadhi for such a long time and then received the love and caressing from Baba in His lap. 
+
+Loved and caressed like an infant by Baba while he was lying in Baba’s lap, he also received the assurance of another taste of ananda in the future. 
 
 It is my prayer that Baba may bless all His disciples in this manner.
 
-When Shri Chatterjee became normal again Baba departed. For some distance we followed Baba and when Baba took a turn to go to his residence, we left for our own destinations.
+When Shri Chatterjee became normal again Baba departed. 
 
-Later on I asked my senior brother disciples, "Only two Yogeshvaras (masters of yoga) have appeared on the earth so far, one of them was Shiva and the other
-Krsna. Baba also called himself 'Yogeshvara' while he was ordering kulakundalinii. 
+For some distance we followed Baba and when Baba took a turn to go to his residence, we left for our own destinations.
+
+Later on I asked my senior brother disciples, "Only two Yogeshvaras (masters of yoga) have appeared on the earth so far, one of them was Shiva and the other Krsna. 
+
+Baba also called himself 'Yogeshvara' while he was ordering kulakundalinii. 
 
 Is He also the same?” But no one could reply satisfactorily.
 
 <!-- Salutation to Baba who is the Death of Death -->
-
-

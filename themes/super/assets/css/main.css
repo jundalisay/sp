@@ -32,25 +32,6 @@ strong {color: mediumseagreen !important; font-weight: 800;}
 
 a {color: steelblue}
 
-/*.animate-fly-in-from-left, .animate-fly-in-from-right {
-    opacity: 0;
-    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
-}
-
-.animate-fly-in-from-left {
-    transform: translateX(-50px);
-}
-
-.animate-fly-in-from-right {
-    transform: translateX(50px);
-}
-
-.animate-fly-in-from-left.is-visible,
-.animate-fly-in-from-right.is-visible {
-    opacity: 1;
-    transform: translateX(0);
-}*/
-
 
 /* Don't use Tailwind's animation classes at all */
 .fly-in-left,
@@ -74,15 +55,16 @@ a {color: steelblue}
 }
 
 
+
 .fade-in {
     opacity: 0;
-    transform: translateY(20px); /* Optional: slide up effect */
-    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    transform: translateY(-40px) scale(0.9);
+    transition: opacity 0.8s ease-out, transform 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 .fade-in.is-visible {
     opacity: 1;
-    transform: translateY(0);
+    transform: translateY(0) scale(1);
 }
 
 

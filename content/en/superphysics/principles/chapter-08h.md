@@ -3,8 +3,8 @@ heading: "Chapter 8h"
 title: "How to Prevent Logical Fallacies"
 date: 2019-01-02
 weight: 514
-image: "/photos/medieval/socrates.jpg"
-description: "An easy way to prevent errors is to withhold judgement or conclusions until all the relevent information is obtained. This is explained best by Descartes"
+image: "/photos/psych/bore.jpg" 
+description: "An easy way to prevent errors is to withhold judgement or conclusions until all the relevent information is obtained"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

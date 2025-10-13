@@ -3,45 +3,56 @@ heading: "Chapter 12"
 title: The Alleviation of Poverty
 date: 2025-09-24
 weight: 34
+c: "firebrick"
 description: ""
 ---
 
 
 
-The extraordinary economic growth experienced by Western countries during the past two centuries and the wide distribution of the benefits of free enterprise have enormously reduced the extent of poverty in any absolute sense in the capitalistic countries of the West. But poverty is in part a relative matter, and even in these countries, there are clearly many people living under conditions that the rest of us label as poverty.
 
-One recourse, and in many ways the most desirable, is private charity. It is noteworthy that the heyday of laissez-faire, the middle and late nineteenth century in Britain and the United States, saw an extraordinary proliferation of private eleemosynary organizations and institutions. One of the major costs of the extension of governmental welfare activities has been the corresponding decline in private charitable activities.
+Poverty has been enormously reduced in the capitalistic Western countries during the past 2 centuries through:
+- extraordinary economic growth
+- the wide distribution of the benefits of free enterprise
 
- It can be argued that private charity is insufficient because the benefits
-from it accrue to people other than those who make the giftsagain, a
-neighborhood effect. I am distressed by the sight of poverty; I am benefited by
-its alleviation; but I am benefited equally whether I or someone else pays for its
-alleviation; the benefits of other people's charity therefore partly accrue to me.
-To put it differently, we might all of us be willing to contribute to the relief of
-poverty, provided everyone else did. We might not be willing to contribute the
-same amount without such assurance. In small communities, public pressure can
-suffice to realize the proviso even with private charity. In the large impersonal
-communities that are increasingly coming to dominate our society, it is much
-more difficult for it to do so.
+But poverty is partly relative.
 
- Suppose one accepts, as I do, this line of reasoning as justifying
+Even in these countries, there are many poor people.
+
+The most desirable recourse is private charity.
+
+The heyday of laissez-faire was the middle and late 19th century in Britain and the US.
+
+They saw an extraordinary proliferation of private charitable organizations.
+
+The extension of governmental welfare has led to a corresponding decline in private charitable activities.
+
+It can be argued that private charity is insufficient because the benefits from it accrue to people other than those who make the giftsagain, a neighborhood effect. 
+
+I am distressed by the sight of poverty; I am benefited by its alleviation; but I am benefited equally whether I or someone else pays for its alleviation; the benefits of other people's charity therefore partly accrue to me.
+
+To put it differently, we might all of us be willing to contribute to the relief of poverty, provided everyone else did. We might not be willing to contribute the same amount without such assurance. In small communities, public pressure can suffice to realize the proviso even with private charity. In the large impersonal communities that are increasingly coming to dominate our society, it is much more difficult for it to do so.
+
+Suppose one accepts, as I do, this line of reasoning as justifying
 governmental action to alleviate poverty; to set, as it were, a floor under the
-standard of life of every person in the community. There remain the questions,
-how much and how. I see no way of deciding ''how much" except in terms of the
+standard of life of every person in the community. 
+
+But how much and how?
+
+I see no way of deciding ''how much" except in terms of the
 amount of taxes weby which I mean the great bulk of usare willing to impose on
 ourselves for the purpose. The question, "how," affords more room for
 speculation.
 
- Two things seem clear. First, if the objective is to alleviate poverty, we
+1. if the objective is to alleviate poverty, we
 should have a program directed at helping the poor. There is every reason to
 help the poor man who happens to be a farmer, not because he is a farmer but
 because he is poor. The program, that is, should be designed to help people as
-people not as members of particular occupational groups or age groups or wagerate groups or labor organizations or industries. This is a defect of farm
-programs, general old-age benefits, minimum-wage laws, pro-union legislation, 
-158
-tariffs, licensing provisions of crafts or professions, and so on in seemingly
-endless profusion. Second, so far as possible the program should, while
-operating through the market, not distort the market or impede its functioning.
+people not as members of particular occupational groups or age groups or wagerate groups or labor organizations or industries. 
+
+This is a defect of farm programs, general old-age benefits, minimum-wage laws, pro-union legislation, tariffs, licensing provisions of crafts or professions, and so on in seemingly
+endless profusion. 
+
+2. The program should, while operating through the market, not distort the market or impede its functioning.
 This is a defect of price supports, minimum-wage laws, tariffs and the like.
 
  The arrangement that recommends itself on purely mechanical grounds is
@@ -180,6 +191,3 @@ freedom; one must choose. One cannot be both an egalitarian, in this sense, and
 a liberal.
 
 This figure is equal to government transfer payments ($ 31.1 billion) less veterans' benefits ($ 4.8 billion), both from the Department of Commerce national income accounts, plus federal expenditures on the agricultural program ($ 5.5 billion) plus federal expenditures on public housing and other aids to housing ($ 0.5 billion), both for year ending June 30, 1961 from Treasury accounts, plus a rough allowance of $ 0.7 billion to raise it to even billions and to allow for administrative costs ot federal programs, omitted state and local programs, and miscellaneous items. My guess is that this figure is a substantial underestimate.
-
-<!--  A. V. Dicey, Law and Public Opinion in England, (2d ed., London: Macmillan,
-1914), p. xxxv. --> 

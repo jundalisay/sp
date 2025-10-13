@@ -8,5 +8,5 @@ heading: Enlightened
 weight: 4
 a: "Aurobindo"
 c: "purple"
-y: "1126 - 1198"
+draft: true
 ---
