@@ -7,13 +7,11 @@ c: "indigo"
 ---
 
 
-Occult Science teaches that the “Mother” lies stretched in Infinity, during Pralaya, as the great Deep, the “dry Waters of Space,” according to the quaint expression in the Catechism, and becomes wet only after the separation and the moving over its face of Nârâyana, the
+Occult Science teaches that the “Mother” lies stretched in Infinity, during Pralaya, as the great Deep, the “dry Waters of Space,” according to the quaint expression in the Catechism, and becomes wet only after the separation and the moving over its face of Nârâyana, the Spirit which is invisible Flame, which never burns, but sets on fire all that it touches, and gives it life and generation.
 
-Spirit which is invisible Flame, which never burns, but sets on fire all that it touches, and gives it life and generation.1081
+Science tells us that “the first-born element ... most nearly allied to protyle” would be “hydrogen ... which for some time would be the only existing form of matter” in the Universe. 
 
-Science tells us that “the first-born element ... most nearly allied to protyle” would be “hydrogen ... which for some time would be the only existing form of matter” in the Universe. What says Old Science? 
-
-It answers: Just so; but we would call Hydrogen (and Oxygen), which—in the pre-geological and even pre-genetic ages—instils the fire of life into the “Mother” by incubation, the spirit, the noumenon, of that which becomes in its grossest form Oxygen and Hydrogen and Nitrogen on Earth—Nitrogen being of no divine origin, but merely an earth-born cement for uniting other gases and fluids, and serving as a sponge to carry in itself the Breath of Life, pure air.1082
+Old Science answers: We would call Hydrogen (and Oxygen), which—in the pre-geological and even pre-genetic ages—instils the fire of life into the “Mother” by incubation, the spirit, the noumenon, of that which becomes in its grossest form Oxygen and Hydrogen and Nitrogen on Earth—Nitrogen being of no divine origin, but merely an earth-born cement for uniting other gases and fluids, and serving as a sponge to carry in itself the Breath of Life, pure air.1082
 
 Before these gases and fluids become what they are in our atmosphere, they are interstellar Ether; still earlier and on a deeper plane—something else, and so on in infinitum.
 

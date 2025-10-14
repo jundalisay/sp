@@ -98,5 +98,3 @@ If the Mercury development be bad the subject will resort to tricks and impositi
 If a line from the line of Intuition merges into the Saturn line (558), the exercise of the intuitive faculties will assist the career of the subject. With good common-sense to back it, this line is a help to any hand. 
 
 If the subject be so constituted that he is likely to become unbalanced from believing he is a medium or clairvoyant, a line of Intuition is a poor possession. With a careful estimate of the Chirognomic indications you can apply the line and tell what its effect will be on any subject, and this is the proper use to make of it.
-
-

@@ -7,39 +7,22 @@ description: ""
 ---
 
 
+Will a subsidy from the general taxpayer could be justified if it is required. I see no grounds on which such a subsidy can be justified. We may wish to help poor people. Is there any justification for helping people whether they are poor or not because they happen to be a certain age? Is this not an entirely arbitrary redistribution?
 
-Will a subsidy from the general taxpayer could be justified if it is required. I
-see no grounds on which such a subsidy can be justified. We may wish to help
-poor people. Is there any justification for helping people whether they are poor
-or not because they happen to be a certain age? Is this not an entirely arbitrary
-redistribution?
+The only argument I have ever come across to justify the redistribution involved in OASI is one that I regard as thoroughly immoral despite its wide use. 
 
- The only argument I have ever come across to justify the redistribution
-involved in OASI is one that I regard as thoroughly immoral despite its wide use.
-This argument is that OASI redistribution on the average helps low-income
-people more than high-income people despite a large arbitrary element; that it
-would be better to do this redistribution more efficiently; but that the community
-will not vote for the redistribution directly though it will vote for it as part of a
-social security package. In essence, what this argument says is that the community can be fooled into voting for a measure that it opposes by presenting
-the measure in a false guise. Needless to say, the people who argue this way are
-the loudest in their condemnation of "misleading" commercial advertising!1
+This argument is that OASI redistribution on the average helps low-income people more than high-income people despite a large arbitrary element; that it would be better to do this redistribution more efficiently; but that the community will not vote for the redistribution directly though it will vote for it as part of a social security package. In essence, what this argument says is that the community can be fooled into voting for a measure that it opposes by presenting the measure in a false guise. Needless to say, the people who argue this way are the loudest in their condemnation of "misleading" commercial advertising!1
 
 
 2. Nationalization of the provision of required annuities 
 
-Suppose we avoid
-redistribution by requiring each person to pay for the annuity he gets, in the
-sense of course, that the premium suffices to cover the present value of the
-annuity, account being taken both of mortality and interest returns. 
+Suppose we avoid redistribution by requiring each person to pay for the annuity he gets, in the sense of course, that the premium suffices to cover the present value of the annuity, account being taken both of mortality and interest returns.
 
-What justification is there then for requiring him to purchase it from a governmental concern? If redistribution is to be accomplished, clearly the taxing power of the government must be used. But if redistribution is to be no part of the program and, as we have just seen, it is hard to see any justification for making it part, why not permit individuals who wish to do so to purchase their annuities from private concerns? A close analogy is provided by state laws requiring compulsory purchase of automobile liability insurance. So far as I know, no state which has such a law even has a state insurance company, let alone compels automobile owners to buy their insurance from a government agency.
+What justification is there then for requiring him to purchase it from a governmental concern? If redistribution is to be accomplished, clearly the taxing power of the government must be used. But if redistribution is to be no part of the program and, as we have just seen, it is hard to see any justification for making it part, why not permit individuals who wish to do so to purchase their annuities from private concerns? 
 
- Possible economies of scale are no argument for nationalizing the
-provision of annuities. If they are present, and the government sets up a concern
-to sell annuity contracts, it may be able to undersell competitors by virtue of its
-size. In that case, it will get the business without compulsion. If it cannot
-undersell them, then presumably economics of scale are not present or are not
-sufficient to overcome other diseconomies of governmental operation.
+A close analogy is provided by state laws requiring compulsory purchase of automobile liability insurance. So far as I know, no state which has such a law even has a state insurance company, let alone compels automobile owners to buy their insurance from a government agency.
+
+ Possible economies of scale are no argument for nationalizing the provision of annuities. If they are present, and the government sets up a concern to sell annuity contracts, it may be able to undersell competitors by virtue of its size. In that case, it will get the business without compulsion. If it cannot undersell them, then presumably economics of scale are not present or are not sufficient to overcome other diseconomies of governmental operation.
 
  One possible advantage of nationalizing the provision of annuities is to
 facilitate the enforcement of compulsory purchase of annuities. However, this

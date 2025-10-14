@@ -8,11 +8,17 @@ c: "indigo"
 
 
 
-This is, then, the last word of Physical Science up to the present year, 1888. Mechanical laws will never be able to prove the homogeneity of Primeval Matter, except inferentially and as a desperate necessity, when there will remain no other issue—as in the case of Ether.
+<!-- This is, then, the last word of Physical Science up to the present year, 1888.  -->
+
+Mechanical laws will never be able to prove the homogeneity of Primeval Matter, except inferentially and as a desperate necessity, when there will remain no other issue—as in the case of Ether.
 
 Modern Science is secure only in its own domain and region; within the physical boundaries of our Solar System, beyond which everything, every particle of Matter, is different from the Matter it knows, and where Matter exists in states of which Science can form no idea. This Matter, which is truly homogeneous, is beyond human perception, if perception is tied down merely to the five senses.
 
-We feel its effects through those Intelligences which are the results of its primeval differentiation, whom we name Dhyân Chohans, called in the Hermetic works the “Seven Governors”; those to whom Pymander, the “Thought Divine,” refers as the “Building Powers,” and whom Asklepios calls the “Supernal Gods.” This Matter—the real Primordial Substance, the Noumenon of all the “matter” we know of—some of our Astronomers even have been led to believe in, for they despair of the possibility of ever accounting for rotation, gravitation, and the origin of any mechanical physical laws, unless these Intelligences be admitted by Science. In the above-quoted work upon Astronomy by Wolf,1035 the author endorses fully the theory of Kant, and the latter theory, if not in its general aspect, at any rate in some of its features, reminds one strongly of certain Esoteric Teachings. Here we have the world's system “reborn from its ashes,” through a nebula—the emanation from the bodies, dead and dissolved in Space, resultant of the incandescence of the Solar Centre—reänimated by the combustible matter of the Planets. 
+We feel its effects through those Intelligences which are the results of its primeval differentiation, whom we name Dhyân Chohans, called in the Hermetic works the “Seven Governors”; those to whom Pymander, the “Thought Divine,” refers as the “Building Powers,” and whom Asklepios calls the “Supernal Gods.” 
+
+This Matter—the real Primordial Substance, the Noumenon of all the “matter” we know of—some of our Astronomers even have been led to believe in, for they despair of the possibility of ever accounting for rotation, gravitation, and the origin of any mechanical physical laws, unless these Intelligences be admitted by Science. 
+
+In the above-quoted work upon Astronomy by Wolf,1035 the author endorses fully the theory of Kant, and the latter theory, if not in its general aspect, at any rate in some of its features, reminds one strongly of certain Esoteric Teachings. Here we have the world's system “reborn from its ashes,” through a nebula—the emanation from the bodies, dead and dissolved in Space, resultant of the incandescence of the Solar Centre—reänimated by the combustible matter of the Planets. 
 
 In this theory, generated and developed in the [pg 659]brain of a young man hardly twenty-five years of age, who had never left his native place, Königsberg, a small town of Northern Prussia, one can hardly fail to recognize either the presence of an inspiring external power, or an evidence of the reïncarnation which the Occultists see in it. 
 

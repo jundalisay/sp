@@ -10,7 +10,7 @@ icon: "US"
 OW is responsible for ensuring safe drinking water and restoring and maintaining oceans, watersheds, and their aquatic ecosystems to protect human health, support economic and recreational activities, and provide healthy habitats for fish, plants, and wildlife. Its two main statutes include implementing the Clean Water Act (CWA)26 and Safe Drinking Water Act (SDWA).27 OW has generated a large number of expansive regulations that infringe on private property rights, most notably with the Waters of the U.S. program.
 
 
-### Needed Reforms
+## Needed Reforms
 
 The overarching theme for reform is guidance on guidance. OW relies heav-
 ily on guidance documents that are outdated and that sometimes have been in a

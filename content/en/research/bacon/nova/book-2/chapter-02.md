@@ -110,21 +110,25 @@ Every natural act is brought about by the smallest efforts,[78] or at least such
 -  No one can direct or change nature unless he has properly comprehended these efforts.
 
 
-{{< s v="7" >}} Similarly, the investigation and discovery of the latent conformation in bodies is no less new, than the discovery of the latent process and form.
+{{< s v="7" >}} Similarly, the investigation of the latent conformation in bodies is no less new, than the discovery of the latent process and form.
 
-We are only admitted to the antechamber of nature. 
+We are only admitted to the antechamber of nature.
 
 <!-- Nobody can endue a given body with a new nature, or transform it successfully and appropriately into a new body, without possessing a complete knowledge of the body so to be changed or transformed. F
 
 or he will run into vain, or, at least, into difficult and perverse methods, ill adapted to the nature of the body upon which he operates.  -->
 
-A clear path, therefore, toward this object also must be thrown open, and well supported.
+A clear path towards this object must be opened and be well supported.
 
-Labor is usefully bestowed on the anatomy of organized bodies, such as those of men and animals, which appears to be a subtile matter, and a useful examination of nature. 
+<!-- Labor is usefully bestowed on the anatomy of organized bodies, such as those of men and animals, which appears to be a subtile matter, and a useful examination of nature.  -->
 
-The species of anatomy, however, is that of first sight, open to the senses, and takes place only in organized[117] bodies. 
+[Biological] anatomy is open to the senses.
 
-It is obvious, and of ready access, when compared with the real anatomy of latent conformation in bodies which are considered similar, particularly in specific objects and their parts; as those of iron, stone, and the similar parts of plants and animals, as the root, the leaf, the flower, the flesh, the blood, and bones, etc. Yet human industry has not completely neglected this species of anatomy; for we have an instance of it in the separation of similar bodies by distillation, and other solutions, which shows the dissimilarity of the compound by the union of the homogeneous parts. 
+<!-- , and takes place only in organized bodies.  -->
+
+It is easier to access than the anatomy of parts such as iron, stone, and the similar parts of plants and animals, as the root, the leaf, the flower, the flesh, the blood, and bones, etc.
+
+Yet human industry has not completely neglected this species of anatomy. We have an instance of it in the separation of similar bodies by distillation, and other solutions, which shows the dissimilarity of the compound by the union of the homogeneous parts. 
 
 These methods are useful <!-- and of importance to our inquiry, --> although attended generally with fallacy. 
 - Many natures are attributed to the separate bodies, as if they had previously existed in the compound, which, in reality, are recently bestowed and superinduced by fire and heat, and the other modes of separation.
@@ -161,9 +165,9 @@ Again, the situation of the spirit in the corporeal mass, its pores, passages, v
 The primary axioms allows the clear light which completely dispels all darkness and subtile difficulties.
 
 
-{{< s v="8" >}} This method will not bring us to atoms,[80] which takes for granted the vacuum, and immutability of matter (neither of which hypotheses is correct), but to the real particles such as we discover them to be.
+{{< s v="8" >}} This method will not bring us to atoms which takes for granted the vacuum, and immutability of matter (neither of which hypotheses is correct), but to the real particles such as we discover them to be.
 
-Nor is there any[119] ground for alarm at this refinement as if it were inexplicable, for, on the contrary, the more inquiry is directed to simple natures, the more will everything be placed in a plain and perspicuous light, since we transfer our attention from the complicated to the simple, from the incommensurable to the commensurable, from surds to rational quantities, from the indefinite and vague to the definite and certain; as when we arrive at the elements of letters, and the simple tones of concords. 
+Nor is there any ground for alarm at this refinement as if it were inexplicable, for, on the contrary, the more inquiry is directed to simple natures, the more will everything be placed in a plain and perspicuous light, since we transfer our attention from the complicated to the simple, from the incommensurable to the commensurable, from surds to rational quantities, from the indefinite and vague to the definite and certain; as when we arrive at the elements of letters, and the simple tones of concords. 
 
 The investigation of nature is best conducted when mathematics are applied to physics.
 
@@ -171,7 +175,7 @@ We should not be alarmed at vast numbers and fractions.
 - In calculation it is as easy to set down or to reflect upon a thousand as a unit, or the thousandth part of an integer as an integer itself.
 
 
-{{< s v="9" >}} [81] From the 2 kinds of axioms above specified, arise the 2 divisions of philosophy and the sciences.
+{{< s v="9" >}} From the 2 kinds of axioms above specified, arise the 2 divisions of philosophy and the sciences.
 
 1. Metaphysics
 
@@ -185,4 +189,9 @@ This includes the investigation of the efficient cause of <!-- [120] --> matter,
 
 <!-- Let the investigation of forms, which (in reasoning at least, and after their own laws), are eternal and immutable, constitute ,[82] and let the investigation of the efficient cause of[120] matter, latent process, and latent conformation (which all relate merely to the ordinary course of nature, and not to her fundamental and eternal laws), constitute physics.  -->
 
-Parallel to these, let there be two practical divisions; to physics that of mechanics, and to metaphysics that of magic, in the purest sense of the term, as applied to its ample means, and its command over nature.
+Parallel to these, let there be 2 practical divisions:
+
+1. to physics that of mechanics
+2. to metaphysics that of magic
+
+ <!-- in the purest sense of the term, as applied to its ample means, and its command over nature. -->

@@ -4,6 +4,7 @@ heading: Chapter 1 Book 2 of Nova Organum
 weight: 34
 description: ""
 c: "steelblue"
+draft: true
 icon: "Francis Bacon"
 ---
 

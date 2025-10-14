@@ -9,7 +9,17 @@ description: "Sigmund Freud was the founder of psychoanalysis, a clinical method
 
 
 
-COMMON OBJECTION to totalitarian societies is that they re- gard the end as justifying the means. Taken literally, this objec- tion is clearly illogical. If the end does not justify the means, what does? But this easy answer does not dispose of the objection; it simply shows that the objection is not well put. To deny that the end justifies the means is indirectly to assert that the end in question is not the ultimate end, that the ultimate end is itself the use of the proper means. Desirable or not, any end that can be attained only by the use of bad means must give way to the more basic end of the use of acceptable means.
+COMMON OBJECTION to totalitarian societies is that they regard the end as justifying the means. 
+
+This objection is illogical.
+
+If the end does not justify the means, what does? 
+
+But this easy answer does not dispose of the objection; it simply shows that the objection is not well put. 
+
+To deny that the end justifies the means is indirectly to assert that the end in question is not the ultimate end, that the ultimate end is itself the use of the proper means.
+
+Desirable or not, any end that can be attained only by the use of bad means must give way to the more basic end of the use of acceptable means.
 
 To the liberal, the appropriate means are free discussion and voluntary co-operation, which implies that any form of coercion is inappropriate. The ideal is unanimity among responsible individuals achieved on the basis of free and full discussion. This is another way of expressing the goal of freedom emphasized in the preceding chapter.
 

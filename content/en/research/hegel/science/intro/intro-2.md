@@ -4,6 +4,8 @@ weight: 6
 description: "People say that logic has 2 main parts -- The theory of elements and Methodology"
 c: "steelblue"
 author: Hegel
+aliases:
+  /research/hegel/science/intro-2
 ---
 
 
@@ -23,6 +25,7 @@ author: Hegel
 	- Chapter 1: Concepts
 	- Section 1: The Clearness of Concepts
 	- etc
+
 2. Methodology
 
 These definitions and divisions, made without any deduction or justification, constitute the systematic framework and the entire connectedness of such sciences. 
@@ -101,9 +104,15 @@ It would give to mind the picture of a methodically ordered whole, although the 
 
 It is one thing for him who comes to it and the sciences generally for the first time, but it is another thing for him who comes back to it from these sciences. 
 
-He who begins the study of grammar finds in its forms and laws dry abstractions, arbitrary rules, in general an isolated collection of definitions and terms which exhibit only the value and significance of what is implied in their immediate meaning; there is nothing to be known in them other than themselves. 
+He who begins the study of grammar finds in its forms and laws:
+- dry abstractions
+- arbitrary rules
+- an isolated collection of definitions and terms
+  - These exhibit only the significance of what is implied in their immediate meaning.
+  - There is nothing to be known in them other than themselves. 
 
-On the other hand, he who has mastered a language and at the same time has a comparative knowledge of other languages, he alone can make contact with the spirit and culture of a people through the grammar of its language; the same rules and forms now have a substantial, living value. 
+On the other hand, he who has mastered many languages can make contact with the spirit and culture of a people through the grammar of its language.
+- The same rules and forms now have a substantial, living value. 
 
 Similarly, he who approaches this science at first finds in logic an isolated system of abstractions which, confined within itself, does not embrace within its scope the other knowledges and sciences. ®
 
@@ -139,5 +148,3 @@ It becomes at home in abstractions. It progresses through Notions free from sens
 In this way, it extracts from them the logical element, or what is the same thing, filling the abstract basis of Logic acquired by study with the substantial content of absolute truth. 
 
 It gives it the value of a universal which no longer stands as a particular alongside other particulars but includes them all within its grasp and is their essence, the absolutely True.
-
-

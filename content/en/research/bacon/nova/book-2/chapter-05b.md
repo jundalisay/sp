@@ -20,7 +20,7 @@ Of all flames, that of spirits of wine appears to be the most gentle, except per
 
 Then, perhaps, comes the flame of wood, particularly that which contains but little rosin or pitch; that of small wood, however (such as is usually tied up in fagots), is milder than that of the trunks or roots of trees. 
 
-This can be easily tried in iron furnaces, where a fire of fagots or branches of trees is of little service. Next follows the flame[141] of oil, tallow, wax, and the like oily and fat substances, which are not very violent.
+This can be easily tried in iron furnaces, where a fire of fagots or branches of trees is of little service. Next follows the flame of oil, tallow, wax, and the like oily and fat substances, which are not very violent.
 
 But a most powerful heat is found in pitch and rosin, and a still greater in sulphur, camphor, naphtha, saltpetre, and salts (after they have discharged their crude matter), and in their compounds; as in gunpowder, Greek fire (vulgarly called wild fire), and its varieties, which possess such a stubborn heat as scarcely to be extinguished by water.
 
@@ -43,11 +43,17 @@ If a glass is placed at the distance of ten inches, for instance, from the combu
 29. Conflagrations, which take place with a high wind, are thought to make greater way against than with the wind, because when the wind slackens, the flame recoils more rapidly than it advances when the wind is favorable.
 
 30. Flame does not burst out or arise unless it have some hollow space to move and exert itself in, except in the exploding flame of gunpowder, and the like, where the compression and confinement of the flame increase its fury.
+
 31. The anvil becomes so hot by the hammer, that if it were a thin plate it might probably grow red, like ignited iron by repeated strokes. Let the experiment be tried.
-32. But in ignited bodies that are porous, so as to leave room for the fire to move itself, if its motion be prevented by strong compression, the fire is immediately extinguished; thus it is with tinder, or the burning snuff of a candle or lamp, or even hot charcoal or cinders; for when they are squeezed by snuffers, or the foot, and the like, the effect of the fire instantly ceases.[143]
+
+32. But in ignited bodies that are porous, so as to leave room for the fire to move itself, if its motion be prevented by strong compression, the fire is immediately extinguished; thus it is with tinder, or the burning snuff of a candle or lamp, or even hot charcoal or cinders; for when they are squeezed by snuffers, or the foot, and the like, the effect of the fire instantly ceases.
+
 33. The approach toward a hot body increases heat in proportion to the approximation; a similar effect to that of light, for the nearer any object is placed toward the light, the more visible it becomes.
+
 34. The[97] union of different heats increases heat, unless the substances be mixed; for a large and small fire in the same spot tend mutually to increase each other’s heat, but lukewarm water poured into boiling water cools it.
+
 35. The continued neighborhood of a warm body increases heat. For the heat, which perpetually passes and emanates from it, being mixed with that which preceded it, multiplies the whole. A fire, for instance, does not warm a room in half an hour as much as the same fire would in an hour. This does not apply to light, for a lamp or candle placed in a spot gives no more light by remaining there, than it did at first.
+
 36. The irritation of surrounding cold increases heat, as may be seen in fires during a sharp frost. We think that this is owing not merely to the confinement and compression of the heat (which forms a sort of union), but also by the exasperation of it, as when the air or a stick are violently compressed or bent, they recoil, not only to the point they first occupied, but still further back. Let an accurate experiment, therefore, be made with a stick, or something of the kind, put into the flame, in order to see whether it be not sooner burned at the sides than in the middle of it.[98][144]
 
 37. There are many degrees in the susceptibility of heat. And, first, it must be observed how much a low gentle heat changes and partially warms even the bodies least susceptible of it. For even the heat of the hand imparts a little warmth to a ball of lead or other metal held a short time in it; so easily is heat transmitted and excited, without any apparent change in the body.
@@ -61,7 +67,9 @@ The end of the tube touching the bottom of the vessel, and the tube itself leani
 
 Before the first glass be inserted in the other, its upper part (the belly) should be warmed at the fire. Then upon placing it as we have described, the air (which was dilated by the heat), after a sufficient time has been allowed for it to lose the additional temperature, will restore and contract itself to the same dimensions as that of the external or common atmosphere at the moment of immersion, and the water will be attracted upward in the tube to a proportionate extent. 
 
-A long narrow slip of paper should be attached to[145] the tube, divided into as many degrees as you please. You will then perceive, as the weather grows warmer or colder, that the air contracts itself into a narrower space in cold weather and dilates in the warm, which will be exhibited by the rising of the water as the air contracts itself, and its depression as the air dilates. The sensibility of the air with regard to heat or cold is so delicate and exquisite, that it far exceeds the human touch, so that a ray of sunshine, the heat of the breath, and much more, that of the hand placed on the top of the tube, immediately causes an evident depression of the water. We think, however, that the spirit of animals possesses a much more delicate susceptibility of heat and cold, only that it is impeded and blunted by the grossness of their bodies.
+A long narrow slip of paper should be attached to[145] the tube, divided into as many degrees as you please. You will then perceive, as the weather grows warmer or colder, that the air contracts itself into a narrower space in cold weather and dilates in the warm, which will be exhibited by the rising of the water as the air contracts itself, and its depression as the air dilates. 
+
+The sensibility of the air with regard to heat or cold is so delicate and exquisite, that it far exceeds the human touch, so that a ray of sunshine, the heat of the breath, and much more, that of the hand placed on the top of the tube, immediately causes an evident depression of the water. We think, however, that the spirit of animals possesses a much more delicate susceptibility of heat and cold, only that it is impeded and blunted by the grossness of their bodies.
 
 39. After air, we consider those bodies to be most sensible of heat, which have been recently changed and contracted by cold, as snow and ice; for they begin to be dissolved and melt with the first mild weather. 
 
@@ -70,5 +78,3 @@ Next, perhaps, follows quicksilver; then greasy substances, as oil, butter, and 
 40. The less massive the body is, the more readily it grows warm at the approach of a heated body, which shows that heat with us is somewhat averse to a tangible mass.[100]
 
 41. Heat with regard to the human senses and touch is various and relative, so that lukewarm water appears hot if the hand be cold, and cold if the hand be hot.
-
-

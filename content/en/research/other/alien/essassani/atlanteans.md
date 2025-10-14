@@ -43,6 +43,9 @@ Noah was Atlantean.
 
 Aztec and Basque have Atlantean DNA.
 
+
+## Lemuria
+
 Lemurians in South Pacific had blue skin as direct descendants of Anunnaki. 
 
 They were more telepathic and natural.
@@ -51,12 +54,20 @@ It was a lush environment and so had few structures. Hawaii was the last remnant
 
 Mu was destroyed naturally by volcanic activity.
 
-lazaris
+Yoga began in Lemurian times. 
+
+
+<!-- lazaris
 1 65k y ago
 2
-3 12.8k y ago
+3 12.8k y ago -->
 
 
+## Egypt
+
+The Sphinx and Great Pyramids were built in 10,500 BC after the flood to preserve Atlantean knowledge.
+
+The Library of Alexandria had information on Atlantis
 
 
 

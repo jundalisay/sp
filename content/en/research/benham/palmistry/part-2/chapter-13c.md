@@ -61,8 +61,14 @@ If the hand is sensual with a Girdle of Venus which cuts a troubled Saturn line 
 - A broken Girdle of Venus indicates the nervous condition
 - A deep Girdle indicates its excess
 
-If a deep Girdle of Venus cuts a line of Affection, the Heart line has drooping lines from it, the Head line becomes defective toward the end and terminates in a star, and the Saturn line is cut by a bar which stops it, the excesses of the subject will ruin his married life and cause great sorrow, finally ending in an impairment of the mental faculties, insanity, and the ruining of his career (534). 
 
+The excesses of the subject will ruin his married life and cause great sorrow if:
+- a deep Girdle of Venus cuts a line of Affection
+- the Heart line has drooping lines from it
+
+ends in an impairment of the mental faculties, insanity, and the ruining of his career (534) if:
+- the Head line becomes defective toward the end and terminates in a star
+- the Saturn line is cut by a bar which stops it
 
 
 <!-- You will see the Girdle of Venus in all kinds of hands. 
@@ -89,3 +95,4 @@ There are those who seek unpleasant sides to every character, and for such  -->
 The Girdle has peculiar charms, but in momst cases, it inspirtes pity and tenderness.
 
 <!-- The Girdle Of Venus Continued 679 No. 528. The Girdle Of Venus Continued 680 No. 529. The Girdle Of Venus Continued 681 No. 530. The Girdle Of Venus Continued 682 No. 531. The Girdle Of Venus Continued 683 No. 532. The Girdle Of Venus Continued 684 No. 533. The Girdle Of Venus Continued 685 No. 534. -->
+

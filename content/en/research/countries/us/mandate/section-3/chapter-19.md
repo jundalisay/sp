@@ -8,75 +8,91 @@ author: "Diana Furchtgott-Roth"
 ---
 
 
-## INTRODUCTION
+<!-- Adam Smith recognized that connections were a bedrock of society because they stimulate specialization, innovation, and capital investment. 
 
-240, Adam Smith recognized that connections were a bedrock of society because they stimulate specialization, innovation, and capital investment. 
+In the following decades, America’s growth was made possible by transportation—first ports and transatlantic shipping, then roads, canals, and eventually railroads pushing westward to create the nation we call home. 
 
-In the following decades, America’s growth was made possible by transportation—first ports and transatlantic shipping, then roads, canals, and eventually railroads pushing westward to create the nation we call home. Access to transportation is part of what made our country great.
+Access to transportation is part of what made our country great. -->
 
-The U.S. Department of Transportation (DOT), with a requested fiscal year (FY) 2023 budget of $142 billion,1 was originally intended simply to provide a policy framework for transportation safety, rulemaking, and regulation. However, it has evolved to believe that its role is “to deliver the world’s leading transportation system”2—that is, to select individual projects and allocate taxpayer funds in the actual planning, developing, and building of transportation assets. Such a role is held more appropriately by transportation asset owners: primarily states, munic- ipalities, and the private sector.
+The US Department of Transportation (DOT), with a requested fiscal year (FY) 2023 budget of $142 billion, was originally intended simply to provide a policy framework for transportation safety, rulemaking, and regulation. 
 
-In addition to providing a safety and regulatory framework through its 11 subcomponents, known as modes, the department has become a de facto grantmaking and lending organization. DOT provides approximately $50 billion in discretionary and formula grants, known as obligations, annually in areas ranging from transit systems to road construction to universities and has lent or subsidized more than
-$60 billion since the Transportation Infrastructure Finance and Innovation Act
-(TIFIA) program,3 now managed by the Build America Bureau, was created in 1998.
+However, it has evolved:
+- “to deliver the world’s leading transportation system”
+- to select individual projects and allocate taxpayer funds in the actual planning, developing, and building of transportation assets
 
-This evolved role as a major, and often primary, funding and financing source is far
-from the department’s original policy framework. It also removes incentives for
-state and local officials to ensure that investments are worthwhile, because federal
-money removes the need to get public buy-in to build and maintain infrastructure
-projects as funding becomes “someone else’s money.”
+Such a role is held better by transportation asset owners: 
+- states
+- municipalities
+- the private sector
 
-Despite the department’s tremendous resources, congressional mandates and
-funding priorities have made it difficult for DOT to focus on the pressing trans-
-portation challenges that most directly affect average Americans, such as the high
-cost of personal automobiles, especially in an era of high inflation; unpredictable
-and expensive commercial shipping by rail, air, and sea; and infrastructure spend-
-ing that does not match the types of transportation that most Americans prefer.
-Transforming the department to address the varied needs of all Americans more
-effectively remains a central challenge.
+In addition to providing a safety and regulatory framework through its 11 subcomponents, known as modes, the department has become a de facto grantmaking and lending organization. 
 
-DOT is particularly difficult to manage because its 11 major components—nine
-modal administrations, the Office of the Secretary, and the Office of the Inspector
-General—all have their own sets of personnel including administrators, deputy
-administrators, chiefs of staff, and general counsels. Most grants flow through the
-modes, such as the Federal Highway Administration, Federal Transit Administra-
-tion, and Federal Aviation Administration.
+The DOT:
+- provides approximately $50 billion in discretionary and formula grants, known as obligations, annually in areas ranging from transit systems to road construction to universities
+- has lent or subsidized more than $60 billion since the Transportation Infrastructure Finance and Innovation Act (TIFIA) program
+  - This is now managed by the Build America Bureau, was created in 1998.
 
-The Office of the Secretary contains its own grantmaking operation that funds
-research and some special grants, as well as a major lending operation, the Build
-America Bureau, that functions as an infrastructure bank. The Office of the Sec-
-retary has department-wide offices for such functions as Budget and Financial
-Management, the General Counsel, Policy, the Office of Research and Technology,
-Government Affairs, Administration, the Office of the Chief Information Officer,
-Small and Disadvantaged Business Utilization, Public Affairs, Drug and Alcohol
-Policy and Compliance, and Civil Rights. The modal administrations include the:
+This evolved role as a major funding and financing source is far from the department’s original policy framework. 
 
-lFederal Aviation Administration (FAA);
-lFederal Highway Administration (FHWA);
-lFederal Railroad Administration (FRA);
-lNational Highway Traffic Safety Administration (NHTSA);
-lFederal Transit Administration (FTA);
-lGreat Lakes St. Lawrence Seaway Development Corporation (GLS);
-lMaritime Administration (MARAD);
+It also removes incentives for state and local officials to ensure that investments are worthwhile, because federal money removes the need to get public buy-in to build and maintain infrastructure projects as funding becomes “someone else’s money.”
 
-lFederal Motor Carrier Safety Administration (FMCSA); and
-lPipeline and Hazardous Materials Safety Administration (PHMSA).
-DOT’s fundamental problem is that instead of being able to focus on providing
-Americans with affordable and abundant transportation, it has become saddled
-with congressional requirements that reduce the department to a de facto grant-
-making organization. Yet there is little need for much of this grantmaking, for
-two reasons:
+<!-- Despite the department’s tremendous resources, congressional mandates and
+funding priorities have made it difficult for  -->
 
-If funding must be federal, it would be more efficient for the U.S. Congress
-to send transportation grants to each of the 50 states and allow each state
-to purchase the transportation services that it thinks are best. Such an
-approach would enable states to prioritize different types of transportation
-according to the needs of their citizens. States that rely more on automotive
-transportation, for example, could use their funding to meet those needs.
-Meanwhile, many Americans continue to confront serious challenges with
+The DOT has not focused on the pressing transportation challenges that most directly affect average Americans, such as:
+- the high cost of automobiles
+- unpredictable and expensive commercial shipping by rail, air, and sea
+- infrastructure spending that does not match the types of transportation that most Americans prefer. 
+
+Transforming the department to address the varied needs of all Americans more effectively remains a central challenge.
+
+The 11 major components of the DOT are:
+- 9 modal administrations
+- the Office of the Secretary
+- the Office of the Inspector General
+
+These all have their own sets of personnel including:
+- administrators
+- deputy administrators
+- chiefs of staff
+- general counsels
+
+This makes the DOT particularly difficult to manage.
+
+Most grants flow through the modes, such as:
+- the Federal Highway Administration
+- Federal Transit Administration
+- Federal Aviation Administration.
+
+The Office of the Secretary contains its own grantmaking operation that funds research and some special grants, as well as a major lending operation, the Build America Bureau, that functions as an infrastructure bank. 
+
+The Office of the Secretary has department-wide offices for such functions as Budget and Financial Management, the General Counsel, Policy, the Office of Research and Technology, Government Affairs, Administration, the Office of the Chief Information Officer, Small and Disadvantaged Business Utilization, Public Affairs, Drug and Alcohol Policy and Compliance, and Civil Rights. 
+
+The modal administrations include the:
+- Federal Aviation Administration (FAA)
+- Federal Highway Administration (FHWA)
+- Federal Railroad Administration (FRA)
+- National Highway Traffic Safety Administration (NHTSA)
+- Federal Transit Administration (FTA)
+- Great Lakes St. Lawrence Seaway Development Corporation (GLS)
+- Maritime Administration (MARAD)
+- Federal Motor Carrier Safety Administration (FMCSA)
+- Pipeline and Hazardous Materials Safety Administration (PHMSA)
+
+The DOT’s fundamental problem is that instead of being able to focus on providing Americans with affordable and abundant transportation, it has become saddled with congressional requirements that reduce the department to a de facto grant-making organization. 
+
+Yet there is little need for much of this grantmaking because if funding must be federal, it would be more efficient for Congress to send transportation grants to each of the 50 states and allow each state to purchase the transportation services that it thinks are best. 
+
+This would enable states to prioritize different types of transportation according to the needs of their citizens. 
+
+States that rely more on automotive transportation could use their funding to meet those needs.
+
+<!-- Meanwhile, many Americans continue to confront serious challenges with
 their day-to-day transportation, including costs that have increased dramatically in recent years. DOT in its current form is insufficiently equipped to address
-those problems. DOT’s discretionary grant-making processes should be abolished, and funding should be focused on formulaic distributions to the states,
-which know best their transportation needs and are incentivized to think of the
+those problems.  -->
+
+DOT’s discretionary grant-making processes should be abolished, and funding should be focused on formulaic distributions to the states, which know best their transportation needs and are incentivized to think of the long-term maintenance costs. At a bare minimum, the number of grants should be consolidated.
+
 
 New technology enables private companies to charge for transportation in
 many areas, which could transform how innovation is financed. It is vital to
@@ -91,9 +107,6 @@ travel and increase everyday mobility to its greatest potential in a way that
 Americans prefer. Doing so would keep transportation decisions out of the
 hands of bureaucrats in Washington, D.C., who are far removed from local
 problems and preferences.
-
-long-term maintenance costs. At a bare minimum, the number of grants should
-be consolidated.
 
 DOT would also reduce unnecessary burdens by returning to the Trump Admin-
 istration’s “rule on rules” approach to regulations, implemented in late 2019 as RIN

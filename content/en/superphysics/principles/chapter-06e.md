@@ -8,7 +8,8 @@ image: "/graphics/physics/relationality.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
 icon: "Juan"
 aliases:
-  /relationality  
+  /relationality
+  /material/principles/universal-relativity/
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

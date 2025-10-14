@@ -9,21 +9,34 @@ c: "indigo"
 
 The imponderable fluids have had their day.
 
-Mechanical Forces are less talked about; 
+Mechanical Forces are less talked about.
 
-Science has put on a new face for this last quarter of a century; but gravitation has remained, owing its life to new combinations after the old ones had nearly killed it. It may answer scientific hypotheses very well, but the question is whether it answers as well to truth, and represents a fact in nature.
+<!-- Science has put on a new face for this last quarter of a century; but  -->
 
-Attraction by itself is not sufficient to explain even planetary motion; how can it then presume to explain the rotatory motion in the infinitudes of Space? Attraction alone will never fill all the gaps, unless a special impulse is admitted for every sidereal body, and the rotation of every planet with its satellites is shown to be due to some one cause combined with attraction. And even then, says an Astronomer,908 Science would have to name that cause.
+Gravitation has remained, owing its life to new combinations after the old ones had nearly killed it. It may answer scientific hypotheses very well.
 
-Occultism has named it for ages, and so have all the ancient Philosophers; but then all such beliefs are now proclaimed exploded superstitions. The extra-cosmic God has killed every possibility of belief in intra-cosmic intelligent Forces; yet who, or what, is the original “pusher” in that motion? Says Francœur:909
+But does it answer to truth?
 
-When we have learned the cause, unique et speciale, that pushes, we will be ready to combine it with the one which attracts.
+Attraction by itself cannot explain even planetary motion.
 
-And again:
+How can it then presume to explain the rotatory motion in the infinitudes of Space? 
 
-Attraction between the celestial bodies is only repulsion: it is the sun that drives them incessantly onward; for otherwise, their motion would stop.
+Attraction alone will never fill all the gaps, unless a special impulse is admitted for every sidereal body, and the rotation of every planet with its satellites is shown to be due to some one cause combined with attraction. 
 
-If ever this theory of the Sun-Force being the primal cause of all life on earth, and of all motion in heaven, is accepted, and if that other far bolder theory of Herschell, about certain organisms in the Sun, is accepted even as a provisional hypothesis, then will our teachings be vindicated, and Esoteric allegory will be shown to have anticipated [pg 578]Modern Science by millions of years, probably, for such are the Archaic Teachings. Mârttânda, the Sun, watches and threatens his seven brothers, the planets, without abandoning the central position to which his Mother, Aditi, relegated him. The Commentary910 says:
+Even then, says an Astronomer,908 Science would have to name that cause.
+
+Occultism and all the ancient Philosophers has named it for ages.
+
+<!-- but then all such beliefs are now proclaimed exploded superstitions. The extra-cosmic God has killed every possibility of belief in intra-cosmic intelligent Forces; yet who, or what, is the original “pusher” in that motion? Says :909 -->
+
+
+
+{{< q a="Francœur" >}}
+When we have learned the cause, unique et speciale, that pushes, we will be ready to combine it with the one which attracts. Attraction between the celestial bodies is only repulsion: it is the sun that drives them incessantly onward; for otherwise, their motion would stop.
+{{< /q >}}
+
+
+If ever this theory of the Sun-Force being the primal cause of all life on earth, and of all motion in heaven, is accepted, and if that other far bolder theory of Herschell, about certain organisms in the Sun, is accepted even as a provisional hypothesis, then will our teachings be vindicated, and Esoteric allegory will be shown to have anticipated Modern Science by millions of years, probably, for such are the Archaic Teachings. Mârttânda, the Sun, watches and threatens his seven brothers, the planets, without abandoning the central position to which his Mother, Aditi, relegated him. The Commentary910 says:
 
 He pursues them, turning slowly around himself, ... following from afar the direction in which his brothers move, on the path that encircles their houses—or the orbit.
 
@@ -123,4 +136,8 @@ Of course, the Occultists are fully aware of the fact that the vitalist “falla
 
 We do not know what life is; but no more do we know what the force is that set the stars in motion.... 
 
-Living beings are heavy, and therefore subject to gravitation; they are the seat of numerous and various physico-chemical phenomena which are indispensable to their existence, and which must be referred to the action of etherodynamy [electricity, heat, etc.]. But these phenomena are here manifested under the influence of another force.... Life is not antagonistic to the inanimate forces, but it governs and rules their action by its laws.937
+Living beings are heavy, and therefore subject to gravitation.
+
+They are the seat of numerous and various physico-chemical phenomena which are indispensable to their existence, and which must be referred to the action of etherodynamy [electricity, heat, etc.]. But these phenomena are here manifested under the influence of another force.... 
+
+Life is not antagonistic to the inanimate forces, but it governs and rules their action by its laws.937

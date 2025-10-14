@@ -31,8 +31,8 @@ A known alien technology is the UFO that was revealed by Bob Lazar.
 
 It has 3 main parts:
 
-1. Antimatter reactor
-2. Gravity amplifiers and wave guides
+1. Gravity amplifiers and wave guides
+2. Antimatter reactor
 3. Sensor array
 
 
@@ -42,8 +42,8 @@ It has 3 main parts:
 ## Gravity Amplifiers
 
 Lazar sources anti-gravity from the Gravity-A wave from the proton.
-- We call this as the aetherspace or most2 in Material Superphysics
-- This is known as the gluon field in Modern Physics
+- We call this as the aetherspace or mos2 in Material Superphysics
+- This is known as the empty atomic space in Modern Physics, which is an extension of the gluon field
 
 {{< i s="/graphics/physics/gravitya.jpg" a="Gravity A is the aetherspace" c="Gravity A is the aetherspace in Superphysics" >}}
 
@@ -52,7 +52,7 @@ His explanation for the gravity amplifiers fit with Cartesian Physics which rega
 
 However, his source for anti-gravity is the atom's aetherspace which he says extends past the atom's perimeter. 
 
-This excess aetherspace is then amplified and then phase-shift to propel the ship, converting to the gravity-B waves or the force of spacetime (most1 in Superphysics). 
+This excess aetherspace is then amplified and then phase-shift to propel the ship, converting to the gravity-B waves or the force of spacetime (mos3 in Superphysics). 
 
 We agree that the aetherspace can be amplified, made larger, and then funneled to certain directions.
 
@@ -61,9 +61,11 @@ This is because that technique matches known telekinesis wherein organic chi is 
 {{< youtube QdBN3iN6pi4 >}}
 
 
-Descartes calls this organic chi as "animal spirits" which are detected by the heart, as feelings, and are then normally sent to the brain.
+Descartes calls this organic chi as "animal spirits" which are detected by the heart, as feelings, and are then normally sent to the brain. 
 
 Physical instruments and detectors only detect up to the Electromagentic Force (Radiant Layer) and so cannot detect aethereal chi, which is only detectable by the aethereal soul or mind through the heart chakra. 
+
+The problem is that modern humans have become heartless (as to allow the World Wars, atomic bomb on Japan, Gaza Genocide, etc) and so the knowledge of chi and the aether has died out. 
 
 Levitators harness chi for levitation by diverting the chi away from its normal course towards the brain. 
 - Instead, they route it to wherever their soul wants.
@@ -78,7 +80,11 @@ So the chi can be used to separate objects in space farther, as telekinesis or l
 
 The main advantage of propulsion by aetherspace or chi is that it uses **far less physical energy than Newtonian rockets**. 
 
-Its main disadvantage is that it is very subtle and so it needs a lot of intellect and heart to process. It follows that it cannot be done without advanced machine learning, and a scientist who can detect the subtle changes in himself and the object or surroundings, something that rockets do not need. 
+Its main disadvantage is that it is very subtle and so it needs a lot of intellect and heart to process. It follows that it cannot be done without:
+- advanced machine learning and
+- a scientist who can detect the subtle changes in himself and the object or surroundings
+
+Rockets do not need such things. 
 
 <!-- However, our preferred theoretical way is to source the aetherspace from the electrons instead of the proton, as kind of aether-force field which then manipulates most1.
 
@@ -91,18 +97,21 @@ The low energy use is evident in the people who can levitate using their chakras
 
 This uses Element 115 which produces antimatter to create energy. 
 
-Lazar explains that a proton is added to Element 115 for it to become Element 116 which then decays and releases antimatter. This antimatter then reacts with a gas to create energy, converted to electricity at near 100% efficiency. 
+Lazar explains that a proton is added to Element 115 for it to become Element 116 which then decays and releases antimatter. 
+- This antimatter then reacts with a gas to create energy, converted to electricity at near 100% efficiency. 
 
-We speculate that Element 115 is not a natural element (mode of matter) but is rather a high-energy artificial element enriched by continuous fusion reactions. 
+We speculate that Element 115 is not a natural element (mode of matter) but is rather a high-energy artificial element enriched by continuous fusion reactions.
 - It would have a lot of neutrons to make it very unstable. This is why it converts readily when a proton is added, to become the unstable Element 116.
 
-It then decays into antimatter. This means that the proton triggered the instability among the neutrons, causing it to decay and produce a lot of antimatter or free aether (qoas).
+It then decays into antimatter. This means that the proton triggered the instability among the neutrons, causing it to decay and produce a lot of antimatter or reverse mom2.
 
 {{< youtube i1c07TuLqeg >}}
 
- <!-- instead of cancelling the gluon bonds.  -->
+<!-- instead of cancelling the gluon bonds.  -->
 
-Such instability is usually created by humans in linear accelerators where high-energy matter is smashed into iridium. The main difference with the UFO reactor is that Element 115 is **not** being accelerated, nor is it being smashed into anything.
+Such instability is usually created by humans in linear accelerators where high-energy matter is smashed into iridium. 
+
+The main difference with the UFO reactor is that Element 115 is **not** being accelerated, nor is it being smashed into anything.
 
 So we can say that Element 115 is inherently ready-to-be-destabilized. This can only happen if it were made artificially.
 
@@ -119,6 +128,11 @@ These makes the following energy sources unnecessary:
 - biomass
 - batteries 
 
+This is why we are against electric vehicles as they:
+- use heavy chemical batteries (antimatter removes the need for chemicals)
+- use wires (Lazar clearly says the UFO had no wires because power was sent positionally)
+
+
 
 ## Sensor Array
 
@@ -128,7 +142,7 @@ This would be similar to our concept of a solar eye:
 
 {{< i s="/graphics/physics/solareye.jpg" a="Solar Eye" >}}
 
-The solar eye gets all the data about the outside universe so that the spacetime and timespace (time operator in quantum mechanics) of the craft can be compared with the outside spacetime. 
+The solar eye gets all the data about the outside universe so that the spacetime and timespace (time operator in quantum mechanics) of the craft can be compared with the outside spacetime.
 
 This allows the ship's timespace to be adjusted so that it can tap into the aetherspace and teleport to the other location, bypassing spacetime. 
 

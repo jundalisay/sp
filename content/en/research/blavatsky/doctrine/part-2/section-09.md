@@ -2,12 +2,14 @@
 title: "The Moon; Deus Lunus, Phœbe"
 heading: "Section 9"
 weight: 28
-description: "Helena Petrovna Blavatsky is the founder of Theosophy."
+description: "This archaic symbol is the most poetical and philosophical of all symbols"
 c: "indigo"
 ---
 
 
-This archaic symbol is the most poetical of all symbols, as also the most philosophical. The ancient Greeks brought it into prominence, and the modern poets have worn it threadbare.
+This archaic symbol is the most poetical and philosophical of all symbols.
+
+The ancient Greeks brought it into prominence, and the modern poets have worn it threadbare.
 
 The Queen of Night, riding in the majesty of her peerless light in Heaven, throwing all, even Hesperus, into darkness, and spreading her silver mantle over the whole Sidereal World, has ever been a favourite theme with all the poets of Christendom, from Milton and Shakespeare down to the latest versifier. 
 
@@ -24,9 +26,13 @@ stands in closer relations to Earth than any other sidereal orb.  -->
 
 The Sun is the Giver of Life to the whole Planetary System; the Moon is the Giver of Life to our Globe; and the early races understood and knew it, even in their infancy. She is the Queen, and she is the King. She was King Soma before she became transformed into Phœbe and the chaste Diana.
 
-She is preëminently the Deity of the Christians, through the Mosaic and Kabalistic Jews, though the civilized world may have remained ignorant of the fact for long ages; in fact, ever since the last initiated Father of the Church died, carrying with him into his grave the secrets of the Pagan Temples. For such Fathers as Origen or Clemens Alexandrinus, the Moon was Jehovah's living symbol; the Giver of Life and the Giver of Death, the Disposer of Being—in our World. 
+She is preëminently the Deity of the Christians, through the Mosaic and Kabalistic Jews, though the civilized world may have remained ignorant of the fact for long ages; in fact, ever since the last initiated Father of the Church died, carrying with him into his grave the secrets of the Pagan Temples. 
 
-For, if Artemis was Luna in Heaven, and, with the Greeks, Diana on Earth, who presided over child-birth and life; [pg 416]with the Egyptians, she was Hekat (Hecate) in Hell, the Goddess of Death, who ruled over magic and enchantments. More than this; as the personified Moon, whose phenomena are triadic, Diana-Hecate-Luna is the three in one. For she is Diva triformis, tergemina, triceps, three heads on one neck,623 like Brahmâ-Vishnu-Shiva. 
+For such Fathers as Origen or Clemens Alexandrinus, the Moon was Jehovah's living symbol; the Giver of Life and the Giver of Death, the Disposer of Being—in our World. 
+
+For, if Artemis was Luna in Heaven, and, with the Greeks, Diana on Earth, who presided over child-birth and life; with the Egyptians, she was Hekat (Hecate) in Hell, the Goddess of Death, who ruled over magic and enchantments. 
+
+More than this; as the personified Moon, whose phenomena are triadic, Diana-Hecate-Luna is the three in one. For she is Diva triformis, tergemina, triceps, three heads on one neck,623 like Brahmâ-Vishnu-Shiva. 
 
 Hence she is the prototype of our Trinity, which has not always been entirely male. The number seven, so prominent in the Bible, so sacred in the seventh day, or Sabbath, came to the Jews from antiquity, deriving its origin from the four-fold number 7 contained in the 28 days of the lunar month, each septenary portion thereof being typified by one quarter of the Moon.
 
@@ -77,13 +83,31 @@ The basic idea underlying the religious philosophy of the Hebrews was that God c
 
 But the use of the cow of the Egyptians for the woman of the Hebrews was not intended as of any radical difference of signification, but a concurrence in the teaching, intended, and merely as the substitution of a symbol of common import, which was this, viz., the period of parturition with the cow and the woman was held to be the same, or 280 days, or ten lunar months of 4 weeks each. And in this period consisted the essential value of this animal symbol, whose mark was that of the crescent moon.627... These parturient and natural periods are found to have been subjects of symbolism all over the world. They were thus used by the Hindûs, and are found to be most plainly set forth by the ancient Americans, in the Richardson and Gest tablets, in the Palenque Cross and elsewhere, and manifestly lay at the base of the formation of the calendar forms of the Mayas of Yucatan, the Hindûs, the Assyrians, and the ancient Babylonians, as well as the Egyptians and old Hebrews. The natural symbols ... would be either the phallus or the phallus and yoni, ... male and female. Indeed, the words translated by the generalizing terms male and female, in the 27th verse of the 1st chapter of Genesis are ... sacr and n'cabvah or, literally, phallus and yoni.628 While the representation of the phallic emblems would barely indicate the genital members of the human body, when their functions and the development of the seed-vesicles emanating from them were considered, there would come into indication a mode of measures of lunar time, and through lunar, of solar time.
 
-This is the physiological or anthropological key to the Moon symbol. [pg 420]The key that opens the mystery of Theogony, or the evolution of the manvantaric Gods, is more complicated, and has nothing phallic in it. There, all is mystical and divine. But the Jews, beyond connecting Jehovah directly with the Moon as a generative God, preferred to ignore the higher Hierarchies, and have made their Patriarchs of some of these zodiacal constellations and planetary Gods, thus euhemerizing the purely theosophical idea and dragging it down to the level of sinful humanity. The MS., from which the above is extracted, explains very clearly to what Hierarchy of Gods Jehovah belonged, and who this Jewish God was; for it shows, in clear language, that which the writer has always insisted upon, namely, that the God with which the Christians have burdened themselves, was no better than the lunar symbol of the reproductive or generative faculty in Nature. They have ever ignored even the Hebrew secret God of the Kabalists, Ain Suph, a conception as grand as Parabrahman in the earliest Kabalistic and mystical ideas. But it is not the Kabalah of Rosenroth that can ever give the true original teachings of Shimeon Ben Yochaï, which were as metaphysical and philosophical as any could be. And how many are there among the students of the Kabalah who know anything of them except in their distorted Latin translations? Let us glance at the idea which led the ancient Jews to adopt a substitute for the Ever-Unknowable, and which has misled the Christians into mistaking the substitute for the reality.
+This is the physiological or anthropological key to the Moon symbol. 
+
+The key that opens the mystery of Theogony, or the evolution of the manvantaric Gods, is more complicated, and has nothing phallic in it. 
+
+There, all is mystical and divine. But the Jews, beyond connecting Jehovah directly with the Moon as a generative God, preferred to ignore the higher Hierarchies, and have made their Patriarchs of some of these zodiacal constellations and planetary Gods, thus euhemerizing the purely theosophical idea and dragging it down to the level of sinful humanity. 
+
+The MS., from which the above is extracted, explains very clearly to what Hierarchy of Gods Jehovah belonged, and who this Jewish God was; for it shows, in clear language, that which the writer has always insisted upon, namely, that the God with which the Christians have burdened themselves, was no better than the lunar symbol of the reproductive or generative faculty in Nature. 
+
+They have ever ignored even the Hebrew secret God of the Kabalists, Ain Suph, a conception as grand as Parabrahman in the earliest Kabalistic and mystical ideas. But it is not the Kabalah of Rosenroth that can ever give the true original teachings of Shimeon Ben Yochaï, which were as metaphysical and philosophical as any could be.
+
+How many are there among the students of the Kabalah who know anything of them except in their distorted Latin translations? Let us glance at the idea which led the ancient Jews to adopt a substitute for the Ever-Unknowable, and which has misled the Christians into mistaking the substitute for the reality.
 
 If to these organs [phallus and yoni] as symbols of creative cosmic agencies the idea of ... time periods can be attached, then, indeed, in the construction of Temples as Dwellings of Deity, or of Jehovah, that part designated as the Holy of Holies, or The Most Holy Place, should borrow its title from the recognized sacredness of the generative organs, considered as symbols of measures as well as of creative cause.
 
-With the ancient Wise, there was no name, and no idea, and no symbol, of a First Cause.629 With the Hebrews, the indirect conception of such was couched in a term of negation of comprehension, viz., Ain Suph, or the Without Bounds. But the symbol of its first comprehensible manifestation was the conception of a circle with its diameter line, to at once carry a geometric, phallic, and astronomic idea; ... for the one takes its birth from the 0, or the circle, without which it could not be, and from the 1, or primal one, spring the 9 digits, and, geometrically, all plane shapes. So in Kabalah this circle, with its diameter line, is the picture of the 10 Sephiroth, or Emanations, composing the Adam Kadmon, or the Archetypal Man, [pg 421]the creative origin of all things.... This idea of connecting the picture of the circle and its diameter line, that is, the number 10, with the signification of the reproductive organs, and the Most Holy Place ... was carried out constructively in the King's Chamber, or Holy of Holies, of the great Pyramid, in the Tabernacle of Moses, and in the Holy of Holies of the Temple of Solomon.... It is the picture of a double womb, for in Hebrew the letter Hé (ה) is at the same time the number 5, and the symbol of the womb, and twice 5 is 10, or the phallic number.
+With the ancient Wise, there was no name, and no idea, and no symbol, of a First Cause. 
 
-This “double womb” also shows the duality of the idea carried from the highest or spiritual down to the lowest or terrestrial plane; and limited by the Jews to the latter. With them, therefore, the number seven has acquired the most prominent place in their exoteric religion, a cult of external forms and empty rituals; take, for instance, their Sabbath, the seventh day sacred to their Deity, the Moon, symbolical of the generative Jehovah. But, with other nations, the number seven was typical of theogonic evolution, of Cycles, Cosmic Planes, and the Seven Forces and Occult Powers in Kosmos, as a Boundless Whole, whose first upper Triangle was unreachable to the finite intellect of man. While other nations, therefore, busied themselves, in their forcible limitation of Kosmos in Space and Time, only with its septenary manifested plane, the Jews centred this number solely in the Moon, and based all their sacred calculations thereupon. Hence we find the thoughtful author of the MS. just quoted, remarking, in reference to the metrology of the Jews, that:
+With the Hebrews, the indirect conception of such was couched in a term of negation of comprehension, viz., Ain Suph, or the Without Bounds. 
+
+But the symbol of its first comprehensible manifestation was the conception of a circle with its diameter line, to at once carry a geometric, phallic, and astronomic idea; ... for the one takes its birth from the 0, or the circle, without which it could not be, and from the 1, or primal one, spring the 9 digits, and, geometrically, all plane shapes. So in Kabalah this circle, with its diameter line, is the picture of the 10 Sephiroth, or Emanations, composing the Adam Kadmon, or the Archetypal Man, [pg 421]the creative origin of all things.... This idea of connecting the picture of the circle and its diameter line, that is, the number 10, with the signification of the reproductive organs, and the Most Holy Place ... was carried out constructively in the King's Chamber, or Holy of Holies, of the great Pyramid, in the Tabernacle of Moses, and in the Holy of Holies of the Temple of Solomon.... It is the picture of a double womb, for in Hebrew the letter Hé (ה) is at the same time the number 5, and the symbol of the womb, and twice 5 is 10, or the phallic number.
+
+This “double womb” also shows the duality of the idea carried from the highest or spiritual down to the lowest or terrestrial plane; and limited by the Jews to the latter. 
+
+With them, therefore, the number seven has acquired the most prominent place in their exoteric religion, a cult of external forms and empty rituals; take, for instance, their Sabbath, the seventh day sacred to their Deity, the Moon, symbolical of the generative Jehovah. 
+
+But, with other nations, the number seven was typical of theogonic evolution, of Cycles, Cosmic Planes, and the Seven Forces and Occult Powers in Kosmos, as a Boundless Whole, whose first upper Triangle was unreachable to the finite intellect of man. While other nations, therefore, busied themselves, in their forcible limitation of Kosmos in Space and Time, only with its septenary manifested plane, the Jews centred this number solely in the Moon, and based all their sacred calculations thereupon. Hence we find the thoughtful author of the MS. just quoted, remarking, in reference to the metrology of the Jews, that:
 
 If 20,612 be multiplied by 4/3, the product will afford a base for the ascertainment of the mean revolution of the moon; and if this product be again multiplied by 4/3, this continued product will afford a base for finding the exact period of the mean solar year, ... this form ... becoming, for the finding of astronomical periods of time, of very great service.
 
@@ -163,7 +187,16 @@ The Sun and Moon, as male-female deities, fructify the Earth, the microcosmical 
 
 Truly, Neïth, Isis, Diana, etc., by whatever name she was called, was “a demiurgical Goddess, at once visible and invisible, having her place in Heaven, and helping on the generation of species”—the Moon, in short. Her occult aspects and powers are numberless, and, in one of them, the Moon becomes with the Egyptians Hathor, another aspect of Isis,643 and both of these Goddesses are shown suckling Horus. Behold in the Egyptian Hall of the British Museum, Hathor worshipped by Pharaoh [pg 430]Thotmes, who stands between her and the Lord of Heavens. The monolith was taken from Karnac. 
 
-The same Goddess has the following legend inscribed on her throne: “The Divine Mother and Lady, or Queen of Heaven”; also the “Morning Star,” and the “Light of the Sea”—Stella Matutina and Lux Maris. All the Lunar Goddesses had a dual aspect; one divine, the other infernal. All were the Virgin Mothers of an immaculately born Son—the Sun. Raoul Rochette shows the Moon-Goddess of the Athenians, Pallas, or Cybele, Minerva, or again Diana, holding her child-son on her lap, invoked in her festivals as Μονογενὴς θεοῦ, the “One Mother of God,” sitting on a lion, and surrounded by twelve personages; in whom the Occultist recognizes the twelve great Gods, and the pious Christian Orientalist the Apostles, or rather the Grecian Pagan prophecy thereof.
+The same Goddess has the following legend inscribed on her throne: “The Divine Mother and Lady, or Queen of Heaven”; also the “Morning Star,” and the “Light of the Sea”—Stella Matutina and Lux Maris. 
+
+All the Lunar Goddesses had a dual aspect:
+
+1. Divine
+2. Infernal
+
+All were the Virgin Mothers of an immaculately born Son—the Sun.
+
+Raoul Rochette shows the Moon-Goddess of the Athenians, Pallas, or Cybele, Minerva, or again Diana, holding her child-son on her lap, invoked in her festivals as Μονογενὴς θεοῦ, the “One Mother of God,” sitting on a lion, and surrounded by twelve personages; in whom the Occultist recognizes the twelve great Gods, and the pious Christian Orientalist the Apostles, or rather the Grecian Pagan prophecy thereof.
 
 They are both right, for the Immaculate Goddess of the Latin Church is a faithful copy of the older Pagan Goddesses; the number of the Apostles is that of the twelve Tribes, and the latter are a personification of the twelve great Gods, and of the twelve Signs of the Zodiac. Almost every detail in the Christian dogma is borrowed from the Heathens.
 
@@ -181,9 +214,15 @@ Verily so, since Pindar thus sings of her “assumption”: “She sits at the r
 
 Again the Virgin is admitted to be the Moon by the same unsophisticated holy man. Being the Lucina of the Church, in childbirth the verse of Virgil, “Casta fove Lucina, tuus jam regnat Apollo,” is applied to her. “Like the Moon, the Virgin is the Queen of Heaven,” adds the innocent saint.649
 
-This settles the question. According to such writers as De Mirville, the more similarity there exists between the Pagan conceptions and the Christian dogmas, the more divine appears the Christian religion, and the more is it seen to be the only truly inspired one, especially in its Roman Catholic form. The unbelieving Scientists and Academicians who think they see in the Latin Church quite the opposite of divine inspiration, and who will not believe in the Satanic tricks of plagiarism by anticipation, are severely taken to task. But then “they believe in nothing and reject even the Nabathean Agriculture as a romance and a pack of superstitious nonsense,” complains the memorialist.
+This settles the question. According to such writers as De Mirville, the more similarity there exists between the Pagan conceptions and the Christian dogmas, the more divine appears the Christian religion, and the more is it seen to be the only truly inspired one, especially in its Roman Catholic form. 
 
-“In their perverted opinion Qû-tâmy's ‘idol of the Moon’ and the statue of the Madonna are one!” A noble Marquis, twenty-five [pg 432]years ago, wrote six huge volumes, or, as he calls them “Mémoires to the French Academy,” with the sole object of proving Roman Catholicism to be an inspired and revealed faith. As a proof thereof, he furnishes numberless facts, all tending to show that the entire Ancient World, ever since the Deluge, had, with the help of the Devil, been systematically plagiarizing the rites, ceremonies, and dogmas of the future Holy Church, which was to be born ages later. 
+The unbelieving Scientists and Academicians who think they see in the Latin Church quite the opposite of divine inspiration, and who will not believe in the Satanic tricks of plagiarism by anticipation, are severely taken to task. But then “they believe in nothing and reject even the Nabathean Agriculture as a romance and a pack of superstitious nonsense,” complains the memorialist.
+
+“In their perverted opinion Qû-tâmy's ‘idol of the Moon’ and the statue of the Madonna are one!” 
+
+A noble Marquis, 25 years ago, wrote six huge volumes, or, as he calls them “Mémoires to the French Academy,” with the sole object of proving Roman Catholicism to be an inspired and revealed faith. 
+
+As a proof thereof, he furnishes numberless facts, all tending to show that the entire Ancient World, ever since the Deluge, had, with the help of the Devil, been systematically plagiarizing the rites, ceremonies, and dogmas of the future Holy Church, which was to be born ages later. 
 
 What would that faithful son of Rome have said had he heard his co-religionist, M. Renouf, the distinguished Egyptologist of the British Museum, declaring in one of his learned lectures, that neither “Hebrews nor Greeks borrowed any of their ideas from Egypt”?
 
@@ -193,13 +232,25 @@ The reason of early Christian and later Roman Catholic Astrolatry, or the symbol
 
 Thus, Odin got his wisdom, power, and knowledge, by sitting at the feet of Mimir, the thrice-wise Jotun, who passed his life by the fountain of primeval Wisdom, the crystalline Waters of which increased his knowledge daily. “Mimir drew the highest knowledge from the fountain, because the World was born of Water; hence primeval Wisdom was to be found in that mysterious element.” 
 
-The eye which Odin had to pledge to acquire that knowledge may be “the Sun, which enlightens and penetrates all things; his other eye being the Moon, whose reflection gazes out of the deep, and which at last, when setting, sinks into the Ocean.”650 But it is something more than this. Loki, the Fire-God, is said to have hidden in the Water, as well as in the Moon, the light-giver, whose reflection he found therein. This belief that the Fire finds refuge in the Water was not limited to the old Scandinavians.
+The eye which Odin had to pledge to acquire that knowledge may be “the Sun, which enlightens and penetrates all things; his other eye being the Moon, whose reflection gazes out of the deep, and which at last, when setting, sinks into the Ocean.”650 But it is something more than this. 
+
+Loki, the Fire-God, is said to have hidden in the Water, as well as in the Moon, the light-giver, whose reflection he found therein. This belief that the Fire finds refuge in the Water was not limited to the old Scandinavians.
 
 It was shared by all nations and was finally adopted by the early Christians, who symbolized the Holy Ghost under the shape of Fire, “cloven tongues like as of fire”—the breath of the Father-Sun. This Fire descends also into the Water, or the Sea—Mare, Mary. The Dove was the symbol of the Soul with several nations; it was sacred to Venus, the Goddess born from the sea-foam, and it became later the symbol of the Christian Anima Mundi, or Holy Spirit.
 
-One of the most occult chapters in the Book of the Dead is that entitled, “The transformation into the God giving Light to the Path of Darkness,” wherein “Woman-Light of the Shadow” serves Thot in his retreat in the Moon. Thot-Hermes is said to hide therein, because he is the representative of the Secret Wisdom. He is the manifested Logos of its light side; the concealed Deity or “Dark Wisdom” when he is supposed to retire to the opposite hemisphere. Speaking of her power, the Moon calls herself repeatedly: “The Light which shineth in Darkness,” the “Woman-Light.” 
+One of the most occult chapters in the Book of the Dead is “The transformation into the God giving Light to the Path of Darkness”.
 
-Hence it became the accepted symbol of all the Virgin-Mother Goddesses. As the wicked “evil” Spirits warred against the Moon in days of yore, so they are supposed to war now, without, however, being able to prevail against the actual Queen of Heaven, Mary, the Moon. Hence, also, the Moon was intimately connected in all the Pagan Theogonies with the Dragon, her eternal enemy.
+In it, “Woman-Light of the Shadow” serves Thot in his retreat in the Moon.
+
+Thot-Hermes hides therein because he is the representative of the Secret Wisdom.
+
+He is the manifested Logos of its light side; the concealed Deity or “Dark Wisdom” when he is supposed to retire to the opposite hemisphere. 
+
+Speaking of her power, the Moon calls herself repeatedly: “The Light which shineth in Darkness,” the “Woman-Light.” 
+
+Hence it became the accepted symbol of all the Virgin-Mother Goddesses. 
+
+As the wicked “evil” Spirits warred against the Moon in days of yore, so they are supposed to war now, without, however, being able to prevail against the actual Queen of Heaven, Mary, the Moon. Hence, also, the Moon was intimately connected in all the Pagan Theogonies with the Dragon, her eternal enemy.
 
 The Virgin, or Madonna, stands on the mythical Satan thus symbolized, who lies crushed and powerless, under her feet. This, because the head and tail of the Dragon, which, to this day in Eastern Astronomy, represent the ascending and descending nodes of the Moon, were also symbolized in ancient Greece by the two serpents. Hercules kills them on the day of his birth, and so does the Babe in his Virgin-Mother's arms. As Mr. Gerald Massey aptly observes in this connection:
 

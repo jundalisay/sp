@@ -43,6 +43,9 @@ Mysticism is when the subtle aesthetic science reaches a certain standard. It be
 
 Mysticism takes the form of Spiritual Superphysics which has its own math called Qualimath, just as Newtonian Physics developed its own math called Calculus. -
 
+
+## The Shortcomings of (Materialist) Science and Math
+
 The current sciences is totally based on shallow physical perceptions of things that already exist. This makes it the opposite of mysticism which is totally based on metaphysical perceptions as ideas and feelings.  
 
 Science uses math to plot the patterns of its  physical perceptions. From those patterns, it tries to work back to the cause.
@@ -58,7 +61,10 @@ The problem here is that **all causes are metaphysical in nature, since all caus
 <!-- This is in line with the ancient 5 Elements model and is what Kepler's data-driven astrology was trying to prove. Unfortunately, science only took his astronomical observations, as Kepler's Laws. You could think of stars and supernovae as the 'deploy' phase of the aethereal ideas of the Supreme onto reality. -->
 
 
-Math, on the other hand, is confined to physical perceptions. The best that math and science can do is to speculate on the causes of problems based on the pattern of effects. It's like a blind man groping in the dark to discover where he is or what's around him. 
+Math and science have nothing on the nature of ideas and feelings, and the souls that have those feelings and ideas. 
+
+The best that they can do is to speculate on the causes of problems based on the pattern of effects.
+-  It's like a blind man groping in the dark to discover where he is or what's around him. 
 
 For example, science knows that global warming is caused by greenhouse gas emissions. But it is helpless in actually solving those emissions which is rooted in the love for the causes of emissions:
 - the love of eating meat
@@ -98,11 +104,13 @@ By getting all the data, as well as all the interpretations of the data, then to
 {{< img src="/graphics/super/dialectics.jpg" alt="Socratic dialectics" cap="The Dialectics of Aristotle is merely based on a thesis. The Dialectics of Socrates is based on the True Nature of a thing as it was designed by the Supreme" >}}
 
 
-But not all data is useful, just as not all interpretations are valid. To solve this, Socratic Dialectics uses wise minds to churn, project, then weed out the bad data and interpretations to preserve only the good and solid ones. Such minds have a more solid grasp of both metaphysics and physics or science and have no bias. 
+But not all data is useful, just as not all interpretations are valid. 
+
+To solve this, Socratic Dialectics uses wise minds to churn, project, then weed out the bad data and interpretations to preserve only the good and solid ones. Such minds have a more solid grasp of both metaphysics and physics or science and have no bias.
 
 Socrates does this churning process as the **Socratic method** wherein a wise mind takes an idea from a theorist and then walks forward with the theorist's mind towards the projected effect of his idea, or backwards in order to discover the cause together.
 
-The natural contradiction between the metaphysical and physical dimensions then manifest as the "contradictions" which Hegel emphasized. 
+<!-- The natural contradiction between the metaphysical and physical dimensions then manifest as the "contradictions" which Hegel emphasized.  -->
 
 
 {{< q a="Socrates" c="The Republic by Plato Simplified" >}}
@@ -110,7 +118,8 @@ A person will find himself at the top of the intellectual world when he tries to
 {{< /q >}}
 
 
-{{< q a="Parmenides" c="Parmenides by Plato Simplified" >}}Yes but I think that you should go a step further, and <i>consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis.</i>
+{{< q a="Parmenides" c="Parmenides by Plato Simplified" >}}
+You should go a step further, and <i>consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis.</i>
 {{< /q >}}
 
 
@@ -125,12 +134,21 @@ Dialectics is a logic of illusion. It is a sophistical art for giving ignorance 
 
 <!-- > *For example, the collapse of the USSR clearly shows that the ideas of Marx and Lenin were wrong. Thus, they can never be regarded as Socratic dialecticians. On the other hand, the ideas of The Prophet Mohammad, Jesus, and Buddha have persisted and flourished. These prove that they are in line with the True Nature of things.  -->
 
+
+## Update October 13, 2025: A Black Box of Principles
+
 The distillation of the total knowledge then leads to a single pattern knowledge called **principles** which form the foundation of Superphysics.
+
 
 <!-- A product of the distillation of the knowledge* of Western and Eastern philosophy then produces universal and timeless principles which we call The Metaphysics of Things or MoT. -->
 <!-- https://play.google.com/store/books/details/['Juan']_Dalisay_Jr_The_Metaphysics_of_Things_Book_1?id=JY3tDwAAQBAJ -->
 
 Unlike metaphysical principles which are purely theoretical, the principles must survive in physical reality, either as actual evidence, demonstrations, or successful predictions.
+
+Problems will be run through the black box of principles in order to come up with a set of answers or action steps that can be adopted. The results of those actions can then be run through the black box again to come up with a new recommendation or prediction.
+
+This is currently done by large language models to come up with better answers as time passes and more info is provided to it.
+
 
 {{< dc t="Update: December 2021" >}}
 Below are examples of real-world evidence.
@@ -145,3 +163,39 @@ Material Superphysics | The prediction that fusion will not work because artific
 
 
 <!-- This is what Socrtatic Dialectics does. This technique was also used in the Bhagavad Gita and the Analects by Confucius. -->
+
+If the scientific revolution upgraded the natural philosopher into a scientist, then the dialectical revolution will upgrade the scientist into a superscientist (or dialectical scientist), with the upgrade representing a 'level-up' in human understanding. 
+
+Current | Enlightened
+--- | ---
+Physicist | "Mespee"
+Biologist | Superbiologist
+Chemist | Superchemist
+Economist | Supereconomist
+Doctor | Superdoctor
+
+
+This upgrade manifests as the huge amounts of data and information absorbed and processed by the dialectician from all sources:
+- anywhere in the world 
+- of human history
+
+The scientist refuses to accept unscientific information such as myths and metaphysical works. 
+- They immediately refuse ideas from Ayurveda, Feng Shui, Reiki, souls, aliens, other dimensions, etc.
+
+True dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles.
+
+For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles in order to create new ones. 
+
+For example, we run [Einstein's General Relativity](/material/fallacies/general-relativity/) through Socrates' principles or black box to reveal its fatal flaws.
+
+We run it again through Descartes' principles to fix it and come up with The Elastic Theory of Gravity that matches Quantum Mechanics.
+
+
+<!-- In the evolution of human understanding, Superphysics is the next and last stage after science. 
+
+Author | Natural Principles | Method | System | Technological Trigger
+--- | --- | --- | --- | --- 
+Socrates | True nature | Dialectics | Science of Harmonics | Writing & Literacy
+Hume | Treatise of Human Nature | Critical Thinking | Science of Man | Printing Press
+Our version | 6-Sense Metaphysics  | Data science + Dialectics | Superphysics | Internet
+Future version | 6-Sense Universal Metaphysics | Universal Dialectics | Universal Superphysics | Intergalactic Communication -->

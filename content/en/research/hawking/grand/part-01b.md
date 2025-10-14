@@ -5,6 +5,8 @@ description: "M-theory is the only model that has all the properties we think th
 weight: 4
 icon: "Stephen Hawking"
 c: "firebrick"
+aliases:
+  /research/hawking/grand/part-01g/
 ---
 
 

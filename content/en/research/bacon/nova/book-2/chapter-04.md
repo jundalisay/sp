@@ -123,7 +123,9 @@ Such liquids (whether oily or watery) as are intensely acrid exhibit the effects
 
 Let spirits of wine be tried on wood, or butter, wax, or pitch, to see if this will melt them at all by their heat; for the twenty-fourth instance shows that they possess properties resembling those of heat in causing incrustation. Let an experiment also be made with a graduated glass or calendar,[93] concave at the top, by pouring well-rectified spirits of wine into the cavity, and covering it up in order that they may the better retain their heat, then observe whether their heat make the water descend.
 
-Spices and acrid herbs are sensibly warm to the palate, and still more so when taken internally; one should see, therefore, on what other substances they exhibit the effects of heat. Now, sailors tell us that when large quantities of spices are suddenly opened, after having been shut up for some time, there is some danger of fever and inflammation to those who stir them or take them out. An experiment[135] might, therefore, be made whether such spices and herbs, when produced, will, like smoke, dry fish and meat hung up over them.
+Spices and acrid herbs are sensibly warm to the palate, and still more so when taken internally; one should see, therefore, on what other substances they exhibit the effects of heat. Now, sailors tell us that when large quantities of spices are suddenly opened, after having been shut up for some time, there is some danger of fever and inflammation to those who stir them or take them out. 
+
+An experiment might, therefore, be made whether such spices and herbs, when produced, will, like smoke, dry fish and meat hung up over them.
 
 There is an acrid effect and a degree of penetration in cold liquids, such as vinegar and oil of vitriol, as well as in warm, such as oil of marjoram and the like; they have, therefore, an equal effect in causing animated substances to smart, and separating and consuming inanimate parts. There is not any negative instance as to this, nor does there exist any animal pain unaccompanied by the sensation of heat.
 

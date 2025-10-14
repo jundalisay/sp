@@ -7,14 +7,23 @@ c: "indigo"
 ---
 
 
-
 Modern Science is Ancient Thought distorted, and no more. 
 
-I will give more proofs of the fact that more than one F.R.S. is unconsciously approaching the derided Secret Sciences.
+More than one F.R.S. is unconsciously approaching the derided Secret Sciences.
 
-With regard to Cosmogony and primeval matter, modern speculations are undeniably ancient thought, “improved” by contradictory theories of recent origin. The whole foundation belongs to Grecian and Indian Archaic Astronomy and Physics, in those days called always Philosophy. In all the Âryan and Greek speculations, we meet with the conception of an all-pervading, unorganized, and homogeneous Matter, or Chaos, re-named by modern Scientists “nebular condition of the world-stuff.” What Anaxagoras called Chaos in his Homoiomeria is now called “primitive fluid” by Sir William Thomson.
+Modern speculations on Cosmogony and primeval matter are ancient thought, “improved” by contradictory recent theories. 
 
-The Hindû and Greek Atomists—Kanâda, Leucippus, Democritus, Epicurus, Lucretius, etc.—are now reflected, as in a clear mirror, in the supporters of the Atomic Theory of our modern days, beginning with Leibnitz's Monads, and ending with the Vortical Atoms of Sir William Thomson.991 
+The whole foundation belongs to Grecian and Indian Archaic Astronomy and Physics, in those days called Philosophy.
+
+In all the Âryan and Greek speculations, we meet with the conception of an all-pervading, unorganized, and homogeneous Matter, or Chaos, re-named by modern Scientists “nebular condition of the world-stuff.” 
+
+What Anaxagoras called Chaos in his Homoiomeria is now called “primitive fluid” by Sir William Thomson.
+
+The Hindû Atomist is Kanâda.
+
+The Greek Atomists are Leucippus, Democritus, Epicurus, Lucretius, etc
+
+These are now reflected in the supporters of the Atomic Theory of our modern days, beginning with Leibnitz's Monads, and ending with the Vortical Atoms of Sir William Thomson.991 
 
 True, the corpuscular theory of old is rejected, and the undulatory theory has taken its place. But the question is, whether the latter is so firmly established as not to be liable to be dethroned like its predecessor? Light, from its metaphysical aspect, has been fully treated in Isis Unveiled:
 

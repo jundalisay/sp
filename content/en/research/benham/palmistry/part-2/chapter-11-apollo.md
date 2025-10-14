@@ -129,6 +129,10 @@ The period of life covered by this break can be read according to the scale laid
 
 There may be a special cause why the line vanishes for a time, as ill health may render inoperative even the most brilliant talents. With such a break look for defects in the other lines and Mounts which may account for it. 
 
-If during this period the Life line be in any way defective, delicate health is against the operation of the subject's talents (429). If at the age indicated by this space in the Apollo line, the Head line be defective, the mental power of the subject is weakened, and he cannot give the attention necessary to make his affairs successful (430). 
+If during this period the Life line be in any way defective, delicate health is against the operation of the subject's talents (429). 
 
-Similar defects seen in other portions of the hand, whether connected by chance lines to the space in the Apollo line or not, show something which has for the time being impeded the career of the subject, by suspending the operation of his strongest talents. To be regarded as a true line of Apollo, the line must begin more or less low in the hand, directly under the Mount and finger of Apollo. 
+If at the age indicated by this space in the Apollo line, the Head line be defective, the mental power of the subject is weakened, and he cannot give the attention necessary to make his affairs successful (430). 
+
+Similar defects seen in other portions of the hand, whether connected by chance lines to the space in the Apollo line or not, show something which has for the time being impeded the career of the subject, by suspending the operation of his strongest talents. 
+
+To be regarded as a true line of Apollo, the line must begin low in the hand, directly under the Mount and finger of Apollo. 
