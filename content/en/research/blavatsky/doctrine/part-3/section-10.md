@@ -7,16 +7,30 @@ c: "indigo"
 ---
 
 
+<!--When the Occultist speaks of Elements, and of human Beings who lived during those geological ages, the duration of which it is found as impossible to determine—according to the opinion of one of the best English Geologists960—as the nature of Matter, it is because he knows what he is talking about. 
 
-When the Occultist speaks of Elements, and of human Beings who lived during those geological ages, the duration of which it is found as impossible to determine—according to the opinion of one of the best English Geologists960—as the nature of Matter, it is because he knows what he is talking about. 
+When he says Man and Elements, he means neither man in his present physiological and anthropological form, nor the elemental Atoms, those hypothetical conceptions, existing at present in scientific minds, the entitative abstractions of Matter in its highly attenuated state; nor, again, does he mean the compound Elements of Antiquity. -->
 
-When he says Man and Elements, he means neither man in his present physiological and anthropological form, nor the elemental Atoms, those hypothetical conceptions, existing at present in scientific minds, the entitative abstractions of Matter in its highly attenuated state; nor, again, does he mean the compound Elements of Antiquity.
+In Occultism, Element means Rudiment.
 
-In Occultism the word Element in every case means Rudiment. When we say “Elementary Man,” we mean either the proëmial, incipient sketch of man, in its unfinished and undeveloped condition, hence in that form which now lies latent in physical man during his life-time, and takes shape only occasionally and under certain conditions; or, that form which for a time survives the material body, and which is better known as an Elementary.961 
+“Elementary Man” means either:
+- the proëmial, incipient sketch of man, in its unfinished and undeveloped condition
+ <!-- hence in that form which now lies latent in physical man during his life-time, and takes shape only occasionally and under certain conditions; or -->
+- man which for a time survives the material body
 
-With regard to Element, when the term is used metaphysically, it means, in distinction to the mortal, the incipient Divine Man; and, in its physical usage, it means inchoate Matter in its first undifferentiated condition, or in the Laya state, the eternal and normal condition of Substance, which differentiates only periodically; during that differentiation, Substance is really in an abnormal state—in other words, it is but a transitory illusion of the senses.
 
-As to the Elemental Atoms, so-called, the Occultists refer to them by that name with a meaning analogous to that which is given by [pg 620]the Hindû to Brahmâ, when he calls him Anu, the Atom. Every Elemental Atom, in search of which more than one Chemist has followed the path indicated by the Alchemists, is, in their firm belief, when not knowledge, a Soul; not necessarily a disembodied Soul, but a Jîva, as the Hindûs call it, a centre of Potential Vitality, with latent intelligence in it, and, in the case of compound Souls, an intelligent active Existence, from the highest to the lowest order, a form composed of more or less differentiations. It requires a Metaphysician—and an Eastern Metaphysician—to understand our meaning. All those Atom-Souls are differentiations from the One, and are in the same relation to it as is the Divine Soul, Buddhi, to its informing and inseparable Spirit, Âtmâ.
+Metaphysical Element is in distinction to the mortal.
+- This is the incipient Divine Man.
+
+Physical Element means inchoate Matter in its first undifferentiated condition, or in the Laya state, the eternal and normal condition of Substance, which differentiates only periodically.
+
+During that differentiation, Substance is really in an abnormal state—in other words, it is but a transitory illusion of the senses.
+
+As to the Elemental Atoms, so-called, the Occultists refer to them by that name with a meaning analogous to that which is given by [pg 620]the Hindû to Brahmâ, when he calls him Anu, the Atom. 
+
+Every Elemental Atom, in search of which more than one Chemist has followed the path indicated by the Alchemists, is, in their firm belief, when not knowledge, a Soul; not necessarily a disembodied Soul, but a Jîva, as the Hindûs call it, a centre of Potential Vitality, with latent intelligence in it, and, in the case of compound Souls, an intelligent active Existence, from the highest to the lowest order, a form composed of more or less differentiations. It requires a Metaphysician—and an Eastern Metaphysician—to understand our meaning. 
+
+All those Atom-Souls are differentiations from the One, and are in the same relation to it as is the Divine Soul, Buddhi, to its informing and inseparable Spirit, Âtmâ.
 
 Modern Physics, in borrowing from the Ancients their Atomic Theory, forgot one point, the most important point of the doctrine; hence they have got only the husks and will never be able to get the kernel. In adopting physical Atoms, they omitted the suggestive fact that, from Anaxagoras to Epicurus, to the Roman Lucretius, and finally even to Galileo, all these Philosophers believed more or less in animated Atoms, not in invisible specks of so-called “brute” matter. According to them, rotatory motion was generated by larger (read, more divine and pure) Atoms forcing other Atoms downwards; the lighter ones being simultaneously thrust upward. 
 

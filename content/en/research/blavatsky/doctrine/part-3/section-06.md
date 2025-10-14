@@ -1,6 +1,5 @@
 ---
 title: Samuel Metcalfe and the Sun Force
-# title: "An Attack on the Scientific Theory of Force by a Man of Science"
 heading: "Section 6"
 weight: 32
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
