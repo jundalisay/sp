@@ -96,6 +96,8 @@ Supreme Entity | The Absolute Entity in active form in order to gain reality and
 Tao | the dharma in active flowing form
 Theism | a belief system that is based on the idea of the existence of a Supreme Entity
 Thinking | the process of integration of external idea-nodes within the mind-node
+Thinking, Critical | the application of intellect with an added effort to push against or break through limitation
+Thinking, Ordinary | the application of intellect in the ordinary way within limitation
 Thought | A physicalized version of a metaphysical Idea, as a result of thinking
 Time | Gap between perceptions in general 
 Time Dilation | The increase of timespan within time 

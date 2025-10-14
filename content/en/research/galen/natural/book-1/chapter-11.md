@@ -9,9 +9,9 @@ c: "firebrick"
 ---
 
 
-Nutrition is an assimilation of that which nourishes to that which receives nourishments.65 
+Nutrition is an assimilation of that which nourishes to that which receives nourishments.
 
-To explain it, we must assume a preliminary process of adhesion,66 and for that, again, one of presentation.67 
+To explain it, we must assume a preliminary process of adhesion, and for that, again, one of presentation.
 
 Whenever the nourishing juice is emitted from the vessels, it is first dispersed all through this part. Then it is presented, and next it adheres, and becomes completely assimilated.
 

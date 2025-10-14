@@ -7,7 +7,7 @@ description: "The German Corruption of Dialectics came from their tendency to ov
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 530
+weight: 532
 icon: "Juan"
 ---
 
@@ -70,13 +70,13 @@ We use the Socratic dialectical approach and the scientific approach to solve Co
 
 Scientific Approach | Dialectical Approach
 --- | ---
-1. Note down the symptoms | 1. Note down the symptoms
-2. Test the drugs or treatments suggested by Western Medicine | 2. Test the drugs or treatmens suggested by Western Medicine
-| 3. Test the drugs or treatments suggested by Naturopathy
-| 4. Test the drugs or treatments suggested by Ayurveda
-| 5. Test the drugs or treatments suggested by Traditional Chinese Medicine
-| 6. Test the drugs or treatments suggested by Homeopathy
-| 7. Know the principles of each medical paradigm and find patterns to find out which paradigm deals best with Covid 19
+1 Note down the symptoms | 1. Note down the symptoms
+2 Test the drugs or treatments suggested by Western Medicine | 2. Test the drugs or treatmens suggested by Western Medicine
+_ | 3. Test the drugs or treatments suggested by Naturopathy
+_ | 4. Test the drugs or treatments suggested by Ayurveda
+_ | 5. Test the drugs or treatments suggested by Traditional Chinese Medicine
+_ | 6. Test the drugs or treatments suggested by Homeopathy
+_ | 7. Know the principles of each medical paradigm and find patterns to find out which paradigm deals best with Covid 19
 
 
 {{< q a="Socrates" c="The Republic Simplified, Book 7, Chapter 4" >}}

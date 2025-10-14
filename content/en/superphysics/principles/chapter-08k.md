@@ -72,6 +72,9 @@ For example, science knows that global warming is caused by greenhouse gas emiss
 - the love of clearing ugly forests to build beautiful real estate
 - and so on 
 
+This is why global warming, as well as other problems like nuclear weapons, genocide, plastic pollution are still here. 
+
+
 
 {{< img src="/graphics/science.jpg" alt="Science versus Dialectics" cap="Science uses Math to drill down to an answer. Superphysics uses Dialectics first to think out of the box and gather all ideas about the nature of the problem and then uses math and logic, as data science, to drill down to the best answer" >}}
 
@@ -82,7 +85,7 @@ Surely the skilled mathematician is not a dialectician.
 
 
 
-## The Upgrade by Socratic Dialectics
+## The Upgrade by Socratic Dialectics: The Guardian Class
 
 Socratic Dialectics upgrades the sciences by finding patterns both:
 - in physical perceptions and facts
@@ -108,12 +111,20 @@ But not all data is useful, just as not all interpretations are valid.
 
 To solve this, Socratic Dialectics uses wise minds to churn, project, then weed out the bad data and interpretations to preserve only the good and solid ones. Such minds have a more solid grasp of both metaphysics and physics or science and have no bias.
 
-Socrates does this churning process as the **Socratic method** wherein a wise mind takes an idea from a theorist and then walks forward with the theorist's mind towards the projected effect of his idea, or backwards in order to discover the cause together.
+Socrates calls these wise minds as Guardians.
+
+
+{{< q a="Socrates" c="The Republic by Plato" c="Book 3, Chapter 4" >}}
+We should have the best of guardians for our city. They should be wise, efficient, and have a special care of the State
+{{< /q >}}
+
+
+Socrates does the churning process, to separate truth from falsehood, as the **Socratic method**. In it, a wise mind takes an idea from a theorist and then walks forward with the theorist's mind towards the projected effect of his idea, or backwards in order to discover the cause together.
 
 <!-- The natural contradiction between the metaphysical and physical dimensions then manifest as the "contradictions" which Hegel emphasized.  -->
 
 
-{{< q a="Socrates" c="The Republic by Plato Simplified" >}}
+{{< q a="Socrates" c="The Republic by Plato" >}}
 A person will find himself at the top of the intellectual world when he tries to discover the absolute by the light of reason only [via intution], without the help of the senses, and perseveres by pure intelligence until perceives the absolute good [dharma or tao]. This is the same as the sight that has seen the visible. This progress is called dialectic.
 {{< /q >}}
 
@@ -151,7 +162,7 @@ This is currently done by large language models to come up with better answers a
 
 
 {{< dc t="Update: December 2021" >}}
-Below are examples of real-world evidence.
+Below are examples of real-world predictions we made using this system.
 
 Science | Evidence
 --- | ---
@@ -175,7 +186,7 @@ Economist | Supereconomist
 Doctor | Superdoctor
 
 
-This upgrade manifests as the huge amounts of data and information absorbed and processed by the dialectician from all sources:
+<!-- This upgrade manifests as the huge amounts of data and information absorbed and processed by the dialectician from all sources:
 - anywhere in the world 
 - of human history
 
@@ -188,7 +199,7 @@ For example, it takes the observations on the levitation of Buddhist monks and t
 
 For example, we run [Einstein's General Relativity](/material/fallacies/general-relativity/) through Socrates' principles or black box to reveal its fatal flaws.
 
-We run it again through Descartes' principles to fix it and come up with The Elastic Theory of Gravity that matches Quantum Mechanics.
+We run it again through Descartes' principles to fix it and come up with The Elastic Theory of Gravity that matches Quantum Mechanics. -->
 
 
 <!-- In the evolution of human understanding, Superphysics is the next and last stage after science. 
