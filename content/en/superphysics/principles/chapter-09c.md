@@ -12,7 +12,9 @@ icon: "Juan"
 ---
 
 
-Our experience of physical cause and effect leads to the invention of logic as a form of study, just as our experience of pain and pleasure from actions leads to the invention of ethics. 
+The experience of physical cause and effect leads the mind to invent logic which is the mind viewing itself  
+
+This leads to the invention of logic as a form of study, just as our experience of pain and pleasure from actions leads to the invention of ethics. 
 
 We can say that:
 - logic and intellect are effects of the physical domain

@@ -98,13 +98,18 @@ This is similar to the idea of Covid being validated by getting a name Covid-19,
 <!-- as `g-n-o-m-o-n` without any learning of how those letters or sounds -->
 
 
-## Thinking, Thought, Cognition, Intuition, Learning, Memory, Cognition
+## Thinking, Instinct, Thought, Cognition, Intuition, Learning, Memory, Cognition
 
 Therefore, **thinking** is the process of integrating external idea-nodes within the Lower mind (node) to the actual pre-existing idea in the Higher Mind.
-- This is the job of the Lower Mind
+- This uses 2 actions, as Flow and Force with emphasis on Force, is the job of the upper part of the Lower Mind
+
+**Instinct** is mechanical thinking action of the lower part of the lower mind to maintain a connection with the body.
+- This is as an automatic flow, with force, similar to mechanics. 
+- Instead of integrating external idea-nodes, it integrates external sensations and compares them to the pre-existing programming of the Lower Mind which really comes from the Oversoul of the human species, or whatever species the organism is part of. 
+- The common programming of humans (versus dogs for example) can be regarded as current the "gnome" or reasoned-belief of the human Oversoul. This explains evolution and makes it part of Bio Superphysics.
 
 **Knowing** is the actual of integration of these idea-nodes.
-- This is courtesy of the Higher Mind
+- This uses Flow, and is courtesy of the Higher Mind
 
 <!-- **Thoughts** are the products of the thinking process as it grabs and processes ideas. -->
 
@@ -122,11 +127,17 @@ Therefore, **thinking** is the process of integrating external idea-nodes within
 
 **Realization** is the getting of that integration through a strong Positive aethereal energy.
 
+Cognition, Intuition, and Realization are all Flow and Force, with emphasis on Flow.
+
 **Memorizing** is the storage of the idea-nodes as memory. All memory first goes into the aethereal memory of the Higher Mind. This is like cloud storage in cloud computing. 
 - Then it is stored physically in the brain as local storage.
 - This aethereal memory is called akashic records. 
+- This uses Force and Memory -- extremely shocking events naturally etch themselves into our brains and akashic memory.
 
 **Learning** is the storage of the idea-nodes after they have been integrated by the Higher Mind. 
+- This is Flow and Memory.
+
+
 
 
 {{< i s="/graphics/psych/think.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}

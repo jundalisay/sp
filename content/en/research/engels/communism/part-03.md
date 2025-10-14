@@ -11,7 +11,9 @@ c: "firebrick"
 
 ### What were the further consequences of the industrial revolution?
 
-Big industry created in the steam engine, and other machines, the means of endlessly expanding industrial production, speeding it up, and cutting its costs. With production thus facilitated, the free competition, which is necessarily bound up with big industry, assumed the most extreme forms; a multitude of capitalists invaded industry, and, in a short while, more was produced than was needed.
+Big industry created in the steam engine, and other machines, the means of endlessly expanding industrial production, speeding it up, and cutting its costs. 
+
+With production thus facilitated, the free competition, which is necessarily bound up with big industry, assumed the most extreme forms; a multitude of capitalists invaded industry, and, in a short while, more was produced than was needed.
 
 As a consequence, finished commodities could not be sold, and a so-called commercial crisis broke out. Factories had to be closed, their owners went bankrupt, and the workers were without bread. Deepest misery reigned everywhere.
 
@@ -35,9 +37,11 @@ So long as big industry remains on its present footing, it can be maintained onl
 hence, either that big industry must itself be given up, which is an absolute impossibility, or that it makes unavoidably necessary an entirely new organization of society in which production is no longer directed by mutually competing individual industrialists but rather by the whole society operating according to a definite plan and taking account of the needs of all.
 
 
-2. Big industry, and the limitless expansion of production which it makes possible, bring within the range of feasibility a social order in which so much is produced that every member of society will be in a position to exercise and develop all his powers and faculties in complete freedom.
+2. The limitless expansion of production allows big industry.
 
-It thus appears that the very qualities of big industry which, in our present-day society, produce misery and crises are those which, in a different form of society, will abolish this misery and these catastrophic depressions.
+This expanded production makes feasibile a social order where so much is produced that everyone can exercise and develop all his powers and faculties in complete freedom.
+
+Thus, the very qualities of big industry which currently produce misery and crises will abolish this misery and catastrophic depressions in a different form of society.
 
 We see with the greatest clarity:
 
@@ -48,13 +52,25 @@ We see with the greatest clarity:
 
 ### What will this new social order have to be like?
 
-Above all, it will have to take the control of industry and of all branches of production out of the hands of mutually competing individuals, and instead institute a system in which all these branches of production are operated by society as a whole – that is, for the common account, according to a common plan, and with the participation of all members of society.
+Above all, it will have to take the control of industry and all production out of the hands of mutually competing individuals.
 
-It will, in other words, abolish competition and replace it with association.
+It will instead institute a system where all these branches of production are operated by society as a whole for the common account.
+- This is according to a common plan with the participation of all members of society.
 
-Moreover, since the management of industry by individuals necessarily implies private property, and since competition is in reality merely the manner and form in which the control of industry by private property owners expresses itself, it follows that private property cannot be separated from competition and the individual management of industry. Private property must, therefore, be abolished and in its place must come the common utilization of all instruments of production and the distribution of all products according to common agreement – in a word, what is called the communal ownership of goods.
+It will abolish competition and replace it with association.
 
-In fact, the abolition of private property is, doubtless, the shortest and most significant way to characterize the revolution in the whole social order which has been made necessary by the development of industry – and for this reason it is rightly advanced by communists as their main demand.
+The management of industry by individuals necessarily implies private property.
 
+Competition is merely how the control of industry by private property owners expresses itself.
 
+It follows that private property cannot be separated from competition and the individual management of industry. 
 
+Therefore, private property must be abolished and replaced by the communal ownership of goods, as:
+- the common utilization of all instruments of production
+- the distribution of all products according to common agreement
+
+The abolition of private property is the shortest and most significant route to the revolution in the social order developed by industry.
+
+ <!-- which has been made necessary by the development of industry. -->
+
+This is why it is rightly advanced by communists as their main demand.

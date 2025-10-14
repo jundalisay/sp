@@ -146,7 +146,7 @@ Intellect | The ability to use combine and harmonize multiple reasonings of caus
 Intelligent |  Having intellect
 Lemma | A resultant statement proven true, used to prove another, more important theorem
 Logic | The connection of ideas within spacetime. Ibn-khaldun: intellectual speculation to distinguish between true and false
-Mathematics | The use quantities with logic 
+Mathematics | The use quantities to represent ideas within logic 
 Non sequitir | Does not Follow
 Occam's Razor | Deleting superfluous ideas in reasoning. Also, Cutting to the Chase
 Physical Truth | the equality of physical perceptions
@@ -160,8 +160,8 @@ Straw Man | Specific misdirection of reason
 Theorem | A resultant statement proven true through other statements
 Truth | the equality of perceptions from different perceiving identitites
 Wisdom | An intellect that is in line with the dharma of the causes and effects in question
-
-
+Syllogism | reasoning from these universals (Aristotle)
+Induction | reasoning from  universal propositions through particulars (Aristotle)
 
 
 

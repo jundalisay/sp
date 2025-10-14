@@ -28,17 +28,25 @@ What Knowledge is, is plain from the following of considerations, if one is to s
 
 For we all conceive that what we strictly speaking know, cannot be otherwise than it is, because as to those things which can be otherwise than they are, we are uncertain whether they are or are not, the moment they cease to be within the sphere of our actual observation.
 
-So then, whatever comes within the range of Knowledge is by necessity, and therefore eternal, (because all things are so which exist necessarily,) and all eternal things are without beginning, and indestructible.
+So then, whatever comes within the range of Knowledge is by necessity, and therefore eternal.
 
-All Knowledge is thought to be capable of being taught, and what comes within its range capable of being learned.
+This is because:
+- all things exist exist necessarily
+- all eternal things are without beginning and indestructible
 
-All teaching is based upon previous knowledge; (a statement you will find in the Analytics also,)[11] for there are two ways of teaching, by Syllogism and by Induction.
+All Knowledge can be taught.
 
-In fact. Induction is the source of universal propositions, and Syllogism reasons from these universals.[12] 
+All that comes within its range can be learned.
+
+All teaching is based on previous knowledge. There are 2 ways of teaching: by Syllogism and by Induction.
+
+Induction is the source of universal propositions.
+
+Syllogism reasons from these universals.
 
 Syllogism then may reason from principles which cannot be themselves proved Syllogistically: and therefore must by Induction.
 
-So Knowledge is “a state or mental faculty apt to demonstrate syllogistically,” &c. as in the Analytics[13].
+So Knowledge is “a state or mental faculty apt to demonstrate syllogistically,” etc. as in the Analytics[13].
 
 This is because a man, strictly and properly speaking, knows, when he establishes his conclusion in a certain way, and the principles are known to him: for if they are not better known to him than the conclusion, such knowledge as he has will be merely accidental.
 

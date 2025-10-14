@@ -14,7 +14,9 @@ No. Every change in the social order, every revolution in property relations, is
 
 Private property has not always existed.
 
-When, towards the end of the Middle Ages, there arose a new mode of production which could not be carried on under the then existing feudal and guild forms of property, this manufacture, which had outgrown the old property relations, created a new property form, private property. And for manufacture and the earliest stage of development of big industry, private property was the only possible property form; the social order based on it was the only possible social order.
+When, towards the end of the Middle Ages, there arose a new mode of production which could not be carried on under the then existing feudal and guild forms of property, this manufacture, which had outgrown the old property relations, created a new property form, private property. 
+
+For manufacture and the earliest stage of development of big industry, private property was the only possible property form; the social order based on it was the only possible social order.
 
 So long as it is not possible to produce so much that there is enough for all, with more left over for expanding the social capital and extending the forces of production – so long as this is not possible, there must always be a ruling class directing the use of society’s productive forces, and a poor, oppressed class. How these classes are constituted depends on the stage of development.
 
@@ -43,3 +45,4 @@ But they also see that the development of the proletariat in nearly all civilize
 Private property cannot be abolished in one stroke just as the existing forces of production cannot be multiplied at one stroke to create a communal society.
 
 In all probability, the proletarian revolution will transform existing society gradually and will be able to abolish private property only when the means of production are available in sufficient quantity.
+

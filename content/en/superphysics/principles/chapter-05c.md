@@ -72,11 +72,13 @@ For example, a wife might notice that her husband comes home late from work ofte
 This can be avoided by critical thinking and critical feeling which “catches” the thoughts and feelings, to be explained in Chapter 8.
 
 
-## Beliefs
+## Belief, Opinion, Concept, Gnómé, Indoctrination, Dogma
 
-Compound ideas can be connected to other compound ones that impart a similar vibration or feeling in order to reinforce each other. 
+Compound ideas can be connected to other compound ones that impart a similar vibration or feeling in order to reinforce each other. This is caled a concept or conception. 
 
-These are called beliefs which can be:
+A concept turns to a belief when the ego attaches itself to it.
+
+A belief and concept can be:
 - positive, such as the belief in a Savior, in better days ahead, etc. or
 - negative, such as the belief that Friday the 13 th is bad luck, that an Apocalypse will happen, etc
 
@@ -86,12 +88,33 @@ Many beliefs are imposed on us by our parents and by society during our childhoo
 The chief cause of our errors is in the prejudices of our childhood.
 {{< /q >}}
 
+Gnómé is a strong belief that is adopted by self-reasoning. This is from the Positive Force and is opposed to indoctrination
 
-Since beliefs can be positive or negative then it follows that not all beliefs are good. The most dangerous are dogmas that limit the capabilities of the mind.
+Indoctrination is the imposition of a belief through the Negative Force.
+
+Dogma is a systemic indoctrination.
+
+
+
+
+A belief is a network of related ideas that the ego attaches itself to. This emphasizes the attachment of the ego which can be:
+- natural, as self-adoption, or
+- artificial, as imposition
+
+An opinion is an idea or smaller set of ideas that the ego attaches to.   
+
+A belief that never had believers is just a concept. 
+
+Since beliefs can be positive or negative then it follows that not all beliefs are good, just as not all opinions are correct. The most dangerous are dogmas that limit the capabilities of the mind.
 
 {{< q a="PR Sarkar" c="Discourse on Sin, Crime and Law" >}}
 The human mind becomes inert and dormant in society due to old dogmas, weaknesses, and lack of proper education. Mental stagnancy is a kind of disease. It is motionlessness. People should not be allowed to rely on the dogmas of their ancestors as it obstructs their own mental pursuit.
 {{< /q >}}
+
+
+A survey of the prevailing beliefs therefore exposes the wave-forms, mentalities, positivity and negativity active in a society or planet. 
+
+The plotting of the changes of beliefs and their intensity through space and time can expose the evolution of the oversoul of a species or the spirit of a planet. 
 
 
 Even science has dogmas which Superphysics corrects:
@@ -138,4 +161,3 @@ Classical Physics | Newton | Principia Mathematica | Royal Society
 Modern Physics | Einstein | Annus mirabilis papers | CERN
 
 From this table, we can see that belief systems contain the vibration of the founder and the culture of the society that established them. 
-

@@ -18,19 +18,15 @@ It can do this since it does away with private property and educates children on
 And here is the answer to the outcry of the highly moral philistines against the “community of women”. Community of women is a condition which belongs entirely to bourgeois society and which today finds its complete expression in prostitution. But prostitution is based on private property and falls with it. Thus, communist society, instead of introducing community of women, in fact abolishes it.
 
 
-
-
-What will be the attitude of communism to existing nationalities?
+### What will be the attitude of communism to existing nationalities?
 
 The nationalities of the peoples associating themselves in accordance with the principle of community will be compelled to mingle with each other as a result of this association and thereby to dissolve themselves, just as the various estate and class distinctions must disappear through the abolition of their basis, private property.[3]
 
 
 
+### What will be its attitude to existing religions?
 
-What will be its attitude to existing religions?
-
-All religions so far have been the expression of historical stages of development of individual peoples or groups of peoples. But communism is the stage of historical development which makes all existing religions superfluous and brings about their disappearance[4]
-
+All religions so far have been the expression of historical stages of development of individual peoples or groups of peoples. But communism is the stage of historical development which makes all existing religions superfluous and brings about their disappearance
 
 
 ### How do communists differ from socialists?
@@ -66,7 +62,4 @@ These democratic socialists are either proletarians who are not yet sufficiently
 
 It follows that, in moments of action, the communists will have to come to an understanding with these democratic socialists, and in general to follow as far as possible a common policy with them – provided that these socialists do not enter into the service of the ruling bourgeoisie and attack the communists.
 
-It is clear that this form of co-operation in action does not exclude the discussion of differences.
-
-
-
+This form of co-operation in action does not exclude the discussion of differences.

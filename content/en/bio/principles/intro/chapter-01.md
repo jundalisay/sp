@@ -13,7 +13,10 @@ writer:
 # categories: ["Medical Superphysics"]
 # tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "Bio Superphysics"
+aliases:
+  /medical/principles/chapter-03b
 ---
+
 
 {{< b >}}
 Principles | Assertions

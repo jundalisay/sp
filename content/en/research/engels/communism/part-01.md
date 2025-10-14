@@ -22,7 +22,7 @@ The proletariat is that class which lives entirely from the sale of its labor an
 The proletariat, or the class of proletarians, is the working class of the 19th century.[1]
 
 
-### Have Proletarians always existed and How did they originate??
+### Have Proletarians always existed? How did they originate??
 
 No. There have always been poor and working classes. The working class have mostly been poor. 
 

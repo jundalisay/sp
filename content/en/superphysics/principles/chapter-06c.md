@@ -79,8 +79,6 @@ In Newton's system, action and reaction is makes up the 3rd Law of Motion.
 
 However, in Superphysics, which is based on Cartesian Physics, action-and-reaction is replaced with collisions as the 3rd rule of motion explained in Chapter 1. 
 
-
-
 <!-- ## Cause and Effect
 
 Chapter 3 explained how the action of bringing ideas near, introducing, or adding to others leads to reaction.
@@ -128,9 +126,7 @@ Treating humans as individuals, we can say that:
 - karma exists in the physical domain since our actions and resulting experiences are physical 
 
 
-<!-- This is similar to 'force' being a physical action that leads to a known reaction as movement. 
-
-In the case of karma, an action, such as a policy to allow gun ownership, creates a known reaction such as a mass shooting.  -->
+<!-- This is similar to 'force' being a physical action that leads to a known reaction as movement.  In the case of karma, an action, such as a policy to allow gun ownership, creates a known reaction such as a mass shooting.  -->
 
 The knowledge of the principles of samskara will allow people to:
 - lessen the coming 'bad' karma, usually manifesting as 'bad luck', by reducing or 'burning' the bad samskara 
@@ -210,8 +206,6 @@ The holocaust was caused by Nazi ego, not feeling for the Jews
 The Mongol conquest and the resulting Black Death was caused by the ego of the Mongols
 World War I was caused by German ego
 The conquest by Japan in World War II was caused by the ego of the Japanese imperial government
-
-
 
 In our proposed paradigm of Superphyscis, karma is action-reaction.
 

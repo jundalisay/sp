@@ -12,11 +12,18 @@ icon: "Juan"
 ---
 
 
-The previous section explained the 3 Actions of the Mind. 
+The previous section explained the 3 Actions of the Mind from the 3 Influences or Gunas as:
 
-The thinking process combines the actions of flow and force.
+1. Flow
+2. Force
+3. Memory
 
-It is done by the Lower Mind by processing idea-objects that come either from:
+The thinking process combines the actions of flow and force, with emphasis on force. Its opposite is inuition which uses Flow from the Higher Mind. 
+- With thinking, you have to exert mental force
+- Intution comes easily even without you thinking about it. An example is an idea that suddenly enters your mind out of the blue
+- Thinking uses force to arrive at cognition, intuition, or realization
+
+Thinking is done by the Lower Mind by processing idea-objects that come either from:
 - the external senses, or
 - the memory
 
