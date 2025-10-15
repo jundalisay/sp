@@ -1,7 +1,6 @@
 ---
 title: "Description of the origin of gems in the treatise on Ratna Pariksa (test of gems)"
 heading: Chapter 68
-# linkTitle: Indian
 weight: 47
 description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
 c: "indigo"
@@ -12,15 +11,19 @@ c: "indigo"
 (Agastya Samhita) by the holy Agastya
 
 
-Suta said:— I shall discourse on the method of testing the genuineness of gems and precious stones. 
+Suta said:
 
-There lived in ancient time a demon named Vala.
+I shall discuss the method of testing the genuineness of gems and precious stones. 
 
-He conquered the god Indra and his celestials, and reigned supreme and invincible in the universe. 
+There lived in ancient time a demon named Vala who:
+- onquered the god Indra and his celestials
+- reigned supreme and invincible in the universe
 
 The gods, on the occasion of a religious sacrifice, jocularly asked him to play the part of the animal of the sacrifice. 
 
-This Vala consented to do and pledged his word for the performance of the part and suffered himself to be bound at the sacrificial stake. Whereupon the gods turned the jest into earnest and killed the invincible Vala in that mockery of a religious sacrifice. Thus Vala yielded up his ghost for the good of the universe and the welfare of the gods, and, behold, the severed limbs and members of his sanctified body, were converted into the seeds of gems.
+This Vala consented to do and pledged his word for the performance of the part and suffered himself to be bound at the sacrificial stake. 
+
+Whereupon the gods turned the jest into earnest and killed the invincible Vala in that mockery of a religious sacrifice. Thus Vala yielded up his ghost for the good of the universe and the welfare of the gods, and, behold, the severed limbs and members of his sanctified body, were converted into the seeds of gems.
 
 Then the gods and the Yakshas and the Siddhas and the Nagas eagerly rushed to collect those seeds of gems and there were mighty flutterings of celestial pinions and rustlings of celestial garments in heaven. 
 

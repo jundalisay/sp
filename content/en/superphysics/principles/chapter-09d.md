@@ -108,13 +108,6 @@ We can say that critical feeling is the application of feeling with an added eff
 
 This happens when we pause our ego or feeling of the self and put our minds in the situation of the other person. In our example, this is done by putting ourselves in the situation of the beggar. 
 
-We do this by talking to him and asking him his situation, story, feelings now and in the past, his relations, etc. From these, our minds can create a better picture whether he is really in need of money, or he is just scamming people.   
-
-We call this critical feeling. Like critical thinking, it requires more energy or effort in our feeling process. 
-
-Critical feeling is done by the heart.  -->
-
+We do this by talking to him and asking him his situation, story, feelings now and in the past, his relations, etc. From these, our minds can create a better picture whether he is really in need of money, or he is just scamming people.   -->
 
 {{< i s="/graphics/psych/peace.jpg" a="Peace" >}}
-
-

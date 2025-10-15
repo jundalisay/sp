@@ -87,27 +87,67 @@ The fall of Syria to Islamists, indirectly supported by Israel's attacks on Syri
 
 After the French Revolution, the two ideologies that emerged in Europe* were Liberalism versus Non-Liberalism.
 
-A key marker for the idea of Liberalism is **human rights**. **This idea does not exist in any philosophical system anywhere from the ancient Greeks, Egyptians, Romans, Jews, Hindus, Buddhists, Jains, Confucians, to the modern Islam and Sikhs.** 
+A key marker for the idea of Liberalism is **human rights**. 
+
+This idea does not exist in any philosophical system anywhere from the ancient Greeks, Egyptians, Romans, Jews, Hindus, Buddhists, Jains, Confucians, to the modern Islam and Sikhs.
 
 It seems to have incubated as [the Magna Carta](/research/countries/england/magna-carta/article-1/) of King John of England in 1215 as a response to the excessive strength of the barons which was really an effect of the weakness of the King.
 
 China, Arabia, Persia, and India never had to institute human rights because the dynastic power was always able to keep order.
 
+<!-- The latter Roman Empire extended rights to barbarians and ended up getting destroyed since it takes a huge amount of effort and many generations to unify group-feelings (We estimate that 60-80 years is needed minimum at maximum effort). Ancient China seems to have been able to do this. -->
+
+
+## The Roman Collapse
+
 The Romans:
 - never had to institute universal human rights because the Senate and Emperor were usually in control
 - only gave rights to Romans and not to barbarians whose [group-feelings](/research/ibn-khaldun/muqaddimah/chapter-2/part-16) were in a different moral level. 
 
-The latter Roman Empire extended rights to barbarians and ended up getting destroyed since it takes a huge amount of effort and many generations to unify group-feelings (We estimate that 60-80 years is needed minimum at maximum effort). Ancient China seems to have been able to do this.
 
-Liberalism versus Non-Liberalism replaced Catholicism vs Protestantism and then spread themselves to the world* through the colonial system. 
+The collapse of the Roman Empire happened because it:
+- extended Roman rights to barbarians in 212 AD (Pax Romana was until 180 AD)
+- adopted Catholicism in 380 AD
 
-{{< f f="The mentalities in Asia are different, such as Hinduism-Buddhism versus Islam in India, Confucianism versus Taoism in China, and Shia versus Sunni in Arabia" >}}
+The barbarians had a different mental wavelength from Romans. Calling them Romans is to classify disparate waves as a single wave. This is like giving all test-takers a passing mark regardless if they scored high or failed. 
+
+{{< i s="/graphics/psych/grades.jpg" a="Grades" c="The corruption of morals happens when a society becomes rich as it strengthens the influence of the material world" >}}
 
 
-According to Nature's Law of Diversity, these 2 mentalities have an equal right to exist.
+This happens if the test-failers grew far more powerful than the test-passers, that they would want everyone to pass. In this way, only the barriers to taking the test would be the real barrier. 
+
+In Rome, these barriers were the physical boundaries. The metaphysical cultural and intellectual barriers were removed and only the physical barriers remained. 
+
+
+## What's Wrong With Human Rights?
+
+The main problem with human rights is that a human body can be inhabited by souls with different levels of soul-advancement. This manifests as varying mental vibrations which leads to very different behaviors.
+
+Some souls might be:
+- animal souls -- these have been animals for a long time and incarnated as human for the 1st time
+- humans souls -- these have been human for many incarnations
+- advanced souls -- these have been advanced aliens, elementals, or spirits
+
+A human with an animal soul will act likely like an animal. This is how we explain the wicked behavior of serial killers who chop and even eat their victims. It would be absurd to grant such people human rights just because their animal-souls occupy human bodies. 
+
+This is more commonly seen in corrupt politicians who gain power in animalistic ways. In our system, it would be valid to deny Hitler human rights after his mental wave was exposed by his novel *Mein Kampf*.
+
+Bio Superphysics classifies people based on physical, mental, and spiritual criteria aligning with the 7 chakras. So there might be working dogs or cats that get rights to a living animal wage, while a jailed terrorist gets none. The current sciences regard the chakras as pseudo science unworthy of being studied. And so Science locks itself out of the solution, when in Cartesian Physics, chakras are a core principle, in line with aethereal vortices and animal spirits (chi in Taoism).
+
+{{< i s="/photos/bio/dog.jpg" a="Dog" c="In our system, animals can get human rights, just as humans can be demoted to animal rights. Our system is not physical or body-based, but metaphysical as being based on the soul's actual behavior through time" >}}
+
+
+
+## Both Liberalism and Non-Liberalism are Natural
+
+In Europe, the conflict between Catholicism and Protestantism was replaced by Liberalism versus Non-Liberalism. It then spread to the world through the colonial system. 
+
+The mentalities in Asia are different, such as Hinduism-Buddhism versus Islam in India, Confucianism versus Taoism in China, and Shia versus Sunni in Arabia.
+
+According to Nature's Law of Diversity, both Liberalism and Non-Liberalism have an equal right to exist.
 - The problem begins when one mentality tries to overwhelm or cancel the other. 
 
-An example of a total rout of one mentality is the fall of the Roman Empire to the German barbarians, which started the European Dark Ages. 
+<!-- An example of a total rout of one mentality is the fall of the Roman Empire to the German barbarians, which started the European Dark Ages.  -->
 
 Normally, the heightened opposition of 2 mentalities leads to war:
 
@@ -117,35 +157,43 @@ Normally, the heightened opposition of 2 mentalities leads to war:
 - The different religions in India led to internal conflicts
 
 
-## Both Liberalism and Non-Liberalism are Natural
-
 According to Adam Smith:
 - Liberalism is the natural effect of living in a fertile land with a nice climate
 - Non-liberalism is the natural effect of living in a barren land with a harsh climate
 
-This principle is matched by biology wherein peaceful banobos are observed to live in food-rich areas, whereas warlike chimpanzees live in food-scarce areas.
+{{< q a="Adam Smith" c="Lectures on Jurisprudence Simplified, Part 1, Chapter 3" >}} 
+Generally,the situation of a country, and its improvement in agriculture and trade are favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia, because their country cannot be improved. 
+{{< /q >}}
+
+This principle is matched by biology wherein:
+- peaceful (liberal) banobos are observed to live in food-rich areas
+- warlike (non-liberal) chimpanzees live in food-scarce areas
+
+{{< i s="/photos/bio/bonobo.jpg" a="Bonobos" c="The abdundance of food makes banobos have mental waves similar to liberals" >}}
+
 
 Accordingly, we see that:
 - the free societies such as those in Italy, France, and England have good, fertile lands
 - the non-free societies such as Afghanistan and Japan have non-arable lands, while Arabia and Russia have hot and frozen climates respectively
 
-The inland parts of China are desert or flooded, creating a naturally non-liberal society.
+<!-- The inland parts of China are desert or flooded, creating a naturally non-liberal society.
+This is because  -->
 
-This is because fertile lands reward hard work generously. Planting a wheat in a fertile land leads to a bountiful harvest if the planter is hardworking. Thus, free enterprise and the freedom to work make sense.
+Fertile lands reward hard work generously. Planting wheat in a fertile land leads to a bountiful harvest, letting free enterprise and the freedom to work make sense.
 
-Barren lands, on the other hand, do not reward hard work at all.  No matter how hard a desert-person irrigates a desert, Nature will not reward him. 
-
-In fact, it would make more sense for him to invade a fertile land where his work will be rewarded by loot. This then leads to harsh laws. A proof is Moses punishing the Levites severely in the desert.
+Barren lands, on the other hand, do not reward hard work at all. No matter how hard a desert-person irrigates a desert, Nature will not reward him. In fact, it would make more sense for him to invade a fertile land where his work will be rewarded by loot. This then leads to harsh laws. A proof is Moses punishing the Levites severely in the desert.
 
 **The problem begins when a liberal person imposes liberalism on a non-liberal land, and when a non-liberal person imposes non-liberalism on a liberal land.** 
 
-This was former was done by the US in Iraq, Afghanistan, and Libya. The latter was done by Al-Qaeda onto the US, France, and England as terrorist attacks.
-
+- The former was done by the US in Iraq, Afghanistan, and Libya
+- The latter was done by Al-Qaeda onto the US, France, and England as terrorist attacks
 
 
 ## Ukraine is Caught Between Liberalism and Non-liberalism 
 
-The discord between Ukraine and Russia is based on the fact that Ukraine is naturally fertile, but Russia is naturally barren. 
+The discord between Ukraine and Russia is from the fact that:
+- Ukraine is fertile
+- Russia is barren
 
 The story is that the Rus people originated as Slavs in Kiev, who then branched out into Russia. 
 
@@ -153,7 +201,7 @@ The problem began when the Mongols invaded. Ukranian cities like Kiev refused to
 
 This led to the destruction of Kiev in 1240. 
 
-The Mongols then strengthened Moscow in order to create a new balance of power between Russia and Poland (Lithuania). 
+The Mongols then strengthened Moscow in order to create a new **balance of power** between Russia and Poland (Lithuania). 
 
 This made Moscow the center of the Rus people ever since.
 
@@ -185,8 +233,9 @@ Ukraine's independent history is quite short, starting from 1991. It does not fo
 
 Russia's pattern is from 1263, making it easy to plot. A better alternative would be to plot Ukraine's history from 482 AD when Kyiv was founded.
 
-However, there is **a lot of missing information** between 482 and 2014 (Euromaidan). This would make any pattern a result of guesswork which can never be a foundation of any scientific prediction. 
+However, there is **a lot of missing information** between 482 and 2014 (Euromaidan). This would make any pattern a result of guesswork which can never be a foundation of any rigorous Superphysics prediction. 
 
+<!-- scientific -->
 
 ## The Solution for Ukraine: Learn from the past. Don't get too temped by European wealth
 
@@ -194,15 +243,15 @@ So we know why Russia (and Belarus) is doing what it's doing.
 
 But we don't know why Ukraine is suddenly shifting towards the EU and NATO belatedly when Yugoslavia shifted much earlier. 
 
-It clearly has an identity crisis, which we can only trace to the fall of Kiev in 1240 when it did not surrender to the non-liberal Mongols. 
+It clearly has an identity crisis, which we can only trace to the fall of Kiev in 1240 when it did not surrender to the non-liberal Mongols.
 
 But it is merely repeating the same mistake in 2022 by not surrendering to Putin. 
 
-A barabarian would treat such non-surrendering as an affront. He would then deal with it severely. This explains the harsh measures done by the Soviets against Ukraine.  
+A barabarian would treat such non-surrendering as an affront which would be deal with it severely. This explains the harsh measures done by the Soviets against Ukraine.  
 
-Instead of acting like its barbarian neighbors, Ukraine was urged on by the love of liberty and wealth which is not common in that part of the world. 
+Instead of acting like its barbarian neighbors, Ukraine was urged on by the love of liberty and wealth which is not common in that part of the world. This is because it knows that it has an asset in its fertile land. (Update 2025: We minerals as fertile mines).
 
-This violates the Law of Nature, leading to the problems that afflicts those that go against Nature. 
+This violates the Law of Nature, leading to the problems that afflicts those who go against Nature. 
 
 Two solutions would've nipped the problem at the bud:
 
@@ -253,14 +302,14 @@ Civilizations that have achieved peak wealth and prosperity have nowhere to go b
 
 The proper way to 'fix' Russia, under this Mongol-trend, is for the world to simply **allow the concept of non-liberalism to exist**.
 
-This will then relax the feelings of Russia (and China) leading to less tensions. 
+This will then relax the feelings of Russia (and China) leading to less tensions. This will then allow both liberalism and  non-liberalism to spread and find the proper balance.
 
-This will then allow both liberalism and  non-liberalism to spread and find the proper balance.
+(Update Oct 2025: Because Ukraine did not surrender, the liberal West and the non-liberal Russian-Chinese have to double down and speed up the polarization of the world unnaturally)
 
-The Mongol system is based on few simple rules that are sacred to simple barbarians*. **The key is to work within those simple rules.** An example is the rule of self-preservation.
+The Mongol system is based on few simple rules that are sacred to simple barbarians*. **The key is to work within those simple rules.** A policy solution could be to allow Ukraine to fall to Russia on the condition that Russia does not expand beyond those borders. 
 
 
-{{< f f="*We have worked extensively with dirt-poor communities and have gotten used to how barbaric and even animalistic some humans can become. The solution is to lower onself to their level and then painstakingly raise them up slowly by finding the gravitational signature (svadharma) for each mind." >}}
+{{< f f="*We have worked extensively with dirt-poor communities and have gotten used to how barbaric and even animalistic some humans can become. This is why we base human rights on actual behavior and not on having a human body. The solution is to lower onself to their level and then painstakingly raise them up slowly by finding the gravitational signature (svadharma) for each mind." >}}
 
 
 
@@ -268,31 +317,33 @@ The Mongol system is based on few simple rules that are sacred to simple barbari
 
 This is very different from the current mode of thinking of the West wherein they see the destruction of non-liberalism as a moral and just cause that is worth pursuing agressively. 
 
-Their egos blind them to the fact that such a mentality has caused so many unnecessary conflicts since the 19th century.
-- The World Wars and the current Ukraine war are modern examples of the effects of such thinking. 
+<!-- Their egos blind them to the fact that such a mentality has caused so many unnecessary conflicts since the 19th century.
+- The World Wars and the current Ukraine war are modern examples of the effects of such thinking.  -->
 
-Liberalism is like a modern crusade being undertaken by the West which has nothing better to do with its productivity*.
+Liberalism is like a modern crusade being undertaken by the West which has nothing better to do with its productivity. Ideally, all that productivity should be channeled to the exploration of Mars. The problem is that the West blindly believes in Einstein's [General Relativity scam](/material/fallacies/scam) which makes anti-gravity out of reach.
 
-
-{{< f f="*Ideally, all that productivity should be channeled to the exploration of Mars. The problem is that the West blindly believes in the sophistry of Albert Einstein's [General Relativity](/material/fallacies/general-relativity) which makes such exploration impractical." >}}
-
-
-This highness of ego leads to a disconnect with reality. This is clearly shown by the US abandoning Afghanistan in 2021. 
+The error of the Western worldview is clearly seen in nonliberal Afghanistan falling back to the nonliberal Taliban in 2021 despite tons of effort by the US to liberalize it.
 
 If Biden were consistent in wanting to stamp out nonliberalism from the planet, then the US should've drained its taxpayer money to civilize and "liberalize" the Afghans, which [we estimate to take 80 years](/social/cycles/afghanistan). 
+- This is similar to how a father can impoverish himself just to give the best education for his child.
+- This would make the actions of the US match its advocacy, and be a clear sign of its truthfulness and high morals. 
 
-This is similar to how a father can impoverish himself just to give the best education for his child. This would make the actions of the US match its advocacy, and be a clear sign of its truthfulness and high morals. 
 
 
-In reality, the West just liberalizes places which have resources to feed its own materialism. This is like a shrewd parent who only supports the children who can bring in money or some benefit eventually.*
+{{< i s="/photos/countries/af.jpg" a="Afghanistan" c="Liberals believe that money solves all problems and so they simply throw money at problems" >}}
 
+In reality, the West just liberalizes places which have resources. This is like:
+- a shrewd parent who only supports the children who can bring in money
+- a bank that only gives loans to those who have collateral
+
+Both these cases are really business deals*, not a social moral duty.
 
 {{< d t="Update Feb 2025" >}} 
 This is proven by the victory of Trump under the 'Make America Great Again' MAGA ideology wherein he wants allied countries to pay up. 
 {{< /d >}} 
 
 
-Therefore, democracy is just a cover for greed to spread its tentacles, just as autocracy is a cover for the spread of simple-mindedness.
+Therefore, **democracy is just a cover for greed** to spread its tentacles, just as autocracy is a cover for the spread of simple-mindedness.
 
 Had Ukraine surrendered:
 - its people wouldn't need to become refugees
@@ -301,4 +352,4 @@ Had Ukraine surrendered:
 
 Russia would change its cycle in 15 years anyway, allowing a relaxation of its nonliberal policies towards Ukraine. By that time, its union with Ukraine could even spur democracy in Russia itself, in a natural, painless way. 
 
-This is similar to how North Vietnam should've surrendered to South Vietnam and gotten freedom anyway without going through the horrors of war. 
+This is similar to how North Vietnam should've surrendered to South Vietnam and gotten freedom anyway, along with generous US aid to exploit its resources, without going through the horrors of war. 

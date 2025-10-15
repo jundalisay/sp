@@ -112,7 +112,7 @@ They were not concerned by the bent old man, decimated by poverty in the Himalay
 
 Kind-hearted and philanthropic kings did exist.
 
-  <!-- was there any king who, besides meeting the psycho-physical needs of his people, -->
+<!-- was there any king who, besides meeting the psycho-physical needs of his people, -->
 
 But no king went beyond to open the gateway to realization of the Infinite.
 
@@ -169,4 +169,3 @@ If they plea for a milder dose of punishment, the priests express their helpless
 Those who are ensnared by the scriptures cannot be expected to know the value of human life. It takes millions of years, lives and stages to get a human body. 
 
 But nobody knows how many invaluable lives have been nipped in the bud, or how many innocent lives have been slaughtered at the altar of the scriptures.
-
