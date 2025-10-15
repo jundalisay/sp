@@ -1,6 +1,5 @@
 ---
 title: "The Two Domains"
-# title: "We're in a Matrix!"
 heading: "Chapter 1"
 date: 2019-01-01
 weight: 5

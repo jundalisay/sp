@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      inkscape:zoom="0.89819277"
      inkscape:cx="830"
-     inkscape:cy="405.25822"
+     inkscape:cy="406.37156"
      inkscape:window-width="2160"
      inkscape:window-height="1404"
      inkscape:window-x="0"
@@ -267,15 +267,15 @@
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="421.65088"
-       y="71.896484"
+       x="420.51224"
+       y="68.564987"
        id="text4-2-8-4"
        transform="rotate(0.43469962)"><tspan
          sodipodi:role="line"
          id="tspan4-9-8-4"
-         x="421.65088"
-         y="71.896484"
-         style="font-size:37.3333px;fill:#edc5ff;fill-opacity:1;stroke:none">Strata</tspan></text>
+         x="420.51224"
+         y="68.564987"
+         style="font-size:37.3333px;fill:#edc5ff;fill-opacity:1;stroke:none">Mental</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;line-height:0.9;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
@@ -320,15 +320,15 @@
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="787.27484"
-       y="67.755096"
+       x="788.39661"
+       y="68.859962"
        id="text4-2-8-4-1"
        transform="rotate(0.43469962)"><tspan
          sodipodi:role="line"
          id="tspan4-9-8-4-7"
-         x="787.27484"
-         y="67.755096"
-         style="font-size:37.3333px;fill:#c5e4ff;fill-opacity:1;stroke:none">Elements</tspan></text>
+         x="788.39661"
+         y="68.859962"
+         style="font-size:37.3333px;fill:#c5e4ff;fill-opacity:1;stroke:none">Biological</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
@@ -340,7 +340,7 @@
          id="tspan4-9-8-4-1"
          x="1223.8057"
          y="62.855751"
-         style="font-size:37.3333px;fill:#ff93a7;fill-opacity:1;stroke:none">Layers</tspan></text>
+         style="font-size:37.3333px;fill:#ff93a7;fill-opacity:1;stroke:none">Physical</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
@@ -481,7 +481,7 @@
            id="tspan2-4"
            x="327.70203"
            y="259.14658"
-           style="font-size:42.6667px;fill:#ffffff;fill-opacity:1;stroke:none">Supramental</tspan></text>
+           style="font-size:42.6667px;fill:#ffffff;fill-opacity:1;stroke:none">Astral</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
@@ -737,7 +737,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:3.70337;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Triangle);marker-end:url(#marker13-4)"
-       d="M 159.46725,638.73386 V 387.4157"
+       d="M 134.97362,637.62051 V 386.30235"
        id="path10-0"
        sodipodi:nodetypes="cc" />
     <path

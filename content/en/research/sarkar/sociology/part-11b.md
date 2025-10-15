@@ -45,8 +45,8 @@ Buddha remained silent on both questions.
 
 Actually God is supramental.
 
-Yato váco nivartante aprápya manasásaha,
-Ánandaḿ brahmano vidvá má vibheti kutahcanah.
+<!-- Yato váco nivartante aprápya manasásaha,
+Ánandaḿ brahmano vidvá má vibheti kutahcanah. -->
 
 There are 4 sections in Buddhist philosophy:
 
@@ -57,13 +57,20 @@ There are 4 sections in Buddhist philosophy:
 
 Pratyakśa Váhyavastuváda accepts the universe as infinite, that is, anádii and ananta or beginningless and infinite when Caetanya or Consciousness becomes álayiibhúta or objectivated then it becomes jiṋána. 
 
-The outer world is transitory but due to rapid movement (Saiṋcara or Prati-saiṋcara: extroversion or introversion) it appears to exist constantly. 
+**The outer world is transitory but due to rapid movement (Saiṋcara or Prati-saiṋcara: extroversion or introversion) it appears to exist constantly.**
 
-According to Hindu philosophy Saiṋcara means “to go away from Brahma” and Pratisaiṋcara means “to come near to Brahma,” that is Saiṋcara means the Vikarśanii Shakti of Brahma and Prati-saiṋcara means the Ákarśanii Shakti of Brahma.
+- Saiṋcara means “to go away from Brahma” and the Vikarśanii Shakti of Brahma
+- Pratisaiṋcara means “to come near to Brahma” and the Ákarśanii Shakti of Brahma
 
-Anumeyaváhya Vastuváda accepts the waves of Jiṋána as a permanent entity (sattá). 
+Anumeyaváhya Vastuváda accepts the waves of Jiṋána as a permanent entity (sattá).
 
-There is the external world but the world will never be realized. When the waves of consciousness (Jiṋána) come, the mind takes a form according to the Saḿskáras or potential reactions of past actions of the Citta or mental plate. Formations created in the mind are taken to be Satya or veracity. When Jiṋána comes in contact with Álambana or desideratum, Citta takes a form: it takes the outward álambana as the object realized.
+There is the external world but the world will never be realized. 
+
+When the waves of consciousness (Jiṋána) come, the mind takes a form according to the Saḿskáras or potential reactions of past actions of the Citta or mental plate. 
+
+Formations created in the mind are taken to be Satya or veracity. 
+
+When Jiṋána comes in contact with Álambana or desideratum, Citta takes a form: it takes the outward álambana as the object realized.
 
 Sarvashúnyaváda is also called Mádhyamika Darshana and was propounded by Shriinágárjuna. 
 
@@ -71,35 +78,5 @@ He did not accept the páiṋcabhaotika world or the 5 fundamental factors.
 
 The external world which we see is Máyá or illusion. 
 
-This philosophy is similar to Shaḿkara’s philosophy, Brahma Satyam jagatmithyá. 
-
-According to Shaḿkara, the universe has been created out of nothing and is like a dream, nothing more. Bhává i.e. something has been created out of Abhává i.e. nothing. 
-
-This school of philosophy accepts only the present and ignores the past and the future. It also says that the universe will merge into nothing.
-
-Kśańika-vijiṋánaváda does not admit the physical world: here everything is internal. 
-
-Even álambana is internal. Whatever is seen in this physical world is pratikriyá or the outer projection of internal álambana. Átman is the collection of the “I” feelings. It is not a continuous flow but appears to be so on account of the quick succession of its creation and destruction.
-
-During the age of Bhagaván Shaḿkarácárya there was no outstanding philosopher (tattvadraśt́a) among the Buddhists. 
-
-Among different sections of the Buddhist schools of philosophy a serious dispute was going on. At that time Shrii Manadana Mishra was the only scholar who believed in Sarva Shúnyaváda or complete nihilism and he was also a Kriyá Káńdii or follower of the path of action. 
-
-He debated with Shaḿkarácárya and was defeated.
-
-According to Buddhist philosophy there are 4 noble truths (Satya) called Caturajja satya:
-
-1. Duhkha or sorrow
-2. Kárańa of duhkha or the cause of sorrow
-3. Nivrtti of duhkha or the cessation of sorrow
-4. Upáya of duhkha nivritti or the means of the cessation of sorrow.
-
-The Vikrti or distortion of the Duhkhaváda or the school of pessimism became Atisukhaváda or ultra-hedonism. 
-- Atisukhaváda was prevalent in Bengal, Assam and Tibet.
-
-According to Buddhism, duhkha is Árya Satya or the absolute truth. 
-- This is a wrong interpretation as it is only the Mánas or mind which experiences dukha. 
-- Dukha can thus be only a relative truth. 
-- It cannot be an absolute truth
-
+This philosophy is similar to Shankara’s philosophy, Brahma Satyam jagatmithya.
 

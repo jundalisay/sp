@@ -34,11 +34,9 @@ The boundary of Kashi Rajya was as follows: In the north it extended to the Hima
 
 The capital of Kashi Raja was Kashi.
 
-Several eminent and intelligent kings ruled over Kashi Rajya and King Bhoja was one of them. He wrote a commen- tary on Samkhya philosophy. Since a cosmopolitan town is not 
+Several eminent and intelligent kings ruled over Kashi Rajya and King Bhoja was one of them. He wrote a commentary on Samkhya philosophy. Since a cosmopolitan town is not a good strategic choice for a capital, the capital was shifted eastwards to the south of the Ganga, near Dumraon which is in Buxar subdivision of the present district of Arrah. 
 
-A good strategic choice for a capital, the capital was shifted 
-
-Fastwards to the south of the Ganga, near Dumraon which is in Buxar subdivision of the present district of Arrah. It was in the district of Bhojpur, hence the language of the people was known as Bhojpuri.
+It was in the district of Bhojpur, hence the language of the people was known as Bhojpuri.
 
 The people of Bhojpuri region belonged to the Austrico- Caucasian race, that is, to the Nordic sub-group of Caucasians, and were Austric Indicas. 
 

@@ -20,7 +20,7 @@ The Materialist View is Negative | Positive, Negative, Microscope Thinking, Mate
 {{< /b >}}
 
 
-The current prevailing belief among humans is that material phenomena is the cause of mental phenomena. 
+The current prevailing belief among humans, which is the cause of so many problems, is that material phenomena is the cause of mental phenomena. 
 
 This is best explained by Karl Marx.
 

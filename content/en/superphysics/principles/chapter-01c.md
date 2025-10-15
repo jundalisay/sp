@@ -30,14 +30,29 @@ The universe cannot be at once eternal and generated. To say that the universe a
 {{< /q >}}
 
 
-The reason for the prevalence of the wrong materialist belief is that the prevailing mentality downplays the imagination and the metaphysical domain. 
+The prevailing materialist mentality:
+- downplays the imagination and the metaphysical domain
+- enshrines materialism and the physical domain, such as through physical pleasures and comfort
 
-Instead, it enshrines materialism and the physical domain, such as through physical comfort, physical pleasures, etc. 
-
+The big problem is that:
+- the physical body is finite in potentiality, limited and not eternal
+- the metaphysical soul, as an abstract mind, is infinite in potentiality and eternal
 
 The natural view is that the universe and reality are based on metaphysical perception as the unit mind being within the Supreme Mind.
 
+
+{{< q a="Vasishtha" c="Yoga Vasishtha" >}}
+The phenomenal world and your knowledge of egoism or self-existence are but erroneous conceptions of the formless inexistence. You see the various hues painting the sky, without any paint or painter. This is but a conception of the mind and like the vision in a dream.. It is but a different aspect of the self same Brahma.
+{{< /q >}}
+
+
+
 {{< i s="/graphics/super/natural.jpg" a="Materialist vs Natural" c="The natural view puts the physical universe inside the the abstract mind of the Supreme" >}}
+
+
+This means that we are in a Matrix or the Mind of the Supreme.
+
+
 
 Our perceptions are either of physical objects like rocks or metaphysical objects like the idea of rocks. This leads to the 2 domains which are studied by Physics and Metaphysics.
 

@@ -98,4 +98,3 @@ Positive effort does not mean more negative or material force like amps or volts
 Instead, it needs more subtlety and refinement to breach the limitation imposed by the Negative Force. 
 
 Therefore the key component of Critical Thinking is the Positive Force, just as the key component of ignorance is the Negative.
-

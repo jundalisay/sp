@@ -13,6 +13,42 @@ keywords: [Shankara, Tantra, Shiva]
 
 
 
+
+## Shankara: Brahma Satyam jagatmithya
+
+According to Shankara, the universe has been created out of nothing and is like a dream, nothing more. Bhává i.e. something has been created out of Abhává i.e. nothing. 
+
+This school of philosophy accepts only the present and ignores the past and the future. It also says that the universe will merge into nothing.
+
+Kśańika-vijiṋánaváda does not admit the physical world: here everything is internal. 
+
+Even álambana is internal. Whatever is seen in this physical world is pratikriyá or the outer projection of internal álambana. 
+
+Átman is the collection of the “I” feelings. It is not a continuous flow but appears to be so on account of the quick succession of its creation and destruction.
+
+During the age of Bhagaván Shaḿkarácárya there was no outstanding philosopher (tattvadraśt́a) among the Buddhists. 
+
+Among different sections of the Buddhist schools of philosophy a serious dispute was going on. At that time Shrii Manadana Mishra was the only scholar who believed in Sarva Shúnyaváda or complete nihilism and he was also a Kriyá Káńdii or follower of the path of action. 
+
+He debated with Shaḿkarácárya and was defeated.
+
+According to Buddhist philosophy there are 4 noble truths (Satya) called Caturajja satya:
+
+1. Duhkha or sorrow
+2. Kárańa of duhkha or the cause of sorrow
+3. Nivrtti of duhkha or the cessation of sorrow
+4. Upáya of duhkha nivritti or the means of the cessation of sorrow.
+
+The Vikrti or distortion of the Duhkhaváda or the school of pessimism became Atisukhaváda or ultra-hedonism. 
+- Atisukhaváda was prevalent in Bengal, Assam and Tibet.
+
+According to Buddhism, duhkha is Árya Satya or the absolute truth. 
+- This is a wrong interpretation as it is only the Mánas or mind which experiences dukha. 
+- Dukha can thus be only a relative truth. 
+- It cannot be an absolute truth
+
+
+
 Shaḿkarácárya was a Shaeva Tántrika or a practitioner of Tantra who followed Shiva. 
 - This is why he did not go against Tantraváda or the doctrine of Tantra. 
 
@@ -38,50 +74,73 @@ Shrii Shaḿkarácárya accepted Uttára Miimáḿsá as later Miimáḿsa
 The Shúńyavádiis said that the universe came out of nothing and will go into nothing, that everything is a dream. 
 
 Shaḿkara questioned this, saying that even if the universe is nothing or a dreamland, there should be someone who is dreaming. 
-- The Shúnyavádiis replied that there was no dreamer. They said that the universe is an illusion just as a rope mistaken for a snake is an illusion.
-- Shaḿkara said that that could not be possible. 
-- The Shúnyavádiis replied that this could only be understood by Sádhaná.
- <!-- while Shaḿkara said that it was not possible to have a dream without a dreamer.  -->
+
+The Shúnyavádiis replied that there was no dreamer. They said that the universe is an illusion just as a rope mistaken for a snake is an illusion.
+
+Shaḿkara said that that could not be possible. 
+
+The Shúnyavádiis replied that this could only be understood by Sádhaná.
+
+<!-- while Shaḿkara said that it was not possible to have a dream without a dreamer.  -->
 
 If the universe is an illusion like mistaking a rope for a snake, there had to be something like a rope which could be mistaken for the universe. 
 
 Without a rope it would be impossible to mistake it for a snake. 
+
 Besides this there must be a person to make the mistake. Similarly, there must be someone to experience the illusion of the 
 universe. 
 
 This means that there must be some other entity to experience it. 
 
-Mádhyamika said that nothing does not mean actually nothing (Shúnya). What you call Brahma we call nothing. So the illusion of the universe is Brahma. That is, [What Brahma is to the Brahmavádiis, Shúnya or nothing is to the Shúnyavádins.]
+Mádhyamika said that nothing does not mean actually nothing (Shúnya). 
+
+What you call Brahma we call nothing. 
+
+So the illusion of the universe is Brahma. That is, [What Brahma is to the Brahmavádiis, Shúnya or nothing is to the Shúnyavádins.]
 
 <!-- Yathá shúnyavádináḿ shúnyaḿ
 Brahma Brahmavidáḿstathá. -->
 
 
-Shaḿkara replied that this means that the one who sees and the object which is seen are both illusion. Where there is no one to see, who will mistake the rope for snake? The Shunyavadiis could not give any explanation for this. 
+Shaḿkara replied that this means that the one who sees and the object which is seen are both illusion. 
 
-The Kshanikavadiis – those who believed in the doctrine of transience – explanation of Shaḿkara’s questions was that the illusion is always Kśanika or transient. 
+Where there is no one to see, who will mistake the rope for snake? The Shunyavadiis could not give any explanation for this. 
 
-Shaḿkara’s point was that he believed that Brahma was anádi and ananta but that Kśańa comes in a moment and disappears the very next moment. Thus where does the Kśanika entity come from? Something must exist between the span of creation and the span destruction. 
+The Kshanikavadiis – those who believed in the doctrine of transience – explanation of Shaḿkara’s questions was that the illusion is always Ksanika or transient. 
 
-The Kśanikavádiis replied that it is destroyed with the creation, but Shaḿkara replied that this shows that there is no existence. The Kśańikavádiis felt defeated but they still replied that existence was negligible. This was not a satisfactory explanation. 
+Shaḿkara’s point was that he believed that Brahma was anadi and ananta but that Ksana comes in a moment and disappears the very next moment. 
 
-The scholars of the Pratyakśa Váhyavastuváda and Anumeya Váhyavastuváda argued for their philosophies but no one could withstand that questioning of Shamkaracarya, hence all the four sections of Buddhism were defeated by Shrii Shaḿkara. 
+Thus where does the Ksanika entity come from? Something must exist between the span of creation and the span destruction. 
+
+The Ksanikavádiis replied that it is destroyed with the creation.
+
+But Shaḿkara replied that this shows that there is no existence. 
+
+The Kśańikavádiis felt defeated but they still replied that existence was negligible. This was not a satisfactory explanation.
+
+The scholars of the Pratyakśa Váhyavastuváda and Anumeya Váhyavastuváda argued for their philosophies but no one could withstand that questioning of Shamkaracarya.
+
+Hence all the 4 sections of Buddhism were defeated by Shankara. 
 
 
-On defeat, they made friends with Shrii Shaḿkara and accepted Kúlakuńd́alinii Tattva or the practice of raising the serpentine power in human beings, and as a result Baoddha Yogácára came into existence.
+On defeat, they:
+- made friends with Shankara
+- accepted Kulakundalinii Tattva or the practice of raising the serpentine power in human beings
 
-There are several defects in Shaḿkara’s philosophy. 
+As a result Baoddha Yogácára came into existence.
+
+There are several defects in Shankara’s philosophy. 
 
 
 ### The Defects of Shaḿkara's Philosophy
 
-According to Shaḿkara, the universe is based on a fixed object by the illusion of Máyá, which is called Brahma.
+According to Shankara, the universe is based on a fixed object by the illusion of Maya, which is called Brahma.
 
 There is an illusion of a snake for a rope. But who has the illusion of a snake? One who already knows about snakes. 
 
 If there is an illusion of the universe for Brahma it means that the real universe is somewhere else. Thus the theory Brahma satyam jagatmithya is defective. 
 
-This is a wrong interpretation given by Shaḿkara. The Buddhists did not question it and hence it was accepted at the time.
+This is a wrong interpretation given by Shankara. The Buddhists did not question it and hence it was accepted at the time.
 
 Shaḿkara does not believe in jiiva and jagat. Thus the question arises, for what reason does the illusion exist?
 
@@ -94,10 +153,10 @@ Vyarthah kimarthaḿ kriyate shokah. -->
 
 The universe has not been created. Hence there is no Saguńa Brahma or Qualified Supreme Entity. 
 
-Shaḿkara believed only in Nirguńa Brahma or the non-qualified Supreme entity. 
+Shankara believed only in Nirguna Brahma or the non-qualified Supreme entity. 
 - He said that the universe is like a dream and the dreamer is also Brahma, as he did not believe in jiiva. 
 
-When Brahma is Nirguńa how could Shaḿkara see, as seeing is a quality? But this was also forgotten by Shamkara.
+When Brahma is Nirguna, how could Shankara see, as seeing is a quality? But this was also forgotten by Shamkara.
 
 Again, according to Shaḿkara’s philosophy what is seen and experienced is all due to the influence of Máyá. This means Máyá is also an entity which Advaetavada or monism cannot accept.
 
