@@ -1,5 +1,5 @@
 ---
-heading: Chapter 8m
+heading: Chapter 8n
 title: "Francis Bacon Tables"
 date: 2015-08-17
 image: "/photos/medieval/bacon.jpg"

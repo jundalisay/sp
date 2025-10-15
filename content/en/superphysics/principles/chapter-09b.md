@@ -12,8 +12,13 @@ icon: "Juan"
 ---
 
 
+The previous section explained that feelings are waves which:
+- our minds perceive as sensations
+- our bodies perceive as forces
 
-Chapter 8b explained the 3 Actions of the Mind and the 4 Operations of Thinking.
+Since ideas are just bunched-up waves, then we make an analogous classification of:
+- the Actions of the feeling-mind
+- the Operations of feeling
 
 
 ## 3 Actions of the Feeling-Mind
@@ -27,7 +32,7 @@ Force | Being attracted or repulsed by an idea | Positive of Negative Feelings
 Memory | Short or Long term | Trauma versus joyful memories
 
 
-1. Flow
+### 1. Flow
 
 The most common action of the feeling-mind is flow which lets us:
 - feel differently at different times
@@ -40,8 +45,10 @@ The minds of all men are similar in their feelings and operations. We are all af
 - beget correspondent movements in every human creature.
 {{< /q >}}
 
+{{< i s="/photos/social/team.jpg" a="team" >}}
 
-2. Force
+
+### 2. Force
 
 This is most obvious with strong emotions that oppose each other. This has been explained in depth by various philosophers in various way. 
 
@@ -54,13 +61,17 @@ Our innovation is to:
 Pride and humility happen alternately depending on their causes. If these 2 encounter, the stronger one annihilates the other. Only the superior one continues to operate on the mind.
 {{< /q >}}
 
+{{< i s="/photos/social/protests.jpg" a="Protests" >}}
 
-3. Memory
+
+### 3. Memory
 
 This is seen in either extremely Negative experiences that lead to trauma, or Positive ones that lead to joy. This is the cause of personality disorders such as:
 - Antisocial behavior
 - Obsessive-compulsive behavior
 - Schizophrenia
+
+{{< i s="/photos/psych/schizo.jpg" a="Mental Issue" >}}
 
 
 

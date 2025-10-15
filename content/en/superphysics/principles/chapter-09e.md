@@ -1,32 +1,77 @@
 ---
 heading: "Chapter 9e"
-title: "Morality and Justice"
-date: 2024-02-15
-weight: 662
-image: /graphics/psych/feelings.jpg
-description: "Desire is a fundamental kind of feeling which we sense through our hearts"
+title: "Critical Feeling as Empathy"
+date: 2023-12-08
+weight: 616
+# image: /photos/psych/stop.jpg
+image: /graphics/psych/peace.jpg
+description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
-draft: true
+icon: "Juan"
 ---
 
 
-## Ease and Unease, Peace and Agitation
+
+Usually, we use ideation and discernment whenever we have conflicting feelings or are overwhelmed by feelings.
+
+For example, when we have to choose where to eat, we just go with our first impulse.
+
+But when we go out with our friends, we have conflicting feelings on where to eat. 
 
 
-Western moral philosophy focuses on the feelings of pain and pleasure as the basis for morality. 
+ check the map so we can trace a logical path towards it and use our intellect to find the most efficient or least expensive or fastest way to get there.
 
-The problme is that such feelings can either be physical or metaphysical (mental). 
-- Physical pain can manifest as a wound or a toothache
-- Metaphysical pain can manifest as the pain of  seeing your ex-partner happy with someone else, or the pain of not seeing our loved ones for a long time
+If we were omniscient, we would be able to reach our destination without using any map. However, in reality, our intellect is limited and obstructed by the Negative Force.
 
-Moreover, pleasure is usually associated with physicality such as eating delicious food, listening to our favorite music, having a relaxing massage, doing sexual acts, etc. 
+And so not all of us reach our destination in the perfect way that we planned.
 
-We do not usually associate the word pleasure with giving relief goods to victims of disasters, or in solving the problem of our friends or customers. 
+Ordinary feeling is reflecting on feelings in the ordinary way within this limitation.
 
-In such cases, we get a warm, lightweight feeling in our hearts instead of strong pleasureable semsations in our brains. 
+Critical feeling is reflecting with an added Positive effort to push against or break through such limitation.
 
-This is why our basis for morality is not pain or pleasure, but ease and unease, or pain and agitation. 
+This is why it is commonly called feeling beyond the self or empathy, which Adam Smith called sympathy.  
+- This happens when we apply more effort into feeling beyond our selves.
+
+
+{{< q a="Adam Smith" c="Theory of Moral Sentiments, Part 1 Section 1 Chapter 4" >}}
+The observers are continually placing themselves in the person's situation in order to conceive similar emotions. Through sympathy, they are constantly considering what they themselves would feel if they were the sufferers. The person is also constantly placing himself in the observers' situation. Through sympathy, he is also constantly led to imagine how he would be affected if he was his own observer.  This creates in him a reflected passion which is much weaker than his own original passion
+{{< /q >}}
+
+
+The big misconception is to critical feeling needs us to be more emotional.
+
+But being emotional is actually lack of control by the lower mind of its emotions.
+
+Positive effort does not mean more feeling is needed. 
+
+Instead, it needs more subtlety and refinementm, as access to the Higher Mind, to breach the limitation imposed by the Negative Force.
+
+Therefore the key component of Critical Feeling or empathy is the Positive Force, just as the key component of selfishness is the Negative.
+
+This access to the Higher mind, and therefore more control of the emotions, is done by ideation and affirmations. 
+
+
+
+## The Traditional Solution to Increase Critical Feeling
+
+Traditionally, fellow-feeling was increased to overcome the 5 senses through the imposition of moral philosophy. This was then deployed by 2 groups:
+
+1. The government, monarch, or emperor through traditions, customs, policies, and festivals
+2. Religion through religious laws and scriptures
+
+Golden ages were times when these were succesfully done:
+
+- Pax Romana was brought about by Roman Legalism and Stoicism
+- The prosperity of the Song and Ming dynasties were from the imposition of Confucianism and Neo-confucianism respectively 
+- Japan's rise was due to the imposition of a Japanese version of Confucianism by the Tokugawa and Meiji Restoration
+- The British Empire from the Glorious Revolution and their philosophy of enlightened liberalism from John Locke
+
+These golden ages result in wealth which then bombards the 5 senses. This constant barrage on the senses leads to the decline of the morals that created that very wealth:
+
+- Pax Romana was destroyed by imperial instability
+- The Song were destroyed by the Mongols just as the Ming were destroyed by the Qing
+- Japan was defeated in World War 2
+- The British Empire was challenged and weakened by the Americans who enshrined a shallow kind of materialist liberalism
 

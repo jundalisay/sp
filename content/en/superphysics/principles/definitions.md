@@ -142,7 +142,7 @@ Begging the Question | Circular Answer
 Corollary | A resulting statement that directly follows from a theorem
 Definition | A statement that gives the properties of a new idea
 False Dichotomy | Fake Dilemma
-Intellect | The ability to use combine and harmonize multiple reasonings of cause and effect together
+Intellect | The ability to combine and harmonize multiple reasonings of cause and effect together
 Intelligent |  Having intellect
 Lemma | A resultant statement proven true, used to prove another, more important theorem
 Logic | The connection of ideas within spacetime. Ibn-khaldun: intellectual speculation to distinguish between true and false

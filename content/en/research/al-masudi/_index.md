@@ -4,8 +4,7 @@ date: 2025-08-23
 weight: 2
 c: "darkslategray"
 description: ""
-# a: "Aristotle"
-# c: "firebrick"
+a: "Al Masudi"
 # y: "384 BC - 322 BC"
 writer:
   name: Al-Masudi 

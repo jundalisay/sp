@@ -48,7 +48,10 @@ Syllogism then may reason from principles which cannot be themselves proved Syll
 
 So Knowledge is “a state or mental faculty apt to demonstrate syllogistically,” etc. as in the Analytics[13].
 
-This is because a man, strictly and properly speaking, knows, when he establishes his conclusion in a certain way, and the principles are known to him: for if they are not better known to him than the conclusion, such knowledge as he has will be merely accidental.
+This is because a man knows when:
+- he establishes his conclusion in a certain way
+- the principles are known to him
+
+For if they are not better known to him than the conclusion, such knowledge as he has will be merely accidental.
 
 <!-- Let thus much be accepted as a definition of Knowledge. -->
-

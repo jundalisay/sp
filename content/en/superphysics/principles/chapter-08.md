@@ -37,7 +37,7 @@ The operations of the mind are most intimately present to us. Yet, whenever we r
 
 
 
-## The 3 Operations of Mind
+## The 3 Actions of the Mind
 
 This Mind has 3 actions due to the 2 Forces. This matches the 3 Gunas or Influences:
 
@@ -138,8 +138,6 @@ Cognition, Intuition, and Realization are all Flow and Force, with emphasis on F
 - This is Flow and Memory.
 
 
-
-
 {{< i s="/graphics/psych/think.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}
 
 
@@ -171,27 +169,3 @@ In terms of feeling-waves:
 In thinking, the mind-node adjusts its own configuration in order to match the structure or pattern of the nodes that flow through it.
 
 This is because nodes are just bunched-up waves. And so they can recur just like waves do.  
-
-<!-- 1. React
-
-A crude node will react to the incoming node or wave by adjusting itself externally. This is seen in balls bouncing off the wall as they react to the crude contact force from that wall.  
-
-2. Learn
-
-A subtle node will "learn" from the incoming nodes by adjusting itself internally -- its wave-collection will adjust to match the contents of that small node or wave.
-
-This is seen in the adaptations of living organisms.
-
-3. Express -->
-
-<!-- 1. Thinking
-
-This is similar to the manipulating the actors and props
-
-2. Remembering: This is similar to props being stored and retrieved backstage 
-
-3. Learning: This is similar to the improvement of the theater in the way it manipulates (thinks) and stores and retrieves its props (remembers) 
-
-4. Expanding or Contracting: This is similar to the expansion of a theater in order to have better shows -->
-
-

@@ -1,23 +1,18 @@
 ---
-heading: "Chapter 10c"
-title: "The Flow of Resources within and between Society Organisms"
-date: 2025-10-07
-weight: 690
-image: /photos/econ/prices.jpg
-description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
+title: "Entity Rights"
+heading: "An alternative to human rights and animal rights"
+date: "2022-05-13"
+image: /photos/physics/ai.jpg
+description: ""
+weight: 665
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
+icon: "Superphysics"
 draft: true
 ---
 
 
-The society-organism
+Coming soon!
 
-Unlike the Capitalist system which emphasizes money and territory, the natural system focuses on location and personality.
-- Location is the physical domain
-- Personality is the metaphysical domain
-
-
-
+Entity rights give the right to exist to anything perceived. 

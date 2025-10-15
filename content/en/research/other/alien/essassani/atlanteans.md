@@ -69,5 +69,5 @@ The Sphinx and Great Pyramids were built in 10,500 BC after the flood to preserv
 
 The Library of Alexandria had information on Atlantis
 
-
+The Ten Commandments are in Crystal Tablets that give you information upon touching certain parts. Bashar implies that these are under the Sphinx. 
 

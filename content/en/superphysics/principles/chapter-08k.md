@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8j"
+heading: "Chapter 8k"
 title: "Data Science in Socratic Dialectics"
 date: 2024-08-21
 image: /photos/tech/mac.jpg

@@ -5,6 +5,7 @@ date: 2025-08-23
 weight: 8
 description: ""
 c: "darkslategray"
+icon: "Al Masudi"
 writer:
   name: Al-Masudi 
   url: https://en.wikipedia.org/wiki/Al-Masudi

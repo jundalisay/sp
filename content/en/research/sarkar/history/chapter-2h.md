@@ -102,41 +102,111 @@ The construction of tombs was a rare phenomenon during the Pathan period. Art an
 
 Delhi, Feb. 28, 1984
 
-A big,
-Today Baba visited Suraj-Kund, a tourist resort. round-shaped pond and ancient relics can be seen here. Baba examined the surroundings and made the following observations.
+Today Baba visited Suraj-Kund, a tourist resort. It has:
+- round-shaped pond
+- ancient relics 
 
-The history of this place is older than Pathan rule in India. The Tomar Dynasty, a branch of Jastika Ksattriyas ruled from the west of Delhi to Sirhind. Sirhind used to be the water barrier of northern India. The Pandavas were Jastika Ksattriyas, while Krs'n'a was a Vrs'n'ika Ksaltriya. The Pandavas moved throug- hout northern India.
+<!-- Baba examined the surroundings and made the following observations. -->
 
-It is quite possible that Raja Surajmal constructed this pond and it was named after him. Ponds with a round shape are called 'kun'd'a' while those with a rectangular shape are called Sans 'va'pii'. If the shape is oval, the pond is called 'tadaga' in Sans- krit.
 
-*Surajkunda is a place in Hariyana about 40 kilometres north west of Delhi..
-                           ﻿
-<!-- 66 -->
+{{< l a="Baba" >}}
+The history of this place is older than Pathan rule in India. 
 
-The pond and buildings were constructed entirely of long. thin stone slabs. Local people explained that on the bank of the pond there used to be a sun-temple, which was destroyed. 
+The Tomar Dynasty is a branch of Jastika Ksattriyas. They ruled from the west of Delhi to Sirhind. 
 
-The sun was the deity of Shakaldwipi Brahmans who came to India from Sacdonia, South Russia. The deity was dressed in pyjama, long coat and a fez, Muslim style cap. Hindu gods were never depicted in this manner. If the temple had contained the deity Gomateshvar, it would have demonstrated Swetamvara Jain's in- fluence. And if it was a sun-temple, the purohit or priest must have belonged to the Shakaldwipii section of Brahmans. 
+Sirhind used to be the water barrier of northern India. The Pandavas were Jastika Ksattriyas, while Krishna was a Vrsnika Ksattriya. 
+
+The Pandavas moved throughout northern India.
+
+Raja Surajmal constructed this pond and it was named after him.
+
+Ponds with a round shape are called "kunda" while those with a rectangular shape are called Sansvapii.
+
+If the shape is oval, the pond is called "tadaga" in Sanskrit.
+{{< /l >}}
+
+
+*Surajkunda is a place in Hariyana about 40 kilometres north west of Delhi.
+
+
+The pond and buildings were constructed entirely of long, thin stone slabs. 
+
+Local people explained that on the bank of the pond there used to be a sun-temple, which was destroyed. 
+
+The sun was the deity of Shakaldwipi Brahmans who came to India from Sacdonia, South Russia. 
+
+The deity was dressed in pyjama, long coat and a fez, Muslim style cap. Hindu gods were never depicted in this manner. 
+
+If the temple had contained the deity Gomateshvar, it would have demonstrated Swetamvara Jain's in- fluence. And if it was a sun-temple, the purohit or priest must have belonged to the Shakaldwipii section of Brahmans. 
 
 In that case, Shakaldwipiis who are fair and tall would be found in the nearby villages. A survey of the place would reveal such facts.
 
-Aryans started their journey to India from the Caucasian area of south Russia. First, they went to Aryana Braja (Persia) and long ago they visited it. 'Braj' means enjoyment synchro- nised with movement. The Aryans liked the Persian countryside very much, thus they called it Aryanya Braja. Later the word Aryanya Braja was transformed into Iran bej, which later became Iran. From Aryana Braja the Aryans went to Gan- dhara, then to Sapta Sindhu, and then Harita dhanya or Hariyana, which included this area as well.
+The Aryans started their journey to India from the Caucasian area of south Russia. 
 
-'Sar' means 'head', and those who work with mind or head are known as 'Sarkar'. Accordingly, 'Sardar' means 'leader'. The medieval English term for 'sir' was 'sire' as the term for 'father' was 'frere'.
+First, they went to Aryana Braja (Persia) and long ago they visited it.
 
-Sarasvat Brahmans live on the west of Delhi, Gauriya Brah- mans reside towards the southeast of Delhi in Rajasthan; Joshi Brahmans live towards the north of Delhi while Kanyakubja Brahmans live towards the east, in west U.P. The Kaoravas ruled on the north of Delhi and the Pandavas on the south. Panchals were rulers in the northeast of Delhi up to Himachal border while the kinnaors lived in the area from the borders of Panchala to the borders of Tibet.
+'Braj' means enjoyment synchronised with movement.
+
+The Aryans liked the Persian countryside very much and so they called it Aryanya Braja.
+
+Later, the word Aryanya Braja was transformed into Iran bej, which later became Iran. 
+
+From Aryana Braja the Aryans went to Gandhara, then to Sapta Sindhu, and then Harita dhanya or Hariyana, which included this area as well.
+
+'Sar' means 'head'. Those who work with mind or head are known as 'Sarkar'.
+
+Accordingly, 'Sardar' means 'leader'. 
+
+The medieval English term for 'sir' was 'sire' as the term for 'father' was 'frere'.
+
+Sarasvat Brahmans live on the west of Delhi, Gauriya Brahmans reside towards the southeast of Delhi in Rajasthan.
+
+Joshi Brahmans live towards the north of Delhi while Kanyakubja Brahmans live towards the east, in west U.P.
+
+The Kaoravas ruled on the north of Delhi and the Pandavas on the south. 
+
+Panchals were rulers in the northeast of Delhi up to Himachal border while the kinnaors lived in the area from the borders of Panchala to the borders of Tibet.
 
 <!-- 67 -->
 
-The Kinnaors were an extremely attractive race which caused others to ask, Kim narah asti ? (Are they hu- mans?) In Sanskrit 'Kinnaor' was derived from 'Kim narah'. Polyandry amongst the women was the custom in those days. Draupadi, for example, had five husbands. Even today, the system of polyandry continues in Kinnaor. 
+The Kinnaors were an extremely attractive race which caused others to ask, Kim narah asti ? (Are they humans?)
+
+In Sanskrit 'Kinnaor' was derived from 'Kimnarah'. 
+
+Polyandry amongst the women was the custom in those days. 
+
+For example, Draupadi had 5 husbands.
+
+Even today, the system of polyandry continues in Kinnaor. 
 
 Beautiful people are also found between Philippines and Hawaii.
-While looking at the Palash flower, Baba said that it is called 'Kinshuka' in Sanskrit, while in Paeshachi Prakrta and Shaoraseni Prakrta it is called 'tesu'. 
 
-In Punjab, tesu was used for colouring sweets. On the occasion of Hola, a festival observed the day after Holi, the people of Punjab would dance and sing. "Ai basantide bahara, amba mole, tesu mole, mola rahii kachnar, which means "The verdant beauty of spring has come, tesu and kacanara flowers have blossomed."
+While looking at the Palash flower, Baba said that it is called 'Kinshuka' in Sanskrit, while in Paeshachi Prakrta and Shaoraseni Prakrta it is called 'tesu'.
 
-A thorough study of the history of Delhi will also reveal the history of north Rajasthan, as both places are closely con- nected. Popular folk songs will also tell a lot about the history of this area. In Rajasthan, a blending of Scythian Bhiils includ- Ing Shaks, Huns, and Kushans, and Aryans took palce, and the leading people became Rajputs. The culture of Rajputana is a blending of Aryan and Bhiil cultures. There are several places where Bhills were the dominant race; for example, in Bhiilawada. Wada means locality. Kota was named after the brave leader, Kotia Bhill From Mount Abu to Gujrat, the Sirohiis were dominant and to the south of Rajasthan, the Nagars were dominant. In Rajasthan, different tribes have their own group characteristics. In Mewar, one finds extremely warlike people while Hadas are fighters as well as farmers and the Marwaris are mostly commercial-minded people.
+In Punjab, tesu was used for colouring sweets. 
+
+On the occasion of Hola, a festival observed the day after Holi, the people of Punjab would dance and sing. 
+
+"Ai basantide bahara, amba mole, tesu mole, mola rahii kachnar, which means "The verdant beauty of spring has come, tesu and kacanara flowers have blossomed."
+
+A thorough study of the history of Delhi will also reveal the history of north Rajasthan, as both places are closely connected. 
+
+Popular folk songs will also tell a lot about the history of this area. In Rajasthan, a blending of Scythian Bhiils including Shaks, Huns, and Kushans, and Aryans took palce, and the leading people became Rajputs. 
+
+The culture of Rajputana is a blending of Aryan and Bhiil cultures. There are several places where Bhills were the dominant race; for example, in Bhiilawada. 
+
+Wada means locality. Kota was named after the brave leader, Kotia Bhill From Mount Abu to Gujrat, the Sirohiis were dominant and to the south of Rajasthan, the Nagars were dominant. In Rajasthan, different tribes have their own group characteristics. 
+
+In Mewar, one finds extremely warlike people while Hadas are fighters as well as farmers and the Marwaris are mostly commercial-minded people.
 
 Although this place is negleced today, it is an ancient part of India's civilisation. Unfortunately, people have forgotten their historical legacy. 
 
-To illustrate this point Baba told an instructive story regarding Rama. It is said that Rama forgot that he was Parama Purusa. The gods quite recognised this and deputed some representatives to remind Rama every now and then, that he was Parama Purusa. Through constant remind- ing Rama became conscious of his true self. should be made conscious of their glorious history. Although Similarly, people vested interests are always trying to keep people ignorant and apathetic, a strong social consciousness must be generated in the minds of the people.
-                        
+To illustrate this point Baba told an instructive story regarding Rama. It is said that Rama forgot that he was Parama Purusa. 
+
+The gods quite recognised this and deputed some representatives to remind Rama every now and then, that he was Parama Purusa. 
+
+Through constant reminding Rama became conscious of his true self. should be made conscious of their glorious history. 
+
+<!-- Although Similarly, people vested interests are always trying to keep people ignorant and apathetic, a strong social consciousness must be generated in the minds of the people. -->
+                      
+                      

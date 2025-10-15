@@ -1,183 +1,115 @@
 ---
-heading: Chapter 8g
-title: "The Meaning of Red Herring, Ad Hominem, etc"
-date: 2020-09-29
-image: /graphics/logic/truth.jpg
-description: "We explain the meaning of common fallacies by removing the jargon"
+heading: "Chapter 8g"
+title: "The Eagle"
+date: 2020-12-27
+weight: 509
+image: "/graphics/super/egl.jpg"
+description: "The harmony or disharmony between spins leads to attraction and cohesion, or repulsion and disintegration"
+icon: "Juan"
+aliases:
+  /eagle
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 510
-icon: "Juan"
-# aliases:
-#   /superphysics/fallacies/red-herring
 ---
 
 
 
-Qualimath can be applied both to quantitative and qualitative mental processes or operations of thinking. 
+{{< b >}}
+Principles | Concepts Introduced
+--- | ---
+E = Gl | Kinetic, Potential
+{{< /b >}}
 
 
+Chapter 6d explained that the differences in the spins of identites, via their gravitational signatures of `G`, lead to relational effort. 
+- This manifests as relational action when actually deployed in reality. 
 
-People sometimes use strange jargon like “red herring” or ‘Occam’s razor” when they try to disprove arguments that they don’t like. Such words then force the other side to do research on what those jargon mean. This can potentially waste a lot of time since there are a lot of fallacies. 
 
-These fallacies were merely created by academics for the sake of creating something, just as mathematicians create paradoxes, and theoretical physicists create useless theories because thinking is part of their job.
+The harmony or disharmony between spins leads to attraction and cohesion, or repulsion and disintegration.
 
-Socrates was aware of such useless thinking and so he classified the output of all logic into either truth, falsehood, or sophistry. I combined this with David Hume’s definitions to visualize them.
+This manifests as relational action which causes a thing to "gravitate" towards to, or away from, another thing. 
 
+This means that everything in existence has a `G`, whether it be a rock, a car, a virus, an opinion, a soul, a belief, a civilization, etc.  
 
-## Truth vs Fallacy
+This `G` dictates its:
+- relational movement, as kinetic energy, and
+- relational pre-movement, as potential energy
 
-{{< img src="/graphics/logic/truth.jpg" alt="Fallacy diagram" cap="A fallacy is something that cannot be perceived by anyone in either the physical or metaphysical domains" >}}
+We call:
+- the kinetic energy as `F` or force 
+- the potential energy as `E` or effort
 
-<!-- ![](https://sorasystem.sirv.com/graphics/f-truth.jpg) -->
 
-<!-- https://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg
-https://sorasystem.sirv.com/graphics/f-attack.jpg
-https://sorasystem.sirv.com/graphics/f-circ.jpg
-https://sorasystem.sirv.com/graphics/f-circr.jpg
-https://sorasystem.sirv.com/graphics/f-cut.jpg -->
+We notate this as E = G<sub>*`l`*</sub>. In Qualimath, this is E :: G<sub>*`l`*</sub>
 
-A truth is a direct relation and equivalence of a metaphysical idea to a physical reality or manifestation. 
 
-A fallacy is a non-equivalence. “Unicorns exist” is true if they are perceivable by all and false if not perceivable.
+{{< i s="/graphics/super/egl.jpg" a="E = Gl" >}}
 
-```
-physical_existence ≉ unicorn
-```
- <!-- : no_physical_existence -->
 
-A truthful logic leads to an idea that everyone can perceive or exist in reality. 
+- `E` is inherent effort and represents potentiality
+- `G` is the gravitational signature or dharma of the thing
 
-A false logic directly leads to an idea that does not exist or cannot persist (just as some subatomic particles exist only for a few nanoseconds). These are called “formal fallacies”
+<!--  This represents the Positivity or Shiva or Yang
+- <sub>*`l`*</sub> is the physical layer where the thing exists in. This represents the confinement by Negativity, or Shakti or Yin, on Shiva or Yang -->
 
-{{< img src="/graphics/logic/sophistry.jpg" alt="Sophistry diagram" cap="A sophistry is a logic that is true only to some people from a limited perspective. It is not true universally or all the time even if it is believed to be universal and constant" >}}
+We can call this equation as "eagle" as it is written with the letters `E G` <sub>*`l`*</sub>. 
 
+It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
 
-A sophistry is a train of ideas that leads to a fallacy. An example is: “The economy will grow fastest if capital gains taxes are abolished.” Sophistries are now called “informal fallacies”
 
-Fallacies are easy to detect because there is no long train of ideas to confuse the mind. But sophistries are harder because of the long logic. In order to simplify them, common English words can be used instead of jargon below.
 
-<!-- > Solution: Give a real-world example that refutes the fallacy -->
+## The Eagle Standard
 
 
-### “Misdirection” instead of “Red Herring”
+The idea for the eagle came from the eagle standard of the Roman legions.
 
-![Red-herring diagram](/graphics/logic/misdirection.jpg)
+{{< i s="/photos/objects/aquila.jpg" a="Aquila on a staff" >}}
 
-A misdirection uses the natural relation of two related ideas to misdirect the logic onto a fallacy. An example is: “Children are our future, so we must raise taxes for a better future.”
+Historians wrote how the legions would rally around their eagle symbol and protect it with all their might. Our eagle equation is centered on G which represents Socrates' true nature or dharma, which is a central belief in Buddhism, Hinduism, and Taoism.
 
+Buddhists are urged to keep the wheel of dharma turning at all costs, just as Socrates' guardians are supposed to keep up their mastery of true philosophy. 
 
-```
-(children : future) ≉ (raise taxes : future)
-```
+This is because if dharma or true philosophy stops, then society would likely degrade into selfish animal behavior and the love for matter (materialism) filled with vices, gambling, destruction, wars*, crises, etc. instead of love for the Aether (the material of mind of God)
 
-> Solution: Crush the misdirection
+{{< d t="Jan 2024">}}
+Update : The increase in wars in Ukraine, Israel, Middle East, and the threats from China and North Korea are proof that dharma has lost its momentum. 
+{{< /d >}}
 
+This is why Superphysics is totally against Albert Einstein who not only reduced the aether to nothing, but also pushed for nuclear weapons which could lead to nuclear war. We place his intellectual 'evil'* on the same rank as the political evil of the other German, named Adolf Hilter. 
 
-### “Specific Misdirection” instead of “Straw Man”
 
-{{< img src="/graphics/logic/sophistry.jpg" alt="Specific Misdirection" >}}
+{{< f f="*Our definition of evil is based on the strength of the ego" >}}
 
-<!-- ![Straw man diagram](/graphics/lgoichttps://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg) -->
 
-A specific misdirection is a misdirection that resolves into a specific idea. Examples are: 
-- Children are our future, so we must raise taxes to fund all children’s programs.
 
-```
-(children : future) ≉ ((raise taxes : funding for children's programs) : future)
-```
+Rallying around the dharma and making an effort to keep it up would be similar to how the legions worked hard to secure their eagle from their barbarian enemies.
+- In machines, this would be preventive maintenance. 
+- In healthcare, it would be maintaining a healthy lifestyle, as 'prevention is better than cure'.
 
-> Solution: Same as above
+Dharma then leads to related concepts like sustainability, harmony, long happy lives, and making the idea of wars and crisis obsolete.
 
 
-### “Fake Dilemma” instead of “False Dichotomy"
+## How to probe G
 
-{{< img src="/graphics/logic/dilemma.jpg" alt="Fake dilemma”" >}}
+The job of knowing or discovering this `G` and predicting its movement-results is done by specific sciences:
 
-A fake dilemma forks away from the truth. Examples are: 
-- "Children are our future. Either we give them everything they need or give them nothing at all." 
-- "You can either get married or be alone for the rest of your life"
+For example:
+- Biology looks into the nature of cells
+- Physics looks into the nature of particles
+- Metaphysics looks into the nature of souls and ideas
+- Economics looks into the nature of goods and services
 
-<!-- tu quoque --> 
+These sciences use the scientific method which involves the following steps:
 
+1. Observation
+2. Question
+3. Hypothesis
+4. Experiment
+5. Analyze the data
+6. Conclusion
 
-```
-(children : future) ≉ ((give all to children : give none to children))
-```
 
 
-> Solution: Mention a third option
-
-
-### “Personal Attack” instead of “Ad hominem”
-
-{{< img src="/graphics/logic/attack.jpg" alt="Personal Attack" >}}
-
-A personal attack goes outside of the ideas in the logic and goes to the other party instead, as an idea in itself. An example is: 
-- “You’ve never had children so your advocacy against children’s programs is wrong.”
-
-
-```
-(you : no children) ≉ (opposition : children's program)
-```
-
-
-> Solution: Re-divert back to the topic
-
-
-### “Circular Answer” instead of “Begging the Question”
-
-{{< img src="/graphics/logic/circle.jpg" alt="Circular Answer" >}}
-
-A circular answer answers itself. An example is: 
-- “Children are the future because children are the future.” 
-
-The real answer is arbitrary depending on the person’s mind.
-
-```
-(children : future) :: (children : future)
-```
-
-> Solution: Ask why he feels that way
-
-
-### Circular Reasoning
-
-{{< img src="/graphics/logic/circular.jpg" alt="Circular Reasoning" >}}
-
-A circular reasoning is a circular answer that goes through other ideas before coming back to itself. This is similar to how a specific misdirection is a long version of a misdirection. 
-
-An example is:
-- “Children are the future because we ourselves were children in the past”
-
-```
-(children : future) ≉ (we as children : past)
-```
-
-
-
-> Solution: Same as circular answer
-
-
-### “Cutting to the Chase” instead of “Occam’s Razor”
-
-{{< img src="/graphics/logic/cut.jpg" alt="Cutting to the Chase" >}}
-
-Cutting to the chase goes direct to the cause and effect by disregarding superfluous ideas. All reasoning is based on feelings and so cutting to the chase goes to the more direct relation of cause and effect by taking into account the feeling of the other person.
-
-> Solution: Simplify his reasoning
-
-
-### “Doesn't Follow" instead of “Non-sequitir”
-
-{{< img src="/graphics/logic/follow.png" alt="“Doesn't Follow" >}}
-
-Something is unconnected to an idea if it doesn't naturally follow it. Unlike misdirection, the premise was not built up. Instead an idea is connected immediately to another idea.
-
-An example is:
-- "The influx of Mexican immmigrants influenced the mask mandates of the federal government.“ 
-
-> Solution: Give real-world examples
-
+<!-- > *The worst thing that can happen by denouncing Einstein and Samuelson by advancing alternative theories is to bashed as either as an idiot or as an arrogant know-it-all by dogmatic physicists and economists. But to advance alternative theories for medicine is to be fined, sued for endangering public health, and even to go to jail! -->
 

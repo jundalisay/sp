@@ -9,8 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
-aliases:
-  /critical-feeling
 ---
 
 
@@ -50,20 +48,33 @@ This makes the control of the intellect easier to develop, than the control of t
 - The intellect or brain is our detector and manager for our ideas
 - The heart is our detector and manager for our feelings
 
-<!-- The perception of idea and experience are both done by the intellect. 
 
-However, the movement from idea to experience are powered by desire. Without desire, idea and experience would never meet and loops will never close. This would be like being ignorant or staring at blankness forever. 
+
+The perception of ideas through experience are done by the intellect. However, the movement from idea to experience are powered by desire. Without desire, idea and experience would never meet and loops will never close. 
+
+For example, you are on your bed about to go to sleep when suddenly get a desire to know what is the capital of North Korea. But the desire to sleep is stronger than your desire to know. And so instead of grabbing your phone to Google it, you choose to sleep. As a result, your intellect was not able to find out what is the capital of North Korea.
+
+
+{{< i s="/photos/countries/nk/parade.jpg" a="North Korea" >}}
+
+<!-- This would be like being ignorant or staring at blankness forever.  -->
 
 Desire is a fundamental kind of feeling which we sense through our hearts. We can say that:
 - the intellect is our built-in sensor for ideas 
 - the heart is our built-in sensor for feelings 
 
-Ideas can be represented by accurately physical objects. For example, the idea of Covid is universally represented by the physical SARS-COV2 virus. 
+Ideas can be represented by accurately physical objects. For example, the idea of the North Korean army can be represented by its marching soliders. 
 
 However, feelings cannot be universally represented by objects. For example, the feeling of freedom has been represented by:
-- a flying bird, 
-- broken chains, or
-- a person with open arms.  -->
+- a flying bird 
+- broken chains
+- a person with open arms
+
+To unify feelings, we need to:
+
+1. Objectify them into emotions
+2. Probe the gravitational signature of the people or animals for their essential emotions
+3. Harmonize conflicting emotions through relationality via Socratic Dialectics
 
 
 ## Inward Feelings Versus Outward Emotions
@@ -118,7 +129,15 @@ Mid Material | Liquid (Water Pressure)
 Low Material | Solid (Contact Force)
 
 
-<!-- Based on the following  -->
+## Feelings Hold the Key
+
+A lot of the problems in Physics exist because the nature of forces are not known. For example, modern people still cannot harness anti-gravity because of the overemphasis on brain and intellect. This is opposite of the ancient people who could levitate themselves as proven by Buddhist monks by focusing on their hearts and having compassion for all. 
+
+More obviously, wars and economic crises are more severe from the 20th century because of the supremacy of the intellect and the disappearance of fellow-feeling and kindness. 
+
+Superphysics puts feelings back up, without appearing corny, uncool, old-fashioned or naive, by demonstrating the practical uses or benefits of having such feelings from the Positive Force. 
+
+For example, Economic Superphysics, as Supereconomics, uses a moneyless system where people get the gadgets of other people (who don't need them) through exchange. 
 
 
 <!-- Chapter 2 explained that the metapyhsical domain is superior to the physical domain. Therefore the heart is superior to the brain. 
@@ -129,6 +148,3 @@ The intellect is just the connection of ideas. But it is the feelings that power
 
 Superphysics asserts that while non-living things do not show intellect, they do show emotion by the way they react to physical phenomena. Unlike living beings that use the heart to process emotions, non-living things use the Radiant Layer directly, as ELectromagnetism. THe most obvious feelings that non-living things react to are those of heat and cold. 
  -->
-
-
-

@@ -1,13 +1,15 @@
 ---
 heading: "Chapter 8d"
-title: "Qualimath Decon Notation: Solving the Measurement Problem"
+title: "Supermath and Qualimath: The Maths for Superphysics"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
-weight: 502
-image: "/photos/physics/phoenix.jpg"
-description: "Decon Notation helps make ratios understandable"
-icon: "Superphysics"
+weight: 494
+image: "/graphics/physics/math.jpg" 
+description: "Qualimath is Math for operating on Qualities instead of Quantities"
+icon: "Juan"
 math: true
+aliases:
+  /qualimath
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -15,143 +17,183 @@ writer:
 
 
 
-The root cause in the limitations in Physics (and consequently, in the technologies that humans can develop) is the seeming limited ability of humans to perceive beyond the Fire Element (electromagnetism and light).
 
-Beyond the Fire Element is the Air (Space and Time) and the Aether Elements (Idea).
-- These 2 Elements are totally subjective and dynamic.
+{{< dc t="Principles (click to expand)" >}}
+Principles | Assertions
+--- | ---
+Each Idea is Unique | Cause and Effect are in Relation to each other
+. | Qualimath Denotes this Relational Cause and Effect
+{{< /dc >}}
 
-<!-- The real cause of the absurdity is the scientific decree to make things measurable.  -->
 
-<!-- Objective measurements are based on light giving our natural light-detectors (eyes) objective information.  -->
 
-For example:
-- The distance from House A to House B can be denoted in meters, yards, feet, etc.
-- An idea can be important to some, but not important to others.  
+Chapter 6 explained that reality is made up of perception-relations between identities. 
 
-We say that such measurements are subjective and heterogenous. Thus, they are more qualitative instead of quantitative or homogenous. 
+These then allow long chains of causes and effects, called by the Hindus as ''karma-samskara-karma'. 
 
-{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 3" >}}
-Hence, tanmátras [quantum-perceptions] are the waves produced by the objects as a result of reflection of the subtler bhúta [element or factor] on the cruder ones. Quantum-perceptions in the mathematical sense are **heterogeneous**, not homogeneous
+A long series of chains gains the dynamics of a wave. This wave we can split into 3 states, matching the 3 Gunas or Influences:
+
+1. Karma-Action, as State 1
+2. Samskara-Pending, as Pseudo-State
+3. Karma-Reaction, as State 2
+
+We can extend this wave to have more states.
+
+{{< img src="/graphics/super/wave.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
+
+
+We can know why State 4 is the way it is if we look at all its states from 1 to 4. We can then use this knowledge to predict its future states. We can write this as:
+
+```elixir
+State 1 : State 2 : State 3 :: State 4
+```
+
+
+We do not notate the pseudostates that are in between:
+- state 1 and 2
+- state 2 and 3
+- state 3 and 4
+
+This is because they are pending reactions and have no objective manifestation in reality YET.  
+
+
+The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. 
+
+
+This is a combination of the ideas from:
+- The Asian sciences of Hinduism, Buddhism, and Taoism which say that everything is one (i.e. we can connect everything with a relational chain)
+- Socratic philosophy which explains about the One and the Other
+- Descartes' theory of gravity which says that gravity is a relation between bodies
+- Poincare's Law of Relativity which is based on changing states of bodies in a system
+
+
+{{< q a="Rene Descartes" c="Principia Philosophia Part 4, Article 202" >}}
+I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
 {{< /q >}}
 
 
-We can say that: 
-- The Fire and Earth Elements, as electromagnetism and atoms (strong force) focus on quantitative particles, and make up the Physical Domain
-- The Air and Aether Elements, as spacetime and ideas focus on qualitative waves, and make up the Metaphysical Domain
+{{< i s="/graphics/physics/relationality.jpg" a="Relationality" >}}
 
-The smallest measuring tool:
-- for the physical domain is the electron
-- for the metaphysical domain is idea
+We call this Cartesian [relationality](/relationality), which depends on point of view:
 
-Therefore, idea solves the measurement problem. 
-
-<!--  wich c as the ghighest kind of ruler. The wohole big giat problem is that the aetehr is above spacetime whtih itselfis above lectromagentism. So The aether is not measurebale by sight or electronic eqiupement fof the electomagneic layer and is onlyindirectly measurable by the spacetime layer. 
-
-This neesd a whole new math which we call qualimath which measures chanigng aetereal qualities instead of discrete material quantities.  -->
-
-<!-- We can further simplify math by  -->
-
-## Qualimath
-
-An idea is qualitative, not quantitive. 
-
-For example, the idea of demoracy has similar qualities to the idea of liberalism and the opposite qualities of tyranny.  
-
-The idea of demoracy is closer to the idea of economy than the idea of a potato. There is no way to quantify the difference between democracy and potato, or democracy as a system of government versus democracy as freedom. 
-
-We thus assign qualities to our deconstructed equations. 
-
-<!-- This is also because waves are more qualitative than quantitative in nature.    -->
-
-<!-- To get around this shortage, we will use *the qualitative aspects of waves* that combines its qualities such as amplitude, oscillation, vector, wavelength, etc.  -->
-
-For example, in `Wave 1 + Wave 2 = Wave 3`, we assign qualities instead of numbers and processes so we can arrive at the general outcome faster. 
-
-The `+` and `=` represent the natural actions of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. 
-
-Likewise, human minds seem to be limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things.*
-
-{{< n n="*Bio Superphysics explains this to be caused by humans eating crude food such as meat which then crudifies the thinking process." >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Part 3, Article 13" >}}
+Imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these. On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 
+{{< /q >}}
 
 
-<!-- Since it deals with qualities instead of quantities, we can call it **Decon Notation** and its underlying system as **Quali-math**.  -->
+In this way, relationality is built into even the most elementary equations, such as those taught for kids. Rather, it is baked into Descartes' 2nd Rule of Motion which is about state-change instead of inertia. And so we can safely throw away everything that Einstein made.
 
-This solves measurement problems by allowing anyone to create a *subjective* measure. For example, assuming a predefined intuitive range of qualitative* values which *focus* on looks:
-
-
-``` elixir
-abominable, hideous, very ugly, ugly, unattractive, soso, pretty, beautiful, very beautiful, gorgeous, drop-dead gorgeous
-```
-
-{{< f f="*Qualities are subjective" >}}
+This is different from normal math which uses 'deltas'.
+- Those deltas compare the object with itself at different states.
+- This is because math focuses on the object itself, and not on the totality of the reality where that object is in.
 
 
-Then we can create equations:
+### Math Versus Qualimath
 
-``` elixir
-pretty + pretty = beautiful
-beautiful + 2(ugly) = ugly
-hideous + beautiful = ugly
-```
+For example, a basic math equation is `1 + 1 = 2`. This can be visualized by:
 
-This can then be “translated” into any language*:
+{{< img src="/graphics/physics/line.jpg" alt="Line" cap="Addition of distance leads to a new location, or the addition of self-instances leads to more instances" >}}
 
-``` elixir
-maganda + maganda = sobrang ganda
-kaakit-akit + kadiri = napaka-pangit
-dep + dep = rat dep
-```
+Notice how this is overly simplistic and does not expand on cause and effect. This is because math uses a constricted mindset that really relies on the Conservation of Ideas. 
 
-{{< n n="*This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic.*This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic." >}}
+This is why math-people can flip or transpose things. For example, `1 + 1 = 2` can be transposed to `2 = 1 + 1`. This is because the `=` sign "conserves` the values on both sides. 
 
+The problem is that this is for closed, finite things and does not work for things that cross over to the aethereal layer. For example, the mass of a subatomic particle might be:
 
-<!-- In a future post, we will expand this into chemical compounds computation, and in linear algebra to produce general qualitative outcomes instead of exact quantitative answers.  -->
+`1 + 1 = 2.0000123`
 
-A sample implementation is our use of [male and female charges](/material/principles/part-3/chapter-04/) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
+Math will be unable to explain where the `.0000123` came from, which Superphysics explains could come from the upper layers or by abnormal properties of the particle in certain situations. 
 
-This quali-math will make the most sense when you think of a spaceship using quantum teleportation that not only will use 2D space as in a car on Earth or a 3D space like an aircraft, but a space with 4 or 5 dimensions as time-multiverses and alternative universes, where normal math breaks down.
+To fix this, we turn `1 + 1 = 2` into qualimath by adding the necessary parts:
 
-For example, `1 + 1 = 2` might be true for this universe, but it might not be true for a different universe where `1 + 1 = 1` or where the conception of two ideas automatically merges them into one idea. In such a universe, it is the mind that splits itself into different perception-units in order to create the idea of numbers. This is the opposite in our universe, where the perceiving entity is one, and the it is the observed entities that are multiples and discrete. 
+{{< img src="/graphics/physics/linequali.jpg" alt="Line" cap="We qualimath a line. The addition of distance leads to a new location from local-motion (this is a Spinoza perspective), or the addition of self-instances leads to a new self (this is a David Hume perspective)" >}}
 
+Here, we expose that the focus of the equation or line is itself. The qualimath ratio is `State 1 :: State 2` which we deconstruct as:
 
-## The Double Colon as Mirror
+`(1 + 1) :: 2`
 
-To account for this mind-splitting behavior, <!--  make ratios and relationality permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter.
+This leads to the same output as the `1 + 1 = 2` of normal math, while imposing the following mental changes:
 
-{{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
-
-- The single colon is like a flexible ratio. You can think of this as a hazy mirror that lets the other side look a bit different 
-- The double colon is like a rigid equals sign. This is a clearer mirror but still not a perfect reflection.
-- The triple colon is a strict equality that involves the kinds of data*. This is a perfect mirror. 
+- `1 + 1` is a rigid ratio of `2`, not an equality. It means it is confined to specific layer and does not cross over to other layers. This is useful when it comes to constants 
+<!-- This makes it flexible and anti-dogma. -->
+- Both sides have the same importance
+- A straight-line equation would imply that the focus or dharma is on the line itself. A curved or wavy line would have its dharma harder to expose. 
+  - A straight-line equation is like a person who goes to McDonalds to order a cheeseburger specifically
+  - A curve equation is like a person who orders a cheeseburger then changes his order to a chicken meal then changes to a chicken burger as a compromise between his 2 previous orders. His dharma is neither burger nor chicken, but chicken burger   
 
 
-{{< n n="*In programming this is similar to =, ==, and ===. Notice how we are coercing math to follow computer programming" >}}
+{{< b >}}
+### The Ratio and Rigid Ratio
+
+The ratio signs are derived from programming which uses `=`, `==`, and `===`
+
+- `=` is assignment. This is similar to our `:` 
+- `==` is loose equality. This is similar to our `::`
+- `===` is strict equality. This is similar to our `=` 
+{{< /b >}}
+
+
+The concept of a *focus* is super important as it is the basis of:
+- [gravitational signatures](/material/principles/intro/chapter-02)
+- the hierarchy of the universe
+- Descartes' [First and Third Rules of Motion](/material/motion) 
+
+But for `1 + 1 = 2.0000123`, we use a different ratio:
+
+`(1 + 1) : 2.0000123`
+
+This means that the inequality is caused by something unknown. Provisionally, we fix this with:
+
+`(1 + 1) : 0.0000123 aether :: 2.0000123`
+
+The `0.0000123 aether` is a value from the aethereal layer that is affecting the relationship. 
+
+
+## A More Complex Example
+
+Let's say we want to convert `17 * 19 = 323` to Qualimath. This will create 3 states in our sandbox:
+
+- State 1 for `17`
+- Pseudo-state or action for `19`
+- State 2 for the `answer`
+
+We notate this as `(State 1 * action) :: State 2`, deconstructed as `(17 * 19) :: answer` 
+
+We use Egyptian Math, as Al-Khwarizmis algorithms, to deconstruct `17` (State 1) into its doubles as a ratio of the doubles of `19` (action).
 
 
 
-<!-- {{< box >}}
-### The Theory of Universal Relationality
+State 1: 17 | Action: 19 
+--- | ---
+**1** | **19**
+2 | 38
+4 | 76
+8 | 152
+**16** | **304**
 
-This ratio represents our theory of "universal relationality*" which is represented in reality by [gravitational relationality](/material/principles/part-2/chapter-04), among others.
-
-All philosophers say that everything is connected, even the sophistical pseudo-philosopher John Stuart Mill. 
-
-The ratio sign signifies this connection. 
-
-In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. This is because in Cartesian Physics, which is one basis of Superphysics, there is no void in Nature (i.e. God is everywhere in Spinoza-speak). 
-
-The lower dimensions like ours has more rigid ratios that lead to discrete and 'hardened' identities, while higher dimensions have more flexible ratios that lead to more malleable ones.
-
-Since the lower dimensions are more stubborn, they require more effort and energy to change than the upper dimensions. So it makes sense for enlightened entities to spend their energy going into the higher dimensions instead of wasting energy in the lower dimensions trying to convince crude-minded materialists that God exists or that the universe is conscious. 
+{{< youtube wciL_yCmZe8 >}}
 
 
-#### Update March 10, 2022
+We use State 1 as the focus and add the corresponding values in the `action`* to get State 2 as `323`**. 
 
-An example of the "hardness" of this dimension is the hardness of will of Russia in invading Ukraine and in Ukraine stubbornly not giving up, not caring about the chain-reaction that it causes to other nations and the planet. 
 
-In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will "soften" their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
+{{< b >}}
+*Action is a pseudo state of State 1 that allowed the change. Without that pseudo-state, then State 1 would stay close minded and not be open to change and therefore remain as State 1 instead of changing to State 2.  
 
-In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter.
-{{< /box >}} -->
+*`323` = `304` [as 5th row of State 2 or `16`] + `19` [as 1st row of State 1 or `1` to get `17`]
+<!-- We can add to this equation such as multiplying `323` by `2` to get `646`. -->
+{{< /b >}}
+
+
+Here, the smaller number is put before the larger. In case of multiple multipliers, the first 2 are combined then rearranged, then multiplied with the latter multipliers. 
+<!-- This smaller-to-higher arrangement is similar to  -->
+
+
+This use of states, foci, and arrangements greatly simplifies math instead of making it boring and burdensome.  
+
+
+{{< q a="Rene Descartes" c="Method of Reasoning and seeking Truth in the Sciences Simplified, Part 2" >}}
+Modern algebra has so many certain rules and formulas that it is full of confusion and obscurity that embarrasses instead of cultivating the mind.
+{{< /q >}}
 
 

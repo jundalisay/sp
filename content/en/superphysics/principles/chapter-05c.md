@@ -88,18 +88,16 @@ Many beliefs are imposed on us by our parents and by society during our childhoo
 The chief cause of our errors is in the prejudices of our childhood.
 {{< /q >}}
 
+
+A belief is a network of related ideas that the ego attaches itself to. This emphasizes the attachment of the ego which can be:
+- natural, as self-adoption, or
+- artificial, as imposition
+
 Gnómé is a strong belief that is adopted by self-reasoning. This is from the Positive Force and is opposed to indoctrination
 
 Indoctrination is the imposition of a belief through the Negative Force.
 
 Dogma is a systemic indoctrination.
-
-
-
-
-A belief is a network of related ideas that the ego attaches itself to. This emphasizes the attachment of the ego which can be:
-- natural, as self-adoption, or
-- artificial, as imposition
 
 An opinion is an idea or smaller set of ideas that the ego attaches to.   
 

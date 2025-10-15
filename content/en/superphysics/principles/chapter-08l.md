@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8k"
+heading: "Chapter 8l"
 title: "How Socratic Dialectics Changes Science into Superphysics"
 date: 2019-01-02
 weight: 527

@@ -1,5 +1,5 @@
 ---
-heading: Chapter 8l
+heading: Chapter 8m
 title: "The Corruption of Dialectics"
 date: 2015-08-17
 image: "/photos/psych/fail.jpg"

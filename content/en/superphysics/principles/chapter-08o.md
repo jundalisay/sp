@@ -1,5 +1,5 @@
 ---
-heading: Chapter 8n
+heading: Chapter 8o
 title: "What is Automated Natural Intelligence (ANI)?"
 # orig date: 2015-09-09
 # date: 2020-11-05

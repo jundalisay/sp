@@ -9,8 +9,7 @@ description: "Bashar answers Questions about Aliens"
 Physical Aliens | Description
 --- | ---
 Humans | Genetically manipulated homo erectus by the Anunnaki
-Anunnaki | Creators of humans, from Cygnus 
-Blue men | Compassionate race
+Anunnaki | Creators of humans, from Cygnus. They have blue blood
 Essassani | Hybrid of humans and grays, from Orion
 Grays | Genetically modified future humans, from Zeta Reticuli
 Lyrian | Evolved from Anunnaki
@@ -21,7 +20,28 @@ Sirians | These are the good aquatic aliens and source of RH negative blood type
 Tall Whites | Nordics
 
 
+
+
 Non-Physical Aliens | Description
 --- | ---
 Consciousness at Center of Milky Way | Creator of Precursors
 Light Beings | More advanced than Essassani
+Blue men | Compassionate race of energy beings 
+
+
+
+## Blue Men
+
+There are 2 versions: physical and energy
+
+The energy version is percieved as blue orbs of light.
+
+The physicalized versions are 7-8 feet tall.
+
+They live in 3 planets and are compassionate and peaceful. They rescue people from war situations. They allow rapid healing. 
+
+They take war dead and bring them to their peaceful planet.
+
+They were physical beings who found a way to become energy beings
+
+They are connected to Nature and interact with native indigenous tribes.

@@ -118,7 +118,7 @@ Moses' genealogy in the Torah was:
 The length of time between Israel and Moses was indicated by al-Mas'udi when he said:
 
 <!-- 44 45 -->
-{{< q >}}
+{{< q a="Al Masudi" >}}
 Israel entered Egypt with his children, the tribes, and their children, when they came to Joseph numbering 70 souls. The length of their stay in Egypt until they left with Moses for the desert was 220 years. During those years, the kings of the Copts, the Pharaohs, passed them on as their subjects one to the other."  
 {{< /q >}}
 
@@ -163,5 +163,3 @@ He had 1,400 horses stabled at his palace. This is the correct information. <!--
 In the days of Solomon, the Israelite state saw its greatest flourishing and their realm its widest extension. 
 
 <!-- 49 -->
-
-
