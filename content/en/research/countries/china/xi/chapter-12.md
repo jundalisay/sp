@@ -1,7 +1,7 @@
 ---
 heading: Chapter 12
 title: Towards a New Era of Ecological Civilization
-weight: 3
+weight: 254
 date: 2025-10-13
 description: ""
 c: "darkslategray"

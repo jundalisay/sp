@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1b
 title: 3. Historic transformation
-weight: 3
+weight: 6
 date: 2025-10-13
 description: ""
 c: "darkslategray"

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 15
 title: Socialism with Chinese Characteristics Enters a New Era
-weight: 3
+weight: 338
 date: 2025-10-13
 description: ""
 c: "darkslategray"
@@ -150,4 +150,3 @@ nose" of the main responsibility of administering the party and the party, so th
 for administering the party and the party will become mandatory requirements, and the habit and
 consciousness of administering the party strictly will be formed through long-term meritorious
 service.
-

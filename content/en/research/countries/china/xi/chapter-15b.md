@@ -1,3 +1,11 @@
+---
+heading: Chapter 15b
+title: Socialism with Chinese Characteristics Enters a New Era
+weight: 339
+date: 2025-10-13
+description: ""
+c: "darkslategray"
+---
 
 
 2. Undergoing revolutionary forging in the course of comprehensively administering the party strictly

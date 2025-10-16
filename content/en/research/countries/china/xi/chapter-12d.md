@@ -1,7 +1,7 @@
 ---
 heading: Chapter 12d
 title: "China's economic and social development problems"
-weight: 3
+weight: 263
 date: 2025-10-13
 description: ""
 c: "darkslategray"

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10b
 title: "Section 2: Promote the prosperity of socialist culture"
-weight: 3
+weight: 210
 date: 2025-10-13
 description: ""
 c: "darkslategray"

@@ -1,3 +1,11 @@
+---
+heading: Chapter 15d
+title: Socialism with Chinese Characteristics Enters a New Era
+weight: 357
+date: 2025-10-13
+description: ""
+c: "darkslategray"
+---
 
 
 3. Continuously improve the political ability of Party organizations and Party members and cadres at all levels

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 15g
 title: "Section 4: Building the world's most powerful party"
-weight: 3
+weight: 374
 date: 2025-10-13
 description: ""
 c: "darkslategray"

@@ -1,3 +1,11 @@
+---
+heading: Chapter 15f
+title: Socialism with Chinese Characteristics Enters a New Era
+weight: 368
+date: 2025-10-13
+description: ""
+c: "darkslategray"
+---
 
 
 3. there is no end to the self-revolution

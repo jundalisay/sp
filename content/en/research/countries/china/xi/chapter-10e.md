@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10e
 title: "Section 3: The leadership of ideological work"
-weight: 3
+weight: 221
 date: 2025-10-13
 description: ""
 c: "darkslategray"

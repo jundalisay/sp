@@ -1,7 +1,7 @@
 ---
 heading: Chapter 15h
 title: "Section 4: Building the world's most powerful party"
-weight: 3
+weight: 380
 date: 2025-10-13
 description: ""
 c: "darkslategray"
@@ -26,7 +26,7 @@ will be achieved. The masses of the people are the true heroes, the creators of 
 force for the advancement of social development. The will of the people determines the rise or fall
 of a political party. 
 
-Comrade Mao Zedong said that communists are seeds and the common people
+Mao Zedong said that communists are seeds and the common people
 are the land. Without the fertile soil of the common people, no matter how good the seeds are, they
 will not germinate, blossom, or bear fruit. The key to the continuous development and growth of the
 Communist Party of China in the past 100 years lies in closely integrating its political ideals,
@@ -109,4 +109,3 @@ the Communist Party of China, the world's largest party, will also build itself 
 political party in the world." Under the strong leadership of the CPC Central Committee with
 Comrade Xi Jinping at the core, the CPC is adhering to its original mission and full of pride and
 confidence, and is striding forward on the road of rejuvenating the party and strengthening the party.
-

@@ -1,7 +1,7 @@
 ---
-heading: Chapter 1b
-title: Socialism with Chinese Characteristics Enters a New Era
-weight: 3
+heading: Chapter 1c
+title: The Science of Socialism with Chinese Characteristics
+weight: 9
 date: 2025-10-13
 description: ""
 c: "darkslategray"

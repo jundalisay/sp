@@ -1,3 +1,11 @@
+---
+heading: Chapter 15e
+title: Socialism with Chinese Characteristics Enters a New Era
+weight: 362
+date: 2025-10-13
+description: ""
+c: "darkslategray"
+---
 
 
 

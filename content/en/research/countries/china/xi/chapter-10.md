@@ -1,17 +1,19 @@
 ---
 heading: Chapter 10
 title: Building a Socialist Cultural Power
-weight: 3
+weight: 205
 date: 2025-10-13
 description: ""
 c: "darkslategray"
 ---
 
 
-
-Comrade Xi Jinping pointed out: "Culture is the soul of a country and a nation. Culture rejuvenates
+{{< q a="Xi Jinping" >}}
+Culture is the soul of a country and a nation. Culture rejuvenates
 the country and prosper, culture is strong, and the nation is strong. Without a high degree of cultural
-self-confidence and cultural prosperity, there will be no great rejuvenation of the Chinese nation. " 1
+self-confidence and cultural prosperity, there will be no great rejuvenation of the Chinese nation. "
+{{< /q >}}
+
 To uphold and develop socialism with Chinese characteristics in the new era, we must strengthen
 cultural self-confidence, enhance cultural consciousness, achieve cultural self-improvement, adhere
 to the path of socialist cultural development with Chinese characteristics, stimulate the vitality of

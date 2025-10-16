@@ -1,7 +1,7 @@
 ---
 heading: Chapter 12c
 title: "Section 2: Firmly establish the concept of socialist ecological civilization"
-weight: 3
+weight: 260
 date: 2025-10-13
 description: ""
 c: "darkslategray"

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: Strive to make life better for the people
-weight: 3
+weight: 230
 date: 2025-10-13
 description: ""
 c: "darkslategray"

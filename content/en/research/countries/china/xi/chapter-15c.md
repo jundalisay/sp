@@ -1,3 +1,13 @@
+---
+heading: Chapter 15c
+title: Socialism with Chinese Characteristics Enters a New Era
+weight: 344
+date: 2025-10-13
+description: ""
+c: "darkslategray"
+---
+
+
 Section 2: The political building of the Party is the fundamental building of the Party
 
 The political building of the Party is the fundamental building of the Party and determines the
