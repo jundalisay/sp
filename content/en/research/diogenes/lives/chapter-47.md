@@ -54,7 +54,9 @@ This subsists as a kind of membrane, containing within itself bodies of every ki
 
 These whirl around, revolving according to the resistance of the centre.
 
- the circumambient membrane becomes thin, since bodies are without ceasing, uniting according to the impulse given by the vortex; and in this way the earth is produced, since these bodies which have once been brought to the centre remain there.
+The circumambient membrane becomes thin, since bodies are without ceasing, uniting according to the impulse given by the vortex.
+
+In this way, the earth is produced, since these bodies which have once been brought to the centre remain there.
 
 On the other side, there is produced another enveloping membrane which increases incessantly by the accretion of exterior bodies.
 
@@ -64,12 +66,12 @@ Some of these bodies thus enveloped re-unite again and form compounds, which are
 
 The orbit of the sun is the most distant one; that of the moon is the nearest to the earth; and between the two are the orbits of the other stars.
 
-All the stars are set on fire by the rapidity of their own motion; and the sun is set on fire by the stars; the moon has only a slight quantity of fire; the sun and the moon are eclipsed in …[126] in consequence of the inclination of the earth towards the south.
+All the stars are set on fire by the rapidity of their own motion.
+
+The sun is set on fire by the stars. The moon has only a slight quantity of fire. The sun and the moon are eclipsed in … in consequence of the inclination of the earth towards the south.
 
 In the north it always snows, and those districts are cold, and are often frozen.
 
-The sun is eclipsed but seldom; but the moon frequently, because her orbits are unequal.
+The sun is eclipsed but seldom. But the moon frequently, because her orbits are unequal.
 
 Leucippus also admits that the production of worlds, their increase, their diminution, and their destruction, depend on a certain necessity, the character of which he does not precisely explain.
-
-

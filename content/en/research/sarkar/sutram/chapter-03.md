@@ -66,12 +66,13 @@ Puruśottama is:
 
 Kosa | Loka | Purusa witness
 --- | --- | ---
-Hirańyamaya | Tapar | Virát́a
-Vijiṋánamaya | Janar | Virát́a
-Atimánasa | Mahar | Virát́a
-Manomaya | Svar | Hirańyagarbha
-Kámamaya | Bhúr | Iishvara
+Hirańyamaya causal cosmic mind | Tapar | Virát́a
+Vijiṋánamaya subliminal cosmic mind | Janar | Virát́a
+Atimánasa supra-mental cosmic mind | Mahar | Virát́a
+Manomaya subtle cosmic mind | Svar | Hirańyagarbha
+Kámamaya crude cosmic mind | Bhúr | Iishvara
 
+<!-- Hiranyaloka yogananda -->
 
 The cognitive puruśa (knower) of Brahma’s hirańyamaya kośa [causal cosmic mind], is called Virát́a or Vaeshvánara, and the loka concerned is called the taparloka.
 

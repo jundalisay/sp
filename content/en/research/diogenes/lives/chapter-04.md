@@ -19,7 +19,7 @@ tags: ['Pre-Socratics']
 
 “All things were mixed up together; then Mind came and arranged them all in distinct order.” 
 
-On which account he himself got the same name of Mind. And Timon speaks thus of him in his Silli:—
+On which account he himself got the same name of Mind. Timon speaks of him in his Silli:
 
 They say too that wise Anaxagoras
 Deserves immortal fame; they call him Mind,
@@ -48,29 +48,93 @@ But Apollodorus, in his Chronicles says that he flourished in the seventieth Oly
 He began to study philosophy at Athens, in the archonship of Callias, being twenty years of age, as Demetrius Phalereus tells us in his Catalogue of the Archons, and they say that he remained at Athens thirty years.
 
 
-<sup>4</sup> He asserted that the sun was a mass of burning iron, greater than Peloponnesus (that some attribute this doctrine to Tantalus), and that the moon contained houses, and also, hills and ravines: and that the primary elements of everything were similarities of parts; for as we say that gold consists of a quantity of grains combined together, so too is the universe formed of a number of small bodies of similar[60] parts. 
+<sup>4</sup> He asserted the following.
 
-He further taught that Mind was the principle of motion: and that of bodies the heavy ones, such as the earth, occupied the lower situations; and the light ones, such as fire, occupied the higher places, and that the middle spaces were assigned to water and air.
+The sun was a mass of burning iron, greater than Peloponnesus (that some attribute this doctrine to Tantalus)
 
-Thus that the sea rested upon the earth, which was broad, the moisture being all evaporated by the sun. And he said that the stars originally moved about in irregular confusion, so that at first the pole star, which is continually visible, always appeared in the zenith, but that afterwards it acquired a certain declination. And that the milky way was a reflection of the light of the sun when the stars did not appear. The comets he considered to be a concourse of planets emitting rays: and the shooting stars he thought were sparks as it were leaping from the firmament. The winds he thought were caused by the rarification of the atmosphere, which was produced by the sun. Thunder, he said, was produced by the collision of the clouds; and lightning by the rubbing together of the clouds. Earthquakes, he said, were produced by the return of the air into the earth. All animals he considered were originally generated out of moisture, and heat, and earthy particles: and subsequently from one another. And males he considered were derived from those on the right hand, and females from those on the left.
+The moon contained houses, hills and ravines
 
-<sup>5</sup> They say, also, that he predicted a fall of the stones which fell near Ægospotami, and which he said would fall from the sun: on which account Euripides, who was a disciple of his, said in his Phaethon that the sun was a golden clod of earth. He went once to Olympia wrapped in a leathern cloak as if it were going to rain; and it did rain. And they say that he once replied to a man who asked him whether the mountains at Lampsacus would ever become sea, “Yes, if time lasts long enough.”
+The primary elements of everything were similarities of particles
+- Gold consists of grains combined together, so too is the universe formed of a number of small bodies of similar particles. 
+
+Mind was the principle of motion
+- The heavy bodies, such as the earth, occupied the lower situations
+- The lightweight ones, such as fire, occupied the higher places
+- The middle spaces were assigned to water and air
+
+Thus, the sea rested on the earth, which was broad, the moisture being all evaporated by the sun. 
+
+The stars originally moved about in irregular confusion, so that at first the pole star, which is continually visible, always appeared in the zenith, but that afterwards it acquired a certain declination.
+
+The milky way was a reflection of the light of the sun when the stars did not appear. 
+
+The comets were a concourse of planets emitting rays.
+
+The shooting stars were sparks as it were leaping from the firmament. 
+
+The winds he thought were caused by the rarification of the atmosphere, which was produced by the sun. 
+
+Thunder was produced by the collision of the clouds.
+
+Lightning by the rubbing together of the clouds.
+
+Earthquakes were produced by the return of the air into the earth.
+
+All animals were originally generated out of moisture, and heat, and earthy particles subsequently from one another. 
+
+Males he considered were derived from those on the right hand, and females from those on the left.
 
 
-<sup>6</sup> He was asked why he was born, he said:
+<sup>5</sup> He predicted a fall of the stones which fell near Ægospotami, and which he said would fall from the sun.
 
-“For the contemplation of the sun, and moon, and heaven.” 
+on which account Euripides, who was a disciple of his, said in his Phaethon that the sun was a golden clod of earth.
 
-A man once said to him, 
+He went once to Olympia wrapped in a leathern cloak as if it were going to rain and it did rain.
 
-“You have lost the Athenians;” “No,” said he, “they have lost me.” When he beheld the tomb of Mausolus, he said, “A costly tomb is an image of a petrified estate.” And he comforted a man who was grieving because he was dying in a foreign land, by telling him, “The descent to hell is the same from every place.”
+{{< r a="Someone" >}}
+Will the mountains at Lampsacus would ever become sea?
+{{< /r >}}
+
+
+{{< l a="Anaxagoras" >}}
+Yes, if time lasts long enough.
+{{< /l >}}
+
+
+{{< r a="Someone" >}}
+<sup>6</sup> Why were you born?
+{{< /r >}}
+
+{{< l a="Anaxagoras" >}}
+For the contemplation of the sun, and moon, and heaven.
+{{< /l >}}
+
+
+{{< r a="Someone" >}}
+You have lost the Athenians
+{{< /r >}}
+
+{{< l a="Anaxagoras" >}}
+No, they have lost me
+{{< /l >}}
+
+{{< l a="Anaxagoras" >}}
+[looking at the tomb of Mausolus] A costly tomb is an image of a petrified estate.
+{{< /l >}}
+
+He comforted a man who was grieving because he was dying in a foreign land, by telling him, “The descent to hell is the same from every place.”
 
 
 <sup>7</sup> According to Phavorinus in his Universal History, he was the first to say that the Poem of Homer was composed in praise of virtue and justice.
 
 Metrodorus, of Lampsacus, who was a friend of his, adopted this opinion, and advocated it energetically, and Metrodorus was the first who seriously studied the natural philosophy developed in the writings of the great poet.
 
-<sup>8</sup> Anaxagoras was also the first man who ever wrote a work in prose; and Silenus, in the first book of his Histories, says, that in the archonship of Lysanias a large stone fell from heaven; and that in reference to this event Anaxagoras said, that the whole heaven was composed of stones, and that by its rapid revolutions they were all held together; and when those revolutions get slower, they fall down.
+<sup>8</sup> Anaxagoras was also the first man who ever wrote a work in prose.
+
+Silenus, in Book 1 of his Histories, says, that:
+- in the archonship of Lysanias a large stone fell from heaven
+- in reference to this event Anaxagoras said, that the whole heaven was composed of stones, and that by its rapid revolutions they were all held together; and when those revolutions get slower, they fall down.
+
 
 <sup>9</sup> Of his trial there are different accounts given. For Sotion, in his Succession of the Philosophers, says, that he was persecuted for impiety by Cleon, because he said that the sun was a fiery ball of iron. 
 
@@ -78,11 +142,15 @@ His pupil Pericles defended him. Yet he was fined 5 talents and banished.
 
 But Satyrus, in his Lives, says that it was Thucydides by whom he was impeached, as Thucydides was of the opposite party to Pericles; and that he was prosecuted not only for impiety, but also for Medism; and that he was condemned to death in his absence.
 
-When news was brought him of two misfortunes—his condemnation, and the death of his children; concerning the condemnation he said, “Nature has long since condemned both them and me.” But about his children, he said, “I knew that I had become the father of mortals.” 
+When news was brought him of two misfortunes—his condemnation, and the death of his children; concerning the condemnation he said, “Nature has long since condemned both them and me.” 
+
+But about his children, he said, “I knew that I had become the father of mortals.” 
 
 Some, however, attribute this saying to Solon, and others to Xenophon. And Demetrius Phalereus, in his treatise on Old Age, says that Anaxagoras buried them with his own hands. 
 
-But Hermippus, in his Lives, says that he was thrown into prison for the purpose of being put to death: but that Pericles came forward and inquired if any one brought any accusation against him respecting his course of life. And as no one alleged anything against him: “I then,” said he, “am his disciple: do not you then be led away by calumnies to put this man to death; but be guided by me, and release him.” And he was released. But, as he was indignant at the insult which had been offered to him, he left the city.
+But Hermippus, in his Lives, says that he was thrown into prison for the purpose of being put to death: but that Pericles came forward and inquired if any one brought any accusation against him respecting his course of life. 
+
+And as no one alleged anything against him: “I then,” said he, “am his disciple: do not you then be led away by calumnies to put this man to death; but be guided by me, and release him.” And he was released. But, as he was indignant at the insult which had been offered to him, he left the city.
 
 
 But Hieronymus in book 2 of his Miscellaneous Commentaries says that Pericles produced him before the court.
@@ -94,10 +162,13 @@ Some people think that he was very hostile to Democritus, because he did not suc
 
 <sup>10</sup> After having gone to Lampsacus, he died in that city.
 
-And it is said, that when the governors of the city asked him what he would like to have done for him, he replied, “That they would allow the children to play every year during the month in which he died.” 
+When the governors of the city asked him what he would like to have done for him, he replied, 
+
+{{< l a="Anaxagoras" >}}
+Allow the children to play every year during the month in which he died.
+{{< /l >}}
 
 This custom is kept up even now. And when he was dead, the citizens of Lampsacus buried him with great honours, and wrote this epitaph on him:
-
 
 Here Anaxagoras lies, who reached of truth
 The farthest bounds in heavenly speculations.

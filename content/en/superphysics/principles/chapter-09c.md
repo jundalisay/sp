@@ -9,7 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-draft: true
 ---
 
 
@@ -20,10 +19,63 @@ But how do we actually get those feelings and ideas?
 
 Chapter 1 explained that a mind is a node where other wave-feelings and wave-nodes go through. 
 
-Operationally, these nodes manifest as vortices the waves go through vortices 
+
+{{< i s="/graphics/physics/exist.jpg" a="Chakra is inbound vortex" >}}
+
+Operationally, these nodes manifest as vortices that allow other waves and vortices to go through them.
 
 
-Where do these waves come from 
+In the physical domain, space takes the form of slices that are separated by the aether which manifests as either:
+- dark energy or macro aetherspace
+- atomic space or aetherspace
+- gluon field or micro aetherspace
 
+A vortex that lets the aether into a spacetime slices is called an inbound vortex. 
+
+This is called:
+- chakra in Hinduism
+- dantian in Taoism
+- a black hole in Physics
+
+<!-- , Xià Dāntián): at the crossing of the horizontal line behind the Ren-6 acupoint and vertical line above the perineum, which is also called "the golden stove" (金炉 pinyin: Jīn lú) or the namesake "elixir-of-life field" proper, where the process of developing the elixir by refining and purifying essence (jing) into vitality (qi) begins.[7]
+, Zhōng Dāntián): at the level of the heart, which is also called "the crimson palace", associated with storing spirit (shen) and with respiration and health of the internal organs, in particular the thymus gland. This cauldron is where vitality or qi is refined into shen or spirit.[8]
+, Shàng Dāntián): at the forehead between the eyebrows or third eye, which is also called "the muddy pellet", associated with the pineal gland. This cauldron is where shen or spirit is transmuted into wu wei or emptiness -->
+
+A vortex that lets the contents of a slice exit and go to other spacetime slices is called an inbound vortex. 
+
+This is called a portal to other dimensions.
 
 {{< i s="/graphics/super/chakra.jpg" a="Chakra is inbound vortex" >}}
+
+Each chakra or black hole has a specific configuration that detemines that energies and particles, as the feelings and ideas of the Supreme, for that spot of space.
+- a strong, large black hole will result in large or bright galaxy
+- a strong, large chakra will result in a strong behavior in a person or animal
+
+
+There are 7 chakras listed by the Hindus, and 3 by the Taoists.
+
+Number | Name | Chinese 
+--- | --- | ---
+1 | Base |  
+2 | Sex |  
+3 | Navel | Lower dantian 下丹田  
+4 | Heart | Middle dantian 中丹田
+5 | Throat | 
+6 | Third Eye | Upper dantian 上丹田
+7 | Crown | 
+
+
+Each chakra lets a specific range of propensities flow through from potentiality to actuality. 
+
+
+
+Chakra | Propensities
+--- | --- 
+Base |  
+Sex |  
+Navel | 
+Heart | 
+Throat | 
+Third Eye |
+Crown | 
+
