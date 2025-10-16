@@ -30,6 +30,16 @@ Mass Number | Nucleon Number
 Atomic Mass (AMU) | Atomic Electromagnetic Potential 
 
 
+The other substances are:
+- atoms as the aetherspace
+- crystal structure
+
+<!-- Atoms are the substance of matter. -->
+
+{{< i s="/graphics/meta/space.jpg" a="Extension" c="The philosophical extension is the metaphysical space occupied by a physical object in the mind. This is why the aetherspace facilitates the expanmsion of the universe, called rarefaction by Descartes" >}}
+
+
+
 ## Solidity and Persistence
 
 Physics believes that the solidity of matter is from the electromagnetic force simply because the electrons are the ones repeling each other. 

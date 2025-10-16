@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1f"
-title: "Vortices, Ideas, and Reality"
+title: "Idea, Mind, and Life"
 date: 2024-12-28
 # 2020-01-04
 weight: 15
@@ -23,6 +23,8 @@ In some areas, many waves intersect from various angles to create nodes. These a
 {{< i s="/graphics/super/waves.jpg" a="Waves and Nodes" >}}
 
 
+## Diversity of Waves
+
 Simple ideas have a few intersecting waves, whereas complex ideas have a lot especially if those waves come from diverse angles. 
 
 This is why diversity is the law of Nature. 
@@ -31,16 +33,24 @@ This is why diversity is the law of Nature.
 Diversity is the inherent tendency of the Supreme Operative Principle.
 {{< /q >}}
 
-The collapse of Communism, and the decline of Japan and South Korea which are against foreign immigrants, show plainly the violation of diversity.  
-
-We attribute the chaos in ethnically diverse countries such as India to the violation of the hierarchy the 5 elements, where the crude material element is made to dominate the subtle aether element. 
-
-This happens when materialism through the lower chakras gains dominance over spirituality (aether) and intellect (radiant stratum) of the upper chakras.
 
 
-## Life and Perception
+The violation of diversity has resulted in:
+- the collapse of Communism
+- the decline of Japan and South Korea which are against foreign immigrants
 
-Nodes made up of crude waves become crude ideas which eventually become physical things. 
+The encouragement of diversity has resulted in the growth and strength of the United States and Europe. 
+
+<!-- We attribute the chaos in ethnically diverse countries such as  -->
+
+India was also ethnically diverse, but had a disadvantage as Vedic dogma which violated the dynamic diversity by instituting the rigid caste system.
+
+This belief system stifles the natural dynamics of waves, making them more crude and static, leading to many social problems. 
+
+
+## How the Non-Living Gains Life 
+
+Life is an effect of the Positive Force just as non-life is an effect of the Negative.
 
 As a physical thing becomes more complex, it naturally becomes larger and develops gaps.
 - These gaps need to be filled by the subtler waves until they form a subtle node in a larger crude node.
@@ -50,6 +60,13 @@ This becomes a simple mind in a physical organism as a living thing.
 Therefore:
 - a physical thing is a large node made up of crude waves
 - a living mind is a large node made up of subtle waves 
+
+Crude waves that bunch up together become nodes that manifest as crude ideas.
+- Further crudification will eventually turn them into physical things. 
+
+Subtle waves that bunch up together become nodes that manifest as living minds.
+- The crudification of these will eventually turn them into living beings. 
+
 
 Perception occurs when these nodes of minds interact with each other and with other nodes as ideas or things. 
 
@@ -67,11 +84,52 @@ A living node, as a physical organism, on the other hand, can express more since
 <!-- A perceiving mind within that Supreme Mind is also a disturbance, as a node, that encounters other disturbances.  -->
 
 
-Cartesian Physics calls nodes as spinning vortices. 
+
+## Spinning Vortices
+
+Cartesian Physics calls nodes as spinning vortices, and idea from Anaxagoras that mirrors the Hindu idea of chakras. 
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Part 3" >}}
 The Earth and the other planets are carried along by a common vortex, with the Sun at its center and move in the motion of the vortex.
 {{< /q >}}
+
+{{< q a="Leucippus" >}}
+The elements, and the worlds which are derived from them, are infinite, and are dissolved again into them.
+
+The worlds are produced in this way: many bodies, of various kinds and shapes, are separated from the infinite, into a vast vacuum.
+
+They are then collected together, produce one vortex.
+
+This makes them dash against one another, and whirling around in every direction.
+
+This separates them so that like attaches to like.
+
+The soon stop spinning because:
+- they are all of equal weight
+- they are so plentiful
+
+The thin ones depart into the outer vacuum, as if they bounded through.
+
+The others remain behind, becoming entangled with one another. 
+
+They run together and produce a spherical shape.
+
+This subsists as a kind of membrane, containing within itself bodies of every kind.
+
+These whirl around, revolving according to the resistance of the centre.
+
+The circumambient membrane becomes thin, since bodies are without ceasing, uniting according to the impulse given by the vortex.
+
+In this way, the earth is produced, since these bodies which have once been brought to the centre remain there.
+
+On the other side, there is produced another enveloping membrane which increases incessantly by the accretion of exterior bodies.
+
+As it is itself animated by a circular movement, drags with it, and adds to itself, everything it meets with.
+
+Some of these bodies thus enveloped re-unite again and form compounds, which are at first moist and clayey, but soon becoming dry, and being drawn on in the universal movement of the circular vortex, they catch fire, and constitute the substance of the stars. 
+{{< /q >}}
+
+
 
 
 In a metaphysical view, everything is a vortex:
@@ -179,12 +237,13 @@ The distubances are caused by 2 Forces of Positive and Negative. Free will and s
 
 ## Defintions: Idea, Reality, Alternate Reality, Life, Perception
 
-An idea is a discrete metaphyiscal object, as a node in the aether.
+An **idea** is a discrete metaphysical object, as a node in the aether.
 
-Reality is the structure of perception-relations between nodes.
+**Reality** is the structure of perception-relations between nodes.
 
-Alternate Reality is the parallel structure of perception-relations between nodes that coexists with the current reality.
+**Alternate Reality** is the parallel structure of perception-relations between nodes that coexists with the current reality.
 
-Life is the state where a mind can express independently of the physical aspects of the universe, by having more subtle waves from the Positive Force.
+**Life** is the state where a mind can express independently of the physical aspects of the universe, by having more subtle waves from the Positive Force.
 
-Perception is the reaction of a node through its configuration which has some affinity to the incoming wave-feeling or idea-object.
+**Perception** is the reaction of a node through its configuration which has some affinity to the incoming wave-feeling or idea-object.
+

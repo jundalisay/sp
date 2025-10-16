@@ -8,41 +8,59 @@ c: "darkslategray"
 ---
 
 
-Scientifically judging the historical orientation and formulating lines, principles, and policies based on this is the valuable experience accumulated by the CPC's long-term struggle. 
+<!-- Scientifically judging the historical orientation and formulating lines, principles, and policies based on this is the valuable experience accumulated by the CPC's long-term struggle. 
 
-Since the 18th National Congress of the Communist Party of China, in the face of profound changes in the conditions of the world, the country and the party, the Party Central Committee with Comrade Xi Jinping as the core has led the whole party and the people of all ethnic groups throughout the country to overcome difficulties and struggle, opening a new era of socialism with Chinese characteristics.
+Since the 18th National Congress of the Communist Party of China, in the face of profound changes in the conditions of the world, the country and the party, the Party Central Committee with Comrade 
 
-The entry of socialism with Chinese characteristics into a new era scientifically marks the new historical orientation of the primary stage of socialism in China, gives the party's historical mission, theoretical follow-up, goals and tasks a new connotation of the times, and provides the coordinates of the times for deeply grasping Xi Jinping Thought on Socialism with Chinese Characteristics in the New Era.
+Xi Jinping has led the whole party and the people of all ethnic groups throughout the country to overcome difficulties and struggle, opening a new era of socialism with Chinese characteristics.
+
+The entry of socialism with Chinese characteristics into a new era scientifically marks the new historical orientation of the primary stage of socialism in China, gives the party's historical mission, theoretical follow-up, goals and tasks a new connotation of the times, and provides the coordinates of the times for deeply grasping Xi Jinping Thought on Socialism with Chinese Characteristics in the New Era. -->
 
 
 ## Section 1: The basic basis for socialism with Chinese characteristics to enter a new era
 
-The entry of socialism with Chinese characteristics into a new era is based on the characteristics of different stages in the process of socialist social development, marking a new stage in the process of the development of socialism with Chinese characteristics, and reflecting the new progress of the cause of socialism with Chinese characteristics. Comrade Xi Jinping pointed out: "The new era is a new era of socialism with Chinese characteristics, not some other new era."1
+<!-- The entry of socialism with Chinese characteristics into a new era is based on the characteristics of different stages in the process of socialist social development, marking a new stage in the process of the development of socialism with Chinese characteristics, and reflecting the new progress of the cause of socialism with Chinese characteristics. 
 
-The new era is one stage in the initial stage of socialism, not any other stage. Socialism with Chinese characteristics has entered a new era with a solid historical foundation and sufficient practical basis.
+Comrade Xi Jinping pointed out: "The new era is a new era of socialism with Chinese characteristics, not some other new era."1 -->
+
+The new era is a stage in the initial stage of socialism, not any other stage.
+
+<!-- Socialism with Chinese characteristics has entered a new era with a solid historical foundation and sufficient practical basis. -->
 
 
 ### 1. Solid historical foundation
 
-Socialism with Chinese characteristics was founded in a new period in the history of reform and opening up, and was built on the basis of the long-term struggle of the Communist Party of China in the past century, and its origins in ideology, theory and practice can be traced back even further. 
+<!-- Socialism with Chinese characteristics (SWCC) was founded in a new period in the history of reform and opening up, and was built on the basis of the long-term struggle of the Communist Party of China in the past century, and its origins in ideology, theory and practice can be traced back even further. 
 
-When combing and reviewing the 500-year history of world socialism, Comrade Xi Jinping stressed that socialism with Chinese characteristics did not fall from the sky, but was a fundamental achievement achieved by the Party and the people through thousands of hardships and at various costs, with profound historical origins and practical foundations. The entry of socialism with Chinese characteristics into a new era was realized in the continuous struggle of several generations of Chinese communists to establish a new China, open a new era, cross the new century, and stand at a new starting point.
+When combing and reviewing the 500-year history of world socialism, Comrade  -->
 
-The Chinese Communists, mainly represented by Comrade Mao Zedong, integrated the basic tenets of Marxism-Leninism with the concrete practice of the Chinese revolution, founded Mao Zedong Thought, united and led the whole party and the people of all ethnic groups throughout the country, completed the new democratic revolution, established New China, established the basic socialist system, successfully realized the most profound and greatest social reform in Chinese history, and laid the fundamental political prerequisite and institutional foundation for all development and progress in contemporary China. In the process of exploring the road of socialist construction in China, although there have been twists and turns, the original theoretical achievements and tremendous achievements made by the Party in socialist revolution and construction have provided valuable experience, theoretical preparation and material foundation for the creation of socialism with Chinese characteristics in the new historical period.
+Xi stressed that Socialism with Chinese characteristics (SWCC) 
 
-After the Third Plenary Session of the 11th CPC Central Committee, the Chinese Communists, mainly represented by Comrade Deng Xiaoping, united and led the whole party and the people of all ethnic groups throughout the country to profoundly sum up the positive and negative experiences of China's socialist construction, draw on the historical experience of socialism in the world, creatively answer the major questions of what socialism is and how to build socialism, create Deng Xiaoping Theory, and make a decision to shift the focus of the work of the party and the state to economic construction. The historic policy decision to implement reform and opening up has profoundly revealed the nature of socialism, established the basic line for the initial stage of socialism, clearly proposed to follow its own path and build socialism with Chinese characteristics, scientifically answered a series of basic questions on building socialism with Chinese characteristics, formulated a development strategy for basically realizing socialist modernization in three steps by the middle of the 21st century, and successfully opened a new period of socialism with Chinese characteristics.
+was a fundamental achievement achieved by the Party and the people through thousands of hardships and at various costs, with profound historical origins and practical foundations. The entry of socialism with Chinese characteristics into a new era was realized in the continuous struggle of several generations of Chinese communists to establish a new China, open a new era, cross the new century, and stand at a new starting point.
 
-After the Fourth Plenary Session of the 13th CPC Central Committee, the Chinese Communists with
-Comrade Jiang Zemin as the main representative united and led the whole party and the people of
+Mao integrated the basic tenets of Marxism-Leninism with the Chinese revolution and founded Mao Zedong Thought.
+
+<!-- united and led the whole party and the people of all ethnic groups throughout the country, completed the new democratic revolution, established New China, established the basic socialist system, successfully realized the most profound and greatest social reform in Chinese history, and laid the fundamental political prerequisite and institutional foundation for all development and progress in contemporary China. In the process of exploring the road of socialist construction in China, although there have been twists and turns, the original theoretical achievements and tremendous achievements made by the Party in socialist revolution and construction have provided valuable experience, theoretical preparation and material foundation for the creation of socialism with Chinese characteristics in the new historical period. -->
+
+After the Third Plenary Session of the 11th CPC Central Committee, Deng Xiaoping created Deng Xiaoping Theory.
+
+ <!-- united and led the whole party and the people of all ethnic groups throughout the country to profoundly sum up the positive and negative experiences of China's socialist construction, draw on the historical experience of socialism in the world, creatively answer the major questions of what socialism is and how to build socialism, create , and make a decision to shift the focus of the work of the party and the state to economic construction. The historic policy decision to implement reform and opening up has profoundly revealed the nature of socialism, established the basic line for the initial stage of socialism, clearly proposed to follow its own path and build socialism with Chinese characteristics, scientifically answered a series of basic questions on building socialism with Chinese characteristics, formulated a development strategy for basically realizing socialist modernization in three steps by the middle of the 21st century, and successfully opened a new period of socialism with Chinese characteristics. -->
+
+After the Fourth Plenary Session of the 13th CPC Central Committee, Jiang Zemin created three represents.
+
+<!--  as the main representative united and led the whole party and the people of
 all nationalities throughout the country, adhered to the party's basic theory and basic line, deepened
 their understanding of what socialism is, how to build socialism, what kind of party to build, and
-how to build the party, and formed the important thinking of "three represents." In the face of the
+how to build the party, and formed the important thinking of "." 
+
+In the face of the
 severe test of the very complicated situation at home and abroad and the serious twists and turns of
 socialism in the world, we have defended socialism with Chinese characteristics, established the
 reform objectives and basic framework of the socialist market economic system, established the
 basic economic system and distribution system in the initial stage of socialism, opened up a new
 situation of comprehensive reform and opening up, promoted the new great project of party building,
-and successfully pushed socialism with Chinese characteristics into the 21st century.
+and successfully pushed socialism with Chinese characteristics into the 21st century. -->
+
 After the 16th CPC National Congress, the Chinese Communists, mainly represented by Comrade
 Hu Jintao, united and led the whole party and the people of all ethnic groups throughout the country,
 persistently took Deng Xiaoping Theory and the important thinking of the "three represents" as their
@@ -159,12 +177,10 @@ stronger in the revolutionary forging, and so on.
 The changes promoted by the Party Central Committee with Comrade Xi Jinping at the core are of
 pioneering significance in the history of the Party, the development of New China and the
 development of the Chinese nation.
+
 The historic achievements and changes since the 18th National Congress of the Communist Party
 of China have covered all aspects from productive forces to production relations, from the economic
 base to the superstructure, promoted the realization of the historic development and historic leap of
 society as a whole, greatly changed the face of the Communist Party of China, the country, the
 people, the army, and the Chinese nation, and pushed socialism with Chinese characteristics into a
 new historical stage.
-
-
-
