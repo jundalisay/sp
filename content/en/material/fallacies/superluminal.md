@@ -14,7 +14,7 @@ icon: "Juan"
 
 The previous posts explained how Modern Physics is based on Einstein's dogmas that have hampered Physics since 1905.
 
-1. [The Simulataneity of Time](/material/fallacies/simultaniety/) wrongly makes mental time into a physical object
+1. [The Simultaneity of Time](/material/fallacies/simultaniety/) wrongly makes mental time into a physical object
 2. [Relativity](/material/fallacies/arrow-of-time/) makes time electromagnetic -- this is why physicists absurdly say that photons do not experience time, as if they were alive
 3. [Quanta](https://www.youtube.com/shorts/2CbtZVQjiLg) as packets of energy makes electromagnetism superior to aethereal vibrations
 
@@ -22,9 +22,14 @@ The previous posts explained how Modern Physics is based on Einstein's dogmas th
 
 Einstein's scam Relativity is the reason why Modern Physics imposes a limiting dogma that nothing travels faster than light. 
 
-This is because it cancelled the aether which is the mechanism behind time and therefore speed. 
+This is because it cancelled the aether which is the mechanism behind time and therefore speed. This is because the aether is the substance of ideas, feelings, and the abstract mind or soul that has those ideas and feelings. Time is from change and change is from perception which is a mental activity. 
 
-This dogma is then imposed all throughout Modern Physics to create wacky theories to coerce Nature to conform to human dogma:
+Idea is the unit of measure in the measeurement problem and so the aether fixes all of the biggest problems in Modern Physics.
+
+
+## Bad Effects of Einstein's Fallacies: Backward Physics
+
+But the Einstein dogma is imposed all throughout Modern Physics to create wacky theories to coerce Nature to conform to human dogma:
 
 
 1. Early-Universe Physics for the Hubble Tension 
