@@ -18,7 +18,7 @@ icon: "Superphysics"
 
 Chapter 1 explained that reality is divided into the Physical and Metaphysical Domains. 
 
-We defined reality as the metaphysical structure that forms from the waves emanated by nodes or vortices on each other. This is similar to an entity-relationship diagram.
+We defined **reality** as the metaphysical structure that forms from the waves emanated by nodes or vortices on each other. This is similar to an entity-relationship diagram.
 
 {{< i s="/graphics/meta/er.jpg" a="ER Diagram" c="" >}}
 
@@ -42,6 +42,17 @@ Rank | Name | Greek | Hindu | Chinese | Vietnamese
 5 | Material | Earth | Pritvi | 金 (solid metal) | Kim
 
 
+This is like subdividing a meter-reality-ruler  into centimeters so that the finer details of reality can be accounted for. 
+
+These Elements are further subdivided into Subelements to get an even more detailed view. 
+- This is like subdividing centimeters into millimeters. 
+
+For example, the Fire Element (Electromagnetism) is divided into:
+- the light subelement to explain colors
+- the heat subelement to explain heat
+- the virtual photon subelement to explain magnetism
+
+
 Currently, Modern Physics knows only 3 of these 5 Elements as the Strong, Weak, and Electromagnetic Forces. 
 
 Superphysics | Physics 
@@ -58,21 +69,30 @@ This is because physicists impose a limitation on themselves to ignore or avoid 
 
 ## Layers with a Hierarchy
 
-Section 1b explained that the metaphysical is superior to the physical since physicality itself is the effect of metaphysicality. 
+Nowadays, people associate the word "elements" with the chemical elements in the periodic table. 
 
-This manifests in the 5 Elements as the upper Elements being superior to the lower ones. 
+This is why we will use the word "layer" instead of elements for the 5 factors or components of Nature. 
+
+An analogy is a Photoshop image which is made up layers that are on top of each other that creates a full picture.
+
+{{< img src="/graphics/super/layers.jpg" alt="Layers in an image" cap="Reality is made up of 5 Layers which the ancients called the 5 Elements" >}}
+
+The layers in Photoshop have a hierarchy where one layer is on top of, or covers the ones below it. 
+
+Similarly, the 5 layers of Existence have a hierarchy wherein the highest aethereal layer covers all. This makes matter the most inferior layer.
+
+{{< i s="/graphics/super/domains.svg" a="The 5 Layers of Superphysics" >}}
+
 
 For example, Modern Physics tells us that:
 - gravity can affect light, but light cannot affect gravity 
 - electromagnetism can affect iron, but ordinary iron does not exert electromagnetism
 - a mass of iron can exert a small amount of gravity, but not enough to affect light 
 
-It follows that the forces have a hierarchy, wherein:
+This exposes a natural hierarchy, wherein:
 - gravity is superior to light (electromagnetism)
 - electromagnetism is superior to matter (strong force)
 - dark energy as the atomic space (which we call the aetherspace) is superior to gravity
-
-{{< i s="/graphics/super/domains.svg" a="The 5 Layers of Superphysics" >}}
 
 
 <!-- These layers are the effect of the fight between the Positive and Negative Forces to be discussed in Chapter 3. We can say that reality is an arena for the fight between them.
@@ -84,24 +104,22 @@ Both creation and discovery are part of existence or reality -- you create somet
 {{< i s="/graphics/super/operative.svg" a="The 5 Layers of Superphysics" c="The 5 Layers, 5 Elements, 5 Strata are similar but different. The 5 Layers are for Physical Phenomena. The 5 Elements are for Living Phenomena. The 5 Strata are for Mental and Spiritual Phenomena. The Mental-Spiritual is Superior to the Physical" >}}
  -->
 
-However, the concept of the ancient Greek Elements did not have hierarchy built-in. Instead, they used the center or mean.
+## The 3 Gunas or Influences
 
+The ancient Greeks did not have a concept of hierarchy built into their 5 Elements. Instead, they used the center or mean.
 
 {{< q a="Timaeus" c="Timaeus by Plato, Chapter 3" >}}
 If a set of any 3 numbers has a mean, the mean is to the 1st number just as it is to the last number.. If the universal frame was just a surface with no depth, a single mean would have sufficed to bind together itself and the other terms.
 {{< /q >}}
 
 
-We use the concept of Influences or Gunas to impart the idea of a center or mean for each Element.
+We use the concept of **Influences** or Gunas to divide each Element or Layer into 3 so that there will be a middle, center, or mean for each Element or Layer. This is seen in our Medium-Substance-Quantum model which replaces the Standard Model.
 
-This is why we rename the "Elements" into "Layers" in order to impart:
+{{< i s="/graphics/physics/msq.svg" a="The MSQ" >}}
+
+<!-- This is why we rename the "Elements" into "Layers" in order to impart:
 - the hierarchy within the 5 Layers
-- the subdivision of each Layer into 3 Sublayers
-
-
-An analogy is a Photoshop image which is made up layers that are on top of each other. 
-
-{{< img src="/graphics/super/layers.jpg" alt="Layers in an image" cap="Reality is made up of 5 Layers which the ancients called the 5 Elements" >}}
+- the subdivision of each Layer into 3 Sublayers -->
 
 For example, the reality of a rock is made up of layers of properties are perceived together in the identity of the rock:
 
@@ -115,12 +133,12 @@ For example, the reality of a rock is made up of layers of properties are percei
 We put these Layers into a hierarchy 
 
 1. Aether Layer
-2. Air Layer
-3. Fire Layer
-4. Water Layer
-5. Earth Layer
+2. Air Layer (Space) 
+3. Fire Layer (Color) 
+4. Water Layer (Chemical Forces)
+5. Earth Layer (Contact Forces) 
 
-We then expand these into 15 to account for the Spiritual-Social, Biological, and Material aspects of Nature.
+We then expand these into 15 Layers to account for the Spiritual-Social, Biological, and Material aspects of Nature.
 
 
 Rank | Spiritual and Social | Biological | Material | Assigned Number
@@ -134,16 +152,32 @@ Rank | Spiritual and Social | Biological | Material | Assigned Number
 
 The assigned numbers are what the Greeks gave to the Elements or Layers. This is why we call the Causal or Aetheral as the 5th Element or Layer.  
 
+These 15 match the 15 Rupas or Material Forms in Buddhism
+
+Superphysics Name | Buddhist Name
+--- | ---
+Material Layer | Pathavi
+Comvertible Layer | Apo
+Radiant Layer | Tejo 
+Spatial Layer | Vayo
+Aethereal Layer | Cakkhu
+Earth Element |  Kāya viññatti 
+Water Element | Jivhā
+Fire Element | Jīvitindriya
+Air Element | Ghāna
+Aethereal Layer | Sota
+Crude Layer | Kaya
+Subtle Layer | Vaci Viññatti 
+Astral Layer | Oja
+Essential Layer | Hadaya
+Causal Layer | Akasa
 
 
 <!-- ## The 5 Layers are an Atheist or Pantheist Belief 
 
-Francis Bacon and Rene Descartes clearly did not believe in a dominating personal God, as proven by Bacon's own essay: 
-
 {{< q a="Francis Bacon" >}}
 It is a thousand times more credible, that 4 mutable elements, and 1 immutable fifth essence, duly and eternally placed, need no God, than that an army of infinite small portions, or seeds unplaced, should have produced this order and beauty, without a divine marshal
 {{< /q >}}
-
 
 The 5 Layers are Atheist in the sense that all layers and particles are 'programmed' and do not need an overseer. 
 
