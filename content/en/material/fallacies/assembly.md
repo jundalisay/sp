@@ -1,7 +1,7 @@
 ---
 title: "The Sophistry of Assembly Theory"
 date: 2023-07-15
-weight: 6
+# weight: 6
 image: /photos/psych/facepalm.jpg
 description: "Assembly Theory is a philosophical Theory of Change pretending to be scientific theory of evolution that combines Physics and Biology"
 # monstrosity that combines the material concept of non-conscious entropy, the emergent 'arrow of time' (physical time), and conscious biology (mental time)

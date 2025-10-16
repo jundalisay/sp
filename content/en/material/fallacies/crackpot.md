@@ -1,8 +1,8 @@
 ---
 title: The Crackpot Index Dissected
 date: 2025-05-16
-weight: 7
-image: /photos/physics/priest.jpg
+# weight: 7
+image: /photos/objects/asteroid.jpg
 description: ""
 writer:
   name: Juan

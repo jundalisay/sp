@@ -1,7 +1,7 @@
 ---
 title: "Gravitational Lensing: Einstein Versus Descartes"
-# date: 2023-04-22
-weight: 13
+date: 2023-04-22
+# weight: 13
 image: /graphics/physics/vortices.jpg
 description: "In his book Relativity, Einstein says that the changing of a star's place during the 1919 eclipse is due to spacetime being curved around the sun"
 writer:

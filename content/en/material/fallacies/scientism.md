@@ -1,7 +1,7 @@
 ---
 title: "Science Versus Scientism"
 date: 2024-09-06
-weight: 2
+# weight: 2
 image: /graphics/wtf.png
 description: "Science is pure objectiveness. The problem is that the universe is subjective and its core is actually paradoxical"
 writer:

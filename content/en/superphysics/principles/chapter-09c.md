@@ -41,9 +41,9 @@ This is called:
 , Zhōng Dāntián): at the level of the heart, which is also called "the crimson palace", associated with storing spirit (shen) and with respiration and health of the internal organs, in particular the thymus gland. This cauldron is where vitality or qi is refined into shen or spirit.[8]
 , Shàng Dāntián): at the forehead between the eyebrows or third eye, which is also called "the muddy pellet", associated with the pineal gland. This cauldron is where shen or spirit is transmuted into wu wei or emptiness -->
 
-A vortex that lets the contents of a slice exit and go to other spacetime slices is called an inbound vortex. 
+A vortex that lets the contents of a slice exit and go to other spacetime slices is called an outbound vortex. 
+- This is called a "portal" to other dimensions.
 
-This is called a portal to other dimensions.
 
 {{< i s="/graphics/super/chakra.jpg" a="Chakra is inbound vortex" >}}
 
@@ -51,6 +51,8 @@ Each chakra or black hole has a specific configuration that detemines that energ
 - a strong, large black hole will result in large or bright galaxy
 - a strong, large chakra will result in a strong behavior in a person or animal
 
+
+A common example of an inbound vortex is a typhoon that gathers the energy from the atmosphere and concentrates it around the eye. 
 
 There are 7 chakras listed by the Hindus, and 3 by the Taoists.
 

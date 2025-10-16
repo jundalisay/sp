@@ -1,7 +1,7 @@
 ---
 title: "How Differential Geometry and Gauge Theory Dominated"
 date: 2024-09-17
-weight: 8
+# weight: 8
 image: /graphics/physics/fabric.jpg
 description: "Data from the James Webb Space Telescope debunks the Big Bang"
 writer:

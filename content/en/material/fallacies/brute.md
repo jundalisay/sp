@@ -1,7 +1,7 @@
 ---
 title: The Brute Force Approach of Physics
 date: 2025-05-15
-weight: 7
+# weight: 7
 image: /photos/psych/meditate.jpg
 description: "The failure of fusion calls for a change in strategy and tactics"
 writer:

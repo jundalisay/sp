@@ -2,7 +2,7 @@
 heaing: Why The Big Bang is Wrong 
 title: "How The James Webb Space Telescope (JWST) Debunks the Big Bang"
 date: 2024-03-17
-weight: 7
+# weight: 7
 image: /graphics/physics/jwst.jpg
 description: "Data from the James Webb Space Telescope debunks the Big Bang"
 writer:

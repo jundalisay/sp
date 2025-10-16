@@ -2,7 +2,7 @@
 title: "The Ageless Universe: Big Bang Debunked"
 date: 2025-05-11
 # date: 2023-01-08
-weight: 2
+# weight: 2
 image: /photos/physics/galaxy.jpg
 description: "The universe is ageless since the Big Bang is false"
 writer:

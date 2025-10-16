@@ -4,11 +4,9 @@ title: "How to Fix Einstein's General Relativity"
 description: "Did you know that dark matter, wormholes, and the Big Bang are fallacies of Physics?"
 # date: 2024-11-02
 date: 2021-06-14
-weight: 36
-linkTitle: "Fix Relativity"
+# weight: 36
 image: "/graphics/physics/general.jpg"
-# categories: ["Material Superphysics"]
-icon: "/icons/spmat.png"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
