@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7b"
-title: "The Higher and Lower Mind and the 5 Strata"
+title: "The Higher and Lower Mind and the Main Aethereal and Biophysical Layers"
 #date: 2020-12-10
 date: 2025-10-07
 weight: 452
@@ -45,7 +45,7 @@ In the metaphysical domain, we call:
 
 Physical Existence is within 2 domains: physical and metaphysical.
 
-Metaphysical existence is within 2 domains: higher and lower mind. 
+Witin metaphysical existence is the 2 parts of the higher and lower mind. 
 
 
 1. Higher Mind
@@ -65,7 +65,11 @@ Recent experiments by scientists have demonstrated that the human being is posse
 {{< /q >}}
 
 
-## The 5 Strata
+## The 5 Main Aethereal Layers
+
+The higher and lower minds are part of the main aethereal layers that are above the physical ones.
+
+{{< i s="/graphics/super/operative.svg" a="5 Strata" >}}
 
 We can discard the names of Air, Fire, Water, Earth in the metaphysical domain as those names denote physical phenomena. 
 
@@ -80,5 +84,13 @@ Subtle | Manomaya | Template Reality
 Crude | Kamamaya | Collective Automatic Mind
 
 
-{{< i s="/graphics/super/operative.svg" a="5 Strata" >}}
+
+## The 5 Biophysical Layers
+
+Below the aethereal layers are the 5 Biophysical layers which are in-between the metaphysical and physical. These keep the ancient Greek names of Aether, Air, Fire, Water, Earth since they were used in ancient medicine which Superphysics can connect to. 
+
+{{< i s="/graphics/bio/msqbio.svg" a="5 Biophysical layers" c="We have a lot of missing parts to fill as none of the Superphysics team members have professional medical experience" >}}
+
+
+
 

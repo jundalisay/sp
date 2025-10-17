@@ -14,7 +14,7 @@ icon: "Juan"
 ---
 
 
-Socratic Dialectics combines critical thinking, as creative out-of-the-box reasoning, and critical feeling, as empathy. 
+Socratic Dialectics combines critical thinking, as creative out-of-the-box reasoning, and critical feeling, as fellow-feeling. 
 - Critical thinking thinks outside of limited beliefs
 - Critical feeling feels beyond the self
 - Ordinary thinking is hampered by limitations created by beliefs
@@ -22,7 +22,6 @@ Socratic Dialectics combines critical thinking, as creative out-of-the-box reaso
 
 
 This makes Socratic Dialectics our main tool to solve problems that have afflicted the current systems which are selfish and limited because of the pervasiveness of the Materialist Disease.
-
 
 This is seen in the current education system which emphasizes the development of the brain and critical thinkng. It develops the heart less. 
 
@@ -37,9 +36,11 @@ The problem is that the Negative Force (the force that is tasked to create reali
 
 > *It is actually strongest in non-living (non-actively-conscious) entities. For example, a knife that is used to stab a person will not feel any guilt in being the cause of the person's suffering, because it is unable to express feelings by design.   -->
 
-The French Revolution led to the concept of Liberalism which gives importance to the self instead of society. It is a backwards evolution, from advanced into backwards. 
+The French Revolution led to the concept of Liberalism which gives importance to the self instead of society. It is a backwards evolution, from advanced into backwards.
 
-This leads to egotistic people and egotistic countries that feel so much for themselves and so little for others. It reduces the chances of critical feeling and increases the chances of critical thinking or intellectualization. This intellectualization now manifests as the emphasis of the educational system on brain development, intellect, and the 5 senses, at the expense of the heart, fellow-feelings, and intution or the 6th sense. 
+This leads to egotistic people and egotistic countries that feel so much for themselves and so little for others. It reduces the chances of critical feeling and increases the chances of critical thinking or intellectualization. 
+
+This intellectualization now manifests as the emphasis of the educational system on brain development, intellect, and the 5 senses, at the expense of the heart, fellow-feelings, and intution or the 6th sense. 
 
 <!-- This ego is the feeling of the self and manifests as 'I' or 'me'. Too much Negative Force will lead to a strong ego which values only 'me, me, me', instead of other entities. In this state, there is no critical analysis of one's feelings -- an egotistic person just does what he does without anaylzing his feelings behind it. 
 
@@ -63,18 +64,18 @@ Human hearts lead us to errors because the Western educational system, spread gl
 
 <!-- The odd quirk in the human species is that our brain and heart are far apart. This creates a distance or lag that makes ideas  appear totally different from feelings. This then makes human action lack feelings for others, as seen in terrorism, nuclear weapons, deforestation, etc.  -->
 
-To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by visualizing* feelings. 
-- This is because sight is the main sensor of the brain. 
-
-This will be done through the aethereal Cartesian plane. 
+To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by:
+- visualizing feelings and ideas. 
+  - This is because sight is the main sensor of the brain. 
+  - This will be done through the aethereal Cartesian plane. 
+  - This visualization of ideas and feelings will better reveal the gravitational signature in each concept, phenomenon, person, group, society, etc.
+- profiling people based on their personality structure which contains their gravitational signature or configuration
+  - This is shallowly done nowadays in the West by personality profiling and in Korea which puts labels on people 
+- defining the feelings through Bio Superphysics
+- promoting specific feelings through Social Superphysics
+  - Humans already do this through TV, movies, powerpoint presentations, branding, packaging, advertising and other bright, shiny, catchy, fragrant, and tasty things that appeal to the senses located near the brain as the eyes, ears, nose, and tongue.
 
 {{< img src="/graphics/super/cartesian.png" cap="Physics visualizes physical movement, Superphysics visualizes metaphysical (aethereal) movement" alt="Visualization of the feelings" >}}
-
-Humans already do this through TV, movies, powerpoint presentations, branding, packaging, advertising and other bright, shiny, catchy, fragrant, and tasty things that appeal to the senses located near the brain as the eyes, ears, nose, and tongue.   
-
-This visualization of ideas and feelings will better reveal the gravitational signature in each concept, phenomenon, person, group, society, etc. 
-
-
 
 
 ## Critical Thinking and Critical Feeling

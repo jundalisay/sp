@@ -19,19 +19,28 @@ Usually, we use ideation and discernment whenever we have conflicting feelings o
 For example, when we have to choose where to eat, we just go with our first impulse.
 
 But when we go out with our friends, we have conflicting feelings on where to eat. 
+- Some might want to eat American-style fastfood
+- Some might want to eat Chinese food
+- Others might want Indian food
+
+Often, we do not immediately impose what we want on others. 
+
+Instead, we try to build a consensus so that the final decision will be fair. 
+
+If we were omniscient, we would be able to decide on where to eat that would be acceptable to all. 
+
+But since we are not omniscient, we have to ask what our friends feel. This is an example of critical feeling or empathy and sympathy
 
 
- check the map so we can trace a logical path towards it and use our intellect to find the most efficient or least expensive or fastest way to get there.
-
-If we were omniscient, we would be able to reach our destination without using any map. However, in reality, our intellect is limited and obstructed by the Negative Force.
+<!--   reach our destination without using any map. However, in reality, our intellect is limited and obstructed by the Negative Force.
 
 And so not all of us reach our destination in the perfect way that we planned.
+ -->
 
-Ordinary feeling is reflecting on feelings in the ordinary way within this limitation.
+- Ordinary feeling is reflecting on feelings in the ordinary way within this limitation.
+- Critical feeling is reflecting with an added Positive effort to push against or break through such limitation.
 
-Critical feeling is reflecting with an added Positive effort to push against or break through such limitation.
-
-This is why it is commonly called feeling beyond the self or empathy, which Adam Smith called sympathy.  
+This is why it is commonly called feeling beyond the self or empathy, which Adam Smith called sympathy or fellow-feeling.  
 - This happens when we apply more effort into feeling beyond our selves.
 
 
@@ -45,8 +54,7 @@ The big misconception is to critical feeling needs us to be more emotional.
 But being emotional is actually lack of control by the lower mind of its emotions.
 
 Positive effort does not mean more feeling is needed. 
-
-Instead, it needs more subtlety and refinementm, as access to the Higher Mind, to breach the limitation imposed by the Negative Force.
+- Instead, it needs more subtlety and refinement, as access to the Higher Mind, to breach the limitation imposed by the Negative Force.
 
 Therefore the key component of Critical Feeling or empathy is the Positive Force, just as the key component of selfishness is the Negative.
 

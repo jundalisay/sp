@@ -47,12 +47,23 @@ A vortex that lets the contents of a slice exit and go to other spacetime slices
 
 {{< i s="/graphics/super/chakra.jpg" a="Chakra is inbound vortex" >}}
 
+
+## Inbound Vortices
+
 Each chakra or black hole has a specific configuration that detemines that energies and particles, as the feelings and ideas of the Supreme, for that spot of space.
 - a strong, large black hole will result in large or bright galaxy
 - a strong, large chakra will result in a strong behavior in a person or animal
 
 
-A common example of an inbound vortex is a typhoon that gathers the energy from the atmosphere and concentrates it around the eye. 
+{{< i s="/graphics/physics/exist.jpg" a="Chakra is inbound vortex" >}}
+
+
+A common example of an inbound vortex is a typhoon that gathers the energy from the atmosphere and concentrates it around the eye. A galaxy is like a typhoon that fizzles out after spending all its energy.  
+
+{{< i s="/graphics/physics/hurricane.jpg" a="Hurricane is a vortex" >}}
+
+
+Galaxies and typhoons are inbound vortices in the physical domain. The common vortices in the metaphysical domain are DNA and chakras.
 
 There are 7 chakras listed by the Hindus, and 3 by the Taoists.
 
@@ -67,17 +78,26 @@ Number | Name | Chinese
 7 | Crown | 
 
 
-Each chakra lets a specific range of propensities flow through from potentiality to actuality. 
-
+Each chakra lets a specific range of propensities flow through from potentiality to actuality. The mixing and variation of these propensities lead to the different feelings of humans.
 
 
 Chakra | Propensities
 --- | --- 
-Base |  
-Sex |  
-Navel | 
-Heart | 
-Throat | 
-Third Eye |
-Crown | 
+Base | survival, security, materialism, sensual desires
+Sex | Affection, Pitilessness, All-destructiveness, Delusion, Despising oneself, Suspicion
+Navel | Spiritual ignorance, Thirst, Jealousy, Treachery, Shame, Fear, Disgust, Delusion, Foolishness, Sadness
+Heart | Hope, Anxiety, Effort, Indecision, Repentance, Possessiveness, Impartiality, Arrogance, Discrimination, Deflation, Lamentation, Fraudulence
+Throat | Purification, expression, creativity
+Third Eye | Intuition, command, insight
+Crown | Liberation, transcendence
+
+
+These chakras are the intersection between the human oversoul and the individual soul. 
+
+The differences in range of feelings and expression of different species is based on the differences in the oversoul of each species. 
+
+Similarly, the similarities in the feelings among all humans is from the human species being a single oversoul. 
+
+The differences in each person is due to the individual soul. 
+
 

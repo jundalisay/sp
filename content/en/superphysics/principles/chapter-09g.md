@@ -12,15 +12,24 @@ icon: "Juan"
 ---
 
 
-A mind that exists in the physical domain has 3 aspects:
+Earlier we divided the actions of the mind into 3 to match the 3 gunas or influences:
+
+1. Flow
+2. Force
+3. Memory
+
+We likewise divide the existence of the mind into 3 to match the 3 gunas:
+
+<!-- A mind that exists in the physical domain has 3 aspects: -->
 
 1. Physicality
 
-This is the 5 Biological Elements
+This is the physical parts that connect to the lower mind
+<!-- 5 Biological Elements -->
 
 2. Mental
 
-This is the lower mind of the 5 Strata.
+This is the lower mind.
 
 3. Spiritual
 

@@ -58,21 +58,37 @@ But the others, which are in part the largest and heaviest, and in part also the
 
 For some of the most aerial remain there, and form tiny passages, which afterwards will be the branches of the artery whose extremity is the throat or the windpipe, through which the respiratory air enters.
 
-The largest will return to the left ventricle of the heart. And the path by which they leave the right ventricle is what will later become the pulmonary artery; and that by which they come from there into the left ventricle is what will later become the pulmonary vein.
+The largest will return to the left ventricle of the heart. 
 
-‘Aerial’ particles does not mean those that are separated from one another, but only those of this number that, without being very agitated or very hard, each have their own motion, which makes the bodies where they are remain rare and not easily condensed.
+The path by which they:
+- leave the right ventricle is what will later become the pulmonary artery.
+- come from there into the left ventricle will later become the pulmonary vein.
 
-Because those that make up the air are, for the most part, of such a nature, I call them ‘aerial’.
+
+## Aerial Particles Versus Spirits
+
+‘Aerial’ particles does not mean those that are separated from one another, but only those of this number that, without being very agitated or very hard, each have their own motion.
+- This motion makes the bodies where they are remain expanded and not easily condensed.
+<!-- rare -->
+
+This is similar to how physical air is. That is why I call them ‘aerial’.
+
+<!-- Because those that make up the air are, for the most part, of such a nature,  -->
 
 But there are others, more energetic and finer, like those of brandy, and aqua fortis, or of smelling salts, and many other kinds of thing, which cause the blood to expand and do not prevent it from condensing promptly afterwards. 
 
-Many of these are doubtless found in the blood of fish, as well as in that of land animals, and even perhaps in larger quantities: this makes it possible for the least heat to rarefy them. 
+Many of these are found in the blood of fish and o land animals, and even perhaps in larger quantities: this makes it possible for the least heat to rarefy them.
 
-The most energetic and finest parts, that is, those which are very subtle, as well as very solid and very agitated, which I shall hereafter call ‘spirits’, do not come to a standstill at the beginning of the formation of the lung, as do the majority of the aerial particles; but because they have more force they go further, and pass from the right ventricle of the heart via a passage in the pulmonary artery as far as the aorta.
+The most energetic and finest parts are those which are very subtle, as well as very solid and very agitated, which I shall hereafter call ‘spirits’.
 
-Moreover, since it is the aerial particles of the seed that are the cause of the formation of a second ventricle in the heart, what prevents a third being formed is that, following the second ventricle, a lung is formed in which the majority of aerial particles come to a standstill.
+These do not come to a standstill at the beginning of the formation of the lung, as do the majority of the aerial particles; but because they have more force they go further, and pass from the right ventricle of the heart via a passage in the pulmonary artery as far as the aorta.
 
-While the blood coming from the right ventricle is beginning to form  the lung, that leaving the left is also beginning to form other parts, the very first of which, after the heart, being the brain.
+
+The aerial particles of the seed cause the formation of a second ventricle in the heart.
+
+A third ventricle is prevented from forming after the second. Instead, a lung is formed in which the majority of aerial particles come to a standstill.
+
+While the blood coming from the right ventricle is beginning to form the lung, that leaving the left is also beginning to form other parts, the very first of which, after the heart, being the brain.
 
 The largest parts of the blood leaving the heart go directly in a straight line to the spot in the seed where the lower parts of the head are subsequently formed.
 
@@ -91,3 +107,4 @@ In this way, while these spirits are advancing towards the spinal column, runnin
 They turn towards the base of the brain, because they are reflected off its upper part. 
 
 They turn right and left because the space in the middle is occupied by those that have meanwhile come from the heart, and from there make a path to the spinal column, which explains why all the sense organs are double. 
+

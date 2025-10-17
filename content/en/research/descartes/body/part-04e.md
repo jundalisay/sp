@@ -79,9 +79,16 @@ These spirits take their course from the middle of the head towards 3 different 
 
 The matter whose place they took has been able to be drawn towards the top of the skull, in the 3 spaces that the 3 sides mark out.
 
-From there, taking its course through the two sides of the spinal column towards the heart, it makes room for the 3 principal branches of the great ‘triangular vessel’ that is between the folds of membrane that envelop the brain, and which has the characteristic that it brings together the functions of the artery and the vein. 
+From there, taking its course through the 2 sides of the spinal column towards the heart, it makes room for the 3 principal branches of the great ‘triangular vessel’.
 
-For the matter that was in that place, being pushed by the spirits, leaves there so easily and quickly that the branches of the arteries joined to the branches of the veins through which it flows towards the heart, are merged with these in forming this vessel, which afterwards extends its tiny channels on all sides inside the skull, so that it alone provides almost all the nourishment to the brain.
+
+This triangular vessel:
+- is between the folds of membrane that envelop the brain
+- brings together the functions of the artery and the vein
+
+The matter in that place is pushed by the spirits. And so it leaves there so easily and quickly that the branches of the arteries joined to the branches of the veins through which it flows towards the heart, are merged with these in forming this vessel.
+
+This vessel afterwards extends its tiny channels on all sides inside the skull so that it alone provides almost all the nourishment to the brain.
 
 Nevertheless, the blood in the principal tube of the aorta, which comes in a straight line from the heart, cannot penetrate the base of the head at first.
 
