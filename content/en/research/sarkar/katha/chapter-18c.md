@@ -5,6 +5,8 @@ weight: 48
 description: "While I was in Jamalpur, it was matters pertaining to Baba that occupied my mind"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

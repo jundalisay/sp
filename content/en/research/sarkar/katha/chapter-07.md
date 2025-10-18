@@ -1,19 +1,19 @@
 ---
-title: "MY DEMOTION"
+title: "My Demotion"
 heading: Chapter 7
 weight: 15
 description: "Ajit Singh, was attempting to get me demoted and himself promoted"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 
 
 My former boss, Ajit Singh, was attempting to get me demoted and himself promoted once more by writing to government officials in Delhi. 
 
-He was of the firm conviction that his demotion was due to me, although this was far from true. He did not succeed in getting promoted; but he did succeed in getting me demoted. I received
-information in September 1954 that orders of my demotion had been passed in Delhi
-although formal orders were yet to be issued.
+He was of the firm conviction that his demotion was due to me, although this was far from true. He did not succeed in getting promoted; but he did succeed in getting me demoted. I received information in September 1954 that orders of my demotion had been passed in Delhi although formal orders were yet to be issued.
 
 I have always been attached to the prestige of my status. I therefore felt restless to save my prestige. I was not able to get leave and go to Baba, therefore I wrote a letter about my problems to Baba. I also wrote in the letter that I would prefer
 death to demotion and was least prepared to face a downfall in my rank.

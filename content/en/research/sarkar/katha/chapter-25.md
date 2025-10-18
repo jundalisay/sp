@@ -5,6 +5,8 @@ weight: 76
 description: "His family and his father had lot of goodwill and fame in Jamalpur"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

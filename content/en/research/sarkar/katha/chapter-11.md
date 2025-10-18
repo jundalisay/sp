@@ -5,6 +5,8 @@ weight: 26
 description: "Ajit Singh, was attempting to get me demoted and himself promoted"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

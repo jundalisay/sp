@@ -5,6 +5,8 @@ weight: 75
 description: "We were able to purchase of a plot of land in the neighbourhood of Baba’s quarter"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

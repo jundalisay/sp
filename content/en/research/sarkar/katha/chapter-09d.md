@@ -5,6 +5,8 @@ weight: 21
 description: "In my early days as a disciple, I often felt unsure of myself because of my inexperience and sometimes doubted my judgement about how to do the practices correctly"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

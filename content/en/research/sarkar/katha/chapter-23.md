@@ -5,6 +5,8 @@ weight: 72
 description: "Ananda Marga is a philosophy and Shrii Shrii Anandamurtiji it its propounder"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

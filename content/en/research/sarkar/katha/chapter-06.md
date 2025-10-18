@@ -1,10 +1,12 @@
 ---
-title: "ASTHANAJI"
+title: "Asthanaji"
 heading: Chapter 6
 weight: 13
 description: "My boss, Asthanaji asked us to stay for tea"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

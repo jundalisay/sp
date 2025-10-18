@@ -5,6 +5,8 @@ weight: 44
 description: "Then I heard Baba chanting, Hari, Hari"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

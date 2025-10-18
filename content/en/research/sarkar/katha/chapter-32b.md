@@ -5,6 +5,8 @@ weight: 103
 description: "During training I used to see everyone smoking. This urged me to start smoking again"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

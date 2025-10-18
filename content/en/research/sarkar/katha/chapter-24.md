@@ -5,6 +5,8 @@ weight: 74
 description: "Along with the propagation and expansion of the ideology of the Marga, opposition also began"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

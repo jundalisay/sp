@@ -5,6 +5,8 @@ weight: 38
 description: "I went in after doing pranam. I told Baba that a gentleman was waiting outside for diiksa"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

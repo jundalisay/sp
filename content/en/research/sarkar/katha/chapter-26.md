@@ -5,6 +5,8 @@ weight: 88
 description: "Baba is very fond of discipline yet he likes the rational acts of Margiis"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

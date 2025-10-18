@@ -5,6 +5,8 @@ weight: 31
 description: "On 9 January, the day of the Dharma Maha Cakra, I reached Jamalpur along with my wife. "
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

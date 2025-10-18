@@ -5,6 +5,8 @@ weight: 90
 description: "Economically speaking, Ananda Margiis have always been lower middle and middle class people"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

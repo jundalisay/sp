@@ -5,6 +5,8 @@ weight: 66
 description: "The practice of this japa with the breath should be advanced to an extent that the body may be busy in any activity"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

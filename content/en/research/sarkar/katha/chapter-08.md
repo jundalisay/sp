@@ -5,6 +5,8 @@ weight: 17
 description: "The pir would be coming from Muzaffarpur and he is known amongst people as Datta Rajendra Shah"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

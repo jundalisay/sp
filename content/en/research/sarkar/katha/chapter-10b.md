@@ -5,6 +5,8 @@ weight: 23
 description: "The next Sunday, 21 November 1954 I again reached Jamalpur in the hope of seeing more demonstrations."
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

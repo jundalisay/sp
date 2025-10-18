@@ -5,6 +5,8 @@ weight: 96
 description: "I was hardly in Danapur for about six months when I was sent for further training to Delhi"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

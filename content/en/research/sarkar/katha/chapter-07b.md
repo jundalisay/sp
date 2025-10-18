@@ -5,6 +5,8 @@ weight: 16
 description: "They saw me approaching from the lane. One of them rushed to me and informed me that Mainju was dead"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 
@@ -61,24 +63,32 @@ so good, why should it be given on the basis of pick and choose. Kindly make it
 available to all.
 
 
-## MY WIFE TAKES INITIATION FROM BABA
+## My Wife Takes Initiation From Baba
 
-Baba said, ”Diiksa (initiation) and sadhana are given only after seeing the
-samskaras (karma) of the individual, but as you are insistent, let me know the names
-and addresses of those who are the seekers of Eternal Knowledge. I shall permit them
-on the basis of samskaras”.
+{{< l a="Baba" >}}
+Diiksa (initiation) and sadhana are given only after seeing the samskaras (karma) of the individual. But as you are insistent, let me know the names and addresses of those who are the seekers of Eternal Knowledge. I shall permit them on the basis of samskaras.
+{{< /l >}}
 
-Really, after seeing the change in me which came after the initiation, a large
-number of people were thinking of taking initiation. Some of them were officers in my
-department and some were mere acquaintances.
 
-When I was asking for permission to go and asked whether I could bring my
-wife for initiation next Sunday, Baba said, "Yes you may, but do not bring any small
-child with her."
-I said, ”My youngest child could not be left at home”.
+After seeing the change in me after the initiation, many people thought of also taking initiation.
+- Some of them were officers in my department and some were mere acquaintances.
 
-Baba replied, "The kundalinii of children below five is in a fluid state and it gets
-aggravated by my contact and causes them pain”.
+{{< r a="Nagina" >}}
+May I bring my wife for initiation next Sunday?
+{{< /r >}}
+
+
+{{< l a="Baba" >}}
+Yes, but do not bring any small child with her.
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+But my youngest child cannot be left at home.
+{{< /r >}}
+
+{{< l a="Baba" >}}
+The kundalinii of children below 5 is in a fluid state. It gets aggravated by my contact and causes them pain.
+{{< /l >}}
 
 Therefore, when we came next time the young girl was with us but we tried to
 lull her to sleep before going to Baba and by Baba's Grace she did go to sleep. After
@@ -99,9 +109,10 @@ This process of submitting lists continued up to December 1954. Personal
 contact was the only medium for spreading the mission and Baba’s ideals. Any
 reference to guru was forbidden.
 
-Baba said, “The motivation inculcated by reference to the guru will not be
-permanent. Guru will not live forever, and when the physical form will be no more, your
-efforts will come to a halt. Therefore, always propagate the ideal".
+{{< l a="Baba" >}}
+The motivation inculcated by reference to the guru will not be permanent. Guru will not live forever, and when the physical form will be no more, your efforts will come to a halt. Therefore, always propagate the ideal.
+{{< /l >}}
+
 
 Following His instructions we were always talking about the ideals and
 spreading it through personal contact. Up to that time Ananda Marga had not come into

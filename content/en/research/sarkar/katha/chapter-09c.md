@@ -5,6 +5,8 @@ weight: 20
 description: "He sits there in front of me and I guide him in sadhana. His sadhana has progessed very rapidly"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

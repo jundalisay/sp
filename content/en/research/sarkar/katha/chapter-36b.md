@@ -5,6 +5,8 @@ weight: 119
 description: "The subject of discourse in the D.M.C. was ‘Samskaras and Liberation’"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

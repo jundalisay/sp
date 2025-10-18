@@ -5,6 +5,8 @@ weight: 24
 description: "Then Baba got up and we followed Him to the room where the dead body of the sadhaka lay, a testimony to the tranisory nature of all existence. "
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

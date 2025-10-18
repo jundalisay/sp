@@ -5,6 +5,8 @@ weight: 208
 description: "An Editor’s note in Prajina Bharati October 1983"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

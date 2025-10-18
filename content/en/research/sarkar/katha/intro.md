@@ -5,6 +5,8 @@ weight: 1
 description: "Baba undertook the task of initiating some people in yogic sadhana"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

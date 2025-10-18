@@ -5,6 +5,8 @@ weight: 22
 description: "In November 1954, Baba started giving demonstrations about the different stages and utilities of sadhana"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

@@ -5,6 +5,8 @@ weight: 7
 description: "Jamalpur and my Baba stories of Jamalpur are now memories"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

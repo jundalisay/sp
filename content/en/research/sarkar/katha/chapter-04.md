@@ -1,10 +1,12 @@
 ---
-title: "BABA THE PHYSICIAN"
+title: "Baba The Physician"
 heading: Chapter 4
-weight: 10
+weight: 9
 description: "Baba said: You must use a muffler during winters"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

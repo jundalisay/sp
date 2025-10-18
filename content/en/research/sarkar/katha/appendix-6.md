@@ -5,6 +5,8 @@ weight: 210
 description: "Letter to the Editor in Prajina Bharati October 1985"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

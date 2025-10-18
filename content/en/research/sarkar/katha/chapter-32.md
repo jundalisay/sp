@@ -5,6 +5,8 @@ weight: 102
 description: "Inside the temple, the image of Shri Krishna is worshipped and the walls are inscribed with all the verses of the Giita"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

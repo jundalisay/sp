@@ -5,6 +5,8 @@ weight: 114
 description: "It was decided to hold a Dharma Mahacakra at Gorakhpur"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

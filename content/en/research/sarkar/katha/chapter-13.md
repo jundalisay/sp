@@ -6,6 +6,8 @@ weight: 30
 description: "I had Baba's Darshan on January 5, 1955 in the morning and I did my pranam without touching Him"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

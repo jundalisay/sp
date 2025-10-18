@@ -6,6 +6,8 @@ weight: 206
 description: "An Editor’s note in Prajina Bharati July 1984"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

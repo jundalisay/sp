@@ -5,6 +5,8 @@ weight: 110
 description: "The Margiis of Ranchi celebrated the first Ananda Purnima DMC on 12th May 1958"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 

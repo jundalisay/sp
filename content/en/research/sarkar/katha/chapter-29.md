@@ -5,6 +5,8 @@ weight: 94
 description: "Oh human beings, you advance forward. Your only language should be the speed towards progress"
 c: "indigo"
 author: Nagina
+icon: Nagina
+
 ---
 
 
