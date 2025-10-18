@@ -42,6 +42,34 @@ From atoms and molecules to human beings with developed consciousness, all entit
 {{< /q >}}
 
 
-This concept of Attraction beyond physical magnetism and gravity has been developed in the 2000s. 
+This concept of Attraction beyond physical magnetism and gravity became popular through the 2006 movie [The Secret](https://en.wikipedia.org/wiki/The_Secret_(2006_film)) by Australian Rhonda Byrne. It was driven globally by Youtube which was a relatively new platform in 2006.
 
 
+## Positive Thinking
+
+The Law of Attraction is based on the principle of positive thinking which is then based on like attracting like. 
+
+It's the same principle behind Christianity where people think of a Savior in order for their minds to become positive.
+- This positivity will then help them deal with whatever problem or desire. 
+
+That's why it takes root easily in the West where selfish-interest is common. 
+
+The problem is positive thinking is just a qualitative change in frequency like 110 volts changing into 220.
+
+It still needs a quantitative increase in amps. It means you do the visualization **ON TOP** of your old effort to reach your goals. 
+
+The big problem is that usually, its practictioners **REDUCE** their effort after changing their polarity or quality. 
+
+This causes their positivity to lack power.
+
+This lack of power then results in more failure than if they had not adopted positivity.
+
+It would be like switching from a 2 year old iPhone to a 10 year old Android (or switching from a 2 year old Android to a 10 year old iPhone), then complaining why it is worse. 
+
+The proper solution is to add effort both in quality and quantity. This would be like:
+- swithing from a 2 year old Android to the latest iPhone, or
+- swithing from a 2 year old iPhone to the latest Android
+
+Thats why action is very important in either the Law of Attractiion, Christianity, or any belief system. 
+
+The enemy is all cases is the staticity of mind which is from the Negative Force, the same force that caused the problem
