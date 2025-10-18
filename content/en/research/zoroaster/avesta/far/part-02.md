@@ -7,29 +7,33 @@ weight: 9
 ---
 
 
-1. Zarathustra asked Ahura Mazda:
+{{< r a="Zoroaster" >}}
+<sup>1</sup> O Ahura Mazda, most beneficent Spirit, Maker of the material world! Who was the first mortal, before myself, that you talked to and teach the law of Ahura, the law of Zoroaster to?
+{{< /r >}}
 
-O Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
 
-Who was the first mortal, before myself, Zarathustra, with whom thou, Ahura Mazda, didst converse 1, whom thou didst teach the law of Ahura, the law of Zarathustra?
+{{< l a="Ahura Mazda" >}}
+<sup>2</sup> The fair Yima, the great shepherd! He was the first mortal that I talked to and taught the law of Ahura, the law of Zarathustra.
+{{< /l >}}
 
-2 (4). Ahura Mazda answered:
+{{< l a="Ahura Mazda" >}}
+[To Yima] <sup>3</sup> 'Well, fair Yima, son of Vîvanghat, be the preacher and bearer of my law!
+{{< /l >}}
 
-The fair Yima, the great shepherd, O holy Zarathustra! he was the first mortal, before thee, Zarathustra, with whom I, Ahura Mazda, did converse, whom I taught the law of Ahura, the law of Zarathustra.
+{{< r a="Yima" >}}
+But I was not born nor taught to be the preacher and bearer of your law.
+{{< /r >}}
 
-3 (7) Unto him, O Zarathustra, I, Ahura Mazda, spake, saying: 'Well, fair Yima, son of Vîvanghat, be thou the preacher and the bearer of my law!'
 
-And the fair Yima, O Zarathustra, replied unto me, saying:
+{{< l a="Ahura Mazda" >}}
+<sup>4</sup> Since you do not want to be the preacher and bearer of my law, then make my worlds thrive. You will nourish, rule, and watch over my world.
+{{< /l >}}
 
-'I was not born, I was not taught to be the preacher and the bearer of thy law 1.'
 
-4 (11). Then I, Ahura Mazda, said thus unto him, O Zarathustra:
+{{< r a="Yima" >}}
+5 'Yes! I will make thy worlds thrive, I will make thy worlds increase. Yes! I will nourish, and rule, and watch over thy world. There shall be, while I am king, neither cold wind nor hot wind, neither disease nor death.'
+{{< /r >}}
 
-'Since thou wantest not to be the preacher and the bearer of my law, then make thou my worlds thrive, make my worlds increase: undertake thou to nourish, to rule, and to watch over my world.'
-
-5 (14). And the fair Yima replied unto me, O Zarathustra, saying:
-
-'Yes! I will make thy worlds thrive, I will make thy worlds increase. Yes! I will nourish, and rule, and watch over thy world. There shall be, while I am king, neither cold wind nor hot wind, neither disease nor death.'
 
 7 (17) 2. Then I, Ahura Mazda, brought two implements unto him: a golden ring and a poniard inlaid with gold 3. Behold, here Yima bears the royal sway!
 
@@ -124,7 +128,8 @@ And Ahura Mazda said unto Yima: 'O fair Yima, son of Vîvanghat! Crush the earth
 
 Ahura Mazda answered: 'It was the bird Karshipta 1, O holy Zarathustra!'
 
-43 (140). O Maker of the material world, thou Holy One! Who is the lord and ruler there?
+{{< r a="Zoroaser" >}}
+43  Who is the lord and ruler there?
+{{< /r >}}
 
 Ahura Mazda answered: 'Urvatad-nara 2, O Zarathustra! and thyself, Zarathustra.'
-

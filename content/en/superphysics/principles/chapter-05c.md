@@ -34,6 +34,11 @@ These principles of connection or association are resemblance, contiguity and ca
 only bonds that unite our thoughts together, and beget that regular train of reflection or discourse.”
 {{< /q >}}
 
+{{< q a="Aristotle" c="Heavens, Book 1, Part 5" >}}
+Every body is either simple or composite. The infinite body, therefore, will be either simple or composite.
+{{< /q >}}
+
+
 Spinoza earlier had a similar idea, though linking the connection of ideas to God. 
 
 {{< q a="Spinoza" c="The Ethics Simplified, Part 2, Proposition 7" >}}

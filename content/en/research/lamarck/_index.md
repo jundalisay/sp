@@ -2,9 +2,9 @@
 title: Lamarck, Jean-Baptiste
 heading: Enlightened
 description: 
-# a: "Lao Tzu"
+a: "Lamarck"
 c: "deeppink"
-# date: 2022-06-25
-weight: 119
+date: 2025-09-16
+weight: 118
 ---
 

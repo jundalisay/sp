@@ -1,42 +1,43 @@
 ---
 heading: Part 1
-title: "Fargard"
+title: "Ahura Mazda and Angra Mainyu"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
 weight: 9
 ---
 
 
-
 Ahura Mazda spoke to Zoroaster:
 
-<sup>2</sup> I have made every land dear to its dwellers, even though it had no charms whatever in it had I not made every land dear to its dwellers, even though it had no charms whatever in it, then the whole living world would have invaded the Airyana Vaêgô
+<sup>2</sup> I have made every land dear to its dwellers, even though it had no charms whatever.
+
+ <!-- in it had I not made every land dear to its dwellers, even though it had no charms whatever in it, then the whole living world would have invaded the Airyana Vaêgô. -->
 
 3 (5). The first of the good lands and countries which I created, was the Airyana Vaêgô, by the good river Dâitya
 
-Thereupon came Angra Mainyu, who is all death, and he counter-created by his witchcraft the serpent in the river 3 and winter, a work of the Daêvas 4.
+Thereupon came Angra Mainyu, who is all death. He counter-created by his witchcraft the serpent in the river 3 and winter, a work of the Daêvas 4.
 
-4 (9). There are ten winter months there, two summer months 5; and those are cold for the waters 6, cold for the earth, cold for the trees 7. Winter falls there, with the worst of its plagues.
+4 (9). There are 10 winter months there, 2 summer months. Those are cold for the waters 6, cold for the earth, cold for the trees. Winter falls there, with the worst of its plagues.
 
-5 (13). The second of the good lands and countries which I, Ahura Mazda, created, was the plains 8 in Sughdha 9.
+5 (13). The second of the good lands  which I created was the plains in Sughdha.
 
-Thereupon came Angra Mainyu, who is all death, and he counter-created by his witchcraft the fly Skaitya 1, which brings death to the cattle.
+Thereupon came Angra Mainyu who counter-created by his witchcraft the fly Skaitya, which brings death to the cattle.
 
-6 (17). The third of the good lands and countries which I, Ahura Mazda, created, was the strong, holy Môuru 2.
+6 (17). The third of the good lands I created, was the strong, holy Môuru.
 
-Thereupon came Angra Mainyu, who is all death, and he counter-created by his witchcraft sinful lusts 3.
+Thereupon came Angra Mainyu counter-created by his witchcraft sinful lusts.
 
-7 (21). The fourth of the good lands and countries which I, Ahura Mazda, created, was the beautiful Bâkhdhi 4 with high-lifted banners.
+7 (21). The fourth of the good lands which I created was the beautiful Bâkhdhi with high-lifted banners.
 
-Thereupon came Angra Mainyu, who is all death, and he counter-created by his witchcraft the Bravara 5.
+Thereupon came Angra Mainyu who counter-created by his witchcraft the Bravara.
 
-8 (25). The fifth of the good lands and countries which I, Ahura Mazda, created, was Nisâya 6, that lies between Môuru and Bâkhdhi.
+8 (25). The fifth of the good lands which I created was Nisâya that lies between Môuru and Bâkhdhi.
 
-Thereupon came Angra Mainyu, who is all death, and he counter-created by his witchcraft the sin of unbelief 7.
+Thereupon came Angra Mainyu who counter-created by his witchcraft the sin of unbelief.
 
-9 (29). The sixth of the good lands and countries which I, Ahura Mazda, created, was Harôyu 1 with its lake 2.
+9 (29). The sixth of the good lands which I created was Harôyu 1 with its lake.
 
-Thereupon came Angra Mainyu, who is all death, and he counter-created by his witchcraft the stained mosquito 3.
+Thereupon came Angra Mainyu who counter-created by his witchcraft the stained mosquito.
 
 10 (33). The seventh of the good lands and countries which I, Ahura Mazda, created, was Vaêkereta 4, of the evil shadows.
 
@@ -76,8 +77,8 @@ Thereupon came Angra Mainyu, who is all death, and he counter-created by his wit
 
 Thereupon came Angra Mainyu, who is all death, and he counter-created by his witchcraft abnormal issues in women and excessive heat.
 
-20 (76). The sixteenth of the good lands and countries which I, Ahura Mazda, created, was the land by the floods of the Rangha 7, where people live without a head 8.
+20 (76). The 16th of the good lands which I created was the land by the floods of the Rangha where people live without a head.
 
-Thereupon came Angra Mainyu, who is all death, and he counter-created by his witchcraft winter, a work of the Daêvas 1.
+Thereupon came Angra Mainyu, who counter-created by his witchcraft winter, a work of the Daêvas
 
 21 (81). There are still other lands and countries, beautiful and deep, desirable and bright, and thriving.

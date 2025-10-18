@@ -1,11 +1,10 @@
 ---
 heading: "Chapter 9e"
-title: "Critical Feeling as Empathy"
+title: "Chi and the Animal Spirits"
 date: 2023-12-08
-weight: 616
-# image: /photos/psych/stop.jpg
-image: /graphics/psych/peace.jpg
-description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
+weight: 612
+image: /graphics/super/chakra.jpg
+description: "The animal spirits are called chi in Taoism and Vayu in Himduism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,73 +12,45 @@ icon: "Juan"
 ---
 
 
+The previous section explained how feelings, as feeling-waves, are caused by chakras as their origin.
 
-Usually, we use ideation and discernment whenever we have conflicting feelings or are overwhelmed by feelings.
+These waves course from the chakras to different parts of the body for expression into the physical world. 
 
-For example, when we have to choose where to eat, we just go with our first impulse.
+This is done through the medium of called the animal spirits, called chi in Taoism, and Vayu in Hinduism.
 
-But when we go out with our friends, we have conflicting feelings on where to eat. 
-- Some might want to eat American-style fastfood
-- Some might want to eat Chinese food
-- Others might want Indian food
+These are in the Spatial Layer and so are naturally invisible since visibility is a property of the Radiant Layer.
 
-Often, we do not immediately impose what we want on others. 
+The main property of the Spatial Layer is force. This is why our feelings have force. 
 
-Instead, we try to build a consensus so that the final decision will be fair. 
-
-If we were omniscient, we would be able to decide on where to eat that would be acceptable to all. 
-
-But since we are not omniscient, we have to ask what our friends feel. This is an example of critical feeling or empathy and sympathy
+<!-- Love as an idea, Love as as visible thing, Love as an ectual feeling -->
 
 
-<!--   reach our destination without using any map. However, in reality, our intellect is limited and obstructed by the Negative Force.
-
-And so not all of us reach our destination in the perfect way that we planned.
- -->
-
-- Ordinary feeling is reflecting on feelings in the ordinary way within this limitation.
-- Critical feeling is reflecting with an added Positive effort to push against or break through such limitation.
-
-This is why it is commonly called feeling beyond the self or empathy, which Adam Smith called sympathy or fellow-feeling.  
-- This happens when we apply more effort into feeling beyond our selves.
-
-
-{{< q a="Adam Smith" c="Theory of Moral Sentiments, Part 1 Section 1 Chapter 4" >}}
-The observers are continually placing themselves in the person's situation in order to conceive similar emotions. Through sympathy, they are constantly considering what they themselves would feel if they were the sufferers. The person is also constantly placing himself in the observers' situation. Through sympathy, he is also constantly led to imagine how he would be affected if he was his own observer.  This creates in him a reflected passion which is much weaker than his own original passion
+{{< q a="Rene Descartes" a="Anatomica, Part 1" >}}
+Besides the animal spirits, man consists of:
+- spiritual air-aether, homogeneous with our animal spirit, and
+- watery humor, homogeneous with the solid parts that can be compared to the earth-aether
 {{< /q >}}
 
 
-The big misconception is to critical feeling needs us to be more emotional.
+## How to Fix Bad Feelings
 
-But being emotional is actually lack of control by the lower mind of its emotions.
+Bad Feelings are waves of a certain waveform. 
 
-Positive effort does not mean more feeling is needed. 
-- Instead, it needs more subtlety and refinement, as access to the Higher Mind, to breach the limitation imposed by the Negative Force.
+These can be fixed by:
 
-Therefore the key component of Critical Feeling or empathy is the Positive Force, just as the key component of selfishness is the Negative.
+1. Cancelling them out with an opposite waveform. 
 
-This access to the Higher mind, and therefore more control of the emotions, is done by ideation and affirmations. 
+We get a negative feeling such as when our work is criticized and seen as ugly.
+
+This can be relieved by getting a positive feeling where our work, or something about ourself, is praised and called beautiful. 
+
+The positive wave cancels out the negative wae. 
 
 
+2. Preventing waves from becoming bad qualitatively or quantitatively (volumetrically)
+ <!-- or gaining negativity  -->
 
-## The Traditional Solution to Increase Critical Feeling
+Bad feelings get their "badness" from the difference with the current gravitational signature of the ego. 
 
-Traditionally, fellow-feeling was increased to overcome the 5 senses through the imposition of moral philosophy. This was then deployed by 2 groups:
-
-1. The government, monarch, or emperor through traditions, customs, policies, and festivals
-2. Religion through religious laws and scriptures
-
-Golden ages were times when these were succesfully done:
-
-- Pax Romana was brought about by Roman Legalism and Stoicism
-- The prosperity of the Song and Ming dynasties were from the imposition of Confucianism and Neo-confucianism respectively 
-- Japan's rise was due to the imposition of a Japanese version of Confucianism by the Tokugawa and Meiji Restoration
-- The British Empire from the Glorious Revolution and their philosophy of enlightened liberalism from John Locke
-
-These golden ages result in wealth which then bombards the 5 senses. This constant barrage on the senses leads to the decline of the morals that created that very wealth:
-
-- Pax Romana was destroyed by imperial instability
-- The Song were destroyed by the Mongols just as the Ming were destroyed by the Qing
-- Japan was defeated in World War 2
-- The British Empire was challenged and weakened by the Americans who enshrined a shallow kind of materialist liberalism
+For example, a traffic jam is not so bad for a passenger who is reading a good book, but it really bad for a passenger who has to get to work on time. It can even be positive for a passenger of a bus who is watching his favorite movie on the bus' screen. 
 

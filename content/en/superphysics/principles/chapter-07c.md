@@ -103,19 +103,13 @@ DNA is a long, complex molecule with a distinctive structure known as a double h
 
 The DNA molecule is a polymer composed of repeating units called nucleotides. Each nucleotide has three parts:
 
-    A Phosphate group (forms the backbone).
-
-    A Deoxyribose sugar (forms the backbone).
-
+    A Phosphate group (forms the backbone). A Deoxyribose sugar (forms the backbone).
     One of four Nitrogenous bases.
 
 The "ladder" structure is formed as follows:
 
     The Sugar and Phosphate groups alternate to form the two vertical sidepieces (the backbone) of the ladder.
-
-    The Nitrogenous Bases pair up across the center to form the rungs of the ladder, held together by hydrogen bonds.
-
-    Shutterstock -->
+    The Nitrogenous Bases pair up across the center to form the rungs of the ladder, held together by hydrogen bonds.-->
 
 The steps of the double helix ladder are made up of a sequence of 4 Nitrogenous Bases as the letters ATGC.
 

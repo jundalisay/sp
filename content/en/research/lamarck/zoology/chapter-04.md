@@ -1,8 +1,7 @@
 ---
-title: General Observations Concerning Animals
+title: General Observations of Animals
 heading: Chapter 4
-description: 
-
+description:
 c: "deeppink"
 date: 2025-09-16
 weight: 19
@@ -12,7 +11,6 @@ weight: 19
 <!-- Animals include living beings truly remarkable for faculties unique to them and at the same time worthy of our admiration and study. 
 
 These beings, infinitely diversified in their forms, organic structures, and faculties, are capable of movement or of moving certain parts without the impetus of any communicated movement but by a cause which stimulates their irritability, a cause which, in some, is produced from within and, in others, is entirely outside them. For the most part, animals enjoy the ability to change their location, and they all possess eminently irritable parts. -->
-
 
 
 Some animals crawl, march, run, or jump, while others fly, raising themselves in the air and travelling through different spaces. 
@@ -49,21 +47,43 @@ In addition, they have the ability to form ideas for themselves, although confus
 
 4. Some other animals, the most perfect, possess to a high degree all the abilities of the preceding ones and enjoy, in addition, the power of forming for themselves clear or precise ideas of objects which have affected their sense and drawn their attention, of comparing and combining these ideas up to a certain point, and deriving from them judgments and complex ideas. 
 
-In a word, they have the ability to think and to have a less captive will power, which permits them to vary their actions to a greater or lesser extent.
 
-In the least perfect animals, life is without energetic movements, and irritability alone is then sufficient for vital movements. 
+They have:
+- the ability to think
+- a less captive will power
 
-But since vital energy increases in proportion to the complexity of organic structures, there comes a limit where in order to provide sufficiently for the activities essential to vital movements, nature had to add to its means. 
+These permit them to vary their actions.
 
-This is why nature used muscular action to establish a system of circulation, from which followed the acceleration of the movements of fluids. 
+In the least perfect animals, life is without energetic movements. 
+- Irritability alone is enough for vital movements. 
+
+But vital energy increases in proportion to the complexity of organic structures.
+- This creates a limit where in order to provide sufficiently for the activities essential to vital movements, nature had to add to its means. 
+
+This is why nature used muscular action to establish a system of circulation.
+- This caused the acceleration of the motions of fluids. 
 
 This acceleration itself later grew in proportion to the muscular power which it required. 
 
-No muscular activity can take place without the action of nerves the latter were everywhere found necessary to the acceleration of the fluids in question.
+No muscular activity can take place without the action of nerves.
+- And so nerves were everywhere necessary to accelerate fluids.
 
-In this way nature was capable of adding to the irritability, once insufficient, muscular action and neural influence. But this neural influence which gives rise to muscular action never brings it about by the path of feeling, something I hope to demonstrate in the second part. Later I will establish there that feeling is not at all necessary for the carrying out of vital movements, even in the most perfect animals.
+In this way, nature added muscular action and neural influence to the insufficient irritability. 
 
-Thus, the different existing animals are clearly distinguished from each other, not only by the particular features of their external shape, the consistency of their bodies, their size, and so on, but, in addition, by the faculties with which they are endowed. Some, like the most imperfect, find themselves reduced, in this respect, to the most limited state, not having any faculties other than those appropriate for life, not moving except through a power outside themselves; whereas, the others have progressively more numerous and more eminent faculties, to the point where the most perfect display a collection of faculties exciting our admiration.
+
+But this neural influence which gives rise to muscular action never brings it about by the path of feeling, something I hope to demonstrate in the second part. 
+
+Later I will establish there that feeling is not at all necessary for the carrying out of vital movements, even in the most perfect animals.
+
+Thus, existing animals are clearly distinguished from each other by:
+- the features of their external shape
+- the consistency of their bodies
+- their size, and so on
+- their faculties
+
+The most imperfect organism are reduced, in this respect, to the most limited state.
+
+ not having any faculties other than those appropriate for life, not moving except through a power outside themselves; whereas, the others have progressively more numerous and more eminent faculties, to the point where the most perfect display a collection of faculties exciting our admiration.
 
 These astonishing facts cease to surprise us when we first recognize that each acquired faculty is the result of a special organ or system of organs which gives rise to it and when later we see that from the most imperfect animal, which has no particular organ whatsoever and consequently no other faculty that those which belong to life itself, right up to the most perfect animal, the most richly endowed with faculties, the organic structure gradually gets more complex, in such a way that all the organs, even the most important, arise one after the other through the extent of the animal ladder, then successively perfect themselves by the modification which they undergo and which accommodates them to the state of their organic structure of which they are a part. Finally, through their combination in the most perfect animals they present the most complex organic structures, which produce the most numerous and most eminent faculties.
 

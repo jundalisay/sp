@@ -251,7 +251,9 @@ When different cultural groups live side-by-side there is a lot of mutual exchan
 
 Sanskrit has influenced all the languages of northeast India. Even the southern Indian languages were influenced to a certain degree. Of all the southern languages, Málayálam has been most affected by Sanskrit. This is because many people migrated from the north through Madras to Kerala. That’s why the root-verbs of Málayálam are of Tamil origin while its vocabulary is by-and-large of Sanskrit origin. 75% of Málayálam is Sanskrit based.
 
-The Aryan influence was felt as much in the lower stratum of life as in the upper stratum. In some places this influence was so dominating that people are reluctant to speak their own languages outside their family environment. The Saha community of the Austric group, for example, speak their own dialect [[in their homes, but speak Bhojpurii outside. In the same way the Singmund́á and the Sharan people and the Tipras of Tripura state speak Bengali and not their own ancestral tongue. The Garhwaliis have long stopped speaking their own Tibeto-Chinese dialect]] and have adopted Indo-Aryan languages.
+The Aryan influence was felt as much in the lower stratum of life as in the upper stratum. In some places this influence was so dominating that people are reluctant to speak their own languages outside their family environment. The Saha community of the Austric group, for example, speak their own dialect [[in their homes, but speak Bhojpurii outside. 
+
+In the same way the Singmund́á and the Sharan people and the Tipras of Tripura state speak Bengali and not their own ancestral tongue. The Garhwaliis have long stopped speaking their own Tibeto-Chinese dialect]] and have adopted Indo-Aryan languages.
 
 Thus, there are differences in language due to racial traits and cultural influence. These linguistic differences cannot be forcibly suppressed. But a close analysis of history will reveal that many attempts have been made to suppress various languages of the world.
 
@@ -264,14 +266,30 @@ But, ignoring their demands, Buddha continued to use Pali. In medieval India San
 <!-- Sanskrit kúpodaka, bhákhá bahatá niira.
 [Sanskrit is as stagnant as well-water, whereas bhákhá is as dynamic as the flowing water of a stream.] -->
 
-Nor did the Sanskrit scholars give any importance to Bengali: it was considered nothing short of blasphemy to translate the religious scriptures from Sanskrit into Bengali. The Nabab Hussein Shah personally tried to develop the Bengali language. With his active support Krttivása Ojah translated the Ramayana, Káshii Ram Dash translated the Mahabharata and Máladhra Vasu translated the Bhágavata from Sanskrit to Bengali. 
+Nor did the Sanskrit scholars give any importance to Bengali: it was considered nothing short of blasphemy to translate the religious scriptures from Sanskrit into Bengali. 
 
-This caused a furore among the community of scholars. They tried to brand Hussein Shah as a saboteur of the Hindu religion because, according to them, to translate the holy scriptures into Bengali was to defile the Hindu religion. Máládhra Vasu had to bear the stigma of being a Moslem convert and was widely ridiculed as Guńaranjiṋa Khan. So incensed were the Sanskrit scholars over the translations of Krttivása Ojah that he was declared an outcaste for committing an act of sacrilege. All this took place only 450 years ago.
+The Nabab Hussein Shah personally tried to develop the Bengali language. With his active support Krttivása Ojah translated the Ramayana, Káshii Ram Dash translated the Mahabharata and Máladhra Vasu translated the Bhágavata from Sanskrit to Bengali. 
 
-In Europe Latin scholars tried their best to suppress other languages. The Arabic scholars of the Middle East wanted to suppress Persian. And in recent years the people of Wales and Quebec in Canada have protested against the imposition of the English language. They preferred to use their own languages as the medium of expression. 
+This caused a furore among the community of scholars. 
+
+They tried to brand Hussein Shah as a saboteur of the Hindu religion because, according to them, to translate the holy scriptures into Bengali was to defile the Hindu religion. 
+
+Máládhra Vasu had to bear the stigma of being a Moslem convert and was widely ridiculed as Guńaranjiṋa Khan. 
+
+So incensed were the Sanskrit scholars over the translations of Krttivása Ojah that he was declared an outcaste for committing an act of sacrilege. All this took place only 450 years ago.
+
+In Europe Latin scholars tried their best to suppress other languages. The Arabic scholars of the Middle East wanted to suppress Persian. 
+
+Recently, the people of Wales and Quebec in Canada have protested against the imposition of the English language. 
+
+They preferred to use their own languages as the medium of expression. 
 
 In modern India, due to selfish political influences, important languages such as Bhojpurii, Maethilii, Mágadhii, Chattrisgaŕhii, Avadhii, Bunddkháńd́ii and Marwarii are being suppressed. 
 
-Their speakers will certainly not accept this silently, but will surely protect against this unjust domination. Recently there was an open revolt against the imposition of Hindi as the national language of India. That’s why, it is better to brings people speaking different languages closer to one another than to suppress their languages. As a result, people will feel inspired to speak other languages. The arbitrary imposition of any language invites trouble.
+Their speakers will certainly not accept this silently, but will surely protect against this unjust domination. 
 
+Recently there was an open revolt against the imposition of Hindi as the national language of India. 
 
+That’s why, it is better to brings people speaking different languages closer to one another than to suppress their languages. As a result, people will feel inspired to speak other languages. 
+
+The arbitrary imposition of any language invites trouble.

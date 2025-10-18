@@ -10,37 +10,55 @@ description: "Book 1 of The Heavens by Aristotle Simplified"
 ---
 
 
+The majority of the ancient philosophers thought that there is there an infinite body. Is this an impossibility? 
 
-Is there an infinite body, as the majority of the ancient philosophers thought? Or is this an impossibility? 
+This is all-important to our search for the truth. 
 
-This is all-important, to our search for the truth. 
+This problem has been the source of the differences of those who have written about nature as a whole since the least initial deviation from the truth is multiplied later a thousandfold.
 
-This problem has practically always been the source of the differences of those who have written about nature as a whole. So it has been and so it must be; since the least initial deviation from the truth is multiplied later a thousandfold.
+If you admit the existence of a minimum magnitude, then this minimum which you have introduced causes the greatest truths of mathematics to totter because a principle is greater in power than in extent.
 
-Admit, for instance, the existence of a minimum magnitude, and you will find that the minimum which you have introduced, small as it is, causes the greatest truths of mathematics to totter.
+Hence that which was small at the start turns out a giant at the end. 
 
-The reason is that a principle is great rather in power than in extent; hence that which was small at the start turns out a giant at the end. Now the conception of the infinite possesses this power of principles, and indeed in the sphere of quantity possesses it in a higher degree than any other conception; so that it is in no way absurd or unreasonable that the assumption that an infinite body exists should be of peculiar moment to our inquiry. The infinite, then, we must now discuss, opening the whole matter from the beginning.
+The conception of the infinite has this power of principles.
 
-Every body is necessarily to be classed either as simple or as composite; the infinite body, therefore, will be either simple or composite.
+Quantities possess it more than any other conception.
 
-But if the simple bodies are finite, the composite must also be finite, since that which is composed of bodies finite both in number and in magnitude is itself finite in respect of number and magnitude: its quantity is in fact the same as that of the bodies which compose it. What remains for us to consider, then, is whether any of the simple bodies can be infinite in magnitude, or whether this is impossible. Let us try the primary body first, and then go on to consider the others.
+ <!-- so that it is in no way absurd or unreasonable that the assumption that an infinite body exists should be of peculiar moment to our inquiry. The infinite, then, we must now discuss, opening the whole matter from the beginning. -->
 
-The body which moves in a circle must necessarily be finite in every respect, for the following reasons. (1) If the body so moving is infinite, the radii drawn from the centre will be infinite. 
+Every body is either simple or composite. The infinite body, therefore, will be either simple or composite.
 
-But the space between infinite radii is infinite. The space between the radii is the area outside which no magnitude which is in contact with the two lines can be conceived as falling.
+But if the simple bodies are finite, the composite must also be finite, since that which composes finite bodies in number and magnitude is itself finite in respect of number and magnitude.
+- Its quantity is the same as that of the bodies which compose it.
+
+Can any of the simple bodies be infinite in magnitude or not?
+
+  <!-- or whether this is impossible. Let us try the primary body first, and then go on to consider the others. -->
+
+The body which moves in a circle must necessarily be finite in every respect, for the following reasons.
+
+1. If the body so moving is infinite, the radii drawn from the centre will be infinite. 
+
+But the space between infinite radii is infinite. 
+
+The space between the radii is the area outside which no magnitude which is in contact with the two lines can be conceived as falling.
 
 This will be infinite because:
 
-1. In the case of finite radii it is always finite
-2. In it one can always go on to a width greater than any given width
+- In the case of finite radii it is always finite
+- In it one can always go on to a width greater than any given width
 
-Thus the reasoning which forces us to believe in infinite number, because there is no maximum, applies also to the space between the radii. 
+Thus, the reasoning which forces us to believe in infinite number, because there is no maximum, applies also to the space between the radii.
 
 The infinite cannot be traversed, and if the body is infinite the interval between the radii is necessarily infinite: circular motion therefore is an impossibility.
 
-Yet our eyes tell us that the heavens revolve in a circle, and by argument also we have determined that there is something to which circular movement belongs.
+Yet our eyes tell us that the heavens revolve in a circle.
 
-(2) If from a finite time a finite time be subtracted, what remains must be finite and have a beginning. And if the time of a journey has a beginning, there must be a beginning also of the movement, and consequently also of the distance traversed. This applies universally. 
+ <!-- and by argument also we have determined that there is something to which circular movement belongs. -->
+
+2. If from a finite time a finite time be subtracted, what remains must be finite and have a beginning. 
+
+If the time of a journey has a beginning, there must be a beginning also of the movement, and consequently also of the distance traversed. This applies universally. 
 
 Take a line, ACE, infinite in one direction, E, and another line, BB, infinite in both directions. Let ACE describe a circle, revolving upon C as centre. In its movement it will cut BB continuously for a certain time. This will be a finite time, since the total time is finite in which the heavens complete their circular orbit, and consequently the time subtracted from it, during which the one line in its motion cuts the other, is also finite.
 

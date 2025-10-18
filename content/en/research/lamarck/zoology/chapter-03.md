@@ -9,7 +9,7 @@ weight:  11
 ---
 
 
-## Concerning Speciation Among Living Things and the Idea Which We Should Attach to Speciation
+## Speciation Among Living Things and the Idea Attached to Speciation
 
 <!-- It is not a futile pursuit firmly to establish the idea which we should form about what are called species among living creatures and to investigate whether it is true that species have an absolute constancy, are as old as nature, and have all existed originally just as we see them today, or whether, subject to changes which could have taken place in the circumstances relevant to them, they have not changed their characteristics and shape with the passage of time (although extremely slowly).
 

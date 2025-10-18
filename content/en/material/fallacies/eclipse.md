@@ -43,6 +43,10 @@ A common example of a vortex on earth is the typhoon or hurricane.
 
 It begins when cold and warm air come into contact with each other. More warm air leads to a stronger typhoon-vortex. 
 
+
+{{< youtube b_FdtRenjgk >}}
+
+
 Likewise, high energy aether converts to high energy spacetime. This creates a more spiral galaxy with brighter stars.
 
 A high energy spacetime vortex has more virtual space particles that go around it. 
@@ -59,7 +63,9 @@ The 1919 eclipse therefore proves the Cartesian refraction of starlight via virt
 Newton's gravity and inverse square law is caused by the displacement of virtual space particles in a volumetric way, not in a circular (vortex-rotation) and relational way. 
 
 Einstein supplied this circularity through "frame-dragging" and relationality through "reference frames". 
-- In Cartesian Physics, reference frame is merely the space particles coming from vortices or bodies. 
+
+In Cartesian Physics, "reference frame" is merely the space particles coming from different vortices or bodies. 
+- It is a proof of the independence of each particle or vortex, which we call the Law of Conservation of Idea.
 
 
 <!-- This opens the way to anti-gravity and teleportation, because accrording to Descartes' theory, it is possible to:

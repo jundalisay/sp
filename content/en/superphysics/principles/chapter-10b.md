@@ -13,9 +13,7 @@ draft: true
 ---
 
 
-Chapter 9 explained that feelings are important. 
-
-
+Chapter 9 explained that feelings are more fundamental than ideas. 
 
 Our logic is based on our feelings because particles are inferiot wvae
 
@@ -38,5 +36,4 @@ We do not usually associate the word pleasure with giving relief goods to victim
 In such cases, we get a warm, lightweight feeling in our hearts instead of strong pleasureable semsations in our brains. 
 
 This is why our basis for morality is not pain or pleasure, but ease and unease, or pain and agitation. 
-
 
