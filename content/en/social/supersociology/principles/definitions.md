@@ -11,7 +11,7 @@ type: "featured"
 
 Word | Acronym | Meaning
 --- | --- | ---
-[Charge](/material/charges) | Rotation direction of that particle 
+[Charge](/charges) | Rotation direction of that particle 
 Gravitational Signature | | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
 [Magnetic Field](/material/principles/part-3/chapter-03c/) | The flow of virtual photons around that hole
 Magnetic Moment | A hole in particles for virtual photons to pass through

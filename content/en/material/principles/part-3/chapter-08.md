@@ -11,7 +11,7 @@ weight: 38
 icon: "Juan"
 toc: false
 aliases:
-  /material/charges
+  /charges
 ---
 
 
@@ -25,10 +25,23 @@ Chapter 3 explained that magnetism is caused by virtual photons entering and exi
 ## Macro and Micro Channels from Male and Female Poles
 
 In magnets, Physics calls:
-- the entrance as the South Pole
+- the entrance of the virtual photons ("striated particles" to Descartes) as the South Pole
 - the exit as the North Pole
 
 Such channels are caused by the matter having rigid, straight channels. We can call this macro or classical channels.
+
+
+{{< q a="Rene Descartes" c="Principles of Philosophy, Part 3, Article 107" >}}
+These channels are also carved in the shape of spirals, resembling the shape of the striated particles that they admit.  Therefore, the channels that are open to one set are not open to those coming from the opposite pole and twisted in the opposite direction.
+{{< /q >}}
+
+In electromagnets and circuits, Physics calls:
+- the entrance for electrons ("minutiae" to Descartes) as the Cathode
+- the exit as the Anode
+
+In batteries, Physics calls:
+- the entrance for electrons as the Positive Terminal
+- the exit as the Negative Terminal
 
 However, subatomic particles also experience electromagnetism. This means that they have channels within them.  
 
@@ -36,12 +49,19 @@ In particles:
 - the presence of channels is called the negative charge
 - the lack of channels is called the positive charge
 
-We replace charges with male and female polarity.
+We replace charges, poles, and terminals with male and female polarity.
 
-- North Pole is replaced by Male Pole
-- South Pole is replaced by Female Pole
-- Negative Charge is replaced by the presence or richness of Males
-- Positive Charge is replaced by the absence or poverty of Males
+Physics names | Material Superphysics names
+--- | ---
+North Pole | Male Pole
+South Pole | Female Pole
+Anode | Male Pole
+Cathode | Female Pole
+Negative Charge | Masculine Charge (presence or richness of Males)
+Positive Charge | Effeminate or Feminine Charge (absence or poverty of Males)
+
+This greatly simplifies magnetism and electronics which use the same principle of male-female unity to produce electromagnetic phenomena. This will then be useful in using electromagnetism to manipulate the aether in matter and create antigravity.
+
 
 {{< n n="The setting of electrons are negatively charged came from [Benjamin Franklin](https://whyy.org/articles/does-our-confusing-electrical-nomenclature-start-with-ben-franklins-theory)" >}}
 
@@ -65,9 +85,6 @@ Vortex or Spin Direction | Negative (Male) and Positive (Female) Charge
 Vortex or Spin Orientation | Up and Down -->
 
 
-<!-- Integer Spin and Half-Integer Spin  -->
-
-
 <!-- In Material Superphysics, particles actually spin. A 'charge' is therefore the rotation direction of a particle.
 
 Technically, this would mean that an electron of a negative charge would be rotating positively. This would be confusing*. 
@@ -89,8 +106,8 @@ Unlike the spatial layer, the union of male and female charges does not create f
 
 Instead, it creates union and stability. This is why we chose the name of male and female. -->
 
-{{< b >}}
-### History of Male and Female Analogy in Metaphysics
+
+### The History of Male and Female Analogy in Metaphysics
 
 Historically, the ancient Vedics and Taoists:
 - assigned the male character to the Positive Force 
@@ -98,17 +115,22 @@ Historically, the ancient Vedics and Taoists:
 
 By going through the particle shapes, we realized that this is because the force particles have a positive direction or rotation. These then go into matter particles which have gaps of holes for them.
 
-{{< youtube liideRqRvV8 >}}
+{{< youtube EfY68Ni8oBQ >}}
 
-So the force particles are like male penises and the matter particles are like female vaginas. This then explains why the Vedics worshipped the penis and vagina as phallus and yoni worship, respectively. 
+- The force particles are like male penises
+- The non-force particles are like female vaginas
+
+This then explains why the Vedics worshipped the penis and vagina as phallus and yoni worship, respectively. 
 
 In fact, William Gilbert, who documented Earth's magnetism, calls the attraction as Magnetick [Coition](/research/gilbert/book-2/chapter-03) which means sexual intercourse.
-{{< /b >}}
-
 
 This is based on:
 - the Positive Force being called masculine Shiva or Yang
 - the Negative Force being called feminine Shakti or Yin
+
+
+{{< i s="/graphics/meta/lingam.jpg" a="Shiva Lingam" c="While the Taoists use the Yin-Yang symbol to show the perfect fit of male and female energies as a general view, the Hindus use the Shiva Lingam as more technical view" >}}
+
 
 <!-- This naming is also useful and intuitive for neutral charges which we call bisexual. A neutral or bisexual charge is produced when a male and female cancel each other.
 
@@ -118,7 +140,7 @@ This will be consistent in the convertible layer which has the concept of 'flavo
 - Opposite-charges, such as male to female, create attraction.  -->
 
 
-### Ions
+## Ions
 
 Ions are atoms or molecules that gain or lose a male electron, making them:
 - rich in males if they gain electrons
