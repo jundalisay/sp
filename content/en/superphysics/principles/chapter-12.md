@@ -85,14 +85,24 @@ Chapter | Principle
 12 | Superphysics
 
 
-{{< i s="/graphics/super/spmodel.jpg" a="Essential Superphysics concepts" c="Superphysics can be summed up as being based on the Supreme Entity, 2 Forces, 5 Elements, and Relationality" >}}
+{{< i s="/graphics/super/super.jpg" a="Superphysics concepts" c="Superphysics can be summed up as a discipline that deals with the Supreme Entity or Existence" >}}
 
 
 In a nutshell, using our own defintions:
-- Superphysics is an organized set of principles that explains how Existence works. It is the result of Socratic Dialetics
+- Superphysics is a discipline using an organized set of principles that explains how Existence works. It is the result of Socratic Dialetics
 - Socratic Dialectics is **the method that exhaustively probes and merges the known and proven perceptions (evidence) of the physical and metaphysical domains (Chapters 1-2, 8) in order to find patterns (Chapters 3-5) and principles (Chapters 6-9) for the sake of solving problems in Existence (restore things to the dharma)**
 - Socratic Dialectics uses induction and deduction for thoughts, and discernment and ideation for feelings, adding energy though critical out-of-the box thinking and critical out-of-the-self feeling 
-- Superphysics becomes a belief system if an ego attaches to it. It becomes an organized belief if a group of egos attaches to it.
+
+
+<!-- - Superphysics becomes a belief system if an ego attaches to it. It becomes an organized belief if a group of egos attaches to it. -->
+
+We avoid the word "science" as it implies a rejection of the metaphysical
+
+We avoid the word "philosophy" as it implies a lack of evidence and replicability.
+
+We avoid the word "belief" or "ideology" as it implies something not universal.
+
+We instead use the word "discipline" just as engineering, law, music, and the sciences are disiplines which based on real practice. 
 
 
 <!--  paradigm that sees the universe or reality as being made up of 2 Forces and 5 Layers. 
