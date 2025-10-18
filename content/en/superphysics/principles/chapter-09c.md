@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 9"
+heading: "Chapter 9c"
 title: "The Ego and Group Feeling"
 date: 2020-12-15
 weight: 600
-image: /graphics/psych/feelings.jpg
+image: /photos/team.jpg
 description: "Ego is the feeling of the self"
 writer:
   name: Juan

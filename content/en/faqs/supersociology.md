@@ -3,9 +3,9 @@ title: "Supersociology FAQ"
 date: 2024-07-17
 c: "darkslategray"
 description: "FAQ on Supersociology"
-icon: "Juan"
-icon: "Supersociology"
+icon: "Social Superphysics"
 ---
+
 
 
 {{< r a="Asker" >}}
@@ -68,7 +68,14 @@ You mean the Zecharaiah Stitchin pseudo-science Anunnaki?
 {{< /r >}}
 
 {{< l a="Social Superphysics" >}}
-No. We mean the Sumerian, Babylonian, Jewish, Greek, Egyptian, Mayan Anunnaki from the original texts. We then cross reference these with various channeled information from aliens. We reject outright any inconsistencies in order to give us a big picture. 
+No. We mean the Sumerian, Babylonian, Jewish, Greek, Egyptian, Mayan Anunnaki from the original texts. We then cross reference these with various channeled information from aliens. 
+
+We reject outright any inconsistencies in order to give us a big picture. For example, Stitchin gave wrong intepretations of Nibiru and Tiamat, even writing that early humans had regular sex with animals (in an effort to explain Genesis 3).  
 {{< /l >}}
+
+{{< q a="Zechariah Sitchin" c="12th Planet, Chapter 13" >}}
+Man had come to recognize that having sex with animals was evil. But why were Adam and Eve punished for giving up sodomy?
+{{< /q >}}
+
 
  <!-- a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data). It would be a proof of concept of the great uses of AI -- using it to unite people instead of being [a danger to humanity](https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html) -->

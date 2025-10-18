@@ -15,11 +15,12 @@ What is Bio Superphysics?
 
 {{< l a="Bio Superphysics" >}}
 It's the implementation of Superphysics for living beings. It's based on Cartesian Physics which divides reality into the physical and metaphysical domains.
-- The body is the physical aspect. The physical body uses the **5 Element model**
-- The abstract mind or soul is the metaphysical aspect. The abstract mind uses the **5 Stratum model**. 
+- The body is the physical aspect
+- The abstract mind or soul is the metaphysical aspect
 
-Both Elements and Strata are versions of the 5 Layer model.  
+Both aspects use the 5 Elements model as Aether, Air, Fire, Water, and Earth.  
 {{< /l >}}
+
 
 {{< youtube adPQAffGXG8 >}}
 

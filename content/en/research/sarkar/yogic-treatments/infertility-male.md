@@ -2,7 +2,7 @@
 title: "Impotency and Infertility Natural Remedies "
 weight: 42
 description: "In most cases, if not all, impotency is a disease of the intemperate"
-image: "/photos/consult.jpg"
+image: "/photos/psych/consult.jpg"
 icon: "PR Sarkar"
 ---
 

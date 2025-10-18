@@ -27,7 +27,7 @@ Why are there broken links?
 
 
 {{< l a="Superphysics" >}}
-Sometimes, we find a better arrangement for the content and we transfer them or merge them with others. This is common during breaking changes. 
+Sometimes, we find a better arrangement for the content and we transfer them or merge them with others. This is common during [breaking changes](/news/changes). 
 {{< /l >}}
 
 
@@ -36,9 +36,11 @@ How environmentally-friendly is your website?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-We to reduce the size of our images to under 100kb and avoid React. We will try to optimize the Tailwind CSS load in the future. For now most of our pages are `B` or `A` rating in websitecarbon.com: https://www.websitecarbon.com/website/superphysics-org-social-cycles-russia/
+We have an [A grade](https://www.websitecarbon.com/website/superphysics-org-faqs-site/) from most carbon calculator websites. We avoid React and convert graphics to SVG whenever possible.
 {{< /l >}}
 
+
+<!-- We to reduce the size of our images to under 100kb and avoid React. We will try to optimize the Tailwind CSS load in the future. For now most of our pages are `B` or `A` rating in websitecarbon.com: https://www.websitecarbon.com/website/superphysics-org-social-cycles-russia/ -->
 
 {{< r a="Asker" >}}
 I want you to explain a certain phenomenon using your Superphysics, or simplify a scientific work of a 16th century author. 

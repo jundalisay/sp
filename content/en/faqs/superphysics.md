@@ -56,21 +56,57 @@ Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the
 ## 6-sense Upgrade
 
 {{< l a="Superphysics" >}}
-**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'. You could say that the 5 senses detect visible particles and objects, while the 6th sense detects invisible waves and patterns. Most people only use the 5 senses. A very few use all 6 senses. Of those very few, only a handful have the intellect to connect everything and solve problems.
+In its simplest defintion, Superphysics is a **formal discipline** that explains how Existence works. So it is not a science, philosophy, belief, or ideology. 
+- "science" implies a rejection of the metaphysical
+- "philosophy" implies a lack of evidence and replicability
+- "belief" or "ideology" implies something not universal
 {{< /l >}}
+
+{{< r a="Asker" >}}
+Formal discipline implies actual systemic practice just like engineering, law, music, business, accounting, software development, etc.
+{{< /r >}}
+
+{{< l a="Superphysics" >}}
+Yes. It emphasizes actual practice just as how gravity actually presses on us right now and will continue to press on us always. We do not say we have a belief in gravity. Nor there is a philosophy of gravity.  
+{{< /l >}}
+
+{{< r a="Asker" >}}
+But formal disciplines have some document or theory to back them up. For example:
+- music has music theory as octaves and rhythm names
+- software development has documentation
+- Christianity has a Bible, Islam has a Quran
+- accounting has generally accepted principles
+{{< /r >}}
+
+
+{{< l a="Superphysics" >}}
+We have principles too. These are derived from Socratic Dialectics, since Superphysics is a Socratic discipline that is embodied in "Guardians"
+{{< /l >}}
+
+
+{{< r a="Asker" >}}
+What's Socratic Dialectics? 
+{{< /r >}}
+
+
+{{< l a="Superphysics" >}}
+[Socratic Dialectics](/dialectics) makes up the core of the 'super' upgrade as a process of exhaustive data gathering, probing, and experimenting that uses the 6th sense called intuition or higher mind which Socrates called the 'higher principle'. 
+
+You could say that the 5 senses detect visible particles and objects, while the 6th sense detects invisible waves and patterns. Most people only use the 5 senses. A very few use all 6 senses. Of those very few, only a handful have the intellect to connect everything and solve problems.
+{{< /l >}}
+
 
 {{< q a="Socrates" c="The Republic Simplified" >}}
 He leaves this higher principle in pure abstraction when the lower and higher principle clash. He rouses up the third principle which is reason... The intellectual sphere has a lower part where the soul uses the shapes given by the higher part as images. Enquiries here does not go upwards to a higher principle.
 {{< /q >}}
+
 
 <!-- 
 r a="Asker" >}}
 How is Socratic Dialectics different from Dialectics?
 /r >}}
 
-
   hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Engels, Marx, and Einstein followed Aristotle.  -->
-
 
 <!--  l a="Superphysics" >}}
 Socratic Dialectics uses timeless metaphysical truths as the quality control for logic. Its rival is Aristotlean and Marxist dialectics which uses either the ego or matter (materialism). These have led to:
@@ -135,7 +171,7 @@ So the consistency of people around the world (who don't talk to each other) hav
 <!-- , innate, abstract, aethereal, or spiritual ideas  -->
 
 {{< l a="Superphysics" >}}
-Yes. All cultures have similar a belief in another type of reality, and of a Supreme Being that administers that reality as well as ours. We use their data to test that reality and that Being.  
+Yes. All cultures have similar a belief in another type of reality, and of a Supreme Being that administers that reality as well as ours. Modern science discards such information as imaginary or hallucinations, instead of studying the consitency or inconsistency of the data. But Superphysics embraces that data to test that reality and that Being.  
 {{< /l >}}
 
 
@@ -151,7 +187,9 @@ So what have you found?
 {{< l a="Superphysics" >}}
 We found that we are actually **inside** the Supreme Being that they call God, Allah, Jehovah, Yahweh, Brahma, or whatever, and that everything inside it is generated **in real-time** through the wave function collapse in Quantum Mechanics. 
 
-This is similar to how a computer can generate anything that it wants in its virtual reality. It starts as abstract code, evolving into real pixels on your screen instantly. Again, this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
+This is similar to how a computer can generate anything that it wants in its virtual reality. It starts as abstract code, evolving into real pixels on your screen instantly. This is consistent with Hindu and Buddhist belief that the world is an illusion.
+
+Again, this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -167,21 +205,20 @@ In the beginning, we used it to solve the personal problems of others. In time, 
 {{< /l >}}
 
 {{< q a="Rene Descartes" c="The Principles of Philosophy, Preface" >}}
-There are 3 principal sciences:
-1. Medicine
-2. Mechanics
-3. Ethics
+There are 3 principal sciences: Medicine, Mechanics, Ethics
 {{< /q >}}
 
 
 {{< r a="Asker" >}}
-So how can that knowledge solve problems? Are you just going to be like the Hindus and solve the problem by ignoring it as an illusion? Or will you rely on spirits to solve your every problem?
+So how can that knowledge solve problems? Are you just going to be like the Hindus and solve the problem by ignoring it as an illusion? Or will you rely on spirits to solve every problem?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-No. Superphysics aims to solve problems by striking at the root cause, which is the 'True Nature' or Dharma or Tao in every thing that leads to its discrete identity, as described by Socrates. 
+No. Superphysics solves problems by striking at the root cause, which is the 'True Nature' or Dharma or Tao in every thing that leads to its discrete identity, as described by Socrates. 
 
-A problem begins when something goes away from its True Nature, Dharma, or Tao. Most sciences just deal with the effect and not the cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial or intellectual workers (the dharma of industry and business). 
+A problem begins when something goes away from its True Nature, Dharma, or Tao, diverting it from its natural, friction-free flow.
+
+Most sciences just deal with the effect and not the cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial or intellectual workers (the dharma of industry and business). 
 
 Ask anyone what the goal or purpose of their life is, and they will look at you with a blank stare. So the first step is to find the metaphysical true nature.
 {{< /l >}}

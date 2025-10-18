@@ -5,7 +5,7 @@ description: "Here we list common diseases and Natural Remedies"
 # date: "2020-01-01"
 date: 2020-01-25
 weight: 14
-image: "/photos/consult.jpg"
+image: "/photos/psych/consult.jpg"
 icon: "Bio Superphysics"
 draft: true
 ---
