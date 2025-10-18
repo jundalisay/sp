@@ -65,10 +65,9 @@ Linnaeus' class worms is a chaos in which things very different are found united
 
 His authority was so weighty among naturalists, that no one dared to change this monstrous class worms.
 
-Intending to institute some useful reforms in this matter, I presented in my first course of study the following distribution for the animals without vertebrae, which I divided, not into two classes, but into five in the order given below:
+Intending to institute some useful reforms in this matter, I presented in my first course of study a distribution for the animals without vertebrae which has 5 classes:
 
-
-Distribution of Animals Without Vertebrae as Laid Out in My First Course of Study
+<!-- Distribution of Animals Without Vertebrae as Laid Out in My First Course of Study -->
 
 1. Mollusks
 2. Insects
@@ -76,7 +75,8 @@ Distribution of Animals Without Vertebrae as Laid Out in My First Course of Stud
 4. Echinoderms
 5. Polyps
 
-These classes were made up then of some of the orders which Bruguiere had presented in his distribution of worms, an arrangement I did not adopt, and from the class insects, such as Linnaeus had described it.
+These classes were made up then of some of the orders which Bruguiere had presented in his distribution of worms and from the class insects, such as Linnaeus had described it.
+- I did not adopt his arrangement of worms
 
 However, towards the middle of 1795, when the arrival of Cuvier in Paris directed the attention of zoologists to the organic structure of animals. 
 
@@ -86,20 +86,38 @@ The change which I had made in this matter, from a sense of the inconvenience in
 
 Profiting then from his illumination, since his arrival, has shed on all parts of zoology, and especially on the animals without backbones, which he called animals with white blood, I added successively new classes to my distribution. 
 
-I was the first to institute them. But, as we are going to see, the classes of mine which were adopted were only accepted slowly.
+I was the first to institute them. But my classes were adopted only slowly.
 
+<!-- What interests authors is a matter of total indifference to science and also to those who study the subject. Nevertheless, there is a practical value in knowing the history of changes which the classification of animals has undergone in the past fifteen years. Here are those which I have effected. -->
 
-What interests authors is a matter of total indifference to science and also to those who study the subject. Nevertheless, there is a practical value in knowing the history of changes which the classification of animals has undergone in the past fifteen years. Here are those which I have effected.
+I changed the denomination of my class of echinoderms into that of Radiata, in order to unite in it the jellyfish and the genera which are related to them.
 
-To begin with, I changed the denomination of my class of echinoderms into that of Radiata, in order to unite in it the jelly fish and the genera which are related to them. This class, in spite of its utility and the necessity for it on account of the characteristics of these animals has not yet been adopted by the naturalists.
+This class, in spite of its utility and the necessity for it on account of the characteristics of these animals has not yet been adopted by the naturalists.
 
-In my course for Year Seven (1799), I established the class crustaceans. At that time Cuvier in his Table of Animals, page 451, still included the crustaceans among the insects, and although this class is essentially distinct from the insects, nonetheless, the naturalists consented to adopt it only six or seven years afterwards.
+In my 1799, I established the class crustaceans. 
 
-The following year, that is to say, in my course for Year Eight (1800), I presented the arachnids as a special class, easy and necessary to distinguish. The nature of its characteristics were from that time on a certain indication of an organic structure peculiar to these animals, for it is impossible that an organic structure perfectly suitable to the insects, who all undergo metamorphoses, reproduce themselves only once in the course of their lives, and have only two antennae, two faceted eyes, and six articulated limbs, could give rise to animals which never undergo metamorphosis and which, in addition, present different characteristics which distinguish them from the insects. A part of this truth has since been confirmed by observation. However, this class arachnids has not yet been admitted in any work other than mine own.
+At that time Cuvier in his Table of Animals still included the crustaceans among the insects. This class is essentially distinct from the insects. The naturalists consented to adopt it only 7 years afterwards.
 
-Once Cuvier discovered the existence of arterial and venous vessels in different animals which people confused under the name worms with other animals very differently structured, I immediately used the implication of this new fact to perfect my classification. In my course for the Year Ten (1802), I established the class annelids, a class which I placed after mollusks and before crustaceans, something required by their acknowledged organic structure.
+In 1800, I presented the arachnids as a special class, easy and necessary to distinguish. 
 
-In giving a particular name to this new class, I was able to keep the ancient name worms for the animals which had always carried it and whose organic structure obliged me to distance them from annelids. Thus, I continued to place worms after insects and to distinguish them from radiata and polyps, with which people will never be authorized to unite them again.
+The nature of its characteristics were from that time on a certain indication of an organic structure peculiar to these animals, for it is impossible that an organic structure perfectly suitable to the insects, who all undergo metamorphoses, reproduce themselves only once in the course of their lives, and have only two antennae, two faceted eyes, and six articulated limbs, could give rise to animals which never undergo metamorphosis and which, in addition, present different characteristics which distinguish them from the insects. 
 
-My class annelids published in my course and in my Researches into Living Beings (p. 24) was around for several years without being accepted by naturalists. Nevertheless, for about the past two years, people are starting to recognize this class. But since people are of the opinion that they should change its name and to bring in the name worms for it, they do not know what to do with the creatures properly called worms, which do not have nerves, nor a system of circulation, and in this quandary, they are reuniting them with the class polyps, even though they are very different from them in their organic structure.
+A part of this truth has since been confirmed by observation. However, this class arachnids has not yet been admitted in any work other than mine own.
+
+Once Cuvier discovered the existence of arterial and venous vessels in different animals which people confused under the name worms with other animals very differently structured, I immediately used the implication of this new fact to perfect my classification. 
+
+In 1802, I established the class annelids which I placed after mollusks and before crustaceans as required by their acknowledged organic structure.
+
+I kept the ancient name worms for worms. Their organic structure obliged me to distance them from annelids.
+
+Thus, I continued to place worms after insects and to distinguish them from radiata and polyps, with which people will never be authorized to unite them again.
+
+My class annelids published in my Researches into Living Beings (p. 24) was not accepted for several years by naturalists. 
+
+Nevertheless, for the past 2 years, people are starting to recognize this class. 
+
+<!-- But people think that they should change its name and to bring in the name worms for it, they do not know what to do with the creatures properly called  -->
+
+There are worms which do not have nerves nor a circulatory system.
+- People reunite them with the class polyps, even though they are very different from them in their organic structure.
 

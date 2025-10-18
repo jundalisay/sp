@@ -20,10 +20,14 @@ Now, botanists are reestablishing the genera which Linnaeus had destroyed.
 
 In 1807, I established among the animals without vertebrae a new 10th class, the infusorians because they are not part of the polyps.
 
-Thus, in continuing to collect the facts gained through observation and through the rapid progress in comparative anatomy, I instituted successively the different classes which now make up my distribution of the animals without vertebrae. These classes, ten in number, are arranged from the most complex to the simplest, as is the custom, as follows:
+<!-- Thus, in continuing to collect the facts gained through observation and through the rapid progress in comparative anatomy, 
+
+I instituted successively the different classes which now make up my distribution of the animals without vertebrae. These classes, ten in number, are arranged from the most complex to the simplest, as is the custom, as follows: -->
+
+This leads to 14 Classes.
 
 
-## Classes of Animals Without Vertebrae
+## 10 Classes of Animals Without Vertebrae (Complex to Simple)
 
 Mollusks
 Cirrhipeds
@@ -36,47 +40,25 @@ Radiata
 Polyps
 Infusorians
 
-These classes constitute the necessary divisions because they are based on a consideration of the organic structure
+<!-- These classes constitute the necessary divisions because they are based on a consideration of the organic structure -->
 
- and that, although it may be or indeed must be the case that we find in the vicinity of the limits to the classes some races, in one way or another, half way or intermediate between two classes, these divisions offer everything which art can produce which is most helpful in this sort of endeavour. 
+ <!-- these divisions offer everything which art can produce which is most helpful in this sort of endeavour.  -->
 
-As long as our interest is in science, people must acknowledge them.
+<!-- As long as our interest is in science, people must acknowledge them.
 
 By adding to these 10 classes which divide the animals without backbones the 4 classes recognized and fixed by Linnaeus among the animals with vertebrae, we will have for the classification of all known animals the 14 following classes.
 
-I am going to present them in an order opposite to the natural order.
+I am going to present them in an order opposite to the natural order. -->
 
-## Vertebrate Animals
+## 4 Classes of Vertebrate Animals
 
 Mammals
-
 Birds
-
 Reptiles
-
 Fish
 
-Invertebrate Animals
 
-Mollusks
-
-Cirrhipeds
-
-Annelids
-
-Crustaceans
-
-Arachnids
-
-Insects
-
-Worms
-
-Radiata
-
-Polyps
-
-Infusorians
+In the limits of the classes, there are some races that are half-way or intermediate between 2 classes.
 
 Such is the present state of the general distribution of animals.
 

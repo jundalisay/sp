@@ -18,6 +18,7 @@ Chapter 7 explained that the physical universe or domain is the body of the Supr
 - Material Superphysics is the study of that body
 - Bio Superphysics is the study of how that body interacts with its mind
 - Social Superphysics is the study of how that mind works a collective
+- Spiritual Superphysics is the study of how to go to the center of that mind
 
 
 We then match this organization of study with the current ones: 
@@ -39,12 +40,7 @@ This physical universe is the subject of study of Material Superphysics just as 
 
 
 {{< q a="Rene Descartes" c="Principles of Philosophy, Preface" >}}
-All Philosophy is like a tree.
-- Metaphysics is the root
-- Physics the trunk
-- All the other sciences are the branches that grow out of this trunk.
-
-We gather fruit from the extremities of the branches of trees, not from the roots or the trunks.
+All Philosophy is like a tree. Metaphysics is the root. Physics the trunk. All the other sciences are the branches that grow out of this trunk. We gather fruit from the extremities of the branches of trees, not from the roots or the trunks.
 {{< /q >}}
 
 
@@ -66,6 +62,8 @@ There are 3 principal sciences:
 
 <!-- The science of Morals is the highest and most perfect. Presupposing an entire knowledge of the other sciences, it is the last degree of wisdom. -->
 
+We add Spiritual Superphysics to learn the source Itself, which is taboo in the dogmatic religions of Christianity and Islam.
+
 
 ## What is Superphysics?
 
@@ -73,21 +71,29 @@ Superphysics is the system of knowledge and study that abides by the main princi
 
 Chapter | Principle
 --- | ---
-1 | The 2 Domains
-2 | Ideas as Particles, Feelings as Waves
-3 | Dynamism and The Law of Conservation of Idea 
-4 | Cause and Effect, Qualimath, The Eagle
-5 | 2 Forces, Territories, Influences
-6 | Dharma
-7 | Life and Mind
-8 | 5 Layers
-9 | The Supreme
+1 | The 2 Domains; Waves
+2 | The 5 Elements
+3 | Absolute, Supreme, 2 Forces, Cycles from 2 Forces
+4 | Densities, Dimensions
+5 | Ideas, Conservation, Geometry of Ideas
+6 | Karma, Spin, Relationality
+7 | Life, Elementals, Aliens, Evolution
+8 | Thinking, Qualimath, Socratic Dialectics
+9 | Feelings, Ego, Chakras, Law of Attraction
+10 | Society, Group Feeling, Morality, Justice
+11 | Spirituality 
+12 | Superphysics
 
 
 {{< i s="/graphics/super/spmodel.jpg" a="Essential Superphysics concepts" c="Superphysics can be summed up as being based on the Supreme Entity, 2 Forces, 5 Elements, and Relationality" >}}
 
 
-In a nutshell, Superphysics is **a paradigm that merges the known and proven perceptions of the physical and metaphysical domains (Chapters 1-2, 8) in order to find patterns (Chapters 3-5) and principles (Chapters 6-9) for the sake of solving problems**.
+In a nutshell, using our own defintions:
+- Superphysics is an organized set of principles that explains how Existence works. It is the result of Socratic Dialetics
+- Socratic Dialectics is **the method that exhaustively probes and merges the known and proven perceptions (evidence) of the physical and metaphysical domains (Chapters 1-2, 8) in order to find patterns (Chapters 3-5) and principles (Chapters 6-9) for the sake of solving problems in Existence (restore things to the dharma)**
+- Socratic Dialectics uses induction and deduction for thoughts, and discernment and ideation for feelings, adding energy though critical out-of-the box thinking and critical out-of-the-self feeling 
+- Superphysics becomes a belief system if an ego attaches to it. It becomes an organized belief if a group of egos attaches to it.
+
 
 <!--  paradigm that sees the universe or reality as being made up of 2 Forces and 5 Layers. 
 

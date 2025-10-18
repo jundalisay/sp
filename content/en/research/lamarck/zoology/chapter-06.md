@@ -93,9 +93,15 @@ However, in spite of the apparent gaps (which I am going to point out), the natu
 
 To succeed in that, one needs to look at the general series of known animals, first envisaging it in its totality and then in its large groups. 
 
-One will see there the least doubtful proofs of the gradation which nature has followed in the design of organic structure, a gradation which the anomalies I have mentioned would never permit one to mistake. Finally one will observe that wherever extreme changes in the circumstances have not been at work, one finds this gradation perfectly modulated in the various sections of the general series to which we have given the name families. This truth becomes even more striking in the study of what we call species. For the more we observe, the more our specific distinctions become problematic, complicated, and minute.
+One will see there the least doubtful proofs of the gradation which nature has followed in the design of organic structure, a gradation which the anomalies I have mentioned would never permit one to mistake. 
 
-Thus, the gradation in the design of animal organic structure will be a fact which we will not be able to cast doubts upon, since we will have provided detailed and reliable proofs of what has just been outlined. Now, since we are taking the general series of animals in the inverse order to the one nature herself followed in bringing them successively into existence, this gradation is then changed, for us, into a remarkable degradation which governs from one extreme to the other of the animal chain, except for the interruptions which result from objects we have yet to discover and those provided by anomalies produced by extreme environmental circumstances.
+Wherever extreme changes in the circumstances have not been at work, one finds this gradation perfectly modulated in the various sections of the general series to which we have given the name families. 
+
+This truth becomes even more striking in the study of what we call species. For the more we observe, the more our specific distinctions become problematic, complicated, and minute.
+
+Thus, the gradation in the design of animal organic structure will be a fact which we will not be able to cast doubts upon, since we will have provided detailed and reliable proofs of what has just been outlined.
+
+Since we are taking the general series of animals in the inverse order to the one nature herself followed in bringing them successively into existence, this gradation is then changed, for us, into a remarkable degradation which governs from one extreme to the other of the animal chain, except for the interruptions which result from objects we have yet to discover and those provided by anomalies produced by extreme environmental circumstances.
 
 Now to establish by reliable facts the basis for the degradation in the organic structure of animals from one extremity of their general series to the other, let us first glance at the total make up of this series. Let us consider the facts laid out before us, and later we will move on quickly to review the fourteen classes which are its main divisions.
 

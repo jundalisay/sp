@@ -1,10 +1,9 @@
 ---
 title: Zoological Philosophy
-# heading: Enlightened
+heading: Enlightened
 description: 
-# a: "Lao Tzu"
 c: "deeppink"
-# date: 2022-06-25
+date: 2025-10-11
 weight: 119
 ---
 

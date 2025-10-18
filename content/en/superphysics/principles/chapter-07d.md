@@ -132,7 +132,6 @@ This is why, aside from pushing a moneyless economic system we are also pushing 
 In this way, people have more subtle ways to get their needs met aside from being enslaved by material money and numberical bank accounts.  
 
 
-
 <!-- Buddhist devas are not immortal.[14] Their lives as devas began some time in the past when they died and were reborn. They live for very long but finite periods of time, ranging from thousands to (at least) billions of years.[9]
 Buddhist devas do not create or shape the world.[15] They come into existence based upon their past karmas and they are as much subject to the natural laws of cause and effect as any other being in the universe. They also have no role in the periodic dissolutions of worlds.
 Buddhist devas are not incarnations of a few archetypal deities or manifestations of a god; nor are they merely symbols. They are considered to be, like humans, distinct individuals with their own personalities and paths in life.[16]
@@ -140,3 +139,12 @@ Buddhist devas are not omniscient nor omnipotent. Their powers tend to be limite
 Buddhist devas are not morally perfect. The devas of the worlds of the Rūpadhātu do lack human passions and desires, but some of them are capable of ignorance, arrogance and pride. The devas of the lower worlds of the Kāmadhātu experience the same kind of passions that humans do, including (in the lowest of these worlds) lust, jealousy, and anger. It is, indeed, their imperfections in the mental and moral realms that allegedly cause them to be reborn in these worlds.
 Buddhist devas are not to be considered as equal to a Buddhist refuge. While some individuals among the devas may be beings of great moral authority and prestige and thus deserving of a high degree of respect and veneration (in some cases, even being enlightened practitioners of the Dharma), no deva can ultimately be taken as the way of escape from saṃsāra or control one's rebirth. The highest honors are reserved to the Three Jewels: Buddha, Dharma, and Saṅgha -->
 
+
+## Bacteria
+
+
+Simple Elementals that have crossed over to full physical expression manifest as bacteria or single-celled organisms
+
+
+
+ 
