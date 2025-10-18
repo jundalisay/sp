@@ -1,5 +1,5 @@
 ---
-title: "I RESUME MY DUTY"
+title: "I Resume My Duty"
 heading: Chapter 28
 weight: 92
 description: "My leave finished on 6 January 1956"
@@ -13,74 +13,62 @@ icon: Nagina
 
 It was the 12th month of my leave, yet there was no response to my appeal.
 
-While in the village in the fourth week of December 1955 I decided that I would extend my leave no further and shall send my resignation. I decided this mentally and did not tell this to any member of my family. I thought that I should inform my family after my resignation was accepted.
+While in the village in the fourth week of December 1955, I decided that I would extend my leave no further and shall send my resignation. 
 
-My leave finished on 6 January 1956. I decided to resign thereafter. On the
-fourth day of taking this decision I received an inland letter. I could not guess who had
-sent it but when I opened it I found that it was from Baba. The letter was in English
-language. Today that letter is not with me but I remember fully its language. I shall try
-to reproduce it here.
+I decided this mentally and did not tell this to any member of my family. I thought that I should inform my family after my resignation was accepted.
 
-“Your decision of resignation is premature. You must join your duty
-urgently and I will give you everything. In case you fail to reconcile in joining to
-your present post, you take it as my order and must report for duty immediately.”
-I was surprised to note that Baba had written the letter the same day as I had
-mentally resolved that I would extend my leave no longer and will resign from service.
-th
-Now there was no other course open for me and when my leave was over on the 6
-January 1956 I rejoined my duty.
+My leave finished on 6 January 1956. I decided to resign thereafter. 
 
-Great is the liila of omniscient Baba and wonderful are his methods of doing
-favour. Sitting in a village hundreds of miles away I mentally decide something and
-Baba reflects it then and there. This added one more link to the chain of my faith. Thus
-1955 was over with the Grace of Baba
+On the fourth day of taking this decision I received an inland letter. I could not guess who had sent it but when I opened it I found that it was from Baba. The letter was in English. 
+
+Today that letter is not with me but I remember fully its language. I shall try to reproduce it here.
+
+{{< b >}}
+Your decision of resignation is premature. You must join your duty urgently and I will give you everything. In case you fail to reconcile in joining to your present post, you take it as my order and must report for duty immediately.
+{{< /b >}}
 
 
-Following the instructions of Baba I rejoined my duty immediately on the expiry
-of my leave. However the whole of 1956 and 1957 up to August was a period of great
-turmoil for me. During this brief period of one year and eight months I was transferred
-to seven places. My wife was not keeping good health these days. I had to look after
-four children. I had to run after the doctors all the time. As there was no other
-convenient place, the family had to be kept with me.
+I was surprised to note that Baba had written the letter the same day as I had mentally resolved that I would extend my leave no longer and will resign from service.
 
-Those who have experience of government service and frequent transfers will
-be able to understand my plight very well. In spite of these troubles Baba’s grace was
-always with me. Whenever I had to go for however a small period, I got good name and
-reputation though Baba’s grace. Strange was that period, on the one hand the difficult
-problems of service, the rising and unassailable mountains of economic and
-psychological problems and on the other hand good name fame and reputation Great
-is the Liila of Baba.
+Now there was no other course open for me and when my leave was over on the 6 January 1956 I rejoined my duty.
+
+Great is the liila of omniscient Baba and wonderful are his methods of doing favour. Sitting in a village hundreds of miles away I mentally decide something and Baba reflects it then and there. This added one more link to the chain of my faith. Thus
+1955 was over with the Grace of Baba.
+
+Following the instructions of Baba I rejoined my duty immediately on the expiry of my leave. However the whole of 1956 and 1957 up to August was a period of great turmoil for me. During this brief period of one year and eight months I was transferred to seven places. My wife was not keeping good health these days. I had to look after four children. I had to run after the doctors all the time. As there was no other convenient place, the family had to be kept with me.
+
+Those who have experience of government service and frequent transfers will be able to understand my plight very well. In spite of these troubles Baba’s grace was always with me. Whenever I had to go for however a small period, I got good name and reputation though Baba’s grace. Strange was that period, on the one hand the difficult problems of service, the rising and unassailable mountains of economic and psychological problems and on the other hand good name fame and reputation Great is the Liila of Baba.
 
 
-### POSTED TO MUZZAFARPUR
+## Posted To Muzzafarpur
 
-After resuming work in Patna on 7th January 1956, I was posted to Muzaffarpur.This was a posting to my liking.
+After resuming work in Patna on January 7, 1956, I was posted to Muzaffarpur which I liked.
 
-I assumed my duties at Muzaffarpur on 17 January 1956. After I became
-somewhat free from official work I came to know that my childhood friends Acarya
-Vishwanathji was also there. I therefore went to see him. From him I came to know that
-Acarya Shri Kishanji and Shri Prem Bahadur Mathur were also there. I was also
-informed that the Dharma Cakra was held in the bungalow of Shri Prem Bahadurji.
-In the Dharma Cakra I got the opportunity to meet all the Margiis brothers. Here
-I came to know that on the New Years' eve Baba’s vanii had come which was like this:
-“The long neglected humanity has awakened today. This awakening of
-theirs will usher in a new chapter in human history. You are the first messengers
-of that still to arrive tradition”
+I assumed my duties at Muzaffarpur on 17 January 1956. After I became somewhat free from official work I came to know that my childhood friends Acarya Vishwanathji was also there. I therefore went to see him. From him I came to know that Acarya Shri Kishanji and Shri Prem Bahadur Mathur were also there. I was also informed that the Dharma Cakra was held in the bungalow of Shri Prem Bahadurji. In the Dharma Cakra I got the opportunity to meet all the Margiis brothers. Here I came to know that on the New Years' eve Baba’s vanii had come which was like this:
+
+{{< l a="Baba" >}}
+The long neglected humanity has awakened today. This awakening of theirs will usher in a new chapter in human history. You are the first messengers of that still to arrive tradition
 
 Anandamurti 1.1.1956
+{{< /l >}}
 
-I read and re-read this message and tried to understand its significance. The
-vanii appeared to me to be a fragment with great significance. In those days, the so-
-called civilized society looked down upon those who believed in the divinity of human
-beings and wanted to lead a spiritual life. Their indifference became intolerable to Baba
+
+In those days, civilized society looked down on those who believed in the divinity of human
+beings and wanted to lead a spiritual life. 
+
+Their indifference became intolerable to Baba
 and He indicated to His disciples through this blissful message that the divinity of
 humanity is now fully bestirred. This will certainly open a new chapter in the history of
 human progress and those who have tried to follow his path will certainly be regarded
-as the harbingers of that new Age. I this found great significance in the vanii of Baba.
+as the harbingers of that new Age. 
+
+I this found great significance in the vanii of Baba.
 In such period I received a letter from my younger brother Radhakantji that the
 basis of his faith had completely been broke after hearing all about Ananda Marga
 philosophy and he had not yet got any new faith. He started feeling emptiness in his
-daily routine of life and wanted to take initiation as early as possible. He was these
+daily routine of life and wanted to take initiation as early as possible. 
+
+He was these
 days posted at Siwan and there was no acarya either there or near about. I informed
 him through letter that he should come to Muzaffarpur, where arrangements will be
 made for his initiation.
@@ -91,8 +79,10 @@ and wanted to return within the next two hours. He had little time and I could h
 manage to get into contact with an acarya in that short period. Therefore I had to give
 him initiation. This was the second occasion for me to initiate anyone. My first
 opportunity was to my mother.
+
 Now after office work I had only two functions. First to run about for doctors and
 second Marga work.
+
 Salutation to BABA the Lord of the Gods and the Supreme
 Divine
 

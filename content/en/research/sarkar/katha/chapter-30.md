@@ -31,7 +31,9 @@ Anandamurti
 
 
 
-This message of the world-teacher Baba came at a time when society and its rules were breaking fast. Political leaders were divided different parties and all were victims of party politics. Human values were dying and the leaders had forgotten the service of society and were indulging in selfish pursuits. They not only suspected the motives of spiritual-minded Margiis, but were spreading different kinds of propaganda against them. At such a difficult time, Baba gave the clarion call to his devotees to move towards spirituality with faith and firmness.
+This message of the world-teacher Baba came at a time when society and its rules were breaking fast. Political leaders were divided different parties and all were victims of party politics. 
+
+Human values were dying and the leaders had forgotten the service of society and were indulging in selfish pursuits. They not only suspected the motives of spiritual-minded Margiis, but were spreading different kinds of propaganda against them. At such a difficult time, Baba gave the clarion call to his devotees to move towards spirituality with faith and firmness.
 
 Sadhana is nothing else but struggle or fight, and righteousness demands that all the obstructions should be overcome boldly to march towards our desideratum. Dharma sadhana does not mean that people should attain salvation and disappear but it really means that every person and every object of this universe is to be seen as a part of infinity. In the words of saint Tulsidas, one will have to see Ram and Siita in every particle of this universe.
 
@@ -145,5 +147,3 @@ Baba are worth emulating.
 
 <!-- Salutation to BABA Who Removes the Sufferings of Those
 Devotees Who Surrender Unto Him -->
-
-

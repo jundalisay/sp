@@ -101,7 +101,15 @@ This of course will reduce the speed to `0.97c`, arbitrarily converting it be wi
 
 {{< youtube eAHPW026IjQ >}}
 
-This absurdity is like a beauty contest that decrees that only white skinned people are beautiful. And so the fact that only white people win their contest becomes proof that only white people are beautiful.
+This absurdity is like a beauty contest that decrees that only white skinned people are beautiful. And so the black contestants must be "whitened" before they can join. 
+
+Similarly, the speed of M87 light is 4x the max speed of light, so physicists apply some arbitrary equation in the form of Einstein's light cone, to coerce it back to the dogmatic and accepted speed of light. 
+
+It is bending Nature to human norms. As a result, humans are unable to tap Nature for antigravity or faster than light travel.
+
+
+
+ <!-- fact that only white people win their contest becomes proof that only white people are beautiful. -->
 
 
 ## Decartes Solves Both With a Single Principle of Vortices

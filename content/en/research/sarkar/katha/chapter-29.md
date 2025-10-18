@@ -1,16 +1,15 @@
 ---
 title: "Baba’s Vanii"
 heading: Chapter 29
-weight: 94
+weight: 95
 description: "Oh human beings, you advance forward. Your only language should be the speed towards progress"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
-Thus time continued to pass taking worldly pain and spiritual bliss in its stride and the expansion of Marga activities continued. Now, we started thinking of calling Baba to Muzaffarpur. 
+Thus time continued to pass taking worldly pain and spiritual bliss in its stride and the expansion of Marga activities continued. We started thinking of calling Baba to Muzaffarpur. 
 
 So far DMC had taken place in Jamalpur, Monghyr, Bhagalpur and Patna only. Thus 1956 came to an end and 1957 began. We celebrated the New Year. 
 
@@ -79,7 +78,9 @@ My request to Baba to visit my house was supported by the General Secretary.
 <!-- He was to come by noon and I was ready with a car in advance. Baba came out at the fixed time and sat in the car, and I drove Baba
 to my residence. -->
 
-Every member of my family and myself got the opportunity to do our sastaunga pranam before Baba. I was so flooded with emotion due to the immense pleasure, that tears began to flow from my eyes and my voice was choked. I placed some fruits and sweets before Baba but He was not prepared to eat anything. My wife was standing with a glass of water in her hands. With great persistence, I took one rasgulla up to His mouth. Baba took a very small bite and we were all highly pleased. Then Baba said, “Enough”, and took the glass of water from my wife’s hand. The rest of the fruits and sweets we ate as prasad.
+Every member of my family and myself got the opportunity to do our sastaunga pranam before Baba. I was so flooded with emotion due to the immense pleasure, that tears began to flow from my eyes and my voice was choked. I placed some fruits and sweets before Baba but He was not prepared to eat anything. 
+
+My wife was standing with a glass of water in her hands. With great persistence, I took one rasgulla up to His mouth. Baba took a very small bite and we were all highly pleased. Then Baba said, “Enough”, and took the glass of water from my wife’s hand. The rest of the fruits and sweets we ate as prasad.
 
 Baba sat for sometime and talked with the children and then got ready to leave. All of us did our sastaunga pranam again and then I took Him to the residence ofGaunga Sharanji which was close by. Shrii Gaunga Sharanji was standing ready to welcome Baba. He took Baba to his drawing room. Baba stayed there for sometime and then left for Prem Bahadurji’s bungalow. While returning from Gaunga Sharanji’s house I asked Baba why non-Margiis were not allowed in the DMC.
 
