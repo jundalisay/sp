@@ -2,7 +2,7 @@
 heading: "Chapter 7f"
 title: "Desire-based Evolution"
 date: 2025-10-06
-weight: 467
+weight: 474
 image: /photos/bio/flatfish.jpg
 description: "Superphysics sources evolution from the will or desire"
 writer:

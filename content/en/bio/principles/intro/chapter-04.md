@@ -1,7 +1,6 @@
 ---
 heading: "Chapter 4"
 title: "The Self"
-# title: "David Hume's Idea of the Self" # heading: "There are 3 billion yous"
 date: 2020-01-31
 weight: 20
 image: "/graphics/meta/mirror.jpg"
@@ -10,7 +9,7 @@ tags: ["David Hume", "Ego"]
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 aliases:
   /bio/principles/chapter-01
 ---

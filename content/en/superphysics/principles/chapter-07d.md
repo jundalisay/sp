@@ -3,15 +3,13 @@ heading: "Chapter 7d"
 title: "Elementals"
 date: 2025-10-06
 weight: 460
-image: /photos/objects/ufo.jpg
-description: "The Anunnaki are the origin of religions"
+image: /photos/bio/naga.jpg
+description: "Elementals are metaphysical beings that can materialize"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
 ---
-
-
 
 
 ## Elementals or Nature Spirits, Aliens, Spirits, Ghosts 
@@ -73,6 +71,7 @@ Santa Claus |
 Naga | Serpent that warns of earthquakes and other disasters
 etc | 
 
+{{< i s="/photos/bio/naga.jpg" a="Naga" c="The Naga is a common elemental in various countries" >}}
 
 
 <!-- We classify elementals according to the 5 strata of Spiritual Superphysics, combined with 2 of the 5 layers of Material Supeprhysics.

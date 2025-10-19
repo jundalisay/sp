@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7g"
+heading: "Chapter 7f"
 title: "Animals"
 date: 2025-10-06
 weight: 467
