@@ -3,8 +3,8 @@ heading: "Chapter 10b"
 title: "Group Feeling, Morality, and Justice"
 date: 2025-10-07
 weight: 690
-image: /photos/econ/prices.jpg
-description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
+image: /photos/objects/gavel.jpg
+description: 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

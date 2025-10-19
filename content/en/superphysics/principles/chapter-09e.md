@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9e"
-title: "The Ego and Group Feeling"
+title: "The Ego"
 date: 2020-12-15
 weight: 613
 image: /photos/psych/mirror.jpg
@@ -128,11 +128,16 @@ Men, who are great lovers of themselves, waste the public. They divide people wi
 
 
 
-## The Unity and Harmony of the Selves
+## The Negative Ego as the Cause of All Problems
 
 Each soul has many selves which can be in conflict or harmony with each other. 
 - A soul with many conflicting selves will have many mental problems
 - A soul with many harmonious selves will be in peace
+
+
+This is why the Negative Ego is the cause of all problems, yet is also the cause of physical experience.
+
+To make physicality less unpleasant, the selves of the soul should be in Unity and Harmony.
 
 There are 2 main ways to keep the selves in check and keep harmony:
 

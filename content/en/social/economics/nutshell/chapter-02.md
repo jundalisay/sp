@@ -2,7 +2,6 @@
 heading: Chapter 2
 title: The Four Laws of Value 
 description: This is a pamphlet to introduce Supereconomics
-image: /covers/superecon.jpg
 weight: 5
 writer:
   name: Juan

@@ -2,7 +2,6 @@
 heading: Chapter 1
 title: A New Crisis-Proof Economic Science
 description: This is a pamphlet to introduce Supereconomics
-image: /covers/superecon.jpg
 weight: 4
 writer:
   name: Juan

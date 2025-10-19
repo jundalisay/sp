@@ -2,7 +2,6 @@
 heading: Chapter 3b
 title: Gross National Happiness as Alternative to GDP
 description: This is a pamphlet to introduce Supereconomics
-image: /covers/superecon.jpg
 weight: 7
 writer:
   name: Juan

@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 9i"
-title: "The Personality Structure"
-date: 2020-12-15
-weight: 660
-image: /photos/psych/schizo.jpg
-description: "Desire is a fundamental kind of feeling which we sense through our hearts"
+title: "Critical Feeling amd Critical Thinking"
+date: 2023-12-08
+weight: 619
+# image: /photos/psych/stop.jpg
+image: /graphics/psych/peace.jpg
+description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,218 +13,132 @@ icon: "Juan"
 ---
 
 
+Socratic Dialectics combines critical thinking, as creative out-of-the-box reasoning, and critical feeling, as fellow-feeling. 
+- Critical thinking thinks outside of limited beliefs
+- Critical feeling feels beyond the self
+- Ordinary thinking is hampered by limitations created by beliefs
+- Ordinary feeling is hampered by limitations of the self
 
 
-Chapter 9e explained that a soul has billions of selves. We can call this as the space-time division of the mind.
+This makes Socratic Dialectics our main tool to solve problems that have afflicted the current systems which are selfish and limited because of the pervasiveness of the Materialist Disease.
 
-Chapter 8 explained that the mind has 3 **actions** to match the 3 gunas or influences:
+This is seen in the current education system which emphasizes the development of the brain and critical thinkng. It develops the heart less. 
 
-1. Flow
-2. Force
-3. Memory
+This is because the world seems to be in a dark ages dominated by the Negative Force instead of the Positive. We point the start of this to the French Revolution which separated Church from State and consequently Philosophy from Science. 
 
-We likewise divide the **existence** of the mind into 3 to match the 3 gunas:
+The root cause of that Revolution was the ignorance of the West on metaphysics. This ignorance led it to create the Catholic religion which often goes against science and the nature things.
 
-<!-- A mind that exists in the physical domain has 3 aspects: -->
+The problem is that that ignorance came from the Negative Force. The success of the French Revolution therefore led to the spread of Negativity from the 19th century onwards, naturally leading to world wars and economic crises in the 20th century which persist until today. 
 
-1. Physicality
+<!-- 
+The problem is that the Negative Force (the force that is tasked to create reality) is designed to limit and compress things. This limitation is seen in the ego in actively-conscious entities*. 
 
-This is the physical parts that connect to the lower mind. This is really from the oversoul of the human species. 
-<!-- 5 Biological Elements -->
+> *It is actually strongest in non-living (non-actively-conscious) entities. For example, a knife that is used to stab a person will not feel any guilt in being the cause of the person's suffering, because it is unable to express feelings by design.   -->
 
-2. Mental
+The French Revolution led to the concept of Liberalism which gives importance to the self instead of society. It is a backwards evolution, from advanced into backwards.
 
-This is the lower mind.
+This leads to egotistic people and egotistic countries that feel so much for themselves and so little for others. It reduces the chances of critical feeling and increases the chances of critical thinking or intellectualization. 
 
-3. Spiritual
+This intellectualization now manifests as the emphasis of the educational system on brain development, intellect, and the 5 senses, at the expense of the heart, fellow-feelings, and intution or the 6th sense. 
 
-This is the higher mind. Both higher and lower mind is from the soul. 
+<!-- This ego is the feeling of the self and manifests as 'I' or 'me'. Too much Negative Force will lead to a strong ego which values only 'me, me, me', instead of other entities. In this state, there is no critical analysis of one's feelings -- an egotistic person just does what he does without anaylzing his feelings behind it. 
+
+Ideally, this critical feeling should be done by the heart as a sixth or intuitional sense. The problem is that heart is commonly overpowered by the other five senses:
+
+- sight
+- touch
+- hearing
+- smell
+- taste
+
+These send their data to the brain which can receive five data streams for every one feeling stream from the heart.  -->
+
+ 
+## Superphysics Closes the Gap Between Intellect and Feelings
+
+Human hearts lead us to errors because the Western educational system, spread globally through colonization, has focused on brain development and not on heart development. This leads to:
+- physicists using their intellect to create nuclear weapons
+- the recommendations of intelligent climate scientists being ignored
+- mathematicians using their intellect to game the stock market
+
+<!-- The odd quirk in the human species is that our brain and heart are far apart. This creates a distance or lag that makes ideas  appear totally different from feelings. This then makes human action lack feelings for others, as seen in terrorism, nuclear weapons, deforestation, etc.  -->
+
+To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by:
+- visualizing feelings and ideas. 
+  - This is because sight is the main sensor of the brain. 
+  - This will be done through the aethereal Cartesian plane. 
+  - This visualization of ideas and feelings will better reveal the gravitational signature in each concept, phenomenon, person, group, society, etc.
+- profiling people based on their personality structure which contains their gravitational signature or configuration
+  - This is shallowly done nowadays in the West by personality profiling and in Korea which puts labels on people 
+- defining the feelings through Bio Superphysics
+- promoting specific feelings through Social Superphysics
+  - Humans already do this through TV, movies, powerpoint presentations, branding, packaging, advertising and other bright, shiny, catchy, fragrant, and tasty things that appeal to the senses located near the brain as the eyes, ears, nose, and tongue.
+
+{{< img src="/graphics/super/cartesian.png" cap="Physics visualizes physical movement, Superphysics visualizes metaphysical (aethereal) movement" alt="Visualization of the feelings" >}}
 
 
-When combined with the space-time division of the mind to create 
+## Critical Thinking and Critical Feeling
+
+In order to maximize our experience of Existence, it would be best to have both sensors running at 100% as much as possible. This means they should not just be passively sensing, but also **actively sensing**.
+
+This active sensing is:
+- the foundation of critical thinking (as intellect), as well as critical feeling (as kindness and fellow-feeling).
+- a key component of Socratic Dialectics as part of the probing process
+
+Currently, the educational systems in most countries mostly focus on intellect and is very deficient in fellow-feeling. This is proven by the prevalence of racism, terrorism, poverty & inequality, materialism, environmental destruction, etc. 
+
+The glaring proof is the existence of mass shootings by young people in the West. It shows that their educational or cultural systems nurtured hate and division instead of fellow-feeling and unity. This problem does not exist so much in Asian* education or culture.   
+
+{{< n n="*Instead of personal divisions, Asia has religious divisions that create religious conflict such as that between Hindus and Muslims in India, Buddhists and Muslims in Myanmar, and Falun Gong versus the Chinese Communist Party. In Africa, the divisions are even more basic as being based on tribal lines, such as those seen in Rwanda, Sudan, and Ethiopia." >}}
 
 
 
-## Person, Personality, Personality Structure
+Globally, this lack of fellow-feeling hurts even the intellectual sciences. For example, scientists have long had the data to prove that global warming causes disasters. Yet the feelings of the human species are extremely disunited, unable to drive collective action. 
 
-A **person** is an individual human being. Each person has a mind which in turn has a configuration called personality structure that manifests as the person's personality.
+The mere visualization or even 'audification' of feelings will not be enough to increase fellow-feeling. To deal with such large-scale non-feeling, Superphysics proposes many new concepts such as:
+- Qualimath
+- Constitutional Virtues
+- 5 Interconnectivities
+- 5 Layers of Medicine
+- 4 Laws of Value
+- 4 Social Cycles
+- Points-based economy
+- etc.
 
-A **personality** is the result of the combination of the physical mind, lower mind, and higher mind.  
+These unify the feelings of each person so that each one will discover his role in the greater plan of the universe, and appreciate the hidden value in the existence of each. 
 
-A **personality structure** is cause of the manifest personality arising from the accumulated beliefs imposed and samskaras gained. 
-
-<!-- Determines the DNA patterns of the body in order to reinforce the belief system  -->
-
-
-{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 5" >}}
-The activating (radiating) capacity of the ego determines physical activity (primarily) and one’s personality. The more developed the radiating power, the more glaring will be one’s personality.
+{{< q a="Rene Descartes" c="Meditations Simplified, Part 4" >}}
+A skilled craftsman makes a perfect creation as a whole, even if its parts taken individually seem imperfect.
 {{< /q >}}
 
+Is the plan of the universe in line with what we feel? 
 
-{{< i s="/graphics/psych/person.jpg" a="Personality" c="A personality can give rise to one of 3 identities at a time, depending on whether the mind" >}}
+This is answered by our intuition and conscience which will be explained in Chapter 10. 
+<!-- - Conscience is the intuition or feeling for the dharma or true nature -->
 
 
+## Our Solution: Let Automated Natural Intelligence (ANI) Support and Encourage Both Critical Thinking and Feeling
 
+Nowadays, critical thinking is encouraged by data science wherein the data analyst must use different techniques to make sense of huge amounts of data. 
 
+These techniques can also be applied onto the constant barrage of feelings that we get in order to make sense of them and unify them with the feelings of society as the public interest. This requires a classification of feelings, just as logic has a classification of truths and fallacies as red herring, false dilemma, non-sequitir, Occam's razor, etc.
 
+An example of feeling-classification is the categorization of anger as:
+- anger from disappointment
+- anger from offense
+- anger from frustration
+- anger from betrayal
+- and so on
 
-## Each Person has 3 Billion Selves which are Fluid
+These then drill down onto the causes of disappointment, offense, frustration, betrayal, etc. This will then make people aware whether some people have too-high expecations, excessive sentimentality, intemperance, or too much attachment, in order to prevent the probabiltiy of anger.   
 
-In Hinduism, the jivatman is a tiny-soul that loses its identity when it is absorbed into the larger universal-soul, similar to a water in a glass losing its identity or self when it is poured into the sea. 
+<!-- humans think of happiness as an idea instead of as its true form which is a feeling. This is then due to the fact that of all our five senses: sight, hearing, taste, touch and smell, four of them are close to the brain, the main thinking organ, and only one of them -touch-is close to the heart. When you hit your foot on the door, the impulse travels near your heart before it hits the brain. The pain-feeling is instantaneous. But when you see a beautiful person or object it takes a while to feel love-feeling for that person or object.
 
-Conversely, the water in the sea (paramatman) can be turned into billions of new entities or identities (jivas) by taking a billion cups and scooping the water into each, in order to create 1 billion seas-in-a-cup (jivatmans). 
+The dominance of the brain leads us to critical thinking. The distance of our heart from our brain leads to have confused feelings, slow feelings, and selfish feelings. 
+and not an idea, then
 
+Ego is the cause of evil.
+Ego (ahamkara in Sanskrit) is the feeling of the self (jiva).
 
-{{< i s="/photos/objects/water.jpg" a="Cup of water" >}}
-
-  
-Instead of water and seas, Hume gives the example of a citizens and republics, wherein each citizen is a 'drop' or member of the bigger sea of humans:
-
-
-{{< q a="David Hume" c="Treatise of Human Nature, Book 1 Part 4 Section 6" >}}
-I can only compare the soul to a republic with several members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic in the incessant changes of its parts. The same republic may change its members, laws, and constitutions.  
-{{< /q >}}
-
-
-In Bio Superphysics, Hume's idea of the self leads to complex personality types, as well as personality disorders, depending on how united or disunited the selves are.  
-
-In Social Superphysics, it naturally leads to the idea of the society-organism which has its own dynamics, just as water in a cup has different dynamics than water in the ocean. For example, water in a cup does not have waves nor any variation in saltiness or mineral content, whereas ocean-water has waves and a varying amount of minerals.
-
-This has the following implementations in the different sciences:
-
-
-Science | Effect
---- | ---
-Material Superphysics | It destroys the grandfather paradox because if you go back in time to kill yourself as a child, you are actually *killing a different entity*. This means that your current self will stay alive, but your child-self will die
-. | It allows the possibility of multiverses which have different copies of the self.
-Bio Superphysics | It gets to the root causes of personality disorders
-Supersociology | Death penalty and imprisonment would be applied differently because the person who committed the crime is a different entity from the one serving the jail time
-Supereconomics | Sanctions on erring countries will also be different because the Kim Jong Un that met Trump in 2019 is a different entity from the Kim Jong Un that started in 2011
-. | Laws should not guarantee the lifetime ownership of assets and property because the entity that deserved it in the beginning might not be deserving later on*. 
-
-
-{{< n n="Hume’s best friend Adam Smith writes about this in *The Wealth of Nations* and *Lectures in Jurisprudence* where he denounces the ban on the division and sale of lands and the laws that create monopoly too-big-to-fail corporations" >}}
-
-
-<!-- We could view the Earth as a Multiverse with the following universes: the United Nations as Universe 1, G20 as Universe 2, League of Nations as Universe 3 -->
-  <!-- - Comintern as Universe 4. Each country-republic (representing the 3 billion self-citizens) would then have a different representative in each assembly or Universe  -->
-
-
-## Personality Disorders 
-
-Personality Disorders arise from the lack of harmony or unity between:
-- the selves in space and time
-- the 3 minds that make up the personality
-
-Psychology classifies up to 20 mental disorders which we classify into lower mind and physical mind
-
-
-Physical Mind | Lower Mind 
---- | ---
-Eating Disorders, Neurodevelopmental Disorders, Dissociative Disorders, Sexual and Paraphilic Disorders, Gender Disorders, Neurocognitive Disorders, Addictive, Defaction Urination Disorders, Sleep Disorders, Impulse Disorders | Psychotic Disorders, Bipolar, Depressive Disorders, Anxiety Disorders, Obsessive-Compulsive Disorders, Trauma, Personality Disorders, Somatic Disorders, Dissociative Disorders
-
-
-
-
-<!-- 1. Neurodevelopmental Disorders
-
-These begin early in life. Examples are Intellectual Disability, Autism Spectrum Disorder (ASD), Attention-Deficit/Hyperactivity Disorder (ADHD)
-
-2. Schizophrenia and Psychotic Disorders
-
-These are abnormalities as delusions, hallucinations, disorganized thinking, disorganized or abnormal motor behavior, and negative symptoms
-
-3. Bipolar
-
-These are episodes of mania, hypomania, and major depression, involving unusual shifts in mood, energy, and activity levels.
-
-4. Depressive Disorders
-
-These are sad, empty, or irritable mood, accompanied by somatic and cognitive changes that significantly affect the individual’s capacity to function
-
-5. Anxiety Disorders
-
-These lead to panics and phobias
-
-6. Obsessive-Compulsive Disorders 
-
-7. Trauma Disorders
-
-Examples are Posttraumatic Stress Disorder (PTSD)
-
-8. Dissociative Disorders
-
-An example is amnesia.
-
-discontinuity in memory, identity, emotion, perception, body representation, motor control, and behavior.","Dissociative Identity Disorder (DID), Dissociative Amnesia, Depersonalization/Derealization Disorder." 
-
-9. Somatic Disorders
-
-This manifests as significant distress and impairment
-
-10. Eating Disorders
-
-Examples are Anorexia, Bulimia, Binge-Eating
-
-11. Elimination Disorders
-
-These involved inappropriate urination or defacation
-
-12. Sleep-Wake Disorders
-
-Examples are Insomnia, Sleep Apnea
-
-13. Sexual Dysfunctions
-
-Examples are Erectile Disorder, Female Orgasmic Disorder, Premature Ejaculation
-
-14. Gender Distress
-
-15. Impulse Disorders
-
-Examples are Pyromania, Kleptomania
-
-16. Addictive Disorders
-
-17. Neurocognitive Disorders such as Delirium from Alzheimer's or Traumatic Brain Injury
-
-18. Personality Disorders
-
-- Cluster A (Odd/Eccentric)
-- B (Dramatic/Erratic)
-- C (Anxious/Fearful)
-
-.","Borderline PD, Narcissistic PD, Antisocial PD, Avoidant PD, Obsessive-Compulsive PD." 
-
-19. Paraphilic Disorders such as Voyeuristic Disorder, Exhibitionistic Disorder, Pedophilic Disorder
-
-1. Odd Behavior
-
-A common example is 
-
-2. Dramatic Behavior
-
-A common example is Narcissism
-
-3. Anxious Behavior
-
-A common example is Obsessive-Compulsive disorder -->
-
-The errors with the Physical Mind are from physical damage or bad development of the bodily machine.
-
-The errors with the Lower Mind are from the past karma or actions that have molded the soul into a certain shape. Errors in the shape manifests as mental disorders and traumas or mania.
-
-The most common problems afflict the lower mind because of the belief systems that is being imposed by the current materialist society.
-
-{{< i s="/graphics/psych/disorder.jpg" a="Disorder" c="The disharmony between the 3 minds leads to mental disorders" >}}
-
-
-## Preventing and Curing Mental Illness
-
-The main cause of purely mental illness is the wrong shape that the mind has taken through its actions either in the past life or the habits of the current life.  
-
-The main cause of body-mind illness is some problem with the nerves or appearance of the body or the funcitoning of some organs. 
-
-For example, a physical defect such as cleft lip might create depression or anxiety. Body-mind illnesses can be usually cured by operating on the physical error. 
-
-
+Critical feeling disconnects our mind from our ego.
+ -->

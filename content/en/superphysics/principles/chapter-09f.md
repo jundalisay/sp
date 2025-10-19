@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 9f"
-title: "Chi and the Animal Spirits"
+heading: "Chapter 9g"
+title: "Group Feeling"
 date: 2023-12-08
-weight: 614
-image: /photos/psych/yoga.jpg
+weight: 615
+image: /photos/social/protests.jpg
 description: "The animal spirits are called chi in Taoism and Vayu in Himduism"
 writer:
   name: Juan
@@ -12,45 +12,42 @@ icon: "Juan"
 ---
 
 
-The previous section explained how feelings, as feeling-waves, are caused by chakras as their origin.
 
-These waves course from the chakras to different parts of the body for expression into the physical world. 
+The previous section explained how group feeling can be used to harmonize the self with the soul.
 
-This is done through the medium of called the animal spirits, called chi in Taoism, and Vayu in Hinduism.
+This is why human happiness is primarily based on relationships. 
 
-These are in the Spatial Layer and so are naturally invisible since visibility is a property of the Radiant Layer.
+This is because relationality is the key mechanism that exposes the unity of Existence as the single Supreme Entity.  
 
-The main property of the Spatial Layer is force. This is why our feelings have force. 
-
-<!-- Love as an idea, Love as as visible thing, Love as an ectual feeling -->
+This relationality manifests as social relationships which then leads to fellow feeling and consequently the common interest which serves as the conscience of society. 
 
 
-{{< q a="Rene Descartes" c="Anatomica, Part 1" >}}
-Besides the animal spirits, man consists of spiritual air-aether which is homogeneous with our animal spirit, and watery humor, homogeneous with the solid parts that can be compared to the earth-aether
-{{< /q >}}
+Person | Group
+--- | ---
+selves | members
+personality | culture
+conscience | common interest
+personal morals | social morals
 
 
-## How to Fix Bad Feelings
+## Symbiosis
 
-Bad Feelings are waves of a certain waveform. 
+We defined a society as a metaphysical organism which has a physical component as the physical bodies that make up its members.  
+In the animal and plant worlds, the social structure improves the maintenance of those bodies by tapping the advantages of each member, as symbiosis. 
 
-These can be fixed by:
+A symbiosis is a mutually advantageous exchange of resources or services. 
 
-1. Cancelling them out with an opposite waveform. 
+We can say that it is the barter of the plant and animal world. 
 
-We get a negative feeling such as when our work is criticized and seen as ugly.
+The main requirement for such exchange is the communication between parties. 
 
-This can be relieved by getting a positive feeling where our work, or something about ourself, is praised and called beautiful. 
+Communication is an exchange of information that involves perception and expression.
 
-The positive wave cancels out the negative wave. 
+Animals and plants can communicate with each other not through complex ideas, but through simple feelings. 
 
-{{< i s="/photos/psych/yoga.jpg" a="Yoga" >}}
+In this case, feelings serve as information.
 
 
-2. Preventing waves from becoming bad qualitatively or quantitatively (volumetrically)
- <!-- or gaining negativity  -->
 
-Bad feelings get their "badness" from the difference with the current gravitational signature of the ego. 
 
-For example, a traffic jam is not so bad for a passenger who is reading a good book, but it really bad for a passenger who has to get to work on time. It can even be positive for a passenger of a bus who is watching his favorite movie on the bus' screen. 
 

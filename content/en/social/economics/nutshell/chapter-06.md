@@ -2,7 +2,6 @@
 heading: Chapter 6
 title: Fourth Law -- Market Price
 description: This is a pamphlet to introduce Supereconomics
-image: /covers/superecon.jpg
 weight: 20
 writer:
   name: Juan

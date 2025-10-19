@@ -2,7 +2,6 @@
 heading: Chapter 4
 title: The Second Law -- Real Price
 description: This is a pamphlet to introduce Supereconomics
-image: /covers/superecon.jpg
 weight: 10
 writer:
   name: Juan

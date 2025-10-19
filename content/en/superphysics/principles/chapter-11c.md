@@ -1,6 +1,8 @@
 ---
-title: "Using Intuition, Passion Plotting a Course"
-heading: "Consciousness is Binary as the Other Side of Existence"
+# title: "Using Intuition, Passion Plotting a Course"
+# heading: "Consciousness is Binary as the Other Side of Existence"
+heading: Chapter 11c
+title: The Occult
 date: "2019-07-21"
 weight: 52
 image: /photos/physics/ai.jpg
@@ -11,6 +13,14 @@ writer:
 draft: true
 icon: "Superphysics"
 ---
+
+
+
+## 
+
+## Clairvoyance and Deja Vu
+
+
 
 plotting a course
 

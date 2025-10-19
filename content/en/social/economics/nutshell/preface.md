@@ -1,7 +1,6 @@
 ---
 title: Preface
 description: This is a pamphlet to introduce Supereconomics
-image: /covers/superecon.jpg
 weight: 3
 writer:
   name: Juan
