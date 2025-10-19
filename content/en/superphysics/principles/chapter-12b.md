@@ -8,10 +8,8 @@ weight: 750
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
-icontext: Superphysics icon
+icon: Juan
 ---
-
 
 
 The vision of Superphysics is a new reality which has freed itself from the shackles of ego, materialism, and the Negative Force. 

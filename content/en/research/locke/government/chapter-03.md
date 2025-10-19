@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The State of War"
 # date: 2025-05-16
-weight: 26
+weight: 12
 description: ""
 c: "seagreen"
 ---

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
 title: "Slavery"
-weight: 26
+weight: 16
 description: ""
 c: "seagreen"
 ---

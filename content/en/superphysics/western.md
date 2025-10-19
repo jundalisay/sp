@@ -17,10 +17,14 @@ This is obvious in their colonization of the world wherein they imposed their cu
 This extends even to philosophy. For example, Hegel does not think that the Asian way of thinking is correct:
 
 {{< q a="Hegel" c="The Beginning of the History of Philosophy" >}}
-Consequently, philosophical knowledge is not to be looked for in the Orient, since it is proper to philosophical knowledge to be conscious of, to know, the substance, i.e., the universal insofar as I think it, develop it within me, determine it, in such a way that in the substance I have my own determinations and am also contained subjectively or affirmatively.  
+Consequently, philosophical knowledge is not to be looked for in the Orient, since philosophical knowledge should know the substance, i.e., the universal insofar as I think it, develop it within me, determine it, in such a way that in the substance I have my own determinations  
 {{< /q >}}
+ <!-- and am also contained subjectively or affirmatively. -->
 
-By comparing the works of Confucius, Buddha, and the Vedas, with the works of Aristotle, Kant, and Hegel, we see that the main difference is that the Asians do not need to give a step by step account for their thinking process. 
+
+## The Problems with Western Philosophy: Rambling and Shallow
+
+By comparing the works of Confucius, Buddha, and the Vedas, with the works of Aristotle, Kant, and Hegel, we see that the main difference is that the Asians **do not need to give a step by step account for their thinking process**. 
 
 The Europeans and Greeks, on the other hand, have to explain each step of their logic painstakingly. This makes the Western systems very tedious. More importantly, it also produces less useful things because the energy is wasted on the steps instead of the actual destination.
 
@@ -40,7 +44,7 @@ However, their difference from Eastern philosophy is that they are based on shal
 This is why the Capitalism of Mill and the Communism of Marx both end up not solving the problems of poverty, inequality, recessions, inflation, debt, etc. 
 
 
-### The Problems with Asian Philosophy
+## The Problems with Asian Philosophy: Lack of Detail and Deep Abstraction
 
 This lack of detail in Asian philosophy is an advantage, but also a disadvantage. 
 
@@ -53,4 +57,22 @@ For example, Confucius just gives major ideas, but does not explain how he got t
 This gets weak-willed people lost since they are unable to jump from Step 1 to Step 50 (the end result) by themselves. 
 
 Instead, they need a teacher to painstakingly teach them Step 2, Step 3, Step 4 and so on, instead of them discovering those mini-steps themselves.
+
+The Vedas, Yogic, and Tantric texts explain deeply how the universe works. But they are clouded in unclear definitions and analogies. 
+
+For example, Patanjali explains the mechanisms behind the occult powers, but does not explain the step-by-step process to harness those powers. 
+
+So you get a lot of gurus and yoga groups giving wildly different explanations, techniques, and practices.
+
+
+{{< i s="/photos/meta/buddhism.jpg" a="Buddha" c="Buddhist details are so abstract" >}}
+
+
+## Superphysics Solution: Merging of East and West
+
+Superphysics solves this by basing its principles in Asian spirituality, then using Western data and definitions and logic to  explain those principles to get practical results.
+
+For example, Socratic Dialectics uses the higher mind, developed through Asian spiritual practice, to churn through real data from observation in order to come up with solutions that can be explained in a step by step way. 
+
+
 

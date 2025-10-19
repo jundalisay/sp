@@ -2,7 +2,7 @@
 heading: Chapter 7
 title: "Paternal Power"
 # date: 2025-05-16
-weight: 26
+weight: 18
 description: ""
 c: "seagreen"
 ---

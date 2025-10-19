@@ -2,7 +2,7 @@
 heading: "Chapter 7e"
 title: "Plants"
 date: 2025-10-06
-weight: 460
+weight: 464
 image: /photos/bio/flower.jpg
 description: "Plants"
 writer:

@@ -1,16 +1,12 @@
 ---
-heading: "Chapter 7g"
-title: "Animals"
+heading: "Chapter 7e"
+title: "Advanced Alien Life"
 date: 2025-10-06
-weight: 467
-image: /photos/bio/peacock.jpg
-description: ""
+weight: 460
+image: /photos/objects/ufo.jpg
+description: "The Anunnaki are the origin of religions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
 ---
-
-
-
-{{< i s="/photos/bio/peacock.jpg" a="Peacock" c="" >}}

@@ -3,8 +3,8 @@ heading: "Chapter 9f"
 title: "Critical Feeling as Empathy"
 date: 2023-12-08
 weight: 616
-# image: /photos/psych/stop.jpg
-image: /graphics/psych/peace.jpg
+image: /photos/psych/consult.jpg
+# image: /graphics/psych/peace.jpg
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
 writer:
   name: Juan
@@ -49,6 +49,8 @@ The observers are continually placing themselves in the person's situation in or
 {{< /q >}}
 
 
+
+
 The big misconception is to critical feeling needs us to be more emotional.
 
 But being emotional is actually lack of control by the lower mind of its emotions.
@@ -60,6 +62,7 @@ Therefore the key component of Critical Feeling or empathy is the Positive Force
 
 This access to the Higher mind, and therefore more control of the emotions, is done by ideation and affirmations. 
 
+{{< i s="/photos/psych/consult.jpg" a="Empathy" c="Critical feeling means we feel beyond our selves" >}}
 
 
 ## The Traditional Solution to Increase Critical Feeling
@@ -82,4 +85,3 @@ These golden ages result in wealth which then bombards the 5 senses. This consta
 - The Song were destroyed by the Mongols just as the Ming were destroyed by the Qing
 - Japan was defeated in World War 2
 - The British Empire was challenged and weakened by the Americans who enshrined a shallow kind of materialist liberalism
-
