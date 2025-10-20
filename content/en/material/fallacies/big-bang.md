@@ -1,6 +1,6 @@
 ---
-heaing: Why The Big Bang is Wrong 
-title: "How The James Webb Space Telescope (JWST) Debunks the Big Bang"
+title: The Fallacy of the Big Bang
+# title: "How The James Webb Space Telescope (JWST) Debunks the Big Bang"
 date: 2024-03-17
 # weight: 7
 image: /graphics/physics/jwst.jpg
@@ -11,6 +11,7 @@ writer:
 icon: "Juan"
 toc: false
 ---
+
 
 
 The Big Bang is a consequence of religious thinking, from a priest named Lemaitre, that has corrupted Physics. 

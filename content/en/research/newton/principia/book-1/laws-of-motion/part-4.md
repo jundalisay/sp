@@ -2,11 +2,13 @@
 heading: Part 4
 linkTitle: Part 4
 title: "Corollaries 4-6"
-c: "firebrick"
 description: "We simplify Principlia Mathematica"
-icon: "Newton"
 weight: 12
-author: Isaac Newton
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
+c: "firebrick"
 ---
 
 

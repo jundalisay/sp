@@ -2,10 +2,12 @@
 heading: Part 1
 title: "The Laws of Motion"
 weight: 6
-image: /covers/principia.jpg
 description: "Newton enumerates 3 Laws and 6 Corollaries"
-author: Isaac Newton
-icon: /icons/newton.png
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
+c: "firebrick"
 ---
 
 

@@ -2,10 +2,12 @@
 heading: Chapter 12
 title: "The Prophecy of the Scripture of Truth"
 weight: 34
-image: /covers/daniel.png
 description: "The kingdoms represented by the second and third Beasts, or the Bear and Leopard, are again described by Daniel in his last Prophecy"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 
@@ -98,4 +100,3 @@ His brother and successor, Antiochus Magnus, carrying on the war, took from the 
 Being puffed up with this victory, and living in all manner of luxury, the Egyptians revolted, and had wars with him, but were overcome; and in the broils sixty thousand Egyptian Jews were slain. All which is thus described by Daniel: [4] But his sons [Seleucus Ceraunus, and Antiochus Magnus, the sons of Callinicus] shall be stirred up, and shall gather a great army; and he [Antiochus Magnus] shall come effectually and overflow, and pass thro' and return, and [again the next year] be stirred up [marching even] to his fortress, [the frontier towns of Egypt;] and the King of the South shall be moved with choler, and come forth [the third year] and fight with him, even with the King of the North; and he [the King of the North] shall lead forth a great multitude, but the multitude shall be given into his hand. And the multitude being taken away, his heart shall be lifted up, and he shall cast down many ten thousands; but he shall not be strengthned by it: for the king of the North shall return, &c.
 
 12 years after the battle between Philopator and Antiochus, Philopator died; and left his kingdom to his young son Ptolemy Epiphanes, a child of five years old. Thereupon Antiochus Magnus confederated with Philip king of Macedon, that they should each invade the dominions of Epiphanes which lay next to them. Hence arose a various war between Antiochus and Epiphanes, each of them seizing Phœnicia and Cœlosyria by turns; whereby those countries were much afflicted by both parties. First Antiochus seized them; then one Scopas being sent with the army of Egypt, recovered them from Antiochus: the next year, An. Nabonass. 550, Antiochus fought and routed Scopas near the fountains of Jordan, besieged him in Sidon, took the city, and recovered Syria and Phœnicia from Egypt, the Jews coming over to him voluntarily. But about three years after, preparing for a war against the Romans, he came to Raphia on the borders of Egypt; made peace with Epiphanes, and gave him his daughter Cleopatra: next autumn he passed the Hellespont to invade the cities of Greece under the Roman protection, and took some of them; but was beaten by the Romans the summer following, and forced to return back with his army into Asia. 
-

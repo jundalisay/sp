@@ -1,12 +1,13 @@
 ---
 heading: Chapter 5b
 title: Stilico's Ambition
-# title: "The Kingdoms represented by the feet of the Image composed of iron and clay"
 weight: 15
-image: /covers/daniel.png
 description: "Newton enumerates 3 Laws and 6 Corollaries"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

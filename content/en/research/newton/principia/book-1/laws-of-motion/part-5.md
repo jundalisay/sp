@@ -2,11 +2,13 @@
 heading: Part 5
 linkTitle: Part 5
 title: "Scholium"
-c: "firebrick"
 description: "We simplify Principlia Mathematica"
-icon: "Newton"
 weight: 60
-author: Isaac Newton
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
+c: "firebrick"
 ---
 
 

@@ -1,8 +1,11 @@
 ---
 title: "Plantary Orbits"
-c: "firebrick"
 description: "Centripetal forces are actually directed to the bodies of the sun, of the earth, and other planets."
+c: firebrick
 icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

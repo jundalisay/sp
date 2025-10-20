@@ -2,10 +2,12 @@
 heading: Chapter 6
 title: "The 10 Kingdoms as the 10 horns of the fourth Beast"
 weight: 18
-image: /covers/daniel.png
 description: "The 10 horns are the 10 barbarian Kingdoms"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

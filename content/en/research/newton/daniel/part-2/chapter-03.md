@@ -2,10 +2,12 @@
 heading: Chapter 3
 title: "The Subject and Relation of John's Prophecy to those of Daniel"
 weight: 14
-image: /covers/daniel.png
 description: "Newton enumerates 3 Laws and 6 Corollaries"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

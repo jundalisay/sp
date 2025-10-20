@@ -2,10 +2,12 @@
 heading: Chapter 8
 title: "The power of the 11th horn to change times and laws"
 weight: 24
-image: /covers/daniel.png
 description: "The granting of this jurisdiction to the Pope gave several Bishops occasion to write to him for his resolutions"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
  <!-- of Daniel's fourth Beast, -->
@@ -45,7 +47,9 @@ The same Pope Leo, having in a Council at Rome passed sentence upon Hilary Bisho
 
 Impp. Theodosius & Valentinianus AA. Aetio Viro illustri, Comiti & Magistro utriusque militiæ & Patricio.
 
-Certum est & nobis & imperio nostro unicum esse præsidium in supernæ Divinitatis favore, ad quem promerendum præcipue Christiana fides & veneranda nobis religio suffragatur. Cum igitur Sedis Apostolicæ Primatum sancti Petri meritum, qui princeps est Episcopalis coronæ & Romanæ dignitas civitatis, sacræ etiam Synodi firmavit auctoritas: ne quid præter auctoritatem Sedis istius illicitum præsumptio attemperare nitatur: tunc enim demum Ecclesiarum pax ubique servabitur, si Rectorem suum agnoscat Universitas. Hæc cum hactenus inviolabiliter suerint custodita, Hilarius Arelatensis, sicut venerabilis viri Leonis Romani Papæ fideli relatione comperimus, contumaci ausu illicita quædam præsumenda tentavit, & ideo Transalpinas Ecclesias abominabilis tumultus invasit, quod recens maximè testatur exemplum. Hilarius enim qui Episcopus Arelatensis vocatur, Ecclesiæ Romanæ urbis inconsulto Pontifice indebitas sibi ordinationes Episcoporum solâ temeritate usurpans invasit. Nam alios incompetenter removit; indecenter alios, invitis & repugnantibus civibus, ordinavit. Qui quidem, quoniam non facile ab his qui non elegerant, recipiebantur, manum sibi contrahebat armatam, & claustra murorum in hostilem morem vel obsidione cingebat, vel aggressione reserabat, & ad sedem quietis pacem prædicaturus per bella ducebat: His talibus contra Imperii majestatem, & contra reverentiam Apostolicæ Sedis admissis, per ordinem religiosi viri Urbis Papæ cognitione discussis, certa in eum, ex his quos malè ordinaverat, lata sententia est. Erat quidem ipsa sententia per Gallias etiam sine Imperiali Sanctione valitura: quid enim Pontificis auctoritate non liceret? Sed nostram quoque præceptionem hæc ratio provocavit. Nec ulterius vel Hilario, quem adhuc Episcopum nuncupare sola mansueta Præsulis permittit humanitas, nec cuiquam alteri ecclesiasticis rebus arma miscere, aut præceptis Romani Antistitis liceat obviare: ausibus enim talibus fides & reverentia nostri violatur Imperii. Nec hoc solum, quod est maximi criminis, submovemus: verum ne levis saltem inter Ecclesias turba nascatur, vel in aliquo minui religionis disciplina videatur, hoc perenni sanctione discernimus; nequid tam Episcopis Gallicanis quam aliarum Provinciarum contra consuetudinem veterem liceat, sine viri venerabilis Papæ Urbis æternæ auctoritate, tentare. Sed illis omnibusque pro lege sit, quicquid sanxit vel sanxerit Apostolicæ Sedis auctoritas: ita ut quisquis Episcoporum ad judicium Romani Antistitis evocatus venire neglexerit, per Moderatorem ejusdem Provinciæ adesse cogatur, per omnia servatis quæ Divi parentes nostri Romanæ Ecclesiæ detulerunt, Aetî pater carissime Augusti. Unde illustris & præclara magnificentia tua præsentis Edictalis Legis auctoritate faciet quæ sunt superius statuta servari, decem librarum auri multa protinus exigenda ab unoquoque Judice qui passus fuerit præcepta nostra violari. Divinitas te servet per multos annos, parens carissime. Dat. viii. Id. Jun. Romæ, Valentiniano A. vi. Consule, A.C. 445. By this Edict the Emperor Valentinian enjoined an absolute obedience to the will of the Bishop of Rome thro'out all the Churches of his Empire; and declares, that for the Bishops to attempt any thing without the Pope's authority is contrary to antient custom, and that the Bishops summoned to appear before his judicature must be carried thither by the Governor of the Province; and he ascribes these privileges of the See of Rome to the concessions of his dead Ancestors, that is, to the Edict of Gratian and Valentinian II. as above: by which reckoning this dominion of the Church of Rome was now of 66 years standing: and if in all this time it had not been sufficiently established, this new Edict was enough to settle it beyond all question thro'out the Western Empire.
+Certum est & nobis & imperio nostro unicum esse præsidium in supernæ Divinitatis favore, ad quem promerendum præcipue Christiana fides & veneranda nobis religio suffragatur. Cum igitur Sedis Apostolicæ Primatum sancti Petri meritum, qui princeps est Episcopalis coronæ & Romanæ dignitas civitatis, sacræ etiam Synodi firmavit auctoritas: ne quid præter auctoritatem Sedis istius illicitum præsumptio attemperare nitatur: tunc enim demum Ecclesiarum pax ubique servabitur, si Rectorem suum agnoscat Universitas. Hæc cum hactenus inviolabiliter suerint custodita, Hilarius Arelatensis, sicut venerabilis viri Leonis Romani Papæ fideli relatione comperimus, contumaci ausu illicita quædam præsumenda tentavit, & ideo Transalpinas Ecclesias abominabilis tumultus invasit, quod recens maximè testatur exemplum. Hilarius enim qui Episcopus Arelatensis vocatur, Ecclesiæ Romanæ urbis inconsulto Pontifice indebitas sibi ordinationes Episcoporum solâ temeritate usurpans invasit. Nam alios incompetenter removit; indecenter alios, invitis & repugnantibus civibus, ordinavit. Qui quidem, quoniam non facile ab his qui non elegerant, recipiebantur, manum sibi contrahebat armatam, & claustra murorum in hostilem morem vel obsidione cingebat, vel aggressione reserabat, & ad sedem quietis pacem prædicaturus per bella ducebat: His talibus contra Imperii majestatem, & contra reverentiam Apostolicæ Sedis admissis, per ordinem religiosi viri Urbis Papæ cognitione discussis, certa in eum, ex his quos malè ordinaverat, lata sententia est. Erat quidem ipsa sententia per Gallias etiam sine Imperiali Sanctione valitura: quid enim Pontificis auctoritate non liceret? Sed nostram quoque præceptionem hæc ratio provocavit. Nec ulterius vel Hilario, quem adhuc Episcopum nuncupare sola mansueta Præsulis permittit humanitas, nec cuiquam alteri ecclesiasticis rebus arma miscere, aut præceptis Romani Antistitis liceat obviare: ausibus enim talibus fides & reverentia nostri violatur Imperii. Nec hoc solum, quod est maximi criminis, submovemus: verum ne levis saltem inter Ecclesias turba nascatur, vel in aliquo minui religionis disciplina videatur, hoc perenni sanctione discernimus; nequid tam Episcopis Gallicanis quam aliarum Provinciarum contra consuetudinem veterem liceat, sine viri venerabilis Papæ Urbis æternæ auctoritate, tentare. Sed illis omnibusque pro lege sit, quicquid sanxit vel sanxerit Apostolicæ Sedis auctoritas: ita ut quisquis Episcoporum ad judicium Romani Antistitis evocatus venire neglexerit, per Moderatorem ejusdem Provinciæ adesse cogatur, per omnia servatis quæ Divi parentes nostri Romanæ Ecclesiæ detulerunt, Aetî pater carissime Augusti. Unde illustris & præclara magnificentia tua præsentis Edictalis Legis auctoritate faciet quæ sunt superius statuta servari, decem librarum auri multa protinus exigenda ab unoquoque Judice qui passus fuerit præcepta nostra violari. Divinitas te servet per multos annos, parens carissime. Dat. viii. Id. Jun. Romæ, Valentiniano A. vi. Consule, A.C. 445. 
+
+By this Edict, the Emperor Valentinian enjoined an absolute obedience to the will of the Bishop of Rome thro'out all the Churches of his Empire; and declares, that for the Bishops to attempt any thing without the Pope's authority is contrary to antient custom, and that the Bishops summoned to appear before his judicature must be carried thither by the Governor of the Province; and he ascribes these privileges of the See of Rome to the concessions of his dead Ancestors, that is, to the Edict of Gratian and Valentinian II. as above: by which reckoning this dominion of the Church of Rome was now of 66 years standing: and if in all this time it had not been sufficiently established, this new Edict was enough to settle it beyond all question thro'out the Western Empire.
 
 Hence all the Bishops of the Province of Arles in their Letter to Pope Leo, A.C. 450, petitioning for a restitution of the privileges of their Metropolitan, say: Per beatum Petrum Apostolorum principem, sacrosancta Ecclesia Romana tenebat supra omnes totius mundi Ecclesias principatum. And Ceratius, Salonius and Veranus, three Bishops of Gallia, say, in their Epistle to the same Pope: Magna præterea & ineffabili quadam nos peculiares tui gratulatione succrescimus, quod illa specialis doctrinæ vestræ pagina ita per omnium Ecclesiarum conventicula celebratur, ut vere consona omnium sententia declaretur; merito illic principatum Sedis Apostolicæ constitutum, unde adhuc Apostolici spiritus oracula reserentur. And Leo himself, in [16] his Epistle to the metropolitan Bishops thro'out Illyricum: Quia per omnes Ecclesias cura nostra distenditur, exigente hoc à nobis Domino, qui Apostolicæ dignitatis beatissimo Apostolo Petro primatum, fidei sui remuneratione commisit, universalem Ecclesiam in fundamenti ipsius soliditate constituens.
 
@@ -53,47 +57,7 @@ While this Ecclesiastical Dominion was rising up, the northern barbarous nations
 
 Between the years 775 and 794, the same Charles extended the Pope's authority over all Germany and Hungary as far as the river Theysse and the Baltic sea; he then set him above all human judicature, and at the same time assisted him in subduing the City and Duchy of Rome. By the conversion of the ten kingdoms to the Roman religion, the Pope only enlarged his spiritual dominion, but did not yet rise up as a horn of the Beast. It was his temporal dominion which made him one of the horns: and this dominion he acquired in the latter half of the eighth century, by subduing three of the former horns as above. 
 
-And now being arrived at a temporal dominion, and a power above all human judicature, he reigned [17] with a look more stout than his fellows, and [18] times and laws were henceforward given into his hands, for a time times and half a time, or three times and an half; that is, for 1260 solar years, reckoning a time for a Calendar year of 360 days, and a day for a solar year. After which [19] the judgment is to sit, and they shall take away his dominion, not at once, but by degrees, to consume, and to destroy it unto the end. [20] And the kingdom and dominion, and greatness of the kingdom under the whole heaven shall, by degrees, be given unto the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
+And now being arrived at a temporal dominion, and a power above all human judicature, he reigned [17] with a look more stout than his fellows, and [18] times and laws were henceforward given into his hands, for a time times and half a time, or three times and an half; that is, for 1260 solar years, reckoning a time for a Calendar year of 360 days, and a day for a solar year. 
 
+After which [19] the judgment is to sit, and they shall take away his dominion, not at once, but by degrees, to consume, and to destroy it unto the end. [20] And the kingdom and dominion, and greatness of the kingdom under the whole heaven shall, by degrees, be given unto the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
 
-
-### Notes to Chap. VIII.
-[1] See the Annals of Baronius, Anno 381. Sect. 6.
-
-[2] Populos Galliciæ.
-
-[3] Hormisd. Epist. 24. 26.
-
-[4] The words, sine auctoritate, seem wanting.
-
-[5] Vide Caroli a S. Paulo Geographiam sacram, p. 72, 73.
-
-[6] Greg. M. lib. 1. Indic. 9. Epist. 16.
-
-[7] Apud Gratianum de Mediolanensi & Aquileiensi Episcopis.
-
-[8] Greg. M. lib. 3. Epist. 26. & lib. 4. Epist. 1.
-
-[9] Greg. lib. 5. Epist. 4.
-
-[10] Greg. lib. 9. Epist. 10 & 67.
-
-[11] Greg. lib. 11. Epist. 3, 4.
-
-[12] Ambros l. 3. de sacramentis, c. 1.
-
-[13] Sigonius de Regno Italiæ, lib. 5.
-
-[14] See Baronius, Anno 433. Sect. 24.
-
-[15] Greg. M. lib. 3. Epist. 56, 57. & lib. 5. Epist. 25, 26, 56.
-
-[16] Epist. 25. apud Holstenium.
-
-[17] Dan. vii. 20.
-
-[18] Ver. 25.
-
-[19] Ver. 26.
-
-[20] Ver. 27.

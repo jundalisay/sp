@@ -2,10 +2,12 @@
 heading: Chapter 9
 title: "The Persians as the Ram and the Greeks as the He-Goat"
 weight: 26
-image: /covers/daniel.png
 description: "Newton enumerates 3 Laws and 6 Corollaries"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 <!-- The kingdoms represented in Daniel by  -->
@@ -57,34 +59,11 @@ Then he describes the actions of two of those kingdoms which bordered on Judea, 
 
 ממלך signifies after the king, Dan. xi. 8; so here ממנו may signify after him: and so מן־האחת may signify after one of them, Dan. viii. 9. 
 
-Arms are every where in these Prophecies of Daniel put for the military power of a kingdom, and they stand up when they conquer and grow powerful. The Romans conquered Illyricum, Epirus and Macedonia, in the year of Nabonassar 580; and thirty five years after, by the last will and testament of Attalus the last King of Pergamus, they inherited that rich and flourishing kingdom, that is, all Asia on this side mount Taurus: and sixty nine years after, they conquered the kingdom of Syria, and reduced it into a Province: and thirty four years after they did the like to Egypt. By all these steps the Roman arms stood up over the Greeks. And after 95 years more, by making war upon the Jews, they polluted the sanctuary of strength, and took away the daily sacrifice, and, in its room soon after, placed the abomination which made the Land desolate: for this abomination was placed after the days of Christ, Matth. xxiv. 15. In the 16th year of the Emperor Hadrian, A. C. 132, they placed this abomination by building a Temple to Jupiter Capitolinus, where the Temple of God in Jerusalem had stood. Thereupon the Jews under the conduct of Barchochab rose up in arms against the Romans, and in that war had 50 cities demolished, 985 of their best towns destroyed, and 580000 men slain by the sword: and in the end of the war, A.C. 136, they were all banished Judea upon pain or death; and that time the land hath remained desolate of its old inhabitants.
+Arms are every where in these Prophecies of Daniel put for the military power of a kingdom, and they stand up when they conquer and grow powerful. The Romans conquered Illyricum, Epirus and Macedonia, in the year of Nabonassar 580; and thirty five years after, by the last will and testament of Attalus the last King of Pergamus, they inherited that rich and flourishing kingdom, that is, all Asia on this side mount Taurus: and sixty nine years after, they conquered the kingdom of Syria, and reduced it into a Province: and thirty four years after they did the like to Egypt. By all these steps the Roman arms stood up over the Greeks. 
 
-The prophetic Angel passes in this manner from the four kingdoms of the Greeks to the Romans reigning over the Greeks, is confirmed from hence, that in the next place he describes the affairs of the Christians unto the time of the end, in these words: [12] And they that understand among the people shall instruct many, yet they shall fall by the sword and by flame, by captivity and by spoil many days. Now when they shall fall they shall be holpen with a little help, viz. in the reign of Constantine the great; but many shall cleave to them with dissimulation. And some of them of understanding there shall fall to try them, and to purge them from the dissemblers; and to make them white even to the time of the end. And a little after, the time of the end is said to be a time, times, and half a time: which is the duration of the reign of the last horn of Daniel's fourth Beast, and of the Woman and her Beast in the Apocalyps.
+After 95 years more, by making war upon the Jews, they polluted the sanctuary of strength, and took away the daily sacrifice, and, in its room soon after, placed the abomination which made the Land desolate: for this abomination was placed after the days of Christ, Matth. xxiv. 15. In the 16th year of the Emperor Hadrian, A. C. 132, they placed this abomination by building a Temple to Jupiter Capitolinus, where the Temple of God in Jerusalem had stood. Thereupon the Jews under the conduct of Barchochab rose up in arms against the Romans, and in that war had 50 cities demolished, 985 of their best towns destroyed, and 580000 men slain by the sword: and in the end of the war, A.C. 136, they were all banished Judea upon pain or death; and that time the land hath remained desolate of its old inhabitants.
 
-### Notes to Chap. IX.
+The prophetic Angel passes in this manner from the four kingdoms of the Greeks to the Romans reigning over the Greeks, is confirmed from hence, that in the next place he describes the affairs of the Christians unto the time of the end, in these words: [12] 
 
-[1] Chap. viii. 3.
-
-[2] Ver. 22.
-
-[3] Ver. 23.
-
-[4] Chap. viii. 9.
-
-[5] Chap. viii. 9, 10.
-
-[6] Ver. 11.
-
-[7] Ver. 12.
-
-[8] Ver. 13, 14.
-
-[9] Dan. xi. 1, 2.
-
-[10] Ver. 3.
-
-[11] Dan xi. 31.
-
-[12] Chap. xi. 33, &c.
-
+They that understand among the people shall instruct many, yet they shall fall by the sword and by flame, by captivity and by spoil many days. Now when they shall fall they shall be holpen with a little help, viz. in the reign of Constantine the great; but many shall cleave to them with dissimulation. And some of them of understanding there shall fall to try them, and to purge them from the dissemblers; and to make them white even to the time of the end. And a little after, the time of the end is said to be a time, times, and half a time: which is the duration of the reign of the last horn of Daniel's fourth Beast, and of the Woman and her Beast in the Apocalyps.
 

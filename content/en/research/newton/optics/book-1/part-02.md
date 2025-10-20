@@ -3,12 +3,15 @@ heading: Part 2
 title: "Propositions"
 description: ""
 weight: 12
-a: "Newton"
-c: "firebrick"
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 
-## PROP. I. Theor. I.
+## Proposition 1, Theorem 1
 
 The Phænomena of Colours in refracted or reflected Light are not caused by new Modifications of the Light variously impress'd, according to the various Terminations of the Light and Shadow.
 
@@ -36,7 +39,7 @@ To these Experiments may be added the tenth Experiment of the first Part of this
 There is yet another material Circumstance of this Experiment. For this emerging Light being by a third Prism HIK [in Fig. 22. Part I.][I] refracted towards the Paper PT, and there painting the usual Colours of the Prism, red, yellow, green, blue, violet: If these Colours arose from the Refractions of that Prism modifying the Light, they would not be in the Light before its Incidence on that Prism. And yet in that Experiment we found, that when by turning the two first Prisms about their common Axis all the Colours were made to vanish but the red; the Light which makes that red being left alone, appeared of the very same red Colour before its Incidence on the third Prism. And in general we find by other Experiments, that when the Rays which differ in Refrangibility are separated from one another, and any one Sort of them is considered apart, the Colour of the Light which they compose cannot be changed by any Refraction or Reflexion whatever, as it ought to be were Colours nothing else than Modifications of Light caused by Refractions, and Reflexions, and Shadows. This Unchangeableness of Colour I am now to describe in the following Proposition.
 
 
-## PROP. II. Theor. II.
+## Proposition 2, Theorem 2
 
 All homogeneal Light has its proper Colour answering to its Degree of Refrangibility, and that Colour cannot be changed by Reflexions and Refractions.
 
@@ -48,7 +51,9 @@ Exper. 6. And as these Colours were not changeable by Refractions, so neither we
 
 From all which it is manifest, that if the Sun's Light consisted of but one sort of Rays, there would be but one Colour in the whole World, nor would it be possible to produce any new Colour by Reflexions and Refractions, and by consequence that the variety of Colours depends upon the Composition of Light.
 
-### DEFINITION. The homogeneal Light and Rays which appear red, or rather make Objects appear so, I call Rubrifick or Red-making; those which make Objects appear yellow, green, blue, and violet, I call Yellow-making, Green-making, Blue-making, Violet-making, and so of the rest.
+### DEFINITION
+
+The homogeneal Light and Rays which appear red, or rather make Objects appear so, I call Rubrifick or Red-making; those which make Objects appear yellow, green, blue, and violet, I call Yellow-making, Green-making, Blue-making, Violet-making, and so of the rest.
 
 If at any time I speak of Light and Rays as coloured or endued with Colours, I would be understood to speak not philosophically and properly, but grossly, and accordingly to such Conceptions as vulgar People in seeing all these Experiments would be apt to frame. For the Rays to speak properly are not coloured. In them there is nothing else than a certain Power and Disposition to[Pg 125] stir up a Sensation of this or that Colour. For as Sound in a Bell or musical String, or other sounding Body, is nothing but a trembling Motion, and in the Air nothing but that Motion propagated from the Object, and in the Sensorium 'tis a Sense of that Motion under the Form of Sound; so Colours in the Object are nothing but a Disposition to reflect this or that sort of Rays more copiously than the rest; in the Rays they are nothing but their Dispositions to propagate this or that Motion into the Sensorium, and in the Sensorium they are Sensations of those Motions under the Forms of Colours.
 
@@ -83,7 +88,9 @@ By the latter Theorem the Refraction out of one Medium into another is gathered 
 
 And these Theorems being admitted into Opticks, there would be scope enough of handling that Science voluminously after a new manner,[K] not only by teaching those things which tend to the perfection of Vision, but also by determining mathematically all kinds of Phænomena of Colours which could be produced by Refractions. For to do this, there is nothing else requisite than to find out the Separations of heterogeneous Rays, and their various Mixtures and Proportions in every Mixture. By this[Pg 132] way of arguing I invented almost all the Phænomena described in these Books, beside some others less necessary to the Argument; and by the successes I met with in the Trials, I dare promise, that to him who shall argue truly, and then try all things with good Glasses and sufficient Circumspection, the expected Event will not be wanting. But he is first to know what Colours will arise from any others mix'd in any assigned Proportion.
 
-PROP. IV. Theor. III.
+
+## Proposition 4, Theorem 3
+
 Colours may be produced by Composition which shall be like to the Colours of homogeneal Light as to the Appearance of Colour, but not as to the Immutability of Colour and Constitution of Light. And those Colours by how much they are more compounded by so much are they less full and intense, and by too much Composition they maybe diluted and weaken'd till they cease, and the Mixture becomes white or grey. There may be also Colours produced by Composition, which are not fully like any of the Colours of homogeneal Light.
 
 For a Mixture of homogeneal red and yellow compounds an Orange, like in appearance of Colour to that orange which in the series of unmixed prismatick Colours lies between them; but the Light of one orange is homogeneal as to Refrangibility,[Pg 133] and that of the other is heterogeneal, and the Colour of the one, if viewed through a Prism, remains unchanged, that of the other is changed and resolved into its component Colours red and yellow. And after the same manner other neighbouring homogeneal Colours may compound new Colours, like the intermediate homogeneal ones, as yellow and green, the Colour between them both, and afterwards, if blue be added, there will be made a green the middle Colour of the three which enter the Composition. For the yellow and blue on either hand, if they are equal in quantity they draw the intermediate green equally towards themselves in Composition, and so keep it as it were in Æquilibrion, that it verge not more to the yellow on the one hand, and to the blue on the other, but by their mix'd Actions remain still a middle Colour. To this mix'd green there may be farther added some red and violet, and yet the green will not presently cease, but only grow less full and vivid, and by increasing the red and violet, it will grow more and more dilute, until by the prevalence of the added Colours it be overcome and turned into whiteness, or some other Colour. So if to the Colour of any homogeneal Light, the Sun's white Light composed of all sorts of Rays be added, that Colour will not vanish or change its Species, but be diluted, and by adding more and more white it will be diluted more and more perpetually. Lastly, If red and violet be mingled, there will be generated according to their various Proportions various Purples, such as are not like in appearance to the Colour of any[Pg 134] homogeneal Light, and of these Purples mix'd with yellow and blue may be made other new Colours.

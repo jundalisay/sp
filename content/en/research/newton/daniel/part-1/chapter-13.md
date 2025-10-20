@@ -2,10 +2,12 @@
 heading: Chapter 13
 title: "The King who did according to his will"
 weight: 40
-image: /covers/daniel.png
 description: "He magnified himself above every God, and honoured Mahuzzims, and regarded not the desire of women"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 
@@ -60,14 +62,3 @@ From the Cataphrygians these principles and practices were propagated down to po
 For tho some stop was put to the Cataphrygian Christianity, by Provincial Councils, till the fourth century; yet the Roman Emperors then turning Christians, and great multitudes of heathens coming over in outward profession, these found the Cataphrygian Christianity more suitable to their old principles, of placing religion in outward forms and ceremonies, holy-days, and doctrines of Ghosts, than the religion of the sincere Christians: wherefore they readily sided with the Cataphrygian Christians, and established that Christianity before the end of the fourth century. 
 
 By this means those of understanding, after they had been persecuted by the heathen Emperors in the three first centuries, and were holpen with a little help, by the conversion of Constantine the great and his sons to the Christian religion, fell under new persecutions, to purge them from the dissemblers, and to make them white, even to the time of the end.
-
-Notes to Chap. XIII.
-[1] Lib. 4. c. 28, 29.
-
-[2] In vita Constantini, l. 4. c. 28.
-
-[3] Epist. 10.
-
-[4] L. 32. de Episcopis.
-
-

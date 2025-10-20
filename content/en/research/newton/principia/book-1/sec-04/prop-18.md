@@ -2,7 +2,10 @@
 heading: Proposition 18
 title: "Elliptic and hyperbolic trajectories"
 description: "Let the perpendicular TR cut the right line HV in R and then join SR. TS and TV are equal"
-author: Newton
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 c: "firebrick"
 ---
 

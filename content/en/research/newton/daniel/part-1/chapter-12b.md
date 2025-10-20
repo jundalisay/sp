@@ -2,10 +2,12 @@
 heading: Chapter 12b
 title: "The Greek Kingdom After Alexander the Great"
 weight: 36
-image: /covers/daniel.png
 description: "Before the end of the year the fleet of Antiochus was beaten by the fleet of the Romans near Phocæa"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 
@@ -39,32 +41,11 @@ In the same year that Antiochus by the command of the Romans retired out of Egyp
 
 In the beginning of the Jewish war in Nero's reign, the Apostles fled out of Judea with their flocks; some beyond Jordan to Pella and other places, some into Egypt, Syria, Mesopotamia, Asia minor, and elsewhere. Peter and John came into Asia, and Peter went thence by Corinth to Rome; but John staying in Asia, was banished by the Romans into Patmos, as the head of a party of the Jews, whose nation was in war with the Romans. By this dispersion of the Christian Jews, the Christian religion, which was already propagated westward as far as Rome, spred fast into all the Roman Empire, and suffered many persecutions under it till the days of Constantine the great and his sons: all which is thus described by Daniel. [11] And such as do wickedly against the covenant, shall he, who places the abomination, cause to dissemble, and worship the heathen Gods; but the people among them who do know their God, shall be strong and act. And they that understand among the people, shall instruct many: yet they shall fall by the sword, and by flame, and by captivity, and by spoil many days. Now when they shall fall, they shall be holpen with a little help, viz. in the reign of Constantine the great; and at that time by reason of their prosperity, many shall come over to them from among the heathen, and cleave to them with dissimulation. But of those of understanding there shall still fall to try God's people by them and to purge them from the dissemblers, and to make them white even to the time of the end: because it is yet for a time appointed.
 
-Hitherto the Roman Empire continued entire; and under this dominion, the little horn of the He-Goat continued mighty, but not by his own power. But now, by the building of Constantinople, and endowing it with a Senate and other like privileges with Rome; and by the division of the Roman Empire into the two Empires of the Greeks and Latins, headed by those two cities; a new scene of things commences, in which which [12] a King, the Empire of the Greeks, doth according to his will, and, by setting his own laws above the laws of God, exalts and magnifies himself above every God, and speaks marvellous things against the God of Gods, and shall prosper till the indignation be accomplished.—Neither shall he regard the God of his fathers, nor the lawful desire of women in matrimony, nor any God, but shall magnify himself above all. And in his seat he shall honour Mahuzzims, that is, strong guardians, the souls of the dead; even with a God whom his fathers knew not shall he honour them, in their Temples, with gold and silver, and with precious stones and valuable things. All which relates to the overspreading of the Greek Empire with Monks and Nuns, who placed holiness in abstinence from marriage; and to the invocation of saints and veneration of their reliques, and such like superstitions, which these men introduced in the fourth and fifth centuries. [13] And at the time of the end the King of the South, or the Empire of the Saracens, shall push at him; and the King of the North, or Empire of the Turks, shall come against him like a whirlwind, with chariots and with horsemen, and with many ships; and be shall enter into the countries of the Greeks, and shall overflow and pass over. He shall enter also into the glorious land, and many countries shall be overthrown; but these shall escape out of his hand, even Edom and Moab, and the chief of the children Ammon: that is, those to whom his Caravans pay tribute. He shall stretch forth his hand also upon the countries, and the land of Egypt shall not escape; but he shall have power over the treasures of gold and silver, and over all the precious things of Egypt; and the Lybians and Ethiopians shall be at his steps. All these nations compose the Empire of the Turks, and therefore this Empire is here to be understood by the King of the North. They compose also the body of the He-Goat; and therefore the Goat still reigns in his last horn, but not by his own power.
+Hitherto the Roman Empire continued entire; and under this dominion, the little horn of the He-Goat continued mighty, but not by his own power. 
 
+But now, by the building of Constantinople, and endowing it with a Senate and other like privileges with Rome; and by the division of the Roman Empire into the two Empires of the Greeks and Latins, headed by those two cities; a new scene of things commences, in which which a King, the Empire of the Greeks, doth according to his will, and, by setting his own laws above the laws of God, exalts and magnifies himself above every God, and speaks marvellous things against the God of Gods, and shall prosper till the indignation be accomplished.—Neither shall he regard the God of his fathers, nor the lawful desire of women in matrimony, nor any God, but shall magnify himself above all. And in his seat he shall honour Mahuzzims, that is, strong guardians, the souls of the dead; even with a God whom his fathers knew not shall he honour them, in their Temples, with gold and silver, and with precious stones and valuable things. 
 
-### Notes to Chap. XII.
-[1] Chap. xi. 2, 3, 4.
+All which relates to the overspreading of the Greek Empire with Monks and Nuns, who placed holiness in abstinence from marriage; and to the invocation of saints and veneration of their reliques, and such like superstitions, which these men introduced in the fourth and fifth centuries. 
 
-[2] Chap. xi. 5.
+At the time of the end the King of the South, or the Empire of the Saracens, shall push at him; and the King of the North, or Empire of the Turks, shall come against him like a whirlwind, with chariots and with horsemen, and with many ships; and be shall enter into the countries of the Greeks, and shall overflow and pass over. He shall enter also into the glorious land, and many countries shall be overthrown; but these shall escape out of his hand, even Edom and Moab, and the chief of the children Ammon: that is, those to whom his Caravans pay tribute. He shall stretch forth his hand also upon the countries, and the land of Egypt shall not escape; but he shall have power over the treasures of gold and silver, and over all the precious things of Egypt; and the Lybians and Ethiopians shall be at his steps. All these nations compose the Empire of the Turks, and therefore this Empire is here to be understood by the King of the North. They compose also the body of the He-Goat; and therefore the Goat still reigns in his last horn, but not by his own power.
 
-[3] Chap. xi. 6, 7, 8.
-
-[4] Chap. xi. 10, &c.
-
-[5] Chap. xi. 13-19.
-
-[6] Chap. xi. 20.
-
-[7] Chap. xi. 21, &c.
-
-[8] 2 Maccab. iii. 5, 8. & iv. 4.
-
-[9] Chap. xi. 25, &c.
-
-[10] Chap. xi. 29, 30.
-
-[11] Chap. xi. 32, &c.
-
-[12] Chap. xi. 36, &c.
-
-[13] Chap. xi. 40, &c.

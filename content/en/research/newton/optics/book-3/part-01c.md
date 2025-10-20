@@ -1,3 +1,14 @@
+---
+heading: Part 1c
+title: "Questions"
+description: ""
+weight: 12
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
+c: "firebrick"
+---
 
 
 

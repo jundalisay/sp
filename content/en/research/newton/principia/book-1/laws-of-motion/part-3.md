@@ -2,11 +2,13 @@
 heading: Part 3
 linkTitle: Part 3
 title: "Corollary 3"
-c: "firebrick"
 description: "We simplify Principlia Mathematica"
-icon: "Newton"
 weight: 10
-author: Isaac Newton
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
+c: "firebrick"
 ---
 
 

@@ -2,10 +2,12 @@
 heading: Chapter 14
 title: "The Mahuzzims, honoured by the King who did according to his will."
 weight: 49
-image: /covers/daniel.png
 description: "Newton enumerates 3 Laws and 6 Corollaries"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 
@@ -160,28 +162,9 @@ Constantinople was free from these superstitions till Gregory Nazianzen came thi
 
 This practice of sending reliques from place to place for working miracles, and thereby inflaming the devotion of the nations towards the dead Saints and their reliques, and setting up the religion of invoking their souls, lasted only till the middle of the reign of the Emperor Theodosius the great; for he then prohibited it by the following Edict. Humatum corpus, nemo ad alterum locum transferat; nemo Martyrem distrahat, nemo mercetur: Habeant verò in potestate, si quolibet in loco sanctorum est aliquis conditus, pro ejus veneratione, quod Martyrium vocandum sit, addant quod voluerint fabricarum. Dat. iv. Kal. Mart. Constantinopoli, Honorio nob. puero & Euodio Coss. A.C. 386. 
 
-After this they filled the fields and high-ways with altars erected to Martyrs, which they pretended to discover by dreams and revelations: and this occasioned the making the fourteenth Canon of the fifth Council of Carthage, A.C. 398. Item placuit, ut altaria, quæ passim per agros aut vias, tanquam memoriæ Martyrum constituuntur, in quibus nullum corpus aut reliquiæ Martyrum conditæ probantur, ab Episcopis, qui illis locis præsunt, si fieri potest, evertantur. Si autem hoc propter tumultus populares non sinitur, plebes tamen admoneantur, ne illa loca frequentent, ut qui rectè sapiunt, nullâ ibi superstitione devincti teneantur. Et omnino nulla memoria Martyrum probabiliter acceptetur, nisi aut ibi corpus aut aliquæ certæ reliquiæ sint, aut ubi origo alicujus habitationis, vel possessionis, vel passionis fidelissima origine traditur. Nam quæ per somnia, & per inanes quasi revelationes quorumlibet hominum ubique constituuntur altaria, omnimodè reprobentur. These altars were for invoking the Saints or Martyrs buried or pretended to be buried under them. First they filled the Churches in all places with the reliques or pretended reliques of the Martyrs, for invoking them in the Churches; and then they filled the fields and high-ways with altars, for invoking them every where: and this new religion was set up by the Monks in all the Greek Empire before the expedition of the Emperor Theodosius against Eugenius, and I think before his above-mentioned Edict, A.C. 386.
+After this they filled the fields and high-ways with altars erected to Martyrs, which they pretended to discover by dreams and revelations: 
+
+This occasioned the making the fourteenth Canon of the fifth Council of Carthage, A.C. 398. Item placuit, ut altaria, quæ passim per agros aut vias, tanquam memoriæ Martyrum constituuntur, in quibus nullum corpus aut reliquiæ Martyrum conditæ probantur, ab Episcopis, qui illis locis præsunt, si fieri potest, evertantur. Si autem hoc propter tumultus populares non sinitur, plebes tamen admoneantur, ne illa loca frequentent, ut qui rectè sapiunt, nullâ ibi superstitione devincti teneantur. Et omnino nulla memoria Martyrum probabiliter acceptetur, nisi aut ibi corpus aut aliquæ certæ reliquiæ sint, aut ubi origo alicujus habitationis, vel possessionis, vel passionis fidelissima origine traditur. Nam quæ per somnia, & per inanes quasi revelationes quorumlibet hominum ubique constituuntur altaria, omnimodè reprobentur. These altars were for invoking the Saints or Martyrs buried or pretended to be buried under them. First they filled the Churches in all places with the reliques or pretended reliques of the Martyrs, for invoking them in the Churches; and then they filled the fields and high-ways with altars, for invoking them every where: and this new religion was set up by the Monks in all the Greek Empire before the expedition of the Emperor Theodosius against Eugenius, and I think before his above-mentioned Edict, A.C. 386.
 
 The same religion of worshiping Mahuzzims quickly spred into the Western Empire also: but Daniel in this Prophecy describes chiefly the things done among the nations comprehended in the body of his third Beast.
 
-
-### Notes to Chap. XIV.
-[1] Chap. xi. 38, 39
-
-[2] Orat. de vita Greg. Thaumaturg. T. 3. p. 574.
-
-[3] Vide Hom. 47. in. S. Julian.
-
-[4] Epist. 27. ad Eustochium.
-
-[5] Edit. Frontonis Ducæi, Tom. 1.
-
-[6] Ad. an. 381, Sect. 41.
-
-[7] Hist. Eccl. l. 2. c. 23.
-
-[8] L. 4. c. 24.
-
-[9] Hom. 66. ad. populum, circa finem. & Hom. 8, 27. in Matth. Hom. 42, 43. in Gen. Hom. 1. in 1 Thess.
-
-[10] Exposit. in Psal. 114. sub finem.

@@ -20,3 +20,40 @@ The most advanced animal species is the human race called Homo Sapiens by Carl L
 ## The Anunnaki Hypothesis 
 
 Humans are the only known advanced species on Earth able to create civilizations. 
+
+
+
+
+
+
+## The 10 Vayus or Animal Spirits
+
+Decartes' animal spirits match the vayus and chi in Hinduism and Taoism. 
+
+These facilitate forces internally and externally of the body.
+
+Internal | Description
+--- | ---
+Heart | Blood Circulation and Nerves
+Chest | inhalation and exhalation
+Throat | voice
+Navel | coordinates Base and Chest
+Base | controls urine and stool
+
+
+External | Purpose
+--- | ---
+Expansion | Expansive Muscular activity 
+Contraction | Contractive Muscular activity 
+Yawn | Yawning
+Hunger | Thirst and Hunger
+Sleep | Sleep and drowsiness
+
+
+## Death
+
+
+{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 1" >}}
+**The loss in the parallelism of physical and mental waves causes death.**The physical cause of death is the passing away of the 9 vayus (10 minus sleep vayu) into eternal space. The psychic waves, finding no proper adjustment with the physical waves, also dissociate and pass into eternal space. 
+{{< /q >}}
+

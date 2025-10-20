@@ -3,8 +3,11 @@ heading: Part 1
 title: "Definitions"
 description: ""
 weight: 12
-a: "Newton"
-c: "firebrick"
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

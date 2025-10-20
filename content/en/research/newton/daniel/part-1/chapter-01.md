@@ -2,14 +2,17 @@
 heading: Chapter 1
 title: "The Books of the Old Testament"
 weight: 4
-image: /covers/daniel.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 description: "Newton enumerates the books of the Old Testament"
-author: Isaac Newton
-icon: /icons/newton.png
 ---
 
 
-### The Pentateuch
+
+## The Pentateuch
 
 Manasses <sup>1</sup>:
 - set up a carved image in the house of the Lord

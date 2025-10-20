@@ -163,9 +163,9 @@ With the over‑activeness of these two Cakras, mind becomes crude. The passing 
 
 But the Tejapiitha which is located in the navel is Rajasika in nature.
 
-The Va'yupiit'ha and the Akashapiitha are sentient in nature. 
+The Vayupiit'ha and the Akashapiitha are sentient in nature. 
 
-The navel is Rajasika because it maintains a balance between the 2 Tamasika and 2 Sattvika piithas.
+The navel is rajasic because it maintains a balance between the 2 tamasic and 2 sattvic piithas.
 
 If by some means or other, the lower two Cakras are excited, then the navel also becomes imbalanced.*
 
@@ -218,3 +218,4 @@ If the crescent moon is given the shape of a full moon, then it becomes easier t
 In our Snana Vidhi, it has been clearly mentioned that we must wet the navel and Svadhisthana first and then we should give water again from behind. 
 
 So the external physical Shaoca is to keep the body clean and strictly observe Snana Vidhi.
+

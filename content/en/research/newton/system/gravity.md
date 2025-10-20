@@ -3,6 +3,9 @@ title: "Gravity"
 c: "firebrick"
 description: "The Egyptians were early observers of the heavens. This heliocentric philosophy came from them and was spread abroad, especially among the Greeks who were addicted to the study of philology than of nature"
 icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

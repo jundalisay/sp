@@ -2,15 +2,18 @@
 heading: Chapter 7
 title: "The eleventh horn as the Church"
 weight: 22
-image: /covers/daniel.png
 description: "Daniel, considered the horns, and behold there came up among them another horn"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 
 
-[1]Daniel, considered the horns, and behold there came up among them another horn, before whom there were three of the first horns pluckt up by the roots; and behold in this horn were eyes like the eyes of a man, and a mouth speaking great things,—and [2] his look was more stout than his fellows,—and the same horn made war with the saints, and prevailed against them: and one who stood by, and made Daniel know the interpretation of these things, told him, that [3] the ten horns were ten kings that should arise, and another should arise after them, and be diverse from the first, and he should subdue three kings, [4] and speak great words against the most High, and wear out the saints, and think to change times and laws: and that they should be given into his hands until a time and times and half a time. 
+Daniel, considered the horns, and behold there came up among them another horn, before whom there were three of the first horns pluckt up by the roots; and behold in this horn were eyes like the eyes of a man, and a mouth speaking great things,—and his look was more stout than his fellows,—and the same horn made war with the saints, and prevailed against them: and one who stood by, and made Daniel know the interpretation of these things, told him, that [3] the ten horns were ten kings that should arise, and another should arise after them, and be diverse from the first, and he should subdue three kings, [4] and speak great words against the most High, and wear out the saints, and think to change times and laws: and that they should be given into his hands until a time and times and half a time. 
+
 
 Kings are put for kingdoms, as above; and therefore the little horn is a little kingdom. 
 
@@ -106,7 +109,7 @@ It was erected when Peter was reaching the Pallium to the Pope, and the Pope was
 
 The words above, Sanctissimus Dominus noster Leo Papa Domino nostro Carolo Regi, relate to the message; and the words below, Beate Petre, dona vitam Leoni Papæ & victoriam Carolo regi dona, are a prayer that in this undertaking God would preserve the life of the Pope, and give victory to the King over the Romans.
 
-The three keys in the lap of Peter signify the keys of the three parts of his Patrimony:
+The 3 keys in the lap of Peter signify the keys of the three parts of his Patrimony:
 
 1. The key of Rome with its Duchy
 
@@ -122,34 +125,7 @@ By Peter's giving the Pallium to the Pope with his right hand, and the banner of
 
 After the death of Charles the great, his son and successor Ludovicus Pius, at the request of the Pope, [13] confirmed the donations of his grandfather and father to the see of Rome. And in the confirmation he names first Rome with its Duchy extending into Tuscany and Campania; then the Exarchate of Ravenna, with Pentapolis; and in the third place, the territories taken from the Lombards. 
 
-These are his three conquests, and he was to hold them of the Emperor for the use of the Church sub integritate, entirely, without the Emperor's medling therewith, or with the jurisdiction or power of the Pope therein, unless called thereto in certain cases. This ratification the Emperor Ludovicus made under an oath: and as the King of the Ostrogoths, for acknowledging that he held his kingdom of Italy of the Greek Emperor, stamped the effigies of the Emperor on one side of his coins and his own on the reverse; so the Pope made the like acknowledgment to the Western Emperor. For the Pope began now to coin money, and the coins of Rome are henceforward found with the heads of the Emperors, Charles, Ludovicus Pius, Lotharius, and their successors, on the one side, and the Pope's inscription on the reverse, for many years.
+These are his 3 conquests.
 
-
-### Notes to Chap. VII.
-[1] Chap. vii. 8.
-
-[2] Ver. 20, 21.
-
-[3] Ver. 24.
-
-[4] Ver. 25.
-
-[5] Sigonius de Regno Italiæ, ad Ann. 726.
-
-[6] Sigonius ib. ad Ann. 726, 752.
-
-[7] Sigon. ib. Ann. 750.
-
-[8] Sigon. ib. Ann. 753, 754, 755.
-
-[9] Sigon. ib. Ann. 773.
-
-[10] Sigon. de Regno Ital. ad Ann. 796.
-
-[11] Vide Anastasium.
-
-[12] Sigon. de Regno Ital.
-
-[13] Confirmationem recitat Sigonius, lib. 4. de Regno Italiæ, ad An. 817.
-
+He was to hold them of the Emperor for the use of the Church sub integritate, entirely, without the Emperor's medling therewith, or with the jurisdiction or power of the Pope therein, unless called thereto in certain cases. This ratification the Emperor Ludovicus made under an oath: and as the King of the Ostrogoths, for acknowledging that he held his kingdom of Italy of the Greek Emperor, stamped the effigies of the Emperor on one side of his coins and his own on the reverse; so the Pope made the like acknowledgment to the Western Emperor. For the Pope began now to coin money, and the coins of Rome are henceforward found with the heads of the Emperors, Charles, Ludovicus Pius, Lotharius, and their successors, on the one side, and the Pope's inscription on the reverse, for many years.
 

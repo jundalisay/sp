@@ -2,10 +2,12 @@
 heading: Chapter 4
 title: "The Vision of the 4 Beasts"
 weight: 10
-image: /covers/daniel.png
 description: "The next vision was that of the four Beasts. "
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

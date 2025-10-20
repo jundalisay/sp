@@ -1,15 +1,17 @@
 ---
-heading: The Einstein Trap
-title: "The Fallacy of Einstein's Simultaneity and Relativity"
+heading: The Einstein Scam Part 2
+title: "The Fallacy of the Constant Speed of Light"
 date: 2024-12-06
-# weight: 32
-image: /photos/objects/clock.jpg
+image: /photos/physics/whitehole.jpg
 description: "Science is pure objectiveness. The problem is that the universe is subjective and its core is actually paradoxical"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 toc: false
+aliases:
+  /material/fallacies/simultaneity
+  /lightspeed
 ---
 
 

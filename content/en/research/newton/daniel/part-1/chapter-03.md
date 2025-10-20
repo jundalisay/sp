@@ -2,10 +2,12 @@
 heading: Chapter 3
 title: "Daniel's First Prophecy"
 weight: 8
-image: /covers/daniel.png
 description: "The first vision was of the Image composed of four Metals."
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

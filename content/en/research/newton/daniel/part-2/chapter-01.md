@@ -2,10 +2,12 @@
 heading: Chapter 1
 title: "When was the Apocalypse written?"
 weight: 6
-image: /covers/daniel.png
 description: "The Apocalypse was written before the destruction of Jerusalem"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

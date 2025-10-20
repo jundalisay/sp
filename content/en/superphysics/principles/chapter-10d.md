@@ -1,6 +1,6 @@
 ---
+heading: "Chapter 10d"
 title: "Entity Rights"
-heading: "An alternative to human rights and animal rights"
 date: "2022-05-13"
 image: /photos/physics/ai.jpg
 description: ""

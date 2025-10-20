@@ -2,10 +2,12 @@
 heading: Chapter 10
 title: "The Prophecy of the 70 Weeks"
 weight: 28
-image: /covers/daniel.png
 description: "Newton enumerates 3 Laws and 6 Corollaries"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 
@@ -31,9 +33,13 @@ Seventy weeks are cut out upon thy people, and upon thy holy city, to finish tra
 
 The dispersed Jews became a people and city when they first returned into a polity or body politick; and this was in the seventh year of Artaxerxes Longimanus, when Ezra returned with a body of Jews from captivity, and revived the Jewish worship; and by the King's commission created Magistrates in all the land, to judge and govern the people according to the laws of God and the King, Ezra vii. 25. There were but two returns from captivity, Zerubbabel's and Ezra's; in Zerubbabel's they had only commission to build the Temple, in Ezra's they first became a polity or city by a government of their own. 
 
-Now the years of this Artaxerxes began about two or three months after the summer solstice, and his seventh year fell in with the third year of the eightieth Olympiad; and the latter part thereof, wherein Ezra went up to Jerusalem, was in the year of the Julian Period 4257. Count the time from thence to the death of Christ, and you will find it just 490 years. If you count in Judaic years commencing in autumn, and date the reckoning from the first autumn after Ezra's coming to Jerusalem, when he put the King's decree in execution; the death of Christ will fall on the year of the Julian Period 4747, Anno Domini 34; and the weeks will be Judaic weeks, ending with sabbatical years; and this I take to be the truth: but if you had rather place the death of Christ in the year before, as is commonly done, you may take the year of Ezra's journey into the reckoning.
+Now the years of this Artaxerxes began about two or three months after the summer solstice, and his seventh year fell in with the third year of the eightieth Olympiad; and the latter part thereof, wherein Ezra went up to Jerusalem, was in the year of the Julian Period 4257. 
 
-Know also and understand, that from the going forth of the commandment to cause to return and to build Jerusalem, unto the Anointed the Prince, shall be seven weeks. The former part of the Prophecy related to the first coming of Christ, being dated to his coming as a Prophet; this being dated to his coming to be Prince or King, seems to relate to his second coming. There, the Prophet was consummate, and the most holy anointed: here, he that was anointed comes to be Prince and to reign. For Daniel's Prophecies reach to the end of the world; and there is scarce a Prophecy in the Old Testament concerning Christ, which doth not in something or other relate to his second coming. If divers of the antients, as [8] Irenæus, [9] Julius Africanus, Hippolytus the martyr, and Apollinaris Bishop of Laodicea, applied the half week to the times of Antichrist; why may not we, by the same liberty of interpretation, apply the seven weeks to the time when Antichrist shall be destroyed by the brightness of Christ's coming?
+Count the time from thence to the death of Christ, and you will find it just 490 years. If you count in Judaic years commencing in autumn, and date the reckoning from the first autumn after Ezra's coming to Jerusalem, when he put the King's decree in execution; the death of Christ will fall on the year of the Julian Period 4747, Anno Domini 34; and the weeks will be Judaic weeks, ending with sabbatical years; and this I take to be the truth: but if you had rather place the death of Christ in the year before, as is commonly done, you may take the year of Ezra's journey into the reckoning.
+
+Know also and understand, that from the going forth of the commandment to cause to return and to build Jerusalem, unto the Anointed the Prince, shall be seven weeks. The former part of the Prophecy related to the first coming of Christ, being dated to his coming as a Prophet; this being dated to his coming to be Prince or King, seems to relate to his second coming. There, the Prophet was consummate, and the most holy anointed: here, he that was anointed comes to be Prince and to reign. For Daniel's Prophecies reach to the end of the world; and there is scarce a Prophecy in the Old Testament concerning Christ, which doth not in something or other relate to his second coming. 
+
+If divers of the antients, as [8] Irenæus, [9] Julius Africanus, Hippolytus the martyr, and Apollinaris Bishop of Laodicea, applied the half week to the times of Antichrist; why may not we, by the same liberty of interpretation, apply the seven weeks to the time when Antichrist shall be destroyed by the brightness of Christ's coming?
 
 The Israelites in the days of the antient Prophets, when the ten Tribes were led into captivity, expected a double return; and that at the first the Jews should build a new Temple inferior to Solomon's, until the time of that age should be fulfilled; and afterwards they should return from all places of their captivity, and build Jerusalem and the Temple gloriously, Tobit xiv. 4, 5, 6: and to express the glory and excellence of this city, it is figuratively said to be built of precious stones, Tobit xiii. 16, 17, 18. Isa. liv. 11, 12. Rev. xi. and called the New Jerusalem, the Heavenly Jerusalem, the Holy City, the Lamb's Wife, the City of the Great King, the City into which the Kings of the earth do bring their glory and honour. Now while such a return from captivity was the expectation of Israel, even before the times of Daniel, I know not why Daniel should omit it in his Prophecy. 
 
@@ -88,14 +94,6 @@ His 7th year therefore began after midsummer An. J.P. 4256; and the Journey of E
 
 [6] Jerusalem.
 
-[7] See Isa. xxiii. 13.
-
-[8] Iren. l. 5. Hær. c. 25.
-
-[9] Apud Hieron. in h. l.
-
-[10] 1 Kings xi. 7.
-
 [11] The antient solar years of the eastern nations consisted of 12 months, and every month of 30 days: and hence came the division of a circle into 360 degrees. This year seems to be used by Moses in his history of the Flood, and by John in the Apocalypse, where a time, times and half a time, 42 months and 1260 days, are put equipollent. But in reckoning by many of these years together, an account is to be kept of the odd days which were added to the end of these years. For the Egyptians added five days to the end of this year; and so did the Chaldeans long before the times of Daniel, as appears by the Æra, of Nabonassar: and the Persian Magi used the same year of 365 days, till the Empire of the Arabians. The antient Greeks also used the same solar year of 12 equal months, or 360 days; but every other year added an intercalary month, consisting of 10 and 11 days alternately.
 
 The year of the Jews, even from their coming out of Egypt, was Luni-solar. It was solar, for the harvest always followed the Passover, and the fruits of the land were always gathered before the feast of Tabernacles, Levit. xxiii. But the months were lunar, for the people were commanded by Moses in the beginning of every month to blow with trumpets, and offer burnt offerings with their drink offerings, Num. x. 10. xxviii. 11, 14. and this solemnity was kept on the new moons, Psal. lxxxi. 3,4,5. 1 Chron. xxiii. 31. These months were called by Moses the first, second, third, fourth month, &c. and the first month was also called Abib, the second Zif, the seventh Ethanim, the eighth Bull, Exod. xiii. 4. 1 Kings vi. 37, 38. viii. 2. But in the Babylonian captivity the Jews used the names of the Chaldean months, and by those names understood the months of their own year; so that the Jewish months then lost their old names, and are now called by those of the Chaldeans.
@@ -103,5 +101,4 @@ The year of the Jews, even from their coming out of Egypt, was Luni-solar. It wa
 The Jews began their civil year from the autumnal Equinox, and their sacred year from the vernal: and the first day of the first month was on the visible new moon, which was nearest the Equinox.
 
 Whether Daniel used the Chaldaick or Jewish year, is not very material; the difference being but six hours in a year, and 4 months in 480 years. But I take his months to be Jewish: first, because Daniel was a Jew, and the Jews even by the names of the Chaldean months understood the months of their own year: secondly, because this Prophecy is grounded on Jeremiah's concerning the 70 years captivity, and therefore must be understood of the same sort of years with the seventy; and those are Jewish, since that Prophecy was given in Judea before the captivity: and lastly, because Daniel reckons by weeks of years, which is a way of reckoning peculiar to the Jewish years. For as their days ran by sevens, and the last day of every seven was a sabbath; so their years ran by sevens, and the last year of every seven was a sabbatical year, and seven such weeks of years made a Jubilee.
-
 

@@ -2,10 +2,12 @@
 heading: Chapter 2
 title: "The Meanings of Prophetic Symbolisms"
 weight: 6
-image: /covers/daniel.png
 description: "Newton enumerates the meanings of different words"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

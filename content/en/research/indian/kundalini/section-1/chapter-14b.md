@@ -72,17 +72,20 @@ has to be able to arouse him. Then, at the right moment, she must create the bin
 can practise vajroli. If the man loses his bindu, it means that the woman has failed to
 carry out her functions properly.
 
-In tantra it is said that Shiva is incapable without Shakti. Shakti is the priestess.
-Therefore, when vama marga is practised, the man must have an absolutely tantric
-attitude towards the woman. He cannot behave with her as men generally do with other
-women. Ordinarily, when a man looks at a woman he becomes passionate, but during
-maithuna he should not. He should see her as the divine mother, Devi, and approach her
-with an attitude of devotion and surrender, not with lust.
+In tantra it is said that Shiva is incapable without Shakti. 
+
+Shakti is the priestess.
+
+Therefore, when vama marga is practised, the man must have an absolutely tantric attitude towards the woman. He cannot behave with her as men generally do with other women. 
+
+Ordinarily, when a man looks at a woman he becomes passionate, but during maithuna he should not. He should see her as the divine mother, Devi, and approach her with an attitude of devotion and surrender, not with lust.
+
 According to the tantric concept, women are more endowed with spiritual qualities
 and it would be a wise thing if they were allowed to assume higher positions in social
 affairs. Then there would be greater beauty, compassion, love and understanding in all
-spheres of life. What we are discussing here is not patriarchal society versus matriarchal
-society, but tantra, particularly left hand tantra.
+spheres of life. 
+
+What we are discussing here is not patriarchal society versus matriarchal society, but tantra, particularly left hand tantra.
 
 Path of yogis not bhogis
 

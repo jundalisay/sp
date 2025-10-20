@@ -1,6 +1,6 @@
 ---
 title: "Socio-Economic Exploitation in Ráŕh"
-heading: "Chapter 29"
+heading: "Chapter 31"
 weight: 60
 c: "seagreen"
 description: ""

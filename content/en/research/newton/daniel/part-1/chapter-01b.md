@@ -2,10 +2,12 @@
 heading: Chapter 1b
 title: "Samuel and the Chronicles"
 weight: 5
-image: /covers/daniel.png
 description: "Samuel had leisure in the reign of Saul, to put them into the form of the books of Moses and Joshua now extant"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

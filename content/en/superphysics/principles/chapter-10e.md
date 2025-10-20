@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 10c"
+heading: "Chapter 10e"
 title: "The Flow of Resources within and between Societies"
 date: 2025-10-07
-weight: 690
+weight: 697
 image: /photos/econ/prices.jpg
 description: Supereconomics deals with the sustainable flow of resources within and between societies
 writer:

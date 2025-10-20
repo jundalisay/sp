@@ -3,7 +3,10 @@ heading: Part 1
 title: "Observations on the Inflexions of the Rays of Light, and the Colours from them"
 description: ""
 weight: 12
-a: "Newton"
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 c: "firebrick"
 ---
 

@@ -2,10 +2,12 @@
 heading: Chapter 1b
 title: "Ezra"
 weight: 6
-image: /covers/daniel.png
 description: "The book of Ezra was originally a part of the book of the Chronicles, and has been divided from it"
-author: Isaac Newton
-icon: /icons/newton.png
+c: firebrick
+icon: "Newton"
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 

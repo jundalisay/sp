@@ -9,11 +9,12 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-draft: true
 ---
 
 
-Instead, of specific religions, we come up with 4 paths to yoga which is consistent with the 4 paths in the Bhagavad Gita. 
+Instead, of specific religions, we come up with 4 paths to yoga which is consistent with:
+- the 4 properties of waves
+- the 4 paths in the Bhagavad Gita
 
 
 

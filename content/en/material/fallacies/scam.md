@@ -1,9 +1,13 @@
 ---
-title: "Why Relativity is a Scam" 
+heading: The Einstein Scam Part 1
+title: "Why Relativity is a Scam: Simultaneity" 
 description: "Einstein's scam is such a work of genius that it has single-handedly caused the fall of Physics."
 date: 2024-12-25
-# weight: 2
 image: "/graphics/physics/einstein.jpg"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: "Juan"
 ---
 
 
@@ -105,9 +109,8 @@ God, or substance, consisting of infinite attributes, of which each expresses et
 
 
 
-## The Einstein Scam: The Simultaneity of Time
+## The Einstein Scam: The Simultaneity of Time and Using Light to Glue Separate Times
 
-<!-- Unlike Newton, Descartes, and Spinoza who ascribed the causal mechanisms of everything to God, Spirit, or Substance, Einstein put all to matter and energy. -->
 
 Einstein's scam began in 1905 when he pushed the concept of **simultaneity of time**. 
 
@@ -115,39 +118,43 @@ Einstein's scam began in 1905 when he pushed the concept of **simultaneity of ti
 We test simultaneity by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. If he sees both flashes at the same time, then they are simultaneous. You object by saying that "time" would be measured by light, but the speed of light is measured by time. You would say this is **reasoning in a circle** and therefore, simultaneity has absolutely nothing to do with light. I answer that this is only used for us to make empirical decisions.
 {{< /q >}}
 
-<!--  simultaneity of time
- travels at a constant speed
-only be "simultaneity" if -->
+Einstein shows that he is aware of the scam, as "reasoning in a circle". Yet he continues with it anyway so that he can use his scam to measure things i.e. "make empirical decisions".
 
 This mechanism of this scam is to use the ambiguity of the word 'time' which is a mental concept, not a physical one. 
 
 **It is because humans measure time so often and most often with physical means that most people think it is a physical concept.**
 
-Einstein shows that he is aware of the scam, as "reasoning in a circle". Yet he continues with it anyway so that he can use his scam to measure things i.e. "make empirical decisions".
+So the Einstein scam has 2 parts:
 
-This is why **Relativity works very well in measuring things** even if it throws away causation altogether -- because all it can do is to measure things.  
+### 1. Simultaneity of Time -- this uses physical events to measure the passage of time in the mind.
+
+The fallacy of this is seen:
+- in jobs where older people are supposed to be more skilled than younger people. 
+- in healthcare where older people are supposed to have worse health than young people. 
+
+This fallacy is why physicists say that light "experiences" no time, as if light were alive!
+
+This is also why **Relativity works very well in measuring things** even if it throws away causation altogether. A stretched out light wave is far more precise and consistent than using a string of sand particles as a measure.
 
 {{< q a="Professor Dr. P. F. Linke" c="100 Authors Against Einstein" >}}
 In the building of a physics in this way, Relativity provides evidence of its feasibility. The task of research is the establishment of the truth. The only question is **whether this feasibility was achieved at the expense of the truth**. It is an open secret that thinking about the categorical foundations of Relativity actually leads to logical difficulties. 
 {{< /q >}}
 
 
-> All Relativity can do is to measure things.
+This has led to the following non-solutions by General Relativity by making the following more precise:
+- gravitational lensing
+- precession of Mercury
+- weak equivalence principle of 2 objects falling at the same speed in a vacuum
 
-Relativity is useful when you need some accuracy in timekeeping, such as in GPS.
+This is similar to the blockchain scam where you can precisely mine a lot of cryptocurrency that are essentially worthless. 
 
-But that's it. 
+By making so many theories based on Relativity, Physics thinks it's making huge progress when in fact is really stuck at zero. 
 
-All successful tests of Relativity are just measurements using light or electromagnetism. It doesn't even allow you to move anything. 
+ <!-- so that your 1 coin today will be 1,000 coins next week a whopping 99,900% increase. But the real value is the same zero. In fact, the real value to Nature is negative because of the waste of electricity, and of your wasted time and effort to mine a lot of nothing. -->
 
-Through Einstein, Physics gets that German precision in timekeeping, **but loses how Nature actually works**. 
-
-This is similar to the blockchain scam where you can mine worthless coins so that your 1 coin today will be 1,000 coins next week a whopping 99,900% increase. But the real value is the same zero. In fact, the real value to Nature is negative because of the waste of electricity, and of your wasted time and effort to mine a lot of nothing.
-
-In reality, the invention of Relativity is like the invention of a sundial. It makes timekeeping more accurate, but does not explain why the sun goes around the sky. Similarly, Relativity cannot explain why light is limited to 300,000 kilometers per second.
-
-{{< i s="/photos/objects/clock.jpg" a="Sundial" c="A sundial does not explain why the sun goes around the sky. The notches provide more timekeeping accuracy just as the metric tensor of Relativity does" >}}
-
+General Relativity is a non-solution because it does not explain:
+- why masses fall, commonly attributed to matter -- but this is debunked by the non-existence of dark matter.
+- why light is limited to `c`
 
 All the effort of unifying quantum mechanics with Relativity have failed, because Nature never bends Herself to human scams. This includes failed theories like:
 - Supersymmetry
@@ -168,6 +175,40 @@ We have not a direct intuition of the equality of 2 intervals of time. The perso
 
 
 Poincare created the first Relativity theory, but never won a Nobel Prize because he didn't scam people.
+
+
+
+### 2. Using Light Invariance to Glue the subjective times from different locations
+
+This is the main fallacy that destroys the subjectivity of time to make it objective. 
+
+This is best seen in the fallacy of Superluminal Motion. 
+
+
+## Superluminal Motion
+
+
+
+
+
+<!-- > All Relativity can do is to measure things.
+
+Relativity is useful when you need some accuracy in timekeeping, such as in GPS.
+
+But that's it. 
+
+All successful tests of Relativity are just measurements using light or electromagnetism. It doesn't even allow you to move anything. 
+
+Through Einstein, Physics gets that German precision in timekeeping, **but loses how Nature actually works**. 
+
+This is similar to the blockchain scam where you can mine worthless coins so that your 1 coin today will be 1,000 coins next week a whopping 99,900% increase. But the real value is the same zero. In fact, the real value to Nature is negative because of the waste of electricity, and of your wasted time and effort to mine a lot of nothing.
+
+In reality, the invention of Relativity is like the invention of a sundial. It makes timekeeping more accurate, but does not explain why the sun goes around the sky. Similarly, Relativity cannot explain why light is limited to 300,000 kilometers per second.
+
+{{< i s="/photos/objects/clock.jpg" a="Sundial" c="A sundial does not explain why the sun goes around the sky. The notches provide more timekeeping accuracy just as the metric tensor of Relativity does" >}} -->
+
+
+
 
 Our other post explains the [other side of the fallacy of Relativity](/material/fallacies/simultaniety/), as using the invariance of light to glue disparate times.
 
