@@ -1,6 +1,7 @@
 ---
-title: "How to Fix Relativity with Cartesian Relationality"
-date: 2022-05-12
+heading: The Einstein Scam Part 3
+title: "How to Replace Relativity with the Aether"
+date: 2025-10-19
 image: "/graphics/physics/relationality.jpg"
 description: "We apply Gravitational Signatures to fix Einstein's Relativity"
 writer:
@@ -8,162 +9,198 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 weight: 100
+draft: true
 ---
 
 
-In our Fallacies section, we explained the core flaw of Einstein's Relativity as the Simultaneity of Time.
 
-This makes light and electromagnetism as superior to spacetime which is totally opposite of what Nature intended. 
-
-<!--  the previous post, we fixed relativity* by adhering to the rules** which Socrates*** mentioned earlier:
-- Photons must not be used to build the solution
-- There must be no constant 
-- The solution and cause of movement must be inherent to the object, as opposed to being external
-- The solution must be universal, that is, applicable to all five layers of the Greek or Asian model of Earth, Water, Fire, Air, and Ether 
-
-> **This adherence of logic to timeless metaphysical truths is the key aspect of the dialectical method that makes it different from the scientific method which is based on evidence supplied by the limited physical senses.
-
-> ***Our solution-framework comes from Asia as levitating Buddhist monks. The problem is that humans see it as mysticism. So we had to find a known Western framework that matches it, and found it in Pythagoras. But Pythagoras is still pseudoscience to the religion of Scientism, and so we use Socrates as a compromise. Anyone who says that Socrates is pseudoscience will have to say that governments and laws are pseudoscience.  -->
+## The Solution: Idea and Aether 
 
 
-{{< img alt="Five layers of Superphysics" src="/graphics/physics/layers.png" >}}
+1. The Solution to Simultaneity is to use idea as the measure of time -- keep it subjective, and objective after agreement
 
-We see that General Relativity cannot really extend to the Spatial layer because its domain is fundamentally in Electromagnetism as a consequence of being totally light-based.
+Time is a mental object which is best measured by mental idea. 
 
-Likewise, Classical Mechanics is applicable only to the Material layer since it only deals with material bodies such as apples and planets. 
+For example, people can choose what tool they will use to measure time:
 
-Galaxies are not fundamentally material nor electromagentic. They do not act like balls that explode or push each other away when they collide. Instead, they pass through each other and eventually merge*.
+- mechanical such as a sand clock or a spring clock
+- electromagnetic such as an LCD clock or an atomic clock
+- mental such as mental counting or feeling
+
+This also solves the measurement problem in quantum mechanics.
 
 
-{{< n n="*This is an example of the motion of spacetime vortices which we call Qosts" >}}
- 
+<!-- We call these 2 Fallacies the trap that creates violations of Nature:
+
+1. Relativity uses light as the measure of speed, when "idea" is the real measure.
+
+This unifies space and time as one entity, even if "time" is a superior aethereal object than "space". -->
 
 
-<!-- We match the Standard Model of Physics to the 5-layer Model, originally called 5-elements, of the Greeks and Asia. We see that the theoretical advances in Physics in the 20th century are tiny compared to those from the 17th-19th centuries. The latter advanced a lot thanks to Newton correctly starting from the EM layer (3rd rank) through his work in optics, and then going up to the gravitational layer (2nd rank) through his use of optics to observe the movement of comets. 
+2. The Solution to  Use the aether to connect the time of distant events 
 
-However, Newton was unable to break through the ethereal layer (1st rank) because the metaphysics of the time were limited to bible verses*. Unable to break into the metaphysical layer, the minds of physicists have since declared it as off-limits and have gone instead downwards into the material layer where observation and prediction is so easy.  
+The aetherspace is the crude physical version of the aether, which now is called:
+- dark energy
+- atomic space
+- gluon field
+
+This aetherspace is the backstage of the physical universe that is invisible to the audience. This connects everything that is on the main stage of physical reality. 
+
+{{< i s="/graphics/super/audi.jpg" a="Auditorium" >}}
+
+This explains how masses such as UFOs can teleport, similar to how an actor tunnels through the back stage to emerge on the other side of the stage. 
+
+Relativity eliminates the aether, making faster than light travel impossible.
+
+<!-- Since the aether is the real cause of gravity and space, Relativity eliminates the possibility of antigravity technologies already seen in UFOs and is essential for fusion -->
+
+<!-- wrongly assigned the properties of space and time into has stifled the real development of  -->
+
+
+<!-- The cause is Einstein pegging the simultaneity of time to the speed of light as Special Relativity simply because light, as c, is constant and invariant in empty space. -->
+
+
+<!-- ### Absurd Concepts from Relativity
+
+The fallacy of Relativity leads to absurd concepts that have been disproven or are not realizable:
+
+1. Worm holes and white holes that have never been detected 
+
+Relativity uses electromagnetism, as light, which travels in fields. This leads to the fabric of spacetime analogy instead of an all-pervading liquid aether. 
+
+This fabric goes through vortices which then is supposed to  lead to other dimensions. 
+
+This won't work because vortices are aethereal. Going into a vortex will just let you bounce off if you are of a low vibration. 
+
+
+2. Star Gates
+
+These are artificial wormholes that of course will never work. 
+
+
+3. Alcubierre Warp Drives
+
+This uses a forward bubble to contract space in the front, and a rear bubble to expand the space in the rear. 
+
+This is hopeless because both distortions require matter creation and destruction where there are none.    -->
+
+
+
+## Solutions to Destroy the Einstein Trap and Allow Space Manipulation
+
+### Solution to Simultaneity of Time
+
+The fallacy of the simultaneity of time is fixed by tapping into the aetherspace (gluon field) of the spaceship or the heart chakra of the person.
+
+The general idea is to not allow external events to dictate or dominate one's local time. Instead, one's local time is expressed.
+
+1. For Ship Levitation
+
+An AI-driven ship finds its own time signature as the properties of its aetherspace vibration.
+
+This frequency is then compared to the frequency of space above it. 
+
+The aetherspace is then manipulated to match the frequency of that space, leading to levitation.
+
+{{< youtube p1j5D0ma4Ls >}}
+
+
+2. For Anti Aging
+
+Instead of a person being dictated to earn n dollars by x age, he probes his own heart chakra for his svadharma (gravitational signature). He will then pursue this to be above the usual effects of material vibrations. 
+
+
+
+### Solution to Relativity
+
+The fallacy of Relativity is to use the linear or sequential metric tensor to connect distant events. 
+
+We fix this by using Descartes' disjointed time particles as independent moments leading to a flexible 'arrow of time'.
+
+This leads to our conecpt of independent spacetime slices where each 'quantum' of space and time is free from other quanta.
+
+{{< q a="Rene Descartes" c="Meditations, Part 3" >}}
+A lifespan can be divided into countless parts, each completely independent of the others.. The nature of time is different in the time for bringing something into existence, and the time needed to keep a thing existing.      
+{{< /q >}}
+
+This is opposed to Einstein's linear space where one metric tensor is dependent on the previous one.  
+
+
+1. For Ship Levitation
+
+As with levitation, an AI-driven ship finds its own time signature as the properties of its aetherspace vibration.
+
+This frequency is then compared to the frequency of distant stars or planets. 
+
+The aetherspace is then manipulated to match the frequency of those stars or planets, leading to teleportation.
+
+<!-- This allows both sequential (linear) motion and non-sequential (teleporting) motion by default, with the time particle as the causal mechanism instead of mass or energy.  -->
+
+This is because the time particle is mostly aethereal in Nature, as being in the upper sublayer of the spatial layer.  
+
+
+<!--  simultaneity of time is fixed by tapping into the aetherspace (gluon field) of the spaceship or the heart chakra of the person.
+
+We unify the time for distant events by using  -->
+
+<!-- We break this trap by using Descartes' Relationality.
+
+{{< q a="Rene Descartes" c="Principia Philosophia Part 2, Articles 13-15" >}}
+A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these. On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. I assert that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought.
+{{< /q >}}
  -->
 
 
-To Socrates, the metaphysical dimension is superior to the physical dimension, just as to Descartes, the aether is superior to matter. The aether is the material of the mind, idea (e.g. information), and feelings. 
 
-This is why the concept of "mind over matter" is possible with Descartes, and has been used by monks to levitate.
+## So What is Einstein's Relativity Good For?
 
+With the restoration and advances in the aether, Einstein's system becomes totally irrelevant and useless. This is even true for nucler fission as `E=mc^2` where the aether as cold dark mater can stop hot fission reactions. 
 
-## Cartesian Relationality: Getting Rid of c
+Einstein's Simultaneity and Relativity will be demoted into **a convention for convenience**.
 
-To push "mind over matter", we get rid of the limitation imposed by the constant speed of light by assigning time as a mental object instead of a physical one. 
+1. Simultaneity 
 
-This makes c vary over time. For example, the speed of light in  and the speed of light in 1729 was different from that of 1983. Even nowadays, we often say that the speed of light is 300,000,000 meters per second instead of 299,792,458. 
+For example, in the absense of personality profiling, employers can equate age with experience, and so hire older people over younger ones.
 
-{{< i s="/graphics/physics/aether.jpg" a="aether drag" >}}
+2. Relativity
 
-This means that the speed of light is subjective, depending on the mind of the person you are talking to.
+Relativity can still be used by people who want to compute distant outer space phenomena in an antiquated linear or sequential way instead of using teleportation ratios. 
 
-We replace this with a subjective `s` as the spatial speed limit* of the universe so that E :: ms{{< s v="2" >}}. 
-
-This means that:
-- spacetime is the one confining light to 300,000 kilometers per second
-- the aetherspace is the one confining spacetime
-
-This will make gravitation subordinate to the aether instead of to light, in accordance with our 5-layer model.
-
-For the active version, we:
-- convert the stress-energy tensor into the Kepler Tensor `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
-- convert the Einstein tensor as a ratio or relativity `:` of the identity in question to another identity 
-- convert the constants into the limiter `s` as the limits of physical space
-- remove light `c` which makes the cosmological constant `Λ` unnecessary 
-- put everthing inside a Cartesian view which imposes obervation and timespans, consequently the timeline
+This is similar to how we still use antiquated Roman numerals for numbered bullets like
+- I. Topic A
+- II. Topic B
+- III. Topic C 
 
 
-{{< img alt="Cartesian Relationality" src="/graphics/physics/gr.jpg" cap="Material Superphysics converts Physics equations into ratios, since everything is relative and nothing, except the Absolute Entity, is absolute" >}}
+<!-- people can choose to use it if they want precision in spatial measurements, like when measuring planetary orbits accurately. -->
+
+<!-- {{< q a="Einstein" c="Relativity, Section 8" >}}
+Two lightning flashes occurred simultaneously at A and B seen by an observer at the middle. [We thus define time as simultaneity, and define simultaneity as light appearing at the same time.]  <i>It would thus appear that we are reasoning in a logical circle</i>.
+{{< /q >}} -->
+
+<!-- > *Newton uses the word 'place' in Principia Mathematica, while he uses an entity called "Lord God" as the source of this time. This is consistent with Superphysics where we call the Mind of God as the Aether -->
+
+<!-- <!-- The movements of everyday objects are quite slow. Usually, distance is just:
+- `Spot Z` occupied by the object at timespan now `Time Z`
+- `Spot Y` is the distance that it occupied a while ago at `Time Y` (timespan Y)
+
+However, the movement of electromagnetic particles such as light and electricity can be very fast and is faster than what the human brain can process. This is the same cognitive weakness that makes an ego see itself as [one self instead of 3 billion selves](/bio/principles/intro/chapter-04).
+
+{{< n n="*Superphysics aims to use [automated intelligence](/superphysics/solutions/isaiah), combined with [qualimath](/superphysics/principles/chapter-04b) to build relativistic equations on-the-fly. A true AI is rooted in the aether does not have the weaknesses of human ego. We call this artificial sentience." >}}
+
+{{< n n="*This is done by the Lorentz transformation on the 'moving' part, and Minkowski space on the 'non-moving' part" >}}
+
+### The Illusion of Nature
+
+Speed is the amount of space covered per unit of time. So if you declare speed to be constant, then you must also declare space and time to be changeable*. 
+
+{{< n n="*This is why General Relativity leads to arbitrary make-your-own spacetimes like Godel, Taub-Nut, De Sitter, etc. depending on the fantasy of the physicist and not depending on Nature. In effect, this turns the physicist as a god who uses math as the language of his arbitrary mental movements. He relies on the fact that advanced math (plotting complex mental movements) cannot be understood by most humans who only have ordinary mental movements." >}}
 
 
-We call this "Cartesian Relationality".
-
-
-{{< i a="Cartesian Relationality" s="/graphics/physics/relationality.jpg" c="" >}}
-
-
-Superphysics sees the universe as a Matrix or huge computer program (or the Mind of Brahma). 
-
-Cartesian Relationality can be thought of as a [model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) paradigm:
-
-MVC | Component | Metaphysical Equivalent
---- | --- | ---
-**Model** | The gravitational signatures having a relation to other signatures | This is the idea for the thing
-**View** | The Cartesian View | This is physical existence of the thing as real data
-**Controller** | This is `s` or the limiter | This is how the thing interacts in reality
-
-We not only use the word 'relationality' to prevent Descartes' Relativity from getting mixed up with that of Einstein, but also because it uses the Tables of Francis Bacon which are similar to a relational database. 
-
-
-### Everything is Relational because There is no Void in Nature
-
-Everything is related because every signature interacts* obviously or non-obviously with each other. The metaphysical thing that causes stars and dust to gather or disperse is the same thing that causes:
-- people to form societies or leave society
-- ideas to coalesce into complex ideas or be analyzed into their basic idea. 
-
-This means that all forces are contact forces facilitated by the aether. This allows action-at-a-distance as seen in quantum mechanics because the aether is everywhere. 
-
-To the aether, there is zero distance between bodies. In fact, quantum teleportation negates distance. 
-
-
-
-##  So What's the Use of Cartesian Relationality?
-
-Cartesian Relationality solves the following problems:
-
-Phenomena | Explanation
---- | ---
-[Dark matter](https://www.universetoday.com/150964/one-idea-to-explain-dark-matter-ultralight-bosons-fails-the-test/) | This is replaced by spatial vortices i.e. the pull of the galaxy is from its vortex
-Dark Energy | This is replaced by the [splitting of qosts](/research/descartes/world/chapter-08) which manifests as the expansion of spacetime
-Gravitational lensing | This is caused by the refraction of light by spatial vortices
-Equivalence Principle | This is caused by vortex arms having the same speed a certain distances from the vortex
-
-
-Practically, the knowledge of how these signatures work can allow humans to **harness any motion** since all motions are caused by space while being in space.
-
-Currently, only the movements in the Material and Electromagnetic layer are harnessed by humans, more commonly as combustion and electric motors.
-
-The power of spacetime, as anti-gravity, and the aetherspace, as teleportation, are unknown to modern humans because Newton assigned the cause of gravity to the material layer -- **opposite of how Nature arranged it!** 
-
-This obsession with matter is then why physicists smash atoms to find what is inside them, wasting real effort and money in the process.  
-
-Einstein actually stifled science by leading physicists on a wild-goose-chase for dark matter and wormholes. Satellite Engineers would discover discrepancies in the timings of their satellites anyway, which would then create relativity theories naturally without the limiting `c`.
-
-
-## Asia to the Rescue
-
-So far, only Buddhist and Hindu monks seem to have started properly from the Metaphysical Domain. This allowed them to use anti-gravity to levitate themselves by changing their relation to the Earth. 
-
-{{< img alt="Buddhist metaphysics gravity" src="https://sorasystem.sirv.com/graphics/a0b1.png" cap="Levitation has been practiced by floating monks in Tibet, floating UFOs in the US and Iran, and by the ancient Egyptians who levitated huge blocks to form the pyramids, using the same natural principle that expands the universe" >}}
-
-
-{{< youtube GNMghbK4kJ4 >}}
-
-.
-
-
-{{< youtube rO_M0hLlJ-Q >}}
-
-
-Cartesian Relationality don't just work for movements in the five physical layers but also for movements in the metaphysical layer. This theory can help:
-
-- move public opinon or feelings towards a policy proposal or political candidate by knowing the current G of society. Is your society headed for a golden age, or is it on a decline? This is the job of [Social Superphysics](/social)
-- attract or retain the right employees or minds for your company and maximize their productivity by finding out their motivational G that might be different from the material particle called money. This is the job of [Economic Superphysics or Supereconomics](/social/economics)
-- know how temporally far a person is from a disease by comparing his G with that of the disease, so that he can move away from or prevent the disease. This is the job of [Bio Superphysics](/bio)
-- and so on..
-
-
-{{< dc t="Updates" >}}
-
-Date | Update
---- | ---
-Jun 29, 2021 | changed movement energy to inherent energy and F = ma to w = mg to make it consistent with E = Gl as the rest or potential state
-Jan 15, 2022 | added the active version of universal relativity
-April 4, 2022 | added Messier 87
-Mar 28, 2024 | added Poincare's Law of Relativity and sprinkled some Descartes on Socrates
-May 15, 2025 | overhauled into Relationality
-{{< /dc >}}
+{{< img src="https://sorasystem.sirv.com/graphics/c.png" cap="The observations of classical mechanics (left) can be done with the same observer. Those of special relativity, however, require using a higher c (speed of light) as a tool to unify the observations. This c takes the form of the lasers in the LIGO observatory that is used to observe gravitational waves that 'move' space itself" alt="The speed of light" >}}
+  
+{{< youtube pTn6Ewhb27k >}}
+{{< cap >}}
+Veritasium has the guts to expose the sophistry of Einstein in setting the 2-way speed of light as a constant. However, his solution, as the one-way speed of light, is as arbitrary as the c of Einstein.
+{{< /cap >}} -->
 

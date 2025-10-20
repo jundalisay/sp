@@ -7,7 +7,7 @@ description: "We use dialectics to propose a solution to Covid-19 by ending the 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 aliases:
   /medical/solutions/covid
   /medical/physical/solutions/how-to-stop-covid  
@@ -119,7 +119,7 @@ Of course, there is nothing stopping other countries from joining the cause by c
 
 Inaction by NATO in this regard would merely pave the way for more unnecessary deaths and economic decline as the virus would simply outmutate the vaccines, leaving humans one step behind.
 
-{{< box >}}
+{{< b >}}
 Date |  Updates
 --- | ---
 July 2020 | The US economy declined 33%and the EU declined 12% in the Q2 of 2020
@@ -129,4 +129,4 @@ May 2021 |  The high cases and new mutation in India, the biggest producer of va
 July 2021 | The effectivity of Chinese medicine against even the delta variant is proven by the low cases in China and Taiwan despite Taiwan having low vaccination rates. It is how the Chinese in Indonesia prevent death, since Indonesia also has low vaccination rates.
 March 2022 | The BA2 and XE variant (found in the UK) matches our theory of Covid emerging in a 'Covid Line'
 March 2023 | The decline of Covid from Jan 2023 after Brazil's Lula assumes office is consistent with our assertion that the destruction of the Amazon is the root cause of Covid ![Covid chart](/charts/covid.jpg)
-{{< /box >}}
+{{< /b >}}

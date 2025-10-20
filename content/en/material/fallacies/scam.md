@@ -1,8 +1,9 @@
 ---
 heading: The Einstein Scam Part 1
-title: "Why Relativity is a Scam: Simultaneity" 
+title: "The Fallacy of Simultaneity" 
 description: "Einstein's scam is such a work of genius that it has single-handedly caused the fall of Physics."
-date: 2024-12-25
+# date: 2024-12-25
+weight: 2
 image: "/graphics/physics/einstein.jpg"
 writer:
   name: Juan
@@ -92,7 +93,6 @@ Here, the time factor exposed the FTX scam, just as public debt and too-big-to-f
 
 
 <!-- ### Newton is a Slight Mistake, Not a Scam
-
 We do not regard Newton as a scammer because he properly attributed the cause of gravity to the "Spirit of Lord God". 
 
 This is consistent with the Indians saying that all the mechanism for the universe, and the universe itself, is from God as Brahma. 
@@ -109,8 +109,9 @@ God, or substance, consisting of infinite attributes, of which each expresses et
 
 
 
-## The Einstein Scam: The Simultaneity of Time and Using Light to Glue Separate Times
+## The Einstein Scam: Simultaneity and the Constant Speed of Light
 
+ <!-- of Time and Using Light to Glue Separate Times -->
 
 Einstein's scam began in 1905 when he pushed the concept of **simultaneity of time**. 
 
@@ -126,11 +127,40 @@ This mechanism of this scam is to use the ambiguity of the word 'time' which is 
 
 So the Einstein scam has 2 parts:
 
-### 1. Simultaneity of Time -- this uses physical events to measure the passage of time in the mind.
+1. Simultaneity of Time -- this uses physical events to measure mental time
+2. The Constant Speed of Light -- this uses the constancy as a measuring rod to glue the time of separate events
 
-The fallacy of this is seen:
-- in jobs where older people are supposed to be more skilled than younger people. 
-- in healthcare where older people are supposed to have worse health than young people. 
+
+We will talk only about Simultaneity here. The constant speed of light fallacy is discussed in Superluminal motion.
+
+
+## The Fallacy of the Simultaneity of Time
+
+This uses physical events to measure the passage of time in the mind, then **objectively comparing** them to each other.
+
+{{< q a="Einstein" c="On The Electrodynamics Of Moving Bodies" >}}
+An observer at point A with a watch can determine the time values of events near A by finding the watch time which is simultaneous with those events. Likewise, an observer at point B with the same watch can determine the time values of events near B by finding the watch time which is simultaneous with those events. But Event A will take Time A, and Event B will take Time B. 
+{{< /q >}}
+
+
+In reality, time is subjective and not objective. The fallacy of objective or 'simultaneous' time is seen:
+- in jobs where older people are supposed to be more skilled than younger people
+- in healthcare where older people are supposed to have worse health than young people
+- in age ranges where old people are supposed to be earning higher than young people
+
+
+The subjectivity of time was common sense knowledge before Einstein. This is why no one was dumb enough to make it objective or simultaneous.
+
+{{< q a="Henri Poincare" c="The Measure of Time" >}}
+We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion. What do I mean when I say, from 12 noon to 1 pm, the same time passes as from 2 pm to 3 pm? The least reflection shows that by itself it has no meaning at all. It will only have the meaning that I give to it, making it arbitrary.
+{{< /q >}}
+
+
+### The Precision of Light
+
+Of the 5 Elements, the fire element, as electromagnetism, is the most accurate because fire element particles are small yet have consistent properties.
+
+This makes it the ideal standard for the simultaneity or objectivity of subjective time. 
 
 This fallacy is why physicists say that light "experiences" no time, as if light were alive!
 
@@ -140,45 +170,91 @@ This is also why **Relativity works very well in measuring things** even if it t
 In the building of a physics in this way, Relativity provides evidence of its feasibility. The task of research is the establishment of the truth. The only question is **whether this feasibility was achieved at the expense of the truth**. It is an open secret that thinking about the categorical foundations of Relativity actually leads to logical difficulties. 
 {{< /q >}}
 
+ <!-- following non-solutions by General Relativity by making the following more precise: -->
 
-This has led to the following non-solutions by General Relativity by making the following more precise:
+This has led to the precise measuring of:
 - gravitational lensing
 - precession of Mercury
 - weak equivalence principle of 2 objects falling at the same speed in a vacuum
+- global positioning satellites
 
-This is similar to the blockchain scam where you can precisely mine a lot of cryptocurrency that are essentially worthless. 
+{{< i s="/photos/objects/gps.jpg" a="GPS" c="In Cartesian Physics, GPS gets its speed from the space particles going around the Earth, and not any absurd warping." >}}
 
-By making so many theories based on Relativity, Physics thinks it's making huge progress when in fact is really stuck at zero. 
 
- <!-- so that your 1 coin today will be 1,000 coins next week a whopping 99,900% increase. But the real value is the same zero. In fact, the real value to Nature is negative because of the waste of electricity, and of your wasted time and effort to mine a lot of nothing. -->
+## It's a Trap!
 
-General Relativity is a non-solution because it does not explain:
-- why masses fall, commonly attributed to matter -- but this is debunked by the non-existence of dark matter.
-- why light is limited to `c`
+For some weird reason, physicists feel that the higher precision of General Relativity makes it better than Newtonian Mechanics, when all it does is to dig Physics into a deeper hole. 
 
-All the effort of unifying quantum mechanics with Relativity have failed, because Nature never bends Herself to human scams. This includes failed theories like:
+This is similar to a blockchain scam where you can precisely mine a lot of cryptocurrency that are essentially worthless. Having billions of scam coins makes you feel richer even if in reality, you are poorer because of the wasted electricity. 
+
+By making so many theories based on Relativity, Physics thinks it's making huge progress when in fact is really just staying more stuck at zero, as proven by the failures of:
 - Supersymmetry
 - String Theory
 - Loop Quantum Gravity
 
 {{< i s="/graphics/physics/einstein.jpg" a="Einstein" c="David Hume's system of critical thinking involves chasing the train of ideas to find the origin idea" >}}
 
+This is the exact same fallacy that afflicts artificial intelligence (AI). Tech companies wrongly believe that throwing more energy and CPU into AI will magically make it sentient or naturally intelligent. They do not know that it is the aether, not electromagnetism, that is key to make AI sentient.
+
+ <!-- so that your 1 coin today will be 1,000 coins next week a whopping 99,900% increase. But the real value is the same zero. In fact, the real value to Nature is negative because of the waste of electricity, and of your wasted time and effort to mine a lot of nothing.  non-solution -->
+
+Relativity is a false theory because it does not explain:
+- why masses fall
+  - Matter being attracted by matter is debunked by the non-existence of dark matter
+- why light is limited to `c`
+
+
+All the effort of unifying quantum mechanics with Relativity have failed, because Nature never bends Herself to human scams. 
 
 It would have been better for physicists to sleep for 100 years achieving nothing than waste so much time and effort achieving the same nothing. This is because like the blockchain example, the wasted effort is actually a negative. It follows that the funding for the Large Hadron Collider, for example, is really a loss to society since the Higgs boson is totally useless.
 
 
-Lorentz and Poincare were wise to keep time psychological, avoiding the temptation to use physical light as the basis for psychological time:
+<!-- Lorentz and Poincare were wise to keep time psychological, avoiding the temptation to use physical light as the basis for psychological time:
 
-{{< q a="Henri Poincare" c="The Measure of Time" >}}
-We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion. What do I mean when I say, from 12 noon to 1 pm, the same time passes as from 2 pm to 3 pm? The least reflection shows that by itself it has no meaning at all. It will only have the meaning that I give to it, making it arbitrary.
-{{< /q >}}
+Poincare created the first Relativity theory, but never won a Nobel Prize because he didn't scam people. -->
 
 
-Poincare created the first Relativity theory, but never won a Nobel Prize because he didn't scam people.
+## Solution: Define Time Properly
+
+<!-- Time is Mental, Not Physical -->
+
+The Fallacy of Simultaneity prospers because humans have not properly defined time. 
+
+To fix this, we define:
+- timespan as the cognitive gap between perceptions
+- time as the cognitive gap between perceptions in general
+
+This will firmly establish time as a metaphysical or mental object.
+
+The most accurate measure of time is aethereal **idea**, and not light. 
+
+You can close your eyes and cover your ears and still be able to count mental time. 
+
+The use of idea as a universal measure for time also solves the measurement problem in Quantum Mechanics.
+
+Therefore, idea and the aether (as substance of idea)  unites both Classical and Quantum Mechanics, while totally flushing Einstein's scam Relativity down the toilet. 
+
+In the next part, we explain the fallacy of the constant speed of light which will lead to the causal mechanism as the aether.
+
+This will free Physics and allow the development of technologies for levitation and faster-than-light travel, as teleportation.
+
+<!-- The fallacy of simultaneity is caused by us measuring mental time with material tools such as:
+- the ticking of the clock
+- the rotation of the Earth
+
+This makes us think that time is physical even if it is arbitrary. This is proven by:
+- timezones 
+- countries having different system for years such as 2025 (years from Jesus' birth) being Reiwa Year 7 in Japan (years from coronation of Naruhito)
+
+Einstein then goes for this fallacy fully by using the speed of light as the universal 'tick' by unifying physical time with physical space, trapping it in a 'Minkowski' space. -->
 
 
 
-### 2. Using Light Invariance to Glue the subjective times from different locations
+<!-- To a shallow mind, this constancy and invariance makes it an ideal measuring rod or timer.  -->
+<!-- But the big problem is that time and space are mental, and not physical, measures.  -->
+
+
+<!-- ### 2. Using Light Invariance to Glue the subjective times from different locations
 
 This is the main fallacy that destroys the subjectivity of time to make it objective. 
 
@@ -186,16 +262,10 @@ This is best seen in the fallacy of Superluminal Motion.
 
 
 ## Superluminal Motion
+ -->
 
 
-
-
-
-<!-- > All Relativity can do is to measure things.
-
-Relativity is useful when you need some accuracy in timekeeping, such as in GPS.
-
-But that's it. 
+<!-- > All Relativity can do is to measure things. Relativity is useful when you need some accuracy in timekeeping, such as in GPS.But that's it. 
 
 All successful tests of Relativity are just measurements using light or electromagnetism. It doesn't even allow you to move anything. 
 
@@ -208,161 +278,17 @@ In reality, the invention of Relativity is like the invention of a sundial. It m
 {{< i s="/photos/objects/clock.jpg" a="Sundial" c="A sundial does not explain why the sun goes around the sky. The notches provide more timekeeping accuracy just as the metric tensor of Relativity does" >}} -->
 
 
-
-
-Our other post explains the [other side of the fallacy of Relativity](/material/fallacies/simultaniety/), as using the invariance of light to glue disparate times.
-
-
-## Too Much Math is to Blame
-
-Both Poincare and Sabine Hossenfelder blames the collapse of Physics to the dominance of mathematicians who are out of touch with reality.  
-
-{{< q a="Henri Poincare" c="The Measure of Time" >}}
-The mathematicians of the Berlin school have devoted themselves to constructing this continuous scale of irrational and fractional numbers using only the integer. The mathematical continuum from this point of view would be a pure creation of the mind in which experiment would have no part
-{{< /q >}}
-
-
-{{< box >}}
-## The Problem with Math
-
-Math allows people to convert physical perceptions into variables which can then be transposed and manipulated by the whim. 
-
-For example, in this video, Derek claims that he can turn 0.99999 to 1.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tRaq4aYPzCc?si=QFlHF0tTDoqlptSW&amp;start=264" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-The fraud happens when he removes the 0.9999 from 9.9999 to convert the repeating decimal into a whole nuber just to prove his absurd claim.
-
-In effect, he is able to equate 0.99999 to 1 by arbitrarily removing the repeating decimals by subtracting them.
-
-These are Math 'Hacks' that disconnect the math from reality and is why hacked theories do not match reality -- because they arise from the whim of the mathematician or theorist.
-{{< /box >}}
-
-
-Ideally, math should be used by engineering which always keeps the fidelity of the variables to their physical representations, as proven in experiments. Both Newton and Maxwell were strong at experimentation just as they were good at math.
-
-But the people after Maxwell seemed to lack experimentation ability and instead pushed for wild theories. For example, Georges Lemaitre created the Big Bang theory just to match Physics with the Bible creation story. The Big Bang has been disproven by data from James Webb, DESI, and the Planck satellite.
-
-Our experiments with Cartesian aether could be done with household equipment and gauge blocks. So there is no excuse for richer countries to have weak experimentation ability.
-
-But mathematicians protect their intellectual position by implying that those who go against math are weak-minded.
-- This is similar to how priests protected their dogma by implying that those who went against them were influenced by the Devil.
-
-
-## The Solution
-
-We correct Relativity by converting it to Cartesian Relationality. 
-
-The 3 components of the Einstein scam are: 
-
-1. His desire for Nobel Prize money which he gave to his wife who actually created Relativity
-2. The fact that no one, even himself, knew the aether or 5th Element
-3. Use of the ambiguity of time
-
-We fix the simultaneity of time by having a moral paradigm:
-
-1. Give credit to Descartes for explaining the 4 Elements
-2. Explain how time works according to 3 Elements
-3. Define time properly
-
-We start by replacing "time" with "timespan" and the following Cartesian definitions:
-
-Word | Definition
---- | ---
-Timespan | The gap between 2 perceptions
-Time | The gap between perceptions in general
-
-Timespan can be divided into 3:
-
-1. Mental timespan
-
-This is true timespan, based on the Aether or 5th Element
-
-2. Light timepan
-
-This is light-years and light-speed used to measure very large distances. It is also the basis of relativistic timespan. This is the Fire Element. 
-
-3. Material timespan
-
-This timespan is the Matter or Earth Element, as springs and sand. 
-
-These timespans are then within Newton's Absolute Time. 
-
-{{< i s="/graphics/physics/mental.jpg" a="Mental Time" >}}
-
-
-{{< box >}}
-### Experiment 
-
-Take a fast plane and go around the world with 3 clocks:
-
-1. A mental clock 
-2. An atomic clock
-3. A sand clock
-
-Compare the results with 3 clocks on the ground where you left and will arrive. They will show difference time discrepancy values. You then choose which one is feasible for your use-case. This is similar to the people in the International Space Station arbitrarily agreeing to use GMT 0 as their timezone.
-
-{{< /box >}}
-
-
-### The Elements Restored
-
-The demarcation of the 3 Elements re-separates the Conservation of Energy and Mass from the prison or confinement created by `E=mc^2`. 
-
-No longer does one need a huge amount of energy to bypass spacetime and teleport or levitate to other locations. This matches non-locality of quantum mechanics. This exposes the nature of the aether which is arbitariness and non-sequentiality. 
-
-More importantly, it restores the aether, via mental spacetime. You can now use this to impose on matter (3rd Element) to change its aetherspace configuration (since atoms are mostly empty space). 
-
-This will then allow it to levitate or at least become lighter, as done by levitating Buddhist monks. 
-
-{{< youtube 6y3bqvRWRSA >}}
-
-
-For material bodies, such as vehicles, this can be done by applying Maxwell's 4th Equation, which is about waves and energy, onto gravity. 
-- Instead of manipulating charged particles to create magnetism, the aetherspace of the atom is manipulated to cancel gravity.
-- This aetherspace is Bob Lazar's Gravity-A waves which are used by UFOs to levitate and teleport
-
-{{< youtube 0dXvYASaIx4 >}}
-
-Lorentz should have done this if he had only focused on the Huygens aether instead of the Fresnel aether. 
-
-Had Cartesian Physics survived, people after Maxwell would have used waves to discover and manipulate the aetherspace to move things by action-at-a-distance. 
-
+<!-- Our other post explains the [other side of the fallacy of Relativity](/material/fallacies/simultaniety/), as using the invariance of light to glue disparate times. -->
 
 
 <!-- **It does not reveal and hidden properties that can be used to create new technology**. This is because Einstein never explained why light has the speed of `c`, because he didn't know why. 
 
-Cartesian Physics explains that the speed of light is from the constriction of the aether onto spacetime. This leads to our concept of spacetime slices which replace the scam metric tensor and can be the basis for new technologies.  
-
-> Einstein never explained *why* light has the speed of c
- -->
-
+Cartesian Physics explains that the speed of light is from the constriction of the aether onto spacetime. This leads to our concept of spacetime slices which replace the scam metric tensor and can be the basis for new technologies.  -->
 <!-- ### Do not be a Slave to your Imagination or to Mathematics
-
 Mathematics is just a tool 
 So you use relativity to time precision. You do not have to be a slave to it. Nor do you have to change mental time into electromagnetic time and an entire species. 
-
 british units like 12 inches for a foot if i wnat to divide more flxeible with 2, 3, 4, 6. 
-
 use SI units if I want to multiply 10 is multiplied or divide by 10s by 10s and merely adding os 
-
 electromagentic time for sunrise 
-
 sunrise mechanical time
-
-mental time oh its our anivesary 
-
-
-We already KNOW all the mechanisms behind all the Relativity Theories whether from Descartes, Galileo, Newton, Poincare, Mach, or Einstein. 
-
-This is because we already know how the universe works through the 5 Elements. 
-
-The big problem is that materialists don't know how the universe works. This makes them regard Einstein as some genuis instead of some scammer.
-
-This is similar to how investors don't know how blockchain works and so they thought that the FTX founder was some genuis instead of some scammer.
-
-Blockchain then collapsed but merely reconstituted itself because the ignorance was never eliminated. 
-
-This is similar to how the financial system always reconstitutes itself after it collapses after a financial crisis. This is because humans have been taught that its solution, which is barter, is obsolete. And so the solution is never implemented and the scam financial system rebuilds itself with the same junk ideas. 
-
--->
+mental time oh its our anivesary -->

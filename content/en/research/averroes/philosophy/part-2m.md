@@ -37,15 +37,15 @@ But all this is quite contrary to our traditions and reason. As to tradition God
 The Prophet Mohammad says:
 
 {{< q a="Mohammad" >}}
-God hath borne witness that there is no God but He; and the angels and those who are endowed with wisdom profess the same, who executeth righteousness;”[142]
+God hath borne witness that there is no God but He; and the angels and those who are endowed with wisdom profess the same, who executeth righteousness
 {{< /q >}}
 
 {{< q a="Mohammad" >}}
-“Thy God is not unjust towards His servants;”[143]
+Your God is not unjust towards His servants
 {{< /q >}}
 
 {{< q a="Mohammad" >}}
-“Verily God will not deal unjustly with men in any respect; but men deal unjustly with their own souls.”[144] 
+Verily God will not deal unjustly with men in any respect; but men deal unjustly with their own souls
 {{< /q >}}
 
 
@@ -54,9 +54,7 @@ What is your opinion about misleading the people, whether it is just or unjust, 
 He says:
 
 {{< q a="Mohammad" >}}
-“God causeth to err whom He[281] pleaseth, and directeth whom He pleaseth;”[145] 
-
-“If we had pleased, we had certainly given every soul its direction.”[146] 
+God causeth to err whom He pleased, and directeth whom He pleased. If we had pleased, we had certainly given every soul its direction.
 {{< /q >}}
 
 These verses cannot be taken exoterically, for there are many verses which apparently contradict them—the verses in which God denies injustice to himself. 
@@ -64,10 +62,11 @@ These verses cannot be taken exoterically, for there are many verses which appar
 For instance, He says:
 
 {{< q a="Mohammad" >}}
-“He liketh not ingratitude (Kufr) in His servant.”[147] 
+He likes not ingratitude (Kufr) in His servant.
 {{< /q >}}
 
-So it is clear that as He does not like ingratitude even from them, He certainly cannot cause them to err. 
+
+He does not like ingratitude even from them, and so He certainly cannot cause them to err. 
 
 
 The Asharites believe that God sometimes does things which He does not like, and orders others which He does not want.
@@ -77,9 +76,7 @@ But I believe that God forbids us from holding such a view about him, for it is 
 That God has not misled the people and has not caused them to err will be clear to you from the following verses:
 
 {{< q a="Mohammad" >}}
-Wherefore be thou orthodox and set thy face towards true religion, the[282] institution of God, to which He hath created man kindly disposed;”[148]
-
-“when thy Lord drew forth their posterity from the lions of the sons of Adam.”[149] 
+Wherefore be thou orthodox and set thy face towards true religion, the[282] institution of God, to which He hath created man kindly disposed;..when thy Lord drew forth their posterity from the lions of the sons of Adam.
 {{< /q >}}
 
 
@@ -89,14 +86,14 @@ These being contradictions in this problem we should try to reconcile them so th
 
 
 {{< q a="Mohammad" >}}
-“Verily God will cause to err whom He pleaseth, and will direct whom He pleaseth” 
+Verily God will cause to err whom He pleaseth, and will direct whom He pleased
 {{< /q >}}
 
 This refers to the prearranged divine will, with which all things have been endowed. They have been created erring, that is, prepared to go astray by their very nature, and led to it by inner and outer causes.
 
 
 {{< q a="Mohammad" >}}
-“If we had pleased, we have given unto every soul its direction,”
+If we had pleased, we have given unto every soul its direction
 {{< /q >}}
 
 This means that He thought of not creating people ready to err, by their nature, or by the outer causes or by both, He could have done so. 
@@ -107,7 +104,7 @@ For instance, “He will thereby mislead many, and will direct many thereby: but
 
 
 {{< q a="Mohammad" >}}
-“Thus doth God cause to err whom He pleaseth and He directeth whom He pleaseth.”[152] 
+Thus, God causes to err whom He pleases and He directs whom He pleases,
 {{< /q >}}
 
 This means that for evil natures, these verses are misleading, as for the sick bodies even good drugs are injurious. 
@@ -158,7 +155,15 @@ There is another reason for these verses.
 
 The common people cannot differentiate between possible and impossible, while to God is not ascribed power over the impossible. If they be told what is impossible (Mustahil) and they think that God has power over it, and then told that God has no power, they begin to think that there is some defect in God, because He cannot do a certain thing and hence He is weak. 
 
-As the existence of things free from evil was possible according to the masses, God has said, “If we had pleased, we had certainly given every soul its direction; but the word which hath proceeded from Me must necessarily be fulfilled, when I said, Verily I will fill the hell with genii and men, altogether.”[154] This verse means one thing to the common people, and the other to the learned. 
+The existence of things free from evil was possible according to the masses. God has said, 
 
-The former take it to mean that it is not[290] incumbent upon him that He should create a class of men to whom evil may be attached. But it really means: Had we thought we could create men with whom evil could not be attached, but would have been good in all and all, and hence every one had been given his guidance. This much is enough for this problem. Now we would deal with the fifth question.
+{{< l a="God" >}}
+If we had pleased, we had certainly given every soul its direction; but the word which hath proceeded from Me must necessarily be fulfilled, when I said, Verily I will fill the hell with genii and men, altogether.
+{{< /l >}}
 
+
+This verse means one thing to the common people, and the other to the learned. 
+
+The former take it to mean that it is not[290] incumbent upon him that He should create a class of men to whom evil may be attached. 
+
+But it really means: Had we thought we could create men with whom evil could not be attached, but would have been good in all and all, and hence every one had been given his guidance. This much is enough for this problem. Now we would deal with the fifth question.

@@ -1,7 +1,7 @@
 ---
-title: "The Ageless Universe: Big Bang Debunked"
-date: 2025-05-11
-# date: 2023-01-08
+title: "The Fallacy of the Age of the Universe"
+# date: 2025-05-11
+date: 2023-07-18
 # weight: 2
 image: /photos/physics/galaxy.jpg
 description: "The universe is ageless since the Big Bang is false"
@@ -14,12 +14,11 @@ aliases:
 ---
 
 
-Physicists and astronomers were surprised that the James Webb Telescope revealed [new facts about the universe:](https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf)
+Recently, physicist Rajendra Gupta of the University of Ottawa tried to update the age of the universe from 13.8 billion years to 26.7 because of the recent finding of the [James Webb Telescope](https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf)
 
 1. The universe was spread out more evenly than expected
 2. The oldest galaxies were smaller compared to our younger Milky Way and were [more than expected](https://www.pnas.org/doi/10.1073/pnas.2311963120)
 
-<!-- surprisingly many galaxies, galaxies that are surprisingly smooth, surprisingly small and surprisingly old. -->
 
 To this we add earlier surprises from cosmic microwave background (CMB) data:
 
@@ -29,112 +28,70 @@ To this we add earlier surprises from cosmic microwave background (CMB) data:
 {{< i s="/photos/physics/galaxy.jpg" a="Galaxy" >}}
 
 
-The cause of these surprises was the false materialist belief called **The Big Bang Theory** which says that the universe began as a mass of singularity that exploded to create spacetime and the current galaxies. 
-
-Such a theory would lead to the following predictions:
-- There should be more galaxies at a certain region of the universe compared to others
-- Old galaxies should be bigger than new ones
-- Gravitational waves should be present because there was a huge singularity that created ripples in the fabric of space
-- There should be more temperature differences because of the expansion
-
-Such assumptions were destroyed by the findings of:
-- the **James Webb Space Telescope** which detected galaxies at the early universe being large instead of small
-- the **Planck satellite** which detected no gravitational waves in the CMB
-- **DESI** detecting variations in the acceleration of the expansion of space
+This led physicists to create new theories to explain the data. While some have tried to modify Lambda CDM, Gupta uses the tired light theory of Fritz Zwicky.
 
 
-## The Cause of the Error: The Wrong Assumptions of Physics
+## Tired Light is Wrong
 
-The corrupted assumptions of Physics, just like the corrupted ones of Economics, create theoretical absurdities that lead to real problems.
+Tired Light was proposed back in 1929 as a mechanism for redshift.
 
-- The corrruption of Economics is the obsession with money
-- The corrruption of Physics is the obsession with visible things
+It suggests that photons lose their energy over time through collisions with other particles. This would then make the distant particles appear redder than the nearby ones.
 
-Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them into simplistic theories that are based on visible effects instead of invisible causes:
+However, this contradicts the expanding universe. 
 
-- The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the hypothesis of the primeval atom
-
-{{< q a="Georges Lemaitre" c="The Primeval Atom">}}
-In this first phase of the expansion of space, starting asymptotically with a zero radius, we have particles of enormous velocities immersed in radiation.
-{{< /q >}}
-
-- The force of gravity being based on matter is from Newton's ignorance on the cause of gravity
-
-{{< q a="Newton" c="Principia Mathematica, Book 1, Definitions" >}}
-The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
-{{< /q >}}
-
-These dogmas combined leads to the Big Bang theory which has been disproven by the recent data.
+![Fail](/photos/psych/fail.jpg)
 
 
-## The Solution: A Sponge Universe
+But the tired light theory is wrong because, according to Cartesian Physics, the real mechanism for red shift is the edges of galaxies not being totally in sync. This causes the light to stretch, causing a red shift. 
 
-In 1644, Descartes published his expansion theory with an analogy of a sponge:
+Zwicky (and the rest of Newtonian Physics) does not have the concept of galaxy edges.
 
-{{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article " >}}
-A sponge full of water is different from a dry sponge because the wet sponge has wider pores. This makes its body more diffused over a larger physical space. But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry. 
-{{< /q >}}
+And so he accounts for the red shift by putting the energetic or color property of light onto gravity, which is really a property of spacetime. 
 
+This idea was revived by Rajendra Gupta to explain redshift observations. He uses that property of light to account for dark matter and dark energy.
 
-This matches the current expansion of the universe which Physics compares to a balloon expanding.
+But this leads to quack physics:
+- sometimes light has that red-shifting property -- this leads to a non-expanding universe
+- sometimes that property transfers to spacetime -- this leads to an expanding universe
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ZvcdkNKxxoQ?start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-
-
-{{< youtube ZvcdkNKxxoQ >}}
-
-However, we stick to a sponge analogy because the balloon analogy causes matter to expand as well. 
-
-{{< i s="/graphics/meta/space.jpg" a="Sponge" >}}
+So if the error of Gupta's 26.7 billion year age is the confusion between light and space, what is the cause of the 13.8 billion year error of Modern Physics?
 
 
-An expanding sponge keeps the matter of the sponge at the same density while matching the look of the cosmic web.
+## Religion as the Cause of the Finite Age of the Universe
 
-{{< i s="/graphics/physics/balloon.jpg" a="Sponge" >}}
+The root cause of physicists assigning an age to the universe is because Modern Physics came from Europeans who were indoctrinated by the Bible.
 
-This also emphasizes the liquid property of space which manifests as:
-- gravitational waves as proven by LIGO
-- acoustic bubbles as proven by DESI as baryonic acoustic oscillations
+The Bible has Genesis wherein God was said to create the world in 7 days. So the 1st day is the start day.
 
-The sponge universe has always existed and does not have a material start. 
+According to our Anunnaki Hypothesis, the Bible is an account of how the Anunnaki created humans via genetic manipulation of Homo Erectus. 
+- Their arrival has a start day
+- Their departure, after the Great Flood, was supposed to be the end of the world
 
+This is consistent with the Big Bang theory being created by a priest.
 
-## Dark Energy
+We can say that:
+- the 13.8 billion year age is the matter-based paradigm. This was caused by the Genesis indoctrination by Christianity
+- the 26.7 billion year age is the light-based paradigm. This was caused by the abandonment of the aether idea which is the real cause of the expansion of the universe
 
-Instead of a material singularity, the matter in the universe comes from the energy of space. This is proven by quarks that emerge out of space as a result of excessive imposition of energy.
-
-The expansion is caused by 'dark energy' which we call the aetherspace which binds spacetime. 
-- These are bubbles that pop up everywhere and manifests as baryonic acoustic oscillations (BAOs).  
-- Bob Lazar calls them as Gravity-A waves
-
-<!-- All of these point to the substance called the **aetherspace** which binds the cosmic web and creating the expansion of space. This aetherspace is called Gravity A by Bob Lazar, as opposed to Gravity B.  -->
-
-This aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
-
-
-{{< i s="/photos/physics/bao.jpg" a="BAOs" >}}
-
-
-## The CMB as local heat of cluster/s
-
-The Cosmic Microwave Background (CMB) is the radiation from galaxies within or near our galactic cluster. This is because heat particles have a shorter range than light particles because they are larger. 
-
-The Hubble Tension is the difference in the expansion speed of the universe measured through red shift at 73 kilometers per second per megaparsec (measured by James Webb) and through the CMB at 67 (measured by Planck Satellite). 
-
-This matches the findings of DESI that shows expansion is faster in the distant universe which Physics wrongly interprets as going back in time!
-
-This is further consistent with the James Webb Space Telescope that found very distant galaxies already well-formed. This proves that those very distant galaxies are not ancient, but rather just very distant.
 
 
 ## The Age of the Subjective Universe
 
-In Cartesian Physics, the independence of the spacetime slices proves that the universe is subjective.
+The Physics of Asia, Descartes, Spinoza, and Leibniz:
+- were not blind believers to the Biblical dogma
+- all asserted an eternal, infinite universe
+
+In Cartesian Physics, dark energy is a crudified aether which we call the aetherspace, which is the same substance as atomic space and the gluon field. 
+
+The variability of the expansion from dark energy proves the subjectivity of the universe. 
 
 This subjectiveness depends on the aether or 5th Element which works mainly through the aetherspace which binds spacetime, either keeping it static or allowing it to expand.
 
 So the "age" of the universe then depends on this static or expanding state.  
 
 Since the aether is the substance of mind, and since it controls the aetherspace which then controls space and time, then it means that **the universe has no single starting point other than the mind that is perceiving that universe.**. 
+
+{{< i s="/graphics/physics/dark.jpg" a="Galaxy" c="In Cartesian Physics, atomic space (extension)  is of the same substance as dark energy (extension or extender of the universe) " >}}
 
 
 <!-- With this idea, we can account for the "age of the universe" asserted by Modern Physics:   -->
@@ -145,7 +102,6 @@ The fallacy of distance being age is a necessary consequence of Einstein's Relat
 
 And so the debunking the Big Bang also debunks Relativity and paves the way for Decartes' alternative explanation of an expanding sponge universe with Cartesian Relationality based on the 5 Elements that actually match the findings of DESI, James Webb, and Plack Satellite of an infinite, indefinite expanding universe.
  -->
-
 
 
 - If the James Web Telescope teleported to another galaxy, it would see the same even distribution of galaxies. It would then recompute the age of the universe based on the perspective of that galaxy and find that the age is different. This would prove Descartes correct that the age and size of the universe is indefinite. 
