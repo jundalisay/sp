@@ -4,6 +4,7 @@ weight: 230
 # linkTitle: Countries
 # date: 2023-06-17
 description: ""
+image: "/flags/nz.png"
 c: "darkslategray"
 ---
 

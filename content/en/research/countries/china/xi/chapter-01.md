@@ -34,9 +34,9 @@ The new era is a stage in the initial stage of socialism, not any other stage.
 
 When combing and reviewing the 500-year history of world socialism, Comrade  -->
 
-Xi stressed that Socialism with Chinese characteristics (SWCC) 
+Xi stressed that Socialism with Chinese characteristics (SWCC) was a fundamental achievement achieved through thousands of hardships at various costs, with profound historical origins and practical foundations.
 
-was a fundamental achievement achieved by the Party and the people through thousands of hardships and at various costs, with profound historical origins and practical foundations. The entry of socialism with Chinese characteristics into a new era was realized in the continuous struggle of several generations of Chinese communists to establish a new China, open a new era, cross the new century, and stand at a new starting point.
+<!-- The entry of socialism with Chinese characteristics into a new era was realized in the continuous struggle of several generations of Chinese communists to establish a new China, open a new era, cross the new century, and stand at a new starting point. -->
 
 Mao integrated the basic tenets of Marxism-Leninism with the Chinese revolution and founded Mao Zedong Thought.
 
@@ -61,10 +61,11 @@ basic economic system and distribution system in the initial stage of socialism,
 situation of comprehensive reform and opening up, promoted the new great project of party building,
 and successfully pushed socialism with Chinese characteristics into the 21st century. -->
 
-After the 16th CPC National Congress, the Chinese Communists, mainly represented by Comrade
-Hu Jintao, united and led the whole party and the people of all ethnic groups throughout the country,
-persistently took Deng Xiaoping Theory and the important thinking of the "three represents" as their
-guide, profoundly understood and answered major questions such as what kind of development to
+After the 16th CPC National Congress, Hu Jintao:
+- united and led the party and all ethnic groups throughout the country.
+- took Deng Xiaoping Theory and its "three represents" as guide
+
+<!-- , profoundly understood and answered major questions such as what kind of development to
 achieve and how to develop in accordance with the new development requirements, and formed a
 scientific outlook on development that is people-oriented and comprehensively coordinates
 sustainable development. Seize the period of important strategic opportunities, promote practical
@@ -74,62 +75,72 @@ coordinated and sustainable development, form the overall layout of the cause of
 Chinese characteristics, focus on ensuring and improving people's livelihood, promote social
 fairness and justice, promote the construction of a harmonious world, promote the building of the
 party's ruling capacity and advanced nature, and successfully adhere to and develop socialism with
-Chinese characteristics at a new historical starting point.
+Chinese characteristics at a new historical starting point. -->
 
-Adhering to and developing socialism with Chinese characteristics requires Chinese communists to
+<!-- Adhering to and developing socialism with Chinese characteristics requires Chinese communists to
 keep pace with the times, constantly create new things in theory, and show new achievements in
 practice. Comrade Xi Jinping pointed out: "Adhering to and developing socialism with Chinese
 characteristics is a big article, Comrade Deng Xiaoping has defined the basic ideas and basic
 principles for it, and the third generation of the party's central leading collective with Comrade Jiang
 Zemin as the core and the party Central Committee with Comrade Hu Jintao as general secretary
 have written wonderful chapters on this big article." Now, the task of our generation of communists
-is to continue to write this big article."1
+is to continue to write this big article."1 -->
 
 
 ### 2. Historic achievements and historic changes
 
-The 18th National Congress of the Communist Party of China opened a new journey for the cause
+<!--  of the Communist Party of China opened a new journey for the cause
 of the Party and the country, and opened a new chapter in the great practice of socialism with
 Chinese characteristics. In the face of profound and complex changes in the domestic and
 international situation, the Party Central Committee with Comrade Xi Jinping as the core, with great
 political courage and strong responsibility, has raised the banner and directed itself, strategized,
 scientifically grasped the general development trend of today's world and contemporary China,
-taken charge of great struggles, great projects, great undertakings and great dreams, coordinated the
-promotion of the overall layout of "five-in-one" economic construction, political construction,
-cultural construction, social construction and ecological civilization construction, coordinated the
+taken charge of great struggles,  -->
+
+In the 18th National Congress, Xi led great projects, coordinated the promotion of the "five-in-one" economic construction,  political construction, cultural construction, etc.
+
+<!-- social construction and ecological civilization construction, coordinated the
 construction of a moderately prosperous society in an all-round way, comprehensively deepened
-reform, and comprehensively governed the country according to law. Comprehensively
-administering the party's "four comprehensive" strategic layout, adhering to the general tone of
+reform, and comprehensively governed the country according to law.  -->
+
+He administered the party's "four comprehensive" strategic layout.
+
+<!--  adhering to the general tone of
 seeking progress while maintaining stability, and comprehensively opening up a new situation in
 the cause of the party and the country. In the report of the 19th National Congress of the Communist
 Party of China, Comrade Xi Jinping made a comprehensive summary of the development of the
 cause of the Party and the country since the 18th National Congress, which was summarized as
-follows: "historic achievements" and "historic changes.”
-What can be called historic achievements and historic transformations are extraordinary
+follows: "historic achievements" and "historic changes.” -->
+
+<!-- What can be called historic achievements and historic transformations are extraordinary
 achievements that are extremely far-reaching, extremely unusual and able to leave a mark on history.
 Since the 18th National Congress of the Communist Party of China, it is precisely such
 achievements and changes that socialism with Chinese characteristics has presented a new historical
-atmosphere.
+atmosphere. -->
 
-Let's start with historic achievements. In the report of the 19th National Congress of the Communist
-Party of China, Comrade Xi Jinping summarized the important progress made by our country in the
-past five years into ten aspects: major achievements in economic construction, major breakthroughs
-in comprehensively deepening reform, major strides in the construction of democracy and rule of
-law, major progress in ideological and cultural construction, continuous improvement of people's
-lives, remarkable results in the construction of ecological civilization, new progress in strengthening
-the army and rejuvenating the army, new progress in the work of Hong Kong, Macao and Taiwan, a
-comprehensive diplomatic layout has been carried out in depth, and outstanding results have been
-achieved in comprehensively administering the party strictly. These major achievements cover
-reform, development, stability, internal and foreign affairs, national defense, and the management
+In the 19th National Congress, Xi Jinping summarized the progress by China in the past 5 years:
+
+1. major achievements in economic construction, 
+2. major breakthroughs in comprehensively deepening reform,
+3. major strides in the construction of democracy and rule of law,
+4. major progress in ideological and cultural construction, 
+5. continuous improvement of people's lives, 
+6. remarkable results in the construction of ecological civilization, 
+7. new progress in strengthening the army and rejuvenating the army, 
+8. new progress in the work of Hong Kong, Macao and Taiwan, 
+9. a comprehensive diplomatic layout has been carried out in depth,
+10. outstanding results have been achieved in comprehensively administering the party strictly. 
+
+<!-- These major achievements cover reform, development, stability, internal and foreign affairs, national defense, and the management
 of the party and the country, and the military. At the same time, these major achievements are
 groundbreaking and have had and will continue to have a profound impact on China's social
 development. For example, it creatively proposed to let the poor people and poor areas join the
 whole country in a well-off society in all respects, adhere to targeted poverty alleviation and targeted
 poverty alleviation, and launch an unprecedented anti-poverty struggle in human history, so that
 more than 93 million poor people can be stably lifted out of poverty, and the problem of absolute
-poverty that has plagued the Chinese nation for thousands of years is about to come to a historic end.
+poverty that has plagued the Chinese nation for thousands of years is about to come to a historic end. -->
 
-Another example is the creation of socialism with characteristics, which creatively proposes that
+<!-- Another example is the creation of socialism with characteristics, which creatively proposes that
 green waters and green mountains are gold and silver mountains, and promotes the dual promotion
 of economic development and ecological protection. Another example is creatively proposing to
 promote the construction of a community with a shared future for mankind and the construction of
@@ -184,3 +195,4 @@ base to the superstructure, promoted the realization of the historic development
 society as a whole, greatly changed the face of the Communist Party of China, the country, the
 people, the army, and the Chinese nation, and pushed socialism with Chinese characteristics into a
 new historical stage.
+ -->
