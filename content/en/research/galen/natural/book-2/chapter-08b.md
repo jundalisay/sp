@@ -9,7 +9,13 @@ c: "firebrick"
 ---
 
 
-Erasistratus did not hesitate to attack even the most trivial views yet he neither dared to contradict his predecessors nor to advance any new view of his own, proves that he recognized the fallacy of his own way of thinking.252
+Erasistratus attacked even the most trivial views.
+
+Yet he did not:
+- contradict his predecessors
+- advance any new view of his own
+
+ <!-- proves that he recognized the fallacy of his own way of thinking. -->
 
 For what could a man possibly say about blood who had no use for innate heat? 
 
@@ -17,7 +23,12 @@ What could he say about yellow or black bile, or phlegm?
 
 He might say that the bile could come directly from without, mingled with the food! 
 
-Thus Erasistratus practically says so in the following words: “It is of no value in practical medicine to find out whether a fluid of this kind arises from the elaboration of food in the stomach-region, or whether it reaches the body because it is mixed with the food taken in from outside.” 
+Thus Erasistratus practically says so: 
+
+{{< q a="Erasistratus" >}}
+It is of no value in practical medicine to find out whether a fluid of this kind arises from the elaboration of food in the stomach-region, or whether it reaches the body because it is mixed with the food taken in from outside.
+{{< /q >}}
+
 
 But he must maintain that this humour:
 - has to be evacuated from the animal
@@ -27,7 +38,7 @@ How, then, if you suppose that no good comes from the bile, do you venture to sa
 
 Well, let us suppose that it is contained in the food, and not specifically secreted in the liver (for you hold these two things possible).
 
-In this case, it will certainly make a considerable difference whether the ingested food contains a minimum or a maximum of bile; for the one kind is harmless, whereas that containing a large quantity of bile, owing to the fact that it cannot be properly purified254 in the liver, will result in the various affections—particularly jaundice—which Erasistratus himself states to occur where there is much bile. 
+In this case, it will certainly make a considerable difference whether the ingested food contains a minimum or a maximum of bile; for the one kind is harmless, whereas that containing a large quantity of bile, owing to the fact that it cannot be properly purified in the liver, will result in the various affections—particularly jaundice—which Erasistratus himself states to occur where there is much bile. 
 
 Surely, then, it is most essential for the physician to know in the first place, that the bile is contained in the food itself from outside, and, secondly, that for example, beet contains a great deal of bile, and bread very little, while olive oil contains most, and wine least of all, and all the other articles of diet different quantities. Would it not be absurd for any one to choose voluntarily those articles which contain more bile, rather than those containing less?
 
@@ -91,7 +102,9 @@ For what may occur as a result of boiling in the case of other articles which ar
 
 Thus we need a cold temperament and a cold period of life if we would have honey brought to the nature of blood.
 
-Therefore Hippocrates not improperly advised those who were naturally bilious not to take honey, since they were obviously of too warm a temperament. So also, not only Hippocrates, but all physicians say that honey is bad in bilious diseases but good in old age; some of them having discovered this through the indications afforded by its nature, and others simply through experiment,270 for the Empiricist physicians too have made precisely the same observation, namely, that honey is good for an old man and not for a young one, that it is harmful for those who are naturally bilious, and serviceable for those who are phlegmatic. In a word, in bodies which are warm either through nature, disease, time of life, season of the year, locality, or occupation, honey is productive of bile, whereas in opposite circumstances it produces blood.
+Therefore Hippocrates not improperly advised those who were naturally bilious not to take honey, since they were obviously of too warm a temperament. 
+
+So also, not only Hippocrates, but all physicians say that honey is bad in bilious diseases but good in old age; some of them having discovered this through the indications afforded by its nature, and others simply through experiment, for the Empiricist physicians too have made precisely the same observation, namely, that honey is good for an old man and not for a young one, that it is harmful for those who are naturally bilious, and serviceable for those who are phlegmatic. In a word, in bodies which are warm either through nature, disease, time of life, season of the year, locality, or occupation, honey is productive of bile, whereas in opposite circumstances it produces blood.
 
 But surely it is impossible that the same article of diet can produce in certain persons bile and in others blood, if it be not that the genesis of these humours is accomplished in the body. For if all articles of food contained bile from the beginning and of themselves, and did not produce it by undergoing change in the animal body, then they would produce it similarly in all bodies; the food which was bitter to the taste would, I take it, be productive of bile, while that which tasted good and sweet would not generate even the smallest quantity of bile. Moreover, not only honey but all other sweet substances are readily converted into bile in the aforesaid bodies which are warm for any of the reasons mentioned.
 

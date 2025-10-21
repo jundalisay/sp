@@ -70,7 +70,12 @@ The term “complete indigestion” refers of course to the second digestion—t
 
 <!-- It seems to me that I have made enough reference to what has been said regarding the genesis and destruction of humours by Hippocrates, Plato, Aristotle, Praxagoras, and Diocles, and many others among the Ancients; I did not deem it right to transport the whole of their final pronouncements into this treatise. I have said only so much regarding each of the humours as will stir up the reader, unless he be absolutely inept, to make himself familiar with the writings of the Ancients, and will help him to gain more easy access to them.  -->
 
-In another treatise, I have written on the humours according to Praxagoras, son of Nicarchus; although this authority makes as many as ten humours, not  including the blood (the blood itself being an eleventh), this is not a departure from the teaching of Hippocrates; for Praxagoras divides into species and varieties the humours which Hippocrates first mentioned, with the demonstration proper to each.
+In another treatise, I have written on the humours according to Praxagoras, son of Nicarchus.
+
+He makes as many as 10 humours excluding the blood.
+- The blood itself is the 11th
+
+This is not a departure from the teaching of Hippocrates; for Praxagoras divides into species and varieties the humours which Hippocrates first mentioned, with the demonstration proper to each.
 
 Those, then, are to be praised who explain the points which have been duly mentioned, as also those who add what has been left out; for it is not possible for the same man to make both a beginning and an end. Those, on the other hand, deserve censure who are so impatient that they will not wait to learn any of the things which have been duly mentioned, as do also those who are so ambitious that, in their lust after novel doctrines, they are always attempting some fraudulent sophistry, either purposely neglecting certain subjects, as Erasistratus does in the case of the humours, or unscrupulously attacking other people, as does this same writer, as well as many of the more recent authorities.
 

@@ -3,6 +3,37 @@ disruption forecasting
 predictive maintenance
 crew 
 
+algorithmic bias - learnig rate is too large but oversteps 
+
+oxford: intelligent, preceive reality and improve of it 
+ai = neural equation == linear regression, pattern finding looking for parallelism. 
+
+AI gives assumptions and tries to hit the parallelism. 
+- control set = training data, your inputs = hallucination 
+- actual set 
+
+dataset bias = knows only 1 dataset 
+aglorithimic bias = learning rate 
+
+cosine rule is harder than sin rule 
+
+agi needs ather flow, just a bit of flow will make it intelligent. 
+training data has this obsolete flow does not match 
+
+tunnel syndrome -- gullible believing
+
+api economy 
+agent ai (robot) = LLM + has task 
+agentic ai (multiple robots) = complex instructions 
+gen ai = uses dataset existing 2024 
+LLM = generates conversation from context 
+
+bile 
+yellow bile
+phlegm
+blood
+
+praxagoras pneuma 10 humours
 
 ego 
 what he thinks he wants 

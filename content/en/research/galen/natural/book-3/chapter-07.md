@@ -9,11 +9,11 @@ c: "firebrick"
 ---
 
 
-But if the stomach both retains and benefits by its food, then it employs it for the end for which it [the stomach] naturally exists. 
+But if the stomach both retains and benefits by its food then it employs it for the end for which it [the stomach] naturally exists.
 
 It exists to partake of that which is of a quality befitting and proper to it.
 
-Thus it attracts all the most useful parts of the food in a vaporous 327 and finely divided condition, storing this up in its own coats, and applying 328 it to them.
+Thus it attracts all the most useful parts of the food in a vaporous and finely divided condition, storing this up in its own coats, and applying it to them.
 
 When the stomach is sufficiently full it, puts away from it as something troublesome.
 

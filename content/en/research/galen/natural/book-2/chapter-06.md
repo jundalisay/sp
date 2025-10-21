@@ -30,7 +30,9 @@ The nerves do not contain blood.
 
 He says that a nerve has within itself veins and arteries, like a rope woven by Nature out of 3 different strands. 
 
-If the nerve contains within itself a blood-vessel it will no longer need the adventitious flow of other blood from the real vein lying adjacent; this fictitious vessel, perceptible only in theory,214 will suffice it for nourishment.
+If the nerve contains within itself a blood-vessel, it will no longer need the adventitious flow of other blood from the real adjacent vein.
+
+This fictitious vessel, perceptible only in theory, will suffice it for nourishment.
 
 This small vessel will nourish itself. 
 
@@ -114,9 +116,11 @@ He writes: “there cannot be a perceptible space which is entirely empty”
  while I, for my part, being abundantly equipped with terms which are equally elucidatory, at least in relation to the present topic of discussion, have added them as well). -->
 
 
-Those Erasistrateans who reduce the vessel called primary and simple into other elementary bodies should give up their opinion because they are also at variance with Erasistratus in this matter. 
+Some Erasistrateans reduce the vessel called primary and simple into other elementary bodies.
+- They should give up their opinion because they are also at variance with Erasistratus in this matter. 
 
-Their hypothesis could not escape the difficulty regarding nutrition. It is not even in consonance with the view of Erasistratus.
+Their hypothesis could not escape the difficulty regarding nutrition.
+- It is not even in consonance with the view of Erasistratus.
 
 <!-- when it declares that what he calls simple and primary is composite, and when it destroys the principle of Nature’s artistic skill.217  -->
 
@@ -126,13 +130,19 @@ For, according to such a hypothesis, Nature does not precede, but is secondary t
 
 It is not the province of what comes secondarily, but of what pre-exists, to shape and to construct.
 
-The faculties of Nature that shapes the animal and makes it grow and receive nourishment are present from the seed onwards; whereas none of these inharmonious and non-partite corpuscles contains within itself any formative, incremental, nutritive, or, in a word, any artistic power; it is, by hypothesis, unimpressionable and untransformable, whereas, as we have previously shown, none of the processes mentioned takes place without transformation, alteration, and complete intermixture. 
+The faculties of Nature that shapes the animal and makes it grow and receive nourishment are present from the seed onwards.
 
-And, owing to this necessity, those who belong to these sects are unable to follow out the consequences of their supposed elements, and they are all therefore forced to declare Nature devoid of art. It is not from us, however, that the Erasistrateans should have learnt this, but from those very philosophers who lay most stress on a preliminary investigation into the elements of all existing things.
+Whereas none of these inharmonious and non-partite corpuscles contains within itself any formative, incremental, nutritive, or, in a word, any artistic power; it is, by hypothesis, unimpressionable and untransformable, whereas, as we have previously shown, none of the processes mentioned takes place without transformation, alteration, and complete intermixture. 
+
+Owing to this necessity, those who belong to these sects are unable to follow out the consequences of their supposed elements.
+
+They are all forced to declare Nature devoid of art. 
+
+<!-- It is not from us, however, that the Erasistrateans should have learnt this, but from those very philosophers who lay most stress on a preliminary investigation into the elements of all existing things. -->
 
 
 
-It is foolish for Erasistratus to assume Nature to be artistically creative, while at the same time break up substance into insensible, inharmonious, and untransformable elements.
+It is foolish for Erasistratus to assume Nature is artistically creative, while at the same time it breaks up substance into insensible, inharmonious, and untransformable elements.
 
 If, however, he will grant that there occurs in the elements a process of alteration and transformation, and that there exists in them unity and continuity, then that simple vessel of his (as he himself names it) will turn out to be single and uncompounded. 
 
@@ -155,7 +165,7 @@ Now, this contains within itself various parts, namely, a great many of these pr
 
 Thus, all its elementary nerves have themselves also obviously become emaciated; for, if they had not, neither would the nerve as a whole; and of course, in such a case, the whole nerve cannot require nourishment without each of these requiring it too. 
 
-Now, if on the one hand they stand in need of feeding-up, and if on the other the principle of the refilling of a vacuum can give them no help—both by reason of the difficulties previously mentioned and the actual thinness, as I shall show—we must then seek another cause for nutrition.
+If on the one hand they stand in need of feeding-up, and if on the other the principle of the refilling of a vacuum can give them no help—both by reason of the difficulties previously mentioned and the actual thinness, as I shall show—we must then seek another cause for nutrition.
 
 How is it, then, that the tendency of a vacuum to become refilled is unable to afford nourishment to one in such a condition? 
 

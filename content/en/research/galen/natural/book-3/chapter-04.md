@@ -11,9 +11,13 @@ c: "firebrick"
 
 The 2 faculties are clearly seen in the case of the uterus.
 
-In the case of the stomach they appear as follows:—Firstly in the condition of gurgling, which physicians are persuaded, and with reason, to be a symptom of weakness of the stomach; 
+In the stomach they appear as follows:
 
-for sometimes when the very smallest quantity of food has been ingested this does not occur, owing to the fact that the stomach is contracting accurately upon the food and constricting it at every point; sometimes when the stomach is full the gurglings yet make themselves heard as though it were empty.
+In gurgling, which is a symptom of weakness of the stomach.
+
+For sometimes when the very smallest quantity of food has been ingested this does not occur, owing to the fact that the stomach is contracting accurately upon the food and constricting it at every point.
+
+Sometimes when the stomach is full the gurglings yet make themselves heard as though it were empty.
 
 For if it be in a natural condition, employing its contractile faculty in the ordinary way, then, even if its contents be very small, it grasps the whole of them and does not leave any empty space. When it is weak, however, being unable to lay hold of its contents accurately, it produces a certain amount of vacant space, and allows the liquid contents to flow about in different directions in accordance with its changes of shape, and so to produce gurglings.
 
@@ -57,9 +61,13 @@ Then, when it is completely digested, the lower outlet opens and the food is qui
 
 <!-- And you may observe this yourself in an animal, if you will try to hit upon the time at which the descent of food from the stomach takes place.  -->
 
-But even if you should fail to discover the time, and nothing was yet passing down, and the food was still undergoing digestion in the stomach, still even then you would find dissection not without its uses. You will observe, as we have just said, that the pylorus is accurately closed, and that the whole stomach is in a state of contraction upon the food very much as the womb contacts upon the foetus.
+But even if you should fail to discover the time, and nothing was yet passing down, and the food was still undergoing digestion in the stomach, still even then you would find dissection not without its uses. 
 
-For it is never possible to find a vacant space in the uterus, the stomach, or in either of the two bladders—that is, either in that called bile-receiving318 or in the other; whether their contents be abundant or scanty, their cavities are seen to be replete and full, owing to the fact that their coats contract constantly upon the contents—so long, at least, as the animal is in a natural condition.
+The pylorus is accurately closed, and that the whole stomach is in a state of contraction upon the food very much as the womb contacts upon the foetus.
+
+For it is never possible to find a vacant space in the uterus, the stomach, or in either of the two bladders—that is, either in that called bile-receiving318 or in the other; 
+
+Whether their contents be abundant or scanty, their cavities are seen to be replete and full, owing to the fact that their coats contract constantly upon the contents—so long, at least, as the animal is in a natural condition.
 
 Erasistratus declares that it is the contractions319 of the stomach causes ofeverything:
 - the softening of the food,320

@@ -65,27 +65,31 @@ It is extremely careless to suppose that:
 
 For, to imagine that dropsy is never caused by the spleen240 or any other part, but always by induration of the liver,241 is the standpoint of a man whose intelligence is perfectly torpid and who is quite out of touch with things that happen every day.
 
-For, not merely once or twice, but frequently, we have observed dropsy produced by chronic haemorrhoids which have been suppressed,242 or which, through immoderate bleeding, have given the patient a severe chill; similarly, in women, the complete disappearance of the monthly discharge,243 or an undue evacuation such as is caused by violent bleeding from the womb, often provoke dropsy; and in some of them the so-called female flux ends in this disorder. 
+Frequently, we observe dropsy produced by chronic haemorrhoids.
+- These are suppressed or give the patient a severe chill through immoderate bleeding 
 
-I leave out of account the dropsy which begins in the flanks or in any other susceptible part; this clearly confutes Erasistratus’s assumption, although not so obviously as does that kind of dropsy which is brought about by an excessive chilling of the whole constitution; 
+Similarly, in women, the complete disappearance of the monthly discharge, or an undue evacuation such as is caused by violent bleeding from the womb, often provoke dropsy; and in some of them the so-called female flux ends in this disorder. 
 
-This, which is the primary reason for the occurrence of dropsy, results from a failure of blood-production,244 very much like the diarrhoea which follows imperfect digestion of food; certainly in this kind of dropsy neither the liver nor any other viscus becomes indurated.
+I leave out of account the dropsy which begins in the flanks or in any other susceptible part; this clearly confutes Erasistratus’s assumption. 
 
-Erasistratus despises what Hippocrates, Diocles, Praxagoras, Plato, Aristotle, Theophrastus and Philistion245 did not despise. 
+Although not so obviously as does that kind of dropsy which is brought about by an excessive chilling of the whole constitution; 
+
+This, which is the primary reason for the occurrence of dropsy, results from a failure of blood-production very much like the diarrhoea which follows imperfect digestion of food; certainly in this kind of dropsy neither the liver nor any other viscus becomes indurated.
+
+Erasistratus despises what Hippocrates, Diocles, Praxagoras, Plato, Aristotle, Theophrastus and Philistion did not despise. 
 
 <!-- he passes by whole functions as though it were but a trifling and casual department of medicine which he was neglecting, without deigning to argue whether or not these authorities are right in saying that the bodily parts of all animals are governed by the Warm, the Cold, the Dry and the Moist, the one pair being active and the other passive, and that among these the Warm has most power in connection with all functions, but especially with the genesis of the humours.246 
 
 Now, one cannot be blamed for not agreeing with all these great men, nor for imagining that one knows more than they; but not to consider such distinguished teaching worthy either of contradiction or even mention shows an extraordinary arrogance. -->
 
-Erasistratus is thoroughly small-minded and petty to the last degree in all his disputations—when, for instance, 
+<!-- Erasistratus is small-minded and petty to the last degree in all his disputations—when, for instance,  -->
 
-In his treatise “On Digestion”247, he argues jealously with those who consider that this is a process of putrefaction of the food; 
+In Erasistratus' his treatise:
+- “On Digestion”, he argues with those who think that digestion is the putrefaction of the food.
+- “On Anadosis,” he argues with those who think that the anadosis of blood through the veins results from the contiguity of the arteries
+- “On Respiration,” he argues with those who think that the air is forced along by contraction. 
 
-in his work “On Anadosis,”248 with those who think that the anadosis of blood through the veins results from the contiguity of the arteries; 
-
-in his work “On Respiration,” with those who maintain that the air is forced along by contraction. 
-
-He contradicted those who maintain that the urine passes into the bladder in a vaporous state,249 as also those who say that imbibed fluids are carried into the lung.
+He contradicted those who think that the urine passes into the bladder in a vapor as also those who say that imbibed fluids are carried into the lung.
 
 <!-- Thus he delights to choose always the most valueless doctrines, and to spend his time more and more in contradicting these; whereas on the subject of  -->
 
@@ -98,6 +102,6 @@ Erasistratus disputed with the ancients on the origin of blood.
 
 At the beginning of his treatise on “General Principles” he wrote how all the various natural functions take place, and through what parts of the animal!
 
-When the faculty which naturally digests food is weak, the animal’s digestion fails, whereas the faculty which turns the digested food into blood cannot suffer any kind of impairment?251 
+When the faculty which naturally digests food is weak, the animal’s digestion fails, whereas the faculty which turns the digested food into blood cannot suffer any kind of impairment?
 
 <!-- Are we to suppose this latter faculty alone to be as tough as steel and unaffected by circumstances? Or is it that weakness of this faculty will result in something else than dropsy?  -->
