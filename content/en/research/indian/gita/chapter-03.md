@@ -18,7 +18,19 @@ icon: "Krishna"
 {{< /r >}}
 
 
-3: O sinless Arjuna, There are two classes of men who try to realize the self. Some are inclined to understand it by empirical, philosophical speculation, and others by devotional service.
+{{< l a="Krishna" >}}
+<!-- 3: Arjuna, There are 2 classes of men who try to realize the self. Some are inclined to understand it by empirical, philosophical speculation, and others by devotional service. -->
+
+<sup>3</sup> There are 2 paths, 2 schools of wisdom.
+
+1. The Sankhya's
+
+This saves through the way of works or action or karma prescribed by reason
+
+2. The Yoga
+
+This is attained by meditation and spirituality.
+
 
 TEXT 4: Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection.
 
@@ -67,15 +79,6 @@ TEXT 43: Thus knowing oneself to be transcendental to the material senses, mind 
 
 
 {{< l a="Krishna" >}}
-<sup>3</sup> There are 2 paths, 2 schools of wisdom.
-
-1. The Sankhya's
-
-This saves through the way of works or action or karma prescribed by reason
-
-2. The Yoga
-
-This is attained by meditation and spirituality.
 
 <sup>4</sup> These are one.
 - No one can escape karma by shunning action.
@@ -250,3 +253,4 @@ Fight! vanquish foes and doubts, dear Hero! slay
 What haunts thee in fond shapes, and would betray!
  -->
 {{< /l >}}
+

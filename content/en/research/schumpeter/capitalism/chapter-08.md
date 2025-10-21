@@ -8,13 +8,41 @@ weight: 26
 ---
 
 
-What has been said so far is really sufficient to enable the reader to deal with the large majority of the practical cases he is likely to meet and to realize the inadequacy of most of those criticisms of the profit
-economy which, directly or indirectly, rely on the absence of perfect
-competition. 
+<!-- What has been said so far is really sufficient to enable the reader to deal with the large majority of the practical cases he is likely to meet and to realize the inadequacy of most of  -->
 
-Since, however, the bearing of our argument on some of those criticisms may not be obvious at a glance, it will be worth our while to elaborate a little in order to make a few points more explicit.
+The criticisms against the profit economy are inadequate.
 
-1. As a fact and as a threat, the impact of new things—new technologies for instance—on the existing structure of an industry considerably reduces the long-run scope and importance of practices that aim, through restricting output, at conserving established positions and at maximizing the profits accruing from them. We must now recognize the further fact that restrictive practices of this kind, as far as they are effective, acquire a new significance in the perennial gale of creative destruction, a significance which they would not have in a stationary state or in a state of slow and balanced growth. In either of these cases restrictive strategy would produce no result other than an increase in profits at the expense of buyers except that, in the case of balanced advance, it might still prove to be the easiest and most effective way of collecting the means by which to finance additional investment. 1 But in the process of creative destruction, restrictive practices may do much to steady the ship and to alleviate temporary difficulties.
+<!--  which, directly or indirectly, rely on the absence of perfect
+competition.  -->
+
+My argument on some of those criticisms might not be obvious.
+
+So I will explain a few points.
+
+1. Restricting output:
+- conserves established positions
+- maximizes profits
+
+<!-- As a fact and as a threat, The impact of new things—new technologies for instance—on  -->
+
+New things, such as new technologies, can impact the existing structure of an industry.
+- This considerably reduces the practices that restrict output
+
+<!-- long-run  scope and importance of  that aim, through  -->
+
+Such effective restrictive practices gain significance in creative destruction.
+
+They would not have such a significance in a state that is:
+- stationary or
+- of slow and balanced growth
+
+In either of these cases, restrictive strategy would only increase profits at the expense of buyers.
+
+In a balanced advance, it might be the easiest and most effective way of financing additional investment. 1 
+
+But in the process of creative destruction, restrictive practices may do much to:
+- steady the ship
+- alleviate temporary difficulties.
 
 <!-- 1 Theorists are apt to look upon anyone who admits this possibility as guilty of gross error,
 and to prove immediately that financing by borrowing from banks or from private savers or, in
@@ -27,49 +55,48 @@ solve, although they contribute to the solution of, the problem which we shall m
 the next part. -->
 
 
-This is in fact a very
-familiar argument which always turns up in times of depression and, as
-everyone knows, has become very popular with governments and their
-economic advisers—witness the NRA. While it has been so much misused
-and so faultily acted upon that most economists heartily despise it, those same advisers who are responsible for this 2 invariably fail to see its much
-more general rationale.
+This:
+- always turns up during depressions.
+- has become popular with governments and their economic advisers as seen in the National Recovery Administration.
 
-Practically any investment entails, as a necessary complement of
-entrepreneurial action, certain safeguarding activities such as insuring or
-hedging. Long-range investing under rapidly changing conditions,
-especially under conditions that change or may change at any moment
-under the impact of new commodities and technologies, is like shooting
-at a target that is not only indistinct but moving—and moving jerkily at
-that. Hence it becomes necessary to resort to such protecting devices as
-patents or temporary secrecy of processes or, in some cases, long-period
-contracts secured in advance. But these protecting devices which most
-economists accept as normal elements of rational management 3 are only
-special cases of a larger class comprising many others which most
-economists condemn although they do not differ fundamentally from the
-recognized ones.
+The National Recovery Administration has been so much misused and so faultily acted upon.
+- Most economists hate it
 
-If for instance a war risk is insurable, nobody objects to a firm’s
-collecting the cost of this insurance from the buyers of its products. But
-that risk is no less an element in long-run costs, if there are no facilities
-for insuring against it, in which case a price strategy aiming at the same
-end will seem to involve unnecessary restriction and to be productive of
-excess profits. Similarly, if a patent cannot be secured or would not, if
-secured, effectively protect, other means may have to be used in order to
-justify the investment. Among them are a price policy that will make it
-possible to write off more quickly than would otherwise be rational, or
-additional investment in order to provide excess capacity to be used only
-for aggression or defense. Again, if long-period contracts cannot be entered
-into in advance, other means may have to be devised in order to tie
-prospective customers to the investing firm.
+Those same advisers responsible for this fail to see its much more general rationale.
 
-In analyzing such business strategy ex visu of a given point of time, the
-investigating economist or government agent sees price policies that seem
-to him predatory and restrictions of output that seem to him synonymous
-with loss of opportunities to produce. He does not see that restrictions of this
-type are, in the conditions of the perennial gale, incidents, often unavoidable
-incidents, of a long-run process of expansion which they protect rather than
-impede. There is no more of paradox in this than there is in saying that motorcars are traveling faster than they otherwise would because they are
-provided with brakes.
+Any investment entails, as a necessary complement of entrepreneurial action, certain safeguarding activities such as insuring or hedging. 
+
+Long-range investing under rapidly changing conditions is like shooting at a target moving jerkily.
+- This is especially true under conditions that may change at any moment under the impact of new commodities and technologies,  
+Hence it becomes necessary to resort to such protecting devices as:
+- patents or temporary secrecy of processes or
+- long-period contracts secured in advance
+
+Most economists see these protecting devices as normal elements of rational management.
+- These are only special cases of a larger class comprising many others which most economists condemn although they do not differ fundamentally from the recognized ones.
+
+When a war risk is insurable, a firm can collect the cost of this insurance from the buyers of its products. 
+
+<!-- But that risk is no less an element in long-run costs, -->
+
+If there are no facilities for insuring against war, the firm might raise prices.
+- This will result in the same restriction that produces excess profits
+
+<!-- in which case a price strategy aiming at the same end will seem to involve unnecessary restriction and to be productive .  -->
+
+If a patent cannot be secured then other means may have to be used to justify the investment, such as:
+- a price policy that will make it possible to write off more quickly than would otherwise be rational, or 
+-additional investment to provide excess capacity to be used only for aggression or defense. 
+
+If long-period contracts cannot be entered into, other means may have to be devised to tie prospective customers.
+
+The government then sees:
+- price policies that seem predatory
+- output restrictions that seem loss of opportunities to produce
+
+The government does not see that restrictions of this type are, under perennial gale, unavoidable incidents of a long-run process of expansion which they protect rather than impede.
+
+This is like motorcars traveling faster than usual because they have brakes.
 
 <!-- 2 In particular, it is easy to show that there is no sense, and plenty of harm, in a policy that
 aims at preserving “price parities.”
@@ -79,16 +106,16 @@ is some truth in this. But that does not affect the proposition that the protect
 patents and so on is, in the conditions of a profit economy, on balance a propelling and not an
 inhibiting factor. -->
 
-2. This stands out most clearly in the case of those sectors of the economy
-which at any time happen to embody the impact of new things and methods
-on the existing industrial structure. The best way of getting a vivid and
-realistic idea of industrial strategy is indeed to visualize the behavior of new
-concerns or industries that introduce new commodities or processes (such as
-the aluminum industry) or else reorganize a part or the whole of an industry
-(such as, for instance, the old Standard Oil Company).
-As we have seen, such concerns are aggressors by nature and wield the
-really effective weapon of competition. Their intrusion can only in the
-rarest of cases fail to improve total output in quantity or quality, both
+
+2. This stands out most clearly in the case of those sectors of the economy which at any time happen to embody the impact of new things and methods on the existing industrial structure. 
+
+The best way to get a realistic idea of industrial strategy is to visualize the behavior of new industries that:
+- introduce new commodities or processes (such as the aluminum industry) or
+- reorganize an industry (such as, for instance, the old Standard Oil Company).
+
+Such industries are aggressors by nature and wield the really effective weapon of competition. 
+
+Their intrusion can only in the rarest of cases fail to improve total output in quantity or quality, both
 through the new method itself—even if at no time used to full advantage—
 and through the pressure it exerts on the preexisting firms. But these
 aggressors are so circumstanced as to require, for purposes of attack and
@@ -108,6 +135,8 @@ sense of fair play—railroad rebates—move, as far as long-run effects on
 total output alone are envisaged, into a different light; 4 they may be
 methods for removing obstacles that the institution of private property
 puts in the path of progress. In a socialist society that time and space
+would be no less necessary. They would have to be secured by order of
+the central authority.
 
 <!-- 4 The qualification added removes, I think, any just cause for offense that the above
 proposition might conceivably cause. In case that qualification is not explicit enough, I beg
@@ -123,6 +152,5 @@ is to say, it holds for conditions which are just about equivalent to excluding 
 creative destruction—capitalist reality. On reflection, it will be seen that the analogy of the
 practices under discussion with patents is sufficient to show this.  -->
 
-would be no less necessary. They would have to be secured by order of
-the central authority.
+
 
