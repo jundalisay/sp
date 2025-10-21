@@ -60,6 +60,7 @@ He calls this state εὐθυμία, and εὐεστὼ, and several other names
 Everything existing is based on opinion. But atoms and the vacuum he believes exist by nature. 
 
 
+### Democritus' Works
 
 <sup>13</sup> Thrasylus has given a regular catalog of his works. 
 

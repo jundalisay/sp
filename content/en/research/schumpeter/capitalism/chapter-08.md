@@ -113,30 +113,34 @@ The best way to get a realistic idea of industrial strategy is to visualize the 
 - introduce new commodities or processes (such as the aluminum industry) or
 - reorganize an industry (such as, for instance, the old Standard Oil Company).
 
-Such industries are aggressors by nature and wield the really effective weapon of competition. 
+Such industries are aggressors and wield the weapon of competition. 
 
-Their intrusion can only in the rarest of cases fail to improve total output in quantity or quality, both
-through the new method itself—even if at no time used to full advantage—
-and through the pressure it exerts on the preexisting firms. But these
-aggressors are so circumstanced as to require, for purposes of attack and
-defense, also pieces of armor other than price and quality of their product
-which, moreover, must be strategically manipulated all along so that at any
+Their intrusion improves total output in quantity or quality through:
+- the new method
+- the pressure it exerts on the preexisting firms
+
+But these aggressors require armor for attack and defense other than price and quality of their product.
+<!-- which, moreover, must be strategically manipulated all along so that at any
 point of time they seem to be doing nothing but restricting their output and
-keeping prices high.
+keeping prices high. -->
 
-On the one hand, largest-scale plans could in many cases not
-materialize at all if it were not known from the outset that competition
-will be discouraged by heavy capital requirements or lack of experience,
-or that means are available to discourage or checkmate it so as to gain
-the time and space for further developments. Even the conquest of
-financial control over competing concerns in otherwise unassailable
-positions or the securing of advantages that run counter to the public’s
-sense of fair play—railroad rebates—move, as far as long-run effects on
-total output alone are envisaged, into a different light; 4 they may be
-methods for removing obstacles that the institution of private property
-puts in the path of progress. In a socialist society that time and space
-would be no less necessary. They would have to be secured by order of
-the central authority.
+The largest-scale plans might not materialize at all because of:
+- capital requirements
+- lack of experience
+<!-- or that means are available to discourage or checkmate it so as to gain
+the time and space for further developments.  -->
+
+The conquest to gain monopolistic financial control might run counter to the public’s sense of fair play.
+
+<!--  over competing concerns in otherwise unassailable
+positions or the securing of advantages that —railroad rebates—move, as far as long-run effects on
+total output alone are envisaged, into a different light; 4  -->
+
+They might be methods to remove obstacles that private property puts in the path of progress. 
+
+In a socialist society, that time and space would be no less necessary.
+
+They would have to be secured by order of the central authority.
 
 <!-- 4 The qualification added removes, I think, any just cause for offense that the above
 proposition might conceivably cause. In case that qualification is not explicit enough, I beg
@@ -151,6 +155,3 @@ can be framed in support of this view. But it is subject to a severe ceteris par
 is to say, it holds for conditions which are just about equivalent to excluding the process of
 creative destruction—capitalist reality. On reflection, it will be seen that the analogy of the
 practices under discussion with patents is sufficient to show this.  -->
-
-
-
