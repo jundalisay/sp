@@ -1,6 +1,6 @@
 ---
 heading: Section 8a
-title: "Malice and Envy"
+title: "Malice and Envy (Schadenfreude)"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 weight: 34

@@ -104,10 +104,8 @@ Rather, they do not believe.
 
 <sup>46</sup> The Day when their ploys will avail them nothing; and they will not be helped.
 
-<sup>47</sup>For those who do wrong, there is a punishment besides that; but most of them do not
-know.
+<sup>47</sup>For those who do wrong, there is a punishment besides that. But most of them do not know.
 
-<sup>48</sup> So patiently await the decision of your Lord, for you are before Our Eyes; and proclaim the praises of your Lord when you arise.
+<sup>48</sup> So patiently await the decision of Enki, for you are before Our Eyes. Proclaim the praises of Enki when you arise.
 
 <sup>49</sup> Glorify Him during the night, and at the receding of the stars.
-
