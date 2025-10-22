@@ -16,9 +16,7 @@ C The Ratio of Powers
 Remark
  -->
 
-§ 695
-
-The quantitative infinite and also the difficulties associated with it have their origin in the qualitative moment which makes its appearance in the sphere of quantity, and also how the qualitative moment of the ratio of powers in particular is the source of various developments and complexities. 
+<sup>695</sup> The quantitative infinite and also the difficulties associated with it have their origin in the qualitative moment which makes its appearance in the sphere of quantity, and also how the qualitative moment of the ratio of powers in particular is the source of various developments and complexities. 
 
 The chief obstacle to a grasp of the Notion of this infinite is the stopping short at its merely negative determination as the negation of quantum, instead of advancing to the simple affirmative determination which is the qualitative moment. 
 
@@ -200,5 +198,3 @@ Now these repelled determinations do not possess themselves, do not emerge as se
 § 806
 
 Thus we see that being in general and the being or immediacy of the distinct determinatenesses, no less than the implicit being, has vanished and the unity is being, an immediate presupposed totality such that it is this simple self-relation only as a result of the sublating of this presupposition, and this presupposedness and immediate being is itself only a moment of its repelling, the original self-subsistence and self-Identity is only as the resulting coming together with itself. Being, in its determining, has thus determined itself to essence, a being which, through the sublating of being, is a simple being-with-itself. ®
-
-ESSENCE - Second Part of The Logic

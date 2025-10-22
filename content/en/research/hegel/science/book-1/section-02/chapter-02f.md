@@ -12,9 +12,15 @@ c: "steelblue"
 
 § 608
 
-In the previous Remark we considered on the one hand the specific nature of the notion of the infinitesimal which is used in the differential calculus, and on the other the basis of its introduction into the calculus; both are abstract determinations and therefore in themselves also easy. 
+My previous Remark considered:
+- the specific nature of the infinitesimal used in the differential calculus
+- the basis of its introduction into the calculus
 
-The so-called application, however, presents greater difficulties, but also the more interesting side; the elements of this concrete side are to be the object of this Remark. The whole method of the differential calculus is complete in the proposition that dxn = nx(n - 1)dx, or (f(x + i) - fx)/i = P, that is, is equal to the coefficient of the first term of the binomial x + d, or x + 1, developed according to the powers of dx or i. 
+Both are abstract determinations and therefore in themselves also easy. 
+
+The application, however, presents greater but interesting difficulties.
+
+The elements of this concrete side are to be the object of this Remark. The whole method of the differential calculus is complete in the proposition that dxn = nx(n - 1)dx, or (f(x + i) - fx)/i = P, that is, is equal to the coefficient of the first term of the binomial x + d, or x + 1, developed according to the powers of dx or i. 
 
 There is no need to learn anything further: the development of the next forms, of the differential of a product, of an exponential magnitude and so on, follows mechanically; in little time, in half an hour perhaps — for with the finding of the differential the converse the finding of the original function from the differential, or integration, is also given — one can be in possession of the whole theory.
 

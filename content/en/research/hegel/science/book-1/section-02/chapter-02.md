@@ -3,41 +3,63 @@ heading: Chapter 2
 title: "Quantum"
 weight: 8
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
-author: Hegel
+writer:
+  name: Hegel
+  url: https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
 icon: "Hegel"
 c: "steelblue"
 ---
 
 
 
-§ 437
+<sup>437</sup> Quantum is quantity with a determinateness or limit in general.
 
-Quantum, which to begin with is quantity with a determinateness or limit in general is, in its complete determinateness, number. 
+It is number in its complete determinateness. 
 
-Quantum differentiates itself secondly, into (a) extensive quantum, in which the limit is a limitation of the determinately existent plurality; and (b) intensive quantum or degree, the determinate being having made the transition into being-for-self. Intensive quantum as both for itself and at the same time immediately outside itself — since it is an indifferent limit — has its determinateness in an other. As this manifest contradiction of being determined simply within itself yet having its determinateness outside it, pointing outside itself for it, quantum posited as being in its own self external to itself, passes over thirdly, into quantitative infinity.
+Quantum differentiates itself secondly, into:
+
+1. Extensive quantum
+
+Here, the limit is a limitation of the determinately existent plurality
+
+2. Intensive quantum or degree
+
+Here, the determinate being transitioned into being-for-self.
+
+Intensive quantum as both for itself and at the same time immediately outside itself — since it is an indifferent limit — has its determinateness in an other.
+
+This manifest contradiction of being determined simply within itself yet having its determinateness outside it, pointing outside itself for it, quantum posited as being in its own self external to itself, passes over thirdly, into quantitative infinity.
 
 
-A. NUMBER
+## A. NUMBER
 
-§ 438
 
-Quantity is quantum, or has a limit, both as continuous and as discrete magnitude. The difference between these two kinds has here, in the first instance, no immediate significance.
+<sup>438</sup> Quantity is quantum, or has a limit, both as continuous and as discrete magnitude. 
 
-§ 439
+The difference between these 2 kinds has here, in the first instance, no immediate significance.
 
-The very nature of quantity as sublated being-for-self is ipso facto to be indifferent to its limit. But equally, too, quantity is not unaffected by the limit or by being, a quantum; for it contains within itself as its own moment the one, which is absolutely determined and which, therefore, as posited in the continuity or unity of quantity, is its limit, but a limit which remains what it has become, simply a one.
+<sup>439</sup> The very nature of quantity as sublated being-for-self is ipso facto to be indifferent to its limit. But equally, too, quantity is not unaffected by the limit or by being, a quantum; for it contains within itself as its own moment the one, which is absolutely determined and which, therefore, as posited in the continuity or unity of quantity, is its limit, but a limit which remains what it has become, simply a one.
 
-§ 440
 
-This one is thus the principle of quantum, but as the one of quantity. Hence, first, it is continuous, it is a unity; secondly, it is discrete, a plurality of ones, which is implicit in continuous, or explicit in discrete magnitude, the ones having equality with one another, possessing the said continuity, the same unity. Thirdly, this one is also a negation of the many ones as a simple limit, an excluding of its otherness from itself, a determination of itself in opposition to other quanta. Thus the one is [a] self-relating, [b] enclosing and [c] other-excluding limit.
+<sup>440</sup> This one is thus the principle of quantum, but as the one of quantity.
 
-§ 441
+Hence:
 
-Quantum completely posited in these determinations is number. The complete positedness lies in the existence of the limit as a plurality and so in its distinction from the unity. Consequently, number appears as a discrete magnitude, but in the unity it equally possesses continuity. It is, therefore, also quantum in its complete determinateness, for its principle the one, the absolutely determinate. Continuity, in which the one is present only in principle, as a sublated moment — posited as a unity — is the form of indeterminateness.
+1. It is continuous, a unity
+2. It is discrete, a plurality of ones, which is implicit in continuous, or explicit in discrete magnitude, the ones having equality with one another, possessing the said continuity, the same unity
+3. This one is also a negation of the many ones as a simple limit, an excluding of its otherness from itself, a determination of itself in opposition to other quanta. 
 
-§ 442
+Thus the one is [a] self-relating, [b] enclosing and [c] other-excluding limit.
 
-Quantum, merely as such, is limited generally; its limit is an abstract simple determinateness of it. But in quantum as number, this limit is posited as manifold within itself. It contains the many ones which constitute its determinate being, but does not contain them in an indeterminate manner, for the determinateness of the limit falls in them; the limit excludes other determinate being, that is, other pluralities and the ones it encloses are a specific aggregate, the amount — which is the form taken by discreteness in number — the other to which is the unit, the continuity of the amount. Amount and unit constitute the moments of number.
+
+<sup>441</sup> Quantum completely posited in these determinations is number. 
+
+The complete positedness lies in the existence of the limit as a plurality and so in its distinction from the unity. 
+
+Consequently, number appears as a discrete magnitude, but in the unity it equally possesses continuity. It is, therefore, also quantum in its complete determinateness, for its principle the one, the absolutely determinate. Continuity, in which the one is present only in principle, as a sublated moment — posited as a unity — is the form of indeterminateness.
+
+
+<sup>442</sup> Quantum, merely as such, is limited generally; its limit is an abstract simple determinateness of it. But in quantum as number, this limit is posited as manifold within itself. It contains the many ones which constitute its determinate being, but does not contain them in an indeterminate manner, for the determinateness of the limit falls in them; the limit excludes other determinate being, that is, other pluralities and the ones it encloses are a specific aggregate, the amount — which is the form taken by discreteness in number — the other to which is the unit, the continuity of the amount. Amount and unit constitute the moments of number.
 
 § 443
 
@@ -50,22 +72,16 @@ Now the limiting one is the number as determined relatively to other numbers, as
 
 
 
-Remark 1: The Species of Calculation in Arithmetic; Kant's Synthetic Propositions a priori
+## Remark 1: The Species of Calculation in Arithmetic; Kant's Synthetic Propositions a priori
+
+<sup>445</sup> Spatial magnitude and numerical magnitude are usually regarded as two species, the former being on its own account a determinate magnitude just as much as the latter.
+
+Their difference is held to consist only in the different determinations of continuity and discreteness, but as quantum they stand on the same level. 
+
+In spatial magnitude, geometry has, in general, continuous magnitude for its subject matter while the subject matter of arithmetic is the discrete magnitude of number. But with this dissimilarity of their subject matter, the manner and completeness of their limitation or determinedness is also different. Spatial magnitude possesses only limitation generally; if it is to be considered as a thoroughly determinate quantum then number is required. Geometry as such does not measure spatial figures (it is not mensuration), but only compares them. In its definitions, too, the determinations are in part derived from the equality of the sides and angles, or from equidistance. Thus the circle, because it is based solely on the equidistance of all possible points in it from a centre, does not require number for its determination. These determinations based on equality or inequality are genuinely geometrical. But they are not sufficient, and for other figures, for example, the triangle or rectangle, number is requisite; this in its principle, the one, contains a self-determinedness, it is determined without the aid of an other and therefore not through comparison. It is true that in the point, spatial magnitude has a determinateness corresponding to the one; but the point, in becoming external to itself, becomes an other, becomes the line; because it is essentially only a spatial one, it becomes in the relation a continuity in which the nature of the point, the self-determinedness, the one, is sublated. In so far as the self-determinedness is supposed to be preserved in the self-externality, the line must be represented as an aggregate of ones, and to the limit must be imparted the determination of the many ones, that is, the magnitude of the line — and similarly of other spatial determinations — must be taken as a number.
 
 
-Hegel’s Science of Logic
-
-Quantum
-
-Remark 1: The Species of Calculation in Arithmetic; Kant's Synthetic Propositions a priori of Intuition
-
-§ 445
-
-Spatial magnitude and numerical magnitude are usually regarded as two species, the former being on its own account a determinate magnitude just as much as the latter; their difference is held to consist only in the different determinations of continuity and discreteness, but as quantum they stand on the same level. In spatial magnitude, geometry has, in general, continuous magnitude for its subject matter while the subject matter of arithmetic is the discrete magnitude of number. But with this dissimilarity of their subject matter, the manner and completeness of their limitation or determinedness is also different. Spatial magnitude possesses only limitation generally; if it is to be considered as a thoroughly determinate quantum then number is required. Geometry as such does not measure spatial figures (it is not mensuration), but only compares them. In its definitions, too, the determinations are in part derived from the equality of the sides and angles, or from equidistance. Thus the circle, because it is based solely on the equidistance of all possible points in it from a centre, does not require number for its determination. These determinations based on equality or inequality are genuinely geometrical. But they are not sufficient, and for other figures, for example, the triangle or rectangle, number is requisite; this in its principle, the one, contains a self-determinedness, it is determined without the aid of an other and therefore not through comparison. It is true that in the point, spatial magnitude has a determinateness corresponding to the one; but the point, in becoming external to itself, becomes an other, becomes the line; because it is essentially only a spatial one, it becomes in the relation a continuity in which the nature of the point, the self-determinedness, the one, is sublated. In so far as the self-determinedness is supposed to be preserved in the self-externality, the line must be represented as an aggregate of ones, and to the limit must be imparted the determination of the many ones, that is, the magnitude of the line — and similarly of other spatial determinations — must be taken as a number.
-
-§ 446
-
-Arithmetic considers number and its figures; or rather does not consider them but operates with them. For number is the determinateness which is indifferent, inert; it must be actuated from without and so brought into a relation. The modes of relation are the species of calculation. In arithmetic they are presented seriatim and it is clear that one depends on the other; but the thread which links the progressive stages is not made prominent in arithmetic. However, the systematic arrangement justly claimed for the presentation of these elements in the textbooks is readily provided by the determinations of number itself stemming from its Notion. These cardinal determinations will be briefly noted here.
+<sup>446</sup> Arithmetic considers number and its figures; or rather does not consider them but operates with them. For number is the determinateness which is indifferent, inert; it must be actuated from without and so brought into a relation. The modes of relation are the species of calculation. In arithmetic they are presented seriatim and it is clear that one depends on the other; but the thread which links the progressive stages is not made prominent in arithmetic. However, the systematic arrangement justly claimed for the presentation of these elements in the textbooks is readily provided by the determinations of number itself stemming from its Notion. These cardinal determinations will be briefly noted here.
 
 § 447
 
@@ -169,6 +185,3 @@ But the perversity of employing mathematical categories for the determination of
 § 471
 
 As for the supposed primary importance of number and calculation in an educational regard, the truth of the matter is clearly evident from what has been said. Number is a non-sensuous object, and occupation with it and its combinations is a non-sensuous business; in it mind is held to communing with itself and to an inner abstract labour, a matter of great though one-sided importance. For, on the other hand, since the basis of number in only an external, thoughtless difference, such occupation is an unthinking, mechanical one. The effort consists mainly in holding fast what is devoid of the Notion and in combining it purely mechanically. The content is the empty one; the substantial content of moral and spiritual life in its various forms on which, as the noblest aliment, education should nurture the young mind, is to be supplanted by the blank one or unit; when such exercise is made the prime interest and occupation, the only possible outcome must be to dull the mind and to empty it of both form and substance. Calculation being so much an external and therefore mechanical business, it has been possible to construct machines which perform arithmetical operations with complete accuracy. A knowledge of just this one fact about the nature of calculation is sufficient for an appraisal of the idea of making calculation the principal means for educating the mind and stretching it on the rack in order to perfect it as a machine.
-
-
-

@@ -1,9 +1,11 @@
 ---
 heading: Chapter 3b
-title: "B. THE ONE AND THE MANY"
+title: "B. The One And The Many"
 weight: 14
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
-author: Hegel
+writer:
+  name: Hegel
+  url: https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
 icon: "Hegel"
 c: "steelblue"
 ---
