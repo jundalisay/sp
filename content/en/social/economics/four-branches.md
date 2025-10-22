@@ -7,7 +7,7 @@ description : "The 4 branches of Superphysics are Personal, Social, Micro, Macro
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 toc: false
 ---
 
@@ -58,7 +58,7 @@ This is measured by the Trade factor in the DCTI model.
 
 ### 4. Macro Economy from The Fourth Law
 
-![Taxation](/photos/tax.jpg)
+![Taxation](/photos/econ/tax.jpg)
 
 This explains the maintenance of the economic system. This includes regulations, taxation, policies of money, trade, and finance.
 

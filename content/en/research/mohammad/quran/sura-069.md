@@ -67,4 +67,3 @@ He does not have any friend here today.
 - It is a revelation from the Lord of the Worlds.
 - If the Prophet Muhammad had made up some false statements about Us, We would have cut his from the aorta causing immediate death. 
 - The Quran is a reminder for the righteous.  
-

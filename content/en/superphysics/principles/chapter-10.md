@@ -73,6 +73,8 @@ It is this spirituality and wisdom that gives the added mental and spiritual str
 - A sustained, proper ideology leads to Golden Ages
 - A decline in ideology leads to Dark Ages
 
+A **doctrine**, from Latin *doctorina* meaning "teaching", is a formal teaching for some profession or practice. This is opposed to lesson, from Latin *lection* meaning "reading", which is for general learning.
+
 <!-- - Ideation is the verb for ideology, just as thinking is the verb for epistemology.  
 - Epistemology is therefore -->
 

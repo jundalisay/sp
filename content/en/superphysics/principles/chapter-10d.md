@@ -48,4 +48,6 @@ For example, John Locke's basis for human rights is the will of God.
 
 ## Entity Rights as a Solution
 
-Instead of defining a rigid or casuistic system of human rights, we propose a flexible system called Enttiy Rights. 
+Instead of defining a rigid or casuistic system of human rights, we propose a flexible system called Entiy Rights. 
+
+

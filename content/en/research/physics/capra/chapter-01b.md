@@ -52,23 +52,29 @@ tion of Greek science and culture in the 5th and 4th centuries B.C.  -->
 
 ### Aristotle
 
-The scientific knowledge of antiquity was systematized and organized by Aristotle, who created the scheme which was to be the basis of the Western view of the universe for 2,000 years.
+The scientific knowledge of antiquity was systematized and organized by Aristotle, who created the scheme which would be the basis of the Western view of the universe for 2,000 years.
 
-But Aristotle himself believed that questions concerning the human soul and the contemplation of God’s perfection were much more valuable than investigations of the material world. 
+But Aristotle believed that questions on the human soul and God’s perfection were much more valuable than investigations of the material world.
 
-The reason the Aristotelian model of the universe remained unchallenged for so long was precisely this lack of interest in the material world, and the strong hold of the Christian Church which supported Aristotle’s doctrines throughout the Middle Ages.
+The Aristotelian model of the universe remained unchallenged for so long was:
+- this lack of interest in the material world
+- the strong hold of the Christian Church which supported Aristotle’s doctrines throughout the Middle Ages.
 
-Further development of Western science had to wait until the Renaissance, when men began to free themselves from the influence of Aristotle and the Church and showed a new interest in nature.
+Further development of Western science had to wait until the Renaissance, when men:
+- began to free themselves from the influence of Aristotle and the Church, and
+- showed a new interest in nature
 
-In the late fifteenth century, the study of nature was approached, for the first time, in a truly scientific spirit and experiments were undertaken to test speculative ideas. 
+In the late 15th century, the study of nature was approached, for the first time, in a truly scientific spirit.
 
-As this development was paralleled by a growing interest in mathematics, it finally led to the formulation of proper scientific theories, based on experiment and expressed in
-mathematical language. 
+Experiments were undertaken to test speculative ideas. 
 
-Galileo was the first to combine empirical knowledge with mathematics and is therefore seen
-as the father of modern science.
+This development was paralleled by a growing interest in mathematics which led to the formulation of proper scientific theories, based on experiment and expressed in mathematical language. 
 
-The birth of modern science was preceded and accompanied by a development of philosophical thought which led to an extreme formulation of the spirit/matter dualism. 
+Galileo:
+- was the first to combine empirical knowledge with mathematics
+- is therefore seen as the father of modern science
+
+The birth of modern science was accompanied by a development of philosophical thought which led to an extreme formulation of the spirit/matter dualism. 
 
 This formulation appeared in the 17th century in the philosophy of Rene Descartes who based his view of nature on a fundamental division into 2 separate and independent realms:
 - that of mind (res cogitans)
@@ -78,17 +84,17 @@ The ‘Cartesian’ division allowed scientists to:
 - treat matter as dead and completely separate from themselves, and
 - see the material world as a multitude of different objects assembled into a huge machine. 
 
-Such a mechanistic world view was held by Isaac Newton who constructed his mechanics on its basis
-and made it the foundation of classical physics. 
+Such a mechanistic world view was held by Isaac Newton who constructed his mechanics on its basis and made it the foundation of classical physics. 
 
 From the second half of the 17th to the end of the 19th century, the mechanistic Newtonian model of the universe dominated all scientific thought.
 
-It was paralleled by the image of a monarchical God who ruled the world from above by imposing
-his divine law on it. 
+It was paralleled by the image of a monarchical God who ruled the world from above by imposing his divine law on it. 
 
 The fundamental laws of nature searched for by the scientists were thus seen as the laws of God, invariable and eternal, to which the world was subjected.
 
-The philosophy of Descartes was not only important for the development of classical physics, but also had a tremendous influence on the general Western way of thinking up to the present day.
+The philosophy of Descartes:
+- was important for the development of classical physics
+- had a tremendous influence on the Western way of thinking up to today.
 
 Descartes’ famous sentence ‘Cogito ergo sum’- ‘I think, therefore I exist’-has led Western man to equate his identity with his mind, instead of with his whole organism. 
 
@@ -106,10 +112,12 @@ The fragmented view is further extended to society which is split into different
 
 The belief that all these fragments-in ourselves, in our environment and in our society-are really separate can be seen as the essential reason for the present series of social, ecological and cultural crises. 
 
-It has alienated us from nature and from our fellow human beings. It has brought a grossly unjust distribution of natural resources creating economic and political disorder; an ever rising wave of violence, both spontaneous and institutionalized, and an ugly, polluted environment in
-which life has often become physically and mentally unhealthy.
+It has alienated us from nature and from our fellow human beings. It has brought a grossly unjust distribution of natural resources creating economic and political disorder; an ever rising wave of violence, both spontaneous and institutionalized, and an ugly, polluted environment in which life has often become physically and mentally unhealthy.
 
-The Cartesian division and the mechanistic world view have thus been beneficial and detrimental at the same time. They were extremely successful in the development of classical physics and technology, but had many adverse consequences for our civilization.
+The Cartesian division and the mechanistic world view was thus beneficial and detrimental at the same time.
+
+They were successful in the development of classical physics and technology.
+
+But they had many adverse consequences for our civilization.
 
 20th-century science originated in the Cartesian split and in the mechanistic world view, and which only became possible because of such a view, now overcomes this fragmentation and leads back to the idea of unity expressed in the early Greek and Eastern philosophies.
-

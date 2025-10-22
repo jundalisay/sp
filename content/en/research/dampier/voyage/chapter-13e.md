@@ -12,7 +12,7 @@ icon: "William Dampier"
 
 
 
-## The General'S Foul Dealing And Exactions
+## The General's Foul Dealing and Exactions
 
 Captain Swan was much vexed at the general's actions for he promised to supply us with as much beef as we want. But now he  would not make good his promise. 
 
@@ -29,7 +29,7 @@ He lent it the general. But when he came to an account with Captain Swan, he tol
 He also demanded payment for the victuals that our captain and his men did eat at his house.
 
 
-## Captain Swan'S Uneasiness And Indiscreet Management
+## Captain Swan's Uneasiness And Indiscreet Management
 
 These things startled Captain Swan, yet how to help himself he knew not. 
 
@@ -139,7 +139,10 @@ But he did not.
 
 So we left Captain Swan and about 36 men ashore in the city, and 6-8 that ran away; and about 16 we had buried there, the most of which died by poison.
 
-The natives are very expert at poisoning and do it on small occasions: nor did our men want for giving offence through their general rogueries, and sometimes by dallying too familiarly with their women, even before their faces.
+The natives are very expert at poisoning and do it on small occasions.
 
-Some of their poisons are slow and lingering; for we had some now aboard who were poisoned there but died not till some months after.
+Our men did offend them through:
+- their general rogueries
+- dallying too familiarly with their women, even before their faces.
 
+Some of their poisons are slow and lingering. We had some now aboard who were poisoned there but died some months later.

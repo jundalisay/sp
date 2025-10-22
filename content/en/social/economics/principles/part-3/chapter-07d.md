@@ -10,7 +10,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 aliases:
-  /mdp
+  /ndp
 ---
 
 

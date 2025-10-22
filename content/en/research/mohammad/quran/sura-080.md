@@ -18,16 +18,15 @@ But to those who came to you striving for knowledge, you were inattentive.
 
 These verses are a reminder. 
 
-12. So whoever wills may remember it. 1729
+<sup>12</sup> So whoever wills may remember it.
 
-13. [It is recorded] in honored sheets,
+<sup>13</sup> [It is recorded] in honored sheets,
 
 14. Exalted and purified,
 
 15. [Carried] by the hands of messenger-angels,
 
 16. Noble and dutiful. 
-
 
 17. Destroyed [i.e., cursed] is man how disbelieving is he.
 

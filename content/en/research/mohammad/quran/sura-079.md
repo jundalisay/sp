@@ -14,33 +14,33 @@ description: "This is the Book in which there is no doubt, a guide for the right
 - race each other
 - who arrange each matter
 
-7. There will follow it the subsequent [one].
+<sup>7</sup> There will follow it the subsequent [one].
 
-8. Hearts, that Day, will tremble,
+<sup>8</sup> Hearts, that Day, will tremble,
 
-9. Their eyes humbled.
+<sup>9</sup> Their eyes humbled.
 
-10. They ask: 
+<sup>10</sup> They ask: 
 
 {{< r a="People" >}}
 Will we be returned to our former state [as slaves to the Anunnaki]? 11. Even if we should be decayed bones? 
 
-12. That, then,would be a losing proposition.
+<sup>12</sup> That, then,would be a losing proposition.
 {{< /r >}}
 
-13. But it will be only a single nudge 14. and suddenly they will be awakened.
+<sup>13</sup> But it will be only a single nudge 14. and suddenly they will be awakened.
 
-15-16. Do you know the story of Moses? The Lord called Moses in the sacred valley of Tuwa:
+<sup>15-16</sup> Do you know the story of Moses? The Lord called Moses in the sacred valley of Tuwa:
 
 {{< l a="Enki" >}}
-17. "Go to Pharaoh as he has transgressed. 18. Say to him, 'Would you [be willing to] purify yourself 19. And let me guide you to your Lord so you would fear [Him]?'
+<sup>17</sup> Go to Pharaoh as he has transgressed. 18. Say to him, 'Would you [be willing to] purify yourself 19. And let me guide you to your Lord so you would fear [Him]?'
 {{< /l >}}
 
-20. Moses showed him the greatest sign
+<sup>20</sup> Moses showed him the greatest sign
 
-21. But the Pharaoh denied and disobeyed.
+<sup>21</sup> But the Pharaoh denied and disobeyed.
 
-22. Then he turned his back, plotting. 23. He gathered his people and called out:
+<sup>22</sup> Then he turned his back, plotting. 23. He gathered his people and called out:
 
 {{< r a="Pharaoh" >}}
 <sup>24</sup> I am your most exalted lord.
@@ -68,11 +68,11 @@ Will we be returned to our former state [as slaves to the Anunnaki]? 11. Even if
 
 <sup>37</sup> Those who transgressed and preferred the life of the world, Hellfire will be his refuge.
 
-40. But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination,
+<sup>40</sup> But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination,
 
-41. Then Paradise will be [his] refuge.
+<sup>41</sup> Then Paradise will be [his] refuge.
 
-42. They ask you: 
+<sup>42</sup> They ask you: 
 
 {{< r a="Disbelievers" >}}
 O Muhammad when is the Hour of its arrival?
@@ -85,3 +85,4 @@ You do not know it because only Enki knows.
 <!-- 46. It will be, on the Day they see it, 1723 as though they had not
 remained [in the world] except for an afternoon or a morning
 thereof. -->
+

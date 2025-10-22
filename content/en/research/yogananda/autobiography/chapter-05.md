@@ -9,23 +9,47 @@ weight: 18
 
 “To every thing there is a season, and a time to every purpose under the heaven.”
 
-I did not have this wisdom of Solomon to comfort me; I gazed searchingly about me, on any excursion from home, for the face of my destined guru. But my path did not cross his own until after the completion of my high school studies.
+I did not have this wisdom of Solomon to comfort me; 
 
-Two years elapsed between my flight with Amar toward the Himalayas, and the great day of Sri Yukteswar’s arrival into my life. During that interim I met a number of sages-the “Perfume Saint,” the “Tiger Swami,” Nagendra Nath Bhaduri, Master Mahasaya, and the famous Bengali scientist, Jagadis Chandra Bose.
+I gazed searchingly on any excursion from home for the face of my destined guru.
 
-My encounter with the “Perfume Saint” had two preambles, one harmonious and the other humorous.
+ <!-- my path did not cross his own until after the -->
+But I needed to finish my high school studies.
+
+Two years elapsed between:
+- my flight with Amar toward the Himalayas, and
+- the great day of Sri Yukteswar’s arrival into my life
+
+During that interim I met a number of sages:
+- the “Perfume Saint”
+- the “Tiger Swami”
+- Nagendra Nath Bhaduri
+- Master Mahasaya
+- the famous Bengali scientist, Jagadis Chandra Bose
+
+My encounter with the “Perfume Saint” had 2 preambles:
+
+1. Harmonious
+2. Humorous
 
 “God is simple. Everything else is complex. Do not seek absolute values in the relative world of nature.”
 
 These philosophical finalities gently entered my ear as I stood silently before a temple image of Kali. Turning, I confronted a tall man whose garb, or lack of it, revealed him a wandering sadhu.
 
-“You have indeed penetrated the bewilderment of my thoughts!” I smiled gratefully. “The confusion of benign and terrible aspects in nature, as symbolized by Kali, 5-1 has puzzled wiser heads than mine!”
+{{< l a="Yogananda" >}}
+You have penetrated my bewilderment!
+{{< /l >}}
 
-“Few there be who solve her mystery! Good and evil is the challenging riddle which life places sphinxlike before every intelligence. Attempting no solution, most men pay forfeit with their lives, penalty now even as in the days of Thebes. Here and there, a towering lonely figure never cries defeat. From the maya 5-2 of duality he plucks the cleaveless truth of unity.”
+{{< r a="Perfume Saint" >}}
+The confusion of benign and terrible aspects in nature, as symbolized by Kali, has puzzled wiser heads than mine!
 
-“You speak with conviction, sir.”
+Few have solved her mystery! Good and evil is the challenging riddle which life places sphinxlike before every intelligence. 
 
-“I have long exercised an honest introspection, the exquisitely painful approach to wisdom. Self-scrutiny, relentless observance of one’s thoughts, is a stark and shattering experience. It pulverizes the stoutest ego. But true self-analysis mathematically operates to produce seers. The way of ‘self-expression,’ individual acknowledgments, results in egotists, sure of the right to their private interpretations of God and the universe.”
+Attempting no solution, most men pay forfeit with their lives, penalty now even as in the days of Thebes. Here and there, a towering lonely figure never cries defeat. From the maya 5-2 of duality he plucks the cleaveless truth of unity.
+
+I have long exercised an honest introspection, the exquisitely painful approach to wisdom. Self-scrutiny, relentless observance of one’s thoughts, is a stark and shattering experience. It pulverizes the stoutest ego. But true self-analysis mathematically operates to produce seers. The way of ‘self-expression,’ individual acknowledgments, results in egotists, sure of the right to their private interpretations of God and the universe.
+{{< /r >}}
+
 
 “Truth humbly retires, no doubt, before such arrogant originality.” I was enjoying the discussion.
 
@@ -176,5 +200,4 @@ Illusion works impenetrable, Weaving webs innumerable, Her gay pictures never fa
 “M. Claude explained how the sea could be turned by oxygen transformations into many millions of pounds of horsepower; how water which boils is not necessarily burning; how little mounds of sand, by a single whiff of the oxygen blowpipe, could be changed into sapphires, rubies, and topazes; and he predicted the time when it will be possible for men to walk on the bottom of the ocean minus the diver’s equipment. Finally the scientist amazed his onlookers by turning their faces black by taking the red out of the sun’s rays.”
 
 This noted French scientist has produced liquid air by an expansion method in which he has been able to separate the various gases of the air, and has discovered various means of mechanical utilization of differences of temperature in sea water.
-
 

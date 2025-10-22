@@ -12,7 +12,17 @@ icon: Juan
 ---
 
 
-The vision of Superphysics is a new reality which has freed itself from the shackles of ego, materialism, and the Negative Force. 
+The previous section defined Superphysics as a discipline just like engineering, accounting, military, politics, music, etc.
+
+This discipline implies a goal. For example, the goal of:
+- engineering is problem solving
+- accounting is accountability
+- military is defense
+- politics is governance
+- music is musical expression
+
+
+The goal and vision of Superphysics is a new reality which has freed itself from the shackles of ego, materialism, and the Negative Force.
 
 This creates a transition period for learning the basics of how the universe really works. 
 
@@ -28,6 +38,10 @@ By upgrading human sciences into Superphysics, we hope to put humanity back unde
 Experience in our stellar neighborhood will then be the start of university where humans will learn how the entire galaxy works. 
 
 This will then allow human employment for the service of the galaxy. 
+
+In other words, Superphysics gives the humans species a dignified job of being of service to the universe.
+
+The compensation and benefits is the added knowledge and resources of the universe to expand human minds and improve our knowledge of life and Existence. 
 
 Graduation from this level will lead to the masters level wherein humans can go beyond the galaxy and physical existence itself. 
 
