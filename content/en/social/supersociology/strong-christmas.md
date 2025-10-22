@@ -114,8 +114,7 @@ This is the attrition done by Nature as its counterattack in the human war again
 
 Humans will get tired sooner or later and might eventually go with the dialectical solution*. Until then, the best personal action is to weather the storm. 
 
-
-> *The alternative is a long attrition leading to prolonged suffering and mental health issues
+The alternative is a long attrition leading to prolonged suffering and mental health issues
 
 
 <!-- This solution is the exactly the same one for global warming disasters. Two birds with one stone. 
