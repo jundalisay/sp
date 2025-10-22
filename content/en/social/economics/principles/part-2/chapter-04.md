@@ -44,6 +44,7 @@ Baker Chandra 8 | -6 | -5 | -4 | -3
 This exposes the following information:
 
 - the biggest primary arbitrage is with Chef as baker and Chandra as purchaser 
+  - We call this the best economic 'relationality'
 - the most negative arbitrage is with Chandra as baker and Chef as purchaser
 - Bhaskar and Chandra should not be bakers
 - If Arun starts a baking business, he will struggle more than Chef
@@ -155,8 +156,8 @@ In the beginning, the points-based transactions will be tiny relative to the mon
 
 Having two arbitrages ensures that a *supereconomy* will be more dynamic than an economy. In fact, Smith predicted that people will work so hard in such a system that caps on revenue would have to be decreed to protect the people's health:
 
-{{< q a="Adam Smith" >}}
-Our soldiers are not the most industrious people. Yet when they are liberally paid by the piece, their officers were frequently obliged to stipulate that they should not be allowed to earn above a certain rate every day. Before this stipulation, soldiers frequently overworked and hurt their health by mutual emulation and the desire of greater gain.
+{{< q a="Adam Smith" c="Wealth of Nations, Book 1, Chapter 8" >}}
+Our soldiers are not the most industrious people. Yet when they are liberally paid by the piece, their officers were obliged to stipulate that they should not be allowed to earn above a certain rate every day. Before this stipulation, soldiers  overworked and hurt their health by the desire of greater gain.
 {{< /q >}}
 
 <!-- This productive Supereconomic system will be essential in helping societies rise up from the ashes of the debt and decline from Covid, through the Invisible Hand of Human Dharma. -->
