@@ -8,18 +8,20 @@ weight: 27
 ---
 
 
-On the other hand, enterprise would in most cases be impossible if it were
-not known from the outset that exceptionally favorable situations are likely to
-arise which if exploited by price, quality and quantity manipulation will produce
-profits adequate to tide over exceptionally unfavorable situations provided these
-are similarly managed Again this requires strategy that in the short run is often
-restrictive. In the majority of successful cases this strategy just manages to serve
-its purpose. 
+On the other hand, enterprise would be impossible if favorable situations for profitable price, quality and quantity manipulation were not known.
 
-In some cases, however, it is so successful as to yield profits far
-above what is necessary in order to induce the corresponding investment. These
-cases then provide the baits that lure capital on to untried trails. Their presence
-explains in part how it is possible for so large a section of the capitalist world
+ <!-- to tide over exceptionally unfavorable situations provided these are similarly managed. -->
+
+This requires a strategy that in the short run is often restrictive. 
+
+<!-- In the majority of successful cases this strategy just manages to serve
+its purpose.  -->
+
+In some cases, however, it is so successful as to yield profits far above what is necessary in order to induce the corresponding investment. 
+
+These cases then provide the baits that lure capital on to untried trails. 
+
+Their presence explains in part how it is possible for so large a section of the capitalist world
 to work for nothing: in the midst of the prosperous twenties just about half of
 the business corporations in the United States were run at a loss, at zero profits,
 or at profits which, if they had been foreseen, would have been inadequate to
@@ -93,8 +95,9 @@ The rayon industry had its bonanza time in the twenties. It presents the feature
 introducing a commodity into fields fully occupied before and the policies that impose
 themselves in such conditions still more clearly than does the automobile industry. And there
 are a number of other differences. But fundamentally the case is similar. The expansion in
-quantity and quality of rayon output is common knowledge. Yet restrictive policy presided over
-this expansion at each individual point of time.
+quantity and quality of rayon output is common knowledge. 
+
+Yet restrictive policy presided over this expansion at each individual point of time.
 
 <!-- 6 Unfortunately, this statement is almost as effective a bar to agreement on policy as the
 most thoroughgoing denial of any case for government regulation could be. In fact it may
@@ -103,8 +106,9 @@ term the whole-hog opposition of “economic royalists.” Doubts about their co
 as crowd upon us particularly when we see the legal mind at work, are much more difficult
 for them to stand. -->
 
-against big business, can be trusted to solve. 6 But our argument, framed to
-refute a prevalent theory and the inferences drawn therefrom about the
+<!-- against big business, can be trusted to solve. 6  -->
+
+But our argument, framed to refute a prevalent theory and the inferences drawn therefrom about the
 relation between modern capitalism and the development of total output, only
 yields another theory, i.e., another outlook on facts and another principle by
 which to interpret them. For our purpose that is enough. For the rest, the facts

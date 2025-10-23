@@ -18,14 +18,30 @@ icon: "Krishna"
 {{< /r >}}
 
 
-3: O sinless Arjuna, There are two classes of men who try to realize the self. Some are inclined to understand it by empirical, philosophical speculation, and others by devotional service.
+{{< l a="Krishna" >}}
+<!-- 3: Arjuna, There are 2 classes of men who try to realize the self. Some are inclined to understand it by empirical, philosophical speculation, and others by devotional service. -->
 
-TEXT 4: Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection.
+<sup>3</sup> There are 2 paths, 2 schools of wisdom.
 
-TEXT 5: Everyone is forced to act helplessly according to the qualities he has acquired from the modes of material nature; therefore no one can refrain from doing something, not even for a moment.
-TEXT 6: One who restrains the senses of action but whose mind dwells on sense objects certainly deludes himself and is called a pretender.
-TEXT 7: On the other hand, if a sincere person tries to control the active senses by the mind and begins karma-yoga [in Kṛṣṇa consciousness] without attachment, he is by far superior.
+1. The Sankhya's
+
+This saves through the way of works or action or karma prescribed by reason
+
+2. The Yoga
+
+This is attained by meditation and spirituality.
+
+
+<sup>4</sup> Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection.
+
+<sup>5</sup> Everyone is forced to act helplessly according to the qualities he has acquired from the modes of material nature; therefore no one can refrain from doing something, not even for a moment.
+
+<sup>36</sup> One who restrains the senses of action but whose mind dwells on sense objects certainly deludes himself and is called a pretender.
+
+<sup>7</sup> On the other hand, if a sincere person tries to control the active senses by the mind and begins karma-yoga [in Kṛṣṇa consciousness] without attachment, he is by far superior.
+
 TEXT 8: Perform your prescribed duty, for doing so is better than not working. One cannot even maintain one’s physical body without work.
+
 TEXT 9: Work done as a sacrifice for Viṣṇu has to be performed; otherwise work causes bondage in this material world. Therefore, O son of Kuntī, perform your prescribed duties for His satisfaction, and in that way you will always remain free from bondage.
 TEXT 10: In the beginning of creation, the Lord of all creatures sent forth generations of men and demigods, along with sacrifices for Viṣṇu, and blessed them by saying, “Be thou happy by this yajña [sacrifice] because its performance will bestow upon you everything desirable for living happily and achieving liberation.”
 TEXT 11: The demigods, being pleased by sacrifices, will also please you, and thus, by cooperation between men and demigods, prosperity will reign for all.
@@ -53,29 +69,27 @@ TEXT 32: But those who, out of envy, disregard these teachings and do not follow
 TEXT 33: Even a man of knowledge acts according to his own nature, for everyone follows the nature he has acquired from the three modes. What can repression accomplish?
 TEXT 34: There are principles to regulate attachment and aversion pertaining to the senses and their objects. One should not come under the control of such attachment and aversion, because they are stumbling blocks on the path of self-realization.
 TEXT 35: It is far better to discharge one’s prescribed duties, even though faultily, than another’s duties perfectly. Destruction in the course of performing one’s own duty is better than engaging in another’s duties, for to follow another’s path is dangerous.
+{{< /l >}}
+
+
 TEXT 36: Arjuna said: O descendant of Vṛṣṇi, by what is one impelled to sinful acts, even unwillingly, as if engaged by force?
 TEXT 37: The Supreme Personality of Godhead said: It is lust only, Arjuna, which is born of contact with the material mode of passion and later transformed into wrath, and which is the all-devouring sinful enemy of this world.
 TEXT 38: As fire is covered by smoke, as a mirror is covered by dust, or as the embryo is covered by the womb, the living entity is similarly covered by different degrees of this lust.
 TEXT 39: Thus the wise living entity’s pure consciousness becomes covered by his eternal enemy in the form of lust, which is never satisfied and which burns like fire.
 TEXT 40: The senses, the mind and the intelligence are the sitting places of this lust. Through them lust covers the real knowledge of the living entity and bewilders him.
 TEXT 41: Therefore, O Arjuna, best of the Bhāratas, in the very beginning curb this great symbol of sin [lust] by regulating the senses, and slay this destroyer of knowledge and self-realization.
-TEXT 42: The working senses are superior to dull matter; mind is higher than the senses; intelligence is still higher than the mind; and he [the soul] is even higher than the intelligence.
-TEXT 43: Thus knowing oneself to be transcendental to the material senses, mind and intelligence, O mighty-armed Arjuna, one should steady the mind by deliberate spiritual intelligence [Kṛṣṇa consciousness] and thus – by spiritual strength – conquer this insatiable enemy known as lust.
+
+TEXT 42: The working senses are superior to dull matter.
+
+Mind is higher than the senses; intelligence is still higher than the mind; and he [the soul] is even higher than the intelligence.
+
+43: Thus knowing oneself to be transcendental to the material senses, mind and intelligence, O mighty-armed Arjuna, one should steady the mind by deliberate spiritual intelligence [Kṛṣṇa consciousness] and thus – by spiritual strength – conquer this insatiable enemy known as lust.
 
 
 
 
 
 {{< l a="Krishna" >}}
-<sup>3</sup> There are 2 paths, 2 schools of wisdom.
-
-1. The Sankhya's
-
-This saves through the way of works or action or karma prescribed by reason
-
-2. The Yoga
-
-This is attained by meditation and spirituality.
 
 <sup>4</sup> These are one.
 - No one can escape karma by shunning action.
@@ -250,3 +264,4 @@ Fight! vanquish foes and doubts, dear Hero! slay
 What haunts thee in fond shapes, and would betray!
  -->
 {{< /l >}}
+

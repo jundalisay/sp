@@ -9,19 +9,15 @@ c: "steelblue"
 ---
 
 
-Quantum
-B. EXTENSIVE AND INTENSIVE QUANTUM
-(a) Their Difference
-§ 472
 
-1. Quantum has its determinateness as limit in amount. 
+<!-- (a) Their Difference -->
+
+<sup>472</sup>  1. Quantum has its determinateness as limit in amount. 
 
 Within itself quantum is discrete, a plurality which has no being distinct from its limit, nor is the limit external to it. Quantum thus then with its limit, which is in its own self a plurality, is extensive magnitude.
 
 
-§ 473
-
-Extensive and continuous magnitude are to be distinguished from each other; the direct opposite of the former is not discrete but intensive magnitude. 
+<sup>473</sup> Extensive and continuous magnitude are to be distinguished from each other; the direct opposite of the former is not discrete but intensive magnitude. 
 
 Extensive and intensive magnitudes are determinatenesses of the quantitative limit itself, whereas quantum is identical with its limit; continuous and discrete magnitudes, on the other hand, are determinations of magnitude in itself, that is, of quantity as such, in so far as in quantum abstraction is made from the limit. 
 
@@ -147,6 +143,3 @@ The one is infinite or self-related negation, hence the repulsion of itself from
 § 496
 
 Thus quantum impels itself beyond itself; this other which it becomes is in the first place itself a quantum; but it is quantum as a limit which does not stay, but which impels itself beyond itself. The limit which again arises in this beyond is, therefore, one which simply sublates itself again and impels itself beyond to a further limit, and so on to infinity.
-
-
-

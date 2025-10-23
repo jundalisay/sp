@@ -3,12 +3,12 @@ title: "How Flow Taxation works as Pointtax"
 heading: "Chapter 2c" 
 date: 2019-11-17
 weight: 21
-image: "/photos/tax.jpg"
+image: "/photos/econ/tax.jpg"
 description : "Pointtax is a taxation system that is based on points which represent barter-credits pegged to the value of grains such as rice"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 ---
 
 

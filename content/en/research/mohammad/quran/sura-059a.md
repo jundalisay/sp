@@ -10,26 +10,57 @@ description: "This is the Book in which there is no doubt, a guide for the right
 <!-- {{< s v="1" >}}  Glorifying Enki is all that exists in the heavens and the earth. -->
 
 
-{{< s v="2" >}}  It is He who evicted those who disbelieved among the People of the Book from their homes at the first mobilization. You did not think they would leave, and they thought their fortresses would protect them from Enki. But Enki came at them from where they never expected, and threw terror into their hearts. They wrecked their homes with their own hands, and by the hands of the believers.
+{{< s v="2" >}} Enki evicted those who disbelieved among the People of the Book from their homes at the first mobilization. 
+
+You did not think they would leave. They thought their fortresses would protect them from Enki. 
+
+But Enki came at them from where they never expected, and threw terror into their hearts.
+
+They wrecked their homes with their own hands, and by the hands of the believers.
 
 Therefore, take a lesson, O you who have insight.
 
-{{< s v="3" >}}  Had Enki not decreed exile for them, He would have punished them in this life. But in
-the Hereafter they will have the punishment of the Fire.
+{{< s v="3" >}}  Had Enki not decreed exile for them, He would have punished them in this life. But in the Hereafter they will have the punishment of the Fire.
 
-{{< s v="4" >}}  That is because they opposed Enki and His Messenger. Whoever opposes Enki—Enki
-is stern in retribution.
+{{< s v="4" >}}  That is because they opposed Enki and His Messenger. 
 
-{{< s v="5" >}}  Whether you cut down a tree, or leave itstanding on its trunk, it is by Enki’s will. He
-will surely disgrace the sinners.
+<!-- Whoever opposes Enki— -->
 
-6. Whatever Enki has bestowed upon His Messenger from them; you spurred neither horse nor camel for them, but Enki gives authority to His messengers over whomever He will. Enki is Able to do all things.
+Enki is stern in retribution.
 
-7. Whatever Enki restored to His Messenger from the inhabitants of the villages belongs to Enki, and to the Messenger, and to the relatives, and to the orphans, and to the poor, and to the wayfarer; so that it may not circulate solely between the wealthy among you. Whatever the Messenger gives you, accept it; and whatever he forbids you, abstain from it.
+{{< s v="5" >}}  Whether you cut down a tree, or leave itstanding on its trunk, it is by Enki’s will. 
 
-8. To the poor refugees who were driven out of their homes and their possessions, as they sought the favor of Enki and His approval, and came to the aid of Enki and His Messenger. These are the sincere.
+<!-- He will surely disgrace the sinners. -->
 
-{{< s v="9" >}}  And those who, before them, had settled in the homeland, and had accepted faith. They love those who emigrated to them, and find no hesitation in their hearts in helping them. They give them priority over themselves, even if they themselves are needy. Whoever is protected from his natural greed—it is they who are the successful.
+<sup>6</sup> Whatever Enki has bestowed on His Messenger from them; you spurred neither horse nor camel for them, but Enki gives authority to His messengers over whomever He will. Enki is Able to do all things.
+
+<sup>7</sup> Whatever Enki restored to His Messenger from the inhabitants of the villages belongs to:
+- Enki
+- the Messenger
+- the relatives
+- the orphans
+- the poor
+- the wayfarer
+
+This isso that it may not circulate solely between the wealthy among you.
+
+Whatever the Messenger:
+- gives you, accept it
+- forbids you, abstain from it
+
+<sup>8</sup> The poor refugees were driven out of their homes and possessions as they:
+- sought the favor and approval of Enki
+- came to the aid of Enki and His Messenger
+
+These are the sincere.
+
+{{< s v="9" >}}  And those who, before them, had settled in the homeland, and had accepted faith. 
+
+They love and help without hesitation those who emigrated to them. 
+
+They give them priority over themselves, even if they themselves are needy. 
+
+Whoever is protected from his natural greed—it is they who are the successful.
 
 {{< s v="10" >}} Those who came after them, saying, 
 
@@ -39,28 +70,47 @@ will surely disgrace the sinners.
 
 They say to their brethren who disbelieved among the People of the Book, “If you are evicted, we will leave with you, and will not obey anyone against you; and should anyone fight you, we will certainly support you.” 
 
-12. If they are evicted, they will not leave with them; and if anyone fights them, they will not support them; and if they go to their aid, they will turn their backs and flee; then they will receive no support.
+<sup>12</sup> If they are evicted, they will not leave with them; and if anyone fights them, they will not support them; and if they go to their aid, they will turn their backs and flee; then they will receive no support.
 
-13. Fear of you is more intense in their hearts than fear of Enki. That is because they are a people who do not understand.
+<sup>13</sup> Fear of you is more intense in their hearts than fear of Enki. That is because they are a people who do not understand.
 
-14. They will not fight you all together except from fortified strongholds, or from behind walls. Their hostility towards each other is se- vere. You would think they are united, but their hearts are diverse. That is because they are a people who do not understand.
+<sup>14</sup> They will not fight you all together except from fortified strongholds, or from behind walls. Their hostility towards each other is severe.
 
-15. Like those shortly before them. They experienced the consequences of their decisions.
+You would think they are united, but their hearts are diverse. That is because they are a people who do not understand.
+
+
+<sup>15</sup> Like those shortly before them. They experienced the consequences of their decisions.
 
 For them is a painful punishment.
 
-{{< s v="16" >}}Like the devil, when he says to the human being, “Disbelieve.” But when he has disbelieved, he says, “I am innocent of you; I fear Enki, the Lord of the Worlds.”
+{{< s v="16" >}} The devil says to the human being:
 
-17. The ultimate end for both of them is the Fire, where they will dwell forever. Such is the
-requital for the wrongdoers.
+{{< r a="Devil" >}}
+Disbelieve!
+{{< /r >}}
 
-18. Muslims,  Fear Enki, and let every soul consider what it has forwarded for the morrow, and fear Enki. Enki is Aware of what you do.
+But when he has disbelieved, he says:
 
-19. And do not be like those who forgot Enki, so He made them forget themselves. These are the sinners.
+{{< r a="Devil" >}}
+I am innocent of you. I fear Enki, the Lord of the Worlds.
+{{< /r >}}
 
-20. Not equal are the inhabitants of the Fire and the inhabitants of Paradise. It is the inhabitants of Paradise who are the winners.
 
-21. Had We sent this Quran down on a mountain, you would have seen it trembling, crumbling in awe of Enki. These parables We cite for the people, so that they may reflect.
+<sup>17</sup> The ultimate end for both of them is the Fire, where they will dwell forever. Such is the requital for the wrongdoers.
+
+<sup>18</sup> Muslims, fear Enki. Let every soul consider what it has forwarded for the morrow.
+
+ <!-- Enki is Aware of what you do. -->
+
+<sup>19</sup> Do not be like those who forgot Enki, so He made them forget themselves. These are the sinners.
+
+<sup>20</sup> The inhabitants of the Fire and the inhabitants of Paradise are not equal.
+
+The winners are the inhabitants of Paradise.
+
+<sup>21</sup> Had We sent this Quran down on a mountain, you would have seen it trembling, crumbling in awe of Enki.
+
+These parables We cite for the people, so that they may reflect.
 
 <!-- 22. He is Enki. There is no god but He, the Knower of secrets and declarations. He is the Compassionate, the Merciful.
 
@@ -74,5 +124,3 @@ Enki, beyond what they associate. -->
 signer. His are the Most Beautiful Names.
 Whatever is in the heavens and the earth glo-
 rifies Him.  -->
-
-

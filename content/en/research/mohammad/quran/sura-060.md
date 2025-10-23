@@ -29,6 +29,7 @@ Whoever among you does that has strayed from the right way.
 
 When they said to their people:
 
+
 “We are quit of you, and what you worship apart from Enki. We denounce you. Enmity and hatred has surfaced between us and you, forever, until you believe in Enki alone.” 
 
 Except for the words of Abraham to his father:

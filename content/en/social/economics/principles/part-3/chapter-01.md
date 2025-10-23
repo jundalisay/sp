@@ -10,6 +10,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /social/economics/principles/fourth-law
+  /natural-price
 ---
 
 

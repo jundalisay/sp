@@ -9,10 +9,7 @@ c: "steelblue"
 ---
 
 
-
-§ 373
-
-Attraction and repulsion are usually regarded as forces. 
+<sup>373</sup> Attraction and repulsion are usually regarded as forces. 
 
 This determination of them and — the relationships connected with it have to be compared with the Notions which have resulted from our consideration of them. 
 

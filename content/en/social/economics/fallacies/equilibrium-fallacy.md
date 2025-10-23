@@ -63,11 +63,11 @@ Thus a first reason for the validity of the law of downward-sloping demand comes
 
 Smith points to Thomas Mun's [England’s Treasure on Foreign Trade](/research/mun/englands-treasure)  as the origin of equilibrium, so we look for Mun's version of the demand curve.
 
-{{< q a="Mun" c="England's Treasure Simplified, Chapter 3" >}}
+{{< q a="Thomas Mun" c="England's Treasure Simplified, Chapter 3" >}}
 By lowering the price of our cloth in Turkey, we have sold more. The Venetians have lost because theirs is dearer. When our cloth was expensive, we lost at the least half our clothing to foreigners. 25% lower prices raises sales by over 50%, to the public benefit. 
 {{< /q >}}
 
-{{< q a="Mun" c="England's Treasure Simplified, Chapter 3" >}}
+{{< q a="Thomas Mun" c="England's Treasure Simplified, Chapter 3" >}}
 When our cloth is expensive, other nations sell more cloths. When our cloth is cheap, they lose business. We therefore should increase the sale of our cloth.
 {{< /q >}}
 
@@ -77,15 +77,26 @@ Plotting this, we get the same downward sloping demand curve. We thus prove that
 {{< img src="https://sorasystem.sirv.com/charts/demsup/mun.png" alt="The Mercantile Downward Demand Curve" cap="The Demand Curve of Mercantilism also Slopes Downwards" >}}
 
 
-{{< box >}}
-### Digression on the 'Law' of Demand: Creating the non-problem 'paradox of value' to justify the fallacy called Profit Maximization
-
+{{< b >}}
+### The Paradox of Value is Nonsense
 <small>Feb 2017</small>
 
-<p>Many economists, including Samuelson, cite Smith’s example as a 'paradox of value', where in fact, there was never a paradox to Smith. Anything that is difficult to obtain yet desired by the mind, such as diamonds, simply will naturally have a higher price than that which is easy to obtain, like water. Economists create a paradox in order to justify the creation of the concept of marginal utility to ‘solve’ the paradox. This marginal utility requires the quantification of pleasure or utility, which is then ‘maximized’ as ‘profit maximization’ -- the second key fallacy being perpetrated by Economics.</p>
+ <!-- Digression on the 'Law' of Demand: Creating the non-problem 'paradox of value' to justify the fallacy called Profit Maximization -->
 
-<p>By destroying the paradox of value, then value is properly kept as subjective instead of being objectified into numerical increments. This will then make profit maximization lose its top importance in the minds of businessmen and people in general. This then will make businessmen, investors, and entrepreneurs shift their focus on the actual non-numerical, non-quantifiable benefits that their businesses create.</p>
-{{< /box >}}
+Many economists, including Samuelson, cite Smith’s example as a 'paradox of value', where in fact, there was never a paradox to Smith. 
+
+Anything that is difficult to obtain yet desired by the mind, such as diamonds, simply will naturally have a higher price than that which is easy to obtain, like water. 
+
+Economists create a paradox in order to justify the creation of the concept of marginal utility to ‘solve’ the paradox. 
+
+This marginal utility requires **the quantification of pleasure or utility**, which is then ‘maximized’ as ‘profit maximization’ -- the second key fallacy being perpetrated by Economics.
+
+By destroying the paradox of value, then value is properly kept as subjective instead of being objectified into numerical increments. 
+
+This will then make profit maximization lose its top importance in the minds of businessmen and people in general. 
+
+This then will make businessmen, investors, and entrepreneurs shift their focus on the actual non-numerical, non-quantifiable benefits that their businesses create.
+{{< /b >}}
 
 
 ## The Supply Curve
@@ -97,11 +108,13 @@ We see that the demand curves of Smith the moralist, Samuelson the businessman, 
 
 Next, we look at the Samuelson's Supply curve to see that it is also business-first:
 
-{{< q a="Paul Samuelson" >}}
+{{< q a="Paul Samuelson" c="Economics" >}}
 The supply..curve is..the relation between market prices and the amounts of the good that producers are willing to supply. At a higher price of wheat, farmers will take acres out of corn cultivation and put them into wheat. In addition, each farmer can now afford the cost of more fertilizer, labor, machinery.. All this tends to increase output at the higher prices offered. If society wants more wine, then more labor will have to be added to the same limited hill sites for producing grapes.. according to the law of diminishing returns.. the necessary cost to coax out additional product will have to rise.
 {{< /q >}}
 
-Samuelson says that suppliers react to society's high demand for a product (which manifests as higher prices), which then motivates them to produce more of that product. Because of natural limitations, the costs of producing each additional product eventually increase and this leads to higher prices at higher quantities. 
+Samuelson says that suppliers react to society's high demand for a product (which manifests as higher prices), which then motivates them to produce more of that product. 
+
+Because of natural limitations, the costs of producing each additional product eventually increase and this leads to higher prices at higher quantities. 
 
 In this version, the main cause for the rise in prices with rising quantity is the rising cost of production. Thus, we will call this **the manufacturer's version of the supply curve**.
 
@@ -113,23 +126,28 @@ In this version, the main cause for the rise in prices with rising quantity is t
 
 In [Englands Treasure by Foreign Trade](/research/mun/englands-treasure), Mun describes the mercantile supply curve:
 
-{{< q a="Mun" c="England's Treasure Simplified, Chapter 3" >}}
+{{< q a="Thomas Mun" c="England's Treasure Simplified, Chapter 3" >}}
 In our sales overseas, we must think of our neighbours' necessities, so that we can produce as much of the goods they want that are unavailable anywhere else (besides raw materials), and also sell them dear as long as the high price does not reduce our sales.
 {{< /q >}}
 
 Unlike the manufacturer's supply curve which rises because of rising supply-side production costs, the mercantile supply curve rises because the increased denand-side sales also increases the competition between the merchants for the supply-side wholesale goods.
 
-{{< q a="Mun" c="England's Treasure Simplified, Chapter 5" >}}
+{{< q a="Thomas Mun" c="England's Treasure Simplified, Chapter 5" >}}
 When the Merchant is able to sell his goods overseas, he returns to buy more local goods. This raises the price of our local commodities, and consequently improves the landlords' rents as the leases expire daily. This money, gained by the nation, enables many men to buy lands and make them the dearer.
 {{< /q >}}
 
 
-While Samuelson's supply curve will lead the producer to want to own all the land, the curve of Mun will lead the merchant to want the collapse of all other merchants. The perfection of the former is done through a war for territory as seen in World War I and II, while that of the latter is done through a trade war, best seen in the War of Jenkin's Ear (Update Sept 2021: and also by Trump's trade war with China).
+While Samuelson's supply curve will lead the producer to want to own all the land, the curve of Mun will lead the merchant to want the collapse of all other merchants.
+- The perfection of Samuelson's supply curve is done through a war for territory, as seen in World War 1 and 2
+- The perfection of Mun's supply curve is done through a trade war, best seen in the War of Jenkin's Ear (Update Sept 2021: and also by Trump's trade war with China).
 
 
-{{< img src="https://sorasystem.sirv.com/charts/demsup/mun2.png" cap="The upward sloping mercantile supply curve is properly stopped by the downward sloping demand curve" alt="Mun's curves" >}}
+{{< i s="https://sorasystem.sirv.com/charts/demsup/mun2.png" c="The upward sloping mercantile supply curve is properly stopped by the downward sloping demand curve" alt="Mun's curves" >}}
 
-This mercantile supply curve is also seen in modern economics textbooks as the "ultra-short run supply curve" which is based on profits instead of costs. Samuelson seems to downplay the profit motive in order to emphasize the law of diminishing returns, whereas modern textbooks seem to go straight for profits.
+This mercantile supply curve is also seen in modern economics textbooks as the "ultra-short run supply curve" which is based on profits instead of costs. 
+
+Samuelson seems to downplay the profit motive in order to emphasize the law of diminishing returns, whereas modern textbooks seem to go straight for profits.
+
 <!-- It explains why Samuelson's farmer switches from corn to wheat in the first place.  -->
 
 
@@ -146,16 +164,21 @@ When the price of any commodity is neither more nor less than what is sufficient
 Unlike the producer's or mercantile supply curves which slope upwards, Smith's [supereconomic](/social/economics/principles/part-2/chapter-01b/) supply curve slopes downward to represent less effort and energy expense while production increases. This phenomenon is called **economies of scale or division of labour**. 
 
 
-Why does Samuelson's costs go up with more production, while Smith's costs go down, properly leading to lower prices? This is simply because Smith and Samuelson's costs **are seen from different positions**:
+Why does Samuelson's costs go up with more production, while Smith's costs go down, properly leading to lower prices? 
+
+This is simply because Smith and Samuelson's costs **are seen from different positions**:
 
 ![Supply Curve Micro Macro](https://socioecons.files.wordpress.com/2015/08/lratc.png)
 
-Smith's supply curve is in the left side sloping downwards, representing efficient production, while Samuelson's is the one on the right, representing diseconomies of scale or when the production is being forced beyond its natural rate or limits. 
+- Smith's supply curve is in the left side sloping downwards, representing efficient production
+- Samuelson's curve is on the right, representing diseconomies of scale.
+  - This happens when the production is being forced beyond its natural limits. 
+
 
 All Economics books that discuss the upward sloping supply curve **have no choice but to admit that it is caused by inefficiency**:
 
-{{< q c="Case & Fair, P. 62" >}}
-Often an individual firm’s ability to respond to an increase in price is constrained by its existing scale of operations, or capacity, in the short run. For example, Brown’s ability to produce more soybeans depends on the size of his farm, the fertility of his soil, and the types of equipment he has. The fact that output stays constant at 45,000 bushels per year suggests thathe is running up against the limitsimposed by the size of his farm, the quality of his soil, and his existing technology.
+{{< q a="Case and Fair" c="Principles of Economics, P. 62" >}}
+Often an individual firm’s ability to respond to a price increase is constrained by its capacity in the short run. For example, Brown’s ability to produce more soybeans depends on his farm size, soil fertility, and equipment. The fact that output stays constant at 45,000 bushels per year suggests that he is running up against the limits imposed by those factors.
 {{< /q >}}
 
 

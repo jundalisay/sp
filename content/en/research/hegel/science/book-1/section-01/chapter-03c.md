@@ -1,6 +1,6 @@
 ---
 heading: Chapter 3c
-title: "C. REPULSION AND ATTRACTION"
+title: "C. Repulsion And Attraction"
 weight: 16
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
@@ -9,20 +9,18 @@ c: "steelblue"
 ---
 
 
-Determinate Being
+## Determinate Being
 
 (a) Exclusion of the One
 
-§ 349
+<sup>349</sup> The many ones have affirmative being.
 
-The many ones have affirmative being; their determinate being or relation to one another is a non-relation, is external to them — the abstract void. 
+Their determinate being or relation to one another is a non-relation, is external to them — the abstract void. 
 
 But they themselves are now this negative relation to themselves as to affirmatively present others — the demonstrated contradiction, infinity posited in the immediacy of being. Thus repulsion now simply finds immediately before it that which is repelled by it. In this determination repulsion is an exclusion; the one repels from itself only the many ones which are neither generated nor posited by it. This mutual or all-round repelling is relative, is limited by the being of the ones.
 
 
-§ 350
-
-The plurality is, in the first place, non-posited otherness, the limit is only the void, only that in which the ones are not. But in the limit they also are; they are in the void, or their repulsion is their common relation.
+<sup>350</sup> The plurality is, in the first place, non-posited otherness, the limit is only the void, only that in which the ones are not. But in the limit they also are; they are in the void, or their repulsion is their common relation.
 
 
 § 351
@@ -114,11 +112,17 @@ Further, this self-presupposing of the two determinations each for itself, means
 
 With this, the development of being-for-self is completed and has reached its conclusion. The one as infinitely self-related — infinitely, as the posited negation of negation — is the mediation in which it repels from itself its own self as its absolute (that is, abstract) otherness, (the many), and in relating itself negatively to this its non-being, that is, in sublating it, it is only self-relation; and one is only this becoming in which it is no longer determined as having a beginning, that is, is no longer posited as an immediate, affirmative being, neither is it as result, as having restored itself as the one, that is, the one as equally immediate and excluding; the process which it is posits and contains it throughout only as sublated. The sublating, at first determined as only a relative sublating of the relation to another determinately existent one-a relation which is thus itself not an indifferent repulsion and attraction — equally displays itself as passing over into the infinite relation of mediation through negation of the external relations of the immediate, determinately existent ones, and as having for result that very process of becoming which, in the instability of its moments, is the collapse, or rather going-together-with-itself, into simple immediacy. This being, in the determination it has now acquired, is quantity.
 
-§ 371
 
-A brief survey of the moments of this transition of quality into quantity shows us that the fundamental determination of quality is being and immediacy, in which limit and determinateness are so identical with the being of something, that with its alteration the something itself vanishes; as thus posited it is determined as finite. Because of the immediacy of this unity, in which the difference has vanished but is implicitly present in the unity of being and nothing, the difference as otherness in general falls outside this unity. This relation to other contradicts the immediacy in which qualitative determinateness is self-relation. This otherness sublates itself in the infinity of being-for-self which makes explicit the difference (which in the negation of the negation is present in it) in the form of the one and the many and their relations, and has raised the qualitative moment to a genuine unity, that is, a unity which is no longer immediate but is posited as accordant with itself.
+<sup>371</sup> A brief survey of the moments of this transition of quality into quantity shows us that the fundamental determination of quality is being and immediacy, in which limit and determinateness are so identical with the being of something, that with its alteration the something itself vanishes; as thus posited it is determined as finite. Because of the immediacy of this unity, in which the difference has vanished but is implicitly present in the unity of being and nothing, the difference as otherness in general falls outside this unity. This relation to other contradicts the immediacy in which qualitative determinateness is self-relation. 
 
-§ 372
+This otherness sublates itself in the infinity of being-for-self which makes explicit the difference (which in the negation of the negation is present in it) in the form of the one and the many and their relations, and has raised the qualitative moment to a genuine unity, that is, a unity which is no longer immediate but is posited as accordant with itself.
 
-This unity is, therefore, [a] being, only as affirmative, that is immediacy, which is self-mediated through negation of the negation; being is posited as the unity which pervades its determinatenesses, limit, etc., which are posited in it as sublated; [b] determinate being: in such determination it is the negation or determinateness as a moment of affirmative being, yet determinateness no longer as immediate, but as reflected into itself, as related not to an other but to itself; a being determined simply in itself-the one; the otherness as such is itself a being-for-self; [c] being-for-self, as that being which continues itself right through the determinateness and in which the one and the intrinsic determinedness is itself posited as sublated. The one is determined simultaneously as having gone beyond itself, and as unity; hence the one, the absolutely determined limit, is posited as the limit which is no limit, which is present in being but is indifferent to it.
+
+<sup>372</sup> This unity is, therefore:
+
+- [a] being, only as affirmative, that is immediacy, which is self-mediated through negation of the negation; being is posited as the unity which pervades its determinatenesses, limit, etc., which are posited in it as sublated; 
+- [b] determinate being: in such determination it is the negation or determinateness as a moment of affirmative being, yet determinateness no longer as immediate, but as reflected into itself, as related not to an other but to itself; a being determined simply in itself-the one; the otherness as such is itself a being-for-self; 
+- [c] being-for-self, as that being which continues itself right through the determinateness and in which the one and the intrinsic determinedness is itself posited as sublated. 
+
+The one is determined simultaneously as having gone beyond itself, and as unity; hence the one, the absolutely determined limit, is posited as the limit which is no limit, which is present in being but is indifferent to it.
 

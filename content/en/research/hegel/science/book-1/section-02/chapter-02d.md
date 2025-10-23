@@ -10,14 +10,14 @@ c: "steelblue"
 
 
 
+<sup>518</sup> The Kantian antinomies are expositions of the opposition of finite and infinite in a more concrete shape, applied to more specific substrata of conception.
 
-§ 518
+The antinomy there considered contained the opposition of qualitative finitude and infinitude. 
 
-It was remarked above that the Kantian antinomies are expositions of the opposition of finite and infinite in a more concrete shape, applied to more specific substrata of conception. The antinomy there considered contained the opposition of qualitative finitude and infinitude. In another, the first of the four cosmological antinomics, it is the conflict arising rather from the quantitative limit which is considered. I shall therefore proceed to examine this antinomy here.
+In another, the first of the four cosmological antinomics, it is the conflict arising rather from the quantitative limit which is considered. I shall therefore proceed to examine this antinomy here.
 
-§ 519
 
-It concerns the limitation or non-limitation of the world in time and space. This antithesis could be considered equally well with reference to time and space themselves, for whether time and space are relations of things themselves or are only forms of intuition, the antinomy based on limitation or non-limitation in them is not affected thereby.
+<sup>519</sup> It concerns the limitation or non-limitation of the world in time and space. This antithesis could be considered equally well with reference to time and space themselves, for whether time and space are relations of things themselves or are only forms of intuition, the antinomy based on limitation or non-limitation in them is not affected thereby.
 
 § 520
 
@@ -107,10 +107,3 @@ Quite generally: quantum is sublated quality; but quantum is infinite, goes beyo
 § 537
 
 Quantum is thus posited as repelled from itself, with the result that there are two quanta which, however, are sublated, are only as moments of one unity, and this unity is the determinateness of quantum. Quantum as thus self-related as an indifferent limit in its externality and therefore posited as qualitative, is quantitative ratio. In the ratio, quantum is external to itself, is distinguished from itself; this its externality is the relation of one quantum to another, each of which has meaning only in this its relation to its other; and this relation constitutes the determinateness of the quantum, which is as such a unity. It has in this unity not an indifferent, but a qualitative, determination; in this its externality it has returned into itself, and in it quantum is that which it is.
-
-
-
-
-
-
-

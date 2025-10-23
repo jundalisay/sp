@@ -114,9 +114,10 @@ All the spaces around the Earth are occupied either by:
 - the air-aether as space
 - the earth-aether as physical air
 
-**All the particles of the air-aether have equal force.**
+**All the particles of the air-aether have equal force.** *
 - This why the air-aether does not dislodge each other
 
+{{< n n="This was proven by Galileo and now is called the Weak Equivalence Principle" >}}
 
 This air-aether is not present in the Earth.
 

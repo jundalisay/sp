@@ -2,22 +2,48 @@
 heading: The Einstein Scam Part 3
 title: "How to Replace Relativity with the Aether"
 date: 2025-10-19
-image: "/graphics/physics/relationality.jpg"
+image: "/graphics/physics/m87.jpg" 
 description: "We apply Gravitational Signatures to fix Einstein's Relativity"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-weight: 100
-draft: true
+# weight: 100
 ---
 
+
+
+The previous post explained that the scam theory of Relativity has held back Physics since 1905 through 2 fallacies:
+
+1. Simultaneity of Time Fallacy
+
+This leads to accurate measurements like:
+- the precession of Mars
+- gravitational lensing
+- GPS
+
+But these are useless just as switchin from inches to millimeters is useless. 
+
+This does not explain why light is invariant or why it has a fixed max speed. 
+
+This leads to the Hubble Tension and to junk theories that waste mental effort and funding:
+- Supersymmetry
+- String Theory
+- Loop Quantum Gravity
+- Expensive useless Hadron colliders
+
+
+2. Constant Speed of Light Fallacy
+
+While the first fallacy is a misdirection, this second fallacy is the big bad guy as it directly prevents faster than light travel and levitation. 
+
+This is best seen in the Superluminal Motion hacks to coerce the faster-than-light movement seen in quasars, pulsars, and nova to adhere to Einstien's dogma. 
 
 
 ## The Solution: Idea and Aether 
 
 
-1. The Solution to Simultaneity is to use idea as the measure of time -- keep it subjective, and objective after agreement
+### 1. The Solution to Simultaneity is to use idea as the measure of time -- keep it subjective, and objective after agreement
 
 Time is a mental object which is best measured by mental idea. 
 
@@ -37,7 +63,7 @@ This also solves the measurement problem in quantum mechanics.
 This unifies space and time as one entity, even if "time" is a superior aethereal object than "space". -->
 
 
-2. The Solution to  Use the aether to connect the time of distant events 
+### 2. The Solution to the Constant Speed of Light: Use the aether to connect the time of distant events 
 
 The aetherspace is the crude physical version of the aether, which now is called:
 - dark energy
@@ -52,10 +78,30 @@ This explains how masses such as UFOs can teleport, similar to how an actor tunn
 
 Relativity eliminates the aether, making faster than light travel impossible.
 
+Spatial (Aethereal) Vortices then explain all of the phenomena explained by Relativity:
+
+Phenomena | Einstein's explanation | Descartes' explanation
+--- | --- | ---
+Lensing | Warping of spacetime | Rotation of spatial vortex (star, galaxy)
+Weak Equivalence | Warping of spacetime | Displacement of space particles from surface of vortex
+Mercury Precession | Warping of spacetime | Rotation of sun's vortex
+Expansion of Universe | Cosmological Constant | [Sponge Universe](/material/sponge)
+Origin of Universe | Big Bang | Eternal Sponge Universe
+Superluminal Motion | Light Cone | `c` is just for light in our sun's vortex area 
+Wave Particle Duality | Particles are particles and waves | Force particles are waves, non force particles are particles 
+Quantum Entangelement | Hidden Variables | Photon spin
+Measurement Problem | No Explanation | Universe is an idea which needs mind (also Plato, Berkeley, Schopenhauer)
+Distant Galaxies Already Developed | No Explanation | Distant galaxies are not older
+Hubble Tension | No Explanation | Heat particles are shorter range than light particles
+Gauge Block Wringing | No Explanation | Space Particles exert pressure from outside the gauge blocks
+Relativity not matching Quantum Mechanics | No Explanation | Relativity is False. Aether unites Classical and Quantum
+Dark Matter | No Explanation | Space particles
+Dark Energy | No Explanation | Aetherspace particles
+Black Hole Singularity | No Explanation | Singularity is a Spatial Vortex made up of the aetherspace
+Arrow of Time | No Explanation | Time particles
+
+
 <!-- Since the aether is the real cause of gravity and space, Relativity eliminates the possibility of antigravity technologies already seen in UFOs and is essential for fusion -->
-
-<!-- wrongly assigned the properties of space and time into has stifled the real development of  -->
-
 
 <!-- The cause is Einstein pegging the simultaneity of time to the speed of light as Special Relativity simply because light, as c, is constant and invariant in empty space. -->
 
@@ -72,11 +118,9 @@ This fabric goes through vortices which then is supposed to  lead to other dimen
 
 This won't work because vortices are aethereal. Going into a vortex will just let you bounce off if you are of a low vibration. 
 
-
 2. Star Gates
 
 These are artificial wormholes that of course will never work. 
-
 
 3. Alcubierre Warp Drives
 
@@ -86,7 +130,7 @@ This is hopeless because both distortions require matter creation and destructio
 
 
 
-## Solutions to Destroy the Einstein Trap and Allow Space Manipulation
+<!-- ## Solutions to Destroy the Einstein Trap and Allow Space Manipulation
 
 ### Solution to Simultaneity of Time
 
@@ -133,10 +177,10 @@ As with levitation, an AI-driven ship finds its own time signature as the proper
 This frequency is then compared to the frequency of distant stars or planets. 
 
 The aetherspace is then manipulated to match the frequency of those stars or planets, leading to teleportation.
-
+ -->
 <!-- This allows both sequential (linear) motion and non-sequential (teleporting) motion by default, with the time particle as the causal mechanism instead of mass or energy.  -->
 
-This is because the time particle is mostly aethereal in Nature, as being in the upper sublayer of the spatial layer.  
+<!-- This is because the time particle is mostly aethereal in Nature, as being in the upper sublayer of the spatial layer.   -->
 
 
 <!--  simultaneity of time is fixed by tapping into the aetherspace (gluon field) of the spaceship or the heart chakra of the person.
@@ -154,7 +198,7 @@ A person sitting at the stern might always remain in one place if we look at the
 
 ## So What is Einstein's Relativity Good For?
 
-With the restoration and advances in the aether, Einstein's system becomes totally irrelevant and useless. This is even true for nucler fission as `E=mc^2` where the aether as cold dark mater can stop hot fission reactions. 
+With the restoration and advances in the aether, Einstein's system becomes totally irrelevant and useless. This is even true for nuclear fission as `E=mc^2` where the aether as cold dark mater can stop hot fission reactions. 
 
 Einstein's Simultaneity and Relativity will be demoted into **a convention for convenience**.
 

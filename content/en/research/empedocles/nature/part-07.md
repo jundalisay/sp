@@ -3,7 +3,7 @@ title: "The Golden Age"
 description: "My principle of relativity states that any changes to two systems of coordinates that are in uniform motion"
 c: "purple"
 weight: 8
-# date: 1939-08-02
+date: 2025-08-02
 ---
 
 
@@ -119,9 +119,9 @@ Ne'er shall ye free your life from heavy pains.
 
 ## The Progression of Rebirth
 
-146. Seers at last, and singers of high hymns, Physicians sage, and chiefs o'er earth-born men
-Shall they become, whence germinate the gods,
-The excellent in honors.
+146. Seers at last, and singers of high hymns, Physicians sage, and chiefs over earth-born men
+
+Shall they become, whence germinate the gods, The excellent in honors.
 
 147. At hearth and feast companioned with the immortals,
 From human pains and wasting eld immune.

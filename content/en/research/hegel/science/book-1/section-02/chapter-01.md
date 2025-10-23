@@ -11,9 +11,7 @@ c: "steelblue"
 
 A. PURE QUANTITY
 
-§ 395
-
-Quantity is sublated being-for-self; the repelling one which related itself only negatively to the excluded one, having passed over into relation to it, treats the other as identical with itself, and in doing so has lost its determination: being-for-self has passed over into attraction. 
+<sup>395</sup> Quantity is sublated being-for-self; the repelling one which related itself only negatively to the excluded one, having passed over into relation to it, treats the other as identical with itself, and in doing so has lost its determination: being-for-self has passed over into attraction. 
 
 The absolute brittleness of the repelling one has melted away into this unity which, however, as containing this one, is at the same time determined by the immanent repulsion, and as unity of the self-externality is unity with itself. Attraction is in this way the moment of continuity in quantity.
 

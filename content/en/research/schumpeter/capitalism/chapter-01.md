@@ -5,6 +5,10 @@ c: "firebrick"
 description: ""
 date: 2025-09-23
 weight: 4
+icon: "Joseph Schumpeter"
+writer:
+  name: Joseph Schumpeter
+  url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 ---
 
 
@@ -111,9 +115,7 @@ But it was not a true formulation of actual feelings, conscious or subconscious.
 
 Marx tried replacing actual feelings by a true or false revelation of the logic of social evolution. 
 
-By doing this and by at tributing—quite unrealistically—
-to the masses his own shibboleth of “class consciousness,” he undoubtedly
-falsified 
+By doing this and by at tributing—quite unrealistically—to the masses his own shibboleth of “class consciousness,” he undoubtedlyfalsified 
 
 The true psychology of the workman is that the workman wishes:
 - to become a small bourgeois
@@ -138,29 +140,33 @@ He never taught any ideals as set by himself.
 
 Such vanity was quite foreign to him. As every true prophet styles himself the humble mouthpiece of his deity, so Marx pretended no more than to speak the logic of the dialectic process of history.
 
-There is dignity in all this which compensates for many pettinesses and vulgarities with which, in his work and in his life, this dignity formed so
-strange an alliance.
+There is dignity in all this which compensates for many pettinesses and vulgarities with which, in his work and in his life, this dignity formed sostrange an alliance.
 
 
-Marx was personally much too civilized to fall in with those vulgar professors of socialism who do
+<!-- Marx was personally much too civilized to fall in with those vulgar professors of socialism who do
 not recognize a temple when they see it. He was perfectly able to understand
 a civilization and the “relatively absolute” value of its values, however far
-removed from it he may have felt himself to be. 
+removed from it he may have felt himself to be.  -->
 
-In this respect no better
-testimony to his broad-mindedness can be offered than the Communist
-Manifesto which is an account nothing short of glowing 2 of the achievements
-of capitalism; and even in pronouncing pro futuro death sentence on it, he
+
+The Communist Manifesto:
+- shows:
+  - Marx' broad-mindedness.
+  - the achievements of capitalism
+- pronounced pro futuro death sentence on capitalism
+
+<!-- , he
 never failed to recognize its historical necessity. This attitude, of course,
-implies quite a lot of things Marx himself would have been unwilling to accept.
-But he was undoubtedly strengthened in it, and it was made more easy for him
+implies quite a lot of things Marx himself would have been unwilling to accept. -->
+
+<!-- But he was undoubtedly strengthened in it, and it was made more easy for him
 to take, because of that perception of the organic logic of things to which his theory of history gives one particular expression. Things social fell into order for him, and however much of a coffeehouse conspirator he may have been
-at some junctures of his life, his true self despised that sort of thing. Socialism
-for him was no obsession which blots out all other colors of life and creates
-an unhealthy and stupid hatred or contempt for other civilizations. And there
-is, in more senses than one, justification for the title claimed for his type of
-socialist thought and of socialist volition which are welded together by virtue
-of his fundamental position: Scientific Socialism.
+at some junctures of his life, his true self despised that sort of thing.  -->
+
+<!-- Socialism for him was no obsession which blots out all other colors of life and creates an unhealthy and stupid hatred or contempt for other civilizations. And there is, in more senses than one, justification for the title claimed for his type of
+socialist thought and of socialist volition which are welded together by virtue of his fundamental position:  -->
+
+Marx' socialism is Scientific Socialism.
 
 
 <!-- 2 “The bourgeoisie…has been the first to show what man’s activity can bring about.
