@@ -1,11 +1,12 @@
 ---
-title: "PROTOCOL ON THE APPLICATION OF CERTAIN ASPECTS OF ARTICLE III-130 OF THE CONSTITUTION TO THE UNITED KINGDOM AND TO IRELAND"
+title: "Protocol On The Application Of Certain Aspects Of Article Iii-130 Of The Constitution To The United Kingdom And To Ireland"
 heading: "Part 18"
 weight: 1
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
+
 
 <!-- THE HIGH CONTRACTING PARTIES,
 DESIRING to settle certain questions relating to the United Kingdom and Ireland;
@@ -14,23 +15,26 @@ Ireland,
 HAVE AGREED UPON the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
-Article 1
+## Article 1
 
 The United Kingdom shall be entitled, notwithstanding Articles III-130 and III-265 of the
 Constitution, any other provision of the Constitution, any measure adopted under the Constitution,
 or any international agreement concluded by the Union or by the Union and its Member States with
 one or more third States, to exercise at its frontiers with other Member States such controls on
 persons seeking to enter the United Kingdom as it may consider necessary for the purpose:
+
 (a) of verifying the right to enter the United Kingdom of citizens of Member States and of their
 dependants exercising rights conferred by Union law, as well as citizens of other States on whom
 such rights have been conferred by an agreement by which the United Kingdom is bound; and
+
 (b) of determining whether or not to grant other persons permission to enter the United Kingdom.
 Nothing in Articles III-130 and III-265 of the Constitution or in any other provision of the
 Constitution or in any measure adopted under it shall prejudice the right of the United Kingdom to
 adopt or exercise any such controls. References to the United Kingdom in this Article shall include
 territories for whose external relations the United Kingdom is responsible.
 
-Article 2
+
+## Article 2
 
 The United Kingdom and Ireland may continue to make arrangements between themselves relating
 to the movement of persons between their territories («the Common Travel Area»), while fully
@@ -40,7 +44,8 @@ shall apply to Ireland under the same terms and conditions as for the United Kin
 Articles III-130 and III-265 of the Constitution, in any other provision of the Constitution or in any
 measure adopted under it shall affect any such arrangements.
 
-Article 3
+
+## Article 3
 
 The other Member States shall be entitled to exercise at their frontiers or at any point of entry into
 their territory such controls on persons seeking to enter their territory from the United Kingdom or
@@ -67,7 +72,9 @@ United Kingdom and Ireland,
 HAVE AGREED UPON the following provisions which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
-Article 1
+
+### Article 1
+
 Subject to Article 3, the United Kingdom and Ireland shall not take part in the adoption by the
 Council of proposed measures pursuant to Section 2 or Section 3 of Chapter IV of Title III of Part III
 of the Constitution or to Article 3-260 thereof, insofar as that Article relates to the areas covered by
@@ -138,7 +145,7 @@ Constitution, shall bear no financial consequences of that measure other than ad
 entailed for the institutions, unless all members of the Council, acting unanimously after consulting
 the European Parliament, decide otherwise.
 
-Article 6
+### Article 6
 
 Where, in cases referred to in this Protocol, the United Kingdom or Ireland is bound by a measure
 adopted pursuant to Section 2 or Section 3 of Chapter IV of Title III of Part III of the Constitution, to
@@ -146,12 +153,13 @@ Article 3-260 of the Constitution, insofar as that Article relates to the areas 
 Sections, to Article 3-263 or to Article 3-275(2)(a) of the Constitution, the relevant provisions of
 the Constitution shall apply to that State in relation to that measure.
 
-Article 7
+### Article 7
 
 Articles 3 and 4 shall be without prejudice to the Protocol on the Schengen acquis integrated into the
 framework of the European Union.
 
-Article 8
+
+### Article 8
 
 Ireland may notify the Council in writing that it no longer wishes to be covered by the terms of this
 Protocol. In that case, this Protocol shall no longer apply to Ireland.

@@ -1,10 +1,10 @@
 ---
 title: "Provisions On The Annexes To The Act Of Accession Of 16 April 2003"
 heading: "Part 3"
-weight: 1
+weight: 100
 image: "/flags/eu.png"
 description: "Everyone has the right to liberty and security of person"
-icon: /flags/eu.png
+icon: eu
 ---
 
 

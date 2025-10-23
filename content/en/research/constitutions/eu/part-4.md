@@ -4,7 +4,7 @@ heading: "Part 4"
 weight: 1
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
 
 

@@ -4,10 +4,8 @@ heading: "Part 21-22"
 weight: 1
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
-
-
 
 
 <!-- THE HIGH CONTRACTING PARTIES, TAKING INTO ACCOUNT the need of the Member States to ensure effective controls at their external borders, in

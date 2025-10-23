@@ -1,3 +1,13 @@
+---
+title: "Protocol On The Financial Consequences Of The Expiry Of The Treaty Establishing The European Coal And Steel Community And On The Research Fund For Coal And Steel"
+heading: "Part 34"
+weight: 390
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
+
+
 34. PROTOCOL ON THE TRANSITIONAL PROVISIONS RELATING TO THE INSTITUTIONS AND BODIES OF THE UNION
 
 <!-- THE HIGH CONTRACTING PARTIES,
@@ -8,18 +18,19 @@ the Constitution and the instruments necessary for their implementation take ful
 HAVE AGREED UPON the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe and to the Treaty establishing the European Atomic Energy Community: -->
 
-TITLE I
+TITLE 1: PROVISIONS CONCERNING THE EUROPEAN PARLIAMENT
 
-PROVISIONS CONCERNING THE EUROPEAN PARLIAMENT
+### Article 1
 
-Article 1
 1. In accordance with the second subparagraph of Article I‑20(2) of the Constitution, the European
 Council shall adopt a European decision determining the composition of the European Parliament
 sufficiently in advance of the 2009 European Parliament elections.
+
 2. During the 2004‑2009 parliamentary term, the composition and the number of representatives
 elected to the European Parliament in each Member State shall remain the same as on the date of the
 entry into force of the Treaty establishing a Constitution for Europe, the number of representatives
 being as follows:
+
 Belgium 24
 Czech Republic 24
 Denmark 14
@@ -46,17 +57,21 @@ Finland 14
 Sweden 19
 United Kingdom 78
 
-TITLE 2: PROVISIONS CONCERNING THE EUROPEAN COUNCIL AND THE COUNCIL
+## TITLE 2: PROVISIONS CONCERNING THE EUROPEAN COUNCIL AND THE COUNCIL
 
-Article 2
+### Article 2
+
 1. The provisions of Article I‑25(1), (2) and (3) of the Constitution on the definition of the qualified
 majority in the European Council and the Council shall take effect on 1 November 2009, after
 the 2009 European Parliament elections have taken place in accordance with Article I‑20(2) of the
 Constitution.
+
 2. The following provisions shall remain in force until 31 October 2009, without prejudice to
 Article I‑25(4) of the Constitution.
+
 For acts of the European Council and of the Council requiring a qualified majority, members' votes
 shall be weighted as follows:
+
 Belgium 12
 Czech Republic 12
 Denmark 7
@@ -65,12 +80,7 @@ Estonia 4
 Greece 12
 Spain 27
 France 29
-Ireland 7954393_TRAITE_EN_351_400
-13-01-2005
-08:00
-Pagina 391
-Treaty establishing a Constitution for Europe
-391
+Ireland 7
 Italy 29
 Cyprus 4
 Latvia 4
@@ -87,6 +97,7 @@ Slovakia 7
 Finland 7
 Sweden 10
 United Kingdom 29
+
 Acts shall be adopted if there are at least 232 votes in favour representing a majority of the members
 where, under the Constitution, they must be adopted on a proposal from the Commission. In other
 cases decisions shall be adopted if there are at least 232 votes in favour representing at least two
@@ -147,20 +158,26 @@ having the same nationality as the Union Minister for Foreign Affairs shall end.
 Pagina 393
 Treaty establishing a Constitution for Europe
 393
-TITLE IV
-PROVISIONS CONCERNING THE SECRETARY-GENERAL OF THE COUNCIL, HIGH REPRESENTATIVE
-FOR THE COMMON FOREIGN AND SECURITY POLICY, AND THE DEPUTY SECRETARY-GENERAL
-OF THE COUNCIL
-Article 5
+
+
+## TITLE 4: PROVISIONS CONCERNING THE SECRETARY-GENERAL OF THE COUNCIL, HIGH REPRESENTATIVE FOR THE COMMON FOREIGN AND SECURITY POLICY, AND THE DEPUTY SECRETARY-GENERAL OF THE COUNCIL
+
+
+### Article 5
+
 The terms of office of the Secretary‑General of the Council, High Representative for the common
 foreign and security policy, and the Deputy Secretary‑General of the Council shall end on the date of
 entry into force of the Treaty establishing a Constitution for Europe. The Council shall appoint a
 Secretary‑General in conformity with Article 3‑344(2) of the Constitution.
-TITLE V
-PROVISIONS CONCERNING ADVISORY BODIES
-Article 6
+
+
+## TITLE 5: PROVISIONS CONCERNING ADVISORY BODIES
+
+### Article 6
+
 Until entry into force of the European decision referred to in Article 3‑386 of the Constitution, the
 allocation of members of the Committee of the Regions shall be as follows:
+
 Belgium 12
 Czech Republic 12
 Denmark 9
@@ -191,9 +208,13 @@ Slovakia 9
 Finland 9
 Sweden 12
 United Kingdom 24
-Article 7
+
+
+### Article 7
+
 Until entry into force of the European decision referred to in Article 3‑389 of the Constitution, the
 allocation of members of the Economic and Social Committee shall be as follows:
+
 Belgium 12
 Czech Republic 12
 Denmark 9

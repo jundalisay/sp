@@ -1,10 +1,10 @@
 ---
-title: "PROTOCOL ON THE PACIFIC FINANCIAL COMMUNITY FRANC SYSTEM "
+title: "Protocol On The Pacific Financial Community Franc System"
 heading: "Part 16-17"
 weight: 1
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
 
 

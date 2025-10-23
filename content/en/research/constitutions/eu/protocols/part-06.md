@@ -1,10 +1,10 @@
 ---
 title: "Protocol On The Location Of The Seats Of The Institutions of The EU"
 heading: "Part 6"
-weight: 1
+weight: 12
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
 
 <!-- THE HIGH CONTRACTING PARTIES,

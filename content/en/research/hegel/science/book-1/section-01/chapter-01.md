@@ -18,22 +18,28 @@ Quality - Quantity - Measure -->
 ## Section One: Determinateness (Quality)
 
 
-<sup>130</sup> Being is the indeterminate immediate.
+<sup>130</sup> Being [current general existence] is the indeterminate immediate.
 
 It is free from determinateness in relation to essence and also from any which it can possess within itself.
 
-This reflectionless being is being as it is immediately in its own self alone.
+This reflectionless being [existence] is being [existence] as it is immediately in its own self alone.
 
 
 <sup>131</sup> Because it is indeterminate being, it lacks all quality.
 
-But in itself, the character of indeterminateness attaches to it only in contrast to what is determinate or qualitative. 
+But its indeterminateness is only in contrast to what is determinate or qualitative. 
 
-But determinate being stands in contrast to being in general, so that the very indeterminateness of the latter constitutes its quality. 
+But determinate being [specific existence] stands in contrast to general being [existence].
+- The very indeterminateness of [general existence] is the quality of [general existence]. 
 
-Thus the first being is in itself determinate. 
+<!-- the first being -->
+Thus, [specific existence] is in itself determinate. 
 
-It passes over into determinate being as a finite being that sublates itself and passes over into the infinite relation of being to its own self.
+[General existence] becomes [specific existence] as a finite being that:
+- sublates itself and
+- passes over into the infinite relation of being [general existence] to its own self [specific existence].
+
+<!-- It passes over into determinate being  -->
 
 This turns it itno being-for-self.
 
@@ -41,26 +47,49 @@ This turns it itno being-for-self.
 A Being -->
 
 
-<sup>132</sup> What is pure being without any further determination?
+<sup>132</sup> What is pure being [existence] without any further determination?
 
-In its indeterminate immediacy it is equal only to itself. 
+[Current general existence] is equal only to [Current general existence].
 
-It is also not unequal relatively to an other; it has no diversity within itself nor any with a reference outwards. 
+<!-- In its indeterminate immediacy it is equal only to itself.  -->
 
-It would not be held fast in its purity if it contained any determination or content which could be distinguished in it or by which it could be distinguished from an other. 
+[Current general existence] :
+- is equal relatively to an other [existence]
+- has no diversity within itself nor any with a reference outwards. 
 
-It is pure indeterminateness and emptiness. 
+<!-- It is also not unequal relatively to an other; it has no diversity within itself nor any with a reference outwards.  -->
 
-There is nothing to be intuited in it, if one can speak here of intuiting; or, it is only this pure intuiting itself. 
+[Current general existence] would not be pure [existence] if it contained any determination or content which would make it different from another [existence].
 
-Just as little is anything to be thought in it, or it is equally only this empty thinking. Being, the indeterminate immediate, is in fact nothing, and neither more nor less than nothing.
+<!-- It would not be held fast in its purity 
+
+could be distinguished in it or by which it could be distinguished from an other.  -->
+
+It [Current general existence] is pure indeterminateness and emptiness. 
+
+There is nothing to be intuited in it.
+
+[Current general existence] is only this pure intuiting itself. 
+
+Just as little is anything to be thought in it, or it is equally only this empty thinking. 
+
+<!-- Being, the indeterminate immediate,  -->
+
+[Current general existence] is in fact nothing.
+
+<!-- , and neither more nor less than nothing. -->
 
 
 <!-- B Nothing -->
 
-<sup>133</sup> What is pure nothing?
+<sup>133</sup> What is pure nothing[ness]?
 
-It is simply equality with itself, complete emptiness, absence of all determination and content — undifferentiatedness in itself. 
+It is simply:
+- equality with itself
+- complete emptiness
+- absence of all determination and content
+
+ <!-- — undifferentiatedness in itself.  -->
 
 In so far as intuiting or thinking can be mentioned here, it counts as a distinction whether something or nothing is intuited or thought. 
 
@@ -68,25 +97,42 @@ To intuit or think nothing has, therefore, a meaning.
 
 Both are distinguished and thus [the idea of] nothing  exists in our thinking.
 
-[The idea of] nothing is empty intuition and thought itself. It is the same empty thought as pure being.
+[The idea of] nothing is empty intuition and thought itself. It is the same empty thought as pure being [Current general existence].
 
-Nothing is, therefore, the same determination, or rather absence of determination, and thus altogether the same as, pure being.®*
+<!-- [The idea of] nothing[ness] is, therefore, the same determination, or rather absence of determination, and thus altogether the same as, pure being.® * -->
 
 {{< n n="Nothing and Being are the same as the Nirguna Brahama" >}}
 
 
 
-C Becoming
+### C Becoming
 
-1. Unity of Being and Nothing
+1. Unity of Being and Nothing [existence and the idea of nothingness]
 
-<sup>134</sup> Pure Being [Existence] and pure nothing are, therefore, the same.
+<sup>134</sup> Pure Being [existence] and pure [idea of] nothing[ness] are, therefore, the same.
 
-What is the truth is neither being nor nothing, but that being — does not pass over but has passed over — into nothing, and nothing into being.
+- [Pure existence] has passed over [the idea of] nothing[ness]
+- [the idea of] nothing[ness] has passed into [Pure existence]
 
-But it is equally true that they are not undistinguished from each other, that, on the contrary, they are not the same, that they are absolutely distinct, and yet that they are unseparated and inseparable and that each immediately vanishes in its opposite. 
 
-Their truth is therefore, this movement of the immediate vanishing of the one into the other: becoming, a movement in which both are distinguished, but by a difference which has equally immediately resolved itself. ®
+<!-- What is the truth is neither being nor nothing, but that being — does not pass over but has passed over — into nothing, and nothing into being. -->
+
+This makes them not the same. 
+
+{{< n n="Statically they are the same, but actively, they are different" >}}
+
+
+<!-- But it is equally true that they are not undistinguished from each other, that, on the contrary, they are not the same, that they are absolutely distinct, and yet that they are unseparated and inseparable and that each immediately vanishes in its opposite.  -->
+
+Their truth is therefore, this movement of the immediate vanishing of the one into the other.
+
+This movement is called 'becoming'.
+- This distinguishes both.
+
+{{< n n="Becoming is the flow of cognition" >}}
+
+
+<!-- , but by a difference which has equally immediately resolved itself. ® -->
 
 
 Remark 1: The Opposition of Being and Nothing in Ordinary Thinking

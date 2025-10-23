@@ -1,10 +1,10 @@
 ---
-title: "PROTOCOL ON THE POSITION OF DENMARK"
+title: "Protocol On The Position Of Denmark"
 heading: "Part 20"
 weight: 1
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
 
 

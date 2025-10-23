@@ -4,7 +4,7 @@ heading: "Title 6"
 weight: 1
 image: "/flags/eu.png"
 description: "Everyone is equal before the law"
-icon: /flags/eu.png
+icon: eu
 ---
 
  

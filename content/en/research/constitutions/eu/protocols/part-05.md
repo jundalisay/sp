@@ -1,10 +1,10 @@
 ---
 title: "Protocol On The Statute Of The European Investment Bank"
 heading: "Part 5"
-weight: 1
+weight: 10
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
 
 

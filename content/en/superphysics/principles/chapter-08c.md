@@ -25,7 +25,7 @@ Knowledge, intuition, cognition, or realization are all effects of the Positive 
 
 In order to elucidate the thinking process, we need to define concepts related to it. This will be useful when we make anaglogies to the feelings since ideas are just bunched-up feelings. 
 
-- **Logic** is the connection of ideas. 
+- **Logic** is the connection of ideas. This is made possible by the flow of cogntion. This flow is from the nature of mind as a bunch of waves
 
 - **Reasoning** is the use of logic to explain cause and effect in general.
 

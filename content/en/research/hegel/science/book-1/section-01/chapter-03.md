@@ -16,7 +16,9 @@ It thus contains, to begin with, only the first negation, which is itself immedi
 
 Determinate being is therefore the sphere of difference, of dualism, the field of finitude. Determinateness is determinateness as such, in which being is only relatively, not absolutely determined. 
 
-In being-for-self, the difference between being and determinateness or negation is posited and equalised; quality, otherness, limit — like reality, being-in-itself, the ought, and so on-are the imperfect embodiments of the negation in being in which the difference of both still lies at the base. Since, however, in finitude the negation has passed into infinity, into the posited negation of negation, it is simple self-relation and consequently in its own self the equalisation with being, absolutely determined being.
+In being-for-self, the difference between being and determinateness or negation is posited and equalised; quality, otherness, limit — like reality, being-in-itself, the ought, and so on-are the imperfect embodiments of the negation in being in which the difference of both still lies at the base. 
+
+Since, however, in finitude the negation has passed into infinity, into the posited negation of negation, it is simple self-relation and consequently in its own self the equalisation with being, absolutely determined being.
 
 
 
@@ -31,22 +33,41 @@ Thirdly, we have the alternating determination of repulsion and attraction in wh
 
 ## A. BEING-FOR-SELF AS SUCH
 
+<sup>320</sup> We have arrived at the general Notion of being-for-self. 
 
-§ 320
+I next demonstrate that the said Notion corresponds to the general idea associated with the expression, being-for-self. 
 
-We have arrived at the general Notion of being-for-self. All that is now necessary to justify our use of the term for this Notion is to demonstrate that the said Notion corresponds to the general idea associated with the expression, being-for-self. And so indeed it seems; we say that something is for itself in so far as it transcends otherness, its connection and community with other, has repelled them and made abstraction from them. For it, the other has being only as sublated, as its moment; being-for-self consists in having so transcended limitation, its otherness, that it is, as this negation, the infinite return into itself. Consciousness, even as such, contains in principle the determination of being-for-self in that it represents to itself an object which it senses, or intuits, and so forth; that is, it has within it the content of the object, which in this manner has an 'ideal' being; in its very intuiting and, in general, in its entanglement with the negative of itself, with its other, consciousness is still only in the presence of its own self. Being-for-self is the polemical, negative attitude towards the limiting other, and through this negation of the latter is a reflectedness-into-self, although along with this return of consciousness into itself and the ideality of the object, the reality of the object is also still preserved, in that it is at the same time known as an external existence. Consciousness thus belongs to the sphere of Appearance, or is the dualism, on the one hand of knowing an alien object external to it, and on the other hand of being for its own self, having the object ideally [ideell] present in it; of being not only in the presence of the other, but therein being in the presence of its own self. Self-consciousness, on the other hand, is being-for-self as consummated and posited; the side of connection with an other, with an external object, is removed. Self-consciousness is thus the nearest example of the presence of infinity; granted, of an infinity which is still abstract, yet which, at the same time, is a very different concrete determination from being-for-self in general, the infinity of which has a determinateness which is still quite qualitative.
+We say that something is for itself in so far as it transcends otherness, its connection and community with other, has repelled them and made abstraction from them. 
+
+For it, the other has being only as sublated, as its moment; being-for-self consists in having so transcended limitation, its otherness, that it is, as this negation, the infinite return into itself. 
+
+Consciousness contains the determination of being-for-self because it represents to itself an object which it senses, or intuits, and so forth.
+
+ that is, it has within it the content of the object, which in this manner has an 'ideal' being; in its very intuiting and, in general, in its entanglement with the negative of itself, with its other, consciousness is still only in the presence of its own self. 
+
+ Being-for-self is the polemical, negative attitude towards the limiting other, and through this negation of the latter is a reflectedness-into-self, although along with this return of consciousness into itself and the ideality of the object, the reality of the object is also still preserved, in that it is at the same time known as an external existence. 
+
+ Consciousness thus belongs to the sphere of Appearance, or is the dualism, on the one hand of knowing an alien object external to it, and on the other hand of being for its own self, having the object ideally [ideell] present in it; of being not only in the presence of the other, but therein being in the presence of its own self. Self-consciousness, on the other hand, is being-for-self as consummated and posited; the side of connection with an other, with an external object, is removed. Self-consciousness is thus the nearest example of the presence of infinity; granted, of an infinity which is still abstract, yet which, at the same time, is a very different concrete determination from being-for-self in general, the infinity of which has a determinateness which is still quite qualitative.
 
 (a) Determinate Being and Being-for-self
-§ 321
 
-As already mentioned, being-for-self is infinity which has collapsed into simple being; it is determinate being in so far as the negative nature of infinity, which is the negation of negation, is from now on in the explicit form of the immediacy of being, as only negation in general, as simple qualitative determinateness. But being, which in such determinateness is determinate being, is also at once distinct from being-for-self, which is only being-for-self in so far as its determinateness is the infinite one above-mentioned; nevertheless, determinate being is at the same time also a moment of being-for-self; for this latter, of course, also contains being charged with negation. Thus the determinateness which in determinate being as such is an other, and a being-for-other, is bent back into the infinite unity of being-for-self, and the moment of determinate being is present in being-for-self as a being-for-one.
+<sup>321</sup> Being-for-self is infinity which has collapsed into simple being.
+
+It is determinate being in so far as the negative nature of infinity, which is the negation of negation, is from now on in the explicit form of the immediacy of being, as only negation in general, as simple qualitative determinateness. 
+
+But being, which in such determinateness is determinate being, is also at once distinct from being-for-self, which is only being-for-self in so far as its determinateness is the infinite one above-mentioned; nevertheless, determinate being is at the same time also a moment of being-for-self; for this latter, of course, also contains being charged with negation. Thus the determinateness which in determinate being as such is an other, and a being-for-other, is bent back into the infinite unity of being-for-self, and the moment of determinate being is present in being-for-self as a being-for-one.
 
 (b) Being-for-one
-§ 322
 
-This moment expresses the manner in which the finite is present in its unity with the infinite, or is an ideal being [Ideelles]. 
+<sup>322</sup> This moment expresses the manner in which the finite is present in its unity with the infinite, or is an ideal being [Ideelles]. 
 
-In being-for-self, negation is not present as a determinateness or limit, or consequently as a relation to a determinate being which is for it an other. Now though this moment has been designated as being-for-one, there is as yet nothing present for which it would be-no one, of which it would be the moment. There is, in fact, nothing of the kind as yet fixed in being-for-self; that for which something (and here there is no something) would be, whatever the other side as such might be, is likewise a moment, is itself only a being-for-one, not yet a one. 
+In being-for-self, negation is not present as a determinateness or limit, or consequently as a relation to a determinate being which is for it an other.
+
+I have called this moment as 'being-for-one'.
+
+But there is as yet nothing present for which it would be-no one, of which it would be the moment. 
+
+There is nothing of the kind as yet fixed in being-for-self; that for which something (and here there is no something) would be, whatever the other side as such might be, is likewise a moment, is itself only a being-for-one, not yet a one. 
 
 Consequently, what we have before us is still an undistinguishedness of the two sides which may be suggested by being-for-one; there is only one being- orother, and because there is only one, this too is only a being-for-one; there is only the one ideality of that, for which or in which there is supposed to be a determination as moment, and of that which is supposed to be a moment in it. Being-for-one and being-for-self are, therefore, not genuinely opposed determinatenesses. If the difference is assumed for a moment and we speak of a being-for-self, then it is this itself which, as the sublatedness of otherness, relates itself to itself as the sublated other, and is therefore 'for one'; it is related in its other only to its own self.
 
@@ -64,16 +85,13 @@ To be 'for self' and to be 'for one' are therefore not different meanings of ide
 
 <!-- Remark: The German Expression, 'What For a Thing' (Meaning 'What Kind of a Thing') -->
 
-§ 323
 
-The German expression for enquiring after the quality of anything — an expression which appears strange at first sight — 'What for a thing [was für ein Ding] something is, brings into prominence, in its reflection-into-self, the moment here considered. 
+<sup>323</sup> The German expression for enquiring after the quality of anything — an expression which appears strange at first sight — 'What for a thing [was für ein Ding] something is, brings into prominence, in its reflection-into-self, the moment here considered. 
 
 This expression is in its origin idealistic, since it does not ask what this thing A is for another thing B, not what this man is for another man; on the contrary, it asks what this thing, this man, is for a thing, for a man, so that this being-for-one has at the same time returned into this thing, into this man himself; in other words that which is, and that for which it is, are one and the same — an identity, such as ideality also must be considered to be.
 
 
-§ 324
-
-Ideality attaches in the first place to the sublated determinations as distinguished from that in which they are sublated, which by contrast can be taken as the real. But thus the ideal is again one of the moments, and the real the other; but the significance of ideality is that both determinations are equally only for one and count only for one, which one ideality is, without distinction, reality. 
+<sup>324</sup> Ideality attaches in the first place to the sublated determinations as distinguished from that in which they are sublated, which by contrast can be taken as the real. But thus the ideal is again one of the moments, and the real the other; but the significance of ideality is that both determinations are equally only for one and count only for one, which one ideality is, without distinction, reality. 
 
 In this sense self-consciousness, spirit, God, is ideal as an infinite relation purely to self. 
 

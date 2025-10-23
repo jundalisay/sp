@@ -1,10 +1,10 @@
 ---
-title: "Protocol On The EXCESSIVE DEFICIT PROCEDURE"
+title: "Protocol On The Excessive Deficit Procedure"
 heading: "Part 10-12"
-weight: 1
+weight: 14
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
 
 
@@ -13,27 +13,33 @@ DESIRING to lay down the details of the excessive deficit procedure referred to 
 HAVE AGREED upon the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
-Article 1
+### Article 1
 
 The reference values referred to in Article 3-184(2) of the Constitution are:
-(a) 3 % for the ratio of the planned or actual government deficit to gross domestic product at market
-prices;
+
+(a) 3 % for the ratio of the planned or actual government deficit to gross domestic product at market prices;
+
 (b) 60 % for the ratio of government debt to gross domestic product at market prices.
 
-Article 2
+### Article 2
 
 For the purposes of Article 3-184 of the Constitution and of this Protocol:
+
 (a) ‘government’ means general government, that is central government, regional or local
 government and social security funds, to the exclusion of commercial operations, as defined
 in the European System of Integrated Economic Accounts;
+
 (b) ‘deficit’ means net borrowing as defined in the European System of Integrated Economic
 Accounts;
+
 (c) ‘investment’ means gross fixed capital formation as defined in the European System of Integrated
 Economic Accounts;
+
 (d) ‘debt’ means total gross debt at nominal value outstanding at the end of the year and consolidated
 between and within the sectors of general government as defined in point (a).
 
-Article 3
+
+### Article 3
 
 In order to ensure the effectiveness of the excessive deficit procedure, the governments of the
 Member States shall be responsible under this procedure for the deficits of general government as
@@ -54,7 +60,7 @@ in Article 3-198 of the Constitution to end the derogations of those Member Stat
 HAVE AGREED upon the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
-Article 1
+### Article 1
 
 The criterion on price stability referred to in Article 3-198(1)(a) of the Constitution shall mean that
 the Member State concerned has a price performance that is sustainable and an average rate of
@@ -62,19 +68,26 @@ inflation, observed over a period of one year before the examination, that does 
 than 1,5 percentage points that of, at most, the three best performing Member States in terms of
 price stability. Inflation shall be measured by means of the consumer price index on a comparable
 basis, taking into account differences in national definitions.
-Article 2
+
+### Article 2 
+
 The criterion on the government budgetary position referred to in Article 3-198(1)(b) of the
 Constitution shall mean that at the time of the examination the Member State concerned is not the
 subject of a European decision of the Council under Article 3-184(6) of the Constitution that an
 excessive deficit exists.
-Article 3
+
+### Article 3
+
 The criterion on participation in the exchange-rate mechanism of the European Monetary System
 referred to in Article 3-198(1)(c) of the Constitution shall mean that the Member State concerned
 has respected the normal fluctuation margins provided for by the exchange-rate mechanism of the
 European Monetary System without severe tensions for at least the last two years before the
 examination. In particular, the Member State shall not have devalued its currency's bilateral central
 rate against the euro on its own initiative for the same period.
-Article 4
+
+
+### Article 4
+
 The criterion on the convergence of interest rates referred to in Article 3-198(1)(d) of the
 Constitution shall mean that, observed over a period of one year before the examination, the Member
 State concerned has had an average nominal long-term interest rate that does not exceed by more
@@ -102,7 +115,8 @@ CONSCIOUS of the need to lay down special provisions for enhanced dialogue betwe
 currency is the euro, pending the euro becoming the currency of all Member States of the Union,
 HAVE AGREED upon the following provisions, which are annexed to the Treaty establishing a Constitution for Europe: -->
 
-Article 1
+
+### Article 1
 
 The Ministers of the Member States whose currency is the euro shall meet informally. Such meetings
 shall take place, when necessary, to discuss questions related to the specific responsibilities they share
@@ -111,7 +125,7 @@ European Central Bank shall be invited to take part in such meetings, which shal
 representatives of the Ministers with responsibility for finance of the Member States whose currency
 is the euro and of the Commission.
 
-Article 2
+### Article 2
 
 The Ministers of the Member States whose currency is the euro shall elect a president for two and a
 half years, by a majority of those Member States.

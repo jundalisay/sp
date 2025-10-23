@@ -4,7 +4,7 @@ heading: "Title 1"
 weight: 1
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
 
 <!--  THE HIGH CONTRACTING PARTIES,

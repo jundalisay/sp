@@ -4,7 +4,7 @@ heading: "Title 1"
 weight: 1
 image: "/flags/eu.png"
 description: "Human dignity is inviolable. It must be respected and protected."
-icon: /flags/eu.png
+icon: eu
 ---
 
 
@@ -40,28 +40,38 @@ The Union therefore recognises the rights, freedoms and principles set out herea
 
 TITLE I -->
 
-Article 1
+
+## Article 1
 
 Human dignity is inviolable. It must be respected and protected.
 
-Article 2
 
-Right to life
+## Article 2
+
+Right to life 
+
 1. Everyone has the right to life.
 2. No one shall be condemned to the death penalty, or executed.
 
-Article 3
+
+## Article 3
 
 Right to the integrity of the person
+
 1. Everyone has the right to respect for his or her physical and mental integrity.
 2. In the fields of medicine and biology, the following must be respected in particular:
+
 (a) the free and informed consent of the person concerned, according to the procedures laid down
 by law;
+
 (b) the prohibition of eugenic practices, in particular those aiming at the selection of persons;
+
 (c) the prohibition on making the human body and its parts as such a source of financial gain;
+
 (d) the prohibition of the reproductive cloning of human beings.
 
-Article 4
+
+## Article 4
 
 Prohibition of torture and inhuman or degrading treatment or punishment
 No one shall be subjected to torture or to inhuman or degrading treatment or punishment.

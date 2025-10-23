@@ -1,10 +1,10 @@
 ---
-title: "PROTOCOL ON PERMANENT STRUCTURED COOPERATION ESTABLISHED BY ARTICLE I-41(6) AND ARTICLE III-312 OF THE CONSTITUTION "
+title: "Protocol On Permanent Structured Cooperation Established By Article 1-41 and Article 3-312 of The Constitution"
 heading: "Part 23"
 weight: 1
 image: "/flags/eu.png"
 description: ""
-icon: /flags/eu.png
+icon: eu
 ---
 
 
