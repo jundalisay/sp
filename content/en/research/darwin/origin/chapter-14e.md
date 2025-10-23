@@ -78,13 +78,19 @@ How far do I extend the doctrine of the modification of species?
 
 The more distinct the forms we consider, the more our arguments fall away in force.
 
-But some arguments of the greatest weight extend very far. All the members of whole classes can be connected together by chains of affinities, and all can be classified on the same principle, in groups subordinate to groups. 
+All the members of whole classes can be:
+- connected together by chains of affinities
+- classified on the same principle, in groups subordinate to groups. 
 
-Fossil remains sometimes tend to fill up very wide intervals between existing orders.
+Fossil remains sometimes fill up very wide intervals between existing orders.
 
-Organs in a rudimentary condition plainly show that an early progenitor had the organ in a fully developed state; and this in some instances necessarily implies an enormous amount of modification in the descendants. 
+Organs in a rudimentary condition show that an early progenitor had the organ fully developed.
 
-Throughout whole classes various structures are formed on the same pattern, and at an embryonic age the species closely resemble each other.
+This implies an enormous amount of modification in the descendants. 
+
+Throughout whole classes, various structures are formed on the same pattern.
+
+At an embryonic age, the species closely resemble each other.
 
 Therefore, the theory of descent with modification embraces all the members of the same class.
 

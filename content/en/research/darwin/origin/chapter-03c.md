@@ -67,12 +67,21 @@ The introduction of a single tree created such a potent effect.
 
 I saw the importance of enclosure near Farnham, in Surrey. 
 
-Here there are extensive heaths, with a few clumps of old Scotch firs on the distant hill-tops: within the last ten years large spaces have been enclosed, and self-sown firs are now springing up in multitudes, so close together that all cannot live.
+Here there are extensive heaths, with a few clumps of old Scotch firs on the distant hill-tops.
 
-When I ascertained that these young trees had not been sown or planted, I was so much surprised at their numbers that I went to several points of view, whence I could examine hundreds of acres of the unenclosed heath, and literally I could not see a single Scotch fir, except the old planted clumps. 
+Within the last 10 years, large spaces have been enclosed.
+
+Self-sown firs are now springing up in multitudes, so close together that all cannot live.
+- They were so many.
+<!-- I ascertained that these young trees had not been sown or planted. -->
+
+<!-- I was so much surprised at their numbers that I went to several points of view, whence I could examine -->
+
+I compared them with hundreds of acres of the unenclosed heath.
+
+I could not see a single Scotch fir, except the old planted clumps. 
 
 But on looking closely between the stems of the heath, I found a multitude of seedlings and little trees, which had been perpetually browsed down by the cattle. 
-
 
 In 1 square yard, at a point some hundreds yards distant from one of the old clumps, I counted 32 little trees.
 
@@ -84,17 +93,37 @@ Yet the heath was so extremely barren and so extensive that no one would ever ha
 
 Here we see that cattle absolutely determine the existence of the Scotch fir; but in several parts of the world insects determine the existence of cattle. 
 
-Perhaps Paraguay offers the most curious instance of this; for here neither cattle nor horses nor dogs have ever run wild, though they swarm southward and northward in a feral state; and Azara and Rengger have shown that this is caused by the greater number in Paraguay of a certain fly, which lays its eggs in the navels of these animals when first born. 
+Perhaps Paraguay offers the most curious instance of this.
 
-The increase of these flies must be habitually checked by some means, probably by birds.
+For here, neither cattle nor horses nor dogs have ever run wild, though they swarm southward and northward in a feral state.
 
-Hence, if certain insectivorous birds (whose numbers are probably regulated by hawks or beasts of prey) were to increase in Paraguay, the flies would decrease--then cattle and horses would become feral, and this would certainly greatly alter (as indeed I have observed in parts of South America) the vegetation: this again would largely affect the insects; and this, as we just have seen in Staffordshire, the insectivorous birds, and so onwards in ever- increasing circles of complexity. 
+Azara and Rengger have shown that this is caused by the greater number in Paraguay of a certain fly, which lays its eggs in the navels of these animals when first born. 
 
-We began this series by insectivorous birds, and we have ended with them. Not that in nature the relations can ever be as simple as this.
+The increase of these flies are probably checked by birds.
 
-Battle within battle must ever be recurring with varying success. 
+Insectivorous birds are probably regulated by hawks or beasts of prey.
 
-Yet in the long-run the forces are so nicely balanced, that the face of nature remains uniform for long periods of time, though assuredly the merest trifle would often give the victory to one organic being over another.
+If they increased in Paraguay, the flies would decrease.
 
-Nevertheless so profound is our ignorance, and so high our presumption, that we marvel when we hear of the extinction of an organic being; and as we do not see the cause, we invoke cataclysms to desolate the world, or invent laws on the duration of the forms of life!
+Cattle and horses would then become feral.
+
+This would greatly alter the vegetation, as I have observed in parts of South America.
+
+This again would largely affect the insects.
+
+As seen in Staffordshire, this woudl affect the insectivorous birds.
+
+<!-- , and so onwards in ever- increasing circles of complexity.  -->
+
+I began this series with insectivorous birds, and ended with them.
+
+In nature, the relations are not as simple as this.
+
+Battle within battle recurs with varying success. 
+
+Yet in the long-run, the forces are so nicely balanced, that the face of nature remains uniform for long periods of time, though assuredly the merest trifle would often give the victory to one organic being over another.
+
+Nevertheless so profound is our ignorance, and so high our presumption, that we marvel when we hear of the extinction of an organic being.
+
+We do not see the cause, we invoke cataclysms to desolate the world, or invent laws on the duration of the forms of life!
 

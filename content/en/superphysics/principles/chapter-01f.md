@@ -237,6 +237,12 @@ The distubances are caused by 2 Forces of Positive and Negative. Free will and s
 
 ## Defintions: Idea, Reality, Alternate Reality, Life, Perception
 
+**Substance** is the raw material of Existence. This is purely theoretical.
+
+**Metaphysical Wave** is substance getting dynamism from the 2 Forces.  
+
+**Aether** is dynamic substance deployed in Existence. This is semi-practical and semi-theoretical.
+
 An **idea** is a discrete metaphysical object, as a node in the aether.
 
 **Reality** is the structure of perception-relations between nodes.

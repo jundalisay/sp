@@ -163,10 +163,18 @@ The more negative or hostile they react to these natural concepts, the more mate
 
 
 
-## Definition
+## Materialist, Aetheralist, Spiritualist 
 
-A materialist is a mind that is stuck to the Crude Stratum.
+<!-- Soul is a 
+Mind is a -->
 
+A materialist is a mind that operates on the Crude and Material Layers.
+
+An aetherealist is a mind that operates on the Aethereal Layers.
+
+A spiritualist is a mind that operates on the Subtle and Astral Layers
+
+A englightened mind operates in the Subtle, Astral, Causal, and Essential Layers.
 
 
 ## So What's the Use of Exposing the Materialist View?

@@ -77,6 +77,16 @@ Nature does not wish that weaker individuals should mate with the stronger. She 
 
 
 
+## Vertical and Horizontal
+
+Chapter 5c explained the connection and hierarchy of ideas which is seen in the hierarchy of organisms.
+
+{{< q a="Charles Darwin" c="On The Origin of Species, Chapter 4" >}}
+All animals and all plants are related to each other in group subordinate to group.. The several subordinate groups in any class are clustered around points. These are clustered around other points, and so on in almost endless cycles. This refutes the view that each species has been independently created. Instead, this is explained through inheritance and the complex action of natural selection which entails extinction and divergence of character.
+{{< /q >}}
+
+
+
 ## Lamarck's Classification of Animals
 
 We use Lamarck's 14 classes and add 2 subclasses for advanced alien mammals. 
@@ -119,7 +129,7 @@ The faculty of movement in the most imperfect animals evolves within the animal 
 
 ## So What's the Use of Desire-based Evolution?
 
-On a personal level, Desire-based Evolution is consisten with the Law of Attraction which says that reality is based on desire, will or grit. 
+On a personal level, Desire-based Evolution is consistent with the Law of Attraction which says that reality is based on desire, will or grit. 
 
 So the minimum effect is empowerment. 
 

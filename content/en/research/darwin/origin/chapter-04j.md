@@ -8,18 +8,21 @@ c: "firebrick"
 
 
 
-Now let us see how this principle of great benefit being derived from divergence of character, combined with the principles of natural selection and of extinction, will tend to act. 
-
+How does this principle of benefit from divergence of character go with the principles of natural selection and of extinction?
 
 Let A to L represent the species of a genus large in its own country.
 
-These species are supposed to resemble each other in unequal degrees, as is so generally the case in nature, and as is represented in the diagram by the letters standing at unequal distances. 
+These species resemble each other in unequal degrees.
+
+As is so generally the case in nature, and as is represented in the diagram by the letters standing at unequal distances. 
 
 A large genus, because we have seen in the second chapter, that on an average more of the species of large genera vary than of small genera; and the varying species of the large genera present a greater number of varieties. 
 
 We have, also, seen that the species, which are the commonest and the most widely-diffused, vary more than rare species with restricted ranges. Let (A) be a common, widely-diffused, and varying species, belonging to a genus large in its own country. 
 
-The little fan of diverging dotted lines of unequal lengths proceeding from (A), may represent its varying offspring. The variations are supposed to be extremely slight, but of the most diversified nature; they are not supposed all to appear simultaneously, but often after long intervals of time; nor are they all supposed to endure forequal periods. Only those variations which are in some way profitable will be preserved or naturally selected. 
+The little fan of diverging dotted lines of unequal lengths proceeding from (A), may represent its varying offspring. 
+
+The variations are supposed to be extremely slight, but of the most diversified nature; they are not supposed all to appear simultaneously, but often after long intervals of time; nor are they all supposed to endure forequal periods. Only those variations which are in some way profitable will be preserved or naturally selected. 
 
 Here the importance of the principle of benefit being derived from divergence of character comes in; for this will generally lead to the most different or divergent variations (represented by the outer dotted lines) being preserved and accumulated by natural selection. 
 
@@ -27,19 +30,57 @@ When a dotted line reaches one of the horizontal lines, and is there marked by a
 
 The intervals between the horizontal lines in the diagram, may represent each a thousand generations; but it would have been better if each had represented ten thousand generations. After a thousand generations, species (A) is supposed to have produced two fairly well-marked varieties, namely a1 and m1.
 
-These two varieties will generally continue to be exposed to the same conditions which made their parents variable, and the tendency to variability is in itself hereditary, consequently they will tend to vary, and generally to vary in nearly the same manner as their parents varied. Moreover, these two varieties, being only slightly modified forms, will tend to inherit those advantages which made their common parent (A) more numerous than most of the other inhabitants of the same country; they will likewise partake of those more general advantages which made the genus to which the parent-species belonged, a large genus in its own country. And these circumstances we know to be favourable to the production of new varieties.
+These 2 varieties will continue to be exposed to the same conditions which made their parents variable.
 
-If, then, these two varieties be variable, the most divergent of their variations will generally be preserved during the next thousand generations. And after this interval, variety a1 is supposed in the diagram to have produced variety a2, which will, owing to the principle of divergence, differ more from (A) than did variety a1. Variety m1 is supposed to have produced two varieties, namely m2 and s2, differing from each other, and more considerably from their common parent (A). We may continue the process by similar steps for any length of time; some of the varieties, after each thousand generations, producing only a single variety, but in a more and more modified condition, some producing two or three varieties, and some failing to produce any. Thus the varieties or modified descendants, proceeding from the common parent (A), will generally go on increasing in number and diverging in character. In the diagram the process is represented up to the ten- thousandth generation, and under a condensed and simplified form up to the fourteen-thousandth generation.
+The tendency to variability is in itself hereditary.
 
-I do not suppose that the process ever goes on so regularly as is represented in the diagram, though in itself made somewhat irregular.
+Consequently, they will tend to vary in nearly the same manner as their parents varied.
 
-I am far from thinking that the most divergent varieties will invariably prevail and multiply: a medium form may often long endure, and may or may not produce more than one modified descendant; for natural selection will always act according to the nature of the places which are either unoccupied or not perfectly occupied by other beings; and this will depend on infinitely complex relations. But as a general rule, the more diversified in structure the descendants from any one species can be rendered, the more places they will be enabled to seize on, and the more their modified progeny will be increased. 
+These 2 varieties are only slightly modified forms. They will tend to inherit those advantages which made their common parent (A) more numerous than most of the other inhabitants of the same country; they will likewise partake of those more general advantages which made the genus to which the parent-species belonged, a large genus in its own country.
 
-In our diagram the line of succession is broken at regular intervals by small numbered letters marking the successive forms which have become sufficiently distinct to be recorded as varieties. But these breaks are imaginary, and might have been inserted anywhere, after intervals long enough to have allowed the accumulation of a considerable amount of divergent variation.As all the modified descendants from a common and widely-diffused species, belonging to a large genus, will tend to partake of the same advantages which made their parent successful in life, they will generally go on multiplying in number as well as diverging in character: this is represented in the diagram by the several divergent branches proceeding from (A). 
+These circumstances we know to be favourable to the production of new varieties.
 
-The modified offspring from the later and more highly improved branches in the lines of descent, will, it is probable, often take the place of, and so destroy, the earlier and less improved branches: this is represented in the diagram by some of the lower branches not reaching to the upper horizontal lines. In some cases I do not doubt that the process of modification will be confined to a single line of descent, and the number of the descendants will not be increased; although the amount of divergent modification may have been increased in the successive generations. This case would be represented in the diagram, if all the lines proceeding from (A) were removed, excepting that from a1 to a10. In the same way, for instance, the English race-horse and English pointer have apparently both gone on slowly diverging in character from their original stocks, without either having given off any fresh branches or races.
+If, then, these two varieties be variable, the most divergent of their variations will generally be preserved during the next thousand generations. 
 
-After ten thousand generations, species (A) is supposed to have produced three forms, a10, f10, and m10, which, from having diverged in character during the successive generations, will have come to differ largely, but perhaps unequally, from each other and from their common parent. If we suppose the amount of change between each horizontal line in our diagram to be excessively small, these three forms may still be only well-marked varieties; or they may have arrived at the doubtful category of sub-species; but we have only to suppose the steps in the process of modification to be more numerous or greater in amount, to convert these three forms into well-defined species: thus the diagram illustrates the steps by which the small differences distinguishing varieties are increased into the larger differences distinguishing species. By continuing the same process for a greater number of generations (as shown in the diagram in a condensed and simplified manner), we get eight species, marked by the letters between a14 and m14, all descended from (A). Thus, as I believe, species are multiplied and genera are formed.
+After this interval, variety a1 is supposed in the diagram to have produced variety a2, which will, owing to the principle of divergence, differ more from (A) than did variety a1. Variety m1 is supposed to have produced two varieties, namely m2 and s2, differing from each other, and more considerably from their common parent (A). 
+
+We may continue the process by similar steps for any length of time; some of the varieties, after each thousand generations, producing only a single variety, but in a more and more modified condition, some producing two or three varieties, and some failing to produce any. 
+
+Thus the varieties or modified descendants, proceeding from the common parent (A), will generally go on increasing in number and diverging in character. In the diagram the process is represented up to the ten- thousandth generation, and under a condensed and simplified form up to the fourteen-thousandth generation.
+
+The process does not go on ever so regularly as is represented in the diagram, though in itself made somewhat irregular.
+
+The most divergent varieties will not invariably prevail and multiply.
+
+A medium form might often long endure, and may or may not produce more than one modified descendant.
+
+This is because natural selection will always act according to the nature of the places which are either unoccupied or not perfectly occupied by other beings.
+
+This will depend on infinitely complex relations. 
+
+But as a general rule, the more diversified in structure the descendants from any one species can be rendered, the more places they will be enabled to seize on, and the more their modified progeny will be increased. 
+
+In our diagram the line of succession is broken at regular intervals by small numbered letters.
+
+These mark the successive forms which have become distinct to be recorded as varieties.
+
+But these breaks are imaginary and arbitrary.
+
+<!-- , and might have been inserted anywhere, after intervals long enough to have allowed the accumulation of a considerable amount of divergent variation. -->
+
+As all the modified descendants from a common and widely-diffused species, belonging to a large genus, will tend to partake of the same advantages which made their parent successful in life, they will generally go on multiplying in number as well as diverging in character: this is represented in the diagram by the several divergent branches proceeding from (A). 
+
+The modified offspring from the later and more highly improved branches in the lines of descent, will, it is probable, often take the place of, and so destroy, the earlier and less improved branches: this is represented in the diagram by some of the lower branches not reaching to the upper horizontal lines. 
+
+In some cases I do not doubt that the process of modification will be confined to a single line of descent, and the number of the descendants will not be increased; although the amount of divergent modification may have been increased in the successive generations. 
+
+This case would be represented in the diagram, if all the lines proceeding from (A) were removed, excepting that from a1 to a10. In the same way, for instance, the English race-horse and English pointer have apparently both gone on slowly diverging in character from their original stocks, without either having given off any fresh branches or races.
+
+After 10,000 generations, species (A) is supposed to have produced three forms, a10, f10, and m10.
+
+These have diverged in character and so will differ from each other and from their common parent.
+
+If we suppose the amount of change between each horizontal line in our diagram to be excessively small, these 3 forms may still be only well-marked varieties; or they may have arrived at the doubtful category of sub-species; but we have only to suppose the steps in the process of modification to be more numerous or greater in amount, to convert these three forms into well-defined species: thus the diagram illustrates the steps by which the small differences distinguishing varieties are increased into the larger differences distinguishing species. By continuing the same process for a greater number of generations (as shown in the diagram in a condensed and simplified manner), we get eight species, marked by the letters between a14 and m14, all descended from (A). Thus, as I believe, species are multiplied and genera are formed.
 
 In a large genus it is probable that more than one species would vary. In the diagram I have assumed that a second species (I) has produced, by analogous steps, after ten thousand generations, either two well-marked varieties (w10 and z10) or two species, according to the amount of change supposed to be represented between the horizontal lines. After fourteen thousand generations, six new species, marked by the letters n14 to z14, are supposed to have been produced. In each genus, the species, which are already extremely different in character, will generally tend to produce the greatest number of modified descendants; for these will have the best chance of filling new and widely different places in the polity of nature: hence in the diagram I have chosen the extreme species (A), and the nearly extreme species (I), as those which have largely varied, and have given rise to new varieties and species. The other nine species (marked by capital letters) of our original genus, may for a long period continue transmitting unaltered descendants; and this is shown in the diagram by the dotted lines not prolonged far upwards from want of space.
 

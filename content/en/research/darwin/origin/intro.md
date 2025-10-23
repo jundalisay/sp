@@ -1,16 +1,13 @@
 ---
-title: "Descartes, Rene"
-heading: "Intro"
-linkTitle: Descartes
+title: "Introduction"
 # date: 2022-07-29
-weight: 26
-draft: true
-description: "Renatus Cartesius 31 March 1596 – 11 February 1650 was a French philosopher, mathematician, and scientist who invented analytic geometry"
-image: "/covers/descartes.jpg"
+weight: 2
+description: ""
+c: firebrick
 ---
 
 
-On the Origin of Species
+<!-- On the Origin of Species
 By
 Charles Darwin
 
@@ -22,16 +19,16 @@ Bacon: Advancement of Learning.
 Down, Bromley, Kent,
 October 1st, 1859.On the Origin of Species by Means of Natural Selection, or the Preservation of
 Favoured Races in the Struggle for Life.
+
 By Charles Darwin
+ -->
 
 
 
 
-Introduction
 
 When on board H.M.S. 'Beagle,' as naturalist, I was much struck with certain facts in the
-distribution of the inhabitants of South America, and in the geological relations of the present to the
-past inhabitants of that continent. These facts seemed to me to throw some light on the origin of
+distribution of the inhabitants of South America, and in the geological relations of the present to the past inhabitants of that continent. These facts seemed to me to throw some light on the origin of
 species--that mystery of mysteries, as it has been called by one of our greatest philosophers. On
 my return home, it occurred to me, in 1837, that something might perhaps be made out on this
 question by patiently accumulating and reflecting on all sorts of facts which could possibly have

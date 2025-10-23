@@ -97,7 +97,9 @@ But how could a savage know, when he first tamed an animal, whether it would var
 <!-- Has the little variability of the ass or guinea-fowl, or the small power of endurance of warmth by the rein-deer, or of cold by the common camel, prevented their domestication?  -->
 
 
-If other organisms, equal in number to our domesticated productions, and belonging to equally diverse classes and countries, were taken from the wild, and were bred for an equal number of generations under domestication, they would vary on an average as largely as the parent species of our existing domesticated productions have varied.
+<!-- If other organisms, equal in number to our domesticated productions, and belonging to equally diverse classes and countries, were taken from the wild, and were bred for an equal number of generations under domestication, 
+
+they would vary on an average as largely as the parent species of our existing domesticated productions have varied. -->
 
 I do not know whether most of our anciently domesticated orgnisms come from one or several species.
 
@@ -150,7 +152,9 @@ But by crossing we can get only forms in some degree intermediate between their 
 
 If we account for our several domestic races by this process, we must admit the former existence of the most extreme forms, as the Italian greyhound, bloodhound, bull-dog, &c., in the wild state.
 
-Moreover, the possibility of making distinct races by crossing has been greatly exaggerated. There can be no doubt that a race may be modified by occasional crosses, if aided by the careful selection of those individual mongrels, which present any desired character;
+The possibility of making distinct races by crossing has been greatly exaggerated. 
+
+A race may be modified by occasional crosses, if aided by the careful selection of those individual mongrels, which present any desired character.
 
 
 I do not believe that a race could be obtained nearly intermediate between two extremely different races or species.
@@ -163,4 +167,8 @@ But when these mongrels are crossed one with another for several generations, ha
 
 Then the extreme difficulty and hopelessness of the task becomes apparent.
 
-Certainly, a breed intermediate between two very distinct breeds could not be got without extreme care and long- continued selection; nor can I find a single case on record of a permanent race having been thus formed.
+A breed intermediate between 2 very distinct breeds can only be arrived at through:
+- extreme care
+- long-continued selection
+
+I cannot find a single case of a permanent race having been thus formed without those requirements.

@@ -20,23 +20,24 @@ In regard to the question of deglutition, however, he did not go even so far as 
 {{< /q >}}
 
 
-The stomach possesses two coats.
+The stomach possesses 2 coats which extend as far as the mouth.
 
-They extend as far as the mouth. The internal one remains throughout similar to what it is in the stomach.
+1. The internal one stays similar to what it is in the stomach.
+2. The other one has a more fleshy nature in the gullet.
 
-The other one tends to have a more fleshy nature in the gullet.
-
-These coats have their fibres inserted in contrary directions.340 
+These coats have their fibres inserted in contrary directions.
 
 Erasistratus did not explain why they are like this.
 
-The inner coat has its fibres straight, since it exists for the purpose of traction. 
+The inner coat has its fibres straight, since it exists for traction. 
 
-The outer coat has its fibres transverse, for the purpose of peristalsis.341 
+The outer coat has its fibres transverse, for peristalsis.
 
 In fact, the movements of each of the mobile organs of the body depend on the setting of the fibres.
 
-Test this first in the muscles themselves; in these the fibres are most distinct, and their movements visible owing to their vigour. 
+Test this first in the muscles themselves.
+
+In these, the fibres are most distinct, and their movements visible due to their vigour. 
 
 After the muscles, pass to the physical organs,342 and you will see that they all move in correspondence with their fibres.
 

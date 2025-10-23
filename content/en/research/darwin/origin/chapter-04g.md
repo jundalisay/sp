@@ -78,14 +78,21 @@ Varieties, even strongly-marked ones, though having somewhat of the character of
 
 Nevertheless, according to my view,  -->
 
-Varieties are incipient species, as species in the process of formation.
+Varieties are incipient species.
+- These are species being formed.
 
+How do the few differences between varieties grow into the bigger difference between species? 
 
-How, then, does the lesser difference between varieties become augmented into the greater difference between species? 
+This is seen in:
+- species showing well-marked differences.
+- varieties showing slight and ill-defined differences. 
+  - These are the prototypes and parents of future well-marked species
 
-That this does habitually happen, we must infer from most of the innumerable species throughout nature presenting well-marked differences; whereas varieties, the supposed prototypes and parents of future well-marked species, present slight and ill-defined differences. 
+Mere chance might cause:
+- one variety to differ in some character from its parents
+- the offspring of this variety again to differ from its parent in the very same character and in a greater degree
 
-Mere chance, as we may call it, might cause one variety to differ in some character from its parents, and the offspring of this variety again to differ from its parent in the very same character and in a greater degree; but this alone would never account for so habitual and large an amount of difference as that between varieties of the same species and species of the same genus.
+But this alone would never account for so habitual and large an amount of difference as that between varieties of the same species and species of the same genus.
 
 As has always been my practice, let us seek light on this head from our domestic productions. We shall here find something analogous. 
 
@@ -97,20 +104,45 @@ The acknowledged principle is that 'fanciers do not and will not admire a medium
 
 they both go on (as has actually occurred with tumbler-pigeons) choosing and breeding from birds with longer and longer beaks, or with shorter and shorter beaks.
 
-An early period one man preferred swifter horses; another stronger and more bulky horses. The early differences would be very slight; in the course of time, from the continued selection of swifter horses by some breeders, and of stronger ones by others, the differences would become greater, and would be noted as forming two sub-breeds; finally, after the lapse of centuries, the sub-breeds would become converted into two well-established and distinct breeds. 
+An early period one man preferred swifter horses; another stronger and more bulky horses. 
 
-As the differences slowly become greater, the inferior animals with intermediate characters, being neither very swift nor very strong, will have been neglected, and will have tended to disappear. Here, then, we see in man's productions the action of what may be called the principle of divergence, causing differences, at first barely appreciable, steadily to increase, and the breeds to diverge in character both from each other and from their common parent.
+The early differences would be very slight; 
+
+in the course of time, from the continued selection of swifter horses by some breeders, and of stronger ones by others, the differences would become greater, and would be noted as forming two sub-breeds; 
+
+Finally, after the lapse of centuries, the sub-breeds would become converted into two well-established and distinct breeds. 
+
+As the differences slowly become greater, the inferior animals with intermediate characters, being neither very swift nor very strong, will have been neglected, and will have tended to disappear. 
+
+Here, then, we see in man's productions the action of what may be called the principle of divergence, causing differences, at first barely appreciable, steadily to increase, and the breeds to diverge in character both from each other and from their common parent.
 
 But how, it may be asked, can any analogous principle apply in nature? I believe it can and does
 apply most efficiently, from the simple circumstance that the more diversified the descendants from
-any one species become in structure, constitution, and habits, by so much will they be betterenabled to seize on many and widely diversified places in the polity of nature, and so be enabled to
-increase in numbers.
+any one species become in structure, constitution, and habits, by so much will they be betterenabled to seize on many and widely diversified places in the polity of nature, and so be enabled to increase in numbers.
 
-We can clearly see this in the case of animals with simple habits. Take the case of a carnivorous quadruped, of which the number that can be supported in any country has long ago arrived at its full average. If its natural powers of increase be allowed to act, it can succeed in increasing (the country not undergoing any change in its conditions) only by its varying descendants seizing on places at present occupied by other animals: some of them, for instance, being enabled to feed on new kinds of prey, either dead or alive; some inhabiting new stations, climbing trees, frequenting water, and some perhaps becoming less carnivorous. 
+We see this in the case of animals with simple habits.
 
-The more diversified in habits and structure the descendants of our carnivorous animal became, the more places they would be enabled to occupy. What applies to one animal will apply throughout all time to all animals--that is, if they vary--for otherwise natural selection can do nothing. So it will be with plants. It has been experimentally proved, that if a plot of ground be sown with several distinct genera of grasses, a greater number of plants and a greater weight of dry herbage can thus be raised. The same has been found to hold good when first one variety and then several mixed varieties of wheat have been sown on equal spaces of ground.
+Take the case of a carnivorous quadruped, of which the number that can be supported in any country has long ago arrived at its full average. 
 
-Hence, if any one species of grass were to go on varying, and those varieties were continually selected which differed from each other in at all the same manner as distinct species and genera of grasses differ from each other, a greater number of individual plants of this species of grass, including its modified descendants, would succeed in living on the same piece of ground. And we well know that each species and each variety of grass is annually sowing almost countless seeds; and thus, as it may be said, is striving its utmost to increase its numbers
+If its natural powers of increase be allowed to act, it can succeed in increasing (the country not undergoing any change in its conditions) only by its varying descendants seizing on places at present occupied by other animals: 
 
-Consequently, I cannot doubt that in the course of many thousands of generations, the most distinct varieties of any one species of grass would always have the best chance of succeeding and of increasing in numbers, and thus of supplanting the less distinct varieties; and varieties, when rendered very distinct from each other, take the rank of species.
+some of them, for instance, being enabled to feed on new kinds of prey, either dead or alive; some inhabiting new stations, climbing trees, frequenting water, and some perhaps becoming less carnivorous. 
+
+The more diversified in habits and structure the descendants of our carnivorous animal became, the more places they would be enabled to occupy. 
+
+What applies to one animal will apply throughout all time to all animals--that is, if they vary--for otherwise natural selection can do nothing. So it will be with plants. 
+
+If a plot is sown with several distinct genera of grasses, more plants with more weight can thus be raised.
+
+The same is true when first one variety and then several mixed varieties of wheat have been sown on equal spaces of ground.
+
+Hence, if any one species of grass were to go on varying, and those varieties were continually selected which differed from each other in at all the same manner as distinct species and genera of grasses differ from each other, a greater number of individual plants of this species of grass, including its modified descendants, would succeed in living on the same piece of ground. 
+
+Each species and each variety of grass is annually sowing almost countless seeds; and thus, as it may be said, is striving its utmost to increase its numbers
+
+<!-- Consequently, I cannot doubt that in the course of many thousands of generations,  -->
+
+The most distinct varieties of any one species of grass would always succeed best in increasing in numbers and become species.
+
+ <!-- and thus of supplanting the less distinct varieties; and varieties, when rendered very distinct from each other, take the rank of species. -->
 

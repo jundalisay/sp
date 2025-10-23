@@ -8,23 +8,37 @@ c: "firebrick"
 
 
 
-Sir C. Lyell and other authors have ably treated this subject. I can give here only the briefest abstract of the more important facts. 
+<!-- Sir C. Lyell and other authors have ably treated this subject. I can give here only the briefest abstract of the more important facts.  -->
 
-Change of climate must have had a powerful influence on migration: a region when its climate was different may have been a high road for migration, but now be impassable.
 
-I shall, however, presently have to discuss this branch of the subject in some detail. Changes of level in the land must also have been highly influential: a narrow isthmus now separates two marine faunas; submerge it, or let it formerly have been submerged, and the two faunas will now blend or may formerly have blended: where the sea now extends, land may at a former period have connected islands or possibly even continents together, and thus have allowed terrestrial productions to pass from one to the other. 
 
-No geologist will dispute that great mutations of level have occurred within the period of existing organisms.
+Migration is powerfully influenced by:
 
-Edward Forbes insisted that all the islands in the Atlantic must recently have been connected with Europe or Africa, and Europe likewise with America. Other authors have thus hypothetically bridged over every ocean, and have united almost every island to some mainland. 
+change of climate
 
-If the arguments used by Forbes are to be trusted, it must be admitted that scarcely a single island exists which has not recently been united to some continent. 
+ <!-- a region when its climate was different may have been a high road for migration, but now be impassable. -->
 
-This view cuts the Gordian knot of the dispersal of the same species to the most distant points, and removes many a difficulty: but to the best of any judgment we are not authorized in admitting such enormous geographical changes within the period of existing species. 
+change in level in the land
 
-It seems to me that we have abundant evidence of great oscillations of level in our continents; but not of such vast changes in their position and extension, as to have united them within the recent period to each other and to the several intervening oceanic islands.
+A narrow isthmus now separates two marine faunas; submerge it, or let it formerly have been submerged, and the two faunas will now blend or may formerly have blended: where the sea now extends, land may at a former period have connected islands or possibly even continents together, and thus have allowed terrestrial productions to pass from one to the other. 
 
-I freely admit the former existence of many islands, now buried beneath the sea, which may have served as halting places for plants and for many animals during their migration. In the coral-producing oceans such sunken islands are now marked, as I believe, by rings of coral or atolls standing over them. Whenever it is fully admitted, as I believe it will some day be, that each species has proceeded from a single birthplace, and when in the course of time we know something definite about the means of distribution, we shall be enabled to speculate with security on the former extension of the land. But I do not believe that it will ever be proved that within the recent period continents which are now quite separate, have been continuously, or almost continuously, united with each other, and with the many existing oceanic islands.
+Edward Forbes insisted that all the Atlantic islands were connected with Europe or Africa, and Europe with America. 
+
+<!-- Other authors have thus hypothetically bridged over every ocean, and have united almost every island to some mainland.  -->
+
+<!-- If the arguments used by Forbes are to be trusted, it must be admitted that scarcely a single island exists which has not recently been united to some continent.  -->
+
+This view cuts the Gordian knot of the dispersal of the same species to the most distant points, and removes many difficulties.
+
+But to the best of any judgment we are not authorized in admitting such enormous geographical changes within the period of existing species. 
+
+<!-- It seems to me that we have abundant evidence of great oscillations of level in our continents; but not of such vast changes in their position and extension, as to have united them within the recent period to each other and to the several intervening oceanic islands. -->
+
+I freely admit the former existence of many islands, now buried beneath the sea, which may have served as halting places for plants and for many animals during their migration. 
+
+In the coral-producing oceans such sunken islands are now marked, as I believe, by rings of coral or atolls standing over them. 
+
+Whenever it is fully admitted, as I believe it will some day be, that each species has proceeded from a single birthplace, and when in the course of time we know something definite about the means of distribution, we shall be enabled to speculate with security on the former extension of the land. But I do not believe that it will ever be proved that within the recent period continents which are now quite separate, have been continuously, or almost continuously, united with each other, and with the many existing oceanic islands.
 
 <!-- These and other such facts seem to me opposed to the admission of such prodigious  -->
 
@@ -35,10 +49,11 @@ Forbes believes that there have been geographical revolutions within the recent 
 - a relation between the distribution of mammals and the depth of the sea
 
 
-The nature and relative proportions of the inhabitants of oceanic islands likewise seem to me opposed to the belief of their former continuity with continents. 
+The nature and proportions of the inhabitants of oceanic islands oppose the belief that they were joined with continents in the past. 
 
-Nor does their almost universally volcanic composition favour the
-admission that they are the wrecks of sunken continents;--if they had originally existed as
+Their volcanic composition favour the idea that they are the wrecks of sunken continents.
+
+--if they had originally existed as
 mountain-ranges on the land, some at least of the islands would have been formed, like other
 mountain-summits, of granite, metamorphic schists, old fossiliferous or other such rocks, instead of
 consisting of mere piles of volcanic matter.
@@ -52,36 +67,55 @@ To my surprise I found that out of 87 kinds, 64 germinated after an
 immersion of 28 days, and a few survived an immersion of 137 days. For convenience sake I
 chiefly tried small seeds, without the capsule or fruit; and as all of these sank in a few days, they
 could not be floated across wide spaces of the sea, whether or not they were injured by the salt-
-water. Afterwards I tried some larger fruits, capsules, &c., and some of these floated for a long
-time. It is well known what a difference there is in the buoyancy of green and seasoned timber; and
-it occurred to me that floods might wash down plants or branches, and that these might be dried on
-the banks, and then by a fresh rise in the stream be washed into the sea. Hence I was led to dry
-stems and branches of 94 plants with ripe fruit, and to place them on sea water. The majority sank
-quickly, but some which whilst green floated for a very short time, when dried floated much longer;
-for instance, ripe hazel-nuts sank immediately, but when dried, they floated for 90 days and
+water. 
+
+Afterwards I tried some larger fruits, capsules, &c., and some of these floated for a long
+time. 
+
+The buoyancy of green and seasoned timber are different.
+
+Floods might wash down plants or branches.
+
+These might be dried on the banks, and then by a fresh rise in the stream be washed into the sea. 
+
+Hence I dried stems and branches of 94 plants with ripe fruit, and to place them on sea water. 
+
+The majority sank quickly, but some which whilst green floated for a very short time, when dried floated much longer.
+
+For instance, ripe hazel-nuts sank immediately, but when dried, they floated for 90 days and
 afterwards when planted they germinated; an asparagus plant with ripe berries floated for 23 days,
 when dried it floated for 85 days, and the seeds afterwards germinated: the ripe seeds of
 Helosciadium sank in two days, when dried they floated for above 90 days, and afterwards
-germinated. Altogether out of the 94 dried plants, 18 floated for above 28 days, and some of the 18
-floated for a very much longer period. So that as 64/87 seeds germinated after an immersion of 28
+germinated.
+
+
+Out of the 94 dried plants, 18 floated for above 28 days, and some of the 18 floated for a very much longer period. 
+
+So that as 64/87 seeds germinated after an immersion of 28
 days; and as 18/94 plants with ripe fruit (but not all the same species as in the foregoing
 experiment) floated, after being dried, for above 28 days, as far as we may infer anything from
 these scanty facts, we may conclude that the seeds of 14/100 plants of any country might be floated
-by sea-currents during 28 days, and would retain their power of germination. In Johnston's
-Physical Atlas, the average rate of the several Atlantic currents is 33 miles per diem (some currents
-running at the rate of 60 miles per diem); on this average, the seeds of 14/100 plants belonging to
-one country might be floated across 924 miles of sea to another country; and when stranded, if
-blown to a favourable spot by an inland gale, they would germinate.
+by sea-currents during 28 days, and would retain their power of germination.
 
-Subsequently to my experiments, M. Martens tried similar ones, but in a much better manner, for
-he placed the seeds in a box in the actual sea, so that they were alternately wet and exposed to the
-air like really floating plants. He tried 98 seeds, mostly different from mine; but he chose many
-large fruits and likewise seeds from plants which live near the sea; and this would have favoured
-the average length of their flotation and of their resistance to the injurious action of the salt-water.
+In Johnston's Physical Atlas, the average rate of the several Atlantic currents is 33 miles per diem.
+- Some currents run at 60 miles per diem.
+
+On this average, the seeds of 14/100 plants belonging to one country might be floated across 924 miles of sea to another country; and when stranded, if blown to a favourable spot by an inland gale, they would germinate.
+
+Subsequently to my experiments, M. Martens tried similar ones in a much better manner.
+
+He placed the seeds in a box in the actual sea, so that they were alternately wet and exposed to the air like really floating plants. 
+
+He tried 98 seeds, mostly different from mine; but he chose many large fruits and likewise seeds from plants which live near the sea; and this would have favoured the average length of their flotation and of their resistance to the injurious action of the salt-water.
+
 On the other hand he did not previously dry the plants or branches with the fruit; and this, as we
 have seen, would have caused some of them to have floated much longer.
 
-The result was that 18/98 of his seeds floated for 42 days, and were then capable of germination. But I do not doubtthat plants exposed to the waves would float for a less time than those protected from violent movement as in our experiments. Therefore it would perhaps be safer to assume that the seeds of about 10/100 plants of a flora, after having been dried, could be floated across a space of sea 900 miles in width, and would then germinate. The fact of the larger fruits often floating longer than
+The result was that 18/98 of his seeds floated for 42 days, and were then capable of germination. 
+
+Plants exposed to the waves would float for a less time than those protected from violent movement as in our experiments. 
+
+Therefore it would perhaps be safer to assume that the seeds of about 10/100 plants of a flora, after having been dried, could be floated across a space of sea 900 miles in width, and would then germinate. The fact of the larger fruits often floating longer than
 the small, is interesting; as plants with large seeds or fruit could hardly be transported by any other
 means; and Alph. de Candolle has shown that such plants generally have restricted ranges.
 

@@ -106,11 +106,15 @@ The most vigorous species swarms in numbers.
 This subject has been ably treated by several authors, and I shall, in my future work, discuss some of the checks at considerable length, more especially in regard to the feral animals of South America. -->
 
 
-### The Destruction of Individuals
+## The Destruction of Individuals
 
-Eggs or very young animals seem generally to suffer most, but this is not invariably the case.
+Eggs or very young animals suffer most.
 
-With plants there is a vast destruction of seeds, but, from some observations which I have made, I believe that it is the seedlings which suffer most from germinating in ground already thickly stocked with other plants.
+ <!-- but this is not invariably the case. -->
+
+With plants there is a vast destruction of seeds.
+
+It is the seedlings which suffer most from germinating in ground already thickly stocked with other plants.
 
 Seedlings are destroyed in vast numbers by various enemies.
 
@@ -118,18 +122,27 @@ On a ground 3 x 2 feet, dug and cleared, free from other plants, I marked all th
 
 Out of the 357, 295 were destroyed, chiefly by slugs and insects.
 
-If turf which has long been mown, and the case would be the same with turf closely browsed by quadrupeds, be let to grow, the more vigorous plants gradually kill the less vigorous, though fully grown, plants: thus out of 20 species growing on a little plot of turf (three feet by four) nine species perished from the other species being allowed to grow up freely.
+<!-- If turf which has long been mown, and the case would be the same with turf closely browsed by quadrupeds, be let to grow,  -->
 
-The amount of food for each species of course gives the extreme limit to which each can increase; but very frequently it is not the obtaining food, but the serving as prey to other animals, which determines the average numbers of a species.
+The more vigorous plants gradually kill the less vigorous fully grown plants.
+
+Thus, out of 20 species growing on a little plot of turf (3 x 4 feet) 9 species perished from the other species being allowed to grow up freely.
+
+The amount of food limits how each species can increase.
+
+The average numbers of a species is determined by the serving as prey to other animals, not by the obtaining of food.
 
 Thus, the stock of partridges, grouse, and hares on any large estate depends chiefly on the destruction of vermin.
 
-If not one head of game were shot during the next twenty years in England, and, at the same time, if no vermin were destroyed, there would, in all probability, be less game than at present, although hundreds of thousands of game animals are now annually killed.
+If such game animals were not hunted in the next 20 years in England and no vermin were destroyed, there would be less of such game animals than at present, even if hundreds of thousands of game animals are now annually hunted.
 
-On the other hand, in some cases, as with the elephant and rhinoceros, none are destroyed by beasts of prey: even the tiger in India most rarely dares to attack a young elephant protected by its dam.
+Elephants and rhinoceros are not destroyed by beasts of prey.
 
-Climate plays an important part in determining the average numbers of a species, and periodical
-seasons of extreme cold or drought, I believe to be the most effective of all checks. 
+ <!-- even the tiger in India most rarely dares to attack a young elephant protected by its dam. -->
+
+Climate plays an important part in determining the average numbers of a species.
+
+Periodic seasons of extreme cold or drought are the most effective of all checks. 
 
 I estimated that the winter of 1854-55 destroyed 4/5 of the birds in my own grounds.
 
@@ -139,9 +152,11 @@ The action of climate seems to be independent of the struggle for existence by r
 
 <!-- Even when climate, for instance extreme cold, acts directly, it will be the least vigorous, or those which have got least food through the advancing winter, which will suffer most.  -->
 
-When we travel from south to north, or from a damp region to a dry, we see some species gradually getting rarer and rarer, and finally disappearing. We are tempted to attribute the whole effect to the change of climate. 
+When we travel from south to north, or from a damp region to a dry, some species get rarer and finally disappear. 
 
-But this is a very false view because each species is constantly suffering enormous destruction at some period of its life, from enemies or from competitors for the same place and food.
+We wrongly attribute this to the change of climate. 
+
+But this is a very false view because each species is getting killed at some point of its life  from enemies or competitors for the same place and food.
 
 If these enemies be are favoured by the change of climate, they will increase in numbers.
 - Since each area is already full with inhabitants, the other species will decrease.

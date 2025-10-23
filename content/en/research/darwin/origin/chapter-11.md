@@ -1,5 +1,5 @@
 ---
-title: Geographical Distribution
+title: The Effects of Geographical Distribution
 heading: Chapter 11
 weight: 76
 description: "Neither the similarity nor the dissimilarity of the inhabitants of various regions can be accounted for by their climatal and other physical conditions."
@@ -12,15 +12,16 @@ barriers -- Affinity of the productions of the same continent -- Centres of crea
 dispersal, by changes of climate and of the level of the land, and by occasional means -- Dispersal
 during the Glacial period co-extensive with the world. -->
 
+## Obserations on the distribution of organic beings
 
-<!-- In considering the distribution of organic beings over the face of the globe, the first great fact which strikes us is, that  -->
+<!-- In considering  over the face of the globe, the first great fact which strikes us is, that  -->
 
-Neither the similarity nor the dissimilarity of the inhabitants of various regions can be accounted for by their climatal and other physical conditions.
+1. The similarity or dissimilarity between the inhabitants of various regions are not caused by their climatal and other physical conditions.
 
 Of late, almost every author who has studied the subject has come to this conclusion. 
 
 This is proven by America. 
-- One of the most fundamental divisions in geographical distribution is that between the New and Old Worlds.
+<!-- - One of the most fundamental divisions in geographical distribution is that between the New and Old Worlds. -->
 
 The vast American continent has the most diversified conditions:
 - the most humid districts
@@ -41,39 +42,75 @@ western South America, between latitudes 25 deg and 35 deg, we shall find parts 
 
 The productions of South America south of lat. 35 deg and those north of 25 deg of a different climate are more closely related  than they are to the productions of Australia or Africa under nearly the same climate. 
 
-Analogous facts could be given with respect to the inhabitants of the sea.
+The same could be said about the inhabitants of the sea.
 
-A second great fact which strikes us in our general review is, that 
+<!-- A second great fact which strikes us in our general review is, that  -->
 
-Barriers or obstacles to free migration are related in a close and important manner to the differences between the productions of various regions.
+2. Barriers to free migration correlate to the differences between the productions of various regions.
 
-We see this in the great difference of nearly all the terrestrial productions of the New and Old Worlds, excepting in the northern parts, where the land almost joins, and where, under a slightly different climate, there might have been free migration for the northern temperate forms, as there now is for the strictly arctic productions. 
+This is seen in the great difference between the productions of the New and Old Worlds, except in the northern parts where the land almost joins.
+- This could have caused free migration for the northern temperate forms
 
-We see the same fact in the great difference between the inhabitants of Australia, Africa, and South America under the same latitude: for these countries are almost as much isolated from each other as is possible. 
+<!-- , as there now is for the strictly arctic productions.  -->
 
-On each continent, also, we see the same fact; for on the opposite sides of lofty and continuous mountain-ranges, and of great deserts, and sometimes even of large rivers, we find different productions; though as mountain chains, deserts, &c., are not as impassable, or likely to have endured so long as the oceans separating continents, the differences are very inferior in degree to those characteristic of distinct continents.
+The same is true for the great difference between the inhabitants of Australia, Africa, and South America under the same latitude.
 
-Turning to the sea, we find the same law. No two marine faunas are more distinct, with hardly a fish, shell, or crab in common, than those of the eastern and western shores of South and Central America; yet these great faunas are separated only by the narrow, but impassable, isthmus of Panama.
+These countries are isolated from each other. 
 
-Westward of the shores of America, a wide space of open ocean extends, with not an island as a halting-place for emigrants; here we have a barrier of another kind, and as soon as this is passed we meet in the eastern islands of the Pacific, with another and totally distinct fauna.
+We find different productions on the opposite sides of:
+- lofty mountain-ranges
+- great deserts
+- large rivers
+
+<!-- , ; though as mountain chains, deserts, &c., are not as impassable, or likely to have endured so long as the oceans separating continents, the differences are very inferior in degree to those characteristic of distinct continents. -->
+
+The sea follows the same law.
+
+The marine faunas of South and Central America in the east and west are most distinct.
+
+ <!-- with hardly a fish, shell, or crab in common, than those of the eastern and western shores of ; yet these great faunas are separated only by the narrow, but impassable, isthmus of Panama. -->
+
+<!-- Westward of the shores of America, a wide space of open ocean extends, with not an island as a halting-place for emigrants; here we have a barrier of another kind, and as soon as this is passed we meet in the eastern islands of the Pacific, with another and totally distinct fauna.
 
 So that here three marine faunas range far northward and southward, in parallel lines not far from each other, under corresponding climates; but from being separated from each other by impassable barriers, either of land or open sea, they are wholly distinct. 
 
-On the other hand, proceeding still further westward from the eastern islands of the tropical parts of the Pacific, we encounter no impassable barriers, and we have innumerable islands as halting-places, until after travelling over a hemisphere we come to the shores of Africa; and over this vast space we meet with no well-defined and distinct marine faunas. 
+On the other hand, proceeding still further westward from the eastern islands of the tropical parts of  -->
 
-Although hardly one shell, crab or fish is common to the above-named three approximate faunas of Eastern and Western America and the eastern Pacific islands, yet many fish range from the Pacific into the Indian Ocean, and many shells are common to the eastern islands of the Pacific and the eastern shores of Africa, on almost exactly opposite meridians of longitude.
+The Pacific has no impassable barriers.
 
-A third great fact, partly included in the foregoing statements, is the affinity of the productions of the same continent or sea, though the species themselves are distinct at different points and stations. 
+<!--  and we have innumerable islands as halting-places, until after travelling over a hemisphere we come to the shores of Africa; and over this vast space we meet with no well-defined and distinct marine faunas. 
 
-It is a law of the widest generality, and every continent offers innumerable instances. Neverthelessthe naturalist in travelling, for instance, from north to south never fails to be struck by the manner in which successive groups of beings, specifically distinct, yet clearly related, replace each other. He hears from closely allied, yet distinct kinds of birds, notes nearly similar, and sees their nests similarly constructed, but not quite alike, with eggs coloured in nearly the same manner. 
+Although hardly one shell, crab or fish is common to the above-named three approximate faunas of Eastern and Western America and the eastern Pacific islands, yet -->
 
-The plains near the Straits of Magellan are inhabited by one species of Rhea (American ostrich), and northward the plains of La Plata by another species of the same genus; and not by a true ostrich or emeu, like those found in Africa and Australia under the same latitude. 
+And so many fish and shells range from the Pacific into the Indian Ocean and are common to the eastern islands of the Pacific and the eastern shores of Africa, on almost exactly opposite meridians of longitude.
 
-On these same plains of La Plata, we see the agouti and bizcacha, animals having nearly the same habits as our hares and rabbits and belonging to the same order of Rodents, but they plainly display an American type of structure. We ascend the lofty peaks of the Cordillera and we find an alpine species of bizcacha; we look to the waters, and we do not find the beaver or musk-rat, but the coypu and capybara, rodents of the American type.
+3. The affinity of the productions of the same continent or sea, though the species themselves are distinct at different points and stations. 
 
-Innumerable other instances could be given. If we look to the islands off the American shore, however much they may differ in geological structure, the inhabitants, though they may be all peculiar species, are essentially American. 
+It is a law of the widest generality, and every continent offers innumerable instances. Neverthelessthe naturalist in travelling, for instance, from north to south never fails to be struck by the manner in which successive groups of beings, specifically distinct, yet clearly related, replace each other. 
 
-We may look back to past ages, as shown in the last chapter, and we find American types then prevalent on the American continent and in the American seas. We see in these facts some deep organic bond, prevailing throughout space and time, over the same areas of land and water, and independent of their physical conditions. The naturalist must feel little curiosity, who is not led to inquire what this bond is.
+He hears from closely allied, yet distinct kinds of birds, notes nearly similar, and sees their nests similarly constructed, but not quite alike, with eggs coloured in nearly the same manner. 
+
+The plains near the Straits of Magellan are inhabited by a species of Rhea (American ostrich).
+
+Northward, the plains of La Plata has another species of the same genus.
+
+ <!-- and not by a true ostrich or emeu, like -->
+
+These are different from those found in Africa and Australia under the same latitude. 
+
+On these same plains of La Plata, we see the agouti and bizcacha. These:
+- have the same habits as our hares and rabbits
+- belong to the same order of Rodents
+
+But they display an American type of structure. 
+
+We ascend the lofty peaks of the Cordillera and we find an alpine species of bizcacha; we look to the waters, and we do not find the beaver or musk-rat, but the coypu and capybara, rodents of the American type.
+
+<!-- Innumerable other instances could be given. If we look to the islands off the American shore, however much they may differ in geological structure, the inhabitants, though they may be all peculiar species, are essentially American.  -->
+
+We may look back to past ages, as shown in the last chapter, and we find American types then prevalent on the American continent and in the American seas. We see in these facts some deep organic bond, prevailing throughout space and time, over the same areas of land and water, and independent of their physical conditions. 
+
+The naturalist must feel little curiosity, who is not led to inquire what this bond is.
 
 This bond, on my theory, is simply inheritance.
 - It alone produces organisms quite like each other.

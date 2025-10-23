@@ -92,5 +92,11 @@ Below the aethereal layers are the 5 Biophysical layers which are in-between the
 {{< i s="/graphics/bio/msqbio.svg" a="5 Biophysical layers" c="We have a lot of missing parts to fill as none of the Superphysics team members have professional medical experience" >}}
 
 
-
+Rank | Name | Purpose
+--- | --- | ---
+1 | Aether | Soul and mind
+2 | Air |
+3 | Fire |
+4 | Water | 
+5 | Earth | 
 

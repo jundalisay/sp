@@ -96,8 +96,6 @@ This dynamic idea of the self is very important because it is the basis of moral
 - When applied to society, it explains social cycles or why revolutions, civil war, recessions, financial crises happen. We can say that a civil war is the fight between the two personalities of a single society.
 
 
-
-
 ## Identity, Self, Ego, Soul
 
 An **identity** is a discrete resultant perception separate from other perceptions.

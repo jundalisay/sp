@@ -40,11 +40,15 @@ But why do we not find a single mammal common to Europe and Australia or South A
 
 <!-- The conditions of life are nearly the same, so that a multitude of European animals and plants have become naturalised in America and Australia; and some of the aboriginal plants are identically the same at these distant points of the northern and southern hemispheres? -->
 
-This is because mammals have not been able to migrate. Whereas some plants, from their varied means of dispersal, have migrated across the vast and broken interspace.
+This is because mammals have not been able to migrate. 
+
+Whereas some plants, from their varied means of dispersal, have migrated across the vast and broken interspace.
 
 The great and striking influence which barriers of every kind have had on distribution, is intelligible only on the view that the great majority of species have been produced on one side alone, and have not been able to migrate to the other side. 
 
-Some few families, many sub-families, very many genera, and a still greater number of sections of genera are confined to a single region; and it has been observed by several naturalists, that the most natural genera, or those genera in which the species are most closely related to each other, are generally local, or confined to one area. What a strange anomaly it would be, if, when coming one step lower in the series, to the individuals of the same species, a directly opposite rule prevailed; and species were not local, but had been produced in two or more distinct areas!Hence it seems to me, as it has to many other naturalists, that the view of each species having been produced in one area alone, and having subsequently migrated from that area as far as its powers of migration and subsistence under past and present conditions permitted, is the most probable.
+Some few families, many sub-families, very many genera, and a still greater number of sections of genera are confined to a single region; and it has been observed by several naturalists, that the most natural genera, or those genera in which the species are most closely related to each other, are generally local, or confined to one area. 
+
+What a strange anomaly it would be, if, when coming one step lower in the series, to the individuals of the same species, a directly opposite rule prevailed; and species were not local, but had been produced in two or more distinct areas!Hence it seems to me, as it has to many other naturalists, that the view of each species having been produced in one area alone, and having subsequently migrated from that area as far as its powers of migration and subsistence under past and present conditions permitted, is the most probable.
 
 
 Undoubtedly many cases occur, in which we cannot explain how the same species could have passed from one point to the other. But the geographical and climatal changes, which have certainly occurred within recent geological times, must have interrupted or rendered discontinuous the formerly continuous range of many species. So that we are reduced to consider whether the
@@ -64,39 +68,48 @@ of each species having migrated from a single birthplace; then, considering our 
 respect to former climatal and geographical changes and various occasional means of transport, the
 belief that this has been the universal law, seems to me incomparably the safest.
 
-In discussing this subject, we shall be enabled at the same time to consider a point equally
-important for us, namely, whether the several distinct species of a genus, which on my theory have
-all descended from a common progenitor, can have migrated (undergoing modification during
-some part of their migration) from the area inhabited by their progenitor. If it can be shown to be
+Could the distinct species of a genus which came from a common progenitor migrate from the area inhabited by their progenitor?
+
+My theory will be strengthened if a species is found related to immigrants from another region.
+
+<!-- If it can be shown to be
 almost invariably the case, that a region, of which most of its inhabitants are closely related to, or
 belong to the same genera with the species of a second region, has probably received at some
-former period immigrants from this other region, my theory will be strengthened; for we can clearly
+former period immigrants from this other region,  -->
+
+
+for we can clearly
 understand, on the principle of modification, why the inhabitants of a region should be related to
-those of another region, whence it has been stocked. A volcanic island, for instance, upheaved and
-formed at the distance of a few hundreds of miles from a continent, would probably receive from it
-in the course of time a few colonists, and their descendants, though modified, would still be plainly
-related by inheritance to the inhabitants of the continent. Cases of this nature are common, and are,
+those of another region, whence it has been stocked. 
+
+A volcanic island, for instance, upheaved and formed at the distance of a few hundreds of miles from a continent, would probably receive from it
+in the course of time a few colonists.
+
+Their descendants would be modified, but would still be related by inheritance to the inhabitants of the continent. 
+
+Cases of this nature are common, and are,
 as we shall hereafter more fully see, inexplicable on the theory of independent creation. This view
-of the relation of species in one region to those in another, does not differ much (by substituting the
-word variety for species) from that lately advanced in an ingenious paper by Mr. Wallace, in which
+of the relation of species in one region to those in another, does not differ much (by substituting the word variety for species) from that lately advanced in an ingenious paper by Mr. Wallace, in which
 he concludes, that 'every species has come into existence coincident both in space and time with a
-pre-existing closely allied species.' And I now know from correspondence, that this coincidence he
-attributes to generation with modification.
+pre-existing closely allied species.' 
+
+<!-- And I now know from correspondence, that this coincidence he
+attributes to generation with modification. -->
 
 The previous remarks on 'single and multiple centres of creation' do not directly bear on another
-allied question,--namely whether all the individuals of the same species have descended from a
-single pair, or single hermaphrodite, or whether, as some authors suppose, from many individuals
-simultaneously created. With those organic beings which never intercross (if such exist), the
+allied question,--namely whether 
+
+Did all the individuals of the same species descend from a single pair, or single hermaphrodite?
+
+Or were they simultaneously created from many individuals. 
+
+With those organic beings which never intercross (if such exist), the
 species, on my theory, must have descended from a succession of improved varieties, which will
-never have blended with other individuals or varieties, but will have supplanted each other; so that,at each successive stage of modification and improvement, all the individuals of each variety will
-have descended from a single parent. But in the majority of cases, namely, with all organisms
-which habitually unite for each birth, or which often intercross, I believe that during the slow
-process of modification the individuals of the species will have been kept nearly uniform by
-intercrossing; so that many individuals will have gone on simultaneously changing, and the whole
-amount of modification will not have been due, at each stage, to descent from a single parent. To
-illustrate what I mean: our English racehorses differ slightly from the horses of every other breed;
-but they do not owe their difference and superiority to descent from any single pair, but to
-continued care in selecting and training many individuals during many generations.
+never have blended with other individuals or varieties, but will have supplanted each other; so that,at each successive stage of modification and improvement, all the individuals of each variety will have descended from a single parent. 
+
+In the majority of cases, namely, with all organisms which habitually unite for each birth, or which often intercross, I believe that during the slow process of modification the individuals of the species will have been kept nearly uniform by intercrossing; 
+
+So that many individuals will have gone on simultaneously changing, and the whole amount of modification will not have been due, at each stage, to descent from a single parent. To illustrate what I mean: our English racehorses differ slightly from the horses of every other breed; but they do not owe their difference and superiority to descent from any single pair, but to continued care in selecting and training many individuals during many generations.
 
 Before discussing the three classes of facts, which I have selected as presenting the greatest amount
 of difficulty on the theory of 'single centres of creation,' I must say a few words on the means of

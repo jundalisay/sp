@@ -21,23 +21,27 @@ Marxian synthesis has 2 fundamental premises:
 
 ## Classes
 
-The whole maze of international politics seems to be cleared
-up by a single powerful stroke of analysis. And we see in the process why
-and how class action, always remaining intrinsically the same, assumes the
-form of political or of business action according to circumstances that
-determine nothing but tactical methods and phraseology. 
+Class action:
+- always remains intrinsically the same.
+- becomes political or business action according to tactical methods and phraseology
 
-If, the means and
-opportunities at the command of a group of capitalists being what they are,
-it is more profitable to negotiate a loan, a loan will be negotiated. If, the
-means and opportunities being what they are, it is more profitable to make
-war, war will be made. The latter alternative is no less entitled to enter
-economic theory than the former. Even mere protectionism now grows
-nicely out of the very logic of capitalist evolution.
+ <!-- the means and opportunities -->
+If it is more profitable for capitalists to:
+- negotiate a loan, then a loan will be negotiated 
+- make war, war will be made
+
+<!-- If, the
+means and opportunities being what they are, it is more profitable to  -->
+
+War is valid in economic theory as loans.
+
+Even mere protectionism now grows out of the logic of capitalist evolution.
 
 Moreover, this theory displays to full advantage a virtue that it has in
 common with most of the Marxian concepts in the field of what is usually
-referred to as applied economics. This is its close alliance with historical and
+referred to as applied economics. 
+
+This is its close alliance with historical and
 contemporaneous fact. Probably not one reader has perused my résumé
 without being struck by the ease with which supporting historical instances
 crowded in upon him at every single step of the argument. 

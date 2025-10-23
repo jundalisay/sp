@@ -166,9 +166,9 @@ The 2 domains frees up the limitation of beliefs which includes:
 - life events by freeing up the heart from the impositions from parents, society, employment, etc.  
 
 
-## Definitions
+## Definitions: Physical, Metaphysical
 
-Physical is the nature of being detectable by the bodily senses. Technically being part of the lower Elements such as the (Lower) Fire , Water, and Earth Elements, and the (Lower) Spatial, Convertible, and Material Layers. 
+Physical is the nature of being detectable by the bodily senses. Technically, this is being part of the lower Elements or Layers such as the (Lower) Fire , Water, and Earth Elements, and the (Lower) Spatial, Convertible, and Material Layers. 
 
 Metaphysical is the nature of being detectable by the abstract mind without the direct support of the bodily senses. Technically being part of the upper Elements such as the (upper) Fire, Air, and Aether Elements, and the (Upper) Spatial, and Aethereal Layers.
 

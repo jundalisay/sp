@@ -50,6 +50,16 @@ Hunger | Thirst and Hunger
 Sleep | Sleep and drowsiness
 
 
+## Why We Get Sick
+
+Sickness is a state of the body that deviates from the blueprint of the oversoul of the human species.
+
+Each species has an oversoul as a complex mind made up of nodes of ideas. This oversoul supplies the template for instances of its species called individuals. 
+
+
+
+
+
 ## Death
 
 

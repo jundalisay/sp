@@ -12,8 +12,6 @@ writer:
 ---
 
 
-
-
 {{< b >}}
 Principles | Concepts Introduced
 --- | ---

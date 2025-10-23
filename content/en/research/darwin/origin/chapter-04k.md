@@ -40,9 +40,25 @@ Therefore during the modification of the descendants of any one species, and dur
 
 Thus the small differences distinguishing varieties of the same species, will steadily tend to increase till they come to equal the greater differences between species of the same genus, or even of distinct genera.We have seen that it is the common, the widely-diffused, and widely-ranging species, belonging to the larger genera, which vary most; and these will tend to transmit to their modified offspring that superiority which now makes them dominant in their own countries. Natural selection, as has just been remarked, leads to divergence of character and to much extinction of the less improved and intermediate forms of life.
 
-On these principles, I believe, the nature of the affinities of all organic beings may be explained. It is a truly wonderful fact--the wonder of which we are apt to overlook from familiarity--that all animals and all plants throughout all time and space should be related to each other in group subordinate to group, in the manner which we everywhere behold--namely, varieties of the same species most closely related together, species of the same genus less closely and unequally related together, forming sections and sub-genera, species of distinct genera much less closely related, and genera related in different degrees, forming sub-families, families, orders, sub-classes, and classes. 
+These principles explain the nature of the affinities of all organic beings.
 
-The several subordinate groups in any class cannot be ranked in a single file, but seem rather to be clustered round points, and these round other points, and so on in almost endless cycles. On the view that each species has been independently created, I can see no explanation of this great fact in the classification of all organic beings; but, to the best of my judgment, it is explained through inheritance and the complex action of natural selection, entailing extinction and divergence of character, as we have seen illustrated in the diagram.
+All animals and all plants are related to each other in group subordinate to group.
+
+ <!-- in the manner which we everywhere behold--namely, varieties of the same species most closely related together, species of the same genus less closely and unequally related together, forming sections and sub-genera, species of distinct genera much less closely related, and genera related in different degrees, forming sub-families, families, orders, sub-classes, and classes.  -->
+
+The several subordinate groups in any class are clustered around points.
+
+These are clustered around other points, and so on in almost endless cycles. 
+
+
+This refutes the view that each species has been independently created.
+
+ <!-- I can see no explanation of this great fact in the classification of all organic beings. -->
+
+This is explained through:
+- inheritance and
+- the complex action of natural selection
+  - This entails extinction and divergence of character
 
 The affinities of all the beings of the same class have sometimes been represented by a great tree. I believe this simile largely speaks the truth. The green and budding twigs may represent existing species; and those produced during each former year may represent the long succession of extinct species. At each period of growth all the growing twigs have tried to branch out on all sides, and to overtop and kill the surrounding twigs and branches, in the same manner as species and groups of species have tried to overmaster other species in the great battle for life.
 

@@ -35,44 +35,88 @@ Species and groups of species, which are called aberrant, and which may fanciful
 
 Embryology will reveal to us the structure, in some degree obscured, of the prototypes of each great class. 
 
-When we can feel assured that all the individuals of the same species, and all the closely allied species of most genera, have within a not very remote period descended from one parent, and have migrated from some one birthplace; and when we better know the many means of migration, then, by the light which geology now throws, and will continue to throw, on former changes of climate and of the level of the land, we shall surely be enabled to trace in an admirable manner the former migrations of the inhabitants of the whole world.
+When we can feel assured that all the individuals of the same species, and all the closely allied species of most genera, have within a not very remote period descended from one parent, and have migrated from some one birthplace; 
+
+When we better know the many means of migration, then, by the light which geology now throws, and will continue to throw, on former changes of climate and of the level of the land, we shall surely be enabled to trace in an admirable manner the former migrations of the inhabitants of the whole world.
 
 Even at present, by comparing the differences of the inhabitants of the sea on the opposite sides of a continent, and the nature of the various inhabitants of that continent in relation to their apparent means of immigration, some light can be thrown on ancient geography.
 
 Geology loses glory from the extreme imperfection of the record.
 
-The crust of the earth with its embedded remains must not be looked at as a well-filled museum, but as a poor collection made at hazard and at rare intervals. The accumulation of each great fossiliferous formation will be recognised as having depended on an unusual concurrence of circumstances, and the blank intervals between the successive stages as having been of vast duration. But we shall be able to gauge with some security the duration of these intervals by a comparison of the preceding and succeeding organic forms. 
+The crust of the earth with its embedded remains must not be looked at as a well-filled museum, but as a poor collection made at hazard and at rare intervals. 
+
+The accumulation of each great fossiliferous formation will be recognised as having depended on an unusual concurrence of circumstances, and the blank intervals between the successive stages as having been of vast duration. 
+
+But we shall be able to gauge with some security the duration of these intervals by a comparison of the preceding and succeeding organic forms. 
 
 We must be cautious in attempting to correlate as strictly contemporaneous two formations, which include few identical species, by the general succession of their forms of life. 
 
 Species are produced and exterminated by slow-acting causes, not by miraculous acts of creation nor catastrophes.
 
-The most important of all causes of organic change is one which is almost independent of altered and perhaps suddenly altered physical conditions, namely, the mutual relation of organism to organism,--the improvement of one being entailing the improvement or the extermination of others; it follows, that the amount of organic change in the fossils of consecutive formations probably serves as a fair measure of the lapse of actual time. 
+The most important of all causes of organic change is the mutual relation of organism to organism as the improvement of one being entailing the improvement or the extermination of others.
+- This is almost independent of altered physical conditions
 
-A number of species, however, keeping in a body might remain for a long period unchanged, whilst within this same period, several of these species, by migrating into new countries and coming into competition with foreign associates, might become modified; so that we must not overrate the accuracy of organic change as a measure of time. During early periods of the earth's history, when the forms of life were probably fewer and simpler, the rate of change was probably slower; and at the first dawn of life, when very few forms of the simplest structure existed, the rate of change may have been slow in an extreme degree. 
+It follows that the amount of organic change in the fossils of consecutive formations is a fair measure of the lapse of time. 
 
-The whole history of the world, as at present known, although of a length quite incomprehensible by us, will hereafter be recognised as a mere fragment of time, compared with the ages which have elapsed since the first creature, the progenitor of innumerable extinct and living descendants, was created. In the distant future I see open fields for far more important researches. Psychology will be based on a new foundation, that of the necessary acquirement of each mental power and capacity by gradation. Light will be thrown on the origin of man and his history.
+A number of species, however, might remain for a long period unchanged.
 
-Authors of the highest eminence seem to be fully satisfied with the view that each species has been independently created. To my mind it accords better with what we know of the laws impressed on matter by the Creator, that the production and extinction of the past and present inhabitants of theworld should have been due to secondary causes, like those determining the birth and death of the individual. 
+ whilst within this same period, several of these species, by migrating into new countries and coming into competition with foreign associates, might become modified; 
 
-When I view all beings not as special creations, but as the lineal descendants of some few beings which lived long before the first bed of the Silurian system was deposited, they seem to me to become ennobled.
+ so that we must not overrate the accuracy of organic change as a measure of time. 
 
-Judging from the past, we may safely infer that not one living species will transmit its unaltered likeness to a distant futurity. 
+During early periods of the earth's history, when the forms of life were probably fewer and simpler, the rate of change was probably slower; 
 
-And of the species now living very few will transmit progeny of any kind to a far distant futurity; for the manner in which all organic beings are grouped, shows that the greater number of species of each genus, and all the species of many genera, have left no descendants, but have become utterly extinct. 
+At the first dawn of life, when very few forms of the simplest structure existed, the rate of change may have been slow in an extreme degree. 
 
-We can so far take a prophetic glance into futurity as to foretel that it will be the common and widely-spread species, belonging to the larger and dominant groups, which will ultimately prevail and procreate new and dominant species.
+The whole history of the world, as at present known, although of a length quite incomprehensible by us, will hereafter be recognised as a mere fragment of time, compared with the ages which have elapsed since the first creature, the progenitor of innumerable extinct and living descendants, was created. In the distant future I see open fields for far more important researches. 
 
-All the living forms of life are the lineal descendants of those which lived long before the Silurian epoch.
+Psychology will be based on a new foundation, that of the necessary acquirement of each mental power and capacity by gradation. Light will be thrown on the origin of man and his history.
+
+<!-- Authors of the highest eminence seem to be fully satisfied with the view that each species has been independently created. To my mind it accords better with what we know of the laws impressed on matter by the Creator, that the production and extinction of the past and present inhabitants of theworld should have been due to secondary causes, like those determining the birth and death of the individual.  -->
+
+I view all beings not as special creations, but as the lineal descendants of a few beings which lived long ago.
+
+ <!-- before the first bed of the Silurian system was deposited, they seem to me to become ennobled. -->
+
+Judging from the past, we may safely infer that 
+
+Not one living species will transmit its unaltered likeness to a distant futurity. 
+
+Of the species now living, very few will transmit progeny of any kind to a far distant futurity.
+
+This is because the grouping of all organic beings shows that most species have become utterly extinct.
+
+<!--  the greater number of species of each genus, and all the species of many genera, 
+
+ have left no descendants, but   -->
+
+<!-- take a prophetic glance into futurity as to foretel that it will be  -->
+
+I predict that the common and widely-spread species of the larger and dominant groups will ultimately prevail and procreate new and dominant species.
+
+<!-- All the living forms of life are the lineal descendants of those which lived long before the Silurian epoch. -->
 
 The ordinary succession by generation has never once been broken.
 
 No cataclysm has desolated the whole world. 
 
-Hence we may look with some confidence to a secure future of equally inappreciable length. And as natural selection works solely by and for the good of each being, all corporeal and mental endowments will tend to progress towards perfection.
+Hence we may look with some confidence to a secure future of equally inappreciable length. 
 
-An entangled bank, clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner, have all been produced by laws acting around us.
+Natural selection works solely by and for the good of each being.
+- This means that all corporeal and mental endowments will progress towards perfection.
 
-These laws, taken in the largest sense, being Growth with Reproduction; Inheritance which is almost implied by reproduction; Variability from the indirect and direct action of the external conditions of life, and from use and disuse; a Ratio of Increase so high as to lead to a Struggle for Life, and as a consequence to Natural Selection, entailing Divergence of Character and the Extinction of less-improved forms. Thus, from the war of nature, from famine and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows. 
+A bank with many plants, insects, birds, worms have organisms so different yet dependent on each other complexly.
+- These are all been produced by laws acting around us.
 
-There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.
+These laws are:
+- Growth with Reproduction 
+- Inheritance by reproduction
+- Variability from the external conditions of life, use and disuse
+- a Ratio of Increase so high as to lead to a Struggle for Life and consequently to Natural Selection
+  - This entails Divergence of Character and the Extinction of less-improved forms. 
+
+Thus, the war of nature leads to the production of the higher animals.
+
+ <!-- death, the most exalted object which we are capable of conceiving, namely, the , directly follows.  -->
+
+<!-- There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved. -->
