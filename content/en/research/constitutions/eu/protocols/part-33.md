@@ -1,7 +1,7 @@
 ---
 title: "Protocol On The Acts And Treaties Which Have Supplemented Or Amended The Treaty Establishing The European Community And The Treaty On European Union"
 heading: "Parts 33"
-weight: 1
+weight: 38
 image: "/flags/eu.png"
 description: ""
 icon: eu

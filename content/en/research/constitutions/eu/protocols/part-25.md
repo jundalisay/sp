@@ -1,7 +1,7 @@
 ---
 title: "PROTOCOL CONCERNING IMPORTS INTO THE EUROPEAN UNION OF PETROLEUM PRODUCTS REFINED IN THE NETHERLANDS ANTILLES"
 heading: "Part 25"
-weight: 1
+weight: 33
 image: "/flags/eu.png"
 description: ""
 icon: eu
@@ -99,17 +99,20 @@ imports into the Member States of petroleum products refined in the Netherlands 
 Member States shall communicate to the Commission, which shall see that it is circulated, all useful
 information to that end in accordance with the administrative conditions recommended by it.
 
-ANNEX
+## ANNEX
 
 For the implementation of Article 4(2), the High Contracting Parties have decided that the quantity of
-2 million tonnes of petroleum products from the Antilles shall be allocated among the following
-Member States as follows:
+2 million tonnes of petroleum products from the Antilles shall be allocated among the following Member States as follows:
+
 Germany 625 000 tonnes
+
 Belgo/Luxembourg Economic Union 200 000 tonnes
-France
+
+<!-- France
 Italy
 Netherlands
 75 000 tonnes
 100 000 tonnes
 1 000 000 tonnes
 
+ -->

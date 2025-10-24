@@ -1,5 +1,5 @@
 ---
-title: "Protocol On The Financial Consequences Of The Expiry Of The Treaty Establishing The European Coal And Steel Community And On The Research Fund For Coal And Steel"
+title: "Protocol On The Transitional Provisions Relating To The Institutions And Bodies Of The Union"
 heading: "Part 34"
 weight: 390
 image: "/flags/eu.png"
@@ -8,7 +8,7 @@ icon: eu
 ---
 
 
-34. PROTOCOL ON THE TRANSITIONAL PROVISIONS RELATING TO THE INSTITUTIONS AND BODIES OF THE UNION
+
 
 <!-- THE HIGH CONTRACTING PARTIES,
 WHEREAS, in order to organise the transition from the European Union established by the Treaty on European Union
@@ -18,7 +18,8 @@ the Constitution and the instruments necessary for their implementation take ful
 HAVE AGREED UPON the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe and to the Treaty establishing the European Atomic Energy Community: -->
 
-TITLE 1: PROVISIONS CONCERNING THE EUROPEAN PARLIAMENT
+
+## TITLE 1: PROVISIONS CONCERNING THE EUROPEAN PARLIAMENT
 
 ### Article 1
 
@@ -102,24 +103,23 @@ Acts shall be adopted if there are at least 232 votes in favour representing a m
 where, under the Constitution, they must be adopted on a proposal from the Commission. In other
 cases decisions shall be adopted if there are at least 232 votes in favour representing at least two
 thirds of the members.
+
 A member of the European Council or the Council may request that, where an act is adopted by the
 European Council or the Council by a qualified majority, a check is made to ensure that the Member
 States comprising the qualified majority represent at least 62 % of the total population of the Union.
 If that proves not to be the case, the act shall not be adopted.
+
 3. For subsequent accessions, the threshold referred to in paragraph 2 shall be calculated to ensure
 that the qualified majority threshold expressed in votes does not exceed that resulting from the table
 in the Declaration on the enlargement of the European Union in the Final Act of the Conference
 which adopted the Treaty of Nice.
-4.
-The provisions of the following Articles shall take effect on 1 November 2009:
+
+4. The provisions of the following Articles shall take effect on 1 November 2009:
 — Article I‑44(3), third, fourth and fifth subparagraphs, of the Constitution,
 — Article I‑59(5), second and third subparagraphs, of the Constitution,
 — Article I‑60(4), second subparagraph, of the Constitution,
-— Article 3‑179(4), third and fourth subparagraphs, of the Constitution,954393_TRAITE_EN_351_400
-13-01-2005
-08:01
-Pagina 392
-392
+— Article 3‑179(4), third and fourth subparagraphs, of the Constitution
+
 Part IV
 — Article 3‑184(6), third and fourth subparagraphs, of the Constitution,
 — Article 3‑184(7), third and fourth subparagraphs, of the Constitution,
@@ -146,7 +146,7 @@ the Council may meet in the configurations laid down in Article I‑24(2) and (3
 configurations on the list established by a European decision of the General Affairs Council, acting by
 a simple majority.
 
-TITLE 3: PROVISIONS CONCERNING THE COMMISSION, INCLUDING THE UNION MINISTER FOR FOREIGN AFFAIRS
+## TITLE 3: PROVISIONS CONCERNING THE COMMISSION, INCLUDING THE UNION MINISTER FOR FOREIGN AFFAIRS
 
 Article 4
 The members of the Commission in office on the date of entry into force of the Treaty establishing a
@@ -245,4 +245,3 @@ Slovakia 9
 Finland 9
 Sweden 12
 United Kingdom 24
-

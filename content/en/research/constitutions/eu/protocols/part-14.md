@@ -1,7 +1,7 @@
 ---
 title: "Protocol On Denmark As Regards Economic And Monetary Union"
 heading: "Part 14"
-weight: 1
+weight: 19
 image: "/flags/eu.png"
 description: ""
 icon: eu
@@ -19,16 +19,14 @@ Europe: -->
 
 ### Article 1
 
-In view of the notice given to the Council by the Danish Government on 3 November 1993,
-Denmark shall have an exemption. The effect of the exemption shall be that all provisions of the
-Constitution and the Statute of the European System of Central Banks and the European Central
-Bank referring to a derogation shall be applicable to Denmark.
+In view of the notice given to the Council by the Danish Government on 3 November 1993, Denmark shall have an exemption. The effect of the exemption shall be that all provisions of the Constitution and the Statute of the European System of Central Banks and the European Central Bank referring to a derogation shall be applicable to Denmark.
 
 
 ### Article 2
 
 As for the abrogation of the exemption, the procedure referred to in Article 3-198 of the
 Constitution shall only be initiated at the request of Denmark.
+
 
 ### Article 3
 

@@ -1,7 +1,7 @@
 ---
 title: "Protocol On The Acquisition Of Property In Denmark"
 heading: "Parts 26-28"
-weight: 1
+weight: 35
 image: "/flags/eu.png"
 description: ""
 icon: eu

@@ -3,5 +3,5 @@ title: "Protocol On The Treaty And The Act Of Accession Of The Czech Republic, E
 header: "Part 9"
 linkTitle: "Protocols"
 image: "/flags/eu.png"
-weight: 1
+weight: 13
 ---

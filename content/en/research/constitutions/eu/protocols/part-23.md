@@ -1,7 +1,7 @@
 ---
 title: "Protocol On Permanent Structured Cooperation Established By Article 1-41 and Article 3-312 of The Constitution"
 heading: "Part 23"
-weight: 1
+weight: 31
 image: "/flags/eu.png"
 description: ""
 icon: eu
@@ -38,11 +38,12 @@ RECALLING the importance of the Minister for Foreign Affairs being fully involve
 permanent structured cooperation,
 HAVE AGREED UPON the following provisions, which shall be annexed to the Constitution: -->
 
-Article 1
+### Article 1
 
 The permanent structured cooperation referred to in Article I‑41(6) of the Constitution shall be open
 to any Member State which undertakes, from the date of entry into force of the Treaty establishing a
 Constitution for Europe, to:
+
 (a) proceed more intensively to develop its defence capacities through the development of its
 national contributions and participation, where appropriate, in multinational forces, in the main
 European equipment programmes, and in the activity of the Agency in the field of defence
@@ -63,21 +64,26 @@ cooperation shall undertake to:
 view to achieving approved objectives concerning the level of investment expenditure on defence
 equipment, and regularly review these objectives, in the light of the security environment and of
 the Union's international responsibilities;
+
 (b) bring their defence apparatus into line with each other as far as possible, particularly by
 harmonising the identification of their military needs, by pooling and, where appropriate,
 specialising their defence means and capabilities, and by encouraging cooperation in the fields of
 training and logistics;
+
 (c) take concrete measures to enhance the availability, interoperability, flexibility and deployability of
 their forces, in particular by identifying common objectives regarding the commitment of forces,
 including possibly reviewing their national decision‑making procedures;
+
 (d) work together to ensure that they take the necessary measures to make good, including through
 multinational approaches, and without prejudice to undertakings in this regard within the North
 Atlantic Treaty Organisation, the shortfalls perceived in the framework of the ‘Capability
 Development Mechanism’;
+
 (e) take part, where appropriate, in the development of major joint or European equipment
 programmes in the framework of the European Defence Agency.
 
-Article 3
+
+### Article 3
 
 The European Defence Agency shall contribute to the regular assessment of participating Member
 States' contributions with regard to capabilities, in particular contributions made in accordance with
@@ -97,7 +103,7 @@ Organisation, under the North Atlantic Treaty and be compatible with the common 
 established within that framework,
 HAVE AGREED UPON the following provision, which is annexed to the Treaty establishing a Constitution for Europe: -->
 
-Sole article
+### Sole article
 
 The Union shall draw up, together with the Western European Union, arrangements for enhanced
 cooperation between them.

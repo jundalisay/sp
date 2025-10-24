@@ -1,7 +1,7 @@
 ---
 title: "Protocol On The Application Of Certain Aspects Of Article Iii-130 Of The Constitution To The United Kingdom And To Ireland"
 heading: "Part 18"
-weight: 1
+weight: 24
 image: "/flags/eu.png"
 description: ""
 icon: eu

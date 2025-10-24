@@ -1,7 +1,7 @@
 ---
 title: "PROTOCOL ON EXTERNAL RELATIONS OF THE MEMBER STATES WITH REGARD TO THE CROSSING OF EXTERNAL BORDERS"
 heading: "Part 21-22"
-weight: 1
+weight: 29
 image: "/flags/eu.png"
 description: ""
 icon: eu
@@ -13,7 +13,7 @@ cooperation with third countries where appropriate,
 HAVE AGREED UPON the following provision, which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
-Sole article
+###  Sole article
 
 The provisions on the measures on the crossing of external borders included in Article 3‑265(2)(b)
 of the Constitution shall be without prejudice to the competence of Member States to negotiate or
@@ -46,20 +46,22 @@ the status of refugees,
 HAVE AGREED UPON the following provisions which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
-Sole article
+## Sole article
 
 Given the level of protection of fundamental rights and freedoms by the Member States of the European Union, Member States shall be regarded as constituting safe countries of origin in respect of each other for all legal and practical purposes in relation to asylum matters. Accordingly, any application for asylum made by a national of a Member State may be taken into consideration or declared admissible for processing by another Member State only in the following cases:
 
 (a) if the Member State of which the applicant is a national proceeds, availing itself of the provisions of Article 15 of the European Convention for the Protection of Human Rights and Fundamental Freedoms, to take measures derogating in its territory from its obligations under that Convention
+
 (b) if the procedure referred to in Article I‑59(1) or (2) of the Constitution has been initiated and
 until the Council, or, where appropriate, the European Council, adopts a European decision in
 respect thereof with regard to the Member State of which the applicant is a national;
+
 (c) if the Council has adopted a European decision in accordance with Article I‑59(1) of the
 Constitution in respect of the Member State of which the applicant is a national or if the
 European Council has adopted a European decision in accordance with Article I‑59(2) of the
 Constitution in respect of the Member State of which the applicant is a national;
+
 (d) if a Member State should so decide unilaterally in respect of the application of a national of
 another Member State; in that case the Council shall be immediately informed; the application
 shall be dealt with on the basis of the presumption that it is manifestly unfounded without
 affecting in any way, whatever the case may be, the decision‑making power of the Member State.
-

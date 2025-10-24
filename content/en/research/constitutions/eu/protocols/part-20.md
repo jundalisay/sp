@@ -1,7 +1,7 @@
 ---
 title: "Protocol On The Position Of Denmark"
 heading: "Part 20"
-weight: 1
+weight: 27
 image: "/flags/eu.png"
 description: ""
 icon: eu
@@ -25,9 +25,9 @@ respect to measures not binding on Denmark;
 BEARING IN MIND the Protocol on the Schengen acquis integrated into the framework of the European Union,
 HAVE AGREED UPON the following provisions, which shall be annexed to the Constitution: -->
 
-PART I
+## PART I
 
-Article 1
+### Article 1
 
 Denmark shall not take part in the adoption by the Council of proposed measures pursuant to
 Chapter IV of Title III of Part III of the Constitution. The unanimity of the members of the Council,
@@ -47,7 +47,7 @@ proposal from the Commission or from the Union Minister for Foreign Affairs, the
 majority shall be defined as at least 72 % of the members of the Council representing the
 participating Member States, comprising at least 65 % of the population of these States.
 
-Article 2
+### Article 2
 
 None of the provisions of Chapter IV of Title III of Part III of the Constitution, no measure adopted
 pursuant to that Chapter, no provision of any international agreement concluded by the Union
@@ -57,7 +57,7 @@ provision, measure or decision shall in any way affect the competences, rights a
 Denmark; and no such provision, measure or decision shall in any way affect the Community or
 Union acquis nor form part of Union law as they apply to Denmark.
 
-Article 3
+### Article 3
 
 Denmark shall bear no financial consequences of measures referred to in Article 1, other than
 administrative costs entailed for the institutions.
@@ -73,9 +73,10 @@ Denmark will consider appropriate measures to be taken.
 2. Denmark shall maintain the rights and obligations existing before the entry into force of the Treaty establishing a Constitution for Europe with regard to the Schengen acquis.
 
 
-PART 2
+## PART 2
 
-Article 5
+### Article 5
+
 With regard to measures adopted by the Council pursuant to Article I-41, Article 3-295(1) and
 Articles III-309 to III-313 of the Constitution, Denmark does not participate in the elaboration and
 the implementation of decisions and actions of the Union which have defence implications. Therefore
@@ -101,9 +102,9 @@ majority shall be defined as at least 72 % of the members of the Council represe
 participating Member States, comprising at least 65 % of the population of these States.
 
 
-PART 3
+## PART 3
 
-Article 6
+### Article 6
 
 This Protocol shall also apply to measures remaining in force by virtue of Article IV-438 of the
 Constitution, which were covered, prior to the entry into force of the Treaty establishing a
@@ -114,27 +115,31 @@ Articles 1, 2 and 3 shall not apply to measures determining the third countries 
 be in possession of a visa when crossing the external borders of the Member States, or measures
 relating to a uniform format for visas.
 
-PART IV
 
-Article 8
+## PART 4
+
+### Article 8
+
 At any time Denmark may, in accordance with its constitutional requirements, inform the other
 Member States that it no longer wishes to avail itself of all or part of this Protocol. In that event,
 Denmark will apply in full all relevant measures then in force taken within the framework of the
 Union.
 
-Article 9
+### Article 9
 
 1. At any time and without prejudice to Article 8, Denmark may, in accordance with its
 constitutional requirements, notify the other Member States that, with effect from the first day of the
 month following the notification, Part I shall consist of the provisions in the Annex. In that case
 Articles 5 to 9 shall be renumbered in consequence.
+
 2. Six months after the date on which the notification referred to in paragraph 1 takes effect all
 Schengen acquis and measures adopted to build upon this acquis, which until then have been binding
 on Denmark as obligations under international law, shall be binding upon Denmark as Union law.
 
-Annex
 
-Article 1
+## Annex
+
+### Article 1
 
 Subject to Article 3, Denmark shall not take part in the adoption by the Council of measures
 proposed pursuant to Chapter IV of Title III of Part III of the Constitution. The unanimity of the
@@ -152,7 +157,8 @@ proposal from the Commission or from the Union Minister for Foreign Affairs, the
 majority shall be defined as at least 72 % of the members of the Council representing the
 participating Member States, comprising at least 65 % of the population of these States.
 
-Article 2
+
+### Article 2
 
 Pursuant to Article 1 and subject to Articles 3, 4 and 6, none of the provisions in Chapter IV of
 Title III of Part III of the Constitution, no measure adopted pursuant to that Chapter, no provision of
@@ -163,7 +169,7 @@ the competences, rights and obligations of Denmark; and no such provision, measu
 shall in any way affect the Community or Union acquis nor form part of Union law as they apply to
 Denmark.
 
-Article 3
+### Article 3
 
 1. Denmark may notify the President of the Council in writing, within three months after a
 proposal or initiative has been presented to the Council pursuant to Chapter IV of Title III of Part III
@@ -173,14 +179,14 @@ measure, whereupon Denmark shall be entitled to do so.
 Denmark taking part, the Council may adopt that measure referred to in paragraph 1 in accordance
 with Article 1 without the participation of Denmark. In that case Article 2 applies.
 
-Article 4
+### Article 4
 
 Denmark may at any time after the adoption of a measure pursuant to Chapter IV of Title III of
 Part III of the Constitution notify its intention to the Council and the Commission that it wishes to
 accept that measure. In that case, the procedure provided for in Article 3-420(1) of the Constitution
 shall apply mutatis mutandis.
 
-Article 5
+### Article 5
 
 1. Notification pursuant to Article 4 shall be submitted no later than six months after the final adoption of a measure if this measure builds upon the Schengen acquis. 
 
@@ -191,12 +197,12 @@ acquis shall be deemed irrevocably to be a notification pursuant to Article 3 wi
 further proposal or initiative aiming to build upon that measure to the extent that such proposal or
 initiative builds upon the Schengen acquis.
 
-Article 6
+### Article 6
 
 Where, in cases referred to in this Part, Denmark is bound by a measure adopted by the Council
 pursuant to Chapter IV of Title III of Part III of the Constitution, the relevant provisions of the
 Constitution shall apply to Denmark in relation to that measure.
 
-Article 7
+### Article 7
 
 Where Denmark is not bound by a measure adopted pursuant to Chapter IV of Title III of Part 3 of the Constitution, it shall bear no financial consequences of that measure other than administrative costs entailed for the institutions unless the Council, acting unanimously after consulting the European Parliament, decides otherwise.
