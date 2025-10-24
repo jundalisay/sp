@@ -6,6 +6,8 @@ weight: 97
 description: "SRI RAMAKRISHNA arrived in the morning at the garden house of Surendra, one of his beloved householder disciples, in the village of Kankurgachi near Calcutta."
 ---
 
+
+
 Friday, June 20, 1884
 
 It was dusk. Sri Ramakrishna was sitting in his room, absorbed in contemplation of the Divine Mother. Now and then he was chanting Her name. Rakhal , Adhar, M., and several other devotees were with him.
@@ -14,9 +16,14 @@ After a while the evening worship began in the temples. Adhar left the room to s
 
 Sri Ramakrishna and M. conversed.
 
-MASTER: "Tell me, does Baburam intend to continue his studies? I said to him, 'Continue your studies to set an example to others.' After Sita had been set free, Bibhishana refused to become king of Ceylon. Rāma said to him: 'You should become king to open the eyes of the ignorant.
+{{< l a="Ramakrishna" >}}
+Does Baburam intend to continue his studies? I said to him, 'Continue your studies to set an example to others.' After Sita had been set free, Bibhishana refused to become king of Ceylon. Rāma said to him: 
+{{< /l >}}
 
-Otherwise they will ask you what you have gained as a result of serving Me. They will be pleased to see you acquire the kingdom.'
+{{< r a="Rama" >}}
+You should become king to open the eyes of the ignorant. Otherwise they will ask you what you have gained as a result of serving Me. They will be pleased to see you acquire the kingdom.'
+{{< /r >}}
+
 
 I noticed the other day that Baburam, Bhavanath, and Harish have a feminine nature.
 
