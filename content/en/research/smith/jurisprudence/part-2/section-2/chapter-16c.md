@@ -4,6 +4,7 @@ heading: "Chapter 16b"
 description: "Another thing which greatly retarded commerce was the imperfection of the law with regard to contracts."
 # date: 2015-09-17
 c: "seagreen"
+icon: "Adam Smith"
 weight: 36
 writer:
   name: Adam Smith

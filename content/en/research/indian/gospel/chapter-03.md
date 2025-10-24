@@ -2,7 +2,7 @@
 title: "Visit To Pundit Vidyasagar"
 c: "indigo"
 heading: "Chapter 3"
-weight: 12
+weight: 10
 description: "Pundit Iswar Chandra Vidyasagar was born in the village of Beersingh"
 ---
 

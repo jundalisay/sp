@@ -2,7 +2,7 @@
 title: "Brahman and Śakti are Identical"
 c: "indigo"
 heading: "Chapter 3d"
-weight: 16
+weight: 14
 description: "The path of love also leads to the Truth."
 date: 1882-04-02
 ---

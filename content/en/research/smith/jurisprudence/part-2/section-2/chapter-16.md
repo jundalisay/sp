@@ -5,6 +5,7 @@ description: "The violent civil government is the biggest obstacle to the progre
 # date: 2015-09-17
 c: "seagreen"
 weight: 36
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

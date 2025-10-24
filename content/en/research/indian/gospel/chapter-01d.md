@@ -2,7 +2,7 @@
 title: "Is it possible to see God?"
 c: "indigo"
 heading: "Chapter 1d"
-weight: 6
+weight: 5
 description: "Under what conditions does one see God?"
 ---
 

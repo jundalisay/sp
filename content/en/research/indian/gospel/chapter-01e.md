@@ -2,7 +2,7 @@
 title: "The Parable of the Snake; Four CLasses of Men"
 c: "indigo"
 heading: "Chapter 1e"
-weight: 7
+weight: 6
 description: "The snake became a mere skeleton covered with a skin"
 ---
 

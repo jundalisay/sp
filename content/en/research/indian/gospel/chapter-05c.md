@@ -114,7 +114,9 @@ Keshab began to serve some puffed rice and grated coconut. The guests held these
 
 ## Disagreements necessary for enriching life
 
-MASTER (to Keshab): "Look here. There is Vijay. Your quarrel seems like the fight between Śiva and Rama. Śiva was Rama's s guru. Though they fought with each other, yet they soon came to terms. But the grimaces of the ghosts, the followers of Śiva, and the gibberish of the monkeys, the followers of Rama, would not come to an end! 
+{{< l a="Ramakrishna" >}}
+(to Keshab): "Look there is Vijay. Your quarrel seems like the fight between Śiva and Rama. Śiva was Rama's s guru. Though they fought with each other, yet they soon came to terms. But the grimaces of the ghosts, the followers of Śiva, and the gibberish of the monkeys, the followers of Rama, would not come to an end! 
+{{< /l >}}
 
 (Loud laughter.) 
 
@@ -130,11 +132,14 @@ You may ask why. The answer is that the play does not develop without trouble-ma
 Ramanuja upheld the doctrine of Qualified Non-dualism. But his guru was a pure non-dualist. They disagreed with each other and refuted each other's arguments. That always happens. Still, to the teacher the disciple is his own."
 All rejoiced in the Mastcr's company and his words.
 
-MASTER (to Keshab): "You don't look into people's natures, before you make them your disciples, and so they break away from you.
+{{< l a="Ramakrishna" >}}
+(to Keshab): "You don't look into people's natures, before you make them your disciples, and so they break away from you.
 
 "All men look alike, to be sure, but they have different natures. Some have an excess of sattva, others an excess of rajas, and still others an excess of tamas. You must have noticed that the cakes known as puli all look alike. But their contents are very different. 
 
 Some contain condensed milk, some coconut kernel, and others mere boiled kalai pulse.
+{{< /l >}}
+
 
 (All laugh)
 
@@ -144,4 +149,3 @@ Some contain condensed milk, some coconut kernel, and others mere boiled kalai p
 "Do you know my attitude? As for myself, I eat, drink, and live happily. The rest the Divine Mother knows. Indeed, there are three words that prick my flesh: 'guru', 'master', and 'father'.
 
 "There is only one Guru, and that is Satchidananda. He alone is the Teacher. My attitude toward God is that of a child toward its mother. One can get human gurus by the million. All want to be teachers. But who cares to be a disciple?
-

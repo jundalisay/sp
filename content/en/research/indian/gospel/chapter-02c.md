@@ -2,7 +2,7 @@
 title: "Explanation of evil"
 c: "indigo"
 heading: "Chapter 2c"
-weight: 10
+weight: 9
 description: "Why does a man have evil tendencies?"
 date: 1882-04-02
 ---

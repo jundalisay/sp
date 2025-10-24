@@ -2,7 +2,7 @@
 title: "Master And Disciple"
 c: "indigo"
 heading: "Chapter 1"
-weight: 3
+weight: 2
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"
 ---
 

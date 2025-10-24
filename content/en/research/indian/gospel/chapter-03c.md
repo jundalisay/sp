@@ -2,7 +2,7 @@
 title: "Path of Love is Easy"
 c: "indigo"
 heading: "Chapter 3c"
-weight: 15
+weight: 12
 description: "The path of love also leads to the Truth."
 date: 1882-04-02
 ---

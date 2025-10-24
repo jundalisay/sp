@@ -4,6 +4,7 @@ heading: "Chapter 15"
 description: "Exchange is a method invented by merchants to facilitate the payment of money at a distance"
 # date: 2015-09-17
 c: "seagreen"
+icon: "Adam Smith"
 weight: 34
 writer:
   name: Adam Smith
