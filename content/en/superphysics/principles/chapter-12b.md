@@ -24,6 +24,9 @@ This discipline implies a goal. For example, the goal of:
 
 The goal and vision of Superphysics is a new reality which has freed itself from the shackles of ego, materialism, and the Negative Force.
 
+
+## Employing Humans for Service to the Physical and Biophysical Universe
+
 This creates a transition period for learning the basics of how the universe really works. 
 
 This is similar to high school level. 
@@ -33,35 +36,54 @@ Graduation from the high school level enables the human species to be employed f
 Humans under the current level of materialist sciences are like children playing around, unable to be worthy of employment in the galaxy. 
 - An analogy are the savages in North Sentinel Island which no one dares visit. This is why aliens also stay away from Earth. 
 
+{{< i s="/photos/medieval/sentinelese.jpg" a="sentinelese" c="Advanced alien species avoid and quarantine the human species just as humans avoid and quarantine the North Sentinelese">}}
+
 By upgrading human sciences into Superphysics, we hope to put humanity back under the radar of alien "investors" who will employ humans to give basic working experience with advanced technologies like anti gravity, teleportation, free energy, etc. 
 
 Experience in our stellar neighborhood will then be the start of university where humans will learn how the entire galaxy works. 
 
 This will then allow human employment for the service of the galaxy. 
 
+
+## Aligns with the Anunnaki Genesis
+
 In other words, Superphysics gives the humans species a dignified job of being of service to the universe.
 
-The compensation and benefits is the added knowledge and resources of the universe to expand human minds and improve our knowledge of life and Existence. 
+In Superphysics, the start of an idea in reality is very important because it reveals the initial 'spin' or waveform of the idea.
+- Every subsequent spin necessarily has a relation to that initial spin, as explained in the principle of Relationality
+- Every idea is based on a feeling and so the genesis of something reveals the underlying feeling that led to it
+- This is also the principle behind astrology where people look at the dominant stars or planets when a person was born
 
-Graduation from this level will lead to the masters level wherein humans can go beyond the galaxy and physical existence itself. 
+The genesis-idea for humanity was the need of the Anunnaki for helpers and slaves to help them mine gold to save their planet.
 
-Mastery of that level will allow humans to evolve beyond physicality. 
+So we upgrade this to employment, with the compensation and benefits being the added knowledge and resources of the universe to expand human minds and improve our knowledge of life and Existence. 
 
-At that point, Superhysics itself will need to be overhauled to explain the nature of non-physical reality. 
+It means that humans will be given advanced science and technology which will be used for service instead of for patenting to be selfish corporate assets for self-gain.
+
+The current selfish undercurrent of intellectual property is why there is no advanced sciences being developed.
+
+Graduation from the university level of galactic service will lead to the masters level wherein humans can go beyond the galaxy and physical existence itself. 
+
+The mastery of that level will allow humans to evolve beyond physicality. 
+
+At that point, Superphysics itself will need to be overhauled to explain the nature of non-physical reality. 
 
 
 
 ## Supereconomics
 
-Supereconomics is Superhysics applied to Economics and resource allocation. 
+Supereconomics is Superphysics applied to Economics and resource allocation. 
 
 It envisions a fair and sustainable points-based economic system that is based on the Four Laws of Value instead of Marginal Pricing and Money. 
+
+This replaces the time value of money (matter) with the time value of life (aether).
 
 {{< i s="/photos/buy.jpg" a="Buying" >}}
 
 
 It also pushes for:
 - Free trade with barter, as pool clearing, run by a world barter organization.
+- 4th branch of government as the Resources Department
 - Real time analytics
 
 
@@ -102,6 +124,7 @@ It also pushes for:
 - artificial natural intelligence 
 - crystal computers
 - room temperature superconductors
+- Tesla's wireless energy
 
 
 ## Bio Superphysics
@@ -113,9 +136,10 @@ Bio Superphysics is Superphysics applied to living things. This includes Biology
 It envisions a healthcare system that allows alternative medicine and also puts it on the same level as Western Medicine. 
 
 It also pushes for:
+- 5 paradigm healthcare: Homeopathy, Chinese medicine, Ayurveda, Naturopathy, Western Medicine
 - seawater agriculture
 - sound-based agriculture
-- Elemental industry
+- Elemental industry, as the tapping and employment of Elementals
 - maximized farming
 
  
@@ -132,5 +156,8 @@ This aims to made religious dogma and conflict obsolete.
 It also pushes for:
 - a common moral system
 - omnitheism
+- four paths towards the Supreme: karma (action), raja (discipline), jnana (intellect), bhakti (love),
 
+Christianity and Islam are fear-based and so they mostly fall under raja. All ancient philosophers and sages unanimously agree that bhakti is the best path.
 
+The Superphysics Team used bhakti despite being intellectuals (jnana) and action-people (karma) and it has allowed us to create Superphysics. 
