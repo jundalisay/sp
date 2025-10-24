@@ -27,6 +27,7 @@ The room was full of people, all seated on the floor, drinking in his words in d
 
 M. stood there speechless and looked on. It was as if he were standing where all the holy places met and as if Sukadeva himself were speaking the word of God, or as if Sri Chaitanya were singing the name and glories of the Lord in Puri with Ramananda, Swarup, and the other devotees.
 
+
 ## Formalities and essentials of religion
 
 {{< l a="Ramakrishna" >}}
@@ -82,13 +83,22 @@ It is like the state of the angler who has been sitting with his rod: the fish c
 
 Such was the state of Sri Ramakrishna's mind. Later M. heard, and himself noticed, that Sri Ramakrishna would often go into this mood after dusk, sometimes becoming totally unconscious of the outer world. 
 
-M: "Perhaps you want to perform your evening worship. In that case may we take our leave?"
 
-SRI RAMAKRISHNA (still in ecstasy): "No-evening worship? No, it is not exactly that."
+{{< r a="M" >}}
+Perhaps you want to perform your evening worship. In that case may we take our leave?
+{{< /r >}}
 
-After a little conversation M. saluted the Master and took his leave. "Come again", Sri Ramakrishna said.
+{{< l a="Ramakrishna" >}}
+(still in ecstasy): "No-evening worship? No, it is not exactly that."
+{{< /l >}}
 
-On his way home M. began to wonder: "Who is this serene-looking man who is drawing me back to him? Is it possible for a man to be great without being a scholar? How
-wonderful it is! I should like to see him again. He himself said, 'Come again.' I shall go
-tomorrow or the day after."
+
+After a little conversation M. saluted the Master and took his leave. 
+
+{{< l a="Ramakrishna" >}}
+Come again
+{{< /l >}}
+
+
+On his way home M. began to wonder: "Who is this serene-looking man who is drawing me back to him? Is it possible for a man to be great without being a scholar? How wonderful it is! I should like to see him again. He himself said, 'Come again.' I shall go tomorrow or the day after."
 

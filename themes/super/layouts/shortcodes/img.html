@@ -4,9 +4,11 @@
 {{ $cap := .Get "cap" | default "" }}
 
 
-<figure class="text-center ani">
-	<img src="{{ $src }}" alt="{{ $alt }}" class="rounded-lg shadow mx-auto {{ $size }}" loading="lazy">
+<div class="inline-block align-top text-center fade-in is-visible">
+    <img src="{{ $src }}" alt="{{ $alt }}"
+         class="rounded-lg shadow mx-auto float-start {{ $size }}" 
+         loading="lazy">
 	{{ if $cap }}
 		<figcaption>{{ $cap | markdownify }}</figcaption>
-	{{ end }}
-</figure>
+	{{ end }}         
+</div>

@@ -21,40 +21,69 @@ In Calcutta, sir, at Baranagore at my older sister's-Ishan Kaviraj's house
 {{< /r >}}
 
 
-SRI RAMAKRISHNA: "Oh, at Ishan's? Well, how is Keshab now? He was very ill."
+{{< l a="Ramakrishna" >}}
+Oh, at Ishan's? Well, how is Keshab now? He was very ill
+{{< /l >}}
 
-M: "I have heard so too, but I believe he is well now."
+{{< r a="M" >}}
+I have heard so too, but I believe he is well now.
+{{< /r >}}
+
 
 ## Master's love for Keshab
 
-SRI RAMAKRISHNA: "I made a vow to worship the Mother with green coconut and sugar on Keshab's recovery. Sometimes, in the early hours of the morning, I would wake up
-and cry before Her: 'Mother, please make Keshab well again. If Keshab doesn't live, whom shall I talk with when I go to Calcutta?' And so it was that I resolved to offer Her
-the green coconut and sugar.
+{{< l a="Ramakrishna" >}}
+I made a vow to worship the Mother with green coconut and sugar on Keshab's recovery. Sometimes, in the early hours of the morning, I would wake up and cry before Her: 'Mother, please make Keshab well again. If Keshab doesn't live, whom shall I talk with when I go to Calcutta?' And so it was that I resolved to offer Her the green coconut and sugar.
 
-"Tell me, do you know of a certain Mr. Cook who has come to Calcutta? Is it true that he is giving lectures? Once Keshab took me on a steamer, and this Mr. Cook, too was in
-the party."
+Do you know of a Mr. Cook who has come to Calcutta? Is it true that he is giving lectures? Once Keshab took me on a steamer, and this Mr. Cook, too was in the party.
+{{< /l >}}
 
-M: "Yes, sir, I have heard something like that; but I have never been to his lectures. I don't know much about him."
+{{< r a="M" >}}
+Yes, sir, I have heard something like that; but I have never been to his lectures. I don't know much about him.
+{{< /r >}}
 
 Sri Ramakrishna on M.'s marriage
 
-SRI RAMAKRISHNA: "Pratap's brother came here. He stayed a few days. He had nothing to do and said he wanted to live here. I came to know that he had left his wife
-and children with his father-in-law. He has a whole brood of them! So I took him to task. Just fancy! He is the father of so many children! Will people from the
-neighbourhood feed them and bring them up? He isn't even ashamed that someone else 86is feeding his wife and children, and that they have been left at his father-in-law's
-house. I scolded him very hard and asked him to look for a job. 
+{{< l a="Ramakrishna" >}}
+Pratap's brother came here. He stayed a few days. He had nothing to do and said he wanted to live here. I came to know that he had left his wife and children with his father-in-law. 
+
+He has a whole brood of them! So I took him to task. Just fancy! He is the father of so many children! Will people from the neighbourhood feed them and bring them up? 
+
+He isn't even ashamed that someone else 86is feeding his wife and children, and that they have been left at his father-in-law's house. I scolded him very hard and asked him to look for a job. 
 
 Then he was willing to leave here.
-"Are you married?"
-M: "Yes, sir."
 
-SRI RAMAKRISHNA (with a shudder): "Oh, Ramlal! Alas, he is married!"
-Like one guilty of a terrible offence, M. sat motionless, his eyes fixed on the ground. He
-thought, "Is it such a wicked thing to get married?"
+Are you married?
+{{< /l >}}
 
-The Master continued, "Have you any children?"
+{{< r a="M" >}}
+Yes, sir
+{{< /r >}}
 
-M. this time could hear the beating of his own heart. He whispered in a trembling voice, "Yes, sir, I have children."
-Very sadly Sri Ramakrishna said, "Ah me! He even has children!"
+
+{{< l a="Ramakrishna" >}}
+(with a shudder): Oh, Ramlal! Alas, he is married!
+{{< /l >}}
+
+
+Like one guilty of a terrible offence, M. sat motionless, his eyes fixed on the ground. He thought, "Is it such a wicked thing to get married?"
+
+{{< l a="Ramakrishna" >}}
+Have you any children?
+{{< /l >}}
+
+
+M. this time could hear the beating of his own heart. He whispered in a trembling voice:
+
+{{< r a="M" >}}
+Yes, sir, I have children.
+{{< /r >}}
+
+
+{{< l a="Ramakrishna" >}}
+(Very sadly) Ah me! He even has children!
+{{< /l >}}
+
 
 Thus rebuked M. sat speechless. His pride had received a blow. After a few minutes Sri Ramakrishna looked at him kindly and said affectionately: 
 
@@ -75,6 +104,7 @@ M. had yet to learn the distinction between knowledge and ignorance. Up to this 
 <!-- When Sri Ramakrishna exclaimed, "And you are a man of knowledge!",  -->
 
 M.'s ego was badly shocked by Sri Ramakrishna's remark.
+
 
 ## God with and without form
 
@@ -125,6 +155,5 @@ should you get a headache over it? You had better try for knowledge and devotion
 {{< /l >}}
 
 This time M. felt that his ego was completely crushed. He now said to himself: "Yes, he has spoken the truth. What need is there for me to teach others? Have I known God?
+
 Do I really love Him? 'I haven't room enough for myself in my bed, and I am inviting my friend to share it with me!' I know nothing about God, yet I am trying to teach others. What a shame! How foolish I am! This is not mathematics or history or literature, that one can teach it to others. No, this is the deep mystery of God. What he says appeals to me."
-
-

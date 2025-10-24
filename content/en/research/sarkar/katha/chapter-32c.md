@@ -1,5 +1,5 @@
 ---
-title: "POSTING TO HAJIPUR"
+title: "Posting To Hajipur"
 heading: Chapter 32c
 weight: 102
 description: "While under training in Delhi I received orders that I stood transferred to Hajipur, where I had to take charge immediately after training"
@@ -48,8 +48,10 @@ After inquiring my welfare Baba said:
 Nagina seems unhappy with me these days?”
 {{< /l >}}
 
+{{< r a="Nagina" >}}
+It is not so Baba, where shall I go if I feel unhappy at your feet? I feel, on the other hand, that my Baba is not pleased with me.
+{{< /r >}}
 
-I said, “It is not so Baba, where shall I go if I feel unhappy at your feet? I feel, on the other hand, that my Baba is not pleased with me.”
 
 When the train departed I began to wonder why Baba spoke to me like this.
 
@@ -64,3 +66,4 @@ Do not compare life with a stagnant pool. Life is like a torrential stream. Its 
 
 Therefore, those who want to steer clear of difficulties and obstacles have lost the life of life. They are dead. The fit place for them is not society but the burial ground.
 {{< /l >}}
+

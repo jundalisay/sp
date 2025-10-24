@@ -20,20 +20,13 @@ The previous section explained Supply and Demand Efficiency and Inefficiency.
 
 We can create their Supereconomic equivalents, using our effort theory of value, so that they can be applied to families, organizations, etc (ours is a socio-economic system, with more features than an economic system such as Capitalism and Communism):
 
-
-{{< img src="/photos/social/vice.jpg" alt="Parents being negligent" cap="**Producer’s surplus** — a state where the producer gets more gain. Examples are families where parents neglect their children, or a company where the employer gets way more benefit than the employees" >}}
-
-{{< img src="/photos/social/african.jpg" alt="Mother getting water" cap="**Deadweight loss** — a state where the society labours harder than usual for less gain. For example, when a natural disaster cuts the family’s water supply so that they have to go the river to fetch it manually" >}}
-
-
-{{< img src="/photos/social/unruly.jpg" alt="Children being unruly" cap="**Consumer’s surplus** — a state where the consumer gets more bargain or advantage. Examples are families where parents are overworked or a company where the employees are lazy and feed off a hardworking boss" >}}
-
-
-{{< img src="/photos/social/family.jpg" alt="Happy family" cap="**Manageable balance** — a state where both get equitable share" >}}
-
-
-{{< img src="/photos/social/laptop.jpg" alt="Family with a computer" cap="**Material progress** — a state where society labours less for more gain. An example is a family buying a computer to get more work done or get more entertainment" >}}
-
+Name | 
+--- | ---
+**Producer’s surplus** — a state where the producer gets more gain. Examples are families where parents neglect their children, or a company where the employer gets way more benefit than the employees | {{< img src="/photos/social/vice.jpg" alt="Parents being negligent" cap="" >}}
+**Deadweight loss** — a state where the society labours harder than usual for less gain. For example, when a natural disaster cuts the family’s water supply so that they have to go the river to fetch it manually | {{< img src="/photos/social/african.jpg" alt="Mother getting water" cap="" >}}
+**Consumer’s surplus** — a state where the consumer gets more bargain or advantage. Examples are families where parents are overworked or a company where the employees are lazy and feed off a hardworking boss | {{< img src="/photos/social/wife.jpg" alt="Children being unruly" cap="" >}}
+**Manageable balance** — a state where both get equitable share | {{< img src="/photos/social/family.jpg" alt="Happy family" cap="" >}}
+**Material progress** — a state where society labours less for more gain. An example is a family buying a computer to get more work done or get more entertainment | {{< img src="/photos/social/laptop.jpg" alt="Family with a computer" cap="" >}}
 
 
 ## A Family Scenario (May 2020)

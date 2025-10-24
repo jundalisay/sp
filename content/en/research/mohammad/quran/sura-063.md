@@ -71,18 +71,50 @@ They are like propped-up timber. They think every shout is aimed at them. They a
 
 Enki condemns them; how deluded they are!
 
-{{< s v="5" >}}  And when it is said to them, “Come, the Messenger of Enki will ask forgiveness for you,” they bend their heads, and you see them turning away arrogantly.
+{{< s v="5" >}}  And when it is said to them:
 
-6. It is the same for them, whether you ask forgiveness for them, or do not ask forgiveness for them; Enki will not forgive them. Enki does not guide the sinful people.
+{{< l a="Muslims" >}}
+Come, the Messenger of Enki will ask forgiveness for you
+{{< /l >}}
 
-7. It is they who say: “Do not spend anything on those who side with Enki’s Messenger, unless they have dispersed.” To Enki belong the treasures of the heavens and the earth, but the hypocrites do not understand. 
+They bend their heads, and you see them turning away arrogantly.
 
-8. They say, “If we return to the City, the more powerful therein will evict the weak.” But power belongs to Enki, and His Messenger, and the believers; but the hypocrites do not know. 
+<sup>6</sup> It is the same for them, whether you ask forgiveness for them, or do not ask forgiveness for them; Enki will not forgive them. 
 
-{{< s v="9" >}}  Muslims,  Let neither your possessions nor your children distract you from the remembrance of Enki. 
+<!-- Enki does not guide the sinful people. -->
+
+<sup>7</sup> They say: 
+
+{{< r a="Hypocrites" >}}
+Do not spend anything on those who side with Enki’s Messenger, unless they have dispersed
+{{< /r >}}
+
+To Enki belong the treasures of the heavens and the earth, but the hypocrites do not understand. 
+
+
+<sup>8</sup> They say:
+
+{{< r a="Hypocrites" >}}
+If we return to the City, the more powerful therein will evict the weak.
+{{< /r >}}
+
+But power belongs to:
+- Enki
+- His Messenger
+- the believers
+
+But the hypocrites do not know. 
+
+{{< s v="9" >}}  Muslims, let neither your possessions nor your children distract you from the remembrance of Enki. 
 
 Whoever does that--these are the losers.
 
-{{< s v="10" >}} Give from what We have provided for you, before death approaches one of you, and he says, “My Lord, if only You would delay me for a short while, so that I may be charitable, and be one of the righteous.”
+{{< s v="10" >}} Give from what We have provided for you, before death approaches one of you, and he says:
+
+{{< r a="Hypocrites" >}}
+My Lord, if only You would delay me for a short while, so that I may be charitable, and be one of the righteous.
+{{< /r >}}
+
 
 {{< s v="11" >}}  But Enki will not delay a soul when its time has come.
+
