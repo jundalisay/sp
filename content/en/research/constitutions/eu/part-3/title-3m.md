@@ -1,3 +1,13 @@
+---
+title: "Interparliamentary Cooperation"
+heading: "Title 1"
+weight: 61
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
+
+
 SECTION 4: AGRICULTURE AND FISHERIES
 
 Article 3-225

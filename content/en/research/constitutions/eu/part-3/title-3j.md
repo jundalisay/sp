@@ -1,4 +1,13 @@
-CHAPTER 3: POLICIES IN OTHER AREAS
+---
+title: "POLICIES IN OTHER AREAS"
+heading: "Title 3 Chapter 3"
+weight: 54
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
+
+
 
 SECTION 1: EMPLOYMENT
 

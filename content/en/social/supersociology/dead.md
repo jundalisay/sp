@@ -6,9 +6,10 @@ description: "It would have been better for the democrats, and the world, if Hil
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.pn
+icon: Juan
 ---
  
+
 
 November 1 is celebrated as the Mexican day of the dead which is mirrored in Italy and other places near the Atlantic Ocean.
 

@@ -8,24 +8,25 @@ c: "firebrick"
 
 
 
-{{< l a="Enki" >}}
-<sup>1-2</sup> [To Ezekiel] Son of man, prophesy against the shepherds of Israel. Tell them that Enki said to the shepherds; Woe [be] to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks? 
+<sup>1-2</sup> [To Ezekiel] Son of man, prophesy against the shepherds of Israel. 
 
-3 You eat the fat and clothe with the wool, you kill them that are fed: but you feed not the flock. 
+Tell them that Enki said to the shepherds: Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks? 
 
-4 The diseased have you not strengthened, neither have you healed that which was sick, neither have ye bound up that which was broken, neither have you brought again that which was driven away, neither have you sought that which was lost; but with force and with cruelty have ye ruled them. 
+<sup>3</sup> You eat the fat and clothe with the wool, you kill them that are fed: but you feed not the flock. 
 
-5 They were scattered, because there was no shepherd. They became meat to all the beasts of the field. 
+<sup>4</sup>  The diseased have you not strengthened, neither have you healed that which was sick, neither have ye bound up that which was broken, neither have you brought again that which was driven away, neither have you sought that which was lost; but with force and with cruelty have ye ruled them. 
 
-6 My sheep wandered through all the mountains, and on every high hill. My flock was scattered upon all the face of the earth, and no one searched for them.
-{{< /l >}}
+<sup>5</sup> They were scattered, because there was no shepherd. They became meat to all the beasts of the field. 
 
+<sup>6</sup> My sheep wandered through all the mountains, and on every high hill. My flock was scattered upon all the face of the earth, and no one searched for them.
 
-7 So, shepherds, hear my word 8 As I live surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock
+<sup>7</sup> So, shepherds, hear my word.
+
+<sup>8-9</sup> As I live surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock
 
  <!-- 9} Therefore, O you shepherds, hear the word of Enki; -->
 
-10 Behold, I am against the shepherds. I will require my flock at their hand, and cause them to cease from feeding the flock. Neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.
+<sup>10</sup> Behold, I am against the shepherds. I will require my flock at their hand, and cause them to cease from feeding the flock. Neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.
 
 11 Behold, I will both search my sheep, and seek them out. 
 
@@ -66,5 +67,3 @@ And to have drunk of the deep waters, but you must foul the residue with your fe
 30 Thus shall they know that I Enki their God am with them and that they even the house of Israel, are my people
 
 31 You my flock, the flock of my pasture, [are] men, [and] I [am] your God, saith Enki.
-
-

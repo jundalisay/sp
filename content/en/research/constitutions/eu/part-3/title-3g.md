@@ -1,6 +1,16 @@
-SECTION 2: MONETARY POLICY
+---
+title: "MONETARY POLICY"
+heading: "Title 3 Section 2"
+weight: 43
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
 
-Article 3-185
+
+
+### Article 3-185
+
 1. The primary objective of the European System of Central Banks shall be to maintain
 price stability. Without prejudice to this objective, the European System of Central Banks shall
 support the general economic policies in the Union in order to contribute to the achievement of its

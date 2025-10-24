@@ -9,6 +9,8 @@ description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/principles/dharma/  
 ---
 
 

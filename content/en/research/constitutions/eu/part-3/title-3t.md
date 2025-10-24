@@ -1,32 +1,47 @@
-SECTION 5: POLICE COOPERATION
+---
+title: "POLICE COOPERATION"
+heading: "Title 3 Section 5"
+weight: 104
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
 
-Article 3-275
+
+### Article 3-275
+
 1. The Union shall establish police cooperation involving all the Member States' competent
 authorities, including police, customs and other specialised law enforcement services in relation to
 the prevention, detection and investigation of criminal offences.
+
 2. For the purposes of paragraph 1, European laws or framework laws may establish measures
 concerning:
+
 (a) the collection, storage, processing, analysis and exchange of relevant information;
+
 (b) support for the training of staff, and cooperation on the exchange of staff, on equipment and on
 research into crime‑detection;
-(c) common investigative techniques in relation to the detection of serious forms of organised crime.954393_TRAITE_EN_101_150
-12-01-2005
-14:22
-Pagina 128
-128
-Part III
+
+(c) common investigative techniques in relation to the detection of serious forms of organised crime.
+
 3. A European law or framework law of the Council may establish measures concerning
 operational cooperation between the authorities referred to in this Article. The Council shall act
 unanimously after consulting the European Parliament.
-Article 3-276
+
+
+### Article 3-276
+
 1. Europol's mission shall be to support and strengthen action by the Member States' police
 authorities and other law enforcement services and their mutual cooperation in preventing and
 combating serious crime affecting two or more Member States, terrorism and forms of crime which
 affect a common interest covered by a Union policy.
+
 2. European laws shall determine Europol's structure, operation, field of action and tasks. These
 tasks may include:
+
 (a) the collection, storage, processing, analysis and exchange of information forwarded particularly
 by the authorities of the Member States or third countries or bodies;
+
 (b) the coordination, organisation and implementation of investigative and operational action
 carried out jointly with the Member States' competent authorities or in the context of joint
 investigative teams, where appropriate in liaison with Eurojust.

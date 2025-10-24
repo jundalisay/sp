@@ -1,24 +1,41 @@
-SECTION 10: ENERGY
+---
+title: "Energy"
+heading: "Title 3 Section 10"
+weight: 76
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
 
-Article 3-256
+
+### Article 3-256
+
 1. In the context of the establishment and functioning of the internal market and with regard for
 the need to preserve and improve the environment, Union policy on energy shall aim to:
+
 (a) ensure the functioning of the energy market;
+
 (b) ensure security of energy supply in the Union, and
+
 (c) promote energy efficiency and energy saving and the development of new and renewable forms
 of energy.
+
 2. Without prejudice to the application of other provisions of the Constitution, the objectives in
 paragraph 1 shall be achieved by measures enacted in European laws or framework laws. Such laws
 or framework laws shall be adopted after consultation of the Committee of the Regions and the
 Economic and Social Committee.
+
 Such European laws or framework laws shall not affect a Member State's right to determine the
 conditions for exploiting its energy resources, its choice between different energy sources and the
 general structure of its energy supply, without prejudice to Article 3-234(2)(c).
+
 3. By way of derogation from paragraph 2, a European law or framework law of the Council shall
 establish the measures referred to therein when they are primarily of a fiscal nature. The Council shall
 act unanimously after consulting the European Parliament.
 
-CHAPTER 4: AREA OF FREEDOM, SECURITY AND JUSTICE
+
+## CHAPTER 4: AREA OF FREEDOM, SECURITY AND JUSTICE
+
 SECTION 1 GENERAL PROVISIONS
 
 Article 3-257

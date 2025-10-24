@@ -1,28 +1,47 @@
+---
+title: "JUDICIAL COOPERATION IN CIVIL MATTERS"
+heading: "Title 3 Section 3"
+weight: 94
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
 
 
-SECTION 3: JUDICIAL COOPERATION IN CIVIL MATTERS
 
-Article 3-269
+### Article 3-269
+
 1. The Union shall develop judicial cooperation in civil matters having cross‑border implications,
 based on the principle of mutual recognition of judgments and decisions in extrajudicial cases. Such
 cooperation may include the adoption of measures for the approximation of the laws and regulations
 of the Member States.
+
 2. For the purposes of paragraph 1, European laws or framework laws shall establish measures,
 particularly when necessary for the proper functioning of the internal market, aimed at ensuring:
+
 (a) the mutual recognition and enforcement between Member States of judgments and decisions in
 extrajudicial cases;
+
 (b) the cross-border service of judicial and extrajudicial documents;
+
 (c) the compatibility of the rules applicable in the Member States concerning conflict of laws and of
 jurisdiction;
+
 (d) cooperation in the taking of evidence;
+
 (e) effective access to justice;
+
 (f) the elimination of obstacles to the proper functioning of civil proceedings, if necessary by
 promoting the compatibility of the rules on civil procedure applicable in the Member States;
+
 (g) the development of alternative methods of dispute settlement;
+
 (h) support for the training of the judiciary and judicial staff.
+
 3. Notwithstanding paragraph 2, a European law or framework law of the Council shall establish
 measures concerning family law with cross-border implications. The Council shall act unanimously
 after consulting the European Parliament.
+
 The Council, on a proposal from the Commission, may adopt a European decision determining those
 aspects of family law with cross-border implications which may be the subject of acts adopted by the
 ordinary legislative procedure. The Council shall act unanimously after consulting the

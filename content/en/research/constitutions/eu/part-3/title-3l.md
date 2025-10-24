@@ -1,6 +1,15 @@
-SECTION 3: ECONOMIC, SOCIAL AND TERRITORIAL COHESION
+---
+title: "ECONOMIC, SOCIAL AND TERRITORIAL COHESION"
+heading: "Title 3 Chapter 3 Section 3"
+weight: 59
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
 
-Article 3-220
+
+
+### Article 3-220
 
 In order to promote its overall harmonious development, the Union shall develop and pursue its
 action leading to the strengthening of its economic, social and territorial cohesion.

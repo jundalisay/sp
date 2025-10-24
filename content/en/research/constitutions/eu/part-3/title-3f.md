@@ -1,11 +1,21 @@
-CHAPTER 2: ECONOMIC AND MONETARY POLICY
+---
+title: "ECONOMIC AND MONETARY POLICY"
+heading: "Title 3 Chapter 2"
+weight: 34
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
 
-Article 3-177
+
+### Article 3-177
+
 For the purposes set out in Article I-3, the activities of the Member States and the Union shall
 include, as provided in the Constitution, the adoption of an economic policy which is based on the
 close coordination of Member States' economic policies, on the internal market and on the definition
 of common objectives, and conducted in accordance with the principle of an open market economy
 with free competition.
+
 Concurrently with the foregoing, and as provided in the Constitution and in accordance with the
 procedures set out therein, these activities shall include a single currency, the euro, and the definition
 and conduct of a single monetary policy and exchange-rate policy, the primary objective of both of
@@ -16,9 +26,10 @@ These activities of the Member States and the Union shall entail compliance with
 guiding principles: stable prices, sound public finances and monetary conditions and a stable balance
 of payments.
 
-SECTION 1: ECONOMIC POLICY
 
-Article 3-178
+## SECTION 1: ECONOMIC POLICY
+
+### Article 3-178
 
 Member States shall conduct their economic policies in order to contribute to the achievement of the
 Union's objectives, as defined in Article I-3, and in the context of the broad guidelines referred to in
@@ -26,9 +37,11 @@ Article 3-179(2). The Member States and the Union shall act in accordance with t
 open market economy with free competition, favouring an efficient allocation of resources, and in
 compliance with the principles set out in Article 3-177.
 
-Article 3-179
+### Article 3-179
+
 1. Member States shall regard their economic policies as a matter of common concern and shall
 coordinate them within the Council, in accordance with Article 3-178.
+
 2. The Council, on a recommendation from the Commission, shall formulate a draft for the broad
 guidelines of the economic policies of the Member States and of the Union, and shall report its
 findings to the European Council.
@@ -44,6 +57,7 @@ and shall regularly carry out an overall assessment.
 For the purpose of this multilateral surveillance, Member States shall forward information to the
 Commission on important measures taken by them in the field of their economic policy and such
 other information as they deem necessary.
+
 4. Where it is established, under the procedure referred to in paragraph 3, that the economic
 policies of a Member State are not consistent with the broad guidelines referred to in paragraph 2
 or that they risk jeopardising the proper functioning of economic and monetary union, the
@@ -51,25 +65,32 @@ Commission may address a warning to the Member State concerned. The Council, on 
 recommendation from the Commission, may address the necessary recommendations to the
 Member State concerned. The Council, on a proposal from the Commission, may decide to make its
 recommendations public.
+
 Within the scope of this paragraph, the Council shall act without taking into account the vote of the
 member of the Council representing the Member State concerned.
+
 A qualified majority shall be defined as at least 55 % of the other members of the Council,
 representing Member States comprising at least 65 % of the population of the participating
 Member States.
+
 A blocking minority must include at least the minimum number of these other Council members
 representing more than 35 % of the population of the participating Member States, plus one
 member, failing which the qualified majority shall be deemed attained.
+
 5. The President of the Council and the Commission shall report to the European Parliament on the
 results of multilateral surveillance. The President of the Council may be invited to appear before the
 competent committee of the European Parliament if the Council has made its recommendations
 public.
+
 6. European laws may lay down detailed rules for the multilateral surveillance procedure referred to
 in paragraphs 3 and 4.
 
-Article 3-180
+### Article 3-180
+
 1. Without prejudice to any other procedures provided for in the Constitution, the Council, on a
 proposal from the Commission, may adopt a European decision laying down measures appropriate
 to the economic situation, in particular if severe difficulties arise in the supply of certain products.
+
 2. Where a Member State is in difficulties or is seriously threatened with severe difficulties caused
 by natural disasters or exceptional occurrences beyond its control, the Council, on a proposal from
 the Commission, may adopt a European decision granting, under certain conditions, Union financial
@@ -161,29 +182,38 @@ time-limit, measures for the deficit reduction which the Council judges necessar
 situation.
 In such a case, the Council may request the Member State concerned to submit reports in accordance
 with a specific timetable in order to examine the adjustment efforts of that Member State.
+
 10. As long as a Member State fails to comply with a European decision adopted in accordance with
 paragraph 9, the Council may decide to apply or, as the case may be, intensify one or more of the
 following measures:
+
 (a) require the Member State concerned to publish additional information, to be specified by the
 Council, before issuing bonds and securities;
+
 (b) invite the European Investment Bank to reconsider its lending policy towards the Member State
 concerned;
+
 (c) require the Member State concerned to make a non-interest-bearing deposit of an appropriate
 size with the Union until the Council considers that the excessive deficit has been corrected;
+
 (d) impose fines of an appropriate size.
 The President of the Council shall inform the European Parliament of the measures adopted.
+
 11. The Council shall repeal some or all of the measures referred to in paragraph 6 and
 paragraphs 8, 9 and 10 if it considers the excessive deficit in the Member State concerned to have
 been corrected. If the Council has previously made public recommendations, it shall state publicly,
 as soon as the European decision referred to in paragraph 8 has been repealed, that there is no longer
 an excessive deficit in the Member State concerned.
+
 12. The rights to bring actions provided for in Articles III-360 and III-361 shall not be exercised
 within the framework of paragraphs 1 to 6 or paragraphs 8 and 9.
+
 13. Further provisions relating to the implementation of the procedure laid down in this Article are
 set out in the Protocol on the excessive deficit procedure.
 A European law of the Council shall lay down the appropriate measures to replace the said Protocol.
 The Council shall act unanimously after consulting the European Parliament and the European
 Central Bank.
+
 Subject to the other provisions of this paragraph, the Council, on a proposal from the Commission,
 shall adopt European regulations or decisions laying down detailed rules and definitions for the
 application of the said Protocol. It shall act after consulting the European Parliament.

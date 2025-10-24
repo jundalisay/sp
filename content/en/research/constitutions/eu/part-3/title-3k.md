@@ -1,4 +1,13 @@
-SECTION 2: SOCIAL POLICY
+---
+title: "SOCIAL POLICY"
+heading: "Title 3 Chapter 3 Section 2"
+weight: 56
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
+
+
 
 Article 3-209
 

@@ -1,9 +1,19 @@
+---
+title: "Interparliamentary Cooperation"
+heading: "Title 1"
+weight: 18
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
+
+
 SECTION 5: RULES ON COMPETITION
 
-Subsection 1
-Rules applying to undertakings
+Subsection 1: Rules applying to undertakings
 
 Article 3-161
+
 1. The following shall be prohibited as incompatible with the internal market: all agreements
 between undertakings, decisions by associations of undertakings and concerted practices which may
 affect trade between Member States and which have as their object or effect the prevention,

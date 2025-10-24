@@ -1,3 +1,12 @@
+---
+title: "Interparliamentary Cooperation"
+heading: "Title 1"
+weight: 74
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
+
 SECTION 8: TRANS-EUROPEAN NETWORKS
 
 Article 3-246

@@ -1,6 +1,16 @@
-SECTION 6: FISCAL PROVISIONS
+---
+title: "FISCAL and Common PROVISIONS"
+heading: "Title 3 Section 6-7"
+weight: 24
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
 
-Article 3-170
+
+
+### Article 3-170
+
 1. No Member State shall impose, directly or indirectly, on the products of other Member States any
 internal taxation of any kind in excess of that imposed directly or indirectly on similar domestic
 products.
@@ -18,7 +28,8 @@ and countervailing charges in respect of imports from Member States may not be i
 provisions contemplated have been previously approved for a limited period by a European decision
 adopted by the Council on a proposal from the Commission.
 
-Article 3-171
+### Article 3-171
+
 A European law or framework law of the Council shall establish measures for the harmonisation of
 legislation concerning turnover taxes, excise duties and other forms of indirect taxation provided that
 such harmonisation is necessary to ensure the establishment and the functioning of the internal
@@ -27,7 +38,8 @@ the European Parliament and the Economic and Social Committee.
 
 SECTION 7: COMMON PROVISIONS
 
-Article 3-172
+#### Article 3-172
+
 1. Save where otherwise provided in the Constitution, this Article shall apply for the achievement
 of the objectives set out in Article 3-130. European laws or framework laws shall establish measures
 for the approximation of the provisions laid down by law, regulation or administrative action in
@@ -110,6 +122,3 @@ provide uniform intellectual property rights protection throughout the Union and
 of centralised Union‑wide authorisation, coordination and supervision arrangements.
 A European law of the Council shall establish language arrangements for the European intellectual
 property rights. The Council shall act unanimously after consulting the European Parliament.
-
-
-

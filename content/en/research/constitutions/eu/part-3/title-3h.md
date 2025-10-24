@@ -1,29 +1,47 @@
-SECTION 3: INSTITUTIONAL PROVISIONS
+---
+title: "INSTITUTIONAL PROVISIONS"
+heading: "Title 3 Section 3"
+weight: 46
+image: "/flags/eu.png"
+description: ""
+icon: eu
+---
 
-Article 3-192
+
+
+### Article 3-192
+
 1. In order to promote coordination of the policies of Member States to the full extent needed for
 the functioning of the internal market, an Economic and Financial Committee is hereby set up.
+
 2. The Committee shall have the following tasks:
+
 (a) to deliver opinions at the request of the Council or of the Commission, or on its own initiative,
-for submission to those institutions;
+for submission to those institutions
+
 (b) to keep under review the economic and financial situation of the Member States and of the
 Union and to report on it regularly to the Council and to the Commission, in particular with
 regard to financial relations with third countries and international institutions;
+
 (c) without prejudice to Article 3-344, to contribute to the preparation of the work of the Council
 referred to in Article 3-159, Article 3-179(2), (3), (4) and (6), Articles III-180, III-183 and III-
 184, Article 3-185(6), Article 3-186(2), Article 3-187(3) and (4), Articles III-191 and III-196,
 Article 3-198(2) and (3), Article 3-201, Article 3-202(2) and (3) and Articles III-322 and III-
 326, and to carry out other advisory and preparatory tasks assigned to it by the Council;
+
 (d) to examine, at least once a year, the situation regarding the movement of capital and the freedom
 of payments, as they result from the application of the Constitution and of Union acts; the
 examination shall cover all measures relating to capital movements and payments; the Committee
 shall report to the Commission and to the Council on the outcome of this examination.
+
 The Member States, the Commission and the European Central Bank shall each appoint no more
 than two members of the Committee.
+
 3. The Council, on a proposal from the Commission, shall adopt a European decision laying down
 detailed provisions concerning the composition of the Economic and Financial Committee. It shall
 act after consulting the European Central Bank and the Committee. The President of the Council shall
 inform the European Parliament of that decision.
+
 4. In addition to the tasks referred to in paragraph 2, if and as long as there are Member States with
 a derogation as referred to in Article 3-197, the Committee shall keep under review the monetary
 and financial situation and the general payments system of those Member States and report regularly
