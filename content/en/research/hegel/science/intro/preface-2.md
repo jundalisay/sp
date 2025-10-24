@@ -6,17 +6,45 @@ c: "steelblue"
 ---
 
 
-<sup>12</sup> When I undertook this fresh elaboration of the Science of Logic of which this is the first volume, I was fully conscious — not only of the inherent difficulty of the subject matter and of its exposition, but also of the imperfection of its treatment in the first edition; earnestly as I have tried after many years of further occupation with this science to remedy this imperfection, I feel I still have reason enough to claim the indulgence of the reader.
+<sup>12</sup> My first edition treated the subject matter imperfectly.
 
-One title to such claim in the first instance may well be based on the fact that in the main there was available for the contents of the science only external material in the older metaphysics and logic. Though these two sciences have been universally and abundantly cultivated, the latter even up to our own day, the interest taken in the speculative side has been only slight; in fact, on the whole, the same material has been just repeated over and over again, sometimes being thinned out to the point of being trivial and superficial and sometimes more of the old ballast has been hauled out afresh and trailed along with logic. From such efforts, often purely mechanical, the philosophical import of the science could gain nothing.
+This was because science only had external material in the older metaphysics and logic.
+
+<!-- When I undertook this fresh elaboration of the Science of Logic of which this is the first volume, I was fully conscious — not only of the inherent difficulty of the  and of its exposition, but also of the imperfection of its treatment in the first edition; earnestly as I have tried after many years of further occupation with this science to remedy this imperfection, I feel I still have reason enough to claim the indulgence of the reader.
+
+One title to such claim in the first instance may well be based on the fact that in the main there was available for the contents of the  -->
+
+<!-- Though these two sciences have been universally and abundantly cultivated, the latter even up to our own day,  -->
+
+The interest in metaphysics and logic was only slight.
+- In fact, the same material has been just repeated over and over again
+- Sometimes, it was thinned out to the point of being trivial
+
+ <!-- and superficial and sometimes more of the old ballast has been hauled out afresh and trailed along with logic. From such efforts, often purely mechanical,  -->
+
+ And so the philosophical import of the science could gain nothing.
 
 
-<sup>13</sup> To exhibit the realm of thought philosophically, that is, in its own immanent activity or what is the same, in its necessary development,® had therefore to be a fresh undertaking, one that had to be started right from the beginning; but this traditional material, the familiar forms of thought, must be regarded as an extremely important source, indeed as a necessary condition and as a presupposition to be gratefully acknowledged even though what it offers is only here and there a meagre shred or a disordered heap of dead bones ®.
+<sup>13</sup> Philosophical thought needed a new start.
+
+ <!-- To exhibit the realm of thought , that is, in its own immanent activity or what is the same, in its necessary development,® had therefore to be a fresh undertaking, one that had to be started right from the beginning;  -->
+
+But this traditional material:
+- is an extremely important source
+- a necessary condition and presupposition to be acknowledged
+
+ <!-- even though what it offers is only here and there a meagre shred or a disordered heap of dead bones ®. -->
 
 
-<sup>14</sup> The forms of thought are, in the first instance, displayed and stored as human language. Nowadays we cannot be too often reminded that it is thinking which distinguishes man from the beasts. Into all that becomes something inward for men, an image or conception as such, into all that he makes his own, language has penetrated, and everything that he has transformed into language and expresses in it contains a category – concealed, mixed with other forms or clearly determined as such, so much is Logic his natural element, indeed his own peculiar nature. 
+<sup>14</sup> The forms of thought are displayed and stored as human language.
 
-If nature as such, as the physical world, is contrasted with the spiritual sphere, then logic must certainly be said to be the supernatural element which permeates every relationship of man to nature, his sensation, intuition, desire, need, instinct, and simply by so doing transforms it into something human, even though only formally human, into ideas and purposes. It is an advantage when a language possesses an abundance of logical expressions, that is, specific and separate expressions for the thought determinations themselves; many prepositions and articles denote relationships based on thought; the Chinese language is supposed not to have developed to this stage or only to an inadequate extent.
+Thinking distinguishes man from beasts.
+
+Into all that becomes something inward for men, an image or conception as such, into all that he makes his own, language has penetrated, and everything that he has transformed into language and expresses in it contains a category – concealed, mixed with other forms or clearly determined as such, so much is Logic his natural element, indeed his own peculiar nature. 
+
+If nature as such, as the physical world, is contrasted with the spiritual sphere, then logic must certainly be said to be the supernatural element which permeates every relationship of man to nature, his sensation, intuition, desire, need, instinct, and simply by so doing transforms it into something human, even though only formally human, into ideas and purposes. 
+
+It is an advantage when a language possesses an abundance of logical expressions, that is, specific and separate expressions for the thought determinations themselves; many prepositions and articles denote relationships based on thought; the Chinese language is supposed not to have developed to this stage or only to an inadequate extent.
 
 These particles, however, play quite a subordinate part having only a slightly more independent form than the prefixes and suffixes, inflections and the like. It is much more important that in a language the categories should appear in the form of substantives and verbs and thus be stamped with the form of objectivity. In this respect German has many advantages over other modern languages; some of its words even possess the further peculiarity of having not only different but opposite meanings so that one cannot fail to recognise a speculative spirit of the language in them: it can delight a thinker to come across such words and to find the union of opposites naively shown in the dictionary as one word with opposite meanings, although this result of speculative thinking is nonsensical to the understanding.
 
