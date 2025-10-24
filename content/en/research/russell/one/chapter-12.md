@@ -1,6 +1,6 @@
 ---
 title: "Gravity"
-heading: "CHAPTER 12"
+heading: "Chapter 12"
 description: ""
 c: "firebrick"
 weight: 89

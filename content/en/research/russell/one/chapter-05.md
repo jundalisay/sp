@@ -1,6 +1,6 @@
 ---
-title: "THE ELEMENTS OF MATTER"
-heading: "CHAPTER 5"
+title: "The Elements Of Matter"
+heading: "Chapter 5"
 description: ""
 c: "firebrick"
 weight: 89
