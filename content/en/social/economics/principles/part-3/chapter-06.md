@@ -9,6 +9,8 @@ description: "The same maxims given by Adam Smith on economic development still 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/principles/development/  
 ---
 
 
