@@ -1,10 +1,9 @@
 ---
-heading: FOREWORD
-title: "100 Authors Against Einstein"
+title: Foreword
+# title: "100 Authors Against Einstein"
 # date: 2024-12-12
-weight: 27
-# "introduced the sophistry of General Relativity"
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+weight: 2
+description: "Its essence lies so difficult as to be incomprehensible to the general public."
 c: "darkgoldenrod"
 ---
 
@@ -87,14 +86,13 @@ Einstein himself has given rise to contradictory interpretations (see aether que
 But surely there is the corresponding debunking counter-argument to every argument of the Einstein side. In the case of unbiased and fair examination, the present material in its entirety will testify in all circumstances against Einstein and every reading of his theory. The editors.
 
 
-Light: Constant Speed
+<!-- Light: Constant Speed
 Time: Simultaneity Circular Reasoning
 Space: Reality
-Speed: Cause
+Speed: Cause -->
 
 
-
-Grading System
+<!-- Grading System
 
 n | Grade
 --- | ---
@@ -133,4 +131,4 @@ n | Grade
 17	17
 18	18
 19	19
-20	20
+20	20 -->

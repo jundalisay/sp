@@ -44,7 +44,7 @@ When the fight comes, always endeavour to chase the enemy around to your left si
 
 Always chase the enemy into bad footholds, obstacles at the side, and so on, using the virtues of the place to establish predominant positions from which to fight. You must research and train diligently in this.
 
-### The Three Methods to Forestall the Enemy
+## The Three Methods to Forestall the Enemy
 
 The first is to forestall him by attacking. This is called Ken No Sen (to set him up).
 
@@ -52,14 +52,15 @@ Another method is to forestall him as he attacks. This is called Tai No Sen (to 
 
 The other method is when you and the enemy attack together. This is
 called Tai Tai No Sen (to accompany him and forestall him).
-There are no methods of taking the lead other than these three. Be-
-cause you can win quickly by taking the lead, it is one of the most im-
-portant things in strategy. There are several things involved in taking the
-lead. You must make the best of the situation, see through the enemy's
-spirit so that you grasp his strategy and defeat him. It is impossible to
-write about this in detail.
 
-### The First - Ken No Sen
+There are no methods of taking the lead other than these three. Because you can win quickly by taking the lead, it is one of the most important things in strategy. 
+
+There are several things involved in taking the lead. 
+
+You must make the best of the situation, see through the enemy's spirit so that you grasp his strategy and defeat him. It is impossible to write about this in detail.
+
+
+### 1. Ken No Sen
 
 When you decide to attack, keep calm and dash in quickly, forestalling the enemy. Or you can advance seemingly strongly but with a reserved spirit, forestalling him with the reserve.
 
@@ -70,7 +71,7 @@ Or, with your spirit calm, attack with a feeling of constantly crushing the enem
 These are all Ken No Sen.
 
 
-### The Second - Tai No Sen
+### 2. Tai No Sen
 
 When the enemy attacks, remain undisturbed but feign weakness. As the enemy reaches you, suddenly move away indicating that you intend to jump aside, then dash in attacking strongly as soon as you see the enemy relax.
 
@@ -78,7 +79,7 @@ Or, as the enemy attacks, attack still more strongly, taking advantage of the re
 This is the Tai No Sen principle.
 
 
-### The Third - Tai Tai No Sen
+### 3. Tai Tai No Sen
 
 When the enemy makes a quick attack, you must attack strongly and calmly, aim for his weak point as he draws near, and strongly defeat him.
 
@@ -89,7 +90,7 @@ This is Tai Tai No Sen.
 These things cannot be clearly explained in words. You must research what is written here. In these three ways of forestalling, you must judge the situation. This does not mean that you always attack first; but if the enemy attacks first you can lead him around. In strategy, you have effectively won when you forestall the enemy, so you must train well to attain this.
 
 
-### To Hold Down a Pillow
+## To Hold Down a Pillow
 
 This means not allowing the enemy's head to rise.
 
@@ -119,7 +120,7 @@ To cross at a ford means to attack the enemy's weak point, and to put yourself i
 You must research this well.
 
 
-### To Know the Times
+## To Know the Times
 
 This means to know the enemy's disposition in battle.
 
@@ -131,7 +132,8 @@ Knowing the times means, if your ability is high, seeing right into things. If y
 
 You must sufficiently study this.
 
-### To Tread Down the Sword
+
+## To Tread Down the Sword
 
 "To tread down the sword" is a principle often used in strategy. 
 
@@ -143,7 +145,7 @@ In single combat, we cannot get a decisive victory by cutting, with a "tee-dum t
 the attack. You must study this deeply.
 
 
-### To Know "Collapse"
+## To Know "Collapse"
 
 Everything can collapse. Houses, bodies, and enemies collapse when their rhythm becomes deranged.
 
@@ -154,7 +156,7 @@ In single combat, the enemy sometimes loses timing and collapses. If you let thi
 The chasing attack is with a strong spirit. You must utterly cut the enemy down so that he does not recover his position. You must understand how to utterly cut down the enemy.
 
 
-### To Become the Enemy
+## To Become the Enemy
 
 This means to think yourself in the enemy's position. In the world people tend to think of a robber trapped in a house as a fortified enemy.
 
@@ -165,7 +167,7 @@ In large-scale strategy, people are always under the impression that the enemy i
 In single combat also you must put yourself in the enemy's position. If you think, "Here is a a master of the Way, who knows the principles of strategy", then you will surely lose. You must consider this deeply.
 
 
-### To Release Four Hands
+## To Release Four Hands
 
 This is used when you and the enemy are contending with the same spirit, and the issue cannot be decided. Abandon this spirit and win through an alternative resource.
 
@@ -182,7 +184,8 @@ In large-scale strategy, when you cannot see the enemy's position, indicate that
 
 In single combat, if the enemy takes up a rear or side attitude of the long sword so that you cannot see his intention, make a feint attack, and the enemy will show his long sword, thinking he sees your spirit. Benefiting from what you are shown, you can win with certainty. If you are negligent you will miss the timing. Research this well.
 
-### To Hold Down a Shadow
+
+## To Hold Down a Shadow
 
 "Holding down a shadow" is use when you can see the enemy's attacking spirit.
 
@@ -191,18 +194,17 @@ In large-scale strategy, when the enemy embarks on an attack, if you make a show
 Or, in single combat, hold down the enemy's strong intention with a suitable timing, and defeat him by forestalling him with this timing. You must study this well.
 
 
-### To Pass On
+## To Pass On
 
 Many things are said to be passed on. Sleepiness can be passed on, and yawning can be passed on. Time can be passed on also.
 In large-scale strategy, when the enemy is agitated and shows an inclination to rush, do not mind in the least. Make a show of complete calmness, and the enemy will be taken by this and will become relaxed.
 
 When you see that this spirit has been passed on, you can bring about the enemy's defeat by attacking strongly with a Void spirit.
-In single combat, you can win by relaxing your body and spirit and then, catching on to the moment the enemy relaxes, attack strongly and quickly, forestalling him. What is know as "getting someone drunk" is
-similar to this. You can also infect the enemy with a bored, careless, or
-weak spirit. You must study this well.
+
+In single combat, you can win by relaxing your body and spirit and then, catching on to the moment the enemy relaxes, attack strongly and quickly, forestalling him. What is know as "getting someone drunk" is similar to this. You can also infect the enemy with a bored, careless, or weak spirit. You must study this well.
 
 
-###  To Cause Loss of Balance
+##  To Cause Loss of Balance
 
 Many things can cause a loss of balance. One cause is danger, another is hardship, and another is surprise. You must research this.
 In large-scale strategy it is important to cause loss of balance. Attack without warning where the enemy is not expecting it, and while his spirit is undecided follow up your advantage and, having the lead, defeat him.
@@ -212,7 +214,7 @@ Or, in single combat, start by making a show of being slow, then suddenly attack
 Get the feel of this.
 
 
-### To Frighten
+## To Frighten
 
 Fright often occurs, caused by the unexpected.
 

@@ -4,7 +4,7 @@ heading: "Section 3 of Chapter 2"
 weight: 10
 image: "/flags/cn.png"
 description: "The president and the vice president of the PRC shall be elected by the NPC"
-icon: "/flags/cn.png"
+icon: China
 ---
 
 

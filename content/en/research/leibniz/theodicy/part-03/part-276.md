@@ -25,12 +25,26 @@ weight: 18
 - the Lord mingled a perverse spirit in the midst of Egypt, and caused it to err in all its works, like a drunken man (Isa. xix. 14)
 - Rehoboam hearkened not unto the word of the people, for the cause was from the Lord (1 Kings xii. 15); that he turned the hearts of the Egyptians to hate his people (Ps. cv. 25). 
 
-But all these and other like expressions suggest only that the things God has done are used as occasion for ignorance, error, malice and evil deeds, and contribute thereto, God indeed foreseeing this, and intending to use it for his ends, since superior reasons of perfect wisdom have determined him to permit these evils, and even to co-operate therein. 'Sed non sineret bonus fieri male, nisi omnipotens etiam de malo posset facere bene', in St. Augustine's words. But this has been expounded more fully in the preceding part.
+But all these suggest that the things God has done are used as occasion for ignorance, error, malice and evil deeds
+
+ <!-- and contribute thereto, God indeed foreseeing this, and intending to use it for his ends, since superior reasons of perfect wisdom have determined him to permit these evils, and even to co-operate therein. 'Sed non sineret bonus fieri male, nisi omnipotens etiam de malo posset facere bene', in St. Augustine's words. But this has been expounded more fully in the preceding part. -->
 
 
-277. God made man in his image (Gen. i. 26); he made him upright (Eccles. vii. 29). But also he made him free. Man has behaved badly, he has fallen; but there remains still a certain freedom after the fall. Moses said as from God: 'I call heaven and earth to record this day against you, that I have set before you life [297]and death, blessing and cursing; therefore choose life' (Deut. xxx. 19). 'Thus saith the Lord: Behold, I set before you the way of life, and the way of death' (Jer. xxi. 8). He has left man in the power of his counsel, giving him his ordinances and his commandments. 'If thou wilt, thou shalt keep the commandments' (or they shall keep thee). 'He hath set before thee fire and water, to stretch forth thine hand to whichever thou wilt' (Sirach xv. 14, 15, 16). Fallen and unregenerate man is under the domination of sin and of Satan, because it pleases him so to be; he is a voluntary slave through his evil lust. Thus it is that free will and will in bondage are one and the same thing.
+277. God made man in his image (Gen. i. 26).
 
-278. 'Let no man say, I am tempted of God'; 'but every man is tempted, when he is drawn away of his own lust and enticed' (Jas. i. 13, 14). And Satan contributes thereto. He 'blindeth the minds of them which believe not' (2 Cor. iv. 4). But man is delivered up to the Devil by his covetous desire: the pleasure he finds in evil is the bait that hooks him. Plato has said so already, and Cicero repeats it: 'Plato voluptatem dicebat escam malorum.' Grace sets over against it a greater pleasure, as St. Augustine observed. All pleasure is a feeling of some perfection; one loves an object in proportion as one feels its perfections; nothing surpasses the divine perfections. Whence it follows that charity and love of God give the greatest pleasure that can be conceived, in that proportion in which one is penetrated by these feelings, which are not common among men, busied and taken up as men are with the objects that are concerned with their passions.
+He made him upright (Eccles. vii. 29). 
+
+But also he made him free. 
+
+Man has behaved badly, he has fallen; but there remains still a certain freedom after the fall. Moses said as from God: 'I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing; therefore choose life' (Deut. xxx. 19). 
+
+'Thus saith the Lord: Behold, I set before you the way of life, and the way of death' (Jer. xxi. 8). He has left man in the power of his counsel, giving him his ordinances and his commandments. 'If thou wilt, thou shalt keep the commandments' (or they shall keep thee). 'He hath set before thee fire and water, to stretch forth thine hand to whichever thou wilt' (Sirach xv. 14, 15, 16). 
+
+Fallen and unregenerate man is under the domination of sin and of Satan, because it pleases him so to be; he is a voluntary slave through his evil lust. Thus it is that free will and will in bondage are one and the same thing.
+
+278. 'Let no man say, I am tempted of God'; 'but every man is tempted, when he is drawn away of his own lust and enticed' (Jas. i. 13, 14).
+
+Satan contributes thereto. He 'blindeth the minds of them which believe not' (2 Cor. iv. 4). But man is delivered up to the Devil by his covetous desire: the pleasure he finds in evil is the bait that hooks him. Plato has said so already, and Cicero repeats it: 'Plato voluptatem dicebat escam malorum.' Grace sets over against it a greater pleasure, as St. Augustine observed. All pleasure is a feeling of some perfection; one loves an object in proportion as one feels its perfections; nothing surpasses the divine perfections. Whence it follows that charity and love of God give the greatest pleasure that can be conceived, in that proportion in which one is penetrated by these feelings, which are not common among men, busied and taken up as men are with the objects that are concerned with their passions.
 
 279. Now as our corruption is not altogether invincible and as we do not necessarily sin even when we are under the bondage of sin, it must likewise be said that we are not aided invincibly; and, however efficacious divine grace may be, there is justification for saying that one can resist it. But when it indeed proves victorious, it is certain and infallible beforehand that one will yield to its allurements, whether it have its strength of itself or whether it find a way to triumph through the congruity of circumstances. Thus one must always distinguish between the infallible and the necessary.
 

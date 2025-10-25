@@ -232,6 +232,12 @@ Our experience of reality is a small portion of all the disturbances in the aeth
 
 The distubances are caused by 2 Forces of Positive and Negative. Free will and spirit is associated with the Positive. Determinism and force is associated with the Negative. 
 
+So free will depends on the state of the level of influence:
+- Higher dimensions have more free will
+- Lower dimensions have less free will
+
+
+
 <!-- Life is an effect of the Positive Force and is real. It is physical reality that is an illusion.  -->
 
 

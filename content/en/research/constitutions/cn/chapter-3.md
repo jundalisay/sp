@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 14
 image: "/flags/cn.png"
 description: "The PRC is a socialist state governed by a people’s democratic dictatorship that is led by the working class and based on an alliance of workers and peasants"
-icon: "/flags/cn.png"
+icon: China
 ---
 
 
@@ -88,7 +88,7 @@ Article 66 Each NPC Standing Committee shall have the same term of office as tha
 The chairperson and vice chairpersons of the Standing Committee shall serve no more than two consecutive terms.
 
 
-### Article 67
+**Article 67**
 
 The NPC Standing Committee shall exercise the following functions and powers:
 
@@ -117,7 +117,7 @@ The NPC Standing Committee shall exercise the following functions and powers:
 
 
 
-### Article 68 
+Article 68 
 
 The NPC Standing Committee chairperson shall:
 - preside over the work of the NPC Standing Committee
@@ -177,4 +177,3 @@ Deputies to the NPC should maintain close contact with the organizations and peo
 Article 77 Deputies to the NPC shall be subject to the oversight of the organizations that elected them. Organizations that have elected deputies shall have the power to remove them from office in accordance with procedures prescribed by law.
 
 Article 78 The organization and working procedures of the NPC and the NPC Standing Committee shall be prescribed by law.
-

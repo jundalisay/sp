@@ -24,9 +24,15 @@ In the Way of Strategy, also, those who study as warriors think that whatever th
 
 To attain the Way of Strategy as a warrior you must study fully other martial arts and not deviate even a little from the Way of the warrior. 
 
-With your spirit settled, accumulate practice day by day, and hour by hour. Polish the twofold spirit heart and mind, and sharpen the twofold gaze perception and sight. When your spirit is not in the least clouded, when the clouds of bewilderment clear away, there is the true void.
+With your spirit settled, accumulate practice day by day, and hour by hour. 
 
-Until you realize the true Way, whether in Buddhism or in common sense, you may think that things are correct and in order. However, if we look at things objectively, from the viewpoint of laws of the world, we see various doctrines departing from the true Way. Know well this spirit, and with forthrightness as the foundation and the true spirit as the Way.
+Polish the twofold spirit heart and mind, and sharpen the twofold gaze perception and sight. 
+
+When your spirit is not in the least clouded, when the clouds of bewilderment clear away, there is the true void.
+
+Until you realize the true Way, whether in Buddhism or in common sense, you may think that things are correct and in order. 
+
+However, if we look at things objectively, from the viewpoint of laws of the world, we see various doctrines departing from the true Way. Know well this spirit, and with forthrightness as the foundation and the true spirit as the Way.
 
 Enact strategy broadly, correctly and openly.
 

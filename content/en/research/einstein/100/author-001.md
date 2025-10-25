@@ -1,6 +1,6 @@
 ---
 heading: "Authors 1-2"
-title: "Walter Del Negro"
+title: "Walter Del Negro and Hans Driesch"
 # date: 2024-12-12
 weight: 4
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
@@ -8,7 +8,9 @@ c: "darkgoldenrod"
 ---
 
 
-### 1. Dr. WALTER DEL-NEGRO / SALZBURG: THE QUESTION OF RELATIVITY
+## 1. Dr. Walter Del-Negro (Salzburg)
+
+### The Question Of Relativity
 
 Factor | Grade
 --- | ---
@@ -39,7 +41,9 @@ XXVII, 103 ff. ; "RTH and Truth Problem", ibid. xxVIII, 126 ff. -->
 
 
 
-### 2. Professor Dr. HANS DRIESCH / LEIPZIG: MY MAIN OBJECTIONS AGAINST THE RELATIVITY THEORISTICS
+## 2. Professor Dr. Hans Driesch (Leipzig)
+
+### My Main Objections Against The Relativity Theoristics
 
 1. The clear term "The one empirical reality" or "nature" is missing, which is inevitably in one time. 
 
@@ -63,7 +67,5 @@ But a limit of determinability is not a limit of ideal gratitude; and limits of 
 
 8. Relatvity only deals with the practical scientific operation of mathematical physics, which
 encounters certain obstacles; but it has no ideological significance at all.
-
-
 
 

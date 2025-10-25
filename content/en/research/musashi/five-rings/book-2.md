@@ -19,7 +19,7 @@ Strategy is different from other things in that if you mistake the Way even a li
 Absorb the things written in this book.Do not just read, memorise or imitate, but so that you realize the principle from within your own heart study hard to absorb these things into your body.
 
 
-### Spiritual Bearing in Strategy
+## Spiritual Bearing in Strategy
 
 In strategy your spiritual bearing must not be any different from normal. Both in fighting and in everyday life you should be determined though calm. Meet the situation without tenseness yet not recklessly, your spirit settled yet unbiased. Even when your spirit is calm do not let your body relax, and when your body is relaxed do not let your spirit slacken. 
 
@@ -47,7 +47,7 @@ everyday life and to make your everyday stance your combat stance.
 You must research this well.
 
 
-### The Gaze in Strategy
+## The Gaze in Strategy
 
 The gaze should be large and broad. This is the twofold gaze "Perception and Sight". Perception is strong and sight week.
 In strategy it is important to see distant things as if they were close and to take a distanced view of close things. It is important in strategy to know the enemy's sword and not to be distracted by insignificant movements of his sword. You must study this. The gaze is the same for single combat and for large-scale strategy.
@@ -55,20 +55,20 @@ In strategy it is important to see distant things as if they were close and to t
 It is necessary in strategy to be able to look to both sides without moving the eyeballs. You cannot master this ability quickly. Learn what is written here; use this gaze in everyday life and do not vary it whatever happens.
 
 
-### Holding the Long Sword: Continuous Cut
+## Holding the Long Sword: Continuous Cut
 
 When you attack and the enemy also attacks, and your swords spring together, in one action cut his head, hands and legs. When you cut several places with one sweep of the long sword, it is the "Continuous Cut".
 
 You must practice this cut; it is often used. With detailed practice you should be able to understand it.
 
 
-### Cut the Fire and Stones
+## Cut the Fire and Stones
 
 This means that when the enemy's long sword and your long sword clash together you cut as strongly as possible without raising the sword even a little. This means cutting quickly with the hands, body and legs - all three cutting strongly. If you train
 well enough you will be able to strike strongly.
 
 
-### The Red Leaves Cut
+## The Red Leaves Cut
 
 This is an allusion to falling, dying leaves. It means knocking down the enemy's long sword. The spirit should be getting control of his sword. 
 

@@ -14,44 +14,66 @@ Strategy is the craft of the warrior.
 
 No warrior today really understands the Way of Strategy.
 
-There are various Ways= 
+There are various Ways:
 - the Way of salvation by the law of Buddha
 - the Way of Confucius governing the Way of learning
 - the Way of healing as a doctor
 - the Way of poet teaching the Way of Waka, tea, archery, and many arts and skills
 
-Each man practices as he feels inclined. It is said the warrior's is the twofold Way of pen and sword, and he should
-have a taste for both Ways.
+Each man practices as he feels inclined. The warrior's way is twofold, of pen and sword. He should have a taste for both Ways.
 
-Even if a man has no natural ability, he can be a warrior by sticking assiduously to both divisions of the Way. Generally, the Way of the warrior is resolute acceptance of death. But this is different from the acceptance of death by priests, women, and peasants who die readily in their duty or out of shame. 
+Even if a man has no natural ability, he can be a warrior by sticking assiduously to both divisions of the Way. 
 
-The warrior is different in that studying the Way of Strategy is based on overcoming men. By victory gained in crossing swords with individuals, or enjoining battle with large numbers, we can attain power and fame for ourselves or our lord. 
+Generally, the Way of the warrior is resolute acceptance of death. 
+
+But this is different from the acceptance of death by priests, women, and peasants who die readily in their duty or out of shame. 
+
+The warrior is different in that studying the Way of Strategy is based on overcoming men. 
+
+By victory gained in crossing swords with individuals, or enjoining battle with large numbers, we can attain power and fame for ourselves or our lord. 
 
 This is the virtue of strategy.
 
 
-### The Way of Strategy
+## The Way of Strategy
 
-In China and Japan, practitioners of the Way have been known as "masters of strategy". Warriors must learn this Way.
+In China and Japan, practitioners of the Way are called "masters of strategy". Warriors must learn this Way.
 
-Recently people have become strategists. But they are usually just sword-fencers. 
+Recently, people have become strategists. But they are usually just sword-fencers. 
 
-The attendants of the Kashima Kantori shrines of the province Hitachi received instruction from the gods, and made schools based on this teaching, traveling from country to country instructing men. This is the recent meaning of strategy.
+The attendants of the Kashima Kantori shrines of the Hitachi province:
+- received instruction from the gods
+- made schools based on this teaching
+- travelled from country to country instructing men
+
+This is the recent meaning of strategy.
 
 In olden times, strategy was listed among the Ten Abilities and Seven Arts as a beneficial practice. 
 
-It was certainly an art but as a beneficial should be so. The benefit of my strategy, although it includes sword-fencing, lies in a separate principle. I have explained what is commonly meant by strategy in other schools in the Tradition (Wind) book.
+The benefit of my strategy:
+- includes sword-fencing
+- is different
 
-Fifthly, the book of the Void. Void is that which has no beginning and no end. Attaining this principle means not attaining the principle. 
+The Tradition (Wind) book explains what is commonly meant by strategy in other schools.
 
-The Way of strategy is the Way of nature. When you appreciate the power of nature, knowing rhythm of any situation, you will be able to hit the enemy naturally and strike naturally. All this is the Way of the Void.
+<!-- Fifthly, the book of the Void.  -->
+
+Void is that which has no beginning and no end. Attaining this principle means not attaining the principle. 
+
+The Way of strategy is the Way of nature. 
+
+When you appreciate the power of nature, knowing rhythm of any situation, you will be able to hit the enemy naturally and strike naturally. All this is the Way of the Void.
 
 <!-- I intend to show how to follow the true Way according to nature in the
 book of the Void. -->
 
-### The Name Ichi Ryu Ni To (One school - two swords)
+## Ichi Ryu Ni To (One school - two swords)
 
-Warriors, both commanders and troopers, carry two swords at their belt. In olden times these were called the long sword and the sword. Nowadays, they are known as the sword and the companion sword. 
+<!-- Warriors, both commanders and troopers, carry 2 swords at their belt.
+
+In olden times, these were called the long sword and the sword.
+
+Nowadays, they are known as the sword and the companion sword.  -->
 
 In Japan, whatever the reason, a warrior carries two swords at his belt. It is the Way of the warrior.
 
@@ -59,14 +81,24 @@ In Japan, whatever the reason, a warrior carries two swords at his belt. It is t
 
 The spear and the halberd are weapons which are carried out of doors.
 
-Students of the Ichi school of Strategy should train from the start with the sword and the long sword in either hand. This is a truth=  when you sacrifice your life, you must make fullest use of your weaponry. It is false not to do so, and to die with a weapon yet undrawn.
+Students of the Ichi school of Strategy should train from the start with the sword and the long sword in either hand.
 
-If you hold a sword with both hands, it is difficult to wield it freely to left and right, so my method is to carry the sword in one hand. This does not apply to large weapons such as the spear or halberd, but swords and companion swords can be carried in one hand. It is encumbering to hold a sword in both hands when you are on horseback, when running on uneven roads, on swampy ground, muddy rice fields, stony ground, or in a crowd of people. 
+When you sacrifice your life, you must make fullest use of your weaponry.
+
+It is false not to do so, and to die with a weapon yet undrawn.
+
+If you hold a sword with both hands, it is difficult to wield it freely to left and right, so my method is to carry the sword in one hand. 
+
+This does not apply to large weapons such as the spear or halberd, but swords and companion swords can be carried in one hand. 
+
+It is encumbering to hold a sword in both hands when you are on horseback, when running on uneven roads, on swampy ground, muddy rice fields, stony ground, or in a crowd of people. 
 
 To hold the long sword in both hands is not the true Way, for if you carry a bow or spear or other arms in your left hand you
 have only one hand free for the long sword. However, when it is difficult to cut an enemy down with one hand, you must use both hands. 
 
-It is not difficult to wield a sword in one hand; the Way to learn this is to train with two long swords, one in each hand. It will seem difficult at first, but everything is difficult at first. Bows are difficult to draw, halberds are
+It is not difficult to wield a sword in one hand; the Way to learn this is to train with two long swords, one in each hand. It will seem difficult at first, but everything is difficult at first. 
+
+Bows are difficult to draw, halberds are
 difficult to wield; as you become accustomed to the bow so your pull will become stronger. When you become used to wielding the long sword, you will gain the power of the Way and wield the sword well.
 
 The Water Book will explain that there is no fast way of wielding the long sword. The long sword should be wielded

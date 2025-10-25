@@ -4,7 +4,7 @@ heading: "Chapter 2"
 weight: 6
 image: "/flags/cn.png"
 description: "The PRC is a socialist state governed by a people’s democratic dictatorship that is led by the working class and based on an alliance of workers and peasants"
-icon: "/flags/cn.png"
+icon: China
 ---
 
 

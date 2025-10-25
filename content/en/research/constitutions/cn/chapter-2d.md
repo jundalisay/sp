@@ -1,26 +1,38 @@
 ---
-title: "The Central Military Commission"
+title: "Autonomous Organs of Ethnic Autonomous Areas"
 heading: "Section 6 of Chapter 2"
 weight: 12
 image: "/flags/cn.png"
 description: "The president and the vice president of the PRC shall be elected by the NPC"
-icon: "/flags/cn.png"
+icon: China
 ---
 
 
 ## Autonomous Organs of Ethnic Autonomous Areas
 
-Article 112The autonomous organs of ethnic autonomous areas are the people’s congresses and the people’s governments of autonomous regions, autonomous prefectures and autonomous counties.
+Article 112 
 
-Article 113In the people’s congresses of autonomous regions, autonomous prefectures and autonomous counties, aside from deputies of the ethnic group that exercises regional autonomy, other ethnic groups resident in that administrative area should also have an appropriate number of deputies.
+The autonomous organs of ethnic autonomous areas are the people’s congresses and the people’s governments of autonomous regions, autonomous prefectures and autonomous counties.
+
+Article 113 
+
+In the people’s congresses of autonomous regions, autonomous prefectures and autonomous counties, aside from deputies of the ethnic group that exercises regional autonomy, other ethnic groups resident in that administrative area should also have an appropriate number of deputies.
 
 On the standing committees of people’s congresses of autonomous regions, autonomous prefectures and autonomous counties, there should be citizens of the ethnic group that exercises regional autonomy in office as chairpersonor vice chairperson.
 
-Article 114The offices of governor of an autonomous region, prefect of an autonomous prefecture and head of an autonomous county shall be filled by a citizen belonging to the ethnic group that exercises regional autonomy there.
+Article 114
 
-Article 115The autonomous organs of autonomous regions, autonomous prefectures and autonomous counties shall exercise the functions and powers of local state organs as specified in Chapter III Section 5 of the Constitution; at the same time, they shall exercise the power to self-govern according to the authority invested in them as prescribed by the Constitution and the Law on Regional Ethnic Autonomy and other laws, and, based on local circumstances, shall implement the laws and policies of the state.
+The offices of governor of an autonomous region, prefect of an autonomous prefecture and head of an autonomous county shall be filled by a citizen belonging to the ethnic group that exercises regional autonomy there.
 
-Article 116The people’s congresses of ethnic autonomous areas shall have the power to formulate autonomous regulations and local-specific regulationsin accordance with the political, economic and cultural characteristics of the ethnic groups in their areas. The autonomous regulations and local-specific regulationsof autonomous regions shall go into effect after submission to the NPC Standing Committee and receipt of approval. The autonomous regulations and local-specific regulationsof autonomous prefectures and autonomous counties shall go into effect after submission to the standing committees of the people’s congresses of their provinces or autonomous regions and receipt of approval, and shall be reported to the NPC Standing Committee to be placed on record.
+Article 115
+
+The autonomous organs of autonomous regions, autonomous prefectures and autonomous counties shall exercise the functions and powers of local state organs as specified in Chapter III Section 5 of the Constitution; at the same time, they shall exercise the power to self-govern according to the authority invested in them as prescribed by the Constitution and the Law on Regional Ethnic Autonomy and other laws, and, based on local circumstances, shall implement the laws and policies of the state.
+
+Article 116
+
+The people’s congresses of ethnic autonomous areas shall have the power to formulate autonomous regulations and local-specific regulationsin accordance with the political, economic and cultural characteristics of the ethnic groups in their areas. 
+
+The autonomous regulations and local-specific regulationsof autonomous regions shall go into effect after submission to the NPC Standing Committee and receipt of approval. The autonomous regulations and local-specific regulationsof autonomous prefectures and autonomous counties shall go into effect after submission to the standing committees of the people’s congresses of their provinces or autonomous regions and receipt of approval, and shall be reported to the NPC Standing Committee to be placed on record.
 
 Article 117Autonomous organs of ethnic autonomous areas shall have the autonomy to manage their local finances. All fiscal revenue which, according to the state financial system, belongs to an ethnic autonomous area should be autonomously allocated and used by the autonomous organs of that ethnic autonomous area.
 

@@ -8,11 +8,20 @@ c: "darkgoldenrod"
 ---
 
 
-HUGO KELLER / LÖBAU i. S.THE RELATIVITY THEORY
+## Hugo Keller (Löbau)
 
-Relativity claims the constancy of the speed of light for any system that is arbitrarily moving. In the opinion of Relativity, when two celestial bodies approach each other at the speed v and one of these two bodies emits a beam of light, according to Relativity it is irrelevant for the assessment of the speed of light whether the light carrier is moving and the other body is at rest or, conversely, the light carrier is at rest and the other bodies are moving towards him. There is no such thing as a state of absolute rest, only that of relative motion.
+### The Relativity Theory
 
-In order to keep the speed of light constant for any moving system, the dimensions of space and time are converted for the state of movement. Spatial dimensions are shortened in the direction of movement, clocks are slowing down. Let an observer B move towards an observer A with the speed v = 100,000 km. Then it follows from Relativity that for B (assessed from A) the kilometer dimension shrinks to 707 m, thus 300,000 km to 212100 km. B now does not determine a speed of light of 212100 km per second, but only 0.707 seconds have elapsed for him; thus B also finds the value of 300,000 km per second for the speed of light. B must therefore (always judged from A) subtract his distance 424300 times in order to get the distance of 300,000 km, which the light travels in one second. Exactly the same difficulty arises in the definition of v in relation to the system at rest or in motion.
+Relativity claims:
+- a constant of the speed of light for any system that is arbitrarily moving.
+- when 2 celestial bodies approach each other at the speed `v` and one of these 2 bodies emits a beam of light, it is irrelevant for the assessment of the speed of light whether the light carrier is moving and the other body is at rest or, conversely, the light carrier is at rest and the other bodies are moving towards him. 
+- there is no such thing as a state of absolute rest, only that of relative motion.
+
+In order to keep the speed of light constant for any moving system, the dimensions of space and time are converted for the state of movement. 
+
+Spatial dimensions are shortened in the direction of movement, clocks are slowing down. Let an observer B move towards an observer A with the speed v = 100,000 km. Then it follows from Relativity that for B (assessed from A) the kilometer dimension shrinks to 707 m, thus 300,000 km to 212100 km. 
+
+B now does not determine a speed of light of 212100 km per second, but only 0.707 seconds have elapsed for him; thus B also finds the value of 300,000 km per second for the speed of light. B must therefore (always judged from A) subtract his distance 424300 times in order to get the distance of 300,000 km, which the light travels in one second. Exactly the same difficulty arises in the definition of v in relation to the system at rest or in motion.
 
 If the thesis of the constancy of the speed of light would apply to any system in motion, then it would be the given, the 300,000th part of the second - to set the light path as kilometers. Either the distance [presumably means the 1 kilometre distance] would then be different for every moving systems in same way, or it would be - the light path - different. In both cases, a theory of relativity would no longer make sense.
 
@@ -25,14 +34,14 @@ A would therefore have to go against B, and the clocks exaggerating each other i
 
 The passage of time is incomparably faster in fields of different gravity. Accordingly, two celestial bodies of different sizes, emerging from the surrounding fog at the same moment have arisen, of different ages, because what a hundred thousand years mean for one is more or less for another. Even theindividual parts of a planet whose common hour of birth is the hour of birth of the planet have different ages because of their gravitational field is different.
 
-And why does Relativity seem to us to be inconceivable?
-The answer is that it tries to give us a "simple" explanation for well-known and well-founded
-phenomena, while it fails in the field of new research. Atomic research, which occurs at
-unimaginably high speeds and small distances has to do (i.e. the given area for Relativity), Relativity has
-none of its successes to thank.
+Why does Relativity seem inconceivable to us?
 
-The success of RTH is that it has replaced a problem of classical mechanics with hundreds of new
-problems. But it will also be understood that Relativity is challenging contradictions and
-"misunderstandings".
+The answer is that it tries to give us a "simple" explanation for well-known and well-founded phenomena, while it fails in the field of new research. 
 
-See v. "The lack of support of Relativity" and "Counter-evidence against Relativity". Hillmann, Leipzig.
+Atomic research, which occurs at unimaginably high speeds and small distances has to do (i.e. the given area for Relativity), Relativity has none of its successes to thank.
+
+The success of Relativity replaces a problem of classical mechanics with hundreds of new problems. 
+
+But Relativity is challenging contradictions and "misunderstandings".
+
+<!-- See v. "The lack of support of Relativity" and "Counter-evidence against Relativity". Hillmann, Leipzig. -->

@@ -129,4 +129,6 @@ May 2021 |  The high cases and new mutation in India, the biggest producer of va
 July 2021 | The effectivity of Chinese medicine against even the delta variant is proven by the low cases in China and Taiwan despite Taiwan having low vaccination rates. It is how the Chinese in Indonesia prevent death, since Indonesia also has low vaccination rates.
 March 2022 | The BA2 and XE variant (found in the UK) matches our theory of Covid emerging in a 'Covid Line'
 March 2023 | The decline of Covid from Jan 2023 after Brazil's Lula assumes office is consistent with our assertion that the destruction of the Amazon is the root cause of Covid ![Covid chart](/charts/covid.jpg)
+Oct 2025 | The US is able to arbitrarily and quicky send its Navy against drug operations in South America. This proves that a similar operation against deforstation could have been done back in 2020 https://www.youtube.com/watch?v=ykWQogAzlY4
 {{< /b >}}
+
