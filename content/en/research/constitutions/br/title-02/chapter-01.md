@@ -4,7 +4,7 @@ heading: "Title2"
 weight: 6
 c: "darkslategray"
 description: ""
-icon: "/flags/br.png"
+icon: "Brazil"
 ---
 
 

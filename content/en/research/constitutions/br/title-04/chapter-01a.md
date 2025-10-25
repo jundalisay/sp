@@ -4,7 +4,7 @@ heading: "Chapter 1 Sections 1-3"
 weight: 10
 c: "darkslategray"
 description: "The Legislative Power is exercised by the National Congress, composed of the Chamber of Deputies the Federal Senate"
-icon: "/flags/br.png"
+icon: "Brazil"
 ---
 
 

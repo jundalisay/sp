@@ -4,7 +4,7 @@ heading: "Section 6"
 weight: 20
 c: "darkslategray"
 description: ""
-icon: "/flags/br.png"
+icon: "Brazil"
 ---
 
 

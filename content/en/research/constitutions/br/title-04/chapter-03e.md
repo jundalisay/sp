@@ -4,7 +4,7 @@ heading: "Title 4 Chapter 3 Section 6-7"
 weight: 34
 c: "darkslategray"
 description: ""
-icon: "/flags/br.png"
+icon: "Brazil"
 ---
 
 

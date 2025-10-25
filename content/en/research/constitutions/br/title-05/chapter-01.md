@@ -4,7 +4,7 @@ heading: "Title 5 Chapter 1"
 weight: 12
 c: "darkslategray"
 description: "The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense"
-icon: "/flags/br.png"
+icon: "Brazil"
 ---
 
 

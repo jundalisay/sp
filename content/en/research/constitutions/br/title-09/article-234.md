@@ -1,11 +1,14 @@
 ---
+heading: Articles 234-250
 title: "General Provisions"
-heading: "Chapter 7"
-weight: 1
+weight: 2
 c: "darkslategray"
 description: ""
-icon: "/flags/br.png"
+icon: "Brazil"
+aliases:
+  /research/constitutions/br/title-09/chapter-01
 ---
+
 
 
 Article 234.  The Union cannot  assume, directly or indirectly, as a result of the creation of a state, burdens related to expenses with:

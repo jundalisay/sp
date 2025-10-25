@@ -4,7 +4,7 @@ heading: "Title 4 Section 2"
 weight: 28
 c: "darkslategray"
 description: ""
-icon: "/flags/br.png"
+icon: "Brazil"
 ---
 
 

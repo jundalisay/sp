@@ -4,7 +4,7 @@ heading: "Chapter 8"
 weight: 34
 c: "darkslategray"
 description: ""
-icon: "/flags/br.png"
+icon: "Brazil"
 ---
 
 
