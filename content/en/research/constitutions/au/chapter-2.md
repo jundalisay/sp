@@ -4,7 +4,7 @@ heading: "Chapter 2"
 weight: 5
 c: "darkslategray"
 description: "The executive power of the Commonwealth is vested in the Queen and is exercisable by the Governor-General as the Queen’s representative"
-icon: "/flags/au.png"
+icon: "Australia"
 ---
 
 

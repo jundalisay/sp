@@ -4,7 +4,7 @@ heading: "Part 2"
 weight: 4
 c: "darkslategray"
 description: "The Senate shall have senators for each State, directly chosen by the people of the State"
-icon: "/flags/au.png"
+icon: "Australia"
 ---
 
 

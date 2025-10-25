@@ -4,7 +4,7 @@ heading: "Part 5 "
 weight: 10
 c: "darkslategray"
 description: "The Parliament shall have power to make laws for the peace, order, and good government of the Commonwealth"
-icon: "/flags/au.png"
+icon: "Australia"
 ---
 
 

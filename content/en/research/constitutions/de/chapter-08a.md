@@ -4,7 +4,7 @@ heading: "Chapter 8a"
 weight: 20
 image: "/flags/de.png"
 description: ""
-icon: "/flags/de.png"
+icon: "Germany"
 ---
 
 

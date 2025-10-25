@@ -4,7 +4,7 @@ heading: "Part 4"
 weight: 8
 c: "darkslategray"
 description: "No adult who has or acquires a right to vote at elections for the more numerous House of the Parliament of a State shall be prevented by any law of the Commonwealth from voting"
-icon: "/flags/au.png"
+icon: "Australia"
 ---
 
 

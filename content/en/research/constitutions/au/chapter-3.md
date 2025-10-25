@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 6
 c: "darkslategray"
 description: "The judicial power of the Commonwealth shall be vested in a Federal Supreme Court, called the High Court of Australia"
-icon: "/flags/au.png"
+icon: "Australia"
 ---
 
 

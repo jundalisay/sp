@@ -4,7 +4,7 @@ heading: "Part 1"
 weight: 1
 c: "darkslategray"
 description: "Legislative power and Governor General"
-icon: "/flags/au.png"
+icon: "Australia"
 ---
 
 

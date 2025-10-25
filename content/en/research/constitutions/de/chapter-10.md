@@ -4,7 +4,7 @@ heading: "Chapter 10"
 weight: 28
 image: "/flags/de.png"
 description: ""
-icon: "/flags/de.png"
+icon: "Germany"
 ---
 
 
@@ -13,14 +13,17 @@ icon: "/flags/de.png"
 
 1) The Federation and the Länder shall separately finance the expenditures resulting from the
 discharge of their respective responsibilities insofar as this Basic Law does not otherwise provide.
+
 (2) Where the Länder act on federal commission, the Federation shall finance the resulting
 expenditures.
+
 (3) Federal laws providing for money grants to be administered by the Länder may provide that the
 Federation shall pay for such grants wholly or in part. If any such law provides that the Federation
 shall finance one half or more of the expenditure, it shall be executed by the Länder on federal
 commission. For the granting of benefits for accommodation and heating in the field of basic support
 for persons seeking employment, the law shall be executed on federal commission if the Federation
 finances three quarters or more of the expenditure.
+
 (4) Federal laws that oblige the Länder to provide money grants, benefits in kind or comparable
 services to third parties and which are executed by the Länder in their own right or according to the
 second sentence of paragraph (3) on commission of the Federation shall require the consent of the
