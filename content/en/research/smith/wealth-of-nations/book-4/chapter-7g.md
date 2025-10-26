@@ -1,9 +1,9 @@
 ---
-title: "The Other Enumerated Commodities"
+title: "Low Taxes in the English Colonies"
 heading: "Chapter 7g"
-description: "The pig and bar iron were listed as enumerated commodities. But they were exempted from high duties when imported from America."
+description: "The English colonies are not superior in land to some French colonies before the recent war"
 c: "seagreen"
-weight: 74
+weight: 720
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -11,183 +11,102 @@ icon: "Adam Smith"
 ---
 
 
-{{< s v="58" >}} Timber prices in the colonies naturally fell because of the export ban on masts, yards, and bowsprits, tar, pitch, and turpentine from the colonies to countries other than Great Britain
+{{< s v="43" >}} 4. The English colonies had freer trade their surplus produce.
 
-It increased the cost of clearing their lands, which is the main obstacle to their improvement.
+ <!-- been more favoured in the disposal of their surplus produce. -->
 
-In 1703, the pitch and tar company of Sweden raised the price of their commodities to Great Britain by prohibiting their exportation, except:
-- in their own ships,
-- at their own price, and
-- in quantities they thought proper.
+They were allowed a more extensive market than any other European nation.
 
-To counteract this and to render herself independent of Sweden and all northern powers, Great Britain gave an import bounty on all naval stores from America.
+Every European nation tried to monopolize to itself the commerce of its colonies.
 
-This bounty raised timber prices in America much more than the confinement to the home market could lower it.
+They banned:
+- foreign ships from trading to their own colonies.
+- their own colonies from importing European goods from any foreign nation.
 
-Both regulations were enacted at the same time.
+How this monopoly was exercised in different nations has been very different.
 
-Their joint effect was to encourage the clearing of land in America.
+<sup>44</sup> Some nations gave up the whole commerce of their colonies to an exclusive company.
 
+The colonists were obliged to buy all European goods from such a company.
 
-{{< s v="59" >}} The pig and bar iron were listed as enumerated commodities. But they were exempted from high duties when imported from America.
+They were obliged to sell their own surplus produce to the company.
 
-They were subject to high duties when imported from any other country.
+It was the interest of the company to sell the European goods as dear, and to buy the surplus produce of the colonies as cheap as possible.
 
-The high duties imposed on the pig and bar iron from other countries encouraged the establishment of furnaces in America.
+The company bought no more of this surplus produce at this low price than what they could sell at a very high price in Europe.
 
-Furnaces consume the most wood and contributes most to the clearing of wood.
+It was their interest to:
+- degrade the value of the surplus produce of the colony
+- discourage and keep down the natural increase of its quantity.
 
+The exclusive company is undoubtedly the most effective expedient in stunting the natural growth of a new colony.
 
-<sup>60</sup> These regulations raised timber value in America.
+This was the policy of Holland.
 
-They facilitated the clearing of the land though it was perhaps not intended nor understood by the legislature.
+In the present century, their company gave up their exclusive privilege.
 
-This beneficial effect was accidental.
+This was the policy of Denmark till the reign of the recent king.
 
+It was occasionally the policy of France.
 
-<sup>61</sup> The most perfect freedom of trade is permitted between the British colonies of America and the West Indies in enumerated and non-enumerated commodities.
+Since 1755, it was abandoned by all other nations because of its absurdity.
 
-Those colonies are now so populous and thriving.
+It became the policy of Portugal in Fernambuco and Marannon, two of the principal provinces of Brazil.
 
-Each of them finds a great and extensive market for its produce in some of the other colonies.
+<sup>45</sup> Other nations did not establish an exclusive company.
 
-Taken together, they all make a great internal market for the produce of one another.
+They instead confined the commerce of their colonies to a port of the mother country.
 
+The only ships allowed to sail to such a port were:
+- ships in a fleet at a particular season
+- ships with an expensive licence
 
-<sup>62</sup> England's liberality with the trade of her colonies, however, was confined to their rude produce.
+This policy opened the trade of the colonies to the mother country provided they traded:
+- from the proper port
+- at the proper season
+- in the proper vessels
 
-The more advanced and refined manufactures of the colonies are reserved by British merchants and manufacturers to themselves.
+But all merchants who joined their stocks to fit out those licensed vessels, would find it for their interest to act in concert.
 
-They prevented the establishment of those manufactures in the colonies by high duties and absolute prohibitions.
+Such a trade would be conducted very nearly on the same principles of an exclusive company.
 
+Their profit would be almost equally exorbitant and oppressive.
 
-<sup>63</sup> The following are the duties paid by sugars from the British plantations= 
+The colonies would be ill-supplied.
 
-Muscovado sugars pay only 76 pence the hundredweight
+They would be obliged to buy very dear and to sell very cheap.
 
-White sugars pay 253 pence.
+This was always the policy of Spain.
 
-Refined double or single sugar in loaves pay 269.4 pence.
+The price of all European goods was enormous in the Spanish West Indies.
 
-Great Britain was the sole and still is the principal market for the sugars of the British colonies.
+At Quito, Ulloa tells us that a pound of iron sold for about 4 and 6-pence.
+- A pound of steel sold for about 6 and 9-pence sterling.
 
-<!-- turning
-Converting sugar loaves into powder -->
+But the colonies sell their own produce chiefly to purchase European goods.
+- The more they pay for the European goods, the less they get for their own produce.
+- The dearness of the European goods is the same thing with the cheapness of their own produce.
 
-These duties amounted to a prohibition.
+The Portugal's policy regarding its colonies, except Fernambuco and Marannon, is the same as the ancient policy of Spain.
+- Portugal has recently adopted a worse policy for those two colonies.
 
-At present, sugar claying or refining takes off perhaps more than 9/10 of the whole produce because of the high duties on refined sugar.
 
-Sugar refining flourished in all the French sugar colonies.
+<sup>46</sup> Other nations leave their colony trade free to all their subjects who carry it from the ports of the mother country.
 
-It was little cultivated in any England colony except for the market of the colonies themselves.
+The only licences required are the common dispatches of the custom-house.
 
-While Grenada was with the French, there was a sugar refinery by claying on almost every plantation.
+In this case, the number and dispersed situation of the traders makes it impossible for them to combine.
 
-Since it fell to the English, almost all its refineries were given up
+Their competition hinders them from making exorbitant profits.
 
-At present, October 1773, there are not more than two or three remaining in the island.
+Under so liberal a policy, the colonies can sell their own produce and buy European goods at a reasonable price.
 
-By an indulgence of the custom-house, refined sugar is imported as muscovado, if reduced from loaves into powder.
+This was always England's policy since the dissolution of the Plymouth company when our colonies were at infancy.
 
+It was France's policy since the dissolution of their Mississippi company.
 
-<sup>64</sup> Great Britain:
-- encourages American pig and bar iron manufactures by exempting them from duties imposed on those from any other country.
-- imposes an absolute ban on the establishment of steel furnaces and slitmills in any American plantation.
-- will not allow her colonists to work in those more refined manufactures even for their own consumption.
-- insists on them buying all these goods from her merchants and manufacturers.
+The profits of the colony trade of France and England was higher than if the competition was free to other nations.
 
+Their profits however are not exorbitant.
 
-<sup>65</sup> Great Britain bans the exportation of American hats, wools, and woollen goods from one province to another.
-
-This regulation prevents the establishment of any manufacture of such commodities for distant sale.
-
-It confines the industry of her colonists to coarse and household manufactures needed and made by private families for their own use.
-
-
-<sup>66</sup> To prohibit a great people from making all that they can, in the way that they judge most advantageous to themselves, is a manifest violation of the most sacred rights of mankind.
-
-Unjust as such prohibitions may be, they have not been very hurtful to the colonies.
-
-Land is still so cheap and, consequently, labour so dear in America, that they can import from Great Britain almost all the more advanced manufactures cheaper than they could make for themselves.
-
-They were not banned from establishing such manufactures.
-
-Their regard for their own interest in their present state of improvement probably prevented them from doing so.
-
-In their present state of improvement, those prohibitions perhaps did not cramp their industry nor restrain it from any natural employment.
-
-Those prohibitions are only impertinent badges of slavery imposed on the colonies by the groundless jealousy of British merchants and manufacturers.
-
-In a more advanced state they might be really oppressive and insupportable.
-
-
-<sup>67</sup> Great Britain gives advantage to the produce of her colonies by confining them to her own market, sometimes by= 
-
-Imposing higher duties on the similar imports from other countries
-
-In this way, she gives an advantage in the home market to the sugar, tobacco, and iron of her own colonies.
-
-Giving bounties on their importation from the colonies.
-
-In this way, she gives an advantage to their raw silk, hemp and flax, indigo, naval stores, and building-timber.
-
-This second way of encouraging the colony produce by import bounties is peculiar to Great Britain.
-
-The first is not.
-
-Portugal bans tobacco importation under the severest penalties.
-
-
-<sup>68</sup> England was more liberal with her colonies than any other nation in the importation of European goods. 69 Great Britain allows a large portion of import duties to be drawn back on exportation.
-
-No foreign country would receive those commodities if they were loaded with heavy duties.
-
-Unless some of those duties were drawn back on exportation, the carrying trade would end.
-
-The carrying trade was so much favoured by the mercantile system.
-
-<sup>70</sup> Our colonies are not independent foreign countries.
-
-Great Britain assumed the exclusive right of supplying them with all European goods.
-
-She can force them to receive such goods with all the same duties they paid in the mother country.
-
-On the contrary, until 1763, the same drawbacks were paid on most foreign goods exported to our colonies like any foreign country.
-
-In 1763, by the 4th of George III. c. 15, this indulgence was abated by enacting:
-- That no part of the duty called the Old Subsidy should be drawn back for any exported European or East Indies goods to any British colony or plantation in America, except wines, white calicoes, muslins.
-
-Before this law, many foreign goods were, and still are, bought cheaper in the plantations than in the mother country.
-
-
-<sup>71</sup> The merchants must have been the principal advisers of most of the regulations on the colony trade.
-
-It is no wonder that their interest was more considered in most of the regulations than the interest of the colonies or the mother country.
-
-The interest of the colonies was sacrificed to the interest of those merchants through the exclusive privilege of merchants of= 
-- supplying the colonies with all European goods, and
-- buying all the surplus produce of the colonies which could not interfere with their trades at home.
-
-The interest of the mother country was sacrificed to interest of the merchants by:
-- allowing the same drawbacks on the re-exportation of most European and East India goods to the colonies as the re-exportation to foreign countries.
-
-It was the interest of the merchants:
-- to pay as little as possible for the foreign goods they sent to the colonies, and
-- to get back as much as possible of the duties they advanced on their importation into Great Britain.
-
-They might be enabled:
-- to sell in the colonies the same quantity of goods with more profit, or
-- to sell more goods with the same profit.
-
-They would gain either way.
-
-It was the interest of the colonies to get all such goods as cheap and as plenty as possible.
-
-But this might not always be in the interest of the mother country.
-
-She might frequently suffer in her revenue by:
-- giving back the import duties paid on such goods, and
-- being undersold in the colony market in her manufactures by the easy terms foreign manufactures were imported by those drawbacks.
-
-The progress of British linen manufactures was much retarded by the drawbacks on the re-exportation of German linen to the American colonies.
+The price of European goods is not extravagantly high in most French and English colonies.

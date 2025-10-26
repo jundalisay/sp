@@ -31,7 +31,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <marker
@@ -173,12 +174,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.501"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.5276"
        id="rect2"
-       width="1714.0186"
-       height="841.85846"
-       x="19.761934"
-       y="-9.2222376" />
+       width="1750.7324"
+       height="841.83185"
+       x="-16.965206"
+       y="-9.2089357" />
     <rect
        style="fill:#566fea;fill-opacity:1;stroke:#9f00d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"

@@ -1,9 +1,10 @@
 ---
-title: "America a Nation of Customers, Britain a Nation of Shopkeepers"
 heading: "Chapter 7n"
-description: "Creating a great empire of customers may appear as a project good only for a nation of shopkeepers"
+title: "The Effects of Monopoly on Britain"
+linkTitle: "Chapter 7k"
+weight: 762
 c: "seagreen"
-weight: 87
+description: "The monopoly of the colony trade drew British capital from other trades"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -12,93 +13,143 @@ icon: "Adam Smith"
 
 
 
+{{< s v='119' >}} The monopoly of the colony trade drew British capital from other trades.
 
-{{< s v="149" >}} Creating a great empire of customers may appear as a project good only for a nation of shopkeepers.
+It:
+- forced into those other trades many foreign capitals which would never have gone to them
+  - In those other trades, it diminished the competition of British capital.
+- raised British profit rates higher than natural
 
-In reality, it is not a good project for a nation of shopkeepers.
-- **But it is extremely good for a nation whose government is influenced by shopkeepers**.
-- That government imagines creating such an empire will be advantageous.
+On the contrary, it:
+- increased the competition of foreign capitals
+- sunk the rate of foreign profit lower
 
-If you propose to a shopkeeper that you will buy all your clothes from his shop if he buys you an estate, he will not like your proposal.
-- But if another person buys you an estate and urged you to buy all your clothes from the shopkeeper, the shopkeeper would be much obliged to that person.
-
-Some of England's subjects were uneasy at home.
-
-She purchased for them a great estate in a distant country.
-- The price was very small.
-- 30 years purchase is the present ordinary price of land.
-
-Instead of 30 years purchase, its price was the cost of:
-- making the first discovery
-- surveying the coast
-- taking a fictitious possession of the country
-
-The land was good and wide.
-
-The cultivators had plenty of good ground to work on.
-- For some time, they were free to sell their produce where they pleased.
-- In 30 or 40 years (between 1620 and 1660), they became so numerous and thriving that English shopkeepers and traders wished to monopolize the American trade. 
-<!-- secure the monopoly of their custom. -->
-
-Those shopkeepers did not pay any part of the original purchase-money or the subsequent expence of improvement.
-- Yet they petitioned the parliament that American cultivators should be confined to their shop.
-- The cultivators would then:
-  - buy all the European goods that they wanted from that shop
-  - sell all their produce to that shop
-
-   <!-- which those traders found convenient to buy -->
-
-The shopkeepers did not find convenient to buy all of the produce of those cultivators because some of it, when imported into England, competed with their trades at home.
-- The traders proposed that the competing American produce should be confined to countries south of Cape Finisterre in Spain. 
-- "A clause in the famous act of navigation established this truly shopkeeper proposal into a law."
+In both ways, it must have subjected Great Britain to a relative disadvantage in all those other trades.
 
 
-{{< s v="150" >}} **The maintenance of this monopoly was the sole end and purpose of British dominion over her colonies.**
+{{< s v='120' >}} The colony trade perhaps is more advantageous to Great Britain than any other trade.
 
-In this exclusive trade consists the great advantage of provinces, which 
-
-Those dependent colonies have never yet afforded either a revenue or a military force to support the civil government or defend Great Britain.
-- The monopoly is the sole fruit which has been gathered from that dependence.
-
-<!-- is the principal badge of their dependence.
-- It is -->
+The monopoly forced more British capital into the colony trade than what would have gone to it.
+It turned that capital into an employment more advantageous to Great Britain than any other trade.
 
 
-British spending for her colonies is really spending to support this monopoly.
-<!-- Whatever Great Britain spent in maintaining this dependence was really spent to  -->
+{{< s v='121' >}} "The most advantageous employment of any capital to the country to which it belongs is that which maintains there the greatest quantity of productive labour, and increases the most the annual produce of the land and labour of that country."
 
-Before the start of the present disturbances, the cost of the ordinary peace establishment in the colonies amounted to:
-- the pay of 20 foot regiments
-- the cost of the artillery, stores, and their extraordinary provisions
-- the cost of a big naval force which guarded the immense coast of North America and the West Indian islands from foreign smuggling
+It has been shown in the Book 2 that the quantity of productive labour which capital can maintain in the foreign trade of consumption is exactly in proportion to the frequency of its returns.
 
-This whole cost was charged to Great Britain.
-- It was the smallest cost of the dominion of the colonies to Great Britain.
+For example, a capital of 1,000 pounds employed in a foreign trade of consumption with returns of once a year, can maintain and employ what 1,000 pounds can for a year.
+If the returns are made twice or thrice a year, it can keep employed what 2,000 or 3,000 pounds can maintain there for a year.
 
-The total cost of this dominion is:
-- This annual cost of this peace establishment, plus
-- The interest of previous expences of Great Britain in defending them, plus
-- The whole cost of the American Revolutionary War and the Seven Years' War
+In this case, a foreign trade of consumption done with a neighbouring country is more advantageous than a trade with a distant country.
 
-<!-- recent war and most of the cost of the war which preceded it. -->
+For the same reason, a direct foreign trade of consumption is in general more advantageous than a round-about one, as shown in Book 2.
 
-The American Revolutionary War was a colony quarrel.
-- Its whole global cost should justly be charged to the colonies.
-  - It amounted to more than 90 million sterling which included:
-    - a new debt
-    - the 2 shillings in the pound additional land tax
-    - the sums which were borrowed every year from the sinking fund.
 
-<!-- Spanish war -->
-The War of Jenkins Ear which began in 1739 was principally a colony quarrel.
-- "Its principal object was to prevent the search of the colony ships which carried on a contraband trade with the Spanish Main."
 
-In reality, this whole cost is a bounty given to support a monopoly. Its pretended purpose was:
-- to encourage manufactures
-- to increase British commerce
+{{< s v='122' >}} The monopoly of the colony trade forced some British capital from a foreign trade of consumption with a neighbouring country, to a trade with a more distant country.
 
-Its real effect was:
-- to raise mercantile profits
-- to enable our merchants to turn their capital into a trade where the returns are more slow and distant than other trades
+In many cases, it forced British capital from a direct foreign trade of consumption to a round-about one.
 
-These two events would have been worth giving a bounty to in order to prevent, not support.
+
+{{< s v='123' >}} The monopoly of the colony trade forced some British capital from a foreign trade of consumption with a neighbouring country to a trade with a more distant country.
+
+<sup>124</sup> It forced some British capital from the trade with Europe and the Mediterranean. to the trade with America and the West Indies, where the returns are less frequent.
+
+New colonies are always understocked.
+
+"Their capital is always much less than what they could employ with great profit and advantage in the improvement and cultivation of their land."
+
+"They have a constant demand, for more capital than they have of their own;"
+
+To supply their deficiency, they borrow as much as they can of the mother country.
+
+They are therefore always in debt to the mother country.
+
+The most common way they contract this debt is by running in arrears to their correspondents as far as possible.
+
+Their correspondents supply them with European goods.
+
+They sometimes borrow on bond of the rich people of the mother country.
+
+But they do not do this commonly because their annual returns frequently are less than a third of what they owe.
+
+The whole capital advanced by their correspondents is seldom returned to Britain in less than three years.
+
+£1,000 of British capital which returned to Great Britain once in five years, can keep only 1/5 British industry constantly employed compared to 5/5 industry if such capital returned once a year.
+
+It can keep only £200 worth of industry employed for each year for those five years.
+
+The planter probably makes up the loss his correspondent sustains by this delay through:
+- the high price the planter pays for European goods
+- the interest on the bills the planter grants at distant dates
+- the commission on the renewal of those bills which the planter grants at near dates
+
+Although he may make up the loss of his correspondent, he cannot make up the loss of Great Britain.
+
+The merchant's profit may be more in a trade where the returns are very distant than in a trade where they are very frequent and near.
+
+But the advantage of the country where he resides must always be much less= 
+
+The quantity of productive labour maintained there
+
+The annual produce of its land and labour
+
+The returns of the trade to America and the West Indies are more distant, irregular, and uncertain than those to Europe and the Mediterranean.
+
+
+{{< s v='125' >}} The monopoly of the colony trade forced some part of British capital from a direct foreign trade of consumption into a round-about one.
+
+{{< s v='126' >}} Enumerated commodities can only be sent to Great Britain.
+
+There are several enumerated commodities which are in excess of what is needed by Great Britain.
+
+It must be exported.
+
+This cannot be done without forcing some British capital into a round-about foreign trade of consumption.
+
+For example, Maryland and Virginia, send more than 96,000 hogsheads of tobacco to Great Britain annually.
+
+The consumption of Great Britain does not exceed 14,000 hogheads.
+
+More than 82,000 hogsheads must be exported to:
+- France
+- Holland
+- The Baltic countries
+- The Mediterranean countries
+
+The British capital which imports and re-exports those 82,000 hogsheads is employed in a round-about foreign trade of consumption.
+- It brings back goods or money from those countries in return.
+- It is forced to dispose of this great surplus.
+
+To compute how many years this capital would come back to Great Britain, we must add the returns from those other countries to the American returns.
+
+If the capital employed in the direct foreign trade of consumption with America does not come back in less than 3-4 years, the capital employed in this round-about trade is not likely to return in less than 4-5 years.
+
+If the capital employed in the direct trade can employ only 1/3 or 1/4 domestic industry, the capital employed in the round-about trade can employ but 1/4 or 1/5 of that industry.
+
+At some ports, a credit is given to the foreign correspondents who buy their tobacco.
+
+At London, this credit is commonly sold for ready money.
+
+"The rule is, Weigh and pay."
+
+At London, the final returns of the round-about trade are more distant than the returns from America by the time the goods lie unsold in the warehouse.
+
+Had the tobacco of the colonies not been confined to the British market, very little of it would probably have come to us than necessary.
+- Instead of using the surplus tobacco from the colonies to buy the foreign goods she wants at home, she would probably use her own produce.
+- Instead of being entirely suited to one great market as at present, that produce would probably have been fitted to many smaller markets.
+- Instead of one great round-about foreign trade of consumption, Great Britain would probably have carried on many small direct foreign trades.
+
+Because of the frequency of the returns, probably 1/3 or 1/4 of the capital presently employed in this great round-about trade might have been sufficient to carry on all those small direct trades.
+
+It might have:
+- kept an equal quantity of British industry constantly employed
+- equally supported Great Britain's annual produce.
+
+Since this trade would be supported by a much smaller capital, there would have been a large spare capital for other purposes to:
+- improve the lands
+- increase the manufactures
+- extend the commerce of Great Britain
+- compete with other British capitals employed in all those different ways
+- reduce the profit rate in them all
+- give a greater superiority to Great Britain in all of them over other countries.

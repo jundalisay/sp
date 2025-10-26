@@ -1,9 +1,10 @@
 ---
-title: "Taxation by Requisition"
-heading: "Chapter 7o"
-description: "In taxation by requisition, the British parliament would determine the sum each colony should pay. The provincial assembly would assess and levy it in the best way suited to the province"
+heading: "Chapter 7p"
+title: "The Effects of Monopoly on Britain"
+linkTitle: "Chapter 7k"
+weight: 772
 c: "seagreen"
-weight: 90
+description: "The monopoly of the colony trade drew British capital from other trades"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -11,164 +12,140 @@ icon: "Adam Smith"
 ---
 
 
-{{< s v="157" >}} It has been proposed that the colonies should be taxed by requisition.
 
-The British parliament would determine the sum each colony should pay. The provincial assembly would assess and levy it in the best way suited to the province.
+{{< s v="133" >}} "We must carefully distinguish between the effects of the colony trade and those of the monopoly of that trade."
 
-In this way, what concerned the whole empire would be determined by the assembly which inspects and superintends the affairs of the whole empire.
+The effects of the colony trade are always beneficial.
 
-The provincial affairs of each colony might still be regulated by its own assembly.
-In this case, the colonies should have no representatives in the British parliament.
+The effects of the monopoly of the colony trade are always hurtful.
 
-From experience, the parliamentary requisition would be reasonable.
-
-The English parliament has not shown the smallest disposition to overburden the unrepresented parts of the empire.
-Guernsey and Jersey islands are more lightly taxed than any part of Great Britain, without any means of resisting the authority of parliament.
-In taxing the colonies, the Parliament never demanded anything from the colonies which even approached the tax paid by their fellow-subjects at home.
-If the contribution of the colonies were pegged to the land tax, parliament could not tax the colonies without taxing its own constituents.
-    In this case, the colonies might be considered virtually represented in parliament.
+The colony trade is so beneficial even if it were subject to a monopoly with its hurtful effects.
 
 
-{{< s v="158" >}} There are many examples of empires where all the provinces are taxed not in one mass.
+<sup>134</sup> The effect of the colony trade in its natural and free state is to open a great, distant market for British industry which may exceed the demand at home, Europe, and the Mediterranean.
 
-The sovereign regulates how much each province should pay.
+In its natural and free state, the colony trade:
+- encourages Great Britain to continually increase the surplus by continually presenting new equivalents to be exchanged for it.
+  - It does not draw produce from those markets previously sent to them.
+- increases the quantity of productive labour in Great Britain.
+  - It does not alter the direction of the labour previously employed there.
+- allows competition from other nations.
 
-In some provinces, he assesses and levies it by himself.
-In others, he leaves it to be assessed and levied by the states of each province.
+This competition hinders the profit rate from rising above the common level in the new market or new employment.
 
-In some French provinces, the king imposes the taxes and the way it is to be levied and assessed.
+- In this way, the new market does not draw produce from the old market.
+- Instead, it would create a new produce for its own supply.
 
-In other provinces, he demands a certain sum but leaves it to the states of each province to assess and levy that sum.
-
-According to the scheme of taxing by requisition, the British parliament would be in the same situation towards the colony assemblies as the king of France is towards the French provinces.
-
-The French provinces are supposed to be the best governed.
-
-
-{{< s v="159" >}} According to this scheme, the colonies have no reason to fear that their share of taxation should exceed those of their fellow-citizens at home.
-
-Great Britain might have just reason to fear that it never would amount to that proper proportion.
-The British parliament has not established the same authority in the colonies as the French king has in the French state provinces.
-
-The colony assemblies might:
-
-Find many pretences for evading or rejecting the requisitions of parliament
-Not be favourably disposed to the parliament
-Not have been skilfully managed
-
-If a French war breaks out, 10 millions must immediately be raised to defend Great Britain.
-
-This must be borrowed on the credit of some parliamentary fund mortgaged for paying the interest.
-Parliament proposes to raise this fund= 
-    By a tax in Great Britain for a part of this fund.
-    By a requisition to all the colony assemblies of America and the West Indies for the other part of the fund.
-
-Would people readily advance their money on the credit of a fund which partly depended on the good humour of all those assemblies?
-
-Those assemblies are far from the seat of the war
-They sometimes perhaps are not much concerned about it
-Upon such a fund, only the money from the tax levied in Great Britain might be advanced.
-The whole burden of the debt from the war would fall on Great Britain as it always has done.
-The burden would fall on a part of the empire, not on the whole empire.
-
-Since the world began, Great Britain is perhaps the only state which increased its expences without once increasing its resources while extending its empire.
-
-Other states have disburdened themselves of the expence of defending their subordinate provinces.
-Great Britain's subordinate provinces have disburdened themselves of the expence of defending the empire.
-The law has supposed the colonies as subordinate to Great Britain.
-
-To put Great Britain equal with her own colonies on the scheme of taxing them by requisition, it is necessary that parliament have the means to immediately make its requisitions effectual.
-
-Those means will be tapped if the colony assemblies attempt to evade or reject the requisition.
-
-{{< s v="160" >}} If the British parliament establishes the right of taxing the colonies, the independence and importance of their own assemblies, and all the leading men of British America would end.
-
-Men desire to have some share in the management of public affairs because of the importance it gives them.
-The stability and duration of free governments depends on the power of the leading men and the natural aristocracy to preserve or defend their respective importance.
-The whole play of domestic faction and ambition consists in= 
-    the attacks they continually make on the importance of one another
-    defending their own importance.
-The leading men of America, like those of all other countries, desire to preserve their own importance.
-    They are fond of calling their assemblies as parliaments of equal authority to the British parliament.
-    They feel, or imagine, that if their assemblies were degraded to become the British parliament's humble ministers and executive officers, their own importance would end.
-They rejected the proposal of being taxed by parliamentary requisition.
-    Like other ambitious and high-spirited men, they have chosen to draw the sword to defend their own importance.
-
-161 Towards the decline of the Roman republic, the allies of Rome bore the principal burden of defending and extending the empire.
-
-Those allies demanded all the privileges of Roman citizens.
-    Upon being refused, the social war broke out.
-    During that war, Rome granted those privileges to most of them one by one, in proportion to how they detached themselves from their confederacy.
-The British parliament insists on taxing the colonies.
-    The colonies refuse to be taxed by a Parliament where they are not represented.
-A new method of acquiring importance would be presented to the leading men of each colony if each colony, which detached itself from their confederacy, were= 
-    allowed to have a few representatives in Great Britain proportional to their contribution to British public revenue
-    allowed the number of its representatives to be increased in proportion to its increasing contribution
-    admitted to the same freedom of trade with its fellow-subjects at home.
-It would be a new and more dazzling object of ambition for the leading men of each colony.
-    They might hope from the presumption, which men naturally have in their own ability and good fortune.
-    Instead of piddling for the little prizes in the paltry raffle of colony faction, they might hope to win great prizes in the great state lottery of British polities.
-This seems the only method of preserving the importance and of gratifying the ambition of the leading men of America.
-    They will probably never voluntarily submit to us.
-We should consider that the blood shed in forcing them to submit to us is the blood= 
-    of our fellow-citizens
-    we wish to have for our fellow-citizens.
-Those who flatter themselves that our colonies will be easily conquered, by force alone, are very weak.
-Their continental congress feels an importance which the greatest European subjects scarce feel.
-    From shopkeepers, tradesmen, and attornies, they have become statesmen and legislators.
-    They are creating a new form of government for an extensive empire which, they flatter themselves, will become, and which seems very likely to become, one of the greatest and most formidable in the world.
-        500 people perhaps act under the continental congress.
-        Perhaps the 500,000 people who act under those 500, all feel a proportional rise in their own importance.
-    Almost every individual of the governing party in America fills a station superior to what he has ever filled before and what he has ever expected to fill.
-        Unless some new object of ambition is presented to him or to his leaders, he will die defending that station if he has the ordinary spirit of a man.
-
-162 President Henaut remarked that the many little events of the Catholic League [1589] were not very important.
-
-He says that every man then fancied himself of some importance.
-Most of the memoirs from those times [French Wars of Religion] were written by people who magnified events in which they flattered themselves that they had been considerable actors.
-How obstinately Paris defended itself.
-It would rather go through a dreadful famine than to submit to the most beloved of all the French kings.
-Most of the citizens or their leaders fought to defend their own importance.
-    They foresaw that their importance would end if the ancient government were re-established.
-Our colonies are very likely to defend themselves against the best of all mother countries as obstinately as Paris did against one of the best of kings, unless they can be induced to consent to a union.
+<!-- That new produce would be a new capital for carrying on the new employment.
+            The new employment would draw nothing from the old market. -->
 
 
-{{< s v="163" >}} The idea of representation was unknown in ancient times.
+<sup>135</sup> The colony trade monopoly, on the contrary, excludes foreign competition.
 
-When the people of one state were given citizenship in another, they could only exercise that right by voting and deliberating with the people of that other state.
-The admission of most Italian inhabitants into the privileges of Roman citizenship completely ruined the Roman republic.
-    It was no longer possible to distinguish between who was and who was not a Roman citizen.
-    No tribe could know its own members.
-    A rabble of any kind could be introduced into the assemblies.
-        It could= 
-            drive out the real citizens
-            decide on the affairs of the republic as if they themselves were real citizens.
-If America were to send 50 or 60 new representatives to parliament, the doorkeeper of the house of commons can easily distinguish between who was and who was not a member.
-The Roman constitution was ruined by the union of Rome with the Italian states.
-    But it is improbable that the British constitution would be hurt by the union of Great Britain with her colonies.
-That constitution, on the contrary, would be completed by the colonies.
-    It seems imperfect without the colonies.
-The assembly which deliberates and decides the affairs of the whole empire should be properly informed.
-    It should certainly have representatives from every part of it.
-I do not know how easy or difficult this union could be established.
-    I have heard of no difficulty which appears insurmountable.
-    The principal difficulties perhaps arise from the prejudices and opinions of the British and Americans, and not from the nature of things.
+It:
+- raises the profit rate in the new market and the new employment
+- draws produce from the old market and capital from the old employment
 
-164 We British are afraid that the multitude of American representatives should overturn the balance of the constitution.
+The avowed purpose of the monopoly is to increase our share of the colony trade beyond the natural.
 
-We are afraid that their influence on the crown or the force of democracy might increase too much.
-But if the number of American representatives were proportional to the American taxation, the number of people to be managed would increase exactly in proportion to the means of managing them.
-    The means of managing would be proportional to the number of people to be managed.
-After such a union, the monarchical and democratical parts of the constitution would be exactly in the same degree of relative force with regard to one another as before.
+If our share were no greater than without the monopoly, there could be no reason for establishing the monopoly.
 
-165 The Americans are afraid that their distance from the seat of government might expose them to many oppressions.
+More capital of the country is unnaturally forced into a trade where the returns are slower and more distant.
 
-But their parliamentary representatives would initially be many.
-    They would easily be able to protect them from all oppression.
-The distance could not much weaken the dependency of the representatives to their constituents.
-    Their consituents would still feel that their representative owed his parliamentary seat and all he derived from it, to their goodwill.
-    It would be the interest of the constituents to cultivate that goodwill by complaining about every civil or military outrage in those remote parts.
-The Americans might flatter themselves that in the future, the seat of British government will not be far from America.
-    The progress of America in wealth, population, and improvement was so rapid that, perhaps after a century, American tax revenues might exceed British tax revenues.
-    The seat of the empire would then naturally move to that part which contributed most to the defence and support of the whole.
-`
+This:
+- renders all the productive labour and national produce less than they otherwise would be
+- keeps down the revenue of the inhabitants of that country below what it would naturally rise to
+- reduces their power of accumulation
+- hinders, at all times, their capital from maintaining productive labour as it would otherwise maintain
+- hinders their capital from increasing so fast as it would otherwise increase to maintain more productive labour.
+
+
+<sup>136</sup> The natural good effects of the colony trade more than counterbalance the bad effects of the monopoly on Great Britain.
+
+The colony trade becomes greatly advantageous even with the monopoly.
+
+The new market and new employment opened by the colony trade are wider than the old market and old employment lost by the monopoly.
+
+The new produce and the new capital created by the colony trade maintain more productive labour in Great Britain than what was thrown out of employment by the revulsion of capital from other trades with more frequent returns.
+
+If the colony trade is advantageous to Great Britain, it is in spite of the monopoly, not because of the monopoly.
+
+
+<sup>137</sup> It for the manufactured than for the rude produce of Europe that the colony trade opens a new market.
+
+Agriculture is the proper business of all new colonies.
+
+The cheapness of land renders agriculture more advantageous than any other business.
+
+They abound in the rude produce of land.
+
+They generally have a large surplus to export.
+
+In new colonies, agriculture:
+- Draws hands from all other employments or
+- Keeps them from going to any other employment
+
+There are few hands to spare for the necessary manufactures and none for the ornamental ones.
+
+They find it cheaper to purchase of manufactures of other countries than to make it themselves.
+
+The colony trade indirectly encourages its agriculture by encouraging European manufactures.
+
+The colony trade gives employment to European manufactures, which become a new and most advantageous market for rude produce.
+
+The trade to America greatly extends the home market for corn, cattle, bread and meat of Europe.
+
+
+<sup>138</sup> The monopoly of the trade of populous and thriving colonies is not alone sufficient to establish or maintain manufactures in any country.
+
+This is demonstrated by Spain and Portugal.
+
+"Spain and Portugal were manufacturing countries before they had any considerable colonies."
+
+They were once the richest and most fertile in the world but not anymore.
+
+
+<sup>139</sup> The bad effects of the monopoly in Spain and Portugal were aggravated by other causes.
+
+These causes perhaps overbalanced the natural good effects of the colony trade:
+- Other monopolies
+- The degradation of gold and silver value below its value in most other countries
+- The exclusion from foreign markets by improper taxes upon exportation
+- The narrowing of the home market by more improper taxes on the transportation of goods
+- Above all, that irregular and partial administration of justice which protects the rich and powerful debtor from his injured creditor.
+        
+That unjust system makes the industrious:
+- afraid to prepare goods for those haughty and great men.
+- accept selling on credit despite uncertain repayment.
+
+
+<sup>140</sup> In England, on the contrary, the natural good effects of the colony trade are assisted by other causes which conquered the bad effects of the monopoly.
+
+These causes seem to be: 
+- The general liberty of trade which is at least equal or perhaps superior to any other country.
+- The liberty of exporting, duty free, almost all sorts of domestic goods to almost any foreign country.
+- More importantly, the unbounded liberty of transporting them from our own country to any other without:
+  - Being obliged to give any account to any public office
+  - Being liable to question or examination of any kind
+
+Above all, that equal and impartial administration of justice which renders the meanest British subject respectable to the greatest.
+
+This justice secures to every man the fruits of his own industry
+
+It gives the greatest and most effectual encouragement to every sort of industry.
+
+
+<sup>141</sup> If British manufactures were advanced by the colony trade, it was not by its monopoly but in spite of its monopoly.
+
+The monopoly:
+- altered the quality and shape of some of British manufactures
+- accommodated to a market where the returns are slow and distant, instead of a market where the returns are frequent and near.
+- turned a part of British capital from an employment where it would have maintained more manufacturing industry to one where it maintains a much smaller
+- reduced the quantity of manufacturing maintained in Great Britain
+
+
+{{< s v="142" >}} The colony trade monopoly is like all the other mean and malignant expedients of the mercantile system.
+
+It:
+- depresses the industry of all other countries and chiefly that of the colonies
+- reduces the industry of the country for which is it is established

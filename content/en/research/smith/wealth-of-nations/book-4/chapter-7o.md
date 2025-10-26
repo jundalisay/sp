@@ -1,9 +1,9 @@
 ---
-title: "Colony assemblies and Representation"
-heading: "Chapter 7n"
-description: "The colonies may be taxed by their own assemblies or by the British parliament"
+heading: "Chapter 7o"
+title: "The Effects of Monopoly -- Spain and Portugal"
+weight: 764
 c: "seagreen"
-weight: 88
+description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -12,127 +12,120 @@ icon: "Adam Smith"
 
 
 
-{{< s v="151" >}} Under the present system of management, Great Britain only derives loss from her colonies.
+{{< s v="127" >}} The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade. It forced it from supporting British industry towards supporting the industry of the colonies and other countries.
 
 
-{{< s v="152" >}} The following proposal never was and never will be adopted by any nation:
-- Great Britain should voluntarily give up all authority over her colonies.
-- The colonies should be left to elect their own magistrates and enact their own laws.
-- The colonies should make peace and war as they might think proper.
+{{< s v="128" >}} For example, the goods purchased with the great tobacco surplus of 82,000 hogsheads are not all consumed in Great Britain.
 
-No nation ever voluntarily gave up the dominion of any province no matter how:
-- troublesome it might be to govern it
-- small the revenue it afforded, compared to the expence it created
-
-Such sacrifices are mortifying to the pride of every nation, even if such sacrifices might be agreeable to their interest.
-- More importantly, **they are always contrary to the private interest of the government.**
-
-The government would be deprived of:
-- many places of trust and profit
-- many opportunities of acquiring wealth and distinction
-
-The possession of the most turbulent and unprofitable province always affords wealth and distinction.
-
-The most visionary enthusiast who proposes freedom for the colonies will not seriously hope it ever being adopted.
-- If it were adopted, Great Britain would be immediately freed from the expence of the peace establishment of the colonies.
-- She might then settle for a free trade agreement with her former colonies. 
-  - That free trade would be more advantageous to the people.
-  - It would be less advantageous to the merchants than the current monopoly.
-
- <!-- treaty of commerce which would secure her a free trade. -->
-
-The natural affection of the colonies to the mother country was almost extinguished by our recent dissensions.
-- By parting as good friends, this affection would perhaps quickly revive.
-- By this affection, they might for centuries respect the free trade treaty that they formed at parting with us.
-<!-- - They might be disposed to favour us in war and in trade. -->
-- They might become our most faithful allies instead of enemies. 
-
-<!-- , affectionate, and generous allies instead of turbulent and factious subjects. -->
-
-This would then revive the parental affection of Great Britain and the filial respect of her colonies.
-- Such affection and respect was present between the ancient Greek colonies and their mother city.
+Part of them such as linen from Germany and Holland are returned to the colonies for their consumption. The British capital which buys the tobacco which is exchanged for linen is withdrawn from supporting British industry. It instead supports the industry of the colonies and the industry of Germany and Holland.
 
 
-{{< s v="153" >}}  For any province to be advantageous to its empire, it should afford a peacetime revenue sufficient for:
-- defraying the expence of its own peace establishment
-- contributing its proportion to support the empire's government.
+{{< s v="129" >}} The monopoly of the colony trade broke that natural balance of British industry.
 
-"Every province necessarily contributes to increase the expence of that general government."
+British industry was turned to suit one great market instead of many small markets.
 
-If any province does not contribute, an unequal burden must placed on some other part of the empire.
+Her commerce ran principally in one great channel instead of running in many small channels.
 
-The wartime revenue of every province should be proportional to peacetime revenue of the empire.
+Her industry and commerce was made less secure.
 
-Neither the ordinary nor extraordinary revenue from British colonies is proportional to the revenue of Great Britain.
-
-The monopoly was supposed to:
-- increase British private revenue
-- enable the British to pay more taxes to compensate the deficiency of revenue from the colonies.
-
-This monopoly is a very grievous tax on the colonies.
-- It increase the revenue of an order of men in Great Britain, but it reduces the people's revenue.
-- It consequently reduces the people's ability to pay taxes.
-
-The order of men who get increased revenue from the monopoly is absolutely impossible to tax beyond the proportion of other orders.
-  
-Book 5 will show that that order is extremely unwise even to attempt to tax beyond that proportion.
-- No resource can be drawn from that order.
+Her whole political body was made less healthy.
 
 
-### Colony Assemblies
+In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts.
+- Her body is liable to many dangerous disorders which affect unproportioned bodies.
+- Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it.
 
-{{< s v="154" >}} The colonies may be taxed by their own assemblies or by the British parliament. 
+A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.
 
-{{< s v="155" >}} It seems improbable that the colony assemblies can ever levy a public revenue sufficient to;
-- maintain their own civil and military establishment
-- pay their share of the government expences of the British empire.
+The expectation of a rupture with the colonies has struck the British with more terror than the Spanish armada or a French invasion.
 
-It took a long time before even the parliament of England, under the eye of the sovereign, could be:
-- brought under such a system of management
-- rendered sufficiently liberal in their grants to support the civil and military establishments even of England.
+This terror rendered the repeal of the stamp act a popular measure among the merchants, at least.
 
-Such a system of management could only be established in the English parliament by distributing among the parliament members a part of:
-- the offices
-- the disposal of the offices arising from this civil and military establishment
+If we were totally excluded from the colony market just for a few years:
+- Most of our merchants foresee an entire stop to their trade
+- Most of our master manufacturers foresee the entire ruin of their business
+- Most of our workmen foresee an end of their employment
 
-But it is difficult for the sovereign to manage the colony assemblies in the same way as the parliament due to their:
-- distance
-- number
-- dispersed situation
-- various constitutions
+A rupture with any of our European neighbours will cause some stop or interruption in the employments of some of these orders of people.
 
-It would be absolutely impossible to distribute among all the leading members of all the colony assemblies a share of the offices of the general government of the British empire.
+It is foreseen,without any such emotion.
 
-Such offices would dispose the leaders to:
-- give up their popularity at home
-- tax their constituents to support that general government.
+If blood circulation is stopped in the smaller vessels, it easily disgorges itself into the greater vessels without creating any dangerous disorder.
 
-Almost the whole emoluments were divided among people who were strangers to them.
+"but, when it is stopped in any of the greater vessels, convulsions, apoplexy, or death, are the immediate and unavoidable consequences."
 
-The following renders such a system of management unfeasible:
-- The unavoidable ignorance of administration concerning the importance of those assembly members
-- The offences which must frequently be given
-- The blunders which must constantly be committed in attempting to manage them.
+Its overgrown manufactures were artificially raised through bounties or the monopoly of the home and colony markets.
+
+If one of those overgrown manufactures is interrupted, it frequently causes:
+- A mutiny and disorder alarming to government
+- An embarrassment to the deliberations of the legislature.
+
+How great would be the disorder and confusion caused by a sudden and entire stop in the employment of so many of our principal manufacturers?
 
 
-{{< s v="156" >}} "The colony assemblies cannot be the proper judges of what is necessary for the defence and support of the whole empire."
+{{< s v="130" >}} A moderate and gradual relaxation of the British exclusive trade to the colonies, until it is rendered free, is the only expedient which can deliver her from this danger in the future.
 
-The care of that defence and support is not entrusted to them.
+Only this can enable her to withdraw some of her capital from this overgrown employment.
 
-It is not their business.
+It can turn her capital towards other employments, though with less profit.
 
-They have no regular information concerning it.
+By gradually reducing one industry and increasing the rest, this relaxation can restore her industry to that natural and healthy proportion which perfect liberty necessarily establishes.
 
-The assembly of a province, like the vestry of a parish, may judge very properly concerning the affairs of its own district.
+Perfect liberty can alone preserve this natural balance.
 
-But it can have no proper means of judging those of the whole empire.
+Opening the colony trade all at once to all nations might create some temporary inconvenience.
 
-It cannot even judge properly the proportion of its own province to the whole empire.
+It might create a great permanent loss to most of those presently engaged in it.
+Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly.
 
-It cannot judge the relative degree of its wealth and importance compared with other provinces.
+"Such are the unfortunate effects of all the regulations of the mercantile system!"
 
-Because those other provinces are not under the inspection and superintendency of the assembly of a particular province.
+They introduce very dangerous disorders into the political body
+Those disorders are often difficult to remedy without creating greater short term disorders.
 
-Only an assembly which inspects and superintends the affairs of the whole empire can judge:
-- what is necessary for the defence and support of the whole empire
-- in what proportion each part should contribute.
+We must leave the following to the wisdom of future statesmen and legislators to determine= 
+
+How the colony trade should be gradually opened
+
+Which restraints should be taken away first and which one taken away last.
+
+How the natural system of perfect liberty and justice should be gradually restored.
+
+
+{{< s v="131" >}} Great Britain has now been excluded from the trade with the 12 North American provinces for more than a year (from December 1, 1774).
+
+Five unforeseen events have very fortunately concurred to hinder Great Britain from feeling this total exclusion from the colony trade:
+
+The North American colonies prepared themselves for their non-importation agreement.
+- They drained Great Britain completely of all the commodities fit for their market
+
+This year, the extraordinary demand of the Spanish Flota drained Germany and the North of many commodities which competed with British manufactures.
+- Linen was one of such commodities
+
+The peace between Russia and Turkey created an extraordinary demand from the Turkey market
+- Turkey was very poorly supplied during its distress while a Russian fleet was cruising in the Archipelago
+
+The rising year on year demand of Northern Europe for British manufactures
+
+The late partition and consequential pacification of Poland.
+- It opened the market of that great country
+- This year it added an extraordinary demand for British manufactures.
+
+All these events, except the fourth, were transitory and accidental.
+
+The continued exclusion from the colony trade may still create some distress.
+
+This distress will come gradually.
+
+It will be felt much less severely than if it came all at once.
+
+In the meantime, Great Britain's industry and capital may find new employment and direction to prevent this distress from rising.
+
+
+{{< s v="132" >}} In all cases, the colony trade monopoly turned British capital from a foreign trade of consumption with a neighbouring country to a more distant country.
+
+- In many cases, it turned British capital from a direct foreign trade of consumption into a round-about one.
+- In some cases, it turned British capital from a foreign trade of consumption into a carrying trade.
+- In all cases, it turned British capital from a direction where it could maintain more productive labour into one where it can maintain fewer.
+
+By suiting only to one market so much of British industry and commerce, the monopoly rendered them less secure than if they were accommodated to more markets.

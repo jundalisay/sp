@@ -124,21 +124,21 @@ A totally dead universe will have no heat, no change, no evolution.
 
 ## Definitions: Mind, Soul, Spirit, Essence
 
-A mind is a colection of waves that persist together as a node. 
+A **mind** is a collection of metaphysical waves that persist together as a node. 
 
-A living mind is a node that has more subtle waves that allow independent expression. 
+A **living mind** is a node that has more subtle waves that allow independent expression. 
 
-A non-living mind is a node that has more crude waves that prevent independent expression.
+A **non-living mind** is a node that has more crude waves that prevent independent expression.
 
-A soul is a mind that is regarded without its crude parts. This is called atman in Sanskrit.
+A **soul** is a mind that is regarded without its crude parts. This is called *atman* in Sanskrit.
 
-A spirit is a mind in active form with waves of forces and feelings flowing through it. 
+A **spirit** is a mind in active form with waves of forces and feelings flowing through it.
 
 This is why we say a man is "spirited" if he is active, but "full of soul" if he is deep.
 
 'Evil" really comes from the effects or properties of the Negative Force. So evil spirit or evil person is possible, but evil soul or evil atman is not.  
 
-Essence is the core waves that make up the node and are most persistent to it. 
+**Essence** is the core waves that make up the node and are most persistent to it. 
 
 {{< q a="Socrates" c="Phaedo by Plato Simplified, Chapter 2" >}}
 Absolute greatness, health, strength, and the true nature of everything. These cannot be perceived by our bodily organs. The closest we can get to knowing their several natures is through our intellectual vision. This will give us the most exact conception of the  essence of each thing.

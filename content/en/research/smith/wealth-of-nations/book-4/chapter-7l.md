@@ -1,9 +1,9 @@
 ---
+title: "The Advantages Europe Derived From The Discovery of America And The Cape Of Good Hope"
 heading: "Chapter 7l"
-title: "The Effects of Monopoly -- Spain and Portugal"
-weight: 84
+description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
 c: "seagreen"
-description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
+weight: 758
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -12,263 +12,220 @@ icon: "Adam Smith"
 
 
 
-{{< s v="127" >}} The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade. It forced it from supporting British industry towards supporting the industry of the colonies and other countries.
+{{< s v="87" >}} Such were the advantages the American colonies derived from the policy of Europe.
 
+{{< s v="88" >}} What are the advantages Europe derived from the discovery and colonization of America?
 
-{{< s v="128" >}} For example, the goods purchased with the great tobacco surplus of 82,000 hogsheads are not all consumed in Great Britain.
+{{< s v="89" >}} Those advantages are:
+- The general advantages which Europe, as one great country, derived from those great events
+- The particular advantages which each colonizing country derived from its colonies
 
-Part of them such as linen from Germany and Holland are returned to the colonies for their consumption. The British capital which buys the tobacco which is exchanged for linen is withdrawn from supporting British industry. It instead supports the industry of the colonies and the industry of Germany and Holland.
+{{< s v="90" >}} The general advantages which Europe derived are:
+- The increase of its enjoyments
+- The increase of its industry
 
+{{< s v="91" >}} The surplus American produce imported into Europe furnishes Europeans with commodities they could not otherwise have possessed.
 
-{{< s v="129" >}} The monopoly of the colony trade broke that natural balance of British industry.
+These contributes to increase their enjoyments for:
+- convenience and use
+- pleasure
+- ornament
 
-British industry was turned to suit one great market instead of many small markets.
+{{< s v="92" >}} The discovery and colonization of America contributed to increase the industry of the following= 
 
-Her commerce ran principally in one great channel instead of running in many small channels.
+All the countries which trade to it directly, such as:
+- Spain
+- Portugal
+- France
+- England
 
-Her industry and commerce was made less secure.
+All those which trade to it indirectly such as:
+- Austrian Flanders
+- Germany
 
-Her whole political body was made less healthy.
+These send their goods. such as linen, through Spain, Portugal, France, and England.
 
+All such countries have gained a more extensive market for their surplus produce and have been encouraged to increase its quantity. 93 It is not so evident that those great events contributed to encourage the industry of countries which may never have sent their own produce to America, such as= 
+- Hungary
+- Poland
 
-In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts.
-- Her body is liable to many dangerous disorders which affect unproportioned bodies.
-- Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it.
+Some American produce is consumed in Hungary and Poland.
 
-A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.
+There is some demand there for American sugar, chocolate, and tobacco.
 
-The expectation of a rupture with the colonies has struck the British with more terror than the Spanish armada or a French invasion.
+But those commodities must be purchased with Polish or Hungarian produce or with something purchased with Polish or Hungarian produce.
 
-This terror rendered the repeal of the stamp act a popular measure among the merchants, at least.
+Those American commodities are new values and equivalents.
 
-If we were totally excluded from the colony market just for a few years:
-- Most of our merchants foresee an entire stop to their trade
-- Most of our master manufacturers foresee the entire ruin of their business
-- Most of our workmen foresee an end of their employment
+They are introduced into Hungary and Poland to be exchanged the surplus produce of Hungary and Poland.
 
-A rupture with any of our European neighbours will cause some stop or interruption in the employments of some of these orders of people.
+By being carried to America, they create a new and more extensive market for that surplus produce.
 
-It is foreseen,without any such emotion.
+They raise its value and encourage its increase.
 
-If blood circulation is stopped in the smaller vessels, it easily disgorges itself into the greater vessels without creating any dangerous disorder.
+Though none of it may ever be carried to America, it may be carried to other countries which purchase it with surplus American produce.
 
-"but, when it is stopped in any of the greater vessels, convulsions, apoplexy, or death, are the immediate and unavoidable consequences."
+It may find a market by that trade which was originally mobilized by surplus American produce.
 
-Its overgrown manufactures were artificially raised through bounties or the monopoly of the home and colony markets.
 
-If one of those overgrown manufactures is interrupted, it frequently causes:
-- A mutiny and disorder alarming to government
-- An embarrassment to the deliberations of the legislature.
+<sup>94</sup> Those great events may even have increased the enjoyments and increased the industry of countries which never directly traded with America.
 
-How great would be the disorder and confusion caused by a sudden and entire stop in the employment of so many of our principal manufacturers?
+Even such countries may have received more of other commodities from countries of which the surplus produce had been increased by the American trade.
 
+This greater abundance must have increased their enjoyments and increased their industry.
 
-{{< s v="130" >}} A moderate and gradual relaxation of the British exclusive trade to the colonies, until it is rendered free, is the only expedient which can deliver her from this danger in the future.
+More new equivalents must have been presented to them to be exchanged for those surplus produce.
 
-Only this can enable her to withdraw some of her capital from this overgrown employment.
+A more extensive market must have been created for that surplus as to raise its value and encourage its increase.
 
-It can turn her capital towards other employments, though with less profit.
+All of America's surplus produce must have increased the mass of commodities thrown into the great circle of European commerce.
 
-By gradually reducing one industry and increasing the rest, this relaxation can restore her industry to that natural and healthy proportion which perfect liberty necessarily establishes.
+This commerce distributed those commodities among all the nations in it.
 
-Perfect liberty can alone preserve this natural balance.
+A greater share of this greater mass must have fallen to each of those nations.
 
-Opening the colony trade all at once to all nations might create some temporary inconvenience.
+It would have increased their enjoyments and increased their industry.
 
-It might create a great permanent loss to most of those presently engaged in it.
-Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly.
 
-"Such are the unfortunate effects of all the regulations of the mercantile system!"
+<sup>95</sup> The exclusive trade of the mother countries reduces or unnaturally keeps down the enjoyments and industry of:
+- those nations in general
+- the American colonies in particular.
 
-They introduce very dangerous disorders into the political body
-Those disorders are often difficult to remedy without creating greater short term disorders.
+It is a dead weight of one of the great springs which mobilizes a great part of the business of mankind.
 
-We must leave the following to the wisdom of future statesmen and legislators to determine= 
+By rendering the colony produce dearer in all other countries:
+- it lessens its consumption
+- it cramps the industry of the colonies
 
-How the colony trade should be gradually opened
+It cramps the enjoyments and the industry of all other countries.
 
-Which restraints should be taken away first and which one taken away last.
+Those other countries enjoy less when they pay more for what they enjoy.
 
-How the natural system of perfect liberty and justice should be gradually restored.
+They produce less when they get less for what they produce.
 
+By rendering the produce of all other countries dearer in the colonies:
+- It cramps the industry of all other countries
+- It cramps the enjoyments and the industry of the colonies.
 
-{{< s v="131" >}} Great Britain has now been excluded from the trade with the 12 North American provinces for more than a year (from December 1, 1774).
+For the supposed benefit of some countries, it clogs the pleasures and encumbers the industry of other countries and more of the colonies.
 
-Five unforeseen events have very fortunately concurred to hinder Great Britain from feeling this total exclusion from the colony trade:
+It excludes as much as possible all other countries from one market.
 
-The North American colonies prepared themselves for their non-importation agreement.
-- They drained Great Britain completely of all the commodities fit for their market
+It confines as much as possible the colonies to one market.
 
-This year, the extraordinary demand of the Spanish Flota drained Germany and the North of many commodities which competed with British manufactures.
-- Linen was one of such commodities
+The difference is very great between being excluded from a market when all others are open and being confined to a market when all others are shut.
 
-The peace between Russia and Turkey created an extraordinary demand from the Turkey market
-- Turkey was very poorly supplied during its distress while a Russian fleet was cruising in the Archipelago
+The surplus produce of the colonies is the original source of all the increased enjoyments and industry Europe derives from the discovery and colonization of America.
 
-The rising year on year demand of Northern Europe for British manufactures
+The exclusive trade of the mother countries renders this source much less abundant than it otherwise would be.
 
-The late partition and consequential pacification of Poland.
-- It opened the market of that great country
-- This year it added an extraordinary demand for British manufactures.
 
-All these events, except the fourth, were transitory and accidental.
+<sup>96</sup> Each colonizing country derives two advantages from its colonies= 
 
-The continued exclusion from the colony trade may still create some distress.
+Those common advantages which every empire derives from its provinces.
 
-This distress will come gradually.
+Those peculiar advantages from peculiar provinces as the European colonies of America.
 
-It will be felt much less severely than if it came all at once.
+<sup>97</sup> The common advantages which every empire derives from its provinces consist in= 
 
-In the meantime, Great Britain's industry and capital may find new employment and direction to prevent this distress from rising.
+The military force which they furnish to defend it
 
+The revenue which they furnish to support its civil government
 
-{{< s v="132" >}} In all cases, the colony trade monopoly turned British capital from a foreign trade of consumption with a neighbouring country to a more distant country.
+The Roman colonies occasionally furnished both.
 
-In many cases, it turned British capital from a direct foreign trade of consumption into a round-about one.
-In some cases, it turned British capital from a foreign trade of consumption into a carrying trade.
-In all cases, it turned British capital from a direction where it could maintain more productive labour into one where it can maintain fewer.
+The Greek colonies sometimes furnished a military force but seldom any revenue.
 
-By suiting only to one market so much of British industry and commerce, the monopoly rendered them less secure than if they were accommodated to more markets.
+They seldom acknowledged the dominion of the mother city.
 
+They were her allies in war, but very seldom her subjects in peace.
 
-{{< s v="133" >}} "We must carefully distinguish between the effects of the colony trade and those of the monopoly of that trade."
 
-The effects of the colony trade are always beneficial.
+<sup>98</sup> The European colonies of America never furnished any military force for the defence of the mother country.
 
-The effects of the monopoly of the colony trade are always hurtful.
+Their military force never was sufficient for their own defence
 
-The colony trade is so beneficial even if it were subject to a monopoly with its hurtful effects.
+In the different wars of the mother countries, the defence of their colonies has distracted the military force of the mother countries.
 
+In this respect, all European colonies have been a cause of weakness to their mother countries.
 
-<sup>134</sup> The effect of the colony trade in its natural and free state is to open a great, distant market for British industry which may exceed the demand at home, Europe, and the Mediterranean.
 
-In its natural and free state, the colony trade:
-- Encourages Great Britain to continually increase the surplus by continually presenting new equivalents to be exchanged for it.
-  - It does not draw produce from those markets previously sent to them.
-- Increases the quantity of productive labour in Great Britain.
-  - It does not alter the direction of the labour previously employed there.
-- Allows competition from other nations.
+<sup>99</sup> The colonies of Spain and Portugal only contributed revenue towards the defence of the mother country or the support of her civil government.
 
-This competition hinders the profit rate from rising above the common level in the new market or new employment.
+The taxes which levied on the colonies of other European nations, particularly of England, were seldom equal to the expence laid out upon them in peacetime.
 
-- In this way, the new market does not draw produce from the old market.
-- Instead, it would create a new produce for its own supply.
+They were never sufficient to defray the expences which they occasioned in wartime.
 
-<!-- That new produce would be a new capital for carrying on the new employment.
-            The new employment would draw nothing from the old market. -->
+Such colonies were a source of expence and not of revenue to their mother countries.
 
 
-<sup>135</sup> The colony trade monopoly, on the contrary, excludes foreign competition.
+<sup>100</sup> The advantages of such colonies to their mother countries consist in peculiar advantages resulting from the provinces of so very peculiar a nature as the European colonies of America.
 
-It raises the profit rate in the new market and the new employment.
+The exclusive trade is the sole source of all those peculiar advantages.
 
-It draws produce from the old market and capital from the old employment.
 
-The avowed purpose of the monopoly is to increase our share of the colony trade beyond the natural.
+<sup>101</sup> Because of this exclusive trade, all the surplus enumerated commodities of the English colonies can be sent only to England.
 
-If our share were no greater than without the monopoly, there could be no reason for establishing the monopoly.
+Other countries must buy it of her.
+- It must be cheaper in England than in any other country.
+- It must increase the enjoyments of England more than any other country.
+- It must encourage her industry more.
 
-More capital of the country is unnaturally forced into a trade where the returns are slower and more distant.
+For all the surplus English produce exchanged for those enumerated commodities, England must get a better price than what other countries can get for their commodities.
+    
+For example, the manufacturers of England will purchase more sugar and tobacco of her own colonies than the manufactures of other countries.
 
-It renders all the productive labour and national produce less than they otherwise would be.
+This superiority of price to the English manufacturers gives it an encouragement beyond what foreign manufactures can enjoy.
 
-It keeps down the revenue of the inhabitants of that country below what it would naturally rise to.
+The exclusive trade of the colonies reduces, or keeps down below natural, the enjoyments and the industry of the excluded countries.
 
-It reduces their power of accumulation.
+It gives an advantage to the countries included in the exclusive trade.
 
-It hinders, at all times, their capital from maintaining productive labour as it would otherwise maintain.
 
-It hinders their capital from increasing so fast as it would otherwise increase to maintain more productive labour.
 
+### Absolute Vs Relative Advantage
 
-<sup>136</sup> The natural good effects of the colony trade more than counterbalance the bad effects of the monopoly on Great Britain.
+<sup>102</sup> This advantage is relative, not absolute.
 
-The colony trade becomes greatly advantageous even with the monopoly.
+It gives a superiority by depressing the industry and produce of other countries.
+It does not give a superiority to the country by raising its industry and produce as in the case of a free trade.
 
-The new market and new employment opened by the colony trade are wider than the old market and old employment lost by the monopoly.
 
-The new produce and the new capital created by the colony trade maintain more productive labour in Great Britain than what was thrown out of employment by the revulsion of capital from other trades with more frequent returns.
+<sup>103</sup> For example, England enjoys a monopoly of Maryland and Virginia tobacco, which it exports some to France.
 
-If the colony trade is advantageous to Great Britain, it is in spite of the monopoly, not because of the monopoly.
+Those tobacco comes cheaper to England than to France.
 
+If France and other European countries were allowed a free trade to Maryland and Virginia, the tobacco of those colonies might come by this time cheaper than it actually does to England.
 
-<sup>137</sup> It for the manufactured than for the rude produce of Europe that the colony trade opens a new market.
+By this time, tobacco production might be increased so much because of the more extensive market.
 
-Agriculture is the proper business of all new colonies.
+Tobacco profits might be reduced to their natural level with those of corn profits.
 
-The cheapness of land renders agriculture more advantageous than any other business.
+Tobacco profits are still somewhat above corn profits.
 
-They abound in the rude produce of land.
+By this time, tobacco prices might fall lower than at present.
 
-They generally have a large surplus to export.
+An equal quantity of the commodities of England or of those other countries might have purchased more tobacco in Maryland and Virginia than at present.
 
-In new colonies, agriculture:
-- Draws hands from all other employments or
-- Keeps them from going to any other employment
+They might have been sold there for a much better price.
 
-There are few hands to spare for the necessary manufactures and none for the ornamental ones.
+By its cheapness and abundance, tobacco can increase the enjoyments and increase the industry of England or any other country.
 
-They find it cheaper to purchase of manufactures of other countries than to make it themselves.
+A free trade would probably further increase those enjoyments and industry than it is at present.
 
-The colony trade indirectly encourages its agriculture by encouraging European manufactures.
+In this case, England would not have any advantage over other countries.
 
-The colony trade gives employment to European manufactures, which become a new and most advantageous market for rude produce.
+She might have bought the tobacco of her colonies cheaper and sold some of her own commodities dearer.
 
-The trade to America greatly extends the home market for corn, cattle, bread and meat of Europe.
+But she would do this the same as any other country.
 
+She might gain an absolute advantage.
 
-<sup>138</sup> The monopoly of the trade of populous and thriving colonies is not alone sufficient to establish or maintain manufactures in any country.
+But she would certainly lose a relative advantage.
 
-This is demonstrated by Spain and Portugal.
 
-"Spain and Portugal were manufacturing countries before they had any considerable colonies."
-
-They were once the richest and most fertile in the world but not anymore.
-
-
-<sup>139</sup> The bad effects of the monopoly in Spain and Portugal were aggravated by other causes.
-
-These causes perhaps overbalanced the natural good effects of the colony trade:
-- Other monopolies
-- The degradation of gold and silver value below its value in most other countries
-- The exclusion from foreign markets by improper taxes upon exportation
-- The narrowing of the home market by more improper taxes on the transportation of goods
-- Above all, that irregular and partial administration of justice which protects the rich and powerful debtor from his injured creditor.
-        
-That unjust system makes the industrious:
-- afraid to prepare goods for those haughty and great men.
-- accept selling on credit despite uncertain repayment.
-
-
-<sup>140</sup> In England, on the contrary, the natural good effects of the colony trade are assisted by other causes which conquered the bad effects of the monopoly.
-
-These causes seem to be: 
-- The general liberty of trade which is at least equal or perhaps superior to any other country.
-- The liberty of exporting, duty free, almost all sorts of domestic goods to almost any foreign country.
-- More importantly, the unbounded liberty of transporting them from our own country to any other without:
-  - Being obliged to give any account to any public office
-  - Being liable to question or examination of any kind
-
-Above all, that equal and impartial administration of justice which renders the meanest British subject respectable to the greatest.
-
-This justice secures to every man the fruits of his own industry
-
-It gives the greatest and most effectual encouragement to every sort of industry.
-
-
-<sup>141</sup> If British manufactures were advanced by the colony trade, it was not by its monopoly but in spite of its monopoly.
-
-The monopoly altered the quality and shape of some of British manufactures.
-
-It accommodated to a market where the returns are slow and distant, instead of a market where the returns are frequent and near.
-
-It turned a part of British capital from an employment where it would have maintained more manufacturing industry to one where it maintains a much smaller.
-
-It diminished the whole quantity of manufacturing industry maintained in Great Britain.
-
-
-{{< s v="142" >}} The colony trade monopoly is like all the other mean and malignant expedients of the mercantile system.
-
-It depresses the industry of all other countries and chiefly that of the colonies.
-
-It reduces the industry of the country for which is it is established.
+<sup>104</sup> England probably:
+- sacrificed her absolute advantage in the colony trade
+- subjected herself to an absolute and relative disadvantage in every trade in order to= 
+- obtain this relative advantage in the colony trade
+- exclude other nations from any share in it

@@ -1,6 +1,7 @@
 ---
+heading: Intro 2
 title: "The Divisions of Logic"
-weight: 6
+weight: 16
 description: "People say that logic has 2 main parts -- The theory of elements and Methodology"
 c: "steelblue"
 author: Hegel

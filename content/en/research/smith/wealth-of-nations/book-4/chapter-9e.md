@@ -1,7 +1,7 @@
 ---
 title: "Greek and Roman Policy"
 heading: "Chapter 9e"
-weight: 114
+weight: 914
 c: "seagreen"
 description: "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
 icon: "Adam Smith"

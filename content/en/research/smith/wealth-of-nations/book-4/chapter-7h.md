@@ -1,9 +1,9 @@
 ---
-title: "Economic Democracy"
-heading: "Chapter 7e"
-description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
+title: "The Enumerated Commodities"
+heading: "Chapter 7h"
+description: "The 2 kinds of enumerated commodities are: American produce that cannot be produced, and those that can be produced in Britain and overseas"
 c: "seagreen"
-weight: 76
+weight: 725
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -12,86 +12,142 @@ icon: "Adam Smith"
 
 
 
-{{< s v="72" >}} British policy on the colony trade was more liberal and less oppressive, even if it were dictated by the same mercantile spirit as that of other nations.
+{{< s v="47" >}} Only enumerated commodities from the British colonies are confined to the market of Great Britain.
+
+These commodities are called such because they were enumerated in the act of navigation and other subsequent acts.
+- The rest are called non-enumerated.
+
+Non-enumerated commodities may be exported directly if:
+- they are on British or Plantation ships, and
+- their owners and 3/4 of the mariners are British.
+
+{{< s v="48" >}} Some of the most important products of America and the West Indies are non-enumerated commodities:
+- Grains
+- Lumber
+- Salt provisions
+- Fish
+- Sugar
+- Rum
+
+{{< s v="49" >}} "Grain is naturally the first and principal object of the culture of all new colonies."
+
+The law allows grain a very extensive market. This:
+- encourages new colonies to extend this grain agriculture beyond the consumption of a country with a low population.
+- provides an ample subsistence for a continually increasing population.
 
 
-{{< s v="73" >}} Except their foreign trade, English colonists had completely liberty to manage their own affairs their own way.
+{{< s v="50" >}} In a country covered with wood, timber is of little value.
 
-It is equal to the liberty of their fellow-citizens at home.
+The cost of clearing the ground is the main obstacle to improvement.
 
-It is secured in the same way by representatives of the people.
-
-They claim the sole right of imposing taxes to support the colony government.
-
-The authority of this assembly over-awes the executive power.
-
-As long as he obeys the law, the meanest and the most obnoxious colonist has nothing to fear from the resentment of the governor.
-
-The colony assemblies are like the house of commons in England.
-- They are not always an equal representation of the people, but close enough.
-
-The executive power cannot corrupt the colony assemblies because it receives its support from the mother country.
-
-The colony assemblies are more influenced by their constituents.
-- The councils correspond to the house of lords in Great Britain.
-- They are not composed of an hereditary nobility.
-
-In some of the colonies, as in three of the governments of New England, those councils are not appointed by the king.
-
-They are chosen by the representatives of the people.
-
-There is no hereditary nobility in the English colonies.
-
-In all of them, as in all free countries, the descendant of an old colony family is more respected than an upstart of equal merit and fortune.
-
-But he is only more respected.
-
-He has no privileges which can be troublesome to others.
-
-Before the start of the present disturbances, the colony assemblies had legislative and some executive power.
-
-In Connecticut and Rhode Island, they elected the governor.
-
-In the other colonies, they appointed the revenue officers who collected the taxes imposed by those assemblies.
-
-There is more equality among the English colonists than among the people of Britain.
-- Their manners are more republican.
-- Their governments are more republican too, particularly those three provinces of New England.
+The law allows the colonies a very extensive market for their lumber. This:
+- facilitates improvement by raising its price, which would otherwise be very low
+<!-- have little value. -->
+- enables the colonies to profit from something that would otherwise be a mere expence.
 
 
-<sup>74</sup> On the contrary, the absolute governments of Spain, Portugal, and France take place in their colonies.
+{{< s v="51" >}} In a country neither half-peopled nor half-cultivated, cattle naturally multiply beyond the local consumption.
 
-Because of the great distance, the discretionary powers delegated by such governments to their inferior officers are naturally exercised with more than ordinary violence.
+Such cattle are often of little value.
 
-"Under all absolute governments there is more liberty in the capital than in any other part of the country."
+But cattle prices should be proportional to grain prices before most of the country's lands reach an improved state.
 
-The sovereign himself can never have interest or inclination to pervert the justice or to oppress the people.
-- In the capital, his presence over-awes all his inferior officers.
-- In the remoter provinces, those officers can more safely exercise their tyranny because the complaints of the people are less likely to reach the sovereign.
-
-The European colonies in America are more remote than the most distant provinces of the greatest empires of the past.
-
-Since the world began, the government of the English colonies is the only one which could give perfect security to the people of a very distant province.
-
-The administration of the French colonies was always conducted with more gentleness and moderation than the Spanish and Portuguese.
-
-This superiority of conduct is suitable to the French character.
-
-The nature of a nation's government forms the nation's character.
-
-It is suitable to nature of the French government which is more legal and free than those of Spain and Portugal.
-
-Though it is more arbitrary and violent than that of Great Britain.
+{{< n n="At maximum improvement, cattle prices would be the highest due to the shortage of land. In the backward state, cattle are wild and their price is low." >}}
 
 
-<sup>75</sup> The superiority of the English policy chiefly appears in the progress of the North American colonies.
+The high price of cattle is very essential to improvement.
 
-The progress of the French sugar colonies has been equal and superior to the progress of most English sugar colonies.
+The law allows a very extensive market to American cattle. This raises its price and facilitates improvement.
 
-The English sugar colonies enjoy a free government as those in English colonies in North America.
-
-But the French sugar colonies are not discouraged from refining their own sugar.
-
-More importantly, the genius of the French colonial government naturally introduces a better management of their negro slaves.
+The 4th of George III. c. 15 reduces the good effects of this liberty.
+- It puts hides and skins among the enumerated commodities.
+- It reduces the value of American cattle.
 
 
+{{< s v="52" >}} The legislature constantly aimed to increase British shipping and naval power by extending the fisheries of our colonies.
+
+Those fisheries were given all the encouragement, and flourished accordingly.
+
+Before the recent disturbances, the New England fishery was perhaps one of the most important in the world.
+
+In Great Britain, the whale-fishery has an extravagant bounty and is carried on with so little purpose.
+- Many people think (which I do not warrant) that the whole produce does not exceed the value of the bounties paid for it.
+
+In New England, it is carried on without any great bounty.
+
+Fish is one of the principal articles which North Americans trade to Spain, Portugal, and the Mediterranean.
+
+
+{{< s v="53" >}} Sugar was originally an enumerated commodity which could be exported only to Great Britain.
+
+In 1751, on a representation of the sugar-planters, its worldwide exportation was permitted with restrictions.
+- These restrictions, along with high sugar prices in Great Britain, rendered it ineffective.
+
+Great Britain and her colonies are still the sole market for all the sugar produced in the British plantations.
+- The increasing improvement of Jamaica and the ceded islands increased sugar importation very greatly within 20 years.
+
+British sugar consumption increases so fast that the exportation to foreign countries was not much greater than before.
+
+
+{{< s v="54" >}} Rum is a very important article in the trade between the Americans and the coast of Africa which return negro slaves. 
+
+{{< s v="55" >}} If the whole surplus produce of America in grain, salt, and fish, were put into the enumeration and forced into the market of Great Britain, it would have interfered too much with British produce.
+
+It was probably from this jealous interference that those commodities were:
+- kept out of the enumeration, and
+- prohibited from being imported, except rice.
+
+
+{{< s v="56" >}} The non-enumerated commodities could originally be exported internationally.
+
+Lumber and rice were once put into the enumeration but was taken out afterwards. 
+
+They were confined to the European market and to the countries south of Cape Finisterre.
+
+By the 6th of George 3rd, Chapter 52, all non-enumerated commodities were subjected to the like restriction.
+
+The parts of Europe south of Cape Finisterre are not manufacturing countries.
+- We were less jealous of the colony ships carrying home any manufactures from them.
+
+
+{{< s v="57" >}} The enumerated commodities are of 2 sorts:
+
+The peculiar produce of America that cannot be produced or are not produced in Great Britain:
+- Molasses
+- Coffee
+- Cacao-nuts
+- Tobacco
+- Pimento
+- Ginger
+- Whale-fins
+- Raw silk
+- Cotton-wool
+- Beaver and other peltry of America
+- Indigo
+- Fustic and other dyeing woods
+
+The produce of America which may be produced in Great Britain and principally supplied from foreign countries:
+- All naval stores
+- Masts
+- Yards
+- Bowsprits
+- Tar
+- Pitch
+- Turpentine
+- Pig and bar iron
+- Copper ore
+- Hides and skins
+- Pot and pearl ashes
+
+The importation of the first kind of commodities does not discourage the growth nor interfere with the sale of British produce.
+
+By confining those commodities to the home market, our merchants expected:
+- to be able buy them cheaper in the Plantations and sell them with more profit at home,
+- to establish an advantageous carrying trade between the Plantations and foreign countries, and
+- to establish Great Britain as the center or emporium where those commodities would be first imported.
+
+They supposed that the importation of the second kind of commodities might be managed to interfere with imported foreign commodities.
+
+By duties, those commodities from America might be dearer than those from Britain, but cheaper than those from foreign countries.
+
+By confining such commodities to the home market, it proposed to discourage the produce of foreign countries which would create an unfavourable balance of trade to Great Britain.

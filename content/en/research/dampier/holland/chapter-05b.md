@@ -12,34 +12,93 @@ icon: "William Dampier"
 
 
 
-### THE PASSAGE BETWEEN PENTARE AND LAUBANA
+### The Passage Between Pentare And Laubana
 
-We could not that day reach the west end of Pentare, but saw a deep bay to the west of us, where I thought might be a passage through, between Pentare and Laubana. But as yet the lands were shut one within another, that we could not see any passage. Therefore I ordered to sail 7 leagues more westerly, and lie by till next day. In the morning we looked out for an opening but could see none; yet by the distance and bearing of a high round island called Potoro, we were got to the west of the opening, but not far from it. Wherefore I tacked and stood to the east, and the rather, because I had reason to suppose this to be the passage we came through in the Cygnet mentioned in my Voyage round the World; but I was not yet sure of it because we had rainy weather, so that we could not now see the land so well as we did then. We then accidentally saw the opening at our first falling in with the islands; which now was a work of some time and difficul to discover. However before 10 o'clock we saw the opening plain; and I was the more confirmed in my knowledge of this passage by a spit of sand and 2 islands at the north-east part of its entrance. The wind was at south-south-west and we plied to get through before night; for we found a good tide helping us to the south. About 7 or 8 leagues to the west of us we saw a high round peaked mountain, from whose top a smoke seemed to ascend as from a volcano. There were 3 other very high peaked mountains, 2 on the east and one on the west of that which smoked.
+We could not that day reach the west end of Pentare.
 
-In our plying to get through between Pentare and Laubana we had (as I said) a good tide or current setting us to the southward. And it is to be observed that near the shores in these parts we commonly find a tide setting northwardly or southwardly as the land lies; but the northwardly tide sets not above 3 hours in 12, having little strength; and sometimes it only checks the contrary current which runs with great violence, especially in narrow passes such as this between 2 islands. It was 12 at night before we got clear of 2 other small islands that lay on the south side of the passage; and there we had a very violent tide setting us through against a brisk gale of wind. Notwithstanding which I kept the pinnace out, for fear we should be becalmed. For this is the same place through which I passed in the year 1687, mentioned in my Voyage round the World, only then we came out between the western small island and Laubana, and now we came through between the two small islands. We sounded frequently but had no ground. I said there that we came through between Omba and Pentare: for we did not then see the opening between those 2 islands; which made me take the west side of Pentare for the west end of Omba, and Laubana for Pentare. But now we saw the opening between Omba and Pentare; which was so narrow that I would not venture through: besides I had now discovered my mistake, and hoped to meet with the other passage again, as indeed we did, and found it to be bold from side to side, which in the former voyage I did not know.
+We saw a deep bay to the west of us, where I thought might be a passage through, between Pentare and Laubana. 
+
+But as yet the lands were shut one within another, that we could not see any passage. 
+
+So I ordered to sail 7 leagues more westerly, and lie by till next day. 
+
+In the morning we looked out for an opening but could see none; yet by the distance and bearing of a high round island called Potoro, we were got to the west of the opening, but not far from it.
+
+Wherefore I tacked and stood to the east, and the rather, because I had reason to suppose this to be the passage we came through in the Cygnet mentioned in my Voyage round the World.
+
+But I was not yet sure of it because we had rainy weather, so that we could not now see the land so well as we did then. 
+
+We then accidentally saw the opening at our first falling in with the islands; which now was a work of some time and difficul to discover. 
+
+However before 10am we saw the opening plain.
+
+I was the more confirmed in my knowledge of this passage by a spit of sand and 2 islands at the north-east part of its entrance.
+
+The wind was at south-south-west and we plied to get through before night; for we found a good tide helping us to the south. 
+
+About 7 or 8 leagues to the west of us we saw a high round peaked mountain, from whose top a smoke seemed to ascend as from a volcano. There were 3 other very high peaked mountains, 2 on the east and one on the west of that which smoked.
+
+In our plying to get through between Pentare and Laubana we had (as I said) a good tide or current setting us to the southward. 
+
+Near the shores in these parts we commonly find a tide setting northwardly or southwardly as the land lies; but the northwardly tide sets not above 3 hours in 12, having little strength.
+
+Sometimes, it only checks the contrary current which runs with great violence, especially in narrow passes such as this between 2 islands. 
+
+It was 12 at night before we got clear of 2 other small islands that lay on the south side of the passage; and there we had a very violent tide setting us through against a brisk gale of wind. Notwithstanding which I kept the pinnace out, for fear we should be becalmed.
+
+For this is the same place through which I passed in the year 1687, mentioned in my Voyage round the World, only then we came out between the western small island and Laubana, and now we came through between the two small islands. We sounded frequently but had no ground.
+
+I said there that we came through between Omba and Pentare: for we did not then see the opening between those 2 islands; which made me take the west side of Pentare for the west end of Omba, and Laubana for Pentare.
+
+But now we saw the opening between Omba and Pentare; which was so narrow that I would not venture through: besides I had now discovered my mistake, and hoped to meet with the other passage again, as indeed we did, and found it to be bold from side to side, which in the former voyage I did not know.
 
 
-### THE ISLAND TIMOR
+### The Island Timor
 
 After we were through we made the best of our way to Timor, and on May the 18th in the morning we saw it plain, and made the high land over Laphao the Portuguese factory, as also the high peak over our first watering-place, and a small round island about midway between them.
 
-We coasted along the island Timor, intending to touch at Babao, to get a little water and refreshments. I would not go into the bay where we first watered, because of the currents which there whirl about very strangely, especially at spring tides which were now setting in; besides, the south-east winds come down in flaws from the mountains, so that it would have been very dangerous for us.
+We coasted along the island Timor, intending to touch at Babao, to get a little water and refreshments.
 
-BABAO BAY.
+I would not go into the bay where we first watered, because of the currents which there whirl about very strangely, especially at spring tides which were now setting in; besides, the south-east winds come down in flaws from the mountains, so that it would have been very dangerous for us.
+
+
+### Babao Bay
 
 Wherefore we crowded all the sail we could to get to Babao before night, or at least to get sight of the sandy island at the entrance of the bay; but could not. So we plied all night; and the next morning entered the bay.
 
-There being good ground all over this bay we anchored at 2 o'clock in 30 fathom water, soft oazy ground. And the morning after I sent my boat ashore with the seine to fish. At noon she returned and brought enough for all the ship's company. They saw an Indian boat at a round rocky island about a mile from them.
+There being good ground all over this bay we anchored at 2 o'clock in 30 fathom water, soft oazy ground. And the morning after I sent my boat ashore with the seine to fish.
 
-On the 22nd I sent my boat ashore again to fish: at noon she returned with a few fish, which served me and my officers. They caught one whiting, the first I had seen in these seas. Our people went over to the rocky island and there found several jars of turtle, and some hanging up a-drying, and some cloths; their boat was about a mile off, striking turtle. Our men left all as they found. In the afternoon a very large shark came under our stern; I never had seen any near so big before. I put a piece of meat on a hook for him but he went astern and returned no more. About midnight, the wind being pretty moderate, I weighed and stood into the bottom of the bay, and ran over nearer the south shore, where I thought to lie and water, and at convenient times get fish for our refreshment. The next morning I sent my pinnace with 2 hogsheads and 10 barrecoes for water; they returned at noon with the casks full of water; very thick and muddy, but sweet and good. We found variation 15 minutes west.
+At noon she returned and brought enough for all the ship's company. They saw an Indian boat at a round rocky island about a mile from them.
 
-THE ISLAND ROTI.
+On the 22nd I sent my boat ashore again to fish: at noon she returned with a few fish, which served me and my officers. They caught one whiting, the first I had seen in these seas.
 
-This afternoon, finding that the breezes were set in here, and that it blew so hard that I could neither fish nor fill water without much difficulty and hazard of the boat; I resolved to be gone, having good quantity of water aboard. Accordingly at half an hour after 2 in the morning we weighed with the wind at east by south, and stood to sea. We coasted along by the island Roti which is high land, spotted with woods and savannahs. The trees appeared small and shrubby, and the savannahs dry and rusty. All the north side has sandy bays by the sea. We saw no houses nor plantations.
+Our people went over to the rocky island and there found several jars of turtle, and some hanging up a-drying, and some cloths.
 
-MORE ISLANDS THAN ARE COMMONLY LAID DOWN IN THE CHARTS. GREAT CURRENTS.
+Their boat was about a mile off, striking turtle. Our men left all as they found. In the afternoon a very large shark came under our stern.
 
-The next day we crowded all the sail we could to get to the west of all the isles before night but could not; for at 6 in the evening we saw land bearing south-west by west. For here are more islands than are laid down in any charts that I have seen. Wherefore I was obliged to make a more westerly course than I intended till I judged we might be clear of the land. And when we were so I could easily perceive by the ship's motion. For till then, being under the lee of the shore, we had smooth water; but now we had a troubled sea which made us dance lustily. This turbulent sea was occasioned in part by the current; which, setting out slanting against the wind, was by it raised into short cockling seas. I did indeed expect a south-west current here but not so very strong as we found it.
+I never had seen any near so big before. I put a piece of meat on a hook for him but he went astern and returned no more. 
+
+About midnight, the wind being pretty moderate, I weighed and stood into the bottom of the bay, and ran over nearer the south shore, where I thought to lie and water, and at convenient times get fish for our refreshment.
+
+The next morning I sent my pinnace with 2 hogsheads and 10 barrecoes for water; they returned at noon with the casks full of water; very thick and muddy, but sweet and good. We found variation 15 minutes west.
+
+
+### The Island Roti
+
+This afternoon, finding that the breezes were set in here, and that it blew so hard that I could neither fish nor fill water without much difficulty and hazard of the boat.
+
+I resolved to be gone, having good quantity of water aboard. Accordingly at half an hour after 2 in the morning we weighed with the wind at east by south, and stood to sea.
+
+We coasted along by the island Roti which is high land, spotted with woods and savannahs. The trees appeared small and shrubby, and the savannahs dry and rusty. All the north side has sandy bays by the sea. We saw no houses nor plantations.
+
+
+### More Islands Than Are Commonly Laid Down In The Charts
+
+The next day we crowded all the sail we could to get to the west of all the isles before night but could not; for at 6 in the evening we saw land bearing south-west by west. 
+
+For here are more islands than are laid down in any charts that I have seen. Wherefore I was obliged to make a more westerly course than I intended till I judged we might be clear of the land. And when we were so I could easily perceive by the ship's motion.
+
+For till then, being under the lee of the shore, we had smooth water; but now we had a troubled sea which made us dance lustily. This turbulent sea was occasioned in part by the current; which, setting out slanting against the wind, was by it raised into short cockling seas. I did indeed expect a south-west current here but not so very strong as we found it.
 
 On the 26th we continued to have a very strong current setting southwardly; but on what point exactly I know not. Our whole distance by log was but 82 miles, and our difference of latitude since yesterday noon by observation 100 miles, which is 18 miles more than the whole distance; and our course, allowing no leeway at all, was south 17 degrees west, which gives but 76 miles difference of latitude, 24 less than we found by observation. I did expect (as has been said) we might meet a great current setting to the south yesterday, because there is a constant current setting out from among those islands we passed through between Timor and the isles to the west of it, and it is probable, in all the other openings between the islands, even from the east end of Java to the end of all that range that runs from thence, both to the east and west of Timor; but, being got so far out to sea as we were, though there may be a very great current, yet it does not seem probable to me that it should be of so great strength as we now found: for both currents and tides lose their force in the open sea where they have room to spread; and it is only in narrow places or near headlands that their force is chiefly felt. Besides, in my opinion, it should here rather set to the west than south; being open to the narrow sea that divides New Holland from the range of islands before mentioned.
 

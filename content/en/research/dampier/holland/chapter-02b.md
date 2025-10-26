@@ -162,14 +162,3 @@ The mountains are chequered with woods and some spots of savannahs: some of the 
 The spots of savannahs among them appear rocky and barren. 
 
 Many of the mountains are rich in gold, copper, or both: the rains wash the gold out of mountains, which the natives pick up in the adjacent brooks, as the Spaniards do in America: how they get the copper I know not.
-
-
-### Its Trees: Cana-Fistula-Tree
-
-The trees that grow naturally here are of divers sorts; many of them wholly unknown to me; but such as I have seen in America or other places, and grow here likewise, are these, namely mangrove, white, red and black; maho, calabash, several sorts of the palm kind: the cotton-trees are not large, but tougher than those in America: here are also locust-trees of 2 or 3 sorts, bearing fruit, but not like those I have formerly seen; these bear a large white blossom, and yield much fruit but, it is not sweet.
-
-Cana-fistula-trees are very common here; the tree is about the bigness of our ordinary apple-trees; their branches not thick, nor full of leaves. These and the before-mentioned blossom in October and November; the blossoms are much like our apple-tree blossoms, and about that bigness: at first they are red; but before they fall off, when spread abroad, they are white; so that these trees in their season appear extraordinarily pleasant, and yield a very fragrant smell. When the fruit is ripe it is round, and about the bigness of a man's thumb; of a dark brown colour, inclining to red, and about 2 foot or 2 foot and a half long. We found many of them under the trees, but they had no pulp in them. The partitions in the middle are much at the same distance with those brought to England, of the same substance, and such small flat seed in them: but whether they be the true cana-fistula or no I cannot tell, because I found no black pulp in them.
-
-The calabashes here are very prickly: the trees grow tall and tapering; whereas in the West Indies they are low and spread much abroad.
-
-Here are also wild tamarind-trees, not as large as the true; though much resembling them both in the bark and leaf.

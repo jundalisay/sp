@@ -1,5 +1,7 @@
 ---
-title: "The Human Biological Structure"
+heading: Part 2b
+title: Tailless Apes
+# "The Human Biological Structure"
 # date: 2021-11-20
 weight: 5
 c: "indigo"
@@ -15,7 +17,7 @@ Bipeds are:
 - humans
 - orangutans
 - chimpanzees
-- gorillas. 
+- gorillas
 
 Monkeys are also bipeds but they cannot stand erect. They are in between bipeds and quadrupeds. 
 
@@ -45,17 +47,26 @@ The fetus now has all the features of a human being.
 
 This is one of the main differences between the biological structure of human beings and that of other bipeds.
 
-If a baby is born prematurely there is a risk that it may die. If the parents live in an isolated rural area and are unable to provide proper medical attention for their baby, it may be wrapped in cotton collected from the shimul tree [silk cotton tree, Bombax ceiba L.] and kept in a wooden cot for 2 months. 
+If a baby is born prematurely there, is a risk that it may die.
+
+If the parents live in an isolated rural area and are unable to provide proper medical attention for their baby, it may be wrapped in cotton collected from the shimul tree [silk cotton tree, Bombax ceiba L.] and kept in a wooden cot for 2 months.
 
 The cotton should be soaked in pure ghee and changed regularly. This simple arrangement will provide a congenial environment for the baby to grow healthy and strong.
 
-Chimpanzees, orang-utans and gorillas are all tailless apes, but their backbones bear larger tail bones inside their bodies than those of human beings. Human beings have only one tail bone inside their bodies, but the tailless apes have more than one, all inside the body, so they cannot stand erect like human beings. 
+Chimpanzees, orangutans and gorillas are all tailless apes.
+- But their backbones bear larger tail bones inside their bodies than those of humans.
+
+Human beings have only one tail bone inside their bodies, but the tailless apes have more than one, all inside the body, so they cannot stand erect like human beings. 
 
 They have to bend a bit, so their posterior portion is bigger than that of humans. 
 
-The cranium – a container made of bones for the brain – of tailless apes is a bit smaller than that of humans. This is why tailless apes have fewer nerve cells in the brain.
+The cranium is a container made of bones for the brain.
+- That of tailless apes is smaller than that of humans.
+- This is why tailless apes have fewer nerve cells in the brain.
 
-In the case of humans, the fetus' growth rate is faster in the second 4 months of pregnancy. But in the same period, the tail grows at a comparatively slower rate.
+In the case of humans, the fetus' growth rate is faster in the second 4 months of pregnancy. 
+
+But in the same period, the tail grows at a comparatively slower rate.
 
 In the case of tailless apes, the tail bone continues to grow at the same rate as the fetus. 
 
@@ -63,7 +74,9 @@ After birth, tailless apes have to bend forward to keep balance.
 
 Animals with tails have to bend still further forward due to the weight of the tail, so they cannot stand for a long time.
 
-Tailless apes, because of the absence of tails, are guided by biped psychology. Animals with tails are also guided by biped psychology, but their brains are smaller. Due to the larger tail, the cranium grows smaller thus the brain grows smaller, and so their psychology will not be the same as that of tailless bipeds.
+Tailless apes, because of the absence of tails, are guided by biped psychology. Animals with tails are also guided by biped psychology, but their brains are smaller. 
+
+Due to the larger tail, the cranium grows smaller thus the brain grows smaller, and so their psychology will not be the same as that of tailless bipeds.
 
 Tailless apes can be taught sádhaná after some effort. 
 
@@ -120,7 +133,9 @@ Can humans jump as much as monkeys even after strenuous effort?
 
 Humans cannot even run like them. All this is due to the lymphatic glands. 
 
-When the lymphatic glands in the armpits and leg joints are activated, hairs start to grow in those parts of the human body. If you find an absence of hair, it indicates that the lymphatic glands are underdeveloped, and that the individual will have less jumping capacity.
+When the lymphatic glands in the armpits and leg joints are activated, hairs start to grow in those parts of the human body. 
+
+If you find an absence of hair, it indicates that the lymphatic glands are underdeveloped, and that the individual will have less jumping capacity.
 
 Suppose a youth begins to run like a monkey using his hands and legs. He continues to run, now imagining he has a tail. Running becomes easier for him.
 

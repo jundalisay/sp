@@ -3,7 +3,7 @@ title: "The English Colonies"
 heading: "Chapter 7e"
 description: "The English colonies are not superior in land to some French colonies before the recent war"
 c: "seagreen"
-weight: 70
+weight: 709
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

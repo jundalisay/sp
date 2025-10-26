@@ -1,7 +1,7 @@
 ---
 title: "The Physiocrats"
-heading: "Chapter 7d"
-weight: 106
+heading: "Chapter 9"
+weight: 900
 c: "seagreen"
 description: "No nation has ever adopted the system which represents the produce of land as the sole source of the country's revenue and wealth"
 icon: "Adam Smith"

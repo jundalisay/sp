@@ -1,4 +1,5 @@
 ---
+heading: Part 3
 title: "Glands and Sub-Glands"
 weight: 6
 c: "indigo"

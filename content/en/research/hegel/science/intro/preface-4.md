@@ -1,6 +1,6 @@
 ---
-title: "Preface to the Second Edition Part 4"
-weight: 18
+title: "Preface to Edition 2 Part 3"
+weight: 12
 description: "Science of Logic"
 c: "steelblue"
 ---

@@ -1,7 +1,7 @@
 ---
 heading: "Part 4"
 title: "Socio-Economic Theories and Communism"
-weight: 10
+weight: 14
 c: "indigo"
 description: "Communism must go immediately or be removed without any delay"
 icon: "PR Sarkar"
@@ -71,3 +71,4 @@ Jay Rám ki Rám japu tulsi taju ku samáj.
 This is for every one of you – the younger ones as well as the older ones. Go on working in such a way that you give your proper worth to society, and you bring about the actual evolution of humanity. Be a devotee of humanity as well as a devotee of Parama Puruśa. Let victory be with you.
 
 20 July 1990, Calcutta
+

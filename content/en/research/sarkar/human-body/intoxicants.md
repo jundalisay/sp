@@ -1,4 +1,5 @@
 ---
+heading: Part 6
 title: "Intoxicants"
 weight: 200
 c: "indigo"

@@ -67,15 +67,15 @@ Galaxies and typhoons are inbound vortices in the physical domain. The common vo
 
 There are 7 chakras listed by the Hindus, and 3 by the Taoists.
 
-Number | Name | Chinese 
---- | --- | ---
-1 | Base |  
-2 | Sex |  
-3 | Navel | Lower dantian 下丹田  
-4 | Heart | Middle dantian 中丹田
-5 | Throat | 
-6 | Third Eye | Upper dantian 上丹田
-7 | Crown | 
+Number | Name | Chinese | Layer 
+--- | --- | --- | ---
+1 | Base |  | Earth
+2 | Sex |  | Water
+3 | Navel | Lower dantian 下丹田  | Fire
+4 | Heart | Middle dantian 中丹田 | Air
+5 | Throat | | Aether
+6 | Third Eye | Upper dantian 上丹田 | Astral
+7 | Crown | | Essential
 
 
 Each chakra lets a specific range of propensities flow through from potentiality to actuality. The mixing and variation of these propensities lead to the different feelings of humans.

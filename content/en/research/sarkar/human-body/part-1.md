@@ -1,4 +1,5 @@
 ---
+heading: Part 1
 title: "The Human Body Is a Biological Machine"
 # date: 2021-11-20
 weight: 2
@@ -8,23 +9,31 @@ icon: "PR Sarkar"
 ---
 
 
-Human existence or any other biological existence is goaded by the propensive propulsion of the psyche. Let me explain why the human body is a biological machine and goaded by propensities.
+Human existence or any other biological existence is goaded by the propensive propulsion of the psyche.
 
-The physical body is not yours. It belongs to another Entity who has placed the mind in this body, so now you think, “It is my body.” The mind has been authorized to use this body, so the mind is thinking, “It is my body.” The átman [unit consciousness] is watching, witnessing what the mind is thinking. If the átman stops watching, the mind will stop working. So what is the science by which the biological machine is being goaded?
+The human body is a biological machine goaded by propensities.
+
+The physical body is not yours. It belongs to another Entity who has placed the mind in this body, so now you think, “It is my body.” 
+
+The mind has been authorized to use this body, so the mind is thinking, “It is my body.” 
+
+The atman [unit consciousness, higher mind] is watching, witnessing what the mind is thinking. 
+
+If the atman stops watching, the mind will stop working. So what is the science by which the biological machine is being goaded?
 
 There are 10 indriyas [organs]:
-- 5 jiṋánendriyas [sensory organs]
+- 5 jinanendriyas [sensory organs]
 - 5 karmendriyas [motor organs]
-- 1 antahkarańa [internal faculty]. 
+- 1 antahkarańa [internal faculty]
 
 The sensory and motor organs are bahihkarańa [external organs].
 
 
 ## The Antahkarańa
 
-Antahkarańa is:
+Antahkarana is:
 - directly associated with the body
-- one intrinsic portion of the mind itself.
+- one intrinsic portion of the mind itself
 
 It is through this that the mind feels the emptiness of the stomach, and thereby hunger. 
 
@@ -37,11 +46,11 @@ So there are 2 portions:
 
 One consists of an intrinsic portion of the mind itself, and the other of the 10 organs: 
 - 5 sensory organs
-- 5 motor organs.
+- 5 motor organs
 
 <!-- The propensive propulsion comes from  -->
 
-The antahkarańa therefore<!--  The origin or --> is:
+The antahkarana therefore is:
 - the source of the propulsion
 - is made of the conscious and subconscious portions of the mind.
   - Thinking, memory, etc., all belong to antahkarańa. 
@@ -73,7 +82,7 @@ There are four corners:
 
 These are collectively called anudisha. So `4 + 6 = 10`
 
-The mind is blind. 
+The [lower] mind is blind. 
 
 With the help of the viveka [conscience] it is able to see and visualize. 
 
@@ -124,5 +133,3 @@ Kurukśetra is the world of action, the external world which is asking you to w
 Work is the order. Kuru means “work”. [And kśetra means “field”.] 
 
 Dharmakśetra is the internal psychic world. Here the Pandavas dominate.
-
-

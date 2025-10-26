@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 9b"
 title: "The Unproductive Class"
-weight: 108
+weight: 908
 c: "seagreen"
 description: "To the Physiocrats, the unproductive class is composed of merchants, artificers, and manufacturers"
 writer:

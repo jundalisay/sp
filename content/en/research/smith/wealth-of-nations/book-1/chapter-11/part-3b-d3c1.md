@@ -41,22 +41,35 @@ But I think those countries are the only commercial countries which export their
 {{< s v="212" >}} In the rude beginnings of improvement, the market for wool and raw hides is very seldomly confined to the country which produces them.
 
 They can easily be transported to distant countries.
+
 Wool does not need any preparation.
+
 Raw hides require very little preparation.
+
 They are the raw materials of many manufactures.
+
 The industry of other countries may demand them even if their country of origin does not have any demand.
 
 
 {{< s v="213" >}} Wool and hide prices are always higher relative to the value of the whole animal in ill-cultivated and thinly inhabited countries, than in advanced countries where there is more demand for meat.
 
 David Hume observes that in the Saxon times, the fleece was 40% of the value of the whole sheep.
+
 40% was much above its current valuation.
+
 In Spanish provinces, sheep are frequently killed for their fleece and tallow.
+
 The carcass is often left to rot.
+
+
 This happens in Chile, Buenos Aires, and in many parts of Spanish America.
+
 Horned cattle there are killed for their hide and tallow.
+
 This used to happen in Hispaniola while it was infested by the Buccaneers.
+
 This happened before the settlement, improvement, and populousness of the French plantations.
+
 The French plantations now extend to the western half of that island.
 
 These gave some value to Spanish cattle. The Spanish still possess the eastern part.
@@ -64,11 +77,17 @@ These gave some value to Spanish cattle. The Spanish still possess the eastern p
 {{< s v="214" >}} In the progress of improvement, the carcass' price is likely to be more affected by the rising price of the whole animal, than by the rise of the price of wool and hide.
 
 In the rude state of society, the market for the carcass is always confined to where it is produced.
+
 In the improved state, this market extends in proportion to its improvement.
+
 But the market for the wool and hides can very seldom be enlarged in the same proportion.
+
 The whole commercial world can seldom be affected by the improvement of any particular country.
+
 The market for such commodities may remain the same after such improvements.
+
 But on the whole, it would naturally still extend in proportion to those improvements.
+
 If the manufactures, especially those of raw materials, should flourish, the market would be brought much closer to the place of growth, though the market might not be much enlarged.
 - The price of those raw materials might be increased by their transportation cost.
 - The price should naturally rise, but not in the same proportion as that of meat.
@@ -78,7 +97,7 @@ If the manufactures, especially those of raw materials, should flourish, the mar
 {{< s v="215" >}} The price of English wool in England has fallen very much since the time of Edward III, despite its flourishing woollen manufacture.
 
 Around 1339, during Edward the 3rd's reign, the moderate price of the tod or 28 pound-weight of English wool was not less than 10 shillings [120 pence] containing 6 ounces of silver Tower-weight (at 20-pence the ounce)
-This is equal to 360 pence today.
+- This is equal to 360 pence today.
 
 Currently, 252 pence the tod is a good price for very good English wool.
 The money-price of wool in Edward the 3rd's time compared to its current money-price is 10= 7. [360= 252]
@@ -87,19 +106,25 @@ Its real price was still higher then.
 - At 336 pence the quarter, 252 pence is currently the price of 6 bushels only. [336/8 = 42, 252/42 = 6]
 
 The ratio between the real prices of ancient and modern times, is 12= 6 or 2= 1.
+
 In those times, a tod of wool would have bought twice the amount of food it will buy today.
 
 
 {{< s v="216" >}} This degradation in the real and nominal value of wool is unnatural.
 
-It is the effect of violence and artifice= 
-The absolute prohibition of exporting wool from England
-The permission of importing it from Spain duty free
-The prohibition of exporting it from Ireland to any other country but England.
+It is the effect of violence and artifice:
+- The absolute prohibition of exporting wool from England
+- The permission of importing it from Spain duty free
+- The prohibition of exporting it from Ireland to any other country but England.
+
 Because of these regulations, the market for English wool is confined to the home market instead of it extending in proportion to the improvement of England.
+
 In the home market, the wool of other countries, including Ireland, competes with it.
+
 The Irish woollen manufactures are fully discouraged.
+
 The Irish can produce little wool.
+
 They are obliged to send a most of it to Great Britain, the only market allowed for them.
 
 
@@ -119,27 +144,47 @@ William Fleetwood gives us their price from an account in 1425=
 In 1425, 144 pence had around the same amount of silver as 288 pence today.
 
 An ox hide, was valued at 48 4/5 pence of our present money.
+
 Its nominal price was much lower than at present.
+
 But at 80 pence the quarter, 144 pence would have bought 14.8 bushels of wheat in those times
+
 At 3 and 6-pence the bushel would cost 616 pence today.
+
 Therefore, an ox hide would have bought as much wheat then as 123 pence would buy today.
+
 Its real value was equal to 123 pence of our present money.
+
 In those ancient times, the cattle were probably not very large because they were half-starved during the winter.
 
 An ox hide which weighs 4 stone of 16 pounds averdupois, is not a bad one today.
+
 It would have been a good one in those ancient times.
+
+
 Half a crown the stone is currently (February 1773) the common price of an ox hide.
+
 A hide weighing 4 stone of 16 pounds of averdupois would cost only 120 pence today.
+
 Though its nominal price is higher now than then, its real price is lower.
+
 The price of cow hides is proportional to the price of ox hides.
+
+
 The price of sheep skins is much above the price of ox hides.
+
 Sheep skins were probably sold with the wool.
+
 The price of calf skins is greatly below it.
 
 In countries where the price of cattle is very low, the calves are killed very young because they are not intended to be reared to keep up the stock.
+
 This was the case in Scotland 20-30 years ago.
+
 Killing them saves the milk, which their price would not pay for.
+
 Their skins, therefore, are good for a little price.
+
 
 {{< s v="218" >}} The price of raw hides is much lower now due to:
 - The removal of the duty on seal skins.
@@ -148,48 +193,76 @@ Allowing the duty-free importation of raw hides from Ireland and the plantations
 At an average, their real price was probably higher this century than in those ancient times.
 
 Raw hides is not so proper for being transported to distant markets as wool.
+
 It suffers more by keeping.
+
 A salted hide is inferior to a fresh one and sells for a lower price.
+
 This must have sunk the price of raw hides produced and exported from a country which does not process them.
+
 It raises the price of raw hides in an improved country which processes them.
+
 It must sink their price in a barbarous countries.
+
 It must therefore have sunk it in ancient times and raised it in modern times.
+
 Our tanners have not been so successful as our clothiers in convincing the nation that the safety of the commonwealth depends on their prosperity.
 
 They have accordingly been much less favoured.
+
 The exportation of raw hides has been prohibited and declared a nuisance.
+
 But their importation was subjected to a duty.
 
 This duty was removed from the raw hides from Ireland and the plantations for five years only.
+
 Yet Ireland was not confined to the market of Great Britain for the sale of its surplus hides, or of those which are not manufactured at home.
+
 Raw hides were put among the enumerated commodities within these few years.
+
 The plantations can send only send their hides to Great Britain.
+
 In this case, Irish commerce was not oppressed to support British manufactures.
 
 
 {{< s v="219" >}} Whatever regulations sink the price of wool or raw hides below natural, must raise meat prices in an improved country.
 
 The price of cattle fed on cultivated land must be sufficient to pay the rent of its landlord and the profit of its farmer.
+
 If it is not, they will stop feeding their cattle.
+
 If this price is not paid for by the wool and the hide, it must be paid by the carcass.
+
 The less there is paid for the one, the more must be paid for the other.
 
 It does not matter to the landlord or farmer how this price is divided among the parts of the animal, as long as it is all paid to them.
+
 In an improved country, such regulations cannot much affect their interests as landlords and farmers.
+
 But such regulations may affect their interests as consumers by the rise in the price of provisions.
+
 In an unimproved country, most lands can only be used to feed cattle which produce wool and hide.
+
 The interest of landlords and farmers as landlords and farmers would be very affected by such regulations
+
 Their interest as consumers will be affected very little.
 
 The fall in the price of the wool and hide would not raise the price of the carcass.
+
 Because most of the lands which can only be used for cattle-feeding would still continue to feed the same number.
+
 The amount of meat would still come to market.
+
 The demand for meat would be no greater than before.
+
 Its price would be the same as before.
 
 The whole price of cattle and the rent and profit of those lands needed to produce it would fall.
+
 The perpetual prohibition of wool exportation commonly was falsely ascribed to Edward 3rd.
+
 It would have been the most destructive regulation back then.
+
 It would have reduced the actual value of most of the lands of the kingdom and retarded very much its improvement by reducing the price of small cattle.
 
 

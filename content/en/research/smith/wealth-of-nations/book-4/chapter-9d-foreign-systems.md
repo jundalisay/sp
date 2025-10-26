@@ -1,7 +1,7 @@
 ---
 title: "Foreign Economic Systems"
 heading: "Chapter 9d"
-weight: 112
+weight: 912
 c: "seagreen"
 description: "The economic policy of China favours agriculture more than all other employments"
 icon: "Adam Smith"

@@ -1,6 +1,7 @@
 ---
+heading: Intro 1
 title: "General Notion of Logic"
-weight: 4
+weight: 14
 description: "The science of logic begins with the subject matter itself, without preliminary reflections"
 c: "steelblue"
 ---

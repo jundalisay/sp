@@ -1,9 +1,9 @@
 ---
-title: "Economic Karma"
-heading: "Chapter 7p"
-description: "Even the regulations which secure to each nation the exclusive trade of its own colonies are frequently more hurtful to the beneficiary countries than to those countries which they are against"
+heading: "Chapter 7q"
+title: "The Effects of Monopoly on the Nation"
+description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade"
 c: "seagreen"
-weight: 92
+weight: 776
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -11,112 +11,110 @@ icon: "Adam Smith"
 ---
 
 
-{{< s v="166" >}} The discovery of America and the Cape of Good Hope are the two greatest and most important events recorded in history.
 
-It is impossible that their great consequences could have been seen.
-No human wisdom can foresee what benefits or misfortunes may result from those great events.
+{{< s v="143" >}} The monopoly hinders the country's capital from:
+- maintaining so great a quantity of productive labour as it would otherwise maintain
+- affording so great a revenue to its industrious people as it would otherwise afford.
 
-They were generally beneficial by:
-- uniting the most distant parts of the world
-- enabling those parts to:
-  - relieve one another's wants
-  - increase one another's enjoyments
-  - encourage one another's industry.
+The wages of labour is one great original source of revenue for them.
+- The monopoly renders wages always less abundant than natural.
 
-To the natives of the East and West Indies, however, all the commercial benefits from those events were lost in the dreadful misfortunes.
+**Capital can be increased only by savings from revenue.**
 
-These misfortunes arose from accident than from the nature of those events themselves.
-
-At the time of those discoveries, Europe was so militarily superior that they were able to commit every injustice with impunity.
-
-Hereafter, those natives may grow stronger or the Europeans may grow weaker.
-
-All the people of the world may arrive at that equality of courage and force.
-
-It can inspire mutual fear which can alone overawe the injustice of independent nations into respecting each other's rights.
-
-This equality of force can only be established by that mutual communication of knowledge and improvements.
-
-This communication is carried on naturally by an extensive commerce from all countries to all countries.
+<!-- The monopoly hinders capital from:
+- affording so great a revenue as it would otherwise afford
+- increasing so fast as it would otherwise increase
+    maintaining more productive labour
+    affording more revenue to the industrious people of that country -->
 
 
-{{< s v="167" >}} In the meantime, those discoveries principally raised the mercantile system to the splendour and glory which it could never have attained.
+{{< s v="144" >}} By raising mercantile profits, the monopoly discourages land improvement.
 
-The mercantile system aims to enrich a great nation:
-- more by trade and manufactures than by the improvement and cultivation of land
-- more by the industry of the towns than by the industry of the countryside.
+The profit of improvement depends on the difference between:
+- what the land actually produces and
+- what it can be made to produce through the application of capital.
 
-Because of those discoveries, the European commercial towns became:
-- the manufacturers for thriving American cultivators
-- the carriers and manufacturers for almost all Asian, African, and American nations.
+If this difference makes capital produce more profit than when it is used in any mercantile employment, then land improvement will draw capital from all mercantile employments.
+- If the profit is less, then mercantile employments will draw capital from land improvement.
 
-Those towns were no longer the manufacturers and carriers just for the Atlantic part of Europe and the Baltic and Mediterranean.
-
-Two new worlds were opened to European industry.
-
-Each world was much greater and more extensive than Atlantic Europe, Baltic, and Mediterranean.
-
-The American market of the new world grew greater every day.
+**Whatever raises the rate of mercantile profit lessens the superiority, or increases the inferiority of the profit of land improvement.**
+- The one case hinders capital from going to improvement.
+- The other case draws capital from it.
 
 
-{{< s v="168" >}} The countries which possess the American colonies, and those which trade directly to the East Indies, enjoy the splendour of this great commerce.
+The rent of land is another great original source of revenue.
 
-Even other countries enjoy a greater share of the real benefit of this great commerce, despite all the restraints which exclude them.
+- By discouraging improvement, the monopoly retards the natural increase of rent.
+- By raising the profit rate, the monopoly keeps up the market interest rate higher than it otherwise would be.
 
-For example, the colonies of Spain and Portugal give more encouragement to the industry of other countries than to the industry of Spain and Portugal.
+But the price of land is in proportion to the rent which it affords.
+- The price of land falls as interest rates rise and rises as interest rate falls.
 
-The consumption of those colonies in linen alone is more than 3 million sterling a year.
-
-This great consumption is almost entirely supplied by France, Flanders, Holland, and Germany.
-
-Spain and Portugal furnish but a small part of it.
-
-The capital which supplies the colonies with this linen is distributed among France, Flanders, Holland, and Germany.
-
-It gives a revenue to the people of those countries.
-
-Only its profits are spent in Spain and Portugal.
-
-Those profits support the profusion of the Cadiz and Lisbon merchants.
+The monopoly hurts the landlord's interest by retarding the natural increase of:
+- his rent
+- the price of his land, relative to its rent
 
 
-## Economic Karma
+{{< s v="145" >}} The monopoly raises the mercantile profit rate and increases the gain of our merchants.
+- But it obstructs the natural increase of capital.
+- It reduces the total revenue derived by the citizens from the profits of stock.
 
-{{< s v="169" >}} Even the regulations which secure to each nation the exclusive trade of its own colonies are frequently more hurtful to the beneficiary countries than to those countries which they are against.
+A small profit on a great capital generally affords a greater revenue than a great profit on a small one.
 
-The oppression of the industry of other countries falls back on the heads of the oppressors.
-It crushes their industry more than it crushes the industry of those other countries.
-
-For example, because of those regulations, the Hamburgh merchant must send the German linen for America to London.
-
-He must bring back from London the American tobacco for Germany.
-He cannot send the German linen directly to America nor bring back the tobacco directly from America.
-
-By this restraint, he is probably obliged to sell German linen cheaper and to buy American tobacco dearer.
-
-His profits are probably abridged by this restraint.
-
-However, he receives the returns of his capital more quickly through the trade between Hamburgh and London than with a direct trade to America, even if American payments were as punctual as London payments.
-
-Those regulations which confine the Hamburgh merchant causes his capital to employ more German industry than if it were employed directly in the American trade.
-
-Though his confined trade may be less profitable to him than a direct trade, it cannot be less advantageous to his country.
-
-It is otherwise with the capital of the London merchant.
-
-The direct American trade may be more profitable to him, but it cannot be more advantageous to his country due to the slowness of the returns.
+The monopoly raises the profit rate but hinders the total profit from rising so high as it otherwise would do.
 
 
-<sup>170</sup> After all the unjust attempts of every European country to engross to itself the trade of its own colonies, they only thing they engrossed was the cost of their oppressive authority.
+{{< s v="146" >}} The original sources of revenue are wages, rent, and profits.
 
-Every colonizing country has completely engrossed to itself the inconvenience of possessing its colonies.
-It shared with many other countries the advantages from their colony trade.
+The monopoly renders them all much less abundant than they otherwise would be.
+
+"To promote the little interest of one little order of men in one country, it hurts the interest of all other orders of men in that country, and of all men in all other countries."
 
 
-<sup>171</sup> At first sight, the monopoly of the American commerce naturally seems to the most valuable acquisition.
+{{< s v="147" >}} It is solely by raising the ordinary profit rate that the monopoly has proved advantageous to any order of men.
+- The high rate of profit has one effect inseparable and more fatal than all its bad effects to the country combined.
+- The high rate of profit seems every where to destroy that parsimony natural to the character of the merchant.
 
-To the undiscerning eye of giddy ambition, it naturally presents itself as a very dazzling object to fight for, politically and militarily.
+When profits are high, parsimony seems unsuitable to the affluence of his situation.
 
-The dazzling splendour of the object in the greatness of the commerce, is the very quality which renders its monopoly hurtful.
+But the owners of the great mercantile capitals are the leaders and conductors of the industry of every nation.
 
-Its makes a less-advantageous employment absorb more of the country's capital than natural.
+Their example has more influence on the manners of its industrious people than any other order of men.
+
+If his employer is attentive and parsimonious, the workman is very likely to be so too
+
+But if the master is dissolute and disorderly, the servant will follow his master's example.
+
+Accumulation is thus prevented among the masters of industrious people.
+
+The funds for maintaining productive labour receive no increase from the revenue of the masters who should naturally increase them the most.
+
+The capital of the country gradually dwindles away.
+
+The quantity of productive labour maintained in it grows less every day.
+
+Have the exorbitant profits of the merchants of Cadiz and Lisbon increased the capital of Spain and Portugal?
+
+"Have they alleviated the poverty, have they promoted the industry of those two beggarly countries?"
+
+Those exorbitant profits seem insufficient to keep up the capitals on which they were made.
+
+Every day, foreign capitals are intruding more and more into the trade of Cadiz and Lisbon.
+
+The Spaniards and Portuguese endeavour every day to strengthen their absurd monopoly to expel those foreign capitals from a trade which their own capitals grows less capable of carrying on.
+
+The conduct and character of merchants of Cadiz and Lisbon merchants are very different from those of Amsterdam.
+
+The high and low profits of stock affect them differently.
+
+London merchants have not yet become such magnificent lords as those of Cadiz and Lisbon.
+
+They neither are as attentive and parsimonious burghers as those of Amsterdam.
+They are supposed to be richer than the merchants of Cadiz and Lisbon but not so rich as those of Amsterdam.
+Their profit rate is much lower than that of Cadiz and Lisbon and much higher than that of Amsterdam.
+
+Light come, light go, says the proverb.
+
+The ordinary tone of expence seems to be regulated everywhere by the facility of getting money to spend, not so much by the real ability of spending.
+
+{{< s v="148" >}} The single advantage the monopoly brings to a single order of men is in many ways hurtful to the country's interest.

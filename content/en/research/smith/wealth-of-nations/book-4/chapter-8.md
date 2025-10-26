@@ -2,7 +2,7 @@
 heading: "Chapter 8"
 title: "Conclusion on Mercantilism"
 linkTitle: "Chapter 8"
-weight: 98
+weight: 800
 c: "seagreen"
 description: "The mercantile system proposes to enrich every country through two great engines"
 writer:

@@ -11,7 +11,6 @@ icon: "William Dampier"
 ---
 
 
-## Sherborough River On The Coast Of Guinea
 
 Our entrance among these islands was from the north-east; for in our passage from Virginia we ran pretty fair toward the coast of Gualata in Africa to preserve the trade-wind, lest we should be borne off too much to the westward and so lose the islands. 
 
@@ -26,7 +25,7 @@ Therefore, we altered our resolutions and steered away for the coast of Guinea, 
 We had one of our men who was well acquainted there; and by his direction we went in among the shoals, and came to an anchor.
 
 
-## Its Commodities and Negroes
+### Its Commodities and Negroes
 
 Sherborough was a good way from us so I can give no account of the place, or our factory there except that I was told that there is a considerable trade driven there for a sort of red wood for dyeing.
 
@@ -38,10 +37,25 @@ It was screened from our sight by a large grove of trees that grew between them 
 
 They were no way shy of us, being well acquainted with the English, by reason of our Guinea factories and trade.
 
-This town seemed pretty large; the houses are but low and ordinary: but one great house in the midst of it where their chief men meet and receive strangers: and here they treated us with palm-wine. As to their persons, they are like other Negroes. While we lay here we scrubbed the bottom of our ship and then filled all our water-casks; and, buying up 2 puncheons of rice for our voyage, we departed from hence about the middle of November 1683, prosecuting our intended course towards the Straits of Magellan.
+This town seemed pretty large; the houses are but low and ordinary: but one great house in the midst of it where their chief men meet and receive strangers: and here they treated us with palm-wine. 
+
+As to their persons, they are like other Negroes. While we lay here we scrubbed the bottom of our ship and then filled all our water-casks; and, buying up 2 puncheons of rice for our voyage, we departed from hence about the middle of November 1683, prosecuting our intended course towards the Straits of Magellan.
 
 
-## TORNADOES, SHARKS, FLYING-FISH.
+### Tornadoes, Sharks, Flying-Fish
 
-We had but little wind after we got out, and very hot weather with some fierce tornadoes, commonly rising out of the north-east which brought thunder, lightning, and rain. These did not last long; sometimes not a quarter of an hour, and then the wind would shuffle about to the southward again, and fall flat calm; for these tornadoes commonly come against the wind that is then blowing, as our thunder-clouds are often observed to do in England; but the tornadoes I shall describe more largely in my Chapter of Winds, in the Appendix to this book. At this time many of our men were taken with fevers yet we lost but one. While we lay in the calms we caught several great sharks; sometimes two or three in a day, and ate them all, boiling and squeezing them dry, and then stewing them with vinegar, pepper, etc., for we had but little flesh aboard. We took the benefit of every tornado, which came sometimes three or four in a day, and carried what sail we could to get to the southward, for we had but little wind when they were over; and those small winds between the tornadoes were much against us, at south by east and south-south-east till we passed the Equinoctial Line, which we crossed about a degree to the eastward of the meridian of the isle of St. Jago, one of the Cape Verde Islands.
+We had but little wind after we got out, and very hot weather with some fierce tornadoes, commonly rising out of the north-east which brought thunder, lightning, and rain.
 
+These lasted only 15 minutes and then the wind would shuffle about to the southward again, and fall flat calm.
+
+These tornadoes commonly come against the wind that is then blowing, as our thunder-clouds are often observed to do in England.
+
+But the tornadoes I shall describe more largely in my Chapter of Winds, in the Appendix to this book. 
+
+At this time many of our men were taken with fevers yet we lost but one. While we lay in the calms we caught several great sharks.
+
+Sometimes two or three in a day, and ate them all, boiling and squeezing them dry, and then stewing them with vinegar, pepper, etc., for we had but little flesh aboard. 
+
+We took the benefit of every tornado, which came sometimes three or four in a day, and carried what sail we could to get to the southward, for we had but little wind when they were over.
+
+Those small winds between the tornadoes were much against us, at south by east and south-south-east till we passed the Equinoctial Line, which we crossed about a degree to the eastward of the meridian of the isle of St. Jago, one of the Cape Verde Islands.

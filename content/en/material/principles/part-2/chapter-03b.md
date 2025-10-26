@@ -33,7 +33,7 @@ While spacetime looks outward from the expanse of a single perception, timespace
 This is why timespace is necessary to reveal and analyze the gravitational signature of an identity, which is totally inward or inherent.
 
 
-## The Glue for Spacetime
+## The Glue for Spacetime Slices
 
 In Cartesian Physics, time is made up of independent moments or timespans. It follows that space is also independent as well. This leads to our concept of spacetime slices.
 

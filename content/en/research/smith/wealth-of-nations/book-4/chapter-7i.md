@@ -1,9 +1,9 @@
 ---
-title: "The Advantages Europe Derived From The Discovery of America And The Cape Of Good Hope"
-heading: "Chapter 7f"
-description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
+title: "The Other Enumerated Commodities"
+heading: "Chapter 7i"
+description: "The pig and bar iron were listed as enumerated commodities. But they were exempted from high duties when imported from America."
 c: "seagreen"
-weight: 78
+weight: 740
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -11,221 +11,183 @@ icon: "Adam Smith"
 ---
 
 
+{{< s v="58" >}} Timber prices in the colonies naturally fell because of the export ban on masts, yards, and bowsprits, tar, pitch, and turpentine from the colonies to countries other than Great Britain
 
-{{< s v="87" >}} Such were the advantages the American colonies derived from the policy of Europe.
+It increased the cost of clearing their lands, which is the main obstacle to their improvement.
 
-{{< s v="88" >}} What are the advantages Europe derived from the discovery and colonization of America?
+In 1703, the pitch and tar company of Sweden raised the price of their commodities to Great Britain by prohibiting their exportation, except:
+- in their own ships,
+- at their own price, and
+- in quantities they thought proper.
 
-{{< s v="89" >}} Those advantages are:
-- The general advantages which Europe, as one great country, derived from those great events
-- The particular advantages which each colonizing country derived from its colonies
+To counteract this and to render herself independent of Sweden and all northern powers, Great Britain gave an import bounty on all naval stores from America.
 
-{{< s v="90" >}} The general advantages which Europe derived are:
-- The increase of its enjoyments
-- The increase of its industry
+This bounty raised timber prices in America much more than the confinement to the home market could lower it.
 
-{{< s v="91" >}} The surplus American produce imported into Europe furnishes Europeans with commodities they could not otherwise have possessed.
+Both regulations were enacted at the same time.
 
-These contributes to increase their enjoyments for:
-- convenience and use
-- pleasure
-- ornament
+Their joint effect was to encourage the clearing of land in America.
 
-{{< s v="92" >}} The discovery and colonization of America contributed to increase the industry of the following= 
 
-All the countries which trade to it directly, such as:
-- Spain
-- Portugal
-- France
-- England
+{{< s v="59" >}} The pig and bar iron were listed as enumerated commodities. But they were exempted from high duties when imported from America.
 
-All those which trade to it indirectly such as:
-- Austrian Flanders
-- Germany
+They were subject to high duties when imported from any other country.
 
-These send their goods. such as linen, through Spain, Portugal, France, and England.
+The high duties imposed on the pig and bar iron from other countries encouraged the establishment of furnaces in America.
 
-All such countries have gained a more extensive market for their surplus produce and have been encouraged to increase its quantity. 93 It is not so evident that those great events contributed to encourage the industry of countries which may never have sent their own produce to America, such as= 
-- Hungary
-- Poland
+Furnaces consume the most wood and contributes most to the clearing of wood.
 
-Some American produce is consumed in Hungary and Poland.
 
-There is some demand there for American sugar, chocolate, and tobacco.
+<sup>60</sup> These regulations raised timber value in America.
 
-But those commodities must be purchased with Polish or Hungarian produce or with something purchased with Polish or Hungarian produce.
+They facilitated the clearing of the land though it was perhaps not intended nor understood by the legislature.
 
-Those American commodities are new values and equivalents.
+This beneficial effect was accidental.
 
-They are introduced into Hungary and Poland to be exchanged the surplus produce of Hungary and Poland.
 
-By being carried to America, they create a new and more extensive market for that surplus produce.
+<sup>61</sup> The most perfect freedom of trade is permitted between the British colonies of America and the West Indies in enumerated and non-enumerated commodities.
 
-They raise its value and encourage its increase.
+Those colonies are now so populous and thriving.
 
-Though none of it may ever be carried to America, it may be carried to other countries which purchase it with surplus American produce.
+Each of them finds a great and extensive market for its produce in some of the other colonies.
 
-It may find a market by that trade which was originally mobilized by surplus American produce.
+Taken together, they all make a great internal market for the produce of one another.
 
 
-<sup>94</sup> Those great events may even have increased the enjoyments and increased the industry of countries which never directly traded with America.
+<sup>62</sup> England's liberality with the trade of her colonies, however, was confined to their rude produce.
 
-Even such countries may have received more of other commodities from countries of which the surplus produce had been increased by the American trade.
+The more advanced and refined manufactures of the colonies are reserved by British merchants and manufacturers to themselves.
 
-This greater abundance must have increased their enjoyments and increased their industry.
+They prevented the establishment of those manufactures in the colonies by high duties and absolute prohibitions.
 
-More new equivalents must have been presented to them to be exchanged for those surplus produce.
 
-A more extensive market must have been created for that surplus as to raise its value and encourage its increase.
+<sup>63</sup> The following are the duties paid by sugars from the British plantations= 
 
-All of America's surplus produce must have increased the mass of commodities thrown into the great circle of European commerce.
+Muscovado sugars pay only 76 pence the hundredweight
 
-This commerce distributed those commodities among all the nations in it.
+White sugars pay 253 pence.
 
-A greater share of this greater mass must have fallen to each of those nations.
+Refined double or single sugar in loaves pay 269.4 pence.
 
-It would have increased their enjoyments and increased their industry.
+Great Britain was the sole and still is the principal market for the sugars of the British colonies.
 
+<!-- turning
+Converting sugar loaves into powder -->
 
-<sup>95</sup> The exclusive trade of the mother countries reduces or unnaturally keeps down the enjoyments and industry of:
-- those nations in general
-- the American colonies in particular.
+These duties amounted to a prohibition.
 
-It is a dead weight of one of the great springs which mobilizes a great part of the business of mankind.
+At present, sugar claying or refining takes off perhaps more than 9/10 of the whole produce because of the high duties on refined sugar.
 
-By rendering the colony produce dearer in all other countries:
-- it lessens its consumption
-- it cramps the industry of the colonies
+Sugar refining flourished in all the French sugar colonies.
 
-It cramps the enjoyments and the industry of all other countries.
+It was little cultivated in any England colony except for the market of the colonies themselves.
 
-Those other countries enjoy less when they pay more for what they enjoy.
+While Grenada was with the French, there was a sugar refinery by claying on almost every plantation.
 
-They produce less when they get less for what they produce.
+Since it fell to the English, almost all its refineries were given up
 
-By rendering the produce of all other countries dearer in the colonies:
-- It cramps the industry of all other countries
-- It cramps the enjoyments and the industry of the colonies.
+At present, October 1773, there are not more than two or three remaining in the island.
 
-For the supposed benefit of some countries, it clogs the pleasures and encumbers the industry of other countries and more of the colonies.
+By an indulgence of the custom-house, refined sugar is imported as muscovado, if reduced from loaves into powder.
 
-It excludes as much as possible all other countries from one market.
 
-It confines as much as possible the colonies to one market.
+<sup>64</sup> Great Britain:
+- encourages American pig and bar iron manufactures by exempting them from duties imposed on those from any other country.
+- imposes an absolute ban on the establishment of steel furnaces and slitmills in any American plantation.
+- will not allow her colonists to work in those more refined manufactures even for their own consumption.
+- insists on them buying all these goods from her merchants and manufacturers.
 
-The difference is very great between being excluded from a market when all others are open and being confined to a market when all others are shut.
 
-The surplus produce of the colonies is the original source of all the increased enjoyments and industry Europe derives from the discovery and colonization of America.
+<sup>65</sup> Great Britain bans the exportation of American hats, wools, and woollen goods from one province to another.
 
-The exclusive trade of the mother countries renders this source much less abundant than it otherwise would be.
+This regulation prevents the establishment of any manufacture of such commodities for distant sale.
 
+It confines the industry of her colonists to coarse and household manufactures needed and made by private families for their own use.
 
-<sup>96</sup> Each colonizing country derives two advantages from its colonies= 
 
-Those common advantages which every empire derives from its provinces.
+<sup>66</sup> To prohibit a great people from making all that they can, in the way that they judge most advantageous to themselves, is a manifest violation of the most sacred rights of mankind.
 
-Those peculiar advantages from peculiar provinces as the European colonies of America.
+Unjust as such prohibitions may be, they have not been very hurtful to the colonies.
 
-<sup>97</sup> The common advantages which every empire derives from its provinces consist in= 
+Land is still so cheap and, consequently, labour so dear in America, that they can import from Great Britain almost all the more advanced manufactures cheaper than they could make for themselves.
 
-The military force which they furnish to defend it
+They were not banned from establishing such manufactures.
 
-The revenue which they furnish to support its civil government
+Their regard for their own interest in their present state of improvement probably prevented them from doing so.
 
-The Roman colonies occasionally furnished both.
+In their present state of improvement, those prohibitions perhaps did not cramp their industry nor restrain it from any natural employment.
 
-The Greek colonies sometimes furnished a military force but seldom any revenue.
+Those prohibitions are only impertinent badges of slavery imposed on the colonies by the groundless jealousy of British merchants and manufacturers.
 
-They seldom acknowledged the dominion of the mother city.
+In a more advanced state they might be really oppressive and insupportable.
 
-They were her allies in war, but very seldom her subjects in peace.
 
+<sup>67</sup> Great Britain gives advantage to the produce of her colonies by confining them to her own market, sometimes by= 
 
-<sup>98</sup> The European colonies of America never furnished any military force for the defence of the mother country.
+Imposing higher duties on the similar imports from other countries
 
-Their military force never was sufficient for their own defence
+In this way, she gives an advantage in the home market to the sugar, tobacco, and iron of her own colonies.
 
-In the different wars of the mother countries, the defence of their colonies has distracted the military force of the mother countries.
+Giving bounties on their importation from the colonies.
 
-In this respect, all European colonies have been a cause of weakness to their mother countries.
+In this way, she gives an advantage to their raw silk, hemp and flax, indigo, naval stores, and building-timber.
 
+This second way of encouraging the colony produce by import bounties is peculiar to Great Britain.
 
-<sup>99</sup> The colonies of Spain and Portugal only contributed revenue towards the defence of the mother country or the support of her civil government.
+The first is not.
 
-The taxes which levied on the colonies of other European nations, particularly of England, were seldom equal to the expence laid out upon them in peacetime.
+Portugal bans tobacco importation under the severest penalties.
 
-They were never sufficient to defray the expences which they occasioned in wartime.
 
-Such colonies were a source of expence and not of revenue to their mother countries.
+<sup>68</sup> England was more liberal with her colonies than any other nation in the importation of European goods. 69 Great Britain allows a large portion of import duties to be drawn back on exportation.
 
+No foreign country would receive those commodities if they were loaded with heavy duties.
 
-<sup>100</sup> The advantages of such colonies to their mother countries consist in peculiar advantages resulting from the provinces of so very peculiar a nature as the European colonies of America.
+Unless some of those duties were drawn back on exportation, the carrying trade would end.
 
-The exclusive trade is the sole source of all those peculiar advantages.
+The carrying trade was so much favoured by the mercantile system.
 
+<sup>70</sup> Our colonies are not independent foreign countries.
 
-<sup>101</sup> Because of this exclusive trade, all the surplus enumerated commodities of the English colonies can be sent only to England.
+Great Britain assumed the exclusive right of supplying them with all European goods.
 
-Other countries must buy it of her.
-- It must be cheaper in England than in any other country.
-- It must increase the enjoyments of England more than any other country.
-- It must encourage her industry more.
+She can force them to receive such goods with all the same duties they paid in the mother country.
 
-For all the surplus English produce exchanged for those enumerated commodities, England must get a better price than what other countries can get for their commodities.
-    
-For example, the manufacturers of England will purchase more sugar and tobacco of her own colonies than the manufactures of other countries.
+On the contrary, until 1763, the same drawbacks were paid on most foreign goods exported to our colonies like any foreign country.
 
-This superiority of price to the English manufacturers gives it an encouragement beyond what foreign manufactures can enjoy.
+In 1763, by the 4th of George III. c. 15, this indulgence was abated by enacting:
+- That no part of the duty called the Old Subsidy should be drawn back for any exported European or East Indies goods to any British colony or plantation in America, except wines, white calicoes, muslins.
 
-The exclusive trade of the colonies reduces, or keeps down below natural, the enjoyments and the industry of the excluded countries.
+Before this law, many foreign goods were, and still are, bought cheaper in the plantations than in the mother country.
 
-It gives an advantage to the countries included in the exclusive trade.
 
+<sup>71</sup> The merchants must have been the principal advisers of most of the regulations on the colony trade.
 
+It is no wonder that their interest was more considered in most of the regulations than the interest of the colonies or the mother country.
 
-### Absolute Vs Relative Advantage
+The interest of the colonies was sacrificed to the interest of those merchants through the exclusive privilege of merchants of= 
+- supplying the colonies with all European goods, and
+- buying all the surplus produce of the colonies which could not interfere with their trades at home.
 
-<sup>102</sup> This advantage is relative, not absolute.
+The interest of the mother country was sacrificed to interest of the merchants by:
+- allowing the same drawbacks on the re-exportation of most European and East India goods to the colonies as the re-exportation to foreign countries.
 
-It gives a superiority by depressing the industry and produce of other countries.
-It does not give a superiority to the country by raising its industry and produce as in the case of a free trade.
+It was the interest of the merchants:
+- to pay as little as possible for the foreign goods they sent to the colonies, and
+- to get back as much as possible of the duties they advanced on their importation into Great Britain.
 
+They might be enabled:
+- to sell in the colonies the same quantity of goods with more profit, or
+- to sell more goods with the same profit.
 
-<sup>103</sup> For example, England enjoys a monopoly of Maryland and Virginia tobacco, which it exports some to France.
+They would gain either way.
 
-Those tobacco comes cheaper to England than to France.
+It was the interest of the colonies to get all such goods as cheap and as plenty as possible.
 
-If France and other European countries were allowed a free trade to Maryland and Virginia, the tobacco of those colonies might come by this time cheaper than it actually does to England.
+But this might not always be in the interest of the mother country.
 
-By this time, tobacco production might be increased so much because of the more extensive market.
+She might frequently suffer in her revenue by:
+- giving back the import duties paid on such goods, and
+- being undersold in the colony market in her manufactures by the easy terms foreign manufactures were imported by those drawbacks.
 
-Tobacco profits might be reduced to their natural level with those of corn profits.
-
-Tobacco profits are still somewhat above corn profits.
-
-By this time, tobacco prices might fall lower than at present.
-
-An equal quantity of the commodities of England or of those other countries might have purchased more tobacco in Maryland and Virginia than at present.
-
-They might have been sold there for a much better price.
-
-By its cheapness and abundance, tobacco can increase the enjoyments and increase the industry of England or any other country.
-
-A free trade would probably further increase those enjoyments and industry than it is at present.
-
-In this case, England would not have any advantage over other countries.
-
-She might have bought the tobacco of her colonies cheaper and sold some of her own commodities dearer.
-
-But she would do this the same as any other country.
-
-She might gain an absolute advantage.
-
-But she would certainly lose a relative advantage.
-
-
-<sup>104</sup> England probably:
-- sacrificed her absolute advantage in the colony trade
-- subjected herself to an absolute and relative disadvantage in every trade in order to= 
-- obtain this relative advantage in the colony trade
-- exclude other nations from any share in it
+The progress of British linen manufactures was much retarded by the drawbacks on the re-exportation of German linen to the American colonies.

@@ -26,6 +26,7 @@ Chapter | Topic
 6 | Conservation (Unity), Signature or Spin (Identity) 
 7 | Action (Relationality or Division of Labor, Territory)
 8 | Force or Change or Phenomena (Value Creation)
+
 <!-- 7 | Layer Polarity (Vortex, Pressure) -->
 <!-- 8 | medium1
 9 | medium2

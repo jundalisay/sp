@@ -19,8 +19,9 @@ All changes, motion, and 'forces' in the spatial layer happens through the spati
 Sublayer | Media | Notes
 --- | --- | ---
 Upper | Timespace | Time is dominant
-Middle | Aetherspace | Alternates between time and space (i.e. probabilistic)
+Middle | Macro Aetherspace | Alternates between time and space (i.e. probabilistic)
 Lower | Spacetime | Space is dominant
+
 
 {{< img src="/graphics/physics/spacetimeratio.png" alt="The 3 Media of the Spatial Layer" cap="The Aethereal, Spatial, and Radiant Layers" >}}
 
@@ -38,12 +39,12 @@ The media of the spatial layer create the various forces:
 
 Layer | Media | Manifesting Force
 --- | --- | ---
-Spatial | most + qost | Dark Energy
-Spatial | most + qost2 |  Dark Matter
-Radiant | most + mor | Lensing
-Radiant | most + mor2 | Magnetism 
-Material | most + mom | Gravity
-Material | mos + som | Gluon or Strong Force
+Spatial | mos2 + sos2 | Dark Energy
+Spatial | mos3 + sos2 |  Dark Matter
+Radiant | mos3 + mor1 | Lensing
+Radiant | mos3 + mor3 | Magnetism 
+Material | mos3 + mom3 | Gravity
+Material | som2 | Gluon or Strong Force
 
 
 
@@ -59,7 +60,7 @@ Aetherspace | | This the space inside an atom and other places that are too smal
 
 In one of the Essassani transmissions, Bashar mentions a solar system (or galaxy?) that has reverse gravity, allowing creatures to walk on the sky of their planet.
 
-To explain this, we say that in our galaxy, mosts are arranged with particles facing outwards. This causes material spheres.
+To explain this, we say that in our galaxy, mos3 are arranged with particles facing outwards. This causes material spheres.
 
 However, in other galaxies the mosts might be facing inwards. This would create a reverse gravity wherein creatures would walk on the sky of planets.
 
@@ -82,5 +83,3 @@ The diversity of the universes therefore are due to the difference in the qualit
 Three-dimensional solid geometry should have naturally followed two-dimensional geometry. But three-dimensional solid geometry is in such a ludicrous state. It made me pass over it, and go on to astronomy as the motion of solids.
 
 This distinction between 2-D and 3-D geometry was the focus of Johannes Kepler and Kepler's laws which is the basis of our theory of gravitation which is opposite that of Newton and Einstein.  -->
-
-

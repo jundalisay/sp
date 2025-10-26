@@ -3,7 +3,7 @@ title: "The Causes of Prosperity of new Colonies"
 heading: "Chapter 7c"
 description: "The colony of a civilised nation which acquires a waste country or one thinly inhabited, advances more rapidly to wealth and greatness than any other human society"
 c: "seagreen"
-weight: 66
+weight: 706
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

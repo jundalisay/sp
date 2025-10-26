@@ -1,11 +1,11 @@
 ---
 heading: "Chapter 7c"
-linkTitle: "Dark Energy"
+linkTitle: "Dark Energy: Free Energy"
 title: "Dark Energy: The Expansion of Space-Time"
 # date: 2023-03-10
 weight: 39
 image: /graphics/physics/expansion.jpg
-description: "Everything is expanding, even your own atoms."
+description: "Everything is expanding, even the space of your own atoms."
 icon: "Juan"
 tags: [ "Dark Energy" ]
 writer:
@@ -100,6 +100,7 @@ This is because the aetherspace is 'alive' whereas spacetime is 'dead'.
 {{< q a="George Berkeley" c="De Motus, Section 10" >}}
 The *dead force*, or simple gravitation in a body at rest, produces no observable change and hence no effect. But impact does. Therefore, since forces are proportional to their effects, then dead force is null.
 {{< /q >}}
+
 
 {{< i s="/graphics/physics/sponge.jpg" a="Expansion of the Universe" c="The data from James Webb, DESI, and the Planck satellites jointly prove the dual nature of the 2nd Element or Spatial Layer" >}}
 

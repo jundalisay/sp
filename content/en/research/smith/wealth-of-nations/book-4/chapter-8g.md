@@ -1,7 +1,7 @@
 ---
-heading: "Chapter 8d"
+heading: "Chapter 8g"
 title: "The Consumption Motive"
-weight: 104
+weight: 850
 c: "seagreen"
 description: "The living instrument, the artificer, was also not allowed to go free as proven by the 5th George 1st chapter 27"
 writer:

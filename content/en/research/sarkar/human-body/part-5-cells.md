@@ -2,7 +2,7 @@
 heading: "Part 5"
 title: "Food, Cells, Physical and Mental Development"
 # date: 2021-11-20
-weight: 12
+weight: 19
 c: "indigo"
 description: "The human body is composed of countless cells of 2 kinds"
 icon: "PR Sarkar"
@@ -40,11 +40,9 @@ Cells generally grow out of light, air, water and the food we eat.
 
 The nature of food and drink has its effect on the cells, and consequently also influences the human mind. 
 
-Obviously, each and every sádhaka, or spiritual aspirant, should be very cautious in selecting food.
+Sádhakas should be very cautious in selecting food.
 
-Suppose a person takes támasika, or static, food.
-
-The result will be that after a certain period, static cells will grow and exercise a static influence on the aspirant’s mind. 
+If a person takes tamasic or static food, after a certain period, static cells will grow and exercise a static influence on the aspirant’s mind. 
 
 Human beings must select sáttvika, or sentient, or rájasika, or mutative, food according to time, place and person.
 
@@ -58,24 +56,36 @@ With old persons, the old cells decay and new cells are produced in lesser numbe
 
 Some of the new cells do not get proper nourishment.
 
-In all cases where a patient has been ailing for a long time, experienced physicians advise complete rest for a minimum of 21 days to allow the growth of new, healthy cells so that the ailing person will regain physical and mental energy.
+When a patient has been ailing for a long time, experienced physicians advise complete rest for a minimum of 21 days to allow the growth of new, healthy cells so that the ailing person will regain physical and mental energy.
 
-Cells are living beings, and as a result of transformation through lives together, they have found existence in the human body. Later, through gradual evolution, each cell mind will develop into a human mind.
+Cells are living beings.
 
-The aura or effulgence radiating from the human body is the collective effulgence of all its composite cells. 
+As a result of transformation through lives together, they have found existence in the human body.
+
+Later, through gradual evolution, each cell mind will develop into a human mind.
+
+The aura or effulgence radiating from the human body is the collective effulgence of all its composite cells.
 
 In old age, many cells in the body become weak. This results in the reduction of the effulgence.
 - Even the body of a young man who is suffering from a disease loses its lustre.
 
-In the human face alone there are millions of cells.
+There are millions of cells in the human face alone.
 
-When a person gets angry a large amount of blood rushes into the face, causing it to become red and causing many cells to die. **A violent or cruel person can easily be recognized by his or her face.**
+When a person gets angry, a lot of blood rushes into the face, causing:
+- it to become red, and
+- many cells to die 
+
+**A violent or cruel person can easily be recognized by his or her face.**
 
 As a result of eating sentient food and performing spiritual practices, the cells of the human body become sentient. 
 
-Naturally, an effulgence emanates from these cells creating an aura around the physical body of the spiritual aspirant. This is the reason why many pictures of mahápuruśas [highly-evolved persons] show them with radiant auras.
+Naturally, an effulgence emanates from these cells creating an aura around the physical body of the spiritual aspirant.
 
-If cells are affected by food and water, and if the nature of the cells affects the nature of the human mind, obviously human beings should eat the correct diet, because food and mind are closely related to each other. 
+This is why many pictures of mahápuruśas [highly-evolved persons] show them with radiant auras.
+
+Humans should eat the correct diet because food and mind are closely related to each other. 
+- Cells are affected by food and water.
+- The nature of the cells affects the nature of the human mind
 
 Any food item, whether good or bad, must not be taken indiscriminately because it may lead to mental degeneration. 
 
@@ -103,5 +113,3 @@ For example, the milk of a cow which has just given birth. Or white eggplant, kh
 In order to have a balanced mind and to progress spiritually, human beings will have to pay attention to the qualities of the food they eat. The idea that “I will just do my sádhaná and eat any food, proper or improper” will not do.
 
 14 February 1970, Ranchi
-
-

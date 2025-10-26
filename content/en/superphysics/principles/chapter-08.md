@@ -18,7 +18,7 @@ Therefore, everything is already known and all problems are already solved from 
 - We call this the state of omniscience.
 
 However, this perfected state is also worthless. 
-gen
+
 This is why:
 - the Negative Force keeps on disturbing the perfection
 - the Positive Force keeps on realizing the value of that perfection
@@ -138,7 +138,7 @@ Cognition, Intuition, and Realization are all Flow and Force, with emphasis on F
 - This is Flow and Memory.
 
 
-{{< i s="/graphics/psych/think.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}
+{{< i s="/graphics/psych/antah.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}
 
 
 Genius is a state of mind that has enough subtlety to access the higher mind easily.

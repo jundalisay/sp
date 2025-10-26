@@ -1,7 +1,7 @@
 ---
-heading: "Chapter 8c"
+heading: "Chapter 8f"
 title: "Ban On The Export Of Raw Materials"
-weight: 102
+weight: 844
 c: "seagreen"
 description: "The exportation of raw materials is subjected to high duties, wherever they are not banned"
 writer:
@@ -138,4 +138,3 @@ By the 14th George 3rd chapter 71, the exportation of any utensils used in the c
 - the forfeiture of such utensils,
 - £200 to be paid by the offender,
 - £200 to be paid by the master of the ship which loads such utensils.
-

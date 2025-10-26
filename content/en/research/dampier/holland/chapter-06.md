@@ -6,7 +6,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 c: "darkslategray"
-description: "On April 8, 1684 we sailed from the isle of Juan Fernandez with the wind at south-east"
+description: "We found in Batavia Road a great many ships at anchor, most Dutch, and but one English ship named the Fleet frigate"
 icon: "William Dampier"
 ---
 
@@ -22,7 +22,9 @@ Then my clerk, whom I sent in the boat, went for the shore, as I had directed hi
 
 In the evening my boat came aboard and the next morning I myself went ashore, visited the Dutch general, and desired the privilege of buying such provision and stores as I now wanted; which he granted me.
 
-I lay here till the 17th of October following, all which time we had very fair weather, some tornadoes excepted. In the meantime I supplied the carpenter with such stores as were necessary for refitting the ship; which proved more leaky after he had caulked her than she was before: so that I was obliged to careen her, for which purpose I hired vessels to take in our guns, ballast, provision and stores.
+I lay here till October 17 following, all which time we had very fair weather, some tornadoes excepted. 
+
+In the meantime I supplied the carpenter with such stores as were necessary for refitting the ship; which proved more leaky after he had caulked her than she was before: so that I was obliged to careen her, for which purpose I hired vessels to take in our guns, ballast, provision and stores.
 
 
 
@@ -39,9 +41,19 @@ There came in also several English country vessels; first a sloop from Benjarr, 
 
 While we stayed here all the forenamed English ships sailed hence; the 2 Bengal ships excepted. Many Dutch ships also came in here, and departed again before us. We had several reports concerning our men-of-war in India, and much talk concerning rovers who had committed several spoils upon the coast and in the Straits of Malacca.
 
-I did not hear of any ships sent out to quash them. At my first coming in I was told that 2 ships had been sent from Amboina in quest of me; which was lately confirmed by one of the skippers, whom I by accident met with here. He told me they had 3 protests against me; that they came to Pulo Sabuda on the coast of New Guinea 28 days after my departure thence, and went as far as Schouten's Island and, hearing no further news of me, returned. Something likewise to this purpose Mr. Merry, commander of the Fleet frigate, told me at my first arrival here; and that the general at Batavia had a copy of my commission and instructions; but I looked upon it as a very improbable thing.
+I did not hear of any ships sent out to quash them.
 
-While we lay here the Dutch held several consultations about sending some ships for Europe sooner than ordinary: at last the 16th of October was agreed upon for the day of sailing, which is 2 months sooner than usual. They lay ready 2 or 3 days before, and went out on the 10th. Their names were the Ostresteen, bound to Zealand; the Vanheusen, for Enchiehoust; and the 3 Crowns, for Amsterdam, commanded by skipper Jacob Uncright, who was commodore over all the rest. I had by this time finished my business here, namely fitted the ship, recruited myself with provision, filled all my water; and, the time of the year to be going for Europe being now at hand, I prepared to be gone also.
+At my first coming in I was told that 2 ships had been sent from Amboina in quest of me; which was lately confirmed by one of the skippers, whom I by accident met with here.
+
+He told me they had 3 protests against me; that they came to Pulo Sabuda on the coast of New Guinea 28 days after my departure thence, and went as far as Schouten's Island and, hearing no further news of me, returned. Something likewise to this purpose Mr. Merry, commander of the Fleet frigate, told me at my first arrival here; and that the general at Batavia had a copy of my commission and instructions; but I looked upon it as a very improbable thing.
+
+While we lay here, the Dutch held several consultations about sending some ships for Europe sooner than ordinary.
+
+On October 16, it was agreed upon for the day of sailing, which is 2 months sooner than usual.
+
+They lay ready 2 or 3 days before, and went out on the 10th. Their names were the Ostresteen, bound to Zealand; the Vanheusen, for Enchiehoust; and the 3 Crowns, for Amsterdam, commanded by skipper Jacob Uncright, who was commodore over all the rest. 
+
+I had by this time finished my business here, namely fitted the ship, recruited myself with provision, filled all my water; and, the time of the year to be going for Europe being now at hand, I prepared to be gone also.
 
 
 ### Departure From Batavia
@@ -131,14 +143,34 @@ In the afternoon with the help of a seabreeze I ran into 7 fathom and anchored; 
 
 Where having fastened her I made a raft to carry the men's chests and bedding ashore; and before 8 at night most of them were ashore. In the morning I ordered the sails to be unbent, to make tents; and then myself and officers went ashore. I had sent ashore a puncheon and a 36 gallon cask of water with one bag of rice for our common use: but great part of it was stolen away before I came ashore, and many of my books and papers lost.
 
-THEY FIND WATER ON THE ISLAND.
 
-On the 26th following we, to our great comfort, found a spring of fresh water about 8 miles from our tents, beyond a very high mountain which we must pass over: so that now we were, by God's Providence, in a condition of subsisting some time; having plenty of very good turtle by our tents, and water for the fetching. The next day I went up to see the watering-place, accompanied with most of my officers. We lay by the way all night and next morning early got thither; where we found a very fine spring on the south-east side of the high mountain, about half a mile from its top: but the continual fogs make it so cold here that it is very unwholesome living by the water. Near this place are abundance of goats and land-crabs. About 2 mile south-east from the spring we found 3 or 4 shrubby trees, upon one of which was cut an anchor and cable, and the year 1642. About half a furlong from these we found a convenient place for sheltering men in any weather. Hither many of our men resorted; the hollow rocks affording convenient lodging; the goats, land-crabs, men-of-war-birds and boobies good food; and the air was here exceeding wholesome.
+### WATER ON THE ISLAND
 
-AND ARE BROUGHT BACK TO ENGLAND.
+On the 26th following we, to our great comfort, found a spring of fresh water about 8 miles from our tents, beyond a very high mountain which we must pass over.
+
+So that now we were, by God's Providence, in a condition of subsisting some time; having plenty of very good turtle by our tents, and water for the fetching.
+
+The next day I went up to see the watering-place, accompanied with most of my officers. 
+
+We lay by the way all night and next morning early got thither; where we found a very fine spring on the south-east side of the high mountain, about half a mile from its top: but the continual fogs make it so cold here that it is very unwholesome living by the water.
+
+Near this place are abundance of goats and land-crabs. About 2 mile south-east from the spring we found 3 or 4 shrubby trees, upon one of which was cut an anchor and cable, and the year 1642.
+
+About half a furlong from these we found a convenient place for sheltering men in any weather. Hither many of our men resorted.
+
+The hollow rocks affording convenient lodging; the goats, land-crabs, men-of-war-birds and boobies good food; and the air was here exceeding wholesome.
+
+
+### They Are Brought Back To England
 
 About a week after our coming ashore our men that lived at this new habitation saw two ships making towards the island. 
 
-Before night they brought me the news; and I ordered them to turn about a score of turtle to be in readiness for their ships if they should touch here: but before morning they were out of sight, and the turtle were released again. Here we continued without seeing any other ship till the second of April; when we saw 11 sail to windward of the island: but they likewise passed by. The day after appeared 4 sail, which came to anchor in this bay. They were His Majesty's ships the Anglesey, Hastings and Lizard; and the Canterbury East India ship. I went on board the Anglesey with about 35 of my men; and the rest were disposed of into the other 2 men-of-war.
+Before night they brought me the news; and I ordered them to turn about a score of turtle to be in readiness for their ships if they should touch here: but before morning they were out of sight, and the turtle were released again. 
+
+Here we continued without seeing any other ship till the second of April; when we saw 11 sail to windward of the island: but they likewise passed by. 
+
+The day after appeared 4 sail, which came to anchor in this bay. They were His Majesty's ships the Anglesey, Hastings and Lizard.
+
+The Canterbury East India ship. I went on board the Anglesey with about 35 of my men; and the rest were disposed of into the other 2 men-of-war.
 
 We sailed from Ascension the 8th; and continued aboard till the 8th of May: at which time the men-of-war, having missed St. Jago, where they designed to water, bore away for Barbados: but I being desirous to get to England as soon as possible took my passage in the ship Canterbury, accompanied with my master, purser, gunner, and 3 of my superior officers.

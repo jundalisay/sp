@@ -11,7 +11,11 @@ icon: "William Dampier"
 ---
 
 
-On May 31, we first saw the islands Galapagos. Some of them appeared on our weather bow, some on our lee bow, others right ahead. We at first sight trimmed our sails and steered as nigh the wind as we could, striving to get to the southermost of them but, our prizes being deep laden, their sails but small and thin, and a very small gale, they could not keep up with us; therefore we likewise edged away again a point from the wind to keep near them; and in the evening the ship that I was in and Captain Eaton anchored on the east side of one of the eastermost islands, a mile from the shore, in sixteen fathom water, clean, white, hard sand.
+On May 31, we first saw the islands Galapagos. 
+
+Some of them appeared on our weather bow, some on our lee bow, others right ahead. 
+
+We at first sight trimmed our sails and steered as nigh the wind as we could, striving to get to the southermost of them but, our prizes being deep laden, their sails but small and thin, and a very small gale, they could not keep up with us; therefore we likewise edged away again a point from the wind to keep near them; and in the evening the ship that I was in and Captain Eaton anchored on the east side of one of the eastermost islands, a mile from the shore, in sixteen fathom water, clean, white, hard sand.
 
 The Galapagos Islands are many uninhabited islands lying under and on both sides of the Equator. 
 
@@ -20,9 +24,11 @@ The eastermost of them are about 110 leagues from the Main. They are laid down i
 The Spaniards who first discovered them, and in whose charts alone they are laid down, report them to be a great number stretching north-west from the Line, as far as 5 degrees north, but we saw not above 14 or 15. They are some of them 7 or 8 leagues long, and 3 or 4 broad. They are of a good height, most of them flat and even on the top; 4 or 5 of the eastermost are rocky, barren and hilly, producing neither tree, herb, nor grass, but a few dildoe-trees, except by the seaside. 
 
 
-## THE DILDOE-TREE, BURTON-WOOD, MAMMEE-TREES
+### The Dildoe-Tree, Burton-Wood, Mammee-Trees
 
-The dildoe-tree is a green prickly shrub that grows about 10 or 12 foot high, without either leaf or fruit. It is as big as a man's leg, from the root to the top, and it is full of sharp prickles growing in thick rows from top to bottom; this shrub is fit for no use, not so much as to burn. Close by the sea there grows in some places bushes of burton-wood, which is very good firing. 
+The dildoe-tree is a green prickly shrub that grows about 10 or 12 foot high, without either leaf or fruit. 
+
+It is as big as a man's leg, from the root to the top, and it is full of sharp prickles growing in thick rows from top to bottom; this shrub is fit for no use, not so much as to burn. Close by the sea there grows in some places bushes of burton-wood, which is very good firing. 
 
 This sort of wood grows in many places in the West Indies, especially in the Bay of Campeachy and the Samballoes. I did never see any in these seas but here. There is water on these barren islands in ponds and holes among the rocks. 
 
@@ -32,17 +38,33 @@ In these large islands there are some pretty big rivers; and in many of the othe
 
 
 
-## IGUANAS, LAND-TORTOISE, THEIR SEVERAL KIND; GREEN SNAKES, TURTLE-DOVES, TORTOISE, OR TURTLE-GRASS.
+### Iguanas, Land-Tortoise, Their Several Kind; Green Snakes, Turtle-Doves, Tortoise, Or Turtle-Grass.
 
-The iguanas here are fat and large as any that I ever saw; they are so tame that a man may knock down twenty in an hour's time with a club. The land-turtle are here so numerous that 5 or 600 men might subsist on them alone for several months without any other sort of provision: they are extraordinary large and fat; and so sweet that no pullet eats more pleasantly. 
+The iguanas here are fat and large as any that I ever saw; they are so tame that a man may knock down twenty in an hour's time with a club. 
 
-One of the largest of these creatures will weigh 150 or 200 weight, and some of them are 2 foot, or 2 foot 6 inches over the challapee or belly. I did never see any but at this place that will weigh above 30 pound weight. I have heard that at the isle of St. Lawrence or Madagascar, and at the English Forest, an island near it called also Don Mascarin and now possessed by the French, there are very large ones, but whether so big, fat, and sweet as these, I know not. There are 3 or 4 sorts of these creatures in the West Indies. 
+The land-turtle are here so numerous that 5 or 600 men might subsist on them alone for several months without any other sort of provision: they are extraordinary large and fat; and so sweet that no pullet eats more pleasantly. 
 
-One is called by the Spaniards hecatee; these live most in fresh-water ponds, and seldom come on land. They weigh about 10 or 15 pound; they have small legs and flat feet, and small long necks. 
+One of the largest of these creatures will weigh 150 or 200 weight, and some of them are 2 foot, or 2 foot 6 inches over the challapee or belly.
+
+I did never see any but at this place that will weigh above 30 pound weight. I have heard that at the isle of St. Lawrence or Madagascar, and at the English Forest, an island near it called also Don Mascarin and now possessed by the French, there are very large ones, but whether so big, fat, and sweet as these, I know not.
+
+There are 3 or 4 sorts of these creatures in the West Indies. 
+
+One is called by the Spaniards hecatee; these live most in fresh-water ponds, and seldom come on land. They weigh about 10 or 15 pound.
+
+They have small legs and flat feet, and small long necks. 
 
 Another sort is called tenapen; these are a great deal less than the hecatee; the shell on their backs is all carved naturally, finely wrought, and well clouded: the backs of these are rounder than those before mentioned; they are otherwise much of the same form: these delight to live in wet swampy places, or on the land near such places. 
 
-Both these sorts are very good meat. They are in great plenty on the isles of Pines near Cuba: there the Spanish hunters when they meet them in the woods bring them home to their huts, and mark them by notching their shells, then let them go; this they do to have them at hand, for they never ramble far from thence. When these hunters return to Cuba, after about a month or six weeks' stay, they carry with them 3 or 400 or more of these creatures to sell; for they are very good meat, and every man knows his own by their marks. These tortoise in the Galapagos are more like the hecatee except that, as I said before, they are much bigger; and they have very long small necks and little heads. There are some green snakes on these islands, but no other land animal that I did ever see. There are great plenty of turtle-doves so tame that a man may kill 5 or 6 dozen in a forenoon with a stick. They are somewhat less than a pigeon, and are very good meat, and commonly fat.
+Both these sorts are very good meat. 
+
+They are in great plenty on the isles of Pines near Cuba: there the Spanish hunters when they meet them in the woods bring them home to their huts, and mark them by notching their shells, then let them go; this they do to have them at hand, for they never ramble far from thence. 
+
+When these hunters return to Cuba, after about a month or six weeks' stay, they carry with them 3 or 400 or more of these creatures to sell; for they are very good meat, and every man knows his own by their marks.
+
+These tortoise in the Galapagos are more like the hecatee except that, as I said before, they are much bigger; and they have very long small necks and little heads. There are some green snakes on these islands, but no other land animal that I did ever see.
+
+There are great plenty of turtle-doves so tame that a man may kill 5 or 6 dozen in a forenoon with a stick. They are somewhat less than a pigeon, and are very good meat, and commonly fat.
 
 There are good wide channels between these islands fit for ships to pass, and in some places shoal water where there grows plenty of turtle-grass; therefore these islands are plentifully stored with sea-turtle of that sort which is called the green turtle. I have hitherto deferred the description of these creatures therefore I shall give it here.
 
@@ -58,7 +80,9 @@ There are 4 sorts of sea-turtle:
 
 The trunk-turtle is commonly bigger than the other, their backs are higher and rounder, and their flesh rank and not wholesome. 
 
-The loggerhead is so called because it has a great head, much bigger than the other sorts; their flesh is likewise very rank, and seldom eaten but in case of necessity: they feed on moss that grows about rocks. The hawksbill-turtle is the least kind, they are so called because their mouths are long and small, somewhat resembling the bill of a hawk: on the backs of these hawksbill turtle grows that shell which is so much esteemed for making cabinets, combs, and other things.
+The loggerhead is so called because it has a great head, much bigger than the other sorts; their flesh is likewise very rank, and seldom eaten but in case of necessity: they feed on moss that grows about rocks. 
+
+The hawksbill-turtle is the least kind, they are so called because their mouths are long and small, somewhat resembling the bill of a hawk: on the backs of these hawksbill turtle grows that shell which is so much esteemed for making cabinets, combs, and other things.
 
 The largest of them may have 3 pound and a half of shell; I have taken some that have had 3 pound 10 ounces: but they commonly have a pound and a half or two pound; some not so much. 
 
@@ -70,9 +94,17 @@ Hawksbill-turtle are in many places of the West Indies: they have islands and pl
 
 They lay 3 times in a season, and at each time 80 or 90 eggs. Their eggs are as big as a hen's egg, and very round, covered only with a white tough skin. 
 
-There are some bays on the north side of Jamaica where these hawksbills resort to lay. In the Bay of Honduras are islands which they likewise make their breeding-places, and many places along all the coast on the Main of the West Indies from Trinidad de La Vera Cruz in the Bay of Nova Hispania. When a sea-turtle turns out of the sea to lay she is at least an hour before she returns again, for she is to go above high-water mark, and if it be low-water when she comes ashore, she must rest once or twice, being heavy, before she comes to the place where she lays. When she has found a place for her purpose she makes a great hole with her fins in the sand, wherein she lays her eggs, then covers them 2 foot deep with the same sand which she threw out of the hole, and so returns. Sometimes they come up the night before they intend to lay, and take a view of the place, and so having made a tour, or semicircular march, they return to the sea again, and they never fail to come ashore the next night to lay near that place.
+There are some bays on the north side of Jamaica where these hawksbills resort to lay. 
 
-All sorts of turtle use the same methods in laying. I knew a man in Jamaica that made 8 pound Sterling of the shell of these hawksbill turtle which he got in one season and in one small bay, not half a mile long. The manner of taking them is to watch the bay by walking from one part to the other all night, making no noise, nor keeping any sort of light. When the turtle comes ashore the man that watches for them turns them on their backs, then hauls them above high-water mark, and leaves them till the morning. A large green turtle, with her weight and struggling, will puzzle 2 men to turn her. 
+In the Bay of Honduras are islands which they likewise make their breeding-places, and many places along all the coast on the Main of the West Indies from Trinidad de La Vera Cruz in the Bay of Nova Hispania. 
+
+When a sea-turtle turns out of the sea to lay she is at least an hour before she returns again, for she is to go above high-water mark, and if it be low-water when she comes ashore, she must rest once or twice, being heavy, before she comes to the place where she lays.
+
+When she has found a place for her purpose she makes a great hole with her fins in the sand, wherein she lays her eggs, then covers them 2 foot deep with the same sand which she threw out of the hole, and so returns. Sometimes they come up the night before they intend to lay, and take a view of the place, and so having made a tour, or semicircular march, they return to the sea again, and they never fail to come ashore the next night to lay near that place.
+
+All sorts of turtle use the same methods in laying. I knew a man in Jamaica that made 8 pound Sterling of the shell of these hawksbill turtle which he got in one season and in one small bay, not half a mile long.
+
+The manner of taking them is to watch the bay by walking from one part to the other all night, making no noise, nor keeping any sort of light. When the turtle comes ashore the man that watches for them turns them on their backs, then hauls them above high-water mark, and leaves them till the morning. A large green turtle, with her weight and struggling, will puzzle 2 men to turn her. 
 
 The hawksbill-turtle are not only found in the West Indies but on the coast of Guinea, and in the East Indies. I never saw any in the South Seas.
 

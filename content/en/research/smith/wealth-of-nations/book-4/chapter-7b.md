@@ -3,7 +3,7 @@ title: "The Discoveries of Christopher Columbus"
 heading: "Chapter 7b"
 description: "In his letters to Ferdinand and Isabella, Columbus called the countries he discovered as the Indies. He thought they were the ones described by Marco Polo"
 c: "seagreen"
-weight: 64
+weight: 704
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

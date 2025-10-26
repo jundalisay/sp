@@ -3,7 +3,7 @@ title: "The Colonies of the Portuguese, French, and Dutch"
 heading: "Chapter 7d"
 description: "After the Spanish settlements, those of the Portuguese in Brazil are the oldest European settlement in America"
 c: "seagreen"
-weight: 68
+weight: 708
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

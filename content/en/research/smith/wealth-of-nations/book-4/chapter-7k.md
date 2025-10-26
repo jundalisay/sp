@@ -1,10 +1,9 @@
 ---
+title: "Economic Democracy"
 heading: "Chapter 7k"
-title: "The Effects of Monopoly on Britain"
-linkTitle: "Chapter 7k"
-weight: 82
+description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
 c: "seagreen"
-description: "The monopoly of the colony trade drew British capital from other trades"
+weight: 756
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -13,140 +12,161 @@ icon: "Adam Smith"
 
 
 
-{{< s v='119' >}} The monopoly of the colony trade drew British capital from other trades.
-- It forced into those other trades many foreign capitals which would never have gone to them.
-  - In those other trades, it diminished the competition of British capital.
-- It raised British profit rates higher than natural.
-
-On the contrary, it increased the competition of foreign capitals.
-- It sunk the rate of foreign profit lower.
-
-In both ways, it must have subjected Great Britain to a relative disadvantage in all those other trades.
 
 
-{{< s v='120' >}} The colony trade perhaps is more advantageous to Great Britain than any other trade.
+<sup>76</sup> In all European colonies, the culture of the sugar-cane is done by negro slaves.
 
-The monopoly forced more British capital into the colony trade than what would have gone to it.
-It turned that capital into an employment more advantageous to Great Britain than any other trade.
+Europeans born in temperate climate could not labour under the burning sun of the West Indies.
 
+The culture of the sugar-cane presently is all hand labour.
 
-{{< s v='121' >}} "The most advantageous employment of any capital to the country to which it belongs is that which maintains there the greatest quantity of productive labour, and increases the most the annual produce of the land and labour of that country."
+The drill plough might bring great advantage to it.
 
-It has been shown in the Book 2 that the quantity of productive labour which capital can maintain in the foreign trade of consumption is exactly in proportion to the frequency of its returns.
+The profit and success of the cultivation done by cattle depend very much on the good management of those cattle.
 
-For example, a capital of 1,000 pounds employed in a foreign trade of consumption with returns of once a year, can maintain and employ what 1,000 pounds can for a year.
-If the returns are made twice or thrice a year, it can keep employed what 2,000 or 3,000 pounds can maintain there for a year.
+So the profit and success of cultivation done by slaves must depend equally on the good management of those slaves.
 
-In this case, a foreign trade of consumption done with a neighbouring country is more advantageous than a trade with a distant country.
-For the same reason, a direct foreign trade of consumption is in general more advantageous than a round-about one, as shown in Book 2.
+I think the French planters are superior to the English in the good management of their slaves.
 
+The law which gives some weak protection to the slave against his master's violence is likely to be better executed in a colony with an arbitrary government than in one where it is free.
 
+In a slave country, the magistrate, who protects the slave, intermeddles in the management of the master's private property.
 
-{{< s v='122' >}} The monopoly of the colony trade forced some British capital from a foreign trade of consumption with a neighbouring country, to a trade with a more distant country.
+In a free country, the magistrate dares not to do this because the master may be: 
+- an assembly member or
+- an elector of an assembly member.
 
-In many cases, it forced British capital from a direct foreign trade of consumption to a round-about one.
+The magistrate is obliged to respect the master.
 
+It makes it more difficult for him to protect the slave.
 
-{{< s v='123' >}} The monopoly of the colony trade forced some British capital from a foreign trade of consumption with a neighbouring country to a trade with a more distant country.
+But in a country where the government is more arbitrary, the magistrate usually intermeddles even in the management of private property.
 
-<sup>124</sup> It forced some British capital from the trade with Europe and the Mediterranean. to the trade with America and the West Indies, where the returns are less frequent.
+He sends them a lettre de cachet if they do not manage it according to his liking.
 
-New colonies are always understocked.
+It is much easier for him to give some protection to the slave.
 
-"Their capital is always much less than what they could employ with great profit and advantage in the improvement and cultivation of their land."
+Common humanity naturally disposes him to do so.
 
-"They have a constant demand, for more capital than they have of their own;"
+The protection of the magistrate renders the slave less contemptible to his master.
 
-To supply their deficiency, they borrow as much as they can of the mother country.
+The master is induced to treat the slave with more gentleness.
+    
+Gentle usage renders the slave more faithful, intelligent, and useful.
 
-They are therefore always in debt to the mother country.
+The slave approaches more to the condition of a free servant.
 
-The most common way they contract this debt is by running in arrears to their correspondents as far as possible.
+He may possess some integrity and attachment to his master's interest.
 
-Their correspondents supply them with European goods.
+Integrity and common interests are virtues which frequently belong to free servants.
 
-They sometimes borrow on bond of the rich people of the mother country.
-
-But they do not do this commonly because their annual returns frequently are less than a third of what they owe.
-
-The whole capital advanced by their correspondents is seldom returned to Britain in less than three years.
-
-£1,000 of British capital which returned to Great Britain once in five years, can keep only 1/5 British industry constantly employed compared to 5/5 industry if such capital returned once a year.
-
-It can keep only £200 worth of industry employed for each year for those five years.
-
-The planter probably makes up the loss his correspondent sustains by this delay through:
-- the high price the planter pays for European goods
-- the interest on the bills the planter grants at distant dates
-- the commission on the renewal of those bills which the planter grants at near dates
-
-Although he may make up the loss of his correspondent, he cannot make up the loss of Great Britain.
-
-The merchant's profit may be more in a trade where the returns are very distant than in a trade where they are very frequent and near.
-
-But the advantage of the country where he resides must always be much less= 
-
-The quantity of productive labour maintained there
-
-The annual produce of its land and labour
-
-The returns of the trade to America and the West Indies are more distant, irregular, and uncertain than those to Europe and the Mediterranean.
+Such virtues can never belong to a slave, as what happens in countries where masters are perfectly free and secure.
 
 
-{{< s v='125' >}} The monopoly of the colony trade forced some part of British capital from a direct foreign trade of consumption into a round-about one.
+<sup>77</sup> The condition of a slave is better under an arbitrary than under a free government.
 
-{{< s v='126' >}} Enumerated commodities can only be sent to Great Britain.
+In Roman history, the magistrate first protected the slave from the violence of his master during the reign of the emperors.
 
-There are several enumerated commodities which are in excess of what is needed by Great Britain.
+Vedius Pollio ordered one of his slaves who had committed a slight fault to be cut and thrown into his-fish pond to feed his fishes.
 
-It must be exported.
+Emperor Augustus commanded him, with indignation, to emancipate immediately all his slaves.
 
-This cannot be done without forcing some British capital into a round-about foreign trade of consumption.
+Under the republic, no magistrate could protect the slave, much less to punish the master.
 
-For example, Maryland and Virginia, send more than 96,000 hogsheads of tobacco to Great Britain annually.
 
-The consumption of Great Britain does not exceed 14,000 hogheads.
+<sup>78</sup> The stock which improved the French sugar colonies, particularly in St. Domingo, was raised almost entirely from the gradual improvement and cultivation of those colonies.
 
-More than 82,000 hogsheads must be exported to:
-- France
-- Holland
-- The Baltic countries
-- The Mediterranean countries
+It was almost altogether the produce of the soil and industry of the colonies.
 
-The British capital which imports and re-exports those 82,000 hogsheads is employed in a round-about foreign trade of consumption.
-- It brings back goods or money from those countries in return.
-- It is forced to dispose of this great surplus.
+It was the price of that produce gradually accumulated by good management.
 
-To compute how many years this capital would come back to Great Britain, we must add the returns from those other countries to the American returns.
+It was employed in raising a still greater produce.
 
-If the capital employed in the direct foreign trade of consumption with America does not come back in less than 3-4 years, the capital employed in this round-about trade is not likely to return in less than 4-5 years.
+But most of the stock which improved and cultivated the English sugar colonies came from England.
 
-If the capital employed in the direct trade can employ only 1/3 or 1/4 domestic industry, the capital employed in the round-about trade can employ but 1/4 or 1/5 of that industry.
+It was not altogether the produce of the soil and industry of the colonists.
 
-At some ports, a credit is given to the foreign correspondents who buy their tobacco.
+The prosperity of the English sugar colonies was due to the great riches of England which overflowed to those colonies.
 
-At London, this credit is commonly sold for ready money.
+But the prosperity of the French sugar colonies was entirely due to the good conduct of the colonists which were somewhat superior that of the English colonists.
 
-"The rule is, Weigh and pay."
+This superiority is seen in the good management of their slaves.
 
-At London, the final returns of the round-about trade are more distant than the returns from America by the time the goods lie unsold in the warehouse.
 
-Had the tobacco of the colonies not been confined to the British market, very little of it would probably have come to us than necessary.
-- Instead of using the surplus tobacco from the colonies to buy the foreign goods she wants at home, she would probably use her own produce.
-- Instead of being entirely suited to one great market as at present, that produce would probably have been fitted to many smaller markets.
-- Instead of one great round-about foreign trade of consumption, Great Britain would probably have carried on many small direct foreign trades.
+<sup>79</sup> Such were the European policies regarding their colonies.
 
-Because of the frequency of the returns, probably 1/3 or 1/4 of the capital presently employed in this great round-about trade might have been sufficient to carry on all those small direct trades.
+<sup>80</sup> These policies has very little to boast of regarding:
+- Their original establishment
+- The subsequent prosperity of the American colonies from their internal government.
 
-It might have:
-- kept an equal quantity of British industry constantly employed
-- equally supported Great Britain's annual produce.
+<sup>81</sup> Folly and injustice were the principles which directed the establishment of those colonies:
+- The folly of hunting for gold and silver mines.
+- The injustice of coveting a country whose harmless natives never injured Europeans but instead received the first adventurers with kindness and hospitality
 
-Since this trade would be supported by a much smaller capital, there would have been a large spare capital for other purposes to:
-- improve the lands
-- increase the manufactures
-- extend the commerce of Great Britain
-- compete with other British capitals employed in all those different ways
-- reduce the profit rate in them all
-- give a greater superiority to Great Britain in all of them over other countries.
+<sup>82</sup> The adventurers, who formed the later establishments, joined the chimerical project of finding gold and silver mines.
 
+These motives are more reasonable and more laudable.
+
+But even they do very little honour to European policy.
+
+
+<sup>83</sup> The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England.
+
+The English Catholics were treated with much greater injustice.
+
+They established the government of Maryland
+
+The Quakers established the government of Pennsylvania.
+
+The Portuguese Jews were persecuted by the Inquisition.
+
+They were stripped of their fortunes and banished to Brazil
+
+They introduced by their example some order and industry among the felons and prostitutes who originally peopled that colony.
+
+They taught them the culture of the sugar-cane.
+
+The disorder and injustice of the European governments peopled and cultivated America on those occasions, not their wisdom and policy.
+
+
+<sup>84</sup> The European governments had as little merit in establishing these important colonies= 
+
+The conquest of Mexico was the project of a Cuban governor and not the council of Spain.
+
+It was caused by the spirit of the bold adventurer entrusted by the governor.
+
+The governor soon repented of having trusted him and tried to thwart it.
+
+The conquerors of Chile, Peru, and other Spanish settlements in America, did their conquests with only a general permission to make settlements and conquests in the name of the Spanish king.
+
+"Those adventures were all at the private risk and expence of the adventurers."
+
+The Spanish government contributed scarce anything to any of them.
+
+The English government contributed as little towards the establishment of its most important North America colonies.
+
+85 Those colonies became so considerable, that it attracted its mother country's attention.
+
+The mother country thus made regulations which always aimed:
+- to secure to herself the monopoly of their commerce
+- to confine their market:
+  - to enlarge her own market at their expence
+  - to damp and discourage their prosperity
+
+The most essential differences in the European colonial policies is in the different ways this monopoly was exercised.
+
+England's policy is the best of them all.
+
+It is only somewhat less illiberal and oppressive than those of others.
+
+<sup>86</sup> The policy of Europe contributed to the present grandeur of the American colonies only in one way: Magna virûm Mater!
+
+It bred and formed the men who could achieve such great actions.
+
+It laid the foundation of so great an empire.
+
+There is place in the world where the policy is capable of forming such men.
+
+The colonies owe the education and great views of their active and enterprising founders to the policy of Europe.
+
+Some of the greatest and most important of them who has helped form their internal government owe to it to nothing else.

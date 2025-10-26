@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 8c"
 title: "Export Bans"
-weight: 100
+weight: 820
 c: "seagreen"
 description: "The exportation of raw materials is sometimes discouraged by absolute prohibitions and sometimes by high duties"
 writer:

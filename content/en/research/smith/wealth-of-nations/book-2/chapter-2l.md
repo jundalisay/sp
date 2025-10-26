@@ -26,6 +26,7 @@ The judicious operations of banking enable him to convert this dead stock into:
 
 
 The gold and silver money which circulates a country’s annual produce to its consumers is all dead stock, just like the dealer's ready money.
+
 It is a very valuable part of the country's capital.
 Yet it produces nothing to the country.
 
