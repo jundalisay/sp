@@ -5,21 +5,33 @@ weight: 44
 c: "darkgoldenrod"
 description: "There are 3 kinds of soul within us, having each of them motions"
 author: "Plato"
-icon: /icons/Socrates.jpg
+icon: Socrates
 ---
 
 
 
-There are 3 kinds of soul within us, having each of them motions
-- one part, if remaining inactive and ceasing from its natural motion, must necessarily become very weak, but that which is trained and exercised, very strong. 
+There are 3 kinds of soul within us, having each of them motions.
 
-Wherefore we should take care that the movements of the different parts of the soul should be in due proportion.
+If one part remains inactive and ceases from its natural motion, it will necessarily become very weak.
 
-God gave the sovereign part of the human soul to be the divinity of each one, being that part which, as we say, dwells at the top of the body, and inasmuch as we are a plant not of an earthly but of a heavenly growth, raises us from earth to our kindred who are in heaven.
+But the part which is trained and exercised will become very strong.*
 
-The divine power suspended the head and root of us from that place where the generation of the soul first began, and thus made the whole body upright. 
+{{< n n="This is a key principle of Lamarckian Evolution" >}}
 
-When a man is always occupied with the cravings of desire and ambition, and is eagerly striving to satisfy them, all his thoughts must be mortal, and, as far as it is possible altogether to become such, he must be mortal every whit, because he has cherished his mortal part. 
+And so we should take care that the movements of the parts of the soul are in due proportion.
+
+<!-- God gave  -->
+
+The sovereign part of the human soul is the divinity of each one.
+- This dwells at the top of the body
+
+We are a plant of a heavenly growth which raises us from earth to our kindred who are in heaven.
+
+The divine power suspended the head and root of us from where the generation of the soul first began.
+- This made the whole body upright. 
+
+When a man is always occupied with the cravings of desire and ambition, and is eagerly striving to satisfy them, all his thoughts become mortal.
+- He thus become mortal every whit, because he has cherished his mortal part. 
 
 But a person will have immortal and divine thoughts if he:
 - has been earnest in the love of knowledge and of true wisdom
@@ -34,23 +46,30 @@ He will be perfectly happy because he:
 
 There is only one way of taking care of things. This is to give to each the food and motion which are natural to it. 
 
-The motions which are naturally akin to the divine principle within us are the thoughts and revolutions of the universe. The courses of the head were corrupted at our birth. These should correct such corruption. Everyone should:
+The motions which are naturally akin to the divine principle within us are the thoughts and revolutions of the universe.
+
+The courses of the head were corrupted at our birth. These should correct such corruption. 
+
+Everyone should:
 - learn the harmonies and revolutions of the universe
 - assimilate the thinking being to the thought
 - renew his original nature
 - should attain to that perfect life which the gods have set before mankind, having assimilated them, both for the present and the future.
 
-Thus our original design of discoursing about the universe down to the creation of man is nearly completed. A brief mention may be made of the generation of other animals, so far as the subject admits of brevity; in this manner our argument will best attain a due proportion. 
+<!-- Thus, our original design of discoursing about the universe down to the creation of man is nearly completed. A brief mention may be made of the generation of other animals, so far as the subject admits of brevity; in this manner our argument will best attain a due proportion.  -->
 
 
 ## Animals 
 
-The men who were cowards or led unrighteous lives changed into women in their second generation.
+The men who were cowards or led unrighteous lives changed into women in their next life.
+
+ <!-- second generation. -->
 
 This was the reason why at that time the gods created in us the desire of sexual intercourse, contriving in man one animated substance, and in woman another, which they formed respectively in the following manner. 
 
-Liquids pass through the lung under the kidneys and into the bladder. This liquid is emitted by the pressure of the air*. This air penetrates also into the body of the marrow, which passes from the head along the neck and through the back. It ends in "the seed". 
+Liquids pass through the lung under the kidneys and into the bladder. 
 
+This liquid is emitted by the pressure of the air* which penetrates also into the body of the marrow, which passes from the head along the neck and through the back. It ends in "the seed". 
 
 {{< n n="This is the pranah of the spatial layer" >}}
 
@@ -59,11 +78,33 @@ Liquids pass through the lung under the kidneys and into the bladder. This liqui
 
 The seed has life and respiration. It produces in that part in which it respires a lively desire of emission, and thus creates in us the love of procreation. 
 
-Wherefore also in men the organ of generation becoming rebellious and masterful, like an animal disobedient to reason, and maddened with the sting of lust, seeks to gain absolute sway. 
+In men, this makes the organ of generation become rebellious and masterful, like an animal:
+- disobedient to reason
+- maddened with lust
 
-The same is the case with the so-called womb or matrix of women; the animal within them is desirous of procreating children, and when remaining unfruitful long beyond its proper time, gets discontented and angry, and wandering in every direction through the body, closes up the passages of the breath, and, by obstructing respiration, drives them to extremity, causing all varieties of disease, until at length the desire and love of the man and the woman, bringing them together and as it were plucking the fruit from the tree, sow in the womb, as in a field, animals unseen by reason of their smallness and without form; these again are separated and matured within; they are then finally brought out into the light, and thus the generation of animals is completed.
+ <!-- seek to gain absolute sway.  -->
+
+The same is the case with the so-called womb or matrix of women.
+
+The animal within them wants to procreate children.
+
+When remaining unfruitful long beyond its proper time, this seed gets discontented and angry.
+
+It:
+- wanders in every direction through the body
+- closes up the passages of the breath, obstructing respiration
+  - This drives them to extremity, causing all varieties of disease
+
+This happens until the desire of the man and woman:
+- bring them together
+- sow in the womb, as in a field, animals unseen because of their smallness and lack of form
+
+These again are separated and matured within.
+
+They are then finally brought out into the light, and thus the generation of animals is completed.
 
 Thus, the female sex was created. 
+
 
 2. Birds
 
@@ -88,8 +129,4 @@ Instead of the subtle and pure medium of air, they gave them the deep and muddy 
 
 These are the laws by which animals pass into one another, now, as ever, changing as they lose or gain wisdom and folly.
 
-<!-- We may now say that our discourse about the nature of the universe has an end. The world has received animals, mortal and immortal, and is fulfilled with them, and has become a visible animal containing the visible—the sensible God who is the image of the intellectual, the greatest, best, fairest, most perfect—the one only-begotten heaven.
-
- -->
-
- 
+<!-- We may now say that our discourse about the nature of the universe has an end. The world has received animals, mortal and immortal, and is fulfilled with them, and has become a visible animal containing the visible—the sensible God who is the image of the intellectual, the greatest, best, fairest, most perfect—the one only-begotten heaven. -->

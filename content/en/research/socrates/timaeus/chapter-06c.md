@@ -28,9 +28,11 @@ This nature is always:
 
 Accordingly it does not have the power of observing or reflecting on its own concerns. It lives, but is fixed and rooted in the same spot, having no power of self-motion.
 
-Now after the superior powers had created all these natures to be food for us who are of the inferior nature, they cut various channels through the body as through a garden, that it might be watered as from a running stream. 
+After the superior powers had created all these natures to be food for us who are of the inferior nature, they cut various channels through the body as through a garden, that it might be watered as from a running stream. 
 
-In the first place, they cut two hidden channels or veins down the back where the skin and the flesh join, which answered severally to the right and left side of the body. These they let down along the backbone, so as to have the marrow of generation between them, where it was most likely to flourish, and in order that the stream coming down from above might flow freely to the other parts, and equalize the irrigation. 
+In the first place, they cut 2 hidden channels or veins down the back where the skin and the flesh join, which answered severally to the right and left side of the body. 
+
+These they let down along the backbone, so as to have the marrow of generation between them, where it was most likely to flourish, and in order that the stream coming down from above might flow freely to the other parts, and equalize the irrigation. 
 
 In the next place, they divided the veins about the head, and interlacing them, they sent them in opposite directions; those coming from the right side they sent to the left of the body, and those from the left they diverted towards the right, so that they and the skin might together form a bond which should fasten the head to the body, since the crown of the head was not encircled by sinews; and also in order that the sensations from both sides might be distributed over the whole body. 
 
