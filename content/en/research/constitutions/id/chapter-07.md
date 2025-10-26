@@ -4,7 +4,7 @@ heading: "Chapter 7"
 weight: 8
 image: "/flags/id.png"
 description: " Members of the DPR shall be elected through a general election"
-icon: /flags/id.png
+icon: "Indonesia"
 ---
 
 

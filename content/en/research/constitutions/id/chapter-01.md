@@ -4,7 +4,7 @@ heading: "Chapter 1"
 weight: 4
 image: "/flags/id.png"
 description: "The State of Indonesia shall be a unitary state in the form of a republic"
-icon: /flags/id.png
+icon: "Indonesia"
 ---
 
 

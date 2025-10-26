@@ -4,7 +4,7 @@ heading: "Chapter 5"
 weight: 6
 image: "/flags/id.png"
 description: "Ministers of State shall be appointed and dismissed by the President"
-icon: /flags/id.png
+icon: "Indonesia"
 ---
 
 

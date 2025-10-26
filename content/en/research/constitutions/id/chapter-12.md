@@ -4,7 +4,7 @@ heading: "Chapter 12"
 weight: 14
 image: "/flags/id.png"
 description: "Every citizen shall have the right and duty to participate in the defence and security of the State"
-icon: /flags/id.png
+icon: "Indonesia"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 13"
 weight: 16
 image: "/flags/id.png"
 description: "Every citizen has the right to receive education"
-icon: /flags/id.png
+icon: "Indonesia"
 ---
 
 
@@ -37,17 +37,23 @@ Right to culture
 
 ## Chapter 14. The National Economy and Social Welfare Ownership of natural resources
 
-Article 33
+
+### Article 33
+
 1. The economy shall be organized as a common endeavour based upon the
 principles of the family system.
+
 2. Sectors of production which are important for the country and affect the life of
 the people shall be under the powers of the State.
+
 3. The land, the waters and the natural resources within shall be under the powers
 of the State and shall be used to the greatest benefit of the people.
+
 4. The organisation of the national economy shall be conducted on the basis of
 economic democracy upholding the principles of togetherness, efficiency with
 justice, continuity, environmental perspective, self-sufficiency, and keeping a
 balance in the progress and unity of the national economy.
+
 5. Further provisions relating to the implementation of this article shall be regulated
 by law.
 

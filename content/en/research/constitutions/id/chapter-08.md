@@ -4,7 +4,7 @@ heading: "Chapter 8"
 weight: 10
 image: "/flags/id.png"
 description: "The State Budget as the basis of the management of state funds shall be determined annually by law and shall be implemented in an open and accountable manner"
-icon: /flags/id.png
+icon: "Indonesia"
 ---
 
 <!-- Budget bills -->

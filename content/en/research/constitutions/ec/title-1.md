@@ -8,7 +8,7 @@ linkb: /research/constitutions/id
 linkbtext: "constitutions"
 linkf: /research/constitutions/id/chapter-05
 linkftext: "Chapter 5"
-icon: /flags/id.png
+icon: "Indonesia"
 ---
 
 

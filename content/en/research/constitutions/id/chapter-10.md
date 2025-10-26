@@ -4,7 +4,7 @@ heading: "Chapter 10"
 weight: 12
 image: "/flags/id.png"
 description: "Citizens shall consist of indigenous Indonesian peoples and persons of foreign origin who have been legalised as citizens in accordance with law"
-icon: /flags/id.png
+icon: "Indonesia"
 ---
 
 

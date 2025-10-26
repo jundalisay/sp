@@ -1,5 +1,5 @@
 ---
-title: "PLYING ON THE NEW GUINEA COAST"
+title: "Plying On The New Guinea Coast"
 heading: "Chapter 3"
 weight: 14
 writer:
@@ -11,7 +11,6 @@ icon: "William Dampier"
 ---
 
 
-DEPARTURE FROM TIMOR
 
 On December 12, 1699, we sailed from Babao, coasting along the island Timor to the eastward towards New Guinea. 
 
@@ -41,9 +40,10 @@ THEIR MISSING THE TURTLE ISLES.
 Having passed the burning island I shaped my course for two islands called Turtle Isles which lie north-east by east a little easterly, and distant about fifty leagues from the burning isle. I, fearing the wind might veer to the eastward of the north, steered 20 leagues north-east, then north-east by east. On the 28th we saw two small low islands called Luca Paros, to the north of us. At noon I accounted myself 20 leagues short of the Turtle Isles.
 
 
-TABLE 7. TIMOR AND OTHER ISLANDS BETWEEN IT AND NEW GUINEA.
+<!-- TABLE 7. TIMOR AND OTHER ISLANDS BETWEEN IT AND NEW GUINEA. -->
 
-BANDA ISLES.
+
+### BANDA ISLES
 
 The next morning, being in the latitude of the Turtle Islands, we looked out sharp for them but saw no appearance of any island till 11 o'clock; when we saw an island at a great distance. At first we supposed it might be one of the Turtle Isles: but it was not laid down true, neither in latitude nor longitude from the burning isle, nor from the Luca Paros, which last I took to be a great help to guide me, they being laid down very well from the burning isle, and that likewise in true latitude and distance from Omba: so that I could not tell what to think of the island now in sight; we having had fair weather, so that we could not pass by the Turtle Isles without seeing them; and this in sight was much too far off for them. We found variation 1 degree 2 minutes east. 
 
@@ -57,27 +57,38 @@ At night I shortened sail for fear of coming too nigh some islands that stretch 
 
 
 
-TABLE 8. NEW GUINEA.
+<!-- TABLE 8. NEW GUINEA. -->
 
-1700.
+### 1700: The Coast Of New Guinea.
 
-THEY DESCRY THE COAST OF NEW GUINEA.
+On New Year's Day we first descried the land of New Guinea, which appeared to be high land.
 
-On New Year's Day we first descried the land of New Guinea, which appeared to be high land; and the next day we saw several high islands on the coast of New Guinea, and ran in with the mainland. The shore here lies along east-south-east and west-north-west. It is high even land, very well clothed with tall flourishing trees, which appeared very green and gave us a very pleasant prospect. We ran to the westward of four mountainous islands; and in the night had a small tornado, which brought with it some rain and a fair wind. We had fair weather for a long time; only when near any land we had some tornadoes; but off at sea commonly clear weather; though if in sight of land we usually saw many black clouds hovering about it.
+The next day we saw several high islands on the coast of New Guinea, and ran in with the mainland. 
 
-THEY ANCHOR ON THE COAST OF NEW GUINEA.
+The shore here lies along east-south-east and west-north-west. It is high even land, very well clothed with tall flourishing trees, which appeared very green and gave us a very pleasant prospect. 
 
-On the 5th and 6th of January we plied to get in with the land; designing to anchor, fill water, and spend a little time in searching the country, till after the change of the moon; for I found a strong current setting against us. We anchored in 38 fathom water, good oazie ground. We had an island of a league long without us, about 3 miles distant; and we rode from the main about a mile. The easternmost point of land seen bore east by south half south, distance 3 leagues: and the westernmost west-south-west half south, distance 2 leagues. So soon as we anchored we sent the pinnace to look for water, and try if they could catch any fish. Afterwards we sent the yawl another way to see for water. Before night the pinnace brought on board several sorts of fruits that they found in the woods, such as I never saw before.
+We ran to the westward of four mountainous islands; and in the night had a small tornado, which brought with it some rain and a fair wind. We had fair weather for a long time; only when near any land we had some tornadoes; but off at sea commonly clear weather; though if in sight of land we usually saw many black clouds hovering about it.
 
-A DESCRIPTION OF THE PLACE, AND OF A STRANGE FOWL FOUND THERE.
+On January 5-6 we plied to get in with the land; designing to anchor, fill water, and spend a little time in searching the country, till after the change of the moon.
+
+I found a strong current setting against us. We anchored in 38 fathom water, good oazie ground. We had an island of a league long without us, about 3 miles distant; and we rode from the main about a mile. 
+
+The easternmost point of land seen bore east by south half south, distance 3 leagues: and the westernmost west-south-west half south, distance 2 leagues. 
+
+So soon as we anchored we sent the pinnace to look for water, and try if they could catch any fish. Afterwards we sent the yawl another way to see for water. Before night the pinnace brought on board several sorts of fruits that they found in the woods, such as I never saw before.
+
+
+### A STRANGE FOWL
 
 One of my men killed a stately land-fowl, as big as the largest dunghill-cock. It was of a sky-colour; only in the middle of the wings was a white spot, about which were some reddish spots: on the crown it had a large bunch of long feathers, which appeared very pretty. His bill was like a pigeon's; he had strong legs and feet, like dunghill-fowls; only the claws were reddish. His crop was full of small berries. It lays an egg as big as a large hen's egg; for our men climbed the tree where it nested and brought off one egg. They found water; and reported that the trees were large, tall and very thick; and that they saw no sign of people. At night the yawl came aboard and brought a wooden fishgig, very ingeniously made; the matter of it was a small cane; they found it by a small barbecue, where they also saw a shattered canoe.
 
-GREAT QUANTITIES OF MACKEREL.
+
+### GREAT QUANTITIES OF MACKEREL.
 
 The next morning I sent the boatswain ashore a-fishing and at one haul he caught 352 mackerels and about 20 other fishes; which I caused to be equally divided among all my company. I sent also the gunner and chief mate to search about if they could find convenient anchoring nearer a watering-place: by night they brought word that they had found a fine stream of good water, where the boat could come close to and it was very easy to be filled; and that the ship might anchor as near to it as I pleased: so I went thither. The next morning therefore we anchored in 25 fathom water, soft oazie ground, about a mile from the river: we got on board 3 tun of water that night; and caught 2 or 3 pike-fish, in shape much like a parracota, but with a longer snout, something resembling a gar, yet not so long. The next day I sent the boat again for water and before night all my casks were full.
 
-A WHITE ISLAND.
+
+### A WHITE ISLAND
 
 Having filled here about 15 tuns of water, seeing we could catch but little fish, and had no other refreshments, I intended to sail next day; but finding that we wanted wood I sent to cut some; and going ashore to hasten it, at some distance from the place where our men were, I found a small cove where I saw two barbecues, which appeared not to be above 2 months standing: the spars were cut with some sharp instrument; so that, if done by the natives, it seems that they have iron. On the 10th, a little after 12 o'clock, we weighed and stood over to the north side of the bay; and at 1 o'clock stood out with the wind at north and north-north-west. At 4 we passed out by a White Island, which I so named from its many white cliffs, having no name in our charts. It is about a league long, pretty high, and very woody: it is about 5 miles from the main, only at the west end it reaches within 3 miles of it. At some distance off at sea the west point appears like a cape land; the north side trends away north-north-west, and the east side east-south-east. This island lies in latitude 3 degrees 4 minutes south; and the meridian distance from Babao, 500 and 12 miles east. After we were out to sea we plied to get to the northward; but met with such a strong current against us that we got but little. For if the wind favoured us in the night, that we got 3 or 4 leagues; we lost it again and were driven as far astern next morning, so that we plied here several days.
 
@@ -149,19 +160,21 @@ Since the 4th instant that we passed Cape Mabo to the 12th we had small easterly
 
 
 
-TABLE 10. NEW GUINEA ETC.
+<!-- TABLE 10. NEW GUINEA ETC. -->
 
-FAULT OF THE CHARTS.
+### FAULT OF THE CHARTS
 
 The 15th in the morning between 12 and 2 o'clock it blew a very brisk gale at north-west and looked very black in the south-west. At 2 it flew about at once to the south-south-west and rained very hard. The wind settled some time at west-south-west, and we steered east-north-east till 3 in the morning: then, the wind and rain abating, we steered east half north for fear of coming near the land. Presently after, it being a little clear, the man at the bowsprit-end called out, "Land on our starboard bow." We looked out and saw it plain. I presently sounded and had but 10 fathom soft ground. The master, being somewhat scared, came running in haste with this news, and said it was best to anchor: I told him no, but sound again; then we had 12 fathom; the next cast, 13 and a half; the 4th, 17 fathom; and then no ground with 50 fathom line. However we kept off the island and did not go so fast but that we could see any other danger before we came nigh it. For here might have been more islands not laid down in my charts besides this. For I searched all the charts I had, if perchance I might find any island in the one which was not in the others; but I could find none near us. When it was day we were about 5 leagues off the land we saw; but, I believe, not above 5 mile, or at most 2 leagues, off it when we first saw it in the night.
 
-PROVIDENCE ISLAND.
+
+### PROVIDENCE ISLAND
 
 This is a small island but pretty high; I named it Providence. About 5 leagues to the southward of this there is another island which is called William Schouten's Island and laid down in our charts: it is a high island and about 20 leagues long.
 
 It was by mere Providence that we missed the small island. For had not the wind come to west-south-west and blown hard, so that we steered east-north-east, we had been upon it by our course that we steered before, if we could not have seen it. This morning we saw many great trees and logs swim by us; which it is probable came out of some great rivers on the main.
 
-THEY CROSS THE LINE.
+
+### THEY CROSS THE LINE
 
 On the 16th we crossed the Line, and found variation 6 degrees 26 minutes east. The 18th by my observation at noon we found that we had had a current setting to the southward, and probably that drew us in so nigh Schouten's Island. For this 24 hours we steered east by north with a large wind, yet made but an east by south half south course; though the variation was not above 7 degrees east.
 
@@ -179,14 +192,13 @@ At 8 in the evening we lay by, intending, if I could, to anchor under Matthias I
 
 
 
-TABLE 11. SQUALLY AND OTHER ISLANDS ON THE COAST OF NEW BRITAIN.
+<!-- TABLE 11. SQUALLY AND OTHER ISLANDS ON THE COAST OF NEW BRITAIN. -->
 
-THE MAIN OF NEW GUINEA.
+### THE MAIN OF NEW GUINEA
 
 Seeing we could not anchor here I stood away to the southward to make the main. But, having many hard squalls and tornadoes, we were often forced to hand all our sails and steer more easterly to go before it. On the 26th at 4 o'clock it cleared up to a hard sky, and a brisk settled gale; then we made as much sail as we could. At 5 it cleared up over the land and we saw, as we thought, Cape Solomaswer bearing south-south-east distance 10 leagues. We had many great logs and trees swimming by us all this afternoon, and much grass; we steered in south-south-east till 6, then the wind slackened and we stood off till 7, having little wind; then we lay by till 10, at which time we made sail and steered away east all night. The next morning, as soon as it was light, we made all the sail we could, and steered away east-south-east, as the land lay; being fair in sight of it, and not above 7 leagues distance. We passed by many small low woody islands which lay between us and the main, not laid down in our charts. We found variation 9 degrees 50 minutes east.
 
 
-
-FISHES TAKEN ON THE COAST OF NEW GUINEA.
+### FISHES TAKEN ON THE COAST OF NEW GUINEA
 
 The 28th we had many violent tornadoes, wind, rain, and some spouts; and in the tornadoes the wind shifted. In the night we had fair weather, but more lightning than we had seen at any time this voyage. This morning we left a large high island on our larboard side, called in the Dutch charts Wishart's Isle, about 6 leagues from the main; and, seeing many smokes upon the main, I therefore steered towards it.
