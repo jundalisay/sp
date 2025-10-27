@@ -2,7 +2,7 @@
 heading: "Chapter 8b"
 title: "The 4 Operations of Thinking"
 date: 2020-12-06
-image: /graphics/psych/think.jpg
+image: /graphics/psych/antah.jpg
 weight: 484
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
@@ -104,7 +104,7 @@ This is Property 3 as strength. This manifests as the ego which has a configurat
 This is Property 4 as spread. This makes the mind connect to other ideas automatically. 
 
 
-{{< i s="/graphics/psych/think.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}
+{{< i s="/graphics/psych/antah.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}
 
 
 <!-- Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is.  -->
