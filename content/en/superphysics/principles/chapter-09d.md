@@ -101,3 +101,10 @@ Similarly, the similarities in the feelings among all humans is from the human s
 The differences in each person is due to the individual soul. 
 
 
+
+
+{{< q a="Swami Vivekananda" c="Kundalini Tantra, Chapter 10" >}}
+A 45 year old Piscean had a another type of depression after her husband had left her when she was about 35. She was still pretty energized in swadhisthana chakra, as Pisceans tend to be. She was describing this anxiety that she had. It was a sort of quivering vibration in the pelvis around the area of swadhisthana chakra. This created the anxiety. I gave her the general swadhisthana practices like shalabhasana, etc. She improved a lot. I think it was just sexual tension that she had in that area and she was perceiving it as anxiety. 
+{{< /q >}}
+
+

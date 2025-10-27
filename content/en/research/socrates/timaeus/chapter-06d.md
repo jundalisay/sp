@@ -5,7 +5,7 @@ weight: 40
 c: "darkgoldenrod"
 description: "Diseases arise from the unnatural excess or defect of the four natures out of which the body is compacted"
 author: "Plato"
-icon: /icons/Socrates.jpg
+icon: Socrates
 ---
 
 

@@ -12,6 +12,7 @@ icon: Juan
 ---
 
 
+
 The previous section defined Superphysics as a discipline just like engineering, accounting, military, politics, music, etc.
 
 This discipline implies a goal. For example, the goal of:

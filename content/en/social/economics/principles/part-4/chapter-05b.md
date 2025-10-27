@@ -9,12 +9,17 @@ description : "People think that an inverted yield curve is the sole indicator o
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
+aliases:
+  /social/economics/inverted-yield-curve
 ---
 
 
 <!-- To understand the inverted yield curve, we have to understand [the nature of bonds](https://www.bloomberg.com/news/articles/2018-12-23/five-charts-showing-why-chinese-bonds-will-lure-foreign-buyers).
  -->
+
+
+<!-- gemini: Bond Returns and Risk     Returns are NOT Always the Lowest ❌: The annual returns on bonds (the coupon rate) are often lower than the potential returns from higher-risk investments like stocks, but this isn't due to the government's mandate to not "profit from their people." It's primarily due to risk. -->
 
 
 A bond is a loan to government, giving them private capital to spend for public uses. However, unlike a normal loan which is paid back in full and can be ended, *a bond is a perpetual debt* organized in terms such as short term or long term. 
@@ -34,7 +39,7 @@ Nevertheless, investors invest in them because they are **guaranteed** and can b
 According to Adam Smith, bonds in England started in 1697 under King William 3rd as a natural result of the invention of paper financial instruments such as bank notes and stocks. It was an alternative to non-perpetual loans which were called 'anticipations':
 
 {{< q a="Adam Smith" >}}
-Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.<br><br> However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
+Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 {{< /q >}}
 
 Governments like it a lot because it lets them borrow tons of money which they will never pay in full. 

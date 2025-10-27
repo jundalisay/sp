@@ -7,7 +7,7 @@ description: ""
 ---
 
 
-Month 1
+### Month 1
 
 Direct concentration on ajna chakra is very difficult, and for this reason, in tantra
 and yoga the mid-eyebrow center (which in fact is the kshetram of ajna), is used to
@@ -53,7 +53,8 @@ nostrils, so that the meditative state can be attained. It should be practised e
 before you commence your other sadhana. For complete details refer to the Bihar School
 of Yoga publication Asana Pranayama Mudra Bandha.\
 
-Practice 1: Anuloma viloma pranayama (the coming and going breath)
+
+### Practice 1: Anuloma viloma pranayama (the coming and going breath)
 
 Sit in a comfortable meditative posture. Make sure the spine is erect and the body is
 relaxed. The body must become absolutely still. After some minutes, begin to develop
@@ -76,6 +77,7 @@ through the left. This is one round-After completing four such rounds, inhale an
 through both nostrils simultaneously, visualizing the passage of the breath forming an
 inverted V-shape. In this way you have to continue - four alternate nostril breaths, then
 one breath through both nostrils. Count the rounds from 100 back to zero.
+
 100 - inhale left nostril, exhale right nostril; inhale right nostril, exhale left nostril, 99 -
 repeat, 98- repeat, 97- repeat, 96- inhale both nostrils, exhale both nostrils, and so on.
 Note: Accuracy in the counting is absolutely necessary, and if an error is made, the
@@ -84,10 +86,12 @@ because without keeping count, aiiuloma viloma is altogether too powerful for ma
 aspirants, swallowing up their awareness in the unconscious sphere- The aim of the
 practice is to stimulate ajna chakra on the subconscious, psychic level, and for this,
 awareness must be maintained.
+
 If you sink into the unconscious sphere, you will only be aware of the vast store of
 impressions in the unconscious mind, and will completely lose awareness of the practice.
 This awareness is essential for the development of mind control and the awakening of
 ajna chakra to conscious accessibility.
+
 This practice can also be very well integrated into yoga nidra. (See practice chapter 2)
 
 
@@ -111,9 +115,12 @@ blinking or moving the eyeballs.
 Continue to gaze at the flame with total concentration. The whole of your
 consciousness must become centered in the flame, to the extent that awareness of the rest
 of the body and the room is lost.
+
 The gaze should be absolutely fixed on one point.
+
 When the eyes become tired (perhaps after a few minutes), or if they begin to water,
 close them and relax.
+
 Do not move the body, but be aware of the after-image of the flame in front of the
 closed eyes.
 
@@ -123,33 +130,44 @@ after-image of the candle flame will be clearly visible.
 You should practise trataka on this image, holding it directly in front or a little above
 the eyebrow center-As soon as it begins to fade, open the eyes again and continue to
 concentrate on the external candle flame.
+
 Note: The best times to practise trataka are the dark hours of the very early morning
 or late at night. At these times, the atmosphere becomes very still and quiet - not only the
 physical atmosphere, but the mental and psychic atmospheres also. In this stillness,
 success in trataka is readily attained.
-Other forms of trataka
+
+
+### Other forms of trataka
+
 Trataka can be practised on a small dot, the full moon, a shadow, a crystal ball, the
 nosetip, an image in water, a yantra, darkness, a shivalingam and many other things.
 Those who have a personal deity can practise trataka on his or her form and those who
 have a guru can practise on his or her photograph. Trataka can also be practised on the
 rising sun, one's own image in the mirror, or the eyes of another person. These should,
 however, be done under the guidance of a guru, as there are certain risks involved.
+
 There are two divisions of trataka, bahiranga (outer) and antaranga (inner). The
 methods mentioned so far are all part of bahiranga trataka. Inner trataka (antaranga) is
 internal visualization, perhaps of a chakra, a yantra or your personal deity. The eyes
 remain closed throughout. One of the best inner objects for concentration is a tiny star or
 point of light.
+
 Duration: Trataka can be practised as time permits, but 15 to 20 minutes is the usual
 period in the beginning.
+
 Benefits: Trataka has many physical, mental and spiritual benefits. Physically, it
 corrects eye weaknesses and certain defects such as nearsightedness. Mentally, it
 increases nervous stability, removes insomnia and relaxes the anxious mind. When the
 eyes are fixed and unmoving, the mind becomes the same. The thinking process
 automatically ceases as concentration increases. It brings control to the tempestuous
 rnind, and spiritually it awakens ajna chakra.
+
 Practice 3: Shambhavi mudra with Om chanting
+
 Eyebrow center gazing
-Stage 1
+
+### Stage 1
+
 Sit in any meditative pose with the back straight and hands on the knees. Look
 forward at a fixed point, and then look upward as high as possible without moving the
 head. Focus the eyes and concentrate on the eyebrow center. Try to suspend the thought
@@ -160,9 +178,9 @@ awareness of every vibration of the mantra in the eyebrow center. Each mantra sh
 one or two seconds in duration, and immediately followed by the next. Practise for 3 to 5
 minutes.
 
-Stage 2
+### Stage 2
 
-Now the eyes are closed, but the inner gaze remains in the eyebrow center.Begin to
+The eyes are closed, but the inner gaze remains in the eyebrow center.Begin to
 chant the mantra more slowly, with full awareness of the sound vibration in the eyebrow
 center. Imagine that the sound is being emitted from within the eyebrow center itself.
 Gradually and effortlessly increase the duration of each Om, making it long and
@@ -170,7 +188,8 @@ continuous. The sound should be steady and of an even key, ending on completion 
 breath. Then refill the lungs completely by breathing through the nose, but do not alter
 the position of the body or head. Begin the next Om, maintaining awareness of the sound
 emerging from the eyebrow center. Practise for 5 minutes.
-Stage 3
+
+### Stage 3
 
 Continue to chant the mantra Оm, but become aware of the sound reverberating
 throughout the body. Try to be aware of the sound only, listening to its vibration

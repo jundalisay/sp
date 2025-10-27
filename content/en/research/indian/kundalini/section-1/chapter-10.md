@@ -33,7 +33,7 @@ of awakening the entire physical body. Every cell of the body is one individual.
 the macro-cosmic body for that microcosmic individual.
 
 
-## Step 1: Disciplining ida and pingala
+### Step 1: Disciplining ida and pingala
 
 Ida and pingala nadis are responsible for the mundane existence. Pingala conducts the
 life that is in your body and ida conducts the consciousness. These two nadis respectively

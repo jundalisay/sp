@@ -7,7 +7,7 @@ description: ""
 ---
 
 
-Month 2
+### Month 2
 
 The process of awakening mooladhara chakra is not very difficult. It can be achieved by thousands of different methods, but the easiest of all is the concentration on the tip of the nose. This is because the part of the sensory cortex which represents mooladhara chakra is connected with the nose. At the same time, mooladhara chakra belongs to the earth element, which is directly related to the sense of smell. Therefore, we shall include nasikagra drishti - the practice of nosetip gazing, in this section, as well as moola bandha, which directly stimulates mooladhara chakra. Remember that mooladhara chakra does not have a kshetram.
 
@@ -34,7 +34,8 @@ Key to exact location of contraction points:
 2. Moola bandha (between anus and scrotum; perineal body)
 3. Ashwini mudra (anal muscles/sphincters).
 
-Practice 1. Chakra location
+
+### Practice 1. Chakra location
 
 For men :
 
@@ -55,7 +56,9 @@ Sit in siddha yoni asana or a suitable alternative. Relax your body completely a
 close your eyes. Move your awareness to the lower part of the body and focus your
 attention on the contact point between your heel and the opening of the vagina. Become
 intensely aware of the slight but distinct pressure at this point. Center yourself at the
-pressure point. Now become aware of your natural breath. Feel or imagine that you are
+pressure point. 
+
+Become aware of your natural breath. Feel or imagine that you are
 breathing in and out of the pressure point. Continue this for 10 deep breaths. Now bring
 your awareness inside the body. From the point of external pressure, move your
 awareness in towards the base of the spine. Follow the natural formation of the vagina,
@@ -74,6 +77,7 @@ Men should sit in a comfortable position and press one ringer onto the perineum,
 midway between the anus and scrotum, then contract the muscles there. The contraction
 will be felt. When they can contract those muscles without movement of the anus or
 penis, the perineal body has been successfully isolated.
+
 Women should assume a comfortable sitting or lying position and gently insert one
 finger into the vagina as far as it will go. Then tighten the muscles so that the walls of the
 upper vagina contract and squeeze the finger. If they can do this without contracting the
@@ -115,7 +119,7 @@ Practice 3: Nasikagra drishti
 
 This practice is also called agochari mudra (the gesture of invisibility).
 
-Nosetip gazing
+### Nosetip gazing
 
 Sit in any meditative pose with the spine erect and the head facing forward. Close
 your eyes and relax your whole body for some time. Then open your eyes and focus them
@@ -140,7 +144,7 @@ passages. Try to become completely absorbed in the practice, to the exclusion of
 thoughts and external distractions. Be aware of the nosetip, the movement of the breath
 and the accompanying sound. Carry on in this manner for up to 5 minutes.
 
-Practise
+### Practise
 
 This sadhana (practices 1, 2 and 3), for mooladhara chakra, should be done for a
 period of one month. You should also continue the practices for awakening ajna chakra.

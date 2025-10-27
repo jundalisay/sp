@@ -21,20 +21,19 @@ compared to the dazzling heat and power of the sun, without which life on earth 
 not exist. In the same way that the sun continually radiates energy to the planets,
 manipura chakra radiates and distributes pranic energy throughout the entire human
 framework, regulating and energizing the activity of the various organs, systems and
-processes of life. When deficient, it is more like the glowing embers of a dying fire rather
-than a powerful intense blaze. In this state the individual is rendered lifeless, vitality
+processes of life.
+
+When deficient, it is more like the glowing embers of a dying fire rather than a powerful intense blaze. In this state the individual is rendered lifeless, vitality
 deficient and devoid of energy. He will be hindered by poor health, depression and lack
 of motivation and commitment in life. Therefore, the awakening of manipura is an
 important precedent, not only for the sadhaka, but for anyone who wishes to enjoy life
 more fully.
 
-The location point
-
 Manipura chakra is located directly behind the navel on the inner wall of the spinal
 column. The kshetram is situated right at the navel. This chakra is anatomically related to
 the solar plexus, which controls the digestive fire and heat regulation in the body.
 
-Traditional symbology
+### Traditional symbology
 
 Manipura is symbolized by a ten petalled bright yellow lotus. Some of the tantric
 texts say the lotus petals are the color of heavily-laden rain clouds. On each petal one of

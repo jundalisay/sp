@@ -5,7 +5,7 @@ weight: 38
 c: "darkgoldenrod"
 description: "The life of mortal animal necessarily consisted of fire and breath. This allowed it to waste away by dissolution and depletion"
 author: "Plato"
-icon: /icons/Socrates.jpg
+icon: Socrates
 ---
 
 

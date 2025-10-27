@@ -10,7 +10,9 @@ description: ""
 
 When kundalini is residing in swadhisthana chakra, the last vestige of karma is being
 thrown out and all the negative samskaras express themselves and are expelled. At this
-time you may be angry, afraid or full of sexual fantasies and passion. You may also
+time you may be angry, afraid or full of sexual fantasies and passion. 
+
+You may also
 experience lethargy, indolence, depression and all kinds of tamasic characteristics. The
 tendency to procrastinate is very strong and you just want to sleep and sleep. This stage
 of evolution is known as purgatory, and if you read the lives of many of the great saints,
@@ -53,7 +55,8 @@ understanding, swadhisthana becomes like an impenetrable iron curtain and perhap
 one in thousands can transcend it. Many people awaken kundalini quite easily, but
 passing the swadhisthana border is another thing; you can't get through without a visa.
 
-The sexual crisis
+
+### The sexual crisis
 
 I remember reading a book written by a wellknown swami who had difficulties
 getting through swadhisthana. He wrote: "I was sitting all night and nothing but sex and
@@ -106,12 +109,15 @@ Energy at different levels is known by different names. At the highest level it 
 called spiritual experience. On the emotional level it is known as love. On the physical
 level it is known as sex, and at the lowest level it is known as avidya or ignorance. So
 therefore, when you talk about sex, you must understand that it is only a particular
-formation of energy. Just as curd, butter and cheese are different formations of the one
+formation of energy. 
+
+Just as curd, butter and cheese are different formations of the one
 thing - milk, energy has different manifestations. Matter is the grossest manifestation of
 energy; in the ultimate state, matter is energy. Therefore, energy and matter are
 intraconvertible. A thought is an object and an object is a thought. This body is
 consciousness and consciousness has become this body. In the same way that you
 understand this, you have to reanalyze and redefine sexual awareness.
+
 The rishis say that the same energy which flows through passion, when channelized,
 manifests as devotion. Channelize this same energy again and it manifests as spiritual
 experience. That is why spiritual aspirants love God in various manifestations. Some
@@ -119,7 +125,8 @@ picture him as a father, a mother, a child, a friend, husband or lover. In this 
 sublimate the form of their emotional energy and even transform the primal energy into a
 divine experience.
 
-Psychic propensities of swadhisthana
+
+### Psychic propensities of swadhisthana
 
 At a higher level, swadhisthana acts as the switch for bindu. This is the point where
 primal sound originates. Any awakening in swadhisthana is simultaneously carried up to

@@ -48,6 +48,8 @@ I did not see you descending, but now I see you ascending. Why do you lie since 
 6. The foolish wisdom of flesh
 7. Wrathful wisdom
 
+{{< n n="These are the negative interpretations of the 7 chakras" >}}
+
 
 {{< r a="Wrath" >}}
 Where do you come from, slayer of men? Where are you going, conqueror of space?

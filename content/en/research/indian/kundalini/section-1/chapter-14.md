@@ -23,7 +23,8 @@ does not interfere with sexual life. Normal sexual life is neither spiritual nor
 But if you practise yoga and master certain techniques, then sexual life becomes spiritual.
 Of course, if you lead a celibate life, that is spiritual too.
 
-Left hand tantra
+
+### Left hand tantra
 
 The science of tantra has two main branches, which are known as vama marga and
 dakshina marga. Varna marga is the left path which combines sexual life with yoga
@@ -40,7 +41,8 @@ Ordinarily this experience is lost before one is able to deepen it. By mastering
 techniques, however, this experience can become continuous even throughout daily life.
 Then the silent centers of the brain are awakened and they start to function all the time.
 
-The energy principle
+
+### The energy principle
 
 The contention of vama marga is that the awakening of kundalini is possible through
 the sexual interaction between man and woman. The concept behind this follows the
@@ -50,12 +52,14 @@ represent time and space. Ordinarily, these two forces stand at opposite poles. 
 sexual interaction, however, they move out of their position of polarity, towards the
 center. When they come together at the nucleus or central point, an explosion occurs and
 matter becomes manifest. This is the basic theme of tantric initiation.
+
 The natural event that takes place between man and woman is considered as the
 explosion of the energy center. In every speck of life, it is the union between the positive
 and negative poles that is responsible for creation. At the same time, union between the
 positive and negative poles is also responsible for enlightenment, and the experience
 which takes place at the time of union is a glimpse of the higher experience.
 This subject has been thoroughly discussed in all the old scriptures of tantra.
+
 Actually, more important than the energy waves that are created during the mutual union,
 is the process of directing that energy to the higher centers. Everybody knows how this
 energy is to be created, but nobody knows how to direct it to the higher centers. In fact,
@@ -63,6 +67,7 @@ very few people have a full and positive understanding of this natural event whi
 everybody in this world experiences. If the conjugal experience, which is generally very
 transitory, could be extended for a period of time, then the experience of enlightenment
 would take place.
+
 The elements that are brought together in this process of union are known as Shiva
 and Shakti. Shiva represents purusha or consciousness and Shakti represents prakriti or
 energy. Shakti, in different forms, is present in all creation. Both material and spiritual
@@ -70,14 +75,18 @@ energy are known as Shakti. When the energy moves outwardly, it is material ener
 when it is directed upwards it is spiritual energy. Therefore, when the union between man
 and woman is practised in the correct way, it has a very positive influence on the
 development of spiritual awareness.
-Retaining the bindu
+
+### Retaining the bindu
+
 Bindu means a point or a drop. In tantra, bindu is considered to be the nucleus, or the
 abode of matter, the point from which all creation becomes manifest. Actually, the source
 of bindu is in the higher centers of the brain. But due to the development of emotions and
 passions, bindu falls down to the lower region where it is transformed into sperm and
 ova. At the higher level, bindu is a point. At the lower level, it is drop of liquid, which
 drips from the male and female orgasm.
+
 According to tantra, preservation of the bindu is absolutely necessary for two reasons.
+
 Firstly, the process of regeneration can only be carried out with the help of bindu.
 Secondly, all the spiritual experiences take place when there is an explosion of bindu.
 This explosion can result in the creation of a thought or of anything. Therefore, in tantra,
@@ -89,42 +98,10 @@ it. For this purpose, the male partner should perfect the practices of vajroli m
 as moola bandha and uddiyana bandha. When these three kriyas are perfected, one is able
 to stop ejaculation completely at any point of the experience.
 
-The sexual act culminates in a particular experience which is reached only at the
-point of explosion of energy. Unless the energy explodes, the experience cannot take
-place. But this experience has to be maintained, so that the energy level remains high.
-When the energy level falls ejaculation takes place. Therefore, ejaculation is avoided, not
-so much to preserve the semen, but because it causes a depression in the level of energy.
-To make this energy travel upwards through the spine, certain hatha yoga kriyas have
-to be mastered. The experience which is concomitant of energy has to be raised to the
-higher centers. It is only possible to do this if you are able to prolong and maintain that
-experience. As long as the experience continues, you can direct it to the higher centers.
-But as soon as the energy level undergoes depression, ejaculation will inevitably take
-place.
+The sexual act culminates in a particular experience which is reached only at the point of explosion of energy. Unless the energy explodes, the experience cannot take place. But this experience has to be maintained, so that the energy level remains high. When the energy level falls ejaculation takes place. Therefore, ejaculation is avoided, not so much to preserve the semen, but because it causes a depression in the level of energy. To make this energy travel upwards through the spine, certain hatha yoga kriyas have to be mastered. The experience which is concomitant of energy has to be raised to the higher centers. It is only possible to do this if you are able to prolong and maintain that experience. As long as the experience continues, you can direct it to the higher centers. But as soon as the energy level undergoes depression, ejaculation will inevitably take place.
 
-Ejaculation brings down the temperature of the body and at the same time, the
-nervous system undergoes depression. When the sympathetic and parasympathetic
-nervous systems undergo depression, it affects the brain. That is why many people have
-mental problems. When you are able to retain the semen without ejaculating at all, the
-energy in the nervous system and the temperature in the whole body are maintained. At
-the same time, you are free from the sense of loss, depression , frustration and guilt.
-Retention will also help to increase the sexual frequency, and that is better for both
-partners. The sexual act does not have to create weakness or dissipate the energy, on the
-contrary, it can become a means of exploding the energy. Therefore, the value of
-retaining the bindu should not be underestimated.
+Ejaculation brings down the temperature of the body and at the same time, the nervous system undergoes depression. When the sympathetic and parasympathetic nervous systems undergo depression, it affects the brain. That is why many people have mental problems. When you are able to retain the semen without ejaculating at all, the energy in the nervous system and the temperature in the whole body are maintained. At the same time, you are free from the sense of loss, depression , frustration and guilt. Retention will also help to increase the sexual frequency, and that is better for both partners. The sexual act does not have to create weakness or dissipate the energy, on the contrary, it can become a means of exploding the energy. Therefore, the value of retaining the bindu should not be underestimated.
 
-In hatha yoga there are certain practices which must be perfected for this purpose.
-You should begin with asanas such as paschimottanasana, shalabhasana, vajrasana, supta
-vajrasana and siddhasana. These are beneficial as they place an automatic contraction on
-the lower centers. Sirshasana is also important because it ventilates the brain so that all of
-one's experiences will be healthy experiences. When these postures have been mastered,
-shambhavi mudra is perfected in order to hold the concentration steadily at bhrumadhya.
-Then vajroli mudra has to be practised together with moola bandha and uddiyana bandha
-in kumbhaka. Practice of kumbhaka is necessary while the ejaculation is being held.
-Retention of the breath and the bindu go hand in hand. Loss of kumbhaka is loss of
-bindu, and loss of bindu is loss of kumbhaka.
+In hatha yoga there are certain practices which must be perfected for this purpose. You should begin with asanas such as paschimottanasana, shalabhasana, vajrasana, supta vajrasana and siddhasana. These are beneficial as they place an automatic contraction on the lower centers. Sirshasana is also important because it ventilates the brain so that all of one's experiences will be healthy experiences. When these postures have been mastered, shambhavi mudra is perfected in order to hold the concentration steadily at bhrumadhya. Then vajroli mudra has to be practised together with moola bandha and uddiyana bandha in kumbhaka. Practice of kumbhaka is necessary while the ejaculation is being held. Retention of the breath and the bindu go hand in hand. Loss of kumbhaka is loss of bindu, and loss of bindu is loss of kumbhaka.
 
-During kumbhaka, when you are maintaining the experience, you should be able to
-direct it to the higher centers. If you are able to create an archetype of this experience,
-perhaps in the form of a serpent or a luminous continuity, then the result will be fantastic.
-So, in spiritual life, bindu must be preserved at all costs.
-
+During kumbhaka, when you are maintaining the experience, you should be able to direct it to the higher centers. If you are able to create an archetype of this experience, perhaps in the form of a serpent or a luminous continuity, then the result will be fantastic. So, in spiritual life, bindu must be preserved at all costs.

@@ -55,13 +55,17 @@ separate and live as two entities. There is duality in mooladhara chakra. There 
 in the mind and senses and in the world of names and forms, but there is no duality in
 samadhi. There is no seer or experiencer in the state of samadhi. There is nobody to say
 what samadhi is like because it is a non-dual experience.
-Why Shiva and Shakti both descend
+
+
+### Why Shiva and Shakti both descend
+
 It is very difficult to understand why Shiva and Shakti both descend to the gross
 plane after having attained the highest union. What is the use of destroying the world and
 then creating it again? What is the point of transcending the consciousness if you have to
 come back to it again? Why bother to awaken kundalini and unite with Shiva in sahasrara
 if you have to come down to mooladhara again? This is something very mysterious and
 we can well ask, 'Why awaken kundalini at all?'
+
 Why build a mansion if you know you will have to burn it down when it is
 completed? We actually create a lot of things that are ultimately going to be destroyed.
 So why do it at all? It seems so crazy! We do so much sadhana to transcend the chakras
@@ -79,12 +83,14 @@ discharging your worldly obligations like other people do. Maybe you even play t
 game of desires, passions, cravings and such things. Maybe you play the game of victory
 and defeat, attachments and infatuations, but you just play a game. You know it; you do
 everything as an actor. You are not involved in it life and soul.
+
 It is at this time the genius or the transformed consciousness manifests through you.
 You don't have to think or plan how to perform miracles. You have to remember that you
 have come down as a transformed quality of consciousness. You must remember that you
 are now connected with those areas of the brain which were previously silent. And you
 must also remember that you are linked with those reservoirs of knowledge, power and
 wisdom which belong to the realm of the higher cosmos.
+
 Until the descent is complete, such a man lives a very simple life, unnoticed and
 unattended. Once the descent is complete he begins to play the game and people
 recognize him as a divine incarnation. They see he is something special compared to

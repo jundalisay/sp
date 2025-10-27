@@ -7,7 +7,7 @@ description: ""
 ---
 
 
-Month 3
+## Month 3
 
 The sadhana for awakening swadhisthana chakra is solely concerned with the uro-
 genital systems of the body - the prostate gland and testes in the male, and the genito-
@@ -44,7 +44,7 @@ away, you will experience a residual sensation. About half an inch deep into tha
 sensation is the location of swadhisthana chakra. Concentrate on it for 2 minutes or so
 repeating mentally, 'swadhisthana, swadhisthana, swadhisthana'.
 
-Practice 2: Kshetram location
+### Practice 2: Kshetram location
 
 If you feel down to the lower end of the abdomen, you will come to a bony portion at
 the front part of the pelvis. This is called the pubis, and is the anatomical location of
@@ -52,7 +52,7 @@ swadhisthana kshetram. Press hard on this area for about one minute. Then remove
 finger and concentrate on the point where your finger was and repeat mentally,
 'swadhisthana, swadhisthana, swadhisthana'.
 
-Practice 3: Ashwini mudra
+### Practice 3: Ashwini mudra
 
 Sit in any meditative posture. Relax the whole body, close the eyes and breathe
 normally. Contract the sphincter muscles of the anus for half a second, relax them for half
@@ -60,7 +60,7 @@ a second, then contract them again and continue like this. Try to feel the waves
 up to hit swadhisthana chakra. Focus your whole attention on the lower end of the spine
 and feel the pressure waves. Continue this for a few minutes.
 
-Practice 4: Vajroli mudra (for men)
+### Practice 4: Vajroli mudra (for men)
 
 Sit comfortably in siddhasana, preferably with a thin cushion or a folded blanket
 beneath the buttocks. Close the eyes and relax. Try to draw the sexual organ upward by
@@ -72,7 +72,7 @@ pubis all the time, repeating mentally, 'swadhisthana, swadhisthana, swadhisthan
 
 Continue for a few minutes.
 
-Practice 4: Sahajoli (for women)
+### Practice 4: Sahajoli (for women)
 
 Sit comfortably in siddha yoni asana, preferably with a thin cushion or folded blanket
 beneath the buttocks. Make sure your foot is perfectly clean before you place the heel

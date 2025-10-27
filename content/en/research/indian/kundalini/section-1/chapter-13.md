@@ -11,7 +11,9 @@ description: ""
 Awakening of kundalini is very difficult. You can try the various yogic and religious
 practices that have evolved throughout the ages, but they require a lot of self-discipline
 and demanding austerities. There are so many do's and dont's that the average person
-finds unpalatable. Therefore, the rishis of the tantric tradition evolved a series of practices
+finds unpalatable. 
+
+Therefore, the rishis of the tantric tradition evolved a series of practices
 that could be easily adopted by every type of aspirant regardless of his lifestyle, habits,
 beliefs, and so on. Of course there are many practices belonging to tantra, but of them all,
 kriya yoga is considered to be the most powerful and suitable for the modern day man
@@ -22,12 +24,15 @@ practices were mentioned in the tantric texts, but they were never clearly defin
 Through a tradition, the practices were handed down from guru to disciple. They were
 given to both householder and monastic disciples, who soon discovered that through
 these techniques, kundalini became a reality and a real experience in their lives.
+
 The ultimate purpose of kriya yoga is to create awakening in the chakras, to purify
 the nadis, and finally, to awaken the kundalini shakti. The kriyas are intended to awaken
 the kundalini in stages and not abruptly. When kundalini awakens abruptly, the
 experiences you have are very difficult to handle and you cannot understand what is
 happening to you. The techniques of kriya yoga offer a smooth and relatively risk-free
-means of expanding your awareness and awakening the dormant areas of the brain. Also,
+means of expanding your awareness and awakening the dormant areas of the brain. 
+
+Also,
 this system of kriya yoga provides a means whereby you do not have to tackle the mind
 directly. Its practices are based on hatha yoga, which aims at controlling the prana. Mind
 and prana interact with each other and thereby, by controlling the prana, we can gain
@@ -66,39 +71,47 @@ hormonal imbalances, bad digestion, low influx of energy in the nervous system a
 many other things. Never blame the mind for its restlessness, and don't consider yourself
 to be an impure, bad or inferior person because your mind jumps all over the place,
 thinking negative things and what you consider to be evil thoughts, etc.
+
 Everybody has negative thoughts and distractions of mind, even a compassionate and
 charitable person, a peaceful man, a chaste and pure person. Dozens of factors could be
 the cause of a distracted mind. Suppressing the mind and calling it back again and again
-is not the way to concentrate the mind, it is a way to the mental hospital. After all, who
+is not the way to concentrate the mind, it is a way to the mental hospital.
+
+After all, who
 suppresses or calls back who? Are there two personalities or two minds in you? Is there
 one bad mind which keeps wandering off and one good mind which tries to bring back
 the bad mind? No, there is only one mind and you should not create a split by
 antagonizing the mind. If you do this, one part of the mind becomes the dictator and
 controller and the other part becomes the victim. Then you'll develop a great gap between
-two aspects of your mind and personality and within a very short time you'll become
-totally schizophrenic.
+two aspects of your mind and personality and within a very short time you'll become totally schizophrenic.
+
 It is necessary to understand this point very well, because our religions, philosophies
 and ways of thinking have not been very systematic, loving and tender in their approach
 to the mind. We have always been led to believe that the mind is very mischievous, but
 this is a grave mistake. Therefore, please try to redefine the mind and approach it
 scientifically.
+
 Mind is not a psychological stuff, nor is it a thought process. Mind is energy. Anger,
 passion, greed, ambition, etc. are waves of that energy. Through kriya yoga you are
 trying to harness the energies of the mind, but you should not try to suppress this energy
 because it will explode. And the more you suppress this energy the greater will be the
 ultimate explosion.
+
 Kriya yoga is very clear in its approach to the mind. It emphasizes that you do not try
 to do anything with the mind. If your body protests about maintaining a fixed posture,
 change it. If your mind objects about closing the eyes, keep them open. But you must
 continue with the kriya yoga practices because they have a direct effect on the deeper
-processes of the body which are responsible for the state of your mind. Remember that
-the body affects the mind and the mind affects the body.
+processes of the body which are responsible for the state of your mind. Remember that the body affects the mind and the mind affects the body.
+
 We should not consider the techniques of kriya yoga as practices of concentration or
 meditation as their aim is not mental control. The beauty of kriya yoga is that you have
 only to remain relaxed and let the mind move naturally and spontaneously. Inner
 awareness will then awaken, and in time, your mind will automatically become one-
 pointed.
-A path for all
+
+
+### A path for all
+
 As you know, we are all aspirants of a different caliber. Some of us are tamasic, some
 are rajasic and a very small number are sattvic. Of course we are not purely sattvic,
 rajasic or tamasic. Predominantly we are one of these, but we retain traces of the other
@@ -108,10 +121,12 @@ further, it becomes more rajasic and may or may not have traces of tamas and sat
 Next, it becomes predominantly sattvic, with traces of rajo and tamo gunas here and
 there. And then in its fifth stage of evolution, the mind becomes totally sattvic,
 manifesting rajo and tamo gunas very rarely.
+
 These five stages are like rungs on a ladder, representing the evolution of chitta or the
 mind. The lowest rung is known as the inert mind. The second rung is the scattered mind,
 the third is the oscillating mind, the fourth is the one-pointed mind and the fifth is the
 controlled mind.
+
 Now, if you belong to one of the first three categories, and most of us do, after
 practising hatha yoga, you should take to kriya yoga. If you belong to one of the last two
 categories, then after hatha yoga, you can take to kriya yoga if you want, or you can
@@ -119,6 +134,7 @@ follow the path of raja yoga or any other path which asks you to concentrate thr
 willpower. When you are at the sattvic level you can deal with the mind through the
 mind, but when you are at the tamasic or rajasic level, if you try to deal with the mind
 through the mind, you will cause a mental crisis.
+
 In this world, there are very few sattvic people. Most of us have a very restless and
 distracted mind, and we find it impossible to focus on one object or theme for very long.
 You know what happens if you light a candle when the wind is blowing? The same thing
@@ -126,6 +142,7 @@ happens when most people try to concentrate. The fluctuations of the mind totall
 annihilate the one-pointedness. So, the kriya yoga practices were designed for those
 people who are unable to control, concentrate or stabilize their mind and for those who
 cannot sit in one posture for a prolonged period of time.
+
 Whether you are sattvic, rajasic or tamasic, the practices of hatha yoga should be
 taken up first. A tamasic person needs hatha yoga to awaken his mind, body and
 personality. A person who is rajasic needs hatha yoga to balance the solar and lunar
@@ -157,6 +174,7 @@ visarga) towards the sun (manipura chakra) should be reversed and sent back to t
 higher centers." What will happen then? Hatha Yoga Pradipika continues: "When you
 are able to reverse the flow of amrit or nectar, it will not be consumed by the sun. It will
 be assimilated by your pure body."
+
 When your body has been purified by hatha yoga, pranayama and a pure diet, this
 nectar is assimilated by the body, and as a result of this, you experience a high mental
 state. When the nectar returns to its source in the higher centers of the brain, and is not
@@ -166,22 +184,28 @@ suddenly all these activities come to an end and you feel total brightness. Your
 open, you can hear sounds and see everything around you, but the mind does not move. It
 appears as if time, space and object have ceased and the whole universe has stopped
 functioning.
+
 The main hypothesis or contention here, is that you can influence the structures of the
 body; you can create a change in the energy forces. And by creating a change in the
 physical secretions, by altering the chemical proportions and the energy proportions in
 the body, you can create an effect on the mind which you may call shanti, dharana,
-dhyana or samadhi. This means that even when your mind is totally undisciplined and
+dhyana or samadhi. 
+
+This means that even when your mind is totally undisciplined and
 you cannot handle it for a second, if you are able to create the correct proportion of
 secretions in the different areas of the body/mind, then the higher state can be achieved.
 You know what happens if you take a dose of ganja (marijuana)? Take a few puffs
 and see what happens to your mind. It slows down and the brain waves change from theta
 to beta, from alpha to delta. Suddenly you feel calm and quiet. What happened to your
-mind? You didn't fight with it. I'm not advocating the use of ganja, I'm just giving you a
+mind? You didn't fight with it. 
+
+I'm not advocating the use of ganja, I'm just giving you a
 very gross example of how kriya yoga works on your mind. By infusing ganja or some
 hallucinogenic drug, the chemical properties of the gross body change. The heart slows
 down, the breathing rate changes, the brain waves alter and the mind becomes calm and
 still. Is it not possible to arrive at the same point through kriya yoga? Yes; this is exactly
 what is accomplished through kriya yoga.
+
 The various practices of kriya yoga, particularly vipareeta karani mudra, amrit pan,
 khechari mudra, moola bandha, maha mudra, maha bheda mudra, etc. regulate the
 nervous system. They harmonize the pranic forces in the body and equalize the quantity
@@ -200,9 +224,12 @@ upper palate. In the course of time the tongue gets elongated and can be inserte
 nasal orifice. Then certain glands which are connected with the cranial passage and bindu
 visarga are stimulated, and as a result, amrit or nectar begins to flow. When amrit is
 released you experience a special type of'high' or intoxication.
+
 It might take you a few years to perfect khechari mudra and to stimulate the flow of
 amrit, but it is well worth the effort. When you sit for meditation the mind is perfectly
-still, it cannot move and you cannot think. There is shoonyata, an experience of total
+still, it cannot move and you cannot think. 
+
+There is shoonyata, an experience of total
 nothingness. If you are practising mantra you feel that somebody else is practising and
 you are only witnessing it. This is considered a very important experience because it puts
 you in touch with the external and internal experiences at the same time and you are

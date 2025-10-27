@@ -11,6 +11,7 @@ description: ""
 Ajna is symbolized by a two petalled lotus. According to the scriptures it is a pale
 color, light grey like a rainy day. Some say it is white like the moon, or silver, but
 actually it is an intangible color. On the left petal is the letter ham and on the right ksham.
+
 Ham and ksham are inscribed in a silvery white color and are the bija mantras for Shiva
 and Shakti. One represents the moon or ida nadi and the other the sun or pingala nadi.
 Below the chakra the three nadis merge - ida on the left, pingala on the right and
@@ -18,7 +19,9 @@ sushumna in between.
 
 Within the lotus is a perfectly round circle which symbolizes shoonya, the void.
 Within the circle is an inverted triangle which represents shakti - creativity and
-manifestation. Above the triangle is a black shivalingam. Shivalingam is not, as many
+manifestation. Above the triangle is a black shivalingam. 
+
+Shivalingam is not, as many
 people believe, a phallic symbol. It is the symbol of your astral body. According to tantra
 and occult sciences, the astral body is the attribute of your personality, and in the form of
 shivalingam, it can be one of three colors, depending on the purification or evolution of
@@ -31,17 +34,20 @@ black lingam with a very consolidated outline. It is called the itarakhya lingam
 ajna, the awareness of 'what I am' is more sharply defined and various capacities are
 being awakened. In sahasrara the consciousness is illumined and therefore the lingam
 there is luminous. It is called the jyotir lingam.
+
 When a person of unevolved mind concentrates, he experiences the shivalingam in the
 form of a smoky column. It comes and then disperses, comes again and disperses, and so
 on. With deeper concentration, as the restlessness of the mind is annihilated, the lingam
 becomes black in color. By concentrating on that black shivalingam, the jyotir lingam is
 produced within the illumined astral consciousness. Therefore, the black lingam of ajna
 chakra is the key to the greater spiritual dimension of life.
+
 Over the shivalingam is the traditional symbol of Оm, with its tail on top and the
 crescent moon and bindu above that. Om is the bija mantra and symbol of ajna chakra,
 and above its form can be seen the raif, the trace of sound consciousness. Paramshiva is
 the deity of ajna chakra and he shines like a chain of lightning flashes. The goddess is the
 pure minded Hakini whose six faces are like so many moons.
+
 Each chakra is considered to possess a tanmatra, or specific sense of modality, a
 gyanendriya or organ of sense perception, and a karmendriya or organ of action. The
 tanmatra, gyanendriya and karmendriya of ajna chakra are all considered to be the mind.
@@ -55,6 +61,7 @@ considered to be the karmendriya of ajna. The mode of operation of this center i
 mental and so the tanmatra is also the mind. The plane is tapa loka, where vestiges of
 imperfection are purified and the karmas are burned away. Along with vishuddhi chakra,
 ajna forms the basis for vigyanamaya kosha, which initiates psychic development.
+
 Often, the experience one has when awakening takes place in ajna is similar to that
 induced by ganja (marijuana) or any other drug of that type. He who meditates on this
 awakened chakra sees a flaming lamp shining as the morning sun and he dwells within
@@ -64,7 +71,8 @@ benefactor of all and is versed in all the shastras. He realizes his unity with 
 and acquires siddhis. Different results accruing out of meditation on the various centers
 are collectively realized by meditating on this center alone.
 
-Ajna and the mind
+
+### Ajna and the mind
 
 So, ajna is essentially the chakra of the mind, representing a higher level of
 awareness. Whenever you concentrate on something, whether it is mooladhara,
@@ -100,7 +108,8 @@ newly developed siddhis which accompany the awakening of ajna. The knot effectiv
 blocks the spiritual evolution until attachment to psychic phenomena is overcome and the
 knot in consciousness is freed.
 
-Understanding cause and effect
+
+### Understanding cause and effect
 
 Up until ajna chakra awakens, we are under delusions, we view things incorrectly and
 we have many great misconceptions, about love and attachment, hatred and jealousy,
@@ -111,6 +120,7 @@ experiences are relative, we are also dreaming in our waking state and our exper
 are relative. In the same way that we wake from a dream, when ajna awakens, there is
 also a process of waking up from this present dream we are living, and we can fully
 understand the relationship between cause and eflect.
+
 It is necessary for us to understand the law of cause and effect in relation to our lives,
 otherwise we are depressed and sorrowful about certain events in life. Supposing you
 give birth to a child and shortly after it dies. Why did it happen? This is what everybody
@@ -126,9 +136,11 @@ of your life do not disturb you at all. You participate in all the affairs of li
 fully, but as a detached witness. Life flows like a fast current and you surrender and move
 with it.
 
-Moving on from ajna to sahasrara
+
+### Moving on from ajna to sahasrara
 
 To reach ajna chakra it requires sadhana, discipline, firm belief and persistent effort.
+
 With our present state of mind it is not possible to know how to reach sahasrara, but once
 ajna chakra becomes active, you develop superior perception and you realize how
 sahasrara can be reached. It's like setting out on a journey from Munger to Marine Drive,

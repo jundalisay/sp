@@ -24,7 +24,8 @@ tailbone. This is a small bony bulb which can be felt just above the anus. It is
 anatomically very close to mooladhara chakra in both the male and female bodies.
 Swadhisthana kshetram is in the front of the body at the level of the pubic bone.
 
-Traditional symbology
+
+### Traditional symbology
 
 Swadhisthana can be experienced as black in color, as it is the seat of primary
 ignorance. However, traditionally it is depicted as a six petalled vermilion or orange-red
@@ -58,7 +59,8 @@ freed from his internal enemies - lust, anger, greed, etc. His nectar-like words
 prose and verse and in well-reasoned discourse. He becomes like the sun illumining the
 darkness of ignorance.
 
-Home of unconscious
+
+### Home of unconscious
 
 Swadhisthana is regarded as the substratum or basis of individual human existence.
 Its counterpart in the brain is the unconscious mind and its storehouse of mental
@@ -95,6 +97,7 @@ awareness today. Like this, there are many experiences from the past which we do
 consciously recall but nevertheless they are playing a part in determining our daily
 behavior, attitudes and reactions. There are many karmas influencing us in this way, but
 we remain completely unaware of them.
+
 According to tantra each and every perception, experience and association is
 recorded. If you have a quarrel or bitter exchange, that is a very strong registration.
 However, if you happen to pass someone on the path, look at him and walk on, this is
@@ -107,7 +110,9 @@ In kundalini yoga, swadhisthana is often regarded as a hindrance in the sense th
 these karmas lying embedded in the unconscious do not allow the rising kundalini to pass
 through. After the initial awakening, kundalini returns to dormancy time and time again,
 solely due to the karmic block at swadhisthana. These karmas are beyond the range of
-analysis. They have practically no form but they are a great force. To give a crude
+analysis. 
+
+They have practically no form but they are a great force. To give a crude
 analogy, suppose there is a big water tank into which you drop all kinds of things. If you
 were to empty the tank five years later and examine the contents, you would no longer
 find those same objects which you put in. The matter would still be there but its form
@@ -124,4 +129,3 @@ Although the sadhaka may be duly apprehensive about entering this stage of
 awakening, it is absolutely necessary for his spiritual evolution. Provided he has a
 competent guru or guide who knows how to avoid all the pitfalls of this area,
 swadhisthana can be traversed safely and without problems.
-
