@@ -1,12 +1,9 @@
 ---
-title: "Hegel, Georg Wilhelm Friedrich"
-# date: 2022-07-14
-heading: Enlightened
-linkTitle: Hegel
-description: "Georg Wilhelm Friedrich Hegel was a German philosopher, one of the most important figures in German idealism and one of the founding figures of modern Western philosophy"
+title: "Heisenberg, Werner"
+date: 2025-10-24
+description: ""
 weight: 41
-icon: "Hegel"
-a: "Hegel"
-c: "indigo"
+a: "Werner Heisenberg"
+c: "firebrick"
 ---
 

@@ -1,39 +1,53 @@
+---
+title: "The Role of Modern Physics in the Present Development of Human Thinking"
+heading: Chapter 9
+date: 2025-10-24
+description: ""
+weight: 64
+icon: "Werner Heisenberg"
+c: "firebrick"
+---
 
 
-The Role of Modern Physics in the Present Development of Human Thinking
 
+In the history of human thinking the most fruitful developments frequently
+take place at those points where two different lines of thought meet. 
 
-The philosophical implications of modern physics have been discussed in the foregoing chapters in
-order to show that this most modern part of science touches very old trends of thought at many
-points, that it approaches some of the very old problems from a new direction. It is probably true
-quite generally that in the history of human thinking the most fruitful developments frequently
-take place at those points where two different lines of thought meet. These lines may have their
+These lines may have their
 roots in quite different parts of human culture, in different times or different cultural environments
 or different religious traditions; hence if they actually meet, that is, if they are at least so much
 related to each other that a real interaction can take place, then one may hope that new and
-interesting developments will follow. Atomic physics as a part of modern science does actually
+interesting developments will follow. 
+
+Atomic physics as a part of modern science does actually
 penetrate in our time into very different cultural traditions. It is not only taught in Europe and the
 Western countries, where it belongs to the traditional activity in the natural sciences, but it is also
 studied in the Far East, in countries like Japan and China and India, with their quite different
 cultural background, and in Russia, where a new way of thinking has been established in our
 time; a new way related both to specific scientific developments of the Europe of the nineteenth
-century and to other entirely different traditions from Russia itself. It can certainly not be the
+century and to other entirely different traditions from Russia itself.
+
+ It can certainly not be the
 purpose of the following discussion to make predictions about the probable result of the
 encounter between the ideas of modern physics and the older traditions. But it may be possible
 to define the points from which the interaction between the different ideas may begin.
+
 In considering this process of expansion of modern physics it would
-130
+
 certainly not be possible to separate it from the general expansion of natural science, of industry
 and engineering, of medicine, etc., that is, quite generally of modern civilization in all parts of the
 world. Modern physics is just one link in a long chain of events that started from the work of
 Bacon, Galileo and Kepler and from the practical application of natural science in the seventeenth
-and eighteenth centuries. The connection between natural science and technical science has
+and eighteenth centuries. 
+
+The connection between natural science and technical science has
 from the beginning been that of mutual assistance: The progress in technical science, the
 improvement of the tools, the invention of new technical devices have provided the basis for
 more, and more accurate, empirical knowledge of nature; and the progress in the understanding
 of nature and finally the mathematical formulation of natural laws have opened the way to new
 applications of this knowledge in technical science. For instance, the invention of the telescope
 enabled the astronomers to measure the motion of the stars more accurately than before;
+
 thereby a considerable progress in astronomy and in mechanics was made possible. On the other
 hand, precise knowledge of the mechanical laws was of the greatest value for the improvement of
 mechanical tools, for the construction of engines, etc. The great expansion of this combination of
@@ -49,7 +63,7 @@ penetration of science into the more remote parts of nature enabled the engineer
 of nature which in former periods had scarcely been known; and the accurate knowledge of these
 forces in terms of a mathematical formulation of the laws governing them formed a solid basis for
 the construction of all kinds of machinery.
-131
+
 The enormous success of this combination of natural and technical science led to a strong
 preponderance of those nations or states or communities in which this kind of human activity
 flourished, and as a natural consequence this activity had to be taken up even by those nations

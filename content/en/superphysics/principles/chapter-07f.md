@@ -12,5 +12,7 @@ icon: Juan
 ---
 
 
+This will explain the classification of Lamarck
+
 
 {{< i s="/photos/bio/peacock.jpg" a="Peacock" c="" >}}
