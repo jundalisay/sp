@@ -1,9 +1,9 @@
 ---
-heading: Part 6
+heading: Chapter 6
 title: "Contracts and Outrages"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 19
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapters 4-5
 title: "The Kinds of Justice"
-weight: 12
+weight: 9
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -16,7 +16,15 @@ There is more than one kind of Justice.
 
 There is one which is distinct from and besides that which is co-extensive with, Virtue, is plain: we must next ascertain what it is, and what are its characteristics.
 
-The Unjust has been divided into the unlawful and the unequal, and the Just accordingly into the lawful and the equal: the aforementioned Injustice is in the way of the unlawful.
+The Unjust has been divided into:
+- the unlawful and
+- the unequal
+
+The Just is divided into:
+- the lawful
+- the equal
+
+Injustice is in the way of the unlawful.
 
 As the unequal and the more[7] are not the same, but differing as part to whole (because all more is unequal, but not all unequal more), so the Unjust and the Injustice we are now in search of are not the same with, but other than, those before mentioned, the one being the parts, the other the wholes; for this particular Injustice is a part of the Injustice co-extensive with Vice, and likewise this Justice of the Justice co-extensive with Virtue. 
 
@@ -30,7 +38,9 @@ The producing causes of Virtue in all its bearings are those enactments which ha
 
 By the way, as to individual education, in respect of which a man is simply good without reference to others, whether it is the province of πολιτικὴ or some other science we must determine at a future time: for it may be it is not the same thing to be a good man and a good citizen in every case.[8]
 
-Chapter V.
+
+
+## Chapter 6
 
 Of the Particular Justice, and the Just involved in it, one species is that which is concerned in the distributions of honour, or wealth, or such other things as are to be shared among the members of the social community (because in these one man as compared with another may have either an equal or an unequal share), and the other is that which is Corrective in the various transactions between man and man.
 

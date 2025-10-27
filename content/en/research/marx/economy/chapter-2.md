@@ -1,8 +1,16 @@
-
-
-
-Part II
-MONEY OR SIMPLE CIRCULATION
+---
+heading: Chapter 2
+title: "Money Or Simple Circulation"
+weight: 5
+date: 2025-10-05
+description: ""
+c: "firebrick"
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
+icon: "Karl Marx"
+---
+ 
  
 
 Gladstone, speaking in a parliamentary debate on Sir Robert Peel’s Bank Act of 1844 and 1845, observed that even love has not turned more men into fools than has meditation upon the nature of money. He spoke of Britons to Britons. The Dutch, on the other hand, who in spite of Petty’s doubts possessed a divine sense for money speculation from time immemorial, have never lost their senses in speculation about money.
@@ -11,7 +19,8 @@ The principal difficulty in the analysis of money is surmounted as soon as it is
 
 During the following analysis it is important to keep in mind that we are only concerned with those forms of money which arise directly from the exchange of commodities, but not with forms of money, such as credit money, which belong to a higher stage of production. For the sake of simplicity gold is assumed throughout to be the money commodity.
 
-1. MEASURE OF VALUE
+
+1. Measure Of Value
 
 The first phase of circulation is, as it were, a theoretical phase preparatory to real circulation. Commodities, which exist as use-values, must first of all assume a form in which they appear to one another nominally as exchange-values, as definite quantities of materialised universal labour-time. The first necessary move in this process is, as we have seen, that the commodities set apart a specific commodity, say, gold, which becomes the direct reification of universal labour-time or the universal equivalent. Let us return for a moment to the form in which gold is converted into money by commodities.
 
@@ -43,7 +52,8 @@ The transformation of commodities into money of account in the mind, on paper or
 
 Because as standard of price gold is expressed by the same names of account as the prices of commodities – for example £3 17s. 10½d. may denote an ounce of gold just as well as a ton of iron – these names of account are called the mint-price of gold. Thus the queer notion arose that gold is estimated in its own material and that, unlike all other commodities, its price is fixed by the State. The establishing of names of account for definite weights of gold was mistaken for the establishing of the value of these weights. [9] Gold has neither a fixed price nor any price at all, when it is a factor in the determination of prices and therefore functions as money of account. In order to have a price, in other words to be expressed in terms of a specific commodity functioning as the universal equivalent, this other commodity would have to play the same exclusive role in the process of circulation as gold. But two commodities which exclude all other commodities would exclude each other as well. Consequently, wherever silver and gold exist side by side as legal money, i.e., as measure of value, the vain attempt has always been made to treat them as one and the same substance. If one assumes that a given labour-time is invariably materialised in the same proportion in silver and gold, then one assumes, in fact, that silver and gold are the same substance, and that silver, the less valuable metal, represents a constant fraction of gold. The history of the monetary system in England from the reign of Edward III up to the time of George II consists of a continuous series of disturbances caused by conflict between the legally established ratio between the values of gold and silver and the actual fluctuations in their value. Sometimes the value of gold was too high, sometimes that of silver. The metal whose value was estimated at too low a rate was withdrawn from circulation, melted down and exported. The value-ratio of the two metals was then once again changed by law; but soon the new nominal value in its turn clashed with the actual value-ratio. In our own time, the slight and short-lived fall in the value of gold as compared with silver, brought about by the Indian and Chinese demand for silver, produced the same phenomenon on a large scale in France – the export of silver and the elimination of silver from the sphere of circulation by gold. During the years 1855, 1856 and 1857, the excess of France’s gold imports over her gold exports amounted to £41,580,000, while the excess of her silver exports over silver imports came to £34,704,000. [10] In countries like France, where both metals are legally sanctioned measures of value and both are accepted as legal tender, where moreover every person can pay in the one or the other metal as he pleases, the metal whose value rises is in fact at a premium, and its price like that of any other commodity is measured in terms of the over-rated metal, which thus serves alone as the measure of value. All historical experience in this sphere simply shows that, where two commodities function as legally valid measures of value, it is always one of them only which actually maintains this position. [11]
 
-FOOTNOTES
+
+<!-- FOOTNOTES
 1. Aristotle does indeed realise that the exchange-value of commodities is antecedent to the prices of commodities: “That exchange took place thus before there was money is plain; for it makes no difference whether it is five beds that exchange for a house, or the money value of five beds.” On the other hand, since it is only in price that commodities possess the form of exchange-value in relation to one another, he makes them commensurable by means of money. “This is why all goods must have a price set on them; for then there will always be exchange, and if so, association of man with man. Money, then, acting as a measure, makes goods commensurate and equates them; for neither would there have been association if there were not exchange, nor exchange if there were not equality, nor equality if there were not commensurability.” Aristotle is aware of the fact that the different things measured by money are entirely incommensurable magnitudes. What he seeks is the oneness of commodities as exchange-values, and since he lived in ancient Greece it was impossible for him to find it. He extricates himself from this predicament by making essentially incommensurable things commensurable – so far as this is necessary for practical needs – by means of money. “Now in truth it is impossible that things differing so much should become commensurate, but with reference to demand they may become so sufficiently” (Aristotle’s Ethica Nicomachea, L. 5, C. 8, edit. Bekkeri, Oxonii, 1837). [The English text is from Aristotle – Ethica Nicomachea. Book V, Chapter 8, translation by W. D. Ross, Oxford, 1925, 1133b.]
 
 2. The strange fact that the ounce of gold as the standard of money in England is not divided into aliquot parts is accounted for as follows: “Our coinage was originally adapted to the employment of silver only – hence an ounce of silver can always be divided into a certain aliquot number of pieces of coin, but, as gold was introduced at a later period into a coinage adapted only to silver an ounce of gold cannot be coined into an aliquot number of pieces” (James Maclaren, A Sketch of the History of the Currency, London, 1858, p. 16).
@@ -66,3 +76,4 @@ FOOTNOTES
 
 11. Money is the measure of commerce...and therefore ought to be kept (as all other measures) as steady and invariable as may be. But this cannot be, if your money be made of two metals, whose proportion ... constantly varies in respect of one another” (John Locke, Some Considerations on the Lowering of Interest, 1691; in his Works, 7th Edition, London, 1768, Vol. II, p.65.
 
+ -->

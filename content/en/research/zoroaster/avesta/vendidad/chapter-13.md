@@ -1,15 +1,12 @@
 ---
-heading: Part 13
-title: "Fargard"
+heading: Chapter 13
+title: "The Dog"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 42
 ---
 
 
-FARGARD XIII
-
-The Dog.
 
 I (1-7). The dog of Ormazd and the dog of Ahriman.
 

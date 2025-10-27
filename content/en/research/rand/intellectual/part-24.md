@@ -1,275 +1,210 @@
 ---
 title: "What is Rationality"
-heading: "Part 24"
+heading: "Part 25"
 description: ""
 c: "firebrick"
-weight: 75
+weight: 180
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-Rationality is the recognition:
-- of existence
-- that nothing can alter the truth and nothing can take precedence over that act of perceiving the truth
-which is thinking
-- that the mind is one’s only judge of values and one’s only guide of action
-- that reason is an absolute that permits no compromise
-- that a concession to the irrational invalidates one’s consciousness and turns it from the task of perceiving to the task of faking reality
-- that the alleged shortcut to knowledge, which is faith, is only a short-circuit destroying the mind
-- that the acceptance of a mystical invention is a wish for the annihilation of existence and annihilates one’s consciousness.
+Man’s mind is his basic tool of survival. 
 
-Independence is the recognition of the fact that yours is the responsibility of judgment and nothing can help you escape it—that no substitute can do your
-thinking, as no pinch-hitter can live your life—that the vilest form of selfabasement and self-destruction is the subordination of your mind to the mind of
-another, the acceptance of an authority over your brain, the acceptance of his
-assertions as facts, his say-so as truth, his edicts as middle-man between your
-consciousness and your existence.
+Life is given to him, survival is not.
 
-“Integrity is the recognition of the fact that you cannot fake your
-consciousness, just as honesty is the recognition of the fact that you cannot fake
-existence—that man is an indivisible entity, an integrated unit of two attributes:
-of matter and consciousness, and that he may permit no breach between body
-and mind, between action and thought, between his life and his convictions—
-that, like a judge impervious to public opinion, he may not sacrifice his
-convictions to the wishes of others, be it the whole of mankind shouting pleas or
-threats against him—that courage and confidence are practical necessities, that
-courage is the practical form of being true to existence, of being true to truth,
-and confidence is the practical form of being true to one’s own consciousness.
-“Honesty is the recognition of the fact that the unreal is unreal and can have
-no value, that neither love nor fame nor cash is a value if obtained by fraud—
-that an attempt to gain a value by deceiving the mind of others is an act of
-raising your victims to a position higher than reality, where you become a pawn
-of their blindness, a slave of their non-thinking and their evasions, while their
-intelligence, their rationality, their perceptiveness become the enemies you have
-to dread and flee—that you do not care to live as a dependent, least of all a
-dependent on the stupidity of others, or as a fool whose source of values is the
-fools he succeeds in fooling—that honesty is not a social duty, not a sacrifice for
-the sake of others, but the most profoundly selfish virtue man can practice: his
-refusal to sacrifice the reality of his own existence to the deluded consciousness
-of others.
+His body is given to him, its sustenance is not. 
 
-“Justice is the recognition of the fact that you cannot fake the character of men
-as you cannot fake the character of nature, that you must judge all men as
-conscientiously as you judge inanimate objects, with the same respect for truth,
-with the same incorruptible vision, by as pure and as rational a process of
-identification—that every man must be judged for what he is and treated
-accordingly, that just as you do not pay a higher price for a rusty chunk of scrap
-than for a piece of shining metal, so you do not value a rotter above a hero—that
-your moral appraisal is the coin paying men for their virtues or vices, and this
-payment demands of you as scrupulous an honor as you bring to financial
-transactions—that to withhold your contempt from men’s vices is an act of moral
-counterfeiting, and to withhold your admiration from their virtues is an act of
-moral embezzlement—that to place any other concern higher than justice is to
-devaluate your moral currency and defraud the good in favor of the evil, since
-only the good can lose by a default of justice and only the evil can profit—and
-that the bottom of the pit at the end of that road, the act of moral bankruptcy, is
-to punish men for their virtues and reward them for their vices, that that is the
-collapse to full depravity, the Black Mass of the worship of death, the dedication
-of your consciousness to the destruction of existence.
-“Productiveness is your acceptance of morality, your recognition of the fact
-that you choose to live—that productive work is the process by which man’s
-consciousness controls his existence, a constant process of acquiring knowledge
-and shaping matter to fit one’s purpose, of translating an idea into physical form,
-of remaking the earth in the image of one’s values—that all work is creative
-work if done by a thinking mind, and no work is creative if done by a blank who
-repeats in uncritical stupor a routine he has learned from others—that your work
-is yours to choose, and the choice is as wide as your mind, that nothing more is
-possible to you and nothing less is human—that to cheat your way into a job
-bigger than your mind can handle is to become a fear-corroded ape on borrowed
-motions and borrowed time, and to settle down into a job that requires less than
-your mind’s full capacity is to cut your motor and sentence yourself to another
-kind of motion: decay—that your work is the process of achieving your values,
-and to lose your ambition for values is to lose your ambition to live—that your
-body is a machine, but your mind is its driver, and you must drive as far as your
-mind will take you, with achievement as the goal of your road—that the man
-who has no purpose is a machine that coasts downhill at the mercy of any
-boulder to crash in the first chance ditch, that the man who stifles his mind is a
-stalled machine slowly going to rust, that the man who lets a leader prescribe his
-course is a wreck being towed to the scrap heap, and the man who makes another
-man his goal is a hitchhiker no driver should ever pick up—that your work is the
-purpose of your life, and you must speed past any killer who assumes the right to
-stop you, that any value you might find outside your work, any other loyalty or
-love, can be only travelers you choose to share your journey and must be
-travelers going on their own power in the same direction.
-“Pride is the recognition of the fact that you are your own highest value and,
-like all of man’s values, it has to be earned—that of any achievements open to
-you, the one that makes all others possible is the creation of your own character
-—that your character, your actions, your desires, your emotions are the products
-of the premises held by your mind—that as man must produce the physical
-values he needs to sustain his life, so he must acquire the values of character that
-make his life worth sustaining—that as man is a being of self-made wealth, so he
-is a being of self-made soul—that to live requires a sense of self-value, but man,
-who has no automatic values, has no automatic sense of self-esteem and must
-earn it by shaping his soul in the image of his moral ideal, in the image of Man,
-the rational being he is born able to create, but must create by choice—that the
-first precondition of self-esteem is that radiant selfishness of soul which desires
-the best in all things, in values of matter and spirit, a soul that seeks above all
-else to achieve its own moral perfection, valuing nothing higher than itself—and
-that the proof of an achieved self-esteem is your soul’s shudder of contempt and
-rebellion against the role of a sacrificial animal, against the vile impertinence of
-any creed that proposes to immolate the irreplaceable value which is your
-consciousness and the incomparable glory which is your existence to the blind
-evasions and the stagnant decay of others.
-“Are you beginning to see who is John Galt? I am the man who has earned the
-thing you did not fight for, the thing you have renounced, betrayed, corrupted,
-yet were unable fully to destroy and are now hiding as your guilty secret,
-spending your life in apologies to every professional cannibal, lest it be
-discovered that somewhere within you, you still long to say what I am now
-saying to the hearing of the whole of mankind: I am proud of my own value and
-of the fact that I wish to live.
-“This wish—which you share, yet submerge as an evil—is the only remnant
-of the good within you, but it is a wish one must learn to deserve. His own
-happiness is man’s only moral purpose, but only his own virtue can achieve it.
-Virtue is not an end in itself. Virtue is not its own reward or sacrificial fodder for
-the reward of evil. Life is the reward of virtue—and happiness is the goal and the
-reward of life.
+His mind is given to him, its content is not.
 
-“Just as your body has two fundamental sensations, pleasure and pain, as signs
-of its welfare or injury, as a barometer of its basic alternative, life or death, so
-your consciousness has two fundamental emotions, joy and suffering, in answer
-to the same alternative. Your emotions are estimates of that which furthers your
-life or threatens it, lightning calculators giving you a sum of your profit or loss.
-You have no choice about your capacity to feel that something is good for you or
-evil, but what you will consider good or evil, what will give you joy or pain,
-what you will love or hate, desire or fear, depends on your standard of value.
-Emotions are inherent in your nature, but their content is dictated by your mind.
-Your emotional capacity is an empty motor, and your values are the fuel with
-which your mind fills it. If you choose a mix of contradictions, it will clog your
-motor, corrode your transmission and wreck you on your first attempt to move
-with a machine which you, the driver, have corrupted.
-“If you hold the irrational as your standard of value and the impossible as your
-concept of the good, if you long for rewards you have not earned, for a fortune
-or a love you don’t deserve, for a loophole in the law of causality, for an A that
-becomes non-A at your whim, if you desire the opposite of existence—you will
-reach it. Do not cry, when you reach it, that life is frustration and that happiness
-is impossible to man; check your fuel: it brought you where you wanted to go.
-“Happiness is not to be achieved at the command of emotional whims.
-Happiness is not the satisfaction of whatever irrational wishes you might blindly
-attempt to indulge. Happiness is a state of non-contradictory joy— a joy without
-penalty or guilt, a joy that does not clash with any of your values and does not
-work for your own destruction, not the joy of escaping from your mind, but of
-using your mind’s fullest power, not the joy of faking reality, but of achieving
-values that are real, not the joy of a drunkard, but of a producer. Happiness is
-possible only to a rational man, the man who desires nothing but rational goals,
-seeks nothing but rational values and finds his joy in nothing but rational actions.
-“Just as I support my life, neither by robbery nor alms, but by my own effort,
-so I do not seek to derive my happiness from the injury or the favor of others,
-but earn it by my own achievement. Just as I do not consider the pleasure of
-others as the goal of my life, so I do not consider my pleasure as the goal of the
-lives of others. Just as there are no contradictions in my values and no conflicts
-among my desires—so there are no victims and no conflicts of interest among
-rational men, men who do not desire the unearned and do not view one another
-with a cannibal’s lust, men who neither make sacrifices nor accept them.
+To remain alive, he must act, and before he can act he must know the nature and purpose of his action. 
 
-“The symbol of all relationships among such men, the moral symbol of
-respect for human beings, is the trader. We, who live by values, not by loot, are
-traders, both in matter and in spirit. A trader is a man who earns what he gets and
-does not give or take the undeserved. A trader does not ask to be paid for his
-failures, nor does he ask to be loved for his flaws. A trader does not squander his
-body as fodder or his soul as alms. Just as he does not give his work except in
-trade for material values, so he does not give the values of his spirit—his love,
-his friendship, his esteem—except in payment and in trade for human virtues, in
-payment for his own selfish pleasure, which he receives from men he can
-respect. The mystic parasites who have, throughout the ages, reviled the traders
-and held them in contempt, while honoring the beggars and the looters, have
-known the secret motive of their sneers: a trader is the entity they dread—a man
-of justice.
+He cannot obtain his food without a knowledge of food and of the way to obtain it. 
 
-“Do you ask what moral obligation I owe to my fellow men? None—except
-the obligation I owe to myself, to material objects and to all of existence:
-rationality. I deal with men as my nature and theirs demands: by means of
-reason. I seek or desire nothing from them except such relations as they care to
-enter of their own voluntary choice. It is only with their mind that I can deal and
-only for my own self-interest, when they see that my interest coincides with
-theirs. When they don’t, I enter no relationship; I let dissenters go their way and
-I do not swerve from mine. I win by means of nothing but logic and I surrender
-to nothing but logic. I do not surrender my reason or deal with men who
-surrender theirs. I have nothing to gain from fools or cowards; I have no benefits
-to seek from human vices: from stupidity, dishonesty or fear. The only value men
-can offer me is the work of their mind. When I disagree with a rational man, I let
-reality be our final arbiter; if I am right, he will learn; if I am wrong, I will; one
-of us will win, but both will profit.
-“Whatever may be open to disagreement, there is one act of evil that may not,
-the act that no man may commit against others and no man may sanction or
-forgive. So long as men desire to live together, no man may initiate—do you
-hear me? no man may start—the use of physical force against others.
-“To interpose the threat of physical destruction between a man and his
-perception of reality, is to negate and paralyze his means of survival; to force
-him to act against his own judgment, is like forcing him to act against his own
-sight. Whoever, to whatever purpose or extent, initiates the use of force, is a
-killer acting on the premise of death in a manner wider than murder: the premise
-of destroying man’s capacity to live.
-“Do not open your mouth to tell me that your mind has convinced you of your
-right to force my mind. Force and mind are opposites; morality ends where a gun
-begins. When you declare that men are irrational animals and propose to treat
-them as such, you define thereby your own character and can no longer claim the
-sanction of reason—as no advocate of contradictions can claim it. There can be
-no ‘right’ to destroy the source of rights, the only means of judging right and
-wrong: the mind.
-“To force a man to drop his own mind and to accept your will as a substitute,
-with a gun in place of a syllogism, with terror in place of proof, and death as the
-final argument—is to attempt to exist in defiance of reality. Reality demands of
-man that he act for his own rational interest; your gun demands of him that he
-act against it. Reality threatens man with death if he does not act on his rational
-judgment; you threaten him with death if he does. You place him in a world
-where the price of his life is the surrender of all the virtues required by life—and
-death by a process of gradual destruction is all that you and your system will
-achieve, when death is made to be the ruling power, the winning argument in a
-society of men.
+He cannot dig a ditch—or build a cyclotron—without a knowledge of his aim and of the means to achieve it. 
 
-“Be it a highwayman who confronts a traveler with the ultimatum: ‘Your
-money or your life,’ or a politician who confronts a country with the ultimatum:
-‘Your children’s education or your life,’ the meaning of that ultimatum is: ‘Your
-mind or your life’—and neither is possible to man without the other.
-“If there are degrees of evil, it is hard to say who is the more contemptible: the
-brute who assumes the right to force the mind of others or the moral degenerate
-who grants to others the right to force his mind. That is the moral absolute one
-does not leave open to debate. I do not grant the terms of reason to men who
-propose to deprive me of reason. I do not enter discussions with neighbors who
-think they can forbid me to think. I do not place my moral sanction upon a
-murderer’s wish to kill me. When a man attempts to deal with me by force, I
-answer him—by force.
-“It is only as retaliation that force may be used and only against the man who
-starts its use. No, I do not share his evil or sink to his concept of morality: I
-merely grant him his choice, destruction, the only destruction he had the right to
-choose: his own. He uses force to seize a value; I use it only to destroy
-destruction. A holdup man seeks to gain wealth by killing me; I do not grow
-richer by killing a holdup man. I seek no values by means of evil, nor do I
-surrender my values to evil.
-“In the name of all the producers who had kept you alive and received your
-death ultimatums in payment, I now answer you with a single ultimatum of our
-own: Our work or your guns. You can choose either; you can’t have both. We do
-not initiate the use of force against others or submit to force at their hands. If you
-desire ever again to live in an industrial society, it will be on our moral terms.
-Our terms and our motive power are the antithesis of yours. You have been using
-fear as your weapon and have been bringing death to man as his punishment for
-rejecting your morality. We offer him life as his reward for accepting ours.
-“You who are worshippers of the zero—you have never discovered that
-achieving life is not the equivalent of avoiding death. Joy is not ‘the absence of
-pain,’ intelligence is not ‘the absence of stupidity,’ light is not ‘the absence of
-darkness,’ an entity is not ‘the absence of a nonentity.’ Building is not done by
-abstaining from demolition; centuries of sitting and waiting in such abstinence
-will not raise one single girder for you to abstain from demolishing—and now
-you can no longer say to me, the builder: ‘Produce, and feed us in exchange for
-our not destroying your production.’ I am answering in the name of all your
-victims: Perish with and in your own void. Existence is not a negation of
-negatives. Evil, not value, is an absence and a negation, evil is impotent and has
-no power but that which we let it extort from us. Perish, because we have
-learned that a zero cannot hold a mortgage over life.
-“You seek escape from pain. We seek the achievement of happiness. You exist
-for the sake of avoiding punishment. We exist for the sake of earning rewards.
-Threats will not make us function; fear is not our incentive. It is not death that
-we wish to avoid, but life that we wish to live.
-“You, who have lost the concept of the difference, you who claim that fear and
-joy are incentives of equal power—and secretly add that fear is the more
-‘practical’—you do not wish to live, and only fear of death still holds you to the
-existence you have damned. You dart in panic through the trap of your days,
-looking for the exit you have closed, running from a pursuer you dare not name
-to a terror you dare not acknowledge, and the greater your terror the greater your
-dread of the only act that could save you: thinking. The purpose of your struggle
-is not to know, not to grasp or name or hear the thing I shall now state to your
-hearing: that yours is the Morality of Death.
+To remain alive, he must think.
+
+
+But thinking is a choice.
+
+The key to what you so recklessly call ‘human nature,’ the open secret you live with, yet dread to name, is the fact that man is a being of volitional consciousness. 
+
+Reason does not work automatically.
+
+Thinking is not a mechanical process. The connections of logic are not made by instinct. 
+
+The function of your stomach, lungs or heart is automatic; the function of your mind is not. In any hour and issue of your life, you are free to think or to evade that effort. 
+
+But you are not free to escape from your nature, from the fact
+that reason is your means of survival—so that for you, who are a human being,
+the question ‘to be or not to be’ is the question ‘to think or not to think.’
+“A being of volitional consciousness has no automatic course of behavior. 
+
+He needs a code of values to guide his actions. ‘Value’ is that which one acts to gain and keep, ‘virtue’ is the action by which one gains and keeps it. ‘Value’ presupposes an answer to the question: of value to whom and for what? ‘Value’
+presupposes a standard, a purpose and the necessity of action in the face of an
+alternative. 
+
+Where there are no alternatives, no values are possible.
+
+There is only one fundamental alternative in the universe: existence or nonexistence—and it pertains to a single class of entities: to living organisms. 
+
+The existence of inanimate matter is unconditional, the existence of life is not: it depends on a specific course of action. Matter is indestructible, it changes its forms, but it cannot cease to exist. 
+
+It is only a living organism that faces a constant alternative: the issue of life or death. Life is a process of self-sustaining and self-generated action.
+
+If an organism fails in that action, it dies; its chemical elements remain, but its life goes out of existence. It is only the concept of ‘Life’ that makes the concept of ‘Value’ possible. It is only to a living entity that things
+can be good or evil.
+
+“A plant must feed itself in order to live; the sunlight, the water, the chemicals it needs are the values its nature has set it to pursue; its life is the standard of value directing its actions. 
+
+But a plant has no choice of action; there are alternatives in the conditions it encounters, but there is no alternative in its function: it acts automatically to further its life, it cannot act for its own destruction.
+
+An animal is equipped for sustaining its life; its senses provide it with an automatic code of action, an automatic knowledge of what is good for it or evil.
+
+It has no power to extend its knowledge or to evade it. In conditions where its knowledge proves inadequate, it dies. 
+
+But so long as it lives, it acts on its knowledge, with automatic safety and no power of choice, it is unable to ignore its own good, unable to decide to choose the evil and act as its own destroyer. “Man has no automatic code of survival. 
+
+His particular distinction from all other living species is the necessity to act in the face of alternatives by means of volitional choice. 
+
+He has no automatic knowledge of what is good for him or evil, what values his life depends on, what course of action it requires. 
+
+Are you prattling about an instinct of self-preservation? An instinct of self-preservation is precisely what man does not possess. 
+
+An ‘instinct’ is an unerring and automatic form of knowledge. A desire is not an instinct. A desire to live does not give you the knowledge required for living. And even man’s desire to live is not automatic: your secret evil today is that that is the desire you do not hold. 
+
+Your fear of death is not a love for life and will not give you the knowledge needed to keep it. Man must obtain his knowledge and choose his actions by a process of thinking, which nature will not force him to perform. Man has the power to act as his own destroyer—and that is the way he has acted through most of his history.
+
+“A living entity that regarded its means of survival as evil, would not survive.
+A plant that struggled to mangle its roots, a bird that fought to break its wings
+would not remain for long in the existence they affronted. But the history of man
+has been a struggle to deny and to destroy his mind.
+
+“Man has been called a rational being, but rationality is a matter of choice—and the alternative his nature offers him is: rational being or suicidal animal. 
+
+Man has to be man—by choice; he has to hold his life as a value—by choice; he
+has to learn to sustain it—by choice; he has to discover the values it requires and
+practice his virtues—by choice.
+
+“A code of values accepted by choice is a code of morality.
+“Whoever you are, you who are hearing me now, I am speaking to whatever
+living remnant is left uncorrupted within you, to the remnant of the human, to
+your mind, and I say: There is a morality of reason, a morality proper to man,
+and Man’s Life is its standard of value.
+
+“All that which is proper to the life of a rational being is the good; all that
+which destroys it is the evil.
+
+“Man’s life, as required by his nature, is not the life of a mindless brute, of a
+looting thug or a mooching mystic, but the life of a thinking being—not life by
+means of force or fraud, but life by means of achievement—not survival at any
+price, since there’s only one price that pays for man’s survival: reason.
+“Man’s life is the standard of morality, but your own life is its purpose. If
+existence on earth is your goal, you must choose your actions and values by the
+standard of that which is proper to man—for the purpose of preserving, fulfilling
+and enjoying the irreplaceable value which is your life.
+“Since life requires a specific course of action, any other course will destroy
+it. A being who does not hold his own life as the motive and goal of his actions,
+is acting on the motive and standard of death. Such a being is a metaphysical
+monstrosity, struggling to oppose, negate and contradict the fact of his own
+existence, running blindly amuck on a trail of destruction, capable of nothing but
+pain.
+
+“Happiness is the successful state of life, pain is an agent of death. Happiness
+is that state of consciousness which proceeds from the achievement of one’s
+values. A morality that dares to tell you to find happiness in the renunciation of
+your happiness—to value the failure of your values—is an insolent negation of
+morality. A doctrine that gives you, as an ideal, the role of a sacrificial animal
+seeking slaughter on the altars of others, is giving you death as your standard.
+By the grace of reality and the nature of life, man—every man—is an end in
+himself, he exists for his own sake, and the achievement of his own happiness is
+his highest moral purpose.
+
+“But neither life nor happiness can be achieved by the pursuit of irrational
+whims. Just as man is free to attempt to survive in any random manner, but will
+perish unless he lives as his nature requires, so he is free to seek his happiness in
+any mindless fraud, but the torture of frustration is all he will find, unless he
+seeks the happiness proper to man. The purpose of morality is to teach you, not
+to suffer and die, but to enjoy yourself and live.
+
+“Sweep aside those parasites of subsidized classrooms, who live on the profits
+of the mind of others and proclaim that man needs no morality, no values, no
+code of behavior. They, who pose as scientists and claim that man is only an
+animal, do not grant him inclusion in the law of existence they have granted to
+the lowest of insects. They recognize that every living species has a way of
+survival demanded by its nature, they do not claim that a fish can live out of
+water or that a dog can live without its sense of smell—but man, they claim, the
+most complex of beings, man can survive in any way whatever, man has no
+identity, no nature, and there’s no practical reason why he cannot live with his
+means of survival destroyed, with his mind throttled and placed at the disposal of
+any orders they might care to issue.
+
+“Sweep aside those hatred-eaten mystics, who pose as friends of humanity and
+preach that the highest virtue man can practice is to hold his own life as of no
+value. Do they tell you that the purpose of morality is to curb man’s instinct of
+self-preservation? It is for the purpose of self-preservation that man needs a code
+of morality. The only man who desires to be moral is the man who desires to
+live.
+“No, you do not have to live; it is your basic act of choice; but if you choose
+to live, you must live as a man—by the work and the judgment of your mind.
+“No, you do not have to live as a man; it is an act of moral choice. But you
+cannot live as anything else—and the alternative is that state of living death
+which you now see within you and around you, the state of a thing unfit for
+existence, no longer human and less than animal, a thing that knows nothing but
+pain and drags itself through its span of years in the agony of unthinking selfdestruction.
+“No, you do not have to think; it is an act of moral choice. But someone had
+to think to keep you alive; if you choose to default, you default on existence and
+you pass the deficit to some moral man, expecting him to sacrifice his good for
+the sake of letting you survive by your evil.
+“No, you do not have to be a man; but today those who are, are not there any
+longer. I have removed your means of survival—your victims.
+“If you wish to know how I have done it and what I told them to make them
+quit, you are hearing it now. I told them, in essence, the statement I am making
+tonight. They were men who had lived by my code, but had not known how
+great a virtue it represented. I made them see it. I brought them, not a reevaluation, but only an identification of their values.
+
+“We, the men of the mind, are now on strike against you in the name of a
+single axiom, which is the root of our moral code, just as the root of yours is the
+wish to escape it: the axiom that existence exists.
+“Existence exists—and the act of grasping that statement implies two
+corollary axioms: that something exists which one perceives and that one exists
+possessing consciousness, consciousness being the faculty of perceiving that
+which exists.
+
+“If nothing exists, there can be no consciousness: a consciousness with
+nothing to be conscious of is a contradiction in terms. A consciousness conscious
+of nothing but itself is a contradiction in terms: before it could identify itself as
+consciousness, it had to be conscious of something. If that which you claim to
+perceive does not exist, what you possess is not consciousness.
+“Whatever the degree of your knowledge, these two—existence and
+consciousness—are axioms you cannot escape, these two are the irreducible
+primaries implied in any action you undertake, in any part of your knowledge
+and in its sum, from the first ray of light you perceive at the start of your life to
+the widest erudition you might acquire at its end. Whether you know the shape
+of a pebble or the structure of a solar system, the axioms remain the same: that it
+exists and that you know it.
+
+“To exist is to be something, as distinguished from the nothing of nonexistence, it is to be an entity of a specific nature made of specific attributes.
+
+Centuries ago, the man who was—no matter what his errors—the greatest of
+your philosophers, has stated the formula defining the concept of existence and
+the rule of all knowledge: A is A. A thing is itself. You have never grasped the
+meaning of his statement. I am here to complete it: Existence is Identity, Consciousness is Identification.
+
+“Whatever you choose to consider, be it an object, an attribute or an action,
+the law of identity remains the same. A leaf cannot be a stone at the same time, it
+cannot be all red and all green at the same time, it cannot freeze and burn at the
+same time. A is A. Or, if you wish it stated in simpler language: You cannot have
+your cake and eat it, too.
+
+“Are you seeking to know what is wrong with the world? All the disasters that
+have wrecked your world, came from your leaders’ attempt to evade the fact that
+A is A. All the secret evil you dread to face within you and all the pain you have
+ever endured, came from your own attempt to evade the fact that A is A. The
+purpose of those who taught you to evade it, was to make you forget that Man is
+Man.
 

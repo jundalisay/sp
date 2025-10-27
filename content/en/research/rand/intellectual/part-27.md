@@ -1,238 +1,152 @@
-“Make no mistake about the character of mystics. To undercut your
-consciousness has always been their only purpose throughout the ages—and
-power, the power to rule you by force, has always been their only lust.
-“From the rites of the jungle witch doctors, which distorted reality into
-grotesque absurdities, stunted the minds of their victims and kept them in terror
-of the supernatural for stagnant stretches of centuries—to the supernatural
-doctrines of the Middle Ages, which kept men huddling on the mud floors of
-their hovels, in terror that the devil might steal the soup they had worked
-eighteen hours to earn—to the seedy little smiling professor who assures you
-that your brain has no capacity to think, that you have no means of perception
-and must blindly obey the omnipotent will of that supernatural force: Society—
-all of it is the same performance for the same and only purpose: to reduce you to
-the kind of pulp that has surrendered the validity of its consciousness.
-“But it cannot be done to you without your consent. If you permit it to be
-done, you deserve it.
+---
+title: "Sacrifice"
+heading: "Part 27"
+description: ""
+c: "firebrick"
+weight: 195
+date: 2025-10-05
+icon: Ayn Rand
+writer:
+  name: Ayn Rand
+  url: https://en.wikipedia.org/wiki/Ayn_Rand
+---
 
-“When you listen to a mystic’s harangue on the impotence of the human mind
-and begin to doubt your consciousness, not his, when you permit your
-precariously semi-rational state to be shaken by any assertion and decide it is
-safer to trust his superior certainty and knowledge, the joke is on both of you:
-your sanction is the only source of certainty he has. The supernatural power that
-a mystic dreads, the unknowable spirit he worships, the consciousness he
-considers omnipotent is—yours.
 
-“A mystic is a man who surrendered his mind at its first encounter with the
-minds of others. Somewhere in the distant reaches of his childhood, when his
-own understanding of reality clashed with the assertions of others, with their
-arbitrary orders and contradictory demands, he gave in to so craven a fear of
-independence that he renounced his rational faculty. At the crossroads of the
-choice between ‘I know’ and ‘They say,’ he chose the authority of others, he
-chose to submit rather than to understand, to believe rather than to think. Faith in
-the supernatural begins as faith in the superiority of others. His surrender took
-the form of the feeling that he must hide his lack of understanding, that others
-possess some mysterious knowledge of which he alone is deprived, that reality is
-whatever they want it to be, through some means forever denied to him.
-“From then on, afraid to think, he is left at the mercy of unidentified feelings.
-His feelings become his only guide, his only remnant of personal identity, he
-clings to them with ferocious possessiveness—and whatever thinking he does is
-devoted to the struggle of hiding from himself that the nature of his feelings is
-terror.
+Selfishness—say both—is man’s evil. Man’s good—say both—is to give up
+his personal desires, to deny himself, renounce himself, surrender; man’s good is
+to negate the life he lives. 
 
-“When a mystic declares that he feels the existence of a power superior to
-reason, he feels it all right, but that power is not an omniscient super-spirit of the
-universe, it is the consciousness of any passer-by to whom he has surrendered
-his own. A mystic is driven by the urge to impress, to cheat, to flatter, to deceive,
-to force that omnipotent consciousness of others. ‘They’ are his only key to
-reality, he feels that he cannot exist save by harnessing their mysterious power
-and extorting their unaccountable consent. ‘They’ are his only means of
-perception and, like a blind man who depends on the sight of a dog, he feels he
-must leash them in order to live. To control the consciousness of others becomes
-his only passion; power-lust is a weed that grows only in the vacant lots of an
-abandoned mind.
-“Every dictator is a mystic, and every mystic is a potential dictator. A mystic
-craves obedience from men, not their agreement. He wants them to surrender
-their consciousness to his assertions, his edicts, his wishes, his whims—as his
-consciousness is surrendered to theirs. He wants to deal with men by means of
-faith and force—he finds no satisfaction in their consent if he must earn it by
-means of facts and reason. Reason is the enemy he dreads and, simultaneously,
-considers precarious; reason, to him, is a means of deception; he feels that men
-possess some power more potent than reason—and only their causeless belief or
-their forced obedience can give him a sense of security, a proof that he has
-gained control of the mystic endowment he lacked. His lust is to command, not
-to convince: conviction requires an act of independence and rests on the absolute
-of an objective reality. What he seeks is power over reality and over men’s
-means of perceiving it, their mind, the power to interpose his will between
-existence and consciousness, as if, by agreeing to fake the reality he orders them
-to fake, men would, in fact, create it.
-“Just as the mystic is a parasite in matter, who expropriates the wealth created
-by others—just as he is a parasite in spirit, who plunders the ideas created by
-others—so he falls below the level of a lunatic who creates his own distortion of
-reality, to the level of a parasite of lunacy who seeks a distortion created by
-others.
+Sacrifice—cry both—is the essence of morality, the highest virtue within man’s reach.
 
-“There is only one state that fulfills the mystic’s longing for infinity, noncausality, non-identity: death. No matter what unintelligible causes he ascribes to
-his incommunicable feelings, whoever rejects reality rejects existence—and the
-feelings that move him from then on are hatred for all the values of man’s life,
-and lust for all the evils that destroy it. A mystic relishes the spectacle of
-suffering, of poverty, subservience and terror; these give him a feeling of
-triumph, a proof of the defeat of rational reality. But no other reality exists.
-“No matter whose welfare he professes to serve, be it the welfare of God or of
-that disembodied gargoyle he describes as ‘The People,’ no matter what ideal he
-proclaims in terms of some supernatural dimension—in fact, in reality, on earth,
-his ideal is death, his craving is to kill, his only satisfaction is to torture.
-“Destruction is the only end that the mystics’ creed has ever achieved as it is
-the only end that you see them achieving today, and if the ravages wrought by
-their acts have not made them question their doctrines, if they profess to be
-moved by love, yet are not deterred by piles of human corpses, it is because the
-truth about their souls is worse than the obscene excuse you have allowed them,
-the excuse that the end justifies the means and that the horrors they practice are
-means to nobler ends. The truth is that those horrors are their ends.
+Whoever is now within reach of my voice, whoever is man the victim, not
+man the killer, I am speaking at the deathbed of your mind, at the brink of that
+darkness in which you’re drowning, and if there still remains within you the
+power to struggle to hold on to those fading sparks which had been yourself—
+use it now. The word that has destroyed you is ‘sacrifice.’ Use the last of your
+strength to understand its meaning. You’re still alive. You have a chance.
 
-“You who’re depraved enough to believe that you could adjust yourself to a
-mystic’s dictatorship and could please him by obeying his orders—there is no
-way to please him; when you obey, he will reverse his orders; he seeks
-obedience for the sake of obedience and destruction for the sake of destruction.
-You who are craven enough to believe that you can make terms with a mystic by
-giving in to his extortions—there is no way to buy him off, the bribe he wants is
-your life, as slowly or as fast as you are willing to give it in—and the monster he
-seeks to bribe is the hidden blank-out in his mind, which drives him to kill in
-order not to learn that the death he desires is his own.
-“You who are innocent enough to believe that the forces let loose in your
-world today are moved by greed for material plunder—the mystics’scramble for
-spoils is only a screen to conceal from their mind the nature of their motive.
-Wealth is a means of human life, and they clamor for wealth in imitation of
-living beings, to pretend to themselves that they desire to live. But their swinish
-indulgence in plundered luxury is not enjoyment, it is escape. They do not want
-to own your fortune, they want you to lose it; they do not want to succeed, they
-want you to fail; they do not want to live, they want you to die; they desire
-nothing, they hate existence, and they keep running, each trying not to learn that
-the object of his hatred is himself.
+“‘Sacrifice’ does not mean the rejection of the worthless, but of the precious.
 
-“You who’ve never grasped the nature of evil, you who describe them as
-‘misguided idealists’—may the God you invented forgive you!—they are the
-essence of evil, they, those anti-living objects who seek, by devouring the world,
-to fill the selfless zero of their soul. It is not your wealth that they’re after. Theirs
-is a conspiracy against the mind, which means: against life and man.
-“It is a conspiracy without leader or direction, and the random little thugs of
-the moment who cash in on the agony of one land or another are chance scum
-riding the torrent from the broken dam of the sewer of centuries, from the
-reservoir of hatred for reason, for logic, for ability, for achievement, for joy,
-stored by every whining anti-human who ever preached the superiority of the
-‘heart’ over the mind.
-“It is a conspiracy of all those who seek, not to live, but to get away with
-living, those who seek to cut just one small corner of reality and are drawn, by
-feeling, to all the others who are busy cutting other corners—a conspiracy that
-unites by links of evasion all those who pursue a zero as a value: the professor
-who, unable to think, takes pleasure in crippling the mind of his students, the
-businessman who, to protect his stagnation, takes pleasure in chaining the ability
-of competitors, the neurotic who, to defend his self-loathing, takes pleasure in
-breaking men of self-esteem, the incompetent who takes pleasure in defeating
-achievement, the mediocrity who takes pleasure in demolishing greatness, the
-eunuch who takes pleasure in the castration of all pleasure—and all their
-intellectual munition-makers, all those who preach that the immolation of virtue
-will transform vices into virtue. Death is the premise at the root of their theories,
-death is the goal of their actions in practice—and you are the last of their
-victims.
-“We, who were the living buffers between you and the nature of your creed,
-are no longer there to save you from the effects of your chosen beliefs. We are
-no longer willing to pay with our lives the debts you incurred in yours or the
-moral deficit piled up by all the generations behind you. You had been living on
-borrowed time—and I am the man who has called in the loan.
-“I am the man whose existence your blank-outs were intended to permit you
-to ignore. I am the man whom you did not want either to live or to die. You did
-not want me to live, because you were afraid of knowing that I carried the
-responsibility you dropped and that your lives depended upon me; you did not
-want me to die, because you knew it.
+‘Sacrifice’ does not mean the rejection of the evil for the sake of the good, but of the good for the sake of the evil. ‘Sacrifice’ is the surrender of that which you value in favor of that which you don’t.
 
-“Twelve years ago, when I worked in your world, I was an inventor. I was one
-of a profession that came last in human history and will be first to vanish on the
-way back to the subhuman. An inventor is a man who asks ‘Why?’ of the
-universe and lets nothing stand between the answer and his mind.
-“Like the man who discovered the use of steam or the man who discovered
-the use of oil, I discovered a source of energy which was available since the birth
-of the globe, but which men had not known how to use except as an object of
-worship, of terror and of legends about a thundering god. I completed the
-experimental model of a motor that would have made a fortune for me and for
-those who had hired me, a motor that would have raised the efficiency of every
-human installation using power and would have added the gift of higher
-productivity to every hour you spend at earning your living.
-“Then, one night at a factory meeting, I heard myself sentenced to death by
-reason of my achievement. I heard three parasites assert that my brain and my
-life were their property, that my right to exist was conditional and depended on
-the satisfaction of their desires. The purpose of my ability, they said, was to
-serve the needs of those who were less able. I had no right to live, they said, by
-reason of my competence for living; their right to live was unconditional, by
-reason of their incompetence.
+“If you exchange a penny for a dollar, it is not a sacrifice; if you exchange a dollar for a penny, it is. If you achieve the career you wanted, after years of struggle, it is not a sacrifice; if you then renounce it for the sake of a rival, it is.
+If you own a bottle of milk and give it to your starving child, it is not a sacrifice;
+if you give it to your neighbor’s child and let your own die, it is.
 
-“Then I saw what was wrong with the world, I saw what destroyed men and
-nations, and where the battle for life had to be fought. I saw that the enemy was
-an inverted morality—and that my sanction was its only power. I saw that evil
-was impotent—that evil was the irrational, the blind, the anti-real—and that the
-only weapon of its triumph was the willingness of the good to serve it. Just as
-the parasites around me were proclaiming their helpless dependence on my mind
-and were expecting me voluntarily to accept a slavery they had no power to
-enforce, just as they were counting on my self-immolation to provide them with
-the means of their plan—so throughout the world and throughout men’s history,
-in every version and form, from the extortions of loafing relatives to the
-atrocities of collectivized countries, it is the good, the able, the men of reason,
-who act as their own destroyers, who transfuse to evil the blood of their virtue
-and let evil transmit to them the poison of destruction, thus gaining for evil the
-power of survival, and for their own values—the impotence of death. I saw that
-there comes a point, in the defeat of any man of virtue, when his own consent is
-needed for evil to win—and that no manner of injury done to him by others can
-succeed if he chooses to withhold his consent. I saw that I could put an end to
-your outrages by pronouncing a single word in my mind. I pronounced it. The
-word was ‘No.’
-“I quit that factory. I quit your world. I made it my job to warn your victims
-and to give them the method and the weapon to fight you. The method was to
-refuse to deflect retribution. The weapon was justice.
-“If you want to know what you lost when I quit and when my strikers deserted
-your world—stand on an empty stretch of soil in a wilderness unexplored by
-men and ask yourself what manner of survival you would achieve and how long
-you would last if you refused to think, with no one around to teach you the
-motions, or, if you chose to think, how much your mind would be able to
-discover—ask yourself how many independent conclusions you have reached in
-the course of your life and how much of your time was spent on performing the
-actions you learned from others—ask yourself whether you would be able to
-discover how to till the soil and grow your food, whether you would be able to
-invent a wheel, a lever, an induction coil, a generator, an electronic tube—then
-decide whether men of ability are exploiters who live by the fruit of your labor
-and rob you of the wealth that you produce, and whether you dare to believe that
-you possess the power to enslave them. Let your women take a look at a jungle
-female with her shriveled face and pendulous breasts, as she sits grinding meal
-in a bowl, hour after hour, century by century—then let them ask themselves
-whether their ‘instinct of tool-making’ will provide them with their electric
-refrigerators, their washing machines and vacuum cleaners, and, if not, whether
-they care to destroy those who provided it all, but not ‘by instinct.’
-“Take a look around you, you savages who stutter that ideas are created by
-men’s means of production, that a machine is not the product of human thought,
-but a mystical power that produces human thinking. You have never discovered
-the industrial age—and you cling to the morality of the barbarian eras when a
-miserable form of human subsistence was produced by the muscular labor of
-slaves. Every mystic had always longed for slaves, to protect him from the
-material reality he dreaded. But you, you grotesque little atavists, stare blindly at
-the skyscrapers and smokestacks around you and dream of enslaving the
-material providers who are scientists, inventors, industrialists. When you clamor
-for public ownership of the means of production, you are clamoring for public
-ownership of the mind. I have taught my strikers that the answer you deserve is
-only: ‘Try and get it.’
-“You proclaim yourself unable to harness the forces of inanimate matter, yet
-propose to harness the minds of men who are able to achieve the feats you
-cannot equal. You proclaim that you cannot survive without us, yet propose to
-dictate the terms of our survival. You proclaim that you need us, yet indulge the
-impertinence of asserting your right to rule us by force—and expect that we,
-who are not afraid of that physical nature which fills you with terror, will cower
-at the sight of any lout who has talked you into voting him a chance to command
-us.
+“If you give money to help a friend, it is not a sacrifice; if you give it to a
+worthless stranger, it is. 
 
-“You propose to establish a social order based on the following tenets: that
-you’re incompetent to run your own life, but competent to run the lives of others
-—that you’re unfit to exist in freedom, but fit to become an omnipotent ruler—
-that you’re unable to earn your living by the use of your own intelligence, but
-able to judge politicians and to vote men into jobs of total power over arts you
-have never seen, over sciences you have never studied, over achievements of
-which you have no knowledge, over the gigantic industries where you, by your
-own definition of your capacity, would be unable successfully to fill the job of
-assistant greaser.
+If you give your friend a sum you can afford, it is not a sacrifice; if you give him money at the cost of your own discomfort, it is only a partial virtue, according to this sort of moral standard; if you give him money at
+the cost of disaster to yourself—that is the virtue of sacrifice in full.
+
+“If you renounce all personal desires and dedicate your life to those you love,
+you do not achieve full virtue: you still retain a value of your own, which is your
+love. 
+
+If you devote your life to random strangers, it is an act of greater virtue. If
+you devote your life to serving men you hate—that is the greatest of the virtues
+you can practice.
+
+A sacrifice is the surrender of a value.
+
+Full sacrifice is full surrender of all values.
+
+If you wish to achieve full virtue, you must seek no gratitude in return for your sacrifice, no praise, no love, no admiration, no self-esteem, not even the pride of being virtuous; the faintest trace of any gain dilutes your virtue. If you
+pursue a course of action that does not taint your life by any joy, that brings you
+no value in matter, no value in spirit, no gain, no profit, no reward—if you
+achieve this state of total zero, you have achieved the ideal of moral perfection.
+
+“You are told that moral perfection is impossible to man—and, by this
+standard, it is. You cannot achieve it so long as you live, but the value of your
+life and of your person is gauged by how closely you succeed in approaching
+that ideal zero which is death.
+
+If you start as a passionless blank, as a vegetable seeking to be
+eaten, with no values to reject and no wishes to renounce, you will not win the
+crown of sacrifice. It is not a sacrifice to renounce the unwanted. 
+
+It is not a
+sacrifice to give your life for others, if death is your personal desire. To achieve
+the virtue of sacrifice, you must want to live, you must love it, you must burn
+with passion for this earth and for all the splendor it can give you—you must
+feel the twist of every knife as it slashes your desires away from your reach and
+drains your love out of your body.
+
+It is not mere death that the morality of
+sacrifice holds out to you as an ideal, but death by slow torture.
+“Do not remind me that it pertains only to this life on earth. I am concerned
+with no other. Neither are you.
+
+“If you wish to save the last of your dignity, do not call your best actions a
+‘sacrifice’: that term brands you as immoral. If a mother buys food for her
+hungry child rather than a hat for herself, it is not a sacrifice: she values the child
+higher than the hat; but it is a sacrifice to the kind of mother whose higher value
+is the hat, who would prefer her child to starve and feeds him only from a sense
+of duty. If a man dies fighting for his own freedom, it is not a sacrifice: he is not
+willing to live as a slave; but it is a sacrifice to the kind of man who’s willing. If
+a man refuses to sell his convictions, it is not a sacrifice, unless he is the sort of
+man who has no convictions.
+
+“Sacrifice could be proper only for those who have nothing to sacrifice—no
+values, no standards, no judgment—those whose desires are irrational whims,
+blindly conceived and lightly surrendered. For a man of moral stature, whose
+desires are born of rational values, sacrifice is the surrender of the right to the
+wrong, of the good to the evil.
+
+“The creed of sacrifice is a morality for the immoral—a morality that declares
+its own bankruptcy by confessing that it can’t impart to men any personal stake
+in virtues or values, and that their souls are sewers of depravity, which they must
+be taught to sacrifice. By its own confession, it is impotent to teach men to be
+good and can only subject them to constant punishment.
+
+“Are you thinking, in some foggy stupor, that it’s only material values that
+your morality requires you to sacrifice? And what do you think are material
+values? Matter has no value except as a means for the satisfaction of human
+desires. Matter is only a tool of human values. To what service are you asked to
+give the material tools your virtue has produced? To the service of that which
+you regard as evil: to a principle you do not share, to a person you do not
+respect, to the achievement of a purpose opposed to your own—else your gift is
+not a sacrifice.
+
+Your morality tells you to renounce the material world and to divorce your values from matter. 
+
+A man whose values are given no expression in material form, whose existence is unrelated to his ideals, whose actions contradict his convictions, is a cheap little hypocrite—yet that is the man who obeys your
+morality and divorces his values from matter. 
+
+The man who loves one woman, but sleeps with another—the man who admires the talent of a worker, but hires
+another—the man who considers one cause to be just, but donates his money to
+the support of another—the man who holds high standards of craftsmanship, but
+devotes his effort to the production of trash—these are the men who have
+renounced matter, the men who believe that the values of their spirit cannot be brought into material reality.
+
+
+Do you say it is the spirit that such men have renounced? Yes, of course. 
+
+You cannot have one without the other. You are an indivisible entity of matter and
+consciousness. Renounce your consciousness and you become a brute. Renounce
+your body and you become a fake. Renounce the material world and you
+surrender it to evil.
+
+“And that is precisely the goal of your morality, the duty that your code
+demands of you. Give to that which you do not enjoy, serve that which you do
+not admire, submit to that which you consider evil—surrender the world to the
+values of others, deny, reject, renounce your self. Your self is your mind;
+renounce it and you become a chunk of meat ready for any cannibal to swallow.
+
+They want you to surrender your mind.
+
+They want your soul or your body, whether they promise you another life
+in heaven or a full stomach on this earth. 
+
+Those who start by saying: ‘It is selfish to pursue your own wishes, you must sacrifice them to the wishes of others’—
+end up by saying: ‘It is selfish to uphold your convictions, you must sacrifice
+them to the convictions of others.’
+
+“This much is true: the most selfish of all things is the independent mind that
+recognizes no authority higher than its own and no value higher than its
+judgment of truth. 
+
+You are asked to sacrifice your intellectual integrity, your
+logic, your reason, your standard of truth—in favor of becoming a prostitute
+whose standard is the greatest good for the greatest number.
 

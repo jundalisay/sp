@@ -3,11 +3,11 @@ title: "The Martyrdom Of The Industrialists"
 heading: "Part 19"
 description: ""
 c: "firebrick"
-weight: 175
+weight: 150
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 

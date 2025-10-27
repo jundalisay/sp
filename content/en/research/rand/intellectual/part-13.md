@@ -1,31 +1,34 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "We the Living"
+heading: "Part 13"
 description: ""
 c: "firebrick"
 weight: 110
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
-We the Living
+<!--  -->
 
-This novel was published in 1936 and reissued in 1959. Its theme is: the
-individual against the state; the supreme value of a human life and the evil of the
-totalitarian state that claims the right to sacrifice it. The story takes place in
-Soviet Russia. The excerpt below is the speech of Kira Argounova to Andrei
+This novel was published in 1936 and reissued in 1959. 
+
+Its theme is: the individual against the state; the supreme value of a human life and the evil of the 
+totalitarian state that claims the right to sacrifice it. 
+
+The story takes place in Soviet Russia. The excerpt below is the speech of Kira Argounova to Andrei
 Taganov, in the following context: Kira has been having a love affair with Andrei
 in order to obtain money to save the life of Leo Kovalensky, the man she loves;
+
 Andrei, an idealistic young Communist, who is profoundly in love with her, was
 beginning to discover the importance of personal values, when, in the course of
 arresting Leo for a political crime, he learns the truth about Kira’s relationship
 to both of them.
 
-“No, you didn’t know. But it was very simple. And not very unusual. Go
-through the garrets and basements where men live in your Red cities and see
+
+“Go through the garrets and basements where men live in your Red cities and see
 how many cases like this you can find. He wanted to live. You think everything
 that breathes can live? You’ve learned differently, I know. But he was one who
 could have lived. There aren’t many of them, so they don’t count with you. The
@@ -94,67 +97,5 @@ to the living. You’ve driven us all into an iron cellar and you’ve closed al
 and you’ve locked us airtight, airtight till the blood vessels of our spirits burst!
 Then you stare and wonder what it’s doing to us. Well, then, look! All of you
 who have eyes left—look!”
-Anthem
 
-This novelette was first published in England in 1938. Its theme is: the meaning
-of man’s ego. It projects a society of the future, which has accepted total
-collectivism with all of its ultimate consequences: men have relapsed into
-primitive savagery and stagnation; the word “I” has vanished from the human
-language, there are no singular pronouns, a man refers to himself as “we” and
-to another man as “they.” The story presents the gradual rediscovery of the
-word “I” by a man of intransigent mind. The following excerpt is from his
-statement about his discovery.
-
-“I am. I think. I will. . . .
-“What must I say besides? These are the words. This is the answer.
-“I stand here on the summit of the mountain. I lift my head and I spread my
-arms. This—my body and spirit—this is the end of the quest. I wished to know
-the meaning of things. I am the meaning. I wished to find a warrant for being. I
-need no warrant for being, and no word of sanction upon my being. I am the
-warrant and the sanction. . . .
-“I know not if this earth on which I stand is the core of the universe or if it is
-but a speck of dust lost in eternity. I know not and I care not. For I know what
-happiness is possible to me on earth. And my happiness needs no higher aim to
-vindicate it. My happiness is not the means to any end. It is the end. It is its own
-goal. It is its own purpose.
-“Neither am I the means to any end others may wish to accomplish. I am not a
-tool for their use. I am not a servant of their needs. I am not a bandage for their
-wounds. I am not a sacrifice on their altars. . . .
-“I owe nothing to my brothers, nor do I gather debts from them. I ask none to
-live for me, nor do I live for any others. I covet no man’s soul, nor is my soul
-theirs to covet.
-“I am neither foe nor friend to my brothers, but such as each of them shall
-deserve of me. And to earn my love, my brothers must do more than to have
-been born. I do not grant my love without reason, nor to any chance passer-by
-who may wish to claim it. I honor men with my love. But honor is a thing to be
-earned.
-
-“I shall choose friends among men, but neither slaves nor masters. And I shall
-choose only such as please me, and them I shall love and respect, but neither
-command nor obey. And we shall join our hands when we wish, or walk alone
-when we so desire. For in the temple of his spirit, each man is alone. Let each
-man keep his temple untouched and undefiled. Then let him join hands with
-others if he wishes, but only beyond his holy threshold.
-“For the word ‘We’ must never be spoken, save by one’s choice and as a
-second thought. This word must never be placed first within man’s soul, else it
-becomes a monster, the root of all the evils on earth, the root of man’s torture by
-men, and of an unspeakable lie.
-
-“The word ‘We’ is as lime poured over men, which sets and hardens to stone,
-and crushes all beneath it, and that which is white and that which is black are
-lost equally in the gray of it. It is the word by which the depraved steal the virtue
-of the good, by which the weak steal the might of the strong, by which the fools
-steal the wisdom of the sages.
-
-“What is my joy if all hands, even the unclean, can reach into it? What is my
-wisdom, if even the fools can dictate to me? What is my freedom, if all
-creatures, even the botched and the impotent, are my masters? What is my life, if
-I am but to bow, to agree and to obey?
-“But I am done with this creed of corruption.
-“I am done with the monster of ‘We,’ the word of serfdom, of plunder, of
-misery, falsehood and shame.
-“And now I see the face of god, and I raise this god over the earth, this god
-whom men have sought since men came into being, this god who will grant them
-joy and peace and pride.
-“This god, this one word: I.”
 

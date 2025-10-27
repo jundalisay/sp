@@ -3,8 +3,8 @@
 {{ $alt := .Get "alt" | default "Image" }}
 {{ $cap := .Get "cap" | default "" }}
 
-
-<div class="inline-block align-top text-center fade-in is-visible">
+<!-- inline-block -->
+<div class="align-top text-center fade-in is-visible">
     <img src="{{ $src }}" alt="{{ $alt }}"
          class="rounded-lg shadow mx-auto {{ $size }}" 
          loading="lazy">

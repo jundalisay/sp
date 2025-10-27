@@ -1,8 +1,19 @@
-Karl Marx: Critique of Political Economy
-
+---
+heading: Chapter 1b
+title: "Historical Notes on the Analysis of Commodities"
+weight: 5
+date: 2025-10-05
+description: ""
+c: "firebrick"
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
+icon: "Karl Marx"
+---
  
 
-A. Historical Notes on the Analysis of Commodities
+
+
 The decisive outcome of the research carried on for over a century and a half by classical political economy, beginning with William Petty in Britain and Boisguillebert [1] in France, and ending with Ricardo in Britain and Sismondi in France, is an analysis of the aspects of the commodity into two forms of labour – use-value is reduced to concrete labour or purposive productive activity, exchange-value to labour-time or homogeneous social labour.
 
 Petty reduces use-value to labour without deceiving himself about the dependence of its creative power on natural factors. He immediately perceives concrete labour in its entire social aspect as division of labour. [2] This conception of the source of material wealth does not remain more or less sterile as with his contemporary Hobbes, but leads to the political arithmetic, the first form in which political economy is treated as a separate science. But he accepts exchange-value as it appears in the exchange of commodities, i.e., as money, and money itself as an existing commodity, as gold and silver. Caught up in the ideas of the Monetary System, he asserts that the labour which determines exchange-value is the particular kind of concrete labour by which gold and silver is extracted. What he really has in mind is that in bourgeois economy labour does not directly produce use-values but commodities, use-values which, in consequence of their alienation in exchange, are capable of assuming the form of gold and silver, i.e., of money, i.e., of exchange-value, i.e., of materialised universal labour. His case is a striking proof that recognition of labour as the source of material wealth by no means precludes misapprehension of the specific social form in which labour constitutes the source of exchange-value.
@@ -55,7 +66,7 @@ Three. In accordance with the changing conditions of demand and supply, the mark
 
 Four. The last and apparently the decisive objection, unless it is advanced – as commonly happens – in the form of curious examples, is this: if exchange-value is nothing but the labour-time contained in a commodity, how does it come about that commodities which contain no labour possess exchange-value, in other words, how does the exchange-value of natural forces arise? The problem is solved in the theory of rent.
 
-Note
+<!-- Note
 Note: MECW has “he is bound to mistake money for the direct embodiment of this alienated labour.” The original German is “verkennt er notwendig Geld als die unmittelbare Existenzform dieser entäußerten Arbeit.”
 
 FOOTNOTES
@@ -97,8 +108,4 @@ FOOTNOTES
 
 19. It probably assumes the most trivial form in J. B. Say’s annotations to the French translation – prepared by Constancio – of Ricardo’s work, and the most pedantic and presumptuous in Mr. Macleod’s recently published Theory of Exchange, London, 1858.
 
-20. This objection, which was advanced against Ricardo by bourgeois economists, was later taken up by socialists. Assuming that the formula was theoretically sound, they alleged that practice stood in conflict with the theory and demanded that bourgeois society should draw the practical conclusions supposedly arising from its theoretical principles. In this way at least English socialists turned Ricardo’s formula of exchange-value against political economy. The feat of declaring not only that the basic principle of the old society was to be the principle of the new society, but also that he was the inventor of the formula used by Ricardo to summarise the final result of English classical economics, was reserved to M. Proudhon. It has been shown that the utopian interpretation of Ricardo’s formula was already completely forgotten in England, when M. Proudhon “discovered” it on the other side of the Channel. (Cf. the section on la valeur constituée, in my Misere de la philosophie..., Paris, 1847.a) [See Karl Marx, The Poverty of Philosophy, Moscow, 1962, pp. 43-49 – Ed.]
-
-
- 
-Table of Contents | Marx Engels Archive
+20. This objection, which was advanced against Ricardo by bourgeois economists, was later taken up by socialists. Assuming that the formula was theoretically sound, they alleged that practice stood in conflict with the theory and demanded that bourgeois society should draw the practical conclusions supposedly arising from its theoretical principles. In this way at least English socialists turned Ricardo’s formula of exchange-value against political economy. The feat of declaring not only that the basic principle of the old society was to be the principle of the new society, but also that he was the inventor of the formula used by Ricardo to summarise the final result of English classical economics, was reserved to M. Proudhon. It has been shown that the utopian interpretation of Ricardo’s formula was already completely forgotten in England, when M. Proudhon “discovered” it on the other side of the Channel. (Cf. the section on la valeur constituée, in my Misere de la philosophie..., Paris, 1847.a) [See Karl Marx, The Poverty of Philosophy, Moscow, 1962, pp. 43-49 – Ed.] -->

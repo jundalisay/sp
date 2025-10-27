@@ -1,13 +1,10 @@
 ---
-heading: Part 12
-title: "Fargard"
+heading: Chapter 12
+title: "House Rules"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 39
 ---
-
-
-FARGARD 12
 
 <!-- This chapter is found only in the Vendîdâd Sâdah; it is missing in the Zend-Pahlavi Vendîdâd. This is owing, as it seems, only to the accidental loss of some folios in the one manuscript from which all the copies as yet known have been derived; and, in fact, even in the most ancient manuscripts the following Fargard is numbered the thirteenth (Westergaard, Zend-Avesta, preface, p. 5).
 
@@ -37,11 +34,7 @@ Ahura Mazda answered: 'They shall stay thirty days for the righteous, sixty days
 
 6 (21). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
 
-Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then
-
-p. 147
-
-the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
+Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
 7 (25). If the master of the house 1 dies, or if the mistress of the house dies, how long shall they stay? How long for the righteous? How long for the sinners?
 

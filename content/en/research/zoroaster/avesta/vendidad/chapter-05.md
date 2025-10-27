@@ -1,13 +1,11 @@
 ---
-heading: Part 5
+heading: Chapter 5
 title: "Contracts and Outrages"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 15
 ---
 
-
-FARGARD V.
 
 This chapter and the following ones, to the end of the twelfth, deal chiefly with uncleanness arising from the dead, and with the means of removing it from men and things.
 

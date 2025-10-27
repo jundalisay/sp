@@ -87,10 +87,10 @@ The failure of structural reforms is a sign that the influence of corporate Japa
 - Japanese employees are modern samurais who must work overtime for their daimyos and pay sales taxes to the shogun. Karoshi (death by overwork) is a modern variant of seppuku (ritual suicide), with the sense of honor operating from the back of their minds in both cases. This is not the case in most other countries.
 
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="The Simple Wealth of Nations Book 5" >}}
 Sir Robert Walpole tried to establish an excise scheme on wine and tobacco similar to my proposal. The bill with those two commodities was then brought into Parliament. It was supposed to be an introduction of a more extensive scheme of the same kind. Faction and smuggling merchants raised a violent and unjust clamour against that bill. The minister dropped it. None of his successors dared to resume the project from fear of exciting another clamour.
-<cite>The Simple Wealth of Nations Book 5</cite>
 {{< /q >}}
+
 
 
 ## The Problem with Keynes
@@ -117,6 +117,9 @@ In fact, the 3 arrows of Abenomics looks as though someone copy-pasted Keynes on
 
 <!-- ![](https://sorasystem.sirv.com/graphics/samurai.jpg) -->
 
+
+### A Depression is not a Deflation
+
 **The problem is that Keynes' work was tailored for a depression, but Japan's problem is a deflation.** 
 
 It's like taking cough syrup to treat back pain. A depression is caused by the lack of circulation of money and that's why Keynes wrote a lot about how to make money circulate again. We then pointed out that [the lack of circulation in the 1930s was caused by profit maximization](/social/economics/why-qe-failed/) from the Marginal Revolution of the 1870's. 
@@ -126,7 +129,19 @@ A deflation is caused by a population that is ageing or declining. No matter how
 The best solution* is to [get more young men into the economy](https://www.japantimes.co.jp/news/2014/05/18/national/success-abenomics-hinges-immigration-policy/).
 
 
-{{< n n="*Some Japanese have pointed out that Japanese cities like Tokyo are already overpopulated and cannot handle any more humans. I reply that the rural areas are relatively sparsely populated just like in most countries. Urban overcrowding is the natural result of commercialization wherein humans compete for the money from profit-earners, concentrated in one place. Supereconomics advocates balanced [urban-rural development](/social/economics/principles/part-4/chapter-06/) through the effort theory of value." >}}
+### Update 2025
+
+Some Japanese have pointed out that Japanese cities like Tokyo are already overpopulated and cannot handle any more humans. 
+
+I reply that Japan's population is declining and so the infusion of new population is the best solution.
+
+{{< i s="/graphics/social/popjp.jpg" a="Population" >}}
+
+<!-- 'the rural areas are relatively sparsely populated just like in most countries. Urban overcrowding is the natural result of commercialization wherein humans compete for the money from profit-earners, concentrated in one place.  -->
+
+What really is missing is the proper cultural indoctrination of the immigrant population. This can be done by positive cultural adoption. 
+
+<!-- Supereconomics advocates balanced [urban-rural development](/social/economics/principles/part-4/chapter-06/) through the effort theory of value. -->
 
 
 <!-- That is why  fail to point out that the historical solution was free movement, such as the Japanese to emigrating to Brazil in the 19th century.   -->
@@ -134,6 +149,7 @@ The best solution* is to [get more young men into the economy](https://www.japan
 The US, Canada, Australia, and Singapore avoid deflation by regularly getting new immigrants. But Japan has what I call a 'Late Ming mentality' of closing off foreign people and ideas, which leads to their current deflation problem. A recent example is Carlos Ghosn being closed off from Nissan.
 
 {{< img cap="Ghosn fought the daimyos and had to flee in an equipment box" alt="Carlos Ghosn upset" src="https://sorasystem.sirv.com/photos/ghosn.jpg" >}}
+
 
 
 ## The Solution/s

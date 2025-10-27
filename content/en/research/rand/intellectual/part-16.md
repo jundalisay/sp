@@ -1,18 +1,17 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "The Soul Of An Individualist"
+heading: "Part 16"
 description: ""
 c: "firebrick"
-weight: 125
+weight: 130
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-THE SOUL OF AN INDIVIDUALIST
 
 This is the speech that Howard Roark makes in his own defense, while on trial
 for having dynamited a government housing project under construction; he had
@@ -20,6 +19,7 @@ designed the project for another architect, Peter Keating, on the agreement that
 it would be built exactly as he designed it; the agreement was broken by the
 government agency; the two architects had no recourse to law, not being
 permitted to sue the government.
+
 
 “Thousands of years ago, the first man discovered how to make fire. He was
 probably burned at the stake he had taught his brothers to light. He was
@@ -153,10 +153,12 @@ is the man who disagrees. Men have been taught that it is a virtue to swim with
 the current. But the creator is the man who goes against the current. Men have
 been taught that it is a virtue to stand together. But the creator is the man who
 stands alone.
+
 “Men have been taught that the ego is the synonym of evil, and selflessness
 the ideal of virtue. But the creator is the egoist in the absolute sense, and the
 selfless man is the one who does not think, feel, judge or act. These are functions
 of the self.
+
 “Here the basic reversal is most deadly. The issue has been perverted and man
 has been left no alternative—and no freedom. As poles of good and evil, he was
 offered two conceptions: egoism and altruism. Egoism was held to mean the
@@ -167,8 +169,10 @@ When it was added that man must find joy in self-immolation, the trap was
 closed. Man was forced to accept masochism as his ideal—under the threat that
 sadism was his only alternative. This was the greatest fraud ever perpetrated on
 mankind.
+
 “This was the device by which dependence and suffering were perpetuated as
 fundamentals of life.
+
 “The choice is not self-sacrifice or domination. The choice is independence or
 dependence. The code of the creator or the code of the second-hander. This is the
 basic issue. It rests upon the alternative of life or death. The code of the creator
@@ -176,6 +180,7 @@ is built on the needs of the reasoning mind which allows man to survive. The
 code of the second-hander is built on the needs of a mind incapable of survival.
 All that which proceeds from man’s independent ego is good. All that which
 proceeds from man’s dependence upon men is evil.
+
 “The egoist in the absolute sense is not the man who sacrifices others. He is
 the man who stands above the need of using others in any manner. He does not
 function through them. He is not concerned with them in any primary matter.
@@ -183,4 +188,3 @@ Not in his aim, not in his motive, not in his thinking, not in his desires, not 
 source of his energy. He does not exist for any other man—and he asks no other
 man to exist for him. This is the only form of brotherhood and mutual respect
 possible between men.
-

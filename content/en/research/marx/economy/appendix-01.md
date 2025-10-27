@@ -1,14 +1,27 @@
-Marx rejects the Robinson Crusoe foundation of Adam Smith and David Ricardo's economics
-Karl Marx: Critique of Political Economy
+---
+title: "Production, Consumption, Distribution, Exchange (Circulation)"
+weight: 5
+date: 2025-10-05
+description: ""
+c: "firebrick"
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
+icon: "Karl Marx"
+---
+
+
+<!-- Marx rejects the Robinson Crusoe foundation of Adam Smith and David Ricardo's economics
+Karl Marx: Critique of Political Economy -->
+
 Appendix I
 
-Introduction to a Contribution to the Critique of Political Economy
-Source: A Contribution to the Critique of Political Economy, translated from the German by S. W. Ryazanskaya, Lawrence & Wishart 1971;
-Alternative: translation Chapter 1 of The Grundsrisse, (Notebook M, pp 81-111);
-Written: between the end of August and the middle of September 1857.
+<!-- Written: between the end of August and the middle of September 1857. -->
 
-I. PRODUCTION, CONSUMPTION, DISTRIBUTION, EXCHANGE (CIRCULATION)
+
+
 1. PRODUCTION
+
 (a) To begin with, the question under discussion is material production.
 
 Individuals producing in a society, and hence the socially determined production of individuals, is of course the point of departure. The solitary and isolated hunter or fisherman, who serves Adam Smith and Ricardo as a starting point, is one of the unimaginative fantasies of eighteenth-century romances a la Robinson Crusoe; and despite the assertions of social historians, these by no means signify simply a reaction against over-refinement and reversion to a misconceived natural life. No more is Rousseau's contrat social, which by means of a contract establishes a relationship and connection between subjects that are by nature independent, based on this kind of naturalism. This is an illusion and nothing but the aesthetic illusion of the small and big Robinsonades. It is, on the contrary, the anticipation of “bourgeois society,” which began to evolve in the sixteenth century and in the eighteenth century made giant strides towards maturity. The individual in this society of free competition seems to be rid of natural ties, etc., which made him an appurtenance of a particular, limited aggregation of human beings in previous historical epochs. The prophets of the eighteenth century, on whose shoulders Adam Smith and Ricardo were still wholly standing, envisaged this 18th-century individual – a product of the dissolution of feudal society on the one hand and of the new productive forces evolved since the sixteenth century on the other – as an ideal whose existence belonged to the past. They saw this individual not as an historical result, but as the starting point of history; not as something evolving in the course of history, but posited by nature, because for them this individual was in conformity with nature, in keeping with their idea of human nature. This delusion has been characteristic of every new epoch hitherto. Steuart, who in some respect was in opposition to the eighteenth century and as an aristocrat tended rather to regard things from an historical standpoint, avoided this naive view.
@@ -189,7 +202,3 @@ Regarded from another aspect: is Achilles possible when powder and shot have bee
 The difficulty we are confronted with is not, however, that of understanding how Greek art and epic poetry are associated with certain forms of social development. The difficulty is that they still give us aesthetic pleasure and are in certain respects regarded as a standard and unattainable ideal.
 
 An adult cannot become a child again, or he becomes childish. But does the naivete of the child not give him pleasure, and does not he himself endeavour to reproduce the child's veracity on a higher level? Does not the child in every epoch represent the character of the period in its natural veracity? Why should not the historical childhood of humanity, where it attained its most beautiful form, exert an eternal charm because it is a stage that will never recur? There are rude children and precocious children. Many of the ancient peoples belong to this category. The Greeks were normal children. The charm their art has for us does not conflict with the immature stage of the society in which it originated. On the contrary its charm is a consequence of this and is inseparably linked with the fact that the immature social conditions which gave rise, and which alone could give rise, to this art cannot recur.
-
- 
-
-Table of Contents | Grundrisse | Marx Engels Archive

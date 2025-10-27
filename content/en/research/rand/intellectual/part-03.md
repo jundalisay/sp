@@ -1,24 +1,29 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "The Witch Doctor"
+heading: "Part 3"
 description: ""
 c: "firebrick"
 weight: 15
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-An animal has no critical faculty; he has no control over the function of his
-brain and no power to question its content. To an animal, whatever strikes his
-awareness is an absolute that corresponds to reality—or rather, it is a distinction
-he is incapable of making: reality, to him, is whatever he senses or feels. And
-this is the Witch Doctor’s epistemological ideal, the mode of consciousness he
-strives to induce in himself. To the Witch Doctor, emotions are tools of
-cognition, and wishes take precedence over facts. He seeks to escape the risks of
+An animal has no critical faculty.
+
+To an animal, whatever strikes his awareness is an absolute that corresponds to reality.
+
+<!-- —or rather, it is a distinction
+he is incapable of making:  -->
+
+Reality, to him, is whatever he senses or feels. 
+
+This is the Witch Doctor’s epistemological ideal, the mode of consciousness he strives to induce in himself. 
+
+To the Witch Doctor, emotions are tools of cognition, and wishes take precedence over facts. He seeks to escape the risks of
 a quest for knowledge by obliterating the distinction between consciousness and
 reality, between the perceiver and the perceived, hoping that an automatic
 certainty and an infallible knowledge of the universe will be granted to him by

@@ -1,13 +1,11 @@
 ---
-heading: Part 7
+heading: Chapter 7
 title: "Contracts and Outrages"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 21
 ---
 
-
-FARGARD VII.
 
 I (1-5). How long after death the Nasu falls upon the dead.
 

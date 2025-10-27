@@ -1,19 +1,17 @@
 ---
-title: "Atlas Shrugged"
-heading: "Part 18"
+title: "The Meaning Of Sex"
+heading: "Part 20"
 description: ""
 c: "firebrick"
-weight: 175
+weight: 155
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-
-THE MEANING OF SEX
 
 This is from a conversation between Francisco d’Anconia and Hank Rearden,
 who are in love with the same woman, though neither one of them knows it.
@@ -94,13 +92,17 @@ despises money, factories, skyscrapers and his own body. He holds undefined
 emotions about non-conceivable subjects as the meaning of life and as his claim
 to virtue. And he cries with despair, because he can feel nothing for the women
 he respects, but finds himself in bondage to an irresistible passion for a slut from
-the gutter. He is the man whom people call an idealist. The other kind of half is
+the gutter. He is the man whom people call an idealist.
+
+The other kind of half is
 the man whom people call practical, the man who despises principles,
 abstractions, art, philosophy and his own mind. He regards the acquisition of
 material objects as the only goal of existence—and he laughs at the need to
 consider their purpose or their source. He expects them to give him pleasure—
 and he wonders why the more he gets, the less he feels. He is the man who
-spends his time chasing women. Observe the triple fraud which he perpetrates
+spends his time chasing women.
+
+Observe the triple fraud which he perpetrates
 upon himself. He will not acknowledge his need of self-esteem, since he scoffs
 at such a concept as moral values; yet he feels the profound self-contempt which
 comes from believing that he is a piece of meat. He will not acknowledge, but he
@@ -115,8 +117,7 @@ virtuous girls who make a great exception for his sake. It is the feeling of
 achievement that he seeks and never finds. What glory can there be in the
 conquest of a mindless body?”
 
-“FROM EACH ACCORDING TO HIS ABILITY, TO EACH
-ACCORDING TO HIS NEED”
+“FROM EACH ACCORDING TO HIS ABILITY, TO EACH ACCORDING TO HIS NEED”
 
 This is the story of what happened at the Twentieth Century Motor Company,
 which put the above slogan into practice—as told by one of the survivors.

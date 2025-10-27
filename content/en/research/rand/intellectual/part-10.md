@@ -1,22 +1,26 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "Collectivism is Dead"
+heading: "Part 10"
 description: ""
 c: "firebrick"
 weight: 85
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
 Perhaps the most craven attitude of all is the one expressed by the injunction
-“don’t be certain.” As stated explicitly by many intellectuals, it is the suggestion
+“don’t be certain.” 
+
+As stated explicitly by many intellectuals, it is the suggestion
 that if nobody is certain of anything, if nobody holds any firm convictions, if
 everybody is willing to give in to everybody else, no dictator will rise among us
-and we will escape the destruction sweeping the rest of the world. This is the
+and we will escape the destruction sweeping the rest of the world. 
+
+This is the
 secret voice of the Witch Doctor confessing that he sees a dictator, an Attila, as a
 man of confident strength and uncompromising conviction. Nothing but a
 psycho-epistemological panic can blind such intellectuals to the fact that a
@@ -43,7 +47,9 @@ that abstract name—and that none of us can help it, anyway.
 
 Nobody believes any of it any longer, yet nobody opposes it. To oppose
 anything, one needs a firm set of principles, which means: a philosophy.
-If America perishes, it will perish by intellectual default. There is no
+If America perishes, it will perish by intellectual default. 
+
+There is no
 diabolical conspiracy to destroy it: no conspiracy could be big enough and strong
 enough. Such cafeteria-socialist conspiracies as do undoubtedly exist are groups
 of scared, neurotic mediocrities who find themselves pushed into national
@@ -63,8 +69,11 @@ irresistible trend of history. History, fate and malevolent conspiracy are easie
 believe than the actual truth: that we are moved by nothing but the sluggish
 inertia of unfocused minds.
 
-Collectivism, as a social ideal, is dead, but capitalism has not yet been
-discovered. It cannot be discovered by the psycho-epistemology of Witch
+Collectivism, as a social ideal, is dead.
+
+But capitalism has not yet been discovered. 
+
+It cannot be discovered by the psycho-epistemology of Witch
 Doctors and Attila-ists—and as to the businessman, he is struggling to forget that
 he had ever known it. That is his guilt.
 

@@ -12,6 +12,7 @@ icon: "Aristotle"
 ---
 
 
+
 One class of Justs is those which are enforced by law in accordance with Virtue in the most extensive sense of the term.
 
 For instance, the law does not bid a man to kill himself. 

@@ -1,5 +1,5 @@
 ---
-heading: Part 3
+heading: Chapter 3
 title: "Fargard"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"

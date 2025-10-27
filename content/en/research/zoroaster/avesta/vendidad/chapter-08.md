@@ -1,9 +1,9 @@
 ---
-heading: Part 8
+heading: Chapter 8
 title: "Contracts and Outrages"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 23
 ---
 
 III (14-22). Purification of the ways along which the corps-has been carried.

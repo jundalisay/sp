@@ -1,9 +1,9 @@
 ---
-heading: Part 8b
+heading: Chapter 8b
 title: "Contracts and Outrages"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 26
 ---
 
 

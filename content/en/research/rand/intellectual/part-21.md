@@ -1,21 +1,18 @@
 ---
-title: "Atlas Shrugged"
-heading: "Part 18"
+title: "Howard Roark's Speech"
+heading: "Part 21"
 description: ""
 c: "firebrick"
-weight: 175
+weight: 165
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-
-
-The first year, he figured out a work process that saved us thousands of manhours. He gave it to ‘the family,’ didn’t ask anything for it, either, couldn’t ask,
-but that was all right with him. It was for the ideal, he said. But when he found
+The first year, he figured out a work process that saved us thousands of manhours. He gave it to ‘the family,’ didn’t ask anything for it, either, couldn’t ask, but that was all right with him. It was for the ideal, he said. But when he found
 himself voted as one of our ablest and sentenced to night work, because we
 hadn’t gotten enough from him, he shut his mouth and his brain. You can bet he
 didn’t come up with any ideas, the second year.

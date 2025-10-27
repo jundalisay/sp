@@ -1,7 +1,7 @@
 ---
 heading: Chapter 3
 title: "Justice is what part of Virtue?"
-weight: 9
+weight: 7
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

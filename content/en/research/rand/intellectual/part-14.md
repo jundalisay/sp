@@ -1,18 +1,17 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "The Fountainhead"
+heading: "Part 14"
 description: ""
 c: "firebrick"
-weight: 115
+weight: 125
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-The Fountainhead
 
 This novel was published in 1943. Its theme is: individualism versus
 collectivism, not in politics, but in man’s soul; the psychological motivations and
@@ -22,11 +21,13 @@ breaks with tradition, recognizes no authority but that of his own independent
 judgment, struggles for the integrity of his creative work against every form of
 social opposition—and wins.
 
-THE NATURE OF THE SECOND-HANDER
+
+## The Nature Of The Second-Hander
 
 This excerpt is from a conversation between Roark and his friend Gail Wynand,
 in which Roark explains what he has discovered about the psychology of those
 whose basic motivation is the opposite of his own.
+
 “It’s what I couldn’t understand about people for a long time. They have no
 self. They live within others. They live second-hand. Look at Peter Keating. . . .
 I’ve looked at him—at what’s left of him—and it’s helped me to understand.
@@ -52,6 +53,7 @@ establish his own superiority by comparison. . . . They’re second-handers. . .
 “They have no concern for facts, ideas, work. They’re concerned only with
 people. They don’t ask: ‘Is this true?’ They ask: ‘Is this what others think is
 true?’ Not to judge, but to repeat. Not to do, but to give the impression of doing.
+
 Not creation, but show. Not ability, but friendship. Not merit, but pull. What
 would happen to the world without those who do, think, work, produce? Those
 are the egoists. You don’t think through another’s brain and you don’t work
@@ -61,6 +63,7 @@ Second-handers have no sense of reality. Their reality is not within them, but
 somewhere in that space which divides one human body from another. Not an
 entity, but a relation—anchored to nothing. That’s the emptiness I couldn’t
 understand in people. That’s what stopped me whenever I faced a committee.
+
 Men without an ego. Opinion without a rational process. Motion without brakes
 or motor. Power without responsibility. The second-hander acts, but the source
 of his actions is scattered in every other living person. It’s everywhere and
@@ -105,7 +108,8 @@ demanded a certain quality in the people I liked. I’ve always recognized it at
 once—and it’s the only quality I respect in men. I chose my friends by that. Now
 I know what it is. A self-sufficient ego. Nothing else matters.”
 
-THE SOUL OF A COLLECTIVIST
+
+## The Soul Of A Collectivist
 
 This excerpt is the confession of Roark’s antipode and archenemy, Ellsworth M.
 Toohey, an architectural critic and sociologist, who spends his life plotting the
@@ -119,9 +123,12 @@ predecessors. But I’m luckier than they were. I inherited the fruit of their e
 and I shall be the one who’ll see the great dream made real. I see it all around me
 today. I recognize it. I don’t like it. I didn’t expect to like it. Enjoyment is not my
 destiny. I shall find such satisfaction as my capacity permits. I shall rule. . . .
+
 “It’s only a matter of discovering the lever. If you learn how to rule one single
 man’s soul, you can get the rest of mankind. It’s the soul, Peter, the soul. Not
-whips or swords or fire or guns. That’s why the Caesars, the Attilas, the
+whips or swords or fire or guns. 
+
+That’s why the Caesars, the Attilas, the
 Napoleons were fools and did not last. We will. The soul, Peter, is that which
 can’t be ruled. It must be broken. Drive a wedge in, get your fingers on it—and
 the man is yours. You won’t need a whip—he’ll bring it to you and ask to be
@@ -129,8 +136,9 @@ whipped. Set him in reverse—and his own mechanism will do your work for
 you. Use him against himself. Want to know how it’s done? See if I ever lied to
 you. See if you haven’t heard all this for years, but didn’t want to hear, and the
 fault is yours, not mine. There are many ways. Here’s one. Make man feel small.
-Make him feel guilty. Kill his aspiration and his integrity. That’s difficult. The
-worst among you gropes for an ideal in his own twisted way. Kill integrity by
+Make him feel guilty. Kill his aspiration and his integrity. That’s difficult. 
+
+The worst among you gropes for an ideal in his own twisted way. Kill integrity by
 internal corruption. Use it against itself. Direct it toward a goal destructive of all
 integrity. Preach selflessness. Tell man that he must live for others. Tell men that
 altruism is the ideal. Not a single one of them has ever achieved it and not a

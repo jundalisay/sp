@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 title: "Justice and Injustice"
-weight: 9
+weight: 3
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

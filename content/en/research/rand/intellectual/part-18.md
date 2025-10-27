@@ -3,11 +3,11 @@ title: "Atlas Shrugged"
 heading: "Part 18"
 description: ""
 c: "firebrick"
-weight: 175
+weight: 145
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 

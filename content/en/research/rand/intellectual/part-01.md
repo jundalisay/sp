@@ -1,5 +1,5 @@
 ---
-title: "For the New Intellectual"
+title: "America is culturally bankrupt"
 heading: "Part 1"
 description: ""
 c: "firebrick"
@@ -7,42 +7,51 @@ weight: 5
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-When a man, a business corporation or an entire society is approaching
-bankruptcy, there are two courses that those involved can follow: they can evade
-the reality of their situation and act on a frantic, blind, range-of-the-moment
-expediency—not daring to look ahead, wishing no one would name the truth, yet
-desperately hoping that something will save them somehow—or they can
-identify the situation, check their premises, discover their hidden assets and start
-rebuilding.
 
-America, at present, is following the first course. The grayness, the stale
-cynicism, the noncommittal cautiousness, the guilty evasiveness of our public
+When a man, a business corporation or an entire society is approaching bankruptcy, there are 2 courses it can follow:
+
+1. They can evade the reality of their situation
+
+They can act on a frantic, blind, range-of-the-moment expediency
+
+<!-- —not daring to look ahead, wishing no one would name the truth, yet desperately hoping that something will save them somehow—or -->
+
+2. They can identify the situation, check their premises, discover their hidden assets and start rebuilding.
+
+
+America, at present, is following the first course. 
+
+<!-- The grayness, the stale cynicism, the noncommittal cautiousness, the guilty evasiveness of our public
 voices suggest the attitude of the courtiers in the story “The Emperor’s New
-Clothes” who professed admiration for the Emperor’s non-existent garments,
-having accepted the assertion that anyone who failed to perceive them was
-morally depraved at heart.
+Clothes” who professed admiration for the Emperor’s non-existent garments, having accepted the assertion that anyone who failed to perceive them was
+morally depraved at heart. -->
 
-Let me be the child in the story and declare that the Emperor is naked—or that
-America is culturally bankrupt.
+<!-- Let me be the child in the story and declare that the Emperor is naked—or that -->
 
-In any given period of history, a culture is to be judged by its dominant
-philosophy, by the prevalent trend of its intellectual life as expressed in morality,
-in politics, in economics, in art. Professional intellectuals are the voice of a
-culture and are, therefore, its leaders, its integrators and its bodyguards.
-America’s intellectual leadership has collapsed. Her virtues, her values, her
-enormous power are scattered in a silent underground and will remain private,
-subjective, historically impotent if left without intellectual expression. America
-is a country without voice or defense—a country sold out and abandoned by her
-intellectual bodyguards.
+I declare that America is culturally bankrupt.
 
-Bankruptcy is defined as the state of being at the end of one’s resources. What
-are the intellectual values or resources offered to us by the present guardians of
-our culture? In philosophy, we are taught that man’s mind is impotent, that
+A culture is judged by:
+- its dominant philosophy
+- the trend of its intellectual life as expressed in morality, politics, economics, art. 
+
+Professional intellectuals are the voice of a culture and are, therefore, its leaders, its integrators and its bodyguards.
+
+America’s intellectual leadership has collapsed. 
+
+Her virtues, values, enormous power are scattered in a silent underground and will remain private, subjective, historically impotent if left without intellectual expression. 
+
+America is a country without voice or defense—a country sold out and abandoned by her intellectual bodyguards.
+
+Bankruptcy is defined as the state of being at the end of one’s resources. 
+
+What are the intellectual values or resources offered to us by the present guardians of our culture? 
+
+In philosophy, we are taught that man’s mind is impotent, that
 reality is unknowable, that knowledge is an illusion, and reason a superstition. In
 psychology, we are told that man is a helpless automaton, determined by forces
 beyond his control, motivated by innate depravity. In literature, we are shown a
@@ -54,7 +63,9 @@ everything, except greatness. In politics, we are told that America, the greates
 noblest, freest country on earth, is politically and morally inferior to Soviet
 Russia, the bloodiest dictatorship in history—and that our wealth should be
 given away to the savages of Asia and Africa, with apologies for the fact that we
-have produced it while they haven’t. If we look at modern intellectuals, we are
+have produced it while they haven’t. 
+
+If we look at modern intellectuals, we are
 confronted with the grotesque spectacle of such characteristics as militant
 uncertainty, crusading cynicism, dogmatic agnosticism, boastful self-abasement
 and self-righteous depravity—in an atmosphere of guilt, of panic, of despair, of
@@ -100,6 +111,7 @@ would step into the industrial vacuum to start manufacturing railroad engines.
 But when this happens in philosophy—when we are offered Zen Buddhism and
 its equivalents as the latest word in human thought—nobody, so far, has chosen
 to step into the intellectual vacuum to carry on the work of man’s mind.
+
 Thus our great industrial civilization is now expected to run railroads, airlines,
 intercontinental missiles and H-bomb stock piles by the guidance of
 philosophical doctrines created by and for barefoot savages who lived in
@@ -109,14 +121,18 @@ Historically, the professional intellectual is a very recent phenomenon: he
 dates only from the industrial revolution. There are no professional intellectuals
 in primitive, savage societies, there are only witch doctors. There were no
 professional intellectuals in the Middle Ages, there were only monks in
-monasteries. In the post-Renaissance era, prior to the birth of capitalism, the men
+monasteries. 
+
+In the post-Renaissance era, prior to the birth of capitalism, the men
 of the intellect—the philosophers, the teachers, the writers, the early scientists—
 were men without a profession, that is: without a socially recognized position,
 without a market, without a means of earning a livelihood. Intellectual pursuits
 had to depend on the accident of inherited wealth or on the favor and financial
 support of some wealthy protector. And wealth was not earned on an open
 market, either; wealth was acquired by conquest, by force, by political power, or
-by the favor of those who held political power. Tradesmen were more vulnerably
+by the favor of those who held political power. 
+
+Tradesmen were more vulnerably
 and precariously dependent on favor than the intellectuals.
 The professional businessman and the professional intellectual came into
 existence together, as brothers born of the industrial revolution. Both are the sons

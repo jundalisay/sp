@@ -1,11 +1,10 @@
 ---
-heading: Chapter 14
+heading: Chapter 14-15
 title: "The 3 States in Virtue"
 weight: 9
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
 icon: "Aristotle"
@@ -46,5 +45,3 @@ When then the law has spoken in general terms, and there arises a case of except
 This is the reason why not all things are according to law, because there are things about which it is simply impossible to lay down a law, and so we want special enactments for particular cases. For to speak generally, the rule of the undefined must be itself undefined also, just as the rule to measure Lesbian building is made of lead: for this rule shifts according to the form of each stone and the special enactment according to the facts of the case in question.
 
 It is clear then what the Equitable is; namely that it is Just but better than one form of Just: and hence it appears too who the Equitable man is: he is one who has a tendency to choose and carry out these principles, and who is not apt to press the letter of the law on the worse side but content to waive his strict claims though backed by the law: and this moral state is Equity, being a species of Justice, not a different moral state from Justice.
-
-

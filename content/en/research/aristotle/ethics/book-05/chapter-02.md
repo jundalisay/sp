@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2
-title: "Justice and Injustice"
-weight: 9
+title: "Justice as Perfect Virtue"
+weight: 5
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

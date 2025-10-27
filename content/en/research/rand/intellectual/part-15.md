@@ -1,16 +1,15 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "The rule of the bromide. "
+heading: "Part 15"
 description: ""
 c: "firebrick"
-weight: 120
+weight: 127
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
-
 
 
 
@@ -80,6 +79,7 @@ scream your empty heads off, howling that he’s a selfish monster. So the racke
 is safe for many, many centuries. But here you might have noticed something. I
 said, ‘It stands to reason.’ Do you see? Men have a weapon against you. Reason.
 So you must be very sure to take it away from them. Cut the props from under it.
+
 But be careful. Don’t deny outright. Never deny anything outright, you give your
 hand away. Don’t say reason is evil—though some have gone that far and with
 astonishing success. Just say that reason is limited. That there’s something above
@@ -120,7 +120,9 @@ unlimited, God and Prophet and King combined. Vox populi. The average, the
 common, the general. Do you know the proper antonym for Ego? Bromide,
 Peter. 
 
-The rule of the bromide. But even the trite has to be originated by
+The rule of the bromide. 
+
+But even the trite has to be originated by
 someone at some time. We’ll do the originating. Vox dei. We’ll enjoy unlimited
 submission—from men who’ve learned nothing except to submit. We’ll call it
 ‘to serve.’ We’ll give out medals for service. You’ll fall over one another in a

@@ -1,8 +1,7 @@
-
 ---
 heading: Chapter 7
 title: "The Corrective"
-weight: 12
+weight: 14
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -13,9 +12,7 @@ icon: "Aristotle"
 ---
 
 
-## Chapter 7
-
-The Corrective, which arises in voluntary as well as involuntary transactions. 
+The Corrective arises in voluntary and involuntary transactions. 
 
 This just has a different form from the aforementioned; for that which is concerned in distribution of common property is always according to the aforementioned proportion: I mean that, if the division is made out of common property, the shares will bear the same proportion to one another as the original contributions did: and the Unjust which is opposite to this Just is that which violates the proportionate.
 

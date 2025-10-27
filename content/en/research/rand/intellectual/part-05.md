@@ -1,26 +1,26 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "Capitalism"
+heading: "Part 5"
 description: ""
 c: "firebrick"
 weight: 35
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
 
-The Founding Fathers were neither passive, death-worshipping mystics nor
-mindless, power-seeking looters; as a political group, they were a phenomenon
+The Founding Fathers were neither passive, death-worshipping mystics nor mindless, power-seeking looters; as a political group, they were a phenomenon
 unprecedented in history: they were thinkers who were also men of action. They
 had rejected the soul-body dichotomy, with its two corollaries: the impotence of
 man’s mind and the damnation of this earth; they had rejected the doctrine of
 suffering as man’s metaphysical fate, they proclaimed man’s right to the pursuit
 of happiness and were determined to establish on earth the conditions required
 for man’s proper existence, by the “unaided” power of their intellect.
+
 A society based on and geared to the conceptual level of man’s consciousness,
 a society dominated by a philosophy of reason, has no place for the rule of fear
 and guilt. Reason requires freedom, self-confidence and self-esteem. It requires
@@ -134,6 +134,7 @@ an Aristotelian epistemology (more implicitly than explicitly). But they were
 like men living on the energy of the light rays of a distant star, who did not know
 (it was not their primary task to know) that that star had been extinguished.
 It had been extinguished by those whose primary task was to sustain it.
+
 From the start of the post-Renaissance period, philosophy—released from its
 bondage as handmaiden of theology—went seeking a new form of servitude, like
 a frightened slave, broken in spirit, who recoils from the responsibility of
@@ -155,9 +156,9 @@ validity of their mind, the philosophers’ rebellion against him consisted of
 proclaiming that they doubted whether man was conscious at all and whether
 anything existed for him to be conscious of.
 
-It is at this point that Attila entered the philosophical scene.
-Attila—the type of man who longs to live on the perceptual level of
-consciousness, without the “interference” of any concepts, to act on the whim
+At this point, Attila entered the philosophical scene.
+
+He longs to live on the perceptual level of consciousness, without the “interference” of any concepts, to act on the whim
 and range of the moment, without the “hampering restriction” of principles or
 theories, without the necessity of integrating one experience with another or one
 moment with the next—saw his chance to escape from his subservience to the

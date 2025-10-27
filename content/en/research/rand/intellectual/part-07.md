@@ -1,13 +1,13 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "The Philosopher For and Against Capitalism"
+heading: "Part 7"
 description: ""
 c: "firebrick"
 weight: 55
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
@@ -96,6 +96,7 @@ percentages of the unknowable; b. that he claim as absolute knowledge the
 proposition that all values lie outside the sphere of science, that reason is
 impotent to deal with morality, that moral values are a matter of subjective
 choice, dictated by one’s feelings, not one’s mind.
+
 The great treason of the philosophers was that they never stepped out of the
 Middle Ages: they never challenged the Witch Doctor’s code of morality. They
 were willing to doubt the existence of physical objects, they were willing to
@@ -145,14 +146,17 @@ is useless, that the “superman” is “beyond good and evil,” that he is a 
 prey” whose ultimate standard is nothing but his own whim. Thus Nietzsche’s
 rejection of the Witch Doctor consisted of elevating Attila into a moral ideal—
 which meant: a double surrender of morality to the Witch Doctor.
-Jeremy Bentham, the champion of capitalism, defended it by proclaiming “the
-greatest happiness of the greatest number” as its moral justification—and pro-
+
+Jeremy Bentham was the champion of capitalism.
+
+He defended it by proclaiming “the greatest happiness of the greatest number” as its moral justification—and pro-
 pounded a “hedonistic calculus” for men’s moral guidance, which enunciated the
 principle that before taking any action one must consider all the possible forms
 and amounts of happiness and unhappiness to accrue to all the people possibly to
 be affected by the consequences of one’s action (including oneself as one unit
 among the dozens or hundreds or millions), one must compute them all, then act
 accordingly and sacrifice the “hedonistic” minority to the majority.
+
 Herbert Spencer, another champion of capitalism, chose to decide that the
 theory of evolution and of adaptation to environment was the key to man’s
 morality—and declared that the moral justification of capitalism was the survival
@@ -161,4 +165,3 @@ to perish; that man’s morality consisted of adapting oneself to one’s social
 environment, and seeking one’s own happiness in the welfare of society; and that
 the automatic processes of evolution would eventually obliterate the distinction
 between selfishness and unselfishness.
-

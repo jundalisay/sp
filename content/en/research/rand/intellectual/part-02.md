@@ -1,5 +1,5 @@
 ---
-title: "For the New Intellectual"
+title: "The man of faith and The man of force"
 heading: "Part 2"
 description: ""
 c: "firebrick"
@@ -7,38 +7,49 @@ weight: 9
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-With very rare and brief exceptions, pre-capitalist societies had no place for
-the creative power of man’s mind, neither in the creation of ideas nor in the
-creation of wealth. Reason and its practical expression—free trade—were
-forbidden as a sin and a crime, or were tolerated, usually as ignoble activities,
-under the control of authorities who could revoke the tolerance at whim. Such
-societies were ruled by faith and its practical expression: force. There were no
+With very rare and brief exceptions, pre-capitalist societies had no place for creativity.
+
+Reason and its practical expression—free trade—were forbidden as a sin and a crime, or were tolerated, usually as ignoble activities, under the control of authorities who could revoke the tolerance at whim. 
+
+Such societies were ruled by faith and its practical expression: force. There were no
 makers of knowledge and no makers of wealth; there were only witch doctors
-and tribal chiefs. These two figures dominate every anti-rational period of
+and tribal chiefs. 
+
+These two figures dominate every anti-rational period of
 history, whether one calls them tribal chief and witch doctor—or absolute
 monarch and religious leader—or dictator and logical positivist.
 
-“The tragic joke of human history”—I am quoting John Galt in Atlas
-Shrugged—“is that on any of the altars men erected, it was always man whom
-they immolated and the animal whom they enshrined. It was always the animal’s
-attributes, not man’s, that humanity worshipped: the idol of instinct and the idol
+
+{{< l a="John Galt" c="Atlas Shrugged" >}}
+The tragic joke of human history is that on any of the altars men erected, it was always man whom
+they immolated and the animal whom they enshrined.  
+
+It was always the animal’s attributes, not man’s, that humanity worshipped: the idol of instinct and the idol
 of force—the mystics and the kings—the mystics, who longed for an
 irresponsible consciousness and ruled by means of the claim that their dark
 emotions were superior to reason, that knowledge came in blind, causeless fits,
 blindly to be followed, not doubted—and the kings, who ruled by means of
 claws and muscles, with conquest as their method and looting as their aim, with
-a club or a gun as sole sanction of their power. The defenders of man’s soul were
-concerned with his feelings, and the defenders of man’s body were concerned
-with his stomach—but both were united against his mind.”
+a club or a gun as sole sanction of their power. 
 
-These 2 figures—the man of faith and the man of force—are philosophical
-archetypes, psychological symbols and historical reality. As philosophical
-archetypes, they embody two variants of a certain view of man and of existence.
+The defenders of man’s soul were concerned with his feelings, and the defenders of man’s body were concerned
+with his stomach—but both were united against his mind.
+{{< /l >}}
+
+
+These are 2 figures:
+
+1. The man of faith
+2. The man of force
+
+These are philosophical  archetypes, psychological symbols and historical reality.
+
+As philosophical archetypes, they embody two variants of a certain view of man and of existence.
 As psychological symbols, they represent the basic motivation of a great many
 men who exist in any era, culture or society. As historical reality, they are the
 actual rulers of most of mankind’s societies, who rise to power whenever men
@@ -63,8 +74,9 @@ development: sensations and perceptions; but it is the third state, conceptions,
 that makes him man. Sensations are integrated into perceptions automatically, by
 the brain of a man or of an animal. But to integrate perceptions into conceptions
 by a process of abstraction, is a feat that man alone has the power to perform—
-and he has to perform it by choice. The process of abstraction, and of conceptformation is a process of reason, of thought; it is not automatic nor instinctive
-nor involuntary nor infallible. Man has to initiate it, to sustain it and to bear
+and he has to perform it by choice. 
+
+The process of abstraction, and of conceptformation is a process of reason, of thought; it is not automatic nor instinctive nor involuntary nor infallible. Man has to initiate it, to sustain it and to bear
 responsibility for its results. The pre-conceptual level of consciousness is
 nonvolitional; volition begins with the first syllogism. Man has the choice to
 think or to evade—to maintain a state of full awareness or to drift from moment
@@ -104,7 +116,9 @@ seizing. But while a good farmer knows, at least, that fruit trees and animals
 have a specific nature and require a specific kind of handling, the perceptual
 mentality of Attila does not extend to so abstract a level: men, to him, are a
 natural phenomenon and an irreducible primary, as all natural phenomena are
-irreducible primaries to an animal. Attila feels no need to understand, to explain,
+irreducible primaries to an animal. 
+
+Attila feels no need to understand, to explain,
 nor even to wonder, how men manage to produce the things he covets
 —“somehow” is a fully satisfactory answer inside his skull, which refuses to
 consider such questions as “how?” and “why?” or such concepts as identity and
@@ -116,6 +130,7 @@ consequences of his actions or the possibility of exhausting his victims never
 enters his consciousness, which does not choose to extend beyond the given
 moment. His view of the universe does not include the power of production. The
 power of destruction, of brute force, is, to him, metaphysically omnipotent.
+
 An Attila never thinks of creating, only of taking over. Whether he conquers a
 neighboring tribe or overruns a continent, material looting is his only goal and it
 ends with the act of seizure: he has no other purpose, no plan, no system to

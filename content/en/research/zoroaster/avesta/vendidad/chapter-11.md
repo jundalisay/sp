@@ -1,13 +1,11 @@
 ---
-heading: Part 11
+heading: Chapter 11
 title: "Fargard"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 35
 ---
 
-
-FARGARD XI.
 
 This chapter, like the preceding, is composed of spells intended to drive away the Nasu. But they are of a more special character, as they refer to the particular objects to be cleansed, such as the house, the fire, the water, &c. Each incantation consists of two parts, a line from the Gâthas which alludes, or rather is made to allude, to the particular object, and a general exorcism, in the usual dialect, which is the same for all the objects.
 

@@ -6,27 +6,17 @@ weight: 5
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
 
-This book is intended for those who wish to assume the responsibility of
-becoming the new intellectuals. It contains the main philosophical passages from
-my novels and presents the outline of a new philosophical system.
+This book is for those who want the responsibility of becoming the new intellectuals. 
 
-The full system is implicit in these excerpts (particularly in Galt’s speech), but
-its fundamentals are indicated only in the widest terms and require a detailed,
-systematic presentation in a philosophical treatise. I am working on such a
-treatise at present; it will deal predominantly with the issue which is barely
-touched upon in Galt’s speech: epistemology, and will present a new theory of
-the nature, source and validation of concepts. This work will require several
-years; until then, I offer the present book as a lead or a summary for those who
-wish to acquire an integrated view of existence. They may regard it as a basic
-outline; it will give them the guidance they need, but only if they think through
-and understand the exact meaning and the full implications of these excerpts.
-I am often asked whether I am primarily a novelist or a philosopher. 
+It contains the main philosophical passages from my novels and presents the outline of a new philosophical system.
+
+The full system is implicit in these excerpts (particularly in Galt’s speech), but its fundamentals are indicated only in the widest terms and require a detailed, systematic presentation in a philosophical treatise. I am working on such a treatise at present; it will deal predominantly with the issue which is barely touched upon in Galt’s speech: epistemology, and will present a new theory of the nature, source and validation of concepts. This work will require several years; until then, I offer the present book as a lead or a summary for those who wish to acquire an integrated view of existence. They may regard it as a basic outline; it will give them the guidance they need, but only if they think through and understand the exact meaning and the full implications of these excerpts. I am often asked whether I am primarily a novelist or a philosopher.
 
 The answer is: both. In a certain sense, every novelist is a philosopher, because one
 cannot present a picture of human existence without a philosophical framework;

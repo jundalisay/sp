@@ -1,5 +1,5 @@
 ---
-title: "Fargard"
+title: "Vendidad"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
 weight: 9

@@ -1,9 +1,9 @@
 ---
-heading: Part 9
+heading: Chapter 9
 title: "Fargard"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 29
 ---
 
 

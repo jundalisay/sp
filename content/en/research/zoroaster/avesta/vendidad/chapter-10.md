@@ -1,13 +1,11 @@
 ---
-heading: Part 10
+heading: Chapter 10
 title: "Fargard"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 32
 ---
 
-
-FARGARD X.
 
 During the process of cleansing, the voice works with the hand. The spells which must be recited while the unclean one is cleansing himself have already been mentioned in the preceding Fargard, but we find here a detailed list of spells which are to be spoken twice, or thrice, or four times. The exact time when they are to be uttered is not mentioned, and we do not know whether they are to accompany those prescribed in the last Fargard, and are, therefore, to be repeated as often as the unclean one is washed, or whether they are only intended to close the whole ceremony.
 
@@ -95,13 +93,3 @@ mazdâ ad môi . . . dau ahûm 2 (Yas. XXXIV, 15),
 'Who is he who will smite the fiend in order to maintain thy ordinances?' &c.
 
 'Keep us from our hater, O Mazda and Ârmaiti Spenta! Perish, O fiendish Drug! . . . Perish away to the regions of the north, never more to give unto death the living world of the holy spirit!'
-
-
-## Footnotes
-
-137:1 According to tradition, 'the Dîvs in Mazanderan;' Mazanderan is known, in fact, as a land of fiends and sorcerers; a reputation for which it is very likely indebted to the neighbouring mount Damâvand, to which Azis Dahâka is said to be bound. Yet one may doubt whether it gave its name to the Mâzainya daêvas, or if it took its name from them. Mâzainya was, most probably, like Varenya, an epithet of the Dîvs, which, in course of time, became the name of a class of demons.
-
-137:2 The nine holes for the Barashnûm; see above, p. 120, § 6 seq.
-
-138:1 The rest as in Farg. VIII, 19, 20.
-

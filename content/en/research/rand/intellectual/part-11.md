@@ -1,23 +1,25 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
-description: ""
+title: "The need for intellectual leadership"
+heading: "Part 11"
+description: "Today, the businessman and the intellectual face each other with the mutual fear and the mutual contempt of Attila and the Witch Doctor"
 c: "firebrick"
 weight: 95
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-Today, the businessman and the intellectual face each other with the mutual
-fear and the mutual contempt of Attila and the Witch Doctor. The businessman
-has lost confidence in all theories, and functions on a range-of-the-moment
+Today, the businessman and the intellectual face each other with the mutual fear and the mutual contempt of Attila and the Witch Doctor. 
+
+The businessman has lost confidence in all theories, and functions on a range-of-the-moment
 expediency, not daring to look at the future. The intellectual has cut himself off
 from reality and plays a futile word-game with ideas, not daring to look at the
-past. The businessman considers the intellectual unpractical; the intellectual
+past. 
+
+The businessman considers the intellectual unpractical; the intellectual
 considers the businessman immoral. But, secretly, each of them believes that the
 other possesses a mysterious faculty he lacks, that the other is the true master of
 reality, the true exponent of the power to deal with existence.
@@ -26,6 +28,7 @@ It is by this mutual attitude and the philosophical premises from which it
 comes that they are destroying each other. The major share of the guilt belongs
 to the intellectual: philosophical leadership was his responsibility, which he
 betrayed and is now deserting under fire.
+
 The most grotesquely anachronistic and atavistic spectacle in history is the
 spectacle of the modern intellectuals raising the primordial voice of the Witch
 Doctor and, in the midst of an industrial civilization, wailing about the hopeless
@@ -40,12 +43,15 @@ innate, preordained impotence, of humility, passivity, submission and resignatio
 —and proclaiming that all the disasters of the modern age are man’s punishment
 for the pride of relying on his intellect, for his attempt to improve his condition,
 to establish a rational society and to achieve a perfect way of life on earth.
+
 On a recent television panel discussion, an alleged conservative intellectual
 was asked to define the difference between a “conservative” and a “liberal.” He
 answered that a “liberal” is one who does not believe in Original Sin. To which a
 liberal intellectual replied hastily: “Oh, yes, we do!”—but proceeded to add that
 the liberals believe they can improve man’s life just a little.
+
 Such is the bankruptcy of a culture.
+
 It is into the midst of this dismal gray vacuum that the New Intellectuals must
 step—and must challenge the worshippers of doom, resignation and death, with
 an attitude best expressed by a paraphrase of an ancient salute: “We who are not
@@ -57,9 +63,7 @@ value their own life and are not willing to surrender it to the cult of despair 
 modern jungle of cynical impotence, just as they are not willing to surrender the
 world to the Dark Ages and the rule of the brutes.
 
-The need for intellectual leadership was never as great as now. No human
-being who has a trace of personal worth can be willing to surrender his life
-without lifting a hand—or a mind—to defend it, particularly not in America, the
+The need for intellectual leadership was never as great as now. No human being who has a trace of personal worth can be willing to surrender his life without lifting a hand—or a mind—to defend it, particularly not in America, the
 country based on the premise of man’s self-reliance and self-esteem. Americans
 have known how to erect a superlative material achievement in the midst of an
 untouched wilderness, against the resistance of savage tribes. What we need
@@ -111,6 +115,7 @@ conceptual level of psycho-epistemology—the volitional level of reason and
 thought—is the basic necessity of man’s survival and his greatest moral virtue.
 
 He will know that men need philosophy for the purpose of living on earth.
+
 The New Intellectual will be a reunion of the twins who should never have
 been separated: the intellectual and the businessman. He can come from among
 the best—that is: the most rational—men who may still exist in both camps. In
@@ -150,6 +155,7 @@ theoretical framework for dealing with men, with society, with politics, with
 economics. Let the businessmen learn the basic issues and principles of
 philosophy in order to know how to judge ideas, then let them assume full
 responsibility for the kind of ideologies they choose to finance and support.
+
 Let them both discover the nature, the theory and the actual history of
 capitalism; both groups are equally ignorant of it. No other subject is hidden by
 so many distortions, misconceptions, misrepresentations and falsifications. Let
@@ -163,4 +169,3 @@ has failed, let them remember that what ultimately failed was a “mixed”
 economy, that the controls were the cause of the failure, and that the way to save
 a country is not by making it swallow a full, “unmixed” glass of the poison
 which is killing it.
-

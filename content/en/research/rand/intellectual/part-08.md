@@ -1,13 +1,13 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "Karl Marx"
+heading: "Part 8"
 description: ""
 c: "firebrick"
 weight: 65
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
@@ -114,6 +114,7 @@ had been taught that causality is an illusion and that only the immediate moment
 is real). They took it as their axiom, as an irreducible primary, that wealth can be
 acquired only by force—and that a fortune as such is the proof of plunder, with
 no further distinctions or inquiries necessary.
+
 With their eyes still fixed on the Middle Ages, they were maintaining this in
 the midst of a period when a greater amount of wealth than had ever before
 existed in the world was being brought into existence all around them. If the men
@@ -123,6 +124,7 @@ who had not produced it. They were refusing to acknowledge the industrial
 revolution (they are still refusing today). They were refusing to admit into their
 universe what neither Attila nor the Witch Doctor can afford to admit: the
 existence of man, the Producer.
+
 Evading the difference between production and looting, they called the
 businessman a robber. Evading the difference between freedom and compulsion,
 they called him a slave driver. Evading the difference between reward and terror,

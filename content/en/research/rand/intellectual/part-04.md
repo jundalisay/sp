@@ -1,20 +1,20 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "The brute, the mystic, the thinker"
+heading: "Part 4"
 description: ""
 c: "firebrick"
 weight: 25
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-Men’s epistemology—or, more precisely, their psycho-epistemology, their
-method of awareness—is the most fundamental standard by which they can be
-classified. Few men are consistent in that respect; most men keep switching from
+Men’s epistemology—or, more precisely, their psycho-epistemology, their method of awareness—is the most fundamental standard by which they can be classified. 
+
+Few men are consistent in that respect; most men keep switching from
 one level of awareness to another, according to the circumstances or the issues
 involved, ranging from moments of full rationality to an almost somnambulistic
 stupor. But the battle of human history is fought and determined by those who
@@ -24,12 +24,28 @@ existence—with echoes responding to them, in support or opposition, in the
 switching, flickering souls of the others.
 
 A man’s method of using his consciousness determines his method of survival.
-The three contestants are Attila, the Witch Doctor and the Producer—or the man
-of force, the man of feelings, the man of reason—or the brute, the mystic, the
-thinker. The rest of mankind calls it expedient to be tossed by the current of
+
+
+The 3 contestants are:
+
+1. Attila
+2. The Witch Doctor
+3. The Producer
+
+The man of force, the man of feelings, the man of reason
+
+The brute, the mystic, the thinker.*
+
+{{< n n="This would coincide with the tyrant, democrats, oligarchs. Rand has no spirituality and therefore no aristocrat class" >}}
+
+
+The rest of mankind calls it expedient to be tossed by the current of
 events from one of those roles to another, not choosing to identify the fact that
 those three are the source which determines the current’s direction.
-The producers, so far, have been the forgotten men of history. With the
+
+The producers, so far, have been the forgotten men of history. 
+
+With the
 exception of a few brief periods, the producers have not been the leaders or the
 term-setters of men’s societies, although the degree of their influence and
 freedom was the degree of a society’s welfare and progress. Most societies have
@@ -63,8 +79,9 @@ with its two realities, with the physical world as a semi-illusory, imperfect,
 inferior realm, subordinated to a realm of abstractions (which means, in fact,
 though not in Plato’s statement: subordinated to man’s consciousness), with
 reason in the position of an inferior but necessary servant that paves the way for
-the ultimate burst of mystic revelation which discloses a “superior” truth. But
-Aristotle’s philosophy was the intellect’s Declaration of Independence. Aristotle,
+the ultimate burst of mystic revelation which discloses a “superior” truth. 
+
+But Aristotle’s philosophy was the intellect’s Declaration of Independence. Aristotle,
 the father of logic, should be given the title of the world’s first intellectual, in the
 purest and noblest sense of that word. No matter what remnants of Platonism did
 exist in Aristotle’s system, his incomparable achievement lay in the fact that he

@@ -1,33 +1,37 @@
 ---
-title: "For the New Intellectual"
-heading: "Part 1"
+title: "Hume and Kant"
+heading: "Part 6"
 description: ""
 c: "firebrick"
 weight: 45
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
 
-When Hume declared that he saw objects moving about, but never saw such a
-thing as “causality”—it was the voice of Attila that men were hearing. It was
-Attila’s soul that spoke when Hume declared that he experienced a flow of
+Hume declared that he saw objects moving about, but never saw “causality”.
+
+It was the voice of Attila that men were hearing. 
+
+It was Attila’s soul that spoke when Hume declared that he experienced a flow of
 fleeting states inside his skull, such as sensations, feelings or memories, but had
-never caught the experience of such a thing as consciousness or self. When
-Hume declared that the apparent existence of an object did not guarantee that it
-would not vanish spontaneously next moment, and the sunrise of today did not
-prove that the sun would rise tomorrow; when he declared that philosophical
-speculation was a game, like chess or hunting, of no significance whatever to the
-practical course of human existence, since reason proved that existence was
-unintelligible and only the ignorant maintained the illusion of knowledge—all of
-this accompanied by vehement opposition to the mysticism of the Witch Doctor
-and by protestations of loyalty to reason and science—what men were hearing
-was the manifesto of a philosophical movement that can be designated only as
-Attila-ism.
+never caught the experience of such a thing as consciousness or self. 
+
+Hume declared that:
+- the apparent existence of an object did not guarantee that it would not vanish spontaneously next moment
+- the sunrise of today did not prove that the sun would rise tomorrow
+- philosophical speculation was a game, like chess or hunting, of no significance whatever to the practical course of human existence
+  - This was because reason proved that existence was unintelligible and only the ignorant maintained the illusion of knowledge
+
+He had:
+- a vehement opposition to the mysticism of the Witch Doctor
+- loyalty to reason and science
+
+What men were hearing was the manifesto of a philosophical movement that I call Attila-ism.
 
 If it were possible for an animal to describe the content of his consciousness,
 the result would be a transcript of Hume’s philosophy. Hume’s conclusions

@@ -1,13 +1,13 @@
 ---
-title: "Atlas Shrugged"
-heading: "Part 18"
+title: "The Common Good"
+heading: "Part 17"
 description: ""
 c: "firebrick"
 weight: 135
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 

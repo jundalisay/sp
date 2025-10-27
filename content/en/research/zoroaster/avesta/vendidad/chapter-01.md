@@ -1,9 +1,9 @@
 ---
-heading: Part 1
+heading: Chapter 1
 title: "Ahura Mazda and Angra Mainyu"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+weight: 4
 ---
 
 

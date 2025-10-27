@@ -64,7 +64,7 @@ No organization or individual shall haveany privilege beyond the Constitution or
 
 Article 6 
 
-The foundationof the socialist economic system of the PRC is socialist public ownership of the means of production, that is, ownership by the whole people and collective ownership by the working people. 
+The foundation of the socialist economic system of the PRC is socialist public ownership of the means of production, that is, ownership by the whole people and collective ownership by the working people. 
 
 The system of socialist public ownership has eradicated the system of exploitation of man by man, and practices the principle of “from each according to his ability, to each according to his work.”
 

@@ -1,18 +1,17 @@
 ---
-title: "Atlas Shrugged"
-heading: "Part 18"
+title: "The Forgotten Man Of Socialized Medicine"
+heading: "Part 22"
 description: ""
 c: "firebrick"
-weight: 175
+weight: 169
 date: 2025-10-05
 icon: Ayn Rand
 writer:
-  name: Ayn Ramd
+  name: Ayn Rand
   url: https://en.wikipedia.org/wiki/Ayn_Rand
 ---
 
 
-THE FORGOTTEN MAN OF SOCIALIZED MEDICINE
 
 This is the explanation given by a distinguished brain surgeon of why he joined
 Galt’s strike.
