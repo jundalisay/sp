@@ -1,4 +1,12 @@
-C. Relations between the forces and coordinates.
+---
+title: "Relations between the forces and coordinate"
+heading: Part 4c
+description: ""
+weight: 15
+c: "darkslategray"
+---
+
+
 
 Finally, it follows from equation (9) that:
 

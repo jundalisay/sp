@@ -13,15 +13,17 @@ icon: "Socrates"
 <!-- Translated by Benjamin Jowett -->
 
 
-PERSONS OF THE DIALOGUE
-- Socrates, the narrator of the Dialogue to his Companion
-- Hippocrates
-- Alcibiades
-- Critias
-- Protagoras (Sophist)
-- Hippias (Sophist)
-- Prodicus (Sophist)
-- Callias, a wealthy Athenian.
+Meno | ![Meno](/icons/Meno.jpg)
+--- | ---
+Socrates, narrator | ![Socrates avatar](/icons/Socrates.jpg)
+Hippocrates | ![Hippocrates avatar](/icons/Hippocrates.jpg)
+Companion | ![Companion avatar](/icons/Companion.jpg)
+Alcibiades | ![Alcibiades avatar](/icons/Alcibiades.jpg)
+Critias | ![Critias avatar](/icons/Critias.jpg)
+Protagoras (Sophist) | ![Protagoras avatar](/icons/Protagoras.jpg)
+Hippias (Sophist) | ![Hippias avatar](/icons/Hippias.jpg)
+Prodicus (Sophist) | ![Prodicus avatar](/icons/Prodicus.jpg)
+Callias, a wealthy Athenian | ![Callias avatar](/icons/Callias.jpg)
 
 
 SCENE: The House of Callias.
@@ -52,32 +54,49 @@ I have heard him say many things
 {{< /l >}}
 
 
-Last night, or rather very early this morning, Hippocrates, the son of Apollodorus and the brother of Phason, gave a tremendous thump with his staff at my door; some one opened to him, and he came rushing in and bawled out: Socrates, are you awake or asleep?
+Last night, or rather very early this morning, Hippocrates, the son of Apollodorus and the brother of Phason, gave a tremendous thump with his staff at my door.
 
-I knew his voice, and said: Hippocrates, is that you? and do you bring any news?
+Some one opened to him, and he came rushing in and bawled out: 
 
-Good news, he said; nothing but good.
+{{< r a="Hippocrates" >}}
+Socrates, are you awake or asleep? Protagoras is come.
+{{< /r >}}
 
-Delightful, I said; but what is the news? and why have you come hither at this unearthly hour?
-
-He drew nearer to me and said: Protagoras is come.
-
+{{< l a="Socrates" >}}
 Yes, I replied; he came two days ago: have you only just heard of his arrival?
+{{< /l >}}
 
-Yes, by the gods, he said; but not until yesterday evening.
+{{< r a="Hippocrates" >}}
+Yes, but not until yesterday evening. Yesterday I went to Oenoe to pursue my runaway slave Satyrus. In the evening my brother told me that Protagoras is come.
+{{< /r >}}
 
-At the same time he felt for the truckle-bed, and sat down at my feet, and then he said: Yesterday quite late in the evening, on my return from Oenoe whither I had gone in pursuit of my runaway slave Satyrus, as I meant to have told you, if some other matter had not come in the way;—on my return, when we had done supper and were about to retire to rest, my brother said to me: Protagoras is come. I was going to you at once, and then I thought that the night was far spent. But the moment sleep left me after my fatigue, I got up and came hither direct.
+ <!-- I was going to you at once, and then I thought that the night was far spent. But the moment sleep left me after my fatigue, I got up and came hither direct. -->
 
-I, who knew the very courageous madness of the man, said: What is the matter? Has Protagoras robbed you of anything?
+<!-- I, who knew the very courageous madness of the man, said:  -->
 
-He replied, laughing: Yes, indeed he has, Socrates, of the wisdom which he keeps from me.
+{{< l a="Socrates" >}}
+What is the matter? Has Protagoras robbed you of anything?
+{{< /l >}}
 
-But, surely, I said, if you give him money, and make friends with him, he will make you as wise as he is himself.
+{{< r a="Hippocrates" >}}
+Yes, he has robbed me of the wisdom which he keeps from me.
+{{< /r >}}
 
-Would to heaven, he replied, that this were the case! He might take all that I have, and all that my friends have, if he pleased. But that is why I have come to you now, in order that you may speak to him on my behalf; for I am young, and also I have never seen nor heard him; (when he visited Athens before I was but a child;) and all men praise him, Socrates; he is reputed to be the most accomplished of speakers. There is no reason why we should not go to him at once, and then we shall find him at home. He lodges, as I hear, with Callias the son of Hipponicus: let us start.
+{{< l a="Socrates" >}}
+But if you give him money, and make friends with him, he will make you as wise as he is himself.
+{{< /l >}}
 
-I replied: Not yet, my good friend; the hour is too early. But let us rise and take a turn in the court and wait about there until day-break; when the day breaks, then we will go. For Protagoras is generally at home, and we shall be sure to find him; never fear.
 
+{{< r a="Hippocrates" >}}
+But he might take all that I have, and all that my friends have.
+
+But that is why I have come to you so you may speak to him on my behalf; for I am young, and also I have never seen nor heard him; (when he visited Athens before I was but a child;) and all men praise him, Socrates; he is reputed to be the most accomplished of speakers. There is no reason why we should not go to him at once, and then we shall find him at home. He lodges, as I hear, with Callias the son of Hipponicus.
+{{< /r >}}
+
+
+{{< l a="Socrates" >}}
+Not yet, it is too early. But let us rise and take a turn in the court and wait about there until day-break; when the day breaks, then we will go. For Protagoras is generally at home, and we shall be sure to find him; never fear.
+{{< /l >}}
 
 
 We got up and walked about in the court. I thought of testing the strength of his resolution.

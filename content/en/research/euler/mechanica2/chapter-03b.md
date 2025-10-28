@@ -12,40 +12,33 @@ c: "darkgoldenrod"
 
 PROPOSITION 58. Problem.
 
-<<<<<<< HEAD
 505. According to the hypothesis of uniform gravity g, and in a medium with some uniform resistance, to determine the motion of the body with the initial speed of ascent given at A (Fig.62) on the straight line AB inclined at some angle to the horizontal.
 
 Solution.
 
 With the line AC drawn to the horizontal and with the perpendicular MP drawn to that from M , call PM = x, and let AM = nx. Let the height corresponding to the initial speed at A be equal to b and the height corresponding to the speed at M be equal to v; now the resistance at M is equal to VK . With these in place, there is the equation :
 
-=======
-505. According to the hypothesis of uniform gravity g, and in a medium with some
-uniform resistance, to determine the motion of the body with the initial speed of ascent
-given at A (Fig.62) on the straight line AB inclined at some angle to the horizontal.
 
-Solution.
+<!-- dv = − gdx − nVdx
+K -->
+... (479)
 
-With the line AC drawn to the horizontal and with the
-perpendicular MP drawn to that from M , call PM = x, and let
-AM = nx. Let the height corresponding to the initial speed at A
-be equal to b and the height corresponding to the speed at M be
-equal to v; now the resistance at M is equal to VK . With these in
-place, there is the equation :
->>>>>>> 471d8ce6b4a9ac2b6d6a1a5812e0382b391480d7
-dv = − gdx − nVdx
-K
-(479), hence there is obtained
-− Kdv and x =
+hence there is obtained
+
+<!-- − Kdv and x =
 − Kdv
 dx = gK
 + nV
-gK + nV
+gK + nV -->
+
+
 
 with this integral thus taken, so that it vanishes on putting v = b.
+
 If then we put v = 0, then there is produced x = BC, where the
 body has lost all the speed at the point B. Now the time, in
 which the body ascends along AM, is equal to
+
 ∫
 [p. 261]
 ∫ ( gK−+Kdv

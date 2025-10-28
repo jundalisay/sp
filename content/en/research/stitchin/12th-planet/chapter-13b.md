@@ -66,34 +66,44 @@ Once more, Sumerian and biblical plays on words come to our aid. The biblical te
 
 But the word comes from the root NHSH, which means "to decipher, to find out"; so that nahash could also mean "he who can decipher, he who finds things out," an epithet befitting Enki, the chief scientist, the God of Knowledge of the Nefilim. 
 
-Drawing parallels between the Mesopotamian tale of Adapa (who obtained "knowing" but failed to obtain eternal life) and the fate of Adam, S. Langdon (Semitic Mythology) reproduced a depiction unearthed in Mesopotamia that strongly suggests the biblical tale: a serpent entwined on a tree, pointing at its fruit. 
+Adapa obtained "knowing" but failed to obtain eternal life.
 
-The celestial symbols are significant: High above is the Planet of Crossing, which stood for Anu; near the serpent is the Moon's crescent, which stood for Enki. (Fig. 158)
+Drawing parallels between the Mesopotamian tale of Adapa and the fate of Adam, S. Langdon (Semitic Mythology) reproduced a depiction unearthed in Mesopotamia.
+- It strongly suggests the biblical tale: a serpent entwined on a tree, pointing at its fruit. 
+
+The celestial symbols are significant: 
+- high above is the Planet of Crossing which stood for Anu
+- near the serpent is the Moon's crescent, which stood for Enki. (Fig. 158)
+
+Most pertinent to our findings is the fact that in the Mesopotamian texts, the god who eventually granted "knowledge" to Adapa was none other than Enki:
 
 
-Most pertinent to our findings is the fact that in the Mesopotamian texts, the
-god who eventually granted "knowledge" to Adapa was none other than Enki:
-
-
-{{< q >}}
+{{< q a="Enki" >}}
 Wide understanding he perfected for him…
 Wisdom [he had given him]…
 To him he had given Knowledge;
 Eternal Life he had not given him.
 {{< /q >}}
 
-A pictorial tale engraved on a cylinder seal found in Mari may well be an ancient illustration of the Mesopotamian version of the tale in Genesis. The engraving shows a great god seated on high ground rising from watery waves—an obvious depiction of Enki. Water-spouting serpents protrude from each side of this "throne."
 
-Flanking this central figure are two treelike gods. The one on the right, whose branches have penis-shaped ends, holds up a bowl that presumably contains the Fruit of Life. The one on the left, whose branches have vagina-shaped ends, offers fruit-bearing branches, representing the Tree of "Knowing"—the god-given gift of
-procreation.
+A pictorial tale engraved on a cylinder seal found in Mari may well be an ancient illustration of the Mesopotamian version of the tale in Genesis.
 
-Standing to the side is another Great God; we suggest that he was Enlil. His
-anger at Enki is obvious. (Fig. 159)
+The engraving shows a great god seated on high ground rising from watery waves—an obvious depiction of Enki. Water-spouting serpents protrude from each side of this "throne."
+
+Flanking this central figure are two treelike gods. The one on the right, whose branches have penis-shaped ends, holds up a bowl that presumably contains the Fruit of Life. 
+
+The one on the left, whose branches have vagina-shaped ends, offers fruit-bearing branches, representing the Tree of "Knowing"—the god-given gift of procreation.
+
+Standing to the side is another Great God; we suggest that he was Enlil. His anger at Enki is obvious. (Fig. 159)
 
 
-We shall never know what caused this "conflict in the Garden of Eden." But whatever Enki's motives were, he did succeed in perfecting the Primitive Worker and in creating Homo sapiens, who could have his own offspring. 
+We shall never know what caused this "conflict in the Garden of Eden."* But whatever Enki's motives were, he did succeed in perfecting the Primitive Worker and in creating Homo sapiens, who could have his own offspring. 
 
-After Man's acquisition of "knowing," the Old Testament ceases to refer to him as "the Adam," and adopts as its subject Adam, a specific person, the first patriarch of the line of people with whom the Bible was concerned. But this coming of age of Mankind also marked a schism between God and Man.
+{{< n n="The Essassani explain that the Anunnaki were not supposed to have created humans in the first place. That's why Enki and his creations were punished" >}}
+
+
+After Man's acquisition of "knowing," the Old Testament ceases to refer to him as "the Adam," and adopts as its subject Adam, a specific person, the first patriarch of the line of people with whom the Bible was concerned. 
+
+But this coming of age of Mankind also marked a schism between God and Man.
 
 The parting of the ways, with Man no longer a dumb serf of the gods but a person tending for himself, is ascribed in the Book of Genesis not to a decision by Man himself but to the imposition of a punishment by the Deity: lest the Earthling also acquire the ability to escape mortality, he shall be cast out of the Garden of Eden.
-

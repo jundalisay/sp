@@ -11,7 +11,7 @@ icon: "Socrates"
 ---
 
 
-{{< r a="Companion" >}}
+{{< r a="Hippocrates" >}}
 They call Protagoras a Sophist. 
 {{< /r >}}
 
@@ -20,7 +20,7 @@ They call Protagoras a Sophist.
 How about yourself? What will Protagoras make of you, if you go to see him?
 {{< /l >}}
 
-{{< r a="Companion" >}}
+{{< r a="Hippocrates" >}}
 (Blushing) I suppose that he will make a Sophist of me.
 {{< /r >}}
 
@@ -30,35 +30,65 @@ Are you not ashamed at having to appear before the Hellenes in the character of 
 {{< /l >}}
 
 
-Indeed, Socrates, to confess the truth, I am.
+{{< r a="Hippocrates" >}}
+Yes I am.
+{{< /r >}}
 
+
+{{< l a="Socrates" >}}
 But you should not assume, Hippocrates, that the instruction of Protagoras is of this nature: may you not learn of him in the same way that you learned the arts of the grammarian, or musician, or trainer, not with the view of making any of them a profession, but only as a part of education, and because a private gentleman and freeman ought to know them?
+{{< /l >}}
 
-Just so, he said; and that, in my opinion, is a far truer account of the teaching of Protagoras.
 
-I said: I wonder whether you know what you are doing?
+{{< r a="Hippocrates" >}}
+Just so, and that, in my opinion, is a far truer account of the teaching of Protagoras.
+{{< /r >}}
 
-And what am I doing?
 
-You are going to commit your soul to the care of a man whom you call a Sophist. And yet I hardly think that you know what a Sophist is; and if not, then you do not even know to whom you are committing your soul and whether the thing to which you commit yourself be good or evil.
+{{< l a="Socrates" >}}
+You are going to commit your soul to the care of a Sophist. Yet you do not know what a Sophist is, whether he is good or evil.
+{{< /l >}}
 
-I certainly think that I do know, he replied.
 
-Then tell me, what do you imagine that he is?
+{{< r a="Hippocrates" >}}
+The Sophist knows wise things, as his name implies.
+{{< /r >}}
 
-I take him to be one who knows wise things, he replied, as his name implies.
+{{< l a="Socrates" >}}
+But that is true of the painter and of the carpenter also. 
+{{< /l >}}
 
-And might you not, I said, affirm this of the painter and of the carpenter also: Do not they, too, know wise things? But suppose a person were to ask us: In what are the painters wise? We should answer: In what relates to the making of likenesses, and similarly of other things. And if he were further to ask: What is the wisdom of the Sophist, and what is the manufacture over which he presides?—how should we answer him?
 
-How should we answer him, Socrates? What other answer could there be but that he presides over the art which makes men eloquent?
+{{< r a="Hippocrates" >}}
+How are the painters wise?
+{{< /r >}}
 
-Yes, I replied, that is very likely true, but not enough; for in the answer a further question is involved: Of what does the Sophist make a man talk eloquently? The player on the lyre may be supposed to make a man talk eloquently about that which he makes him understand, that is about playing the lyre. Is not that true?
+{{< l a="Socrates" >}}
+They are wise in what relates to the making of likenesses, and similarly of other things. 
+{{< /l >}}
 
-Yes.
 
-Then about what does the Sophist make him eloquent? Must not he make him eloquent in that which he understands?
+{{< r a="Hippocrates" >}}
+What is the wisdom of the Sophist, and what is the manufacture over which he presides? 
+{{< /r >}}
 
-Yes, that may be assumed.
+<!-- How should we answer him, Socrates? What other answer could there be but that  -->
+
+{{< l a="Socrates" >}}
+He presides over the art which makes men eloquent.
+{{< /l >}}
+
+
+{{< r a="Hippocrates" >}}
+Of what does the Sophist make a man talk eloquently? 
+{{< /r >}}
+
+{{< l a="Socrates" >}}
+The player on the lyre may be supposed to make a man talk eloquently about that which he makes him understand, that is about playing the lyre. 
+
+The Sophist is eloquent on things which he understands.
+{{< /l >}}
+
 
 And what is that which the Sophist knows and makes his disciple know?
 

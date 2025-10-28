@@ -1,17 +1,17 @@
 ---
 heading: Chapter 2g
-title: "The Rectilinear Motion Of A Free Point Acted On By Absolute Forces"
+title: "The Motion Of A Point On A Given Line In A Vacuum"
 date: 2025-03-20
 weight: 4
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
+draft: true
 c: "darkgoldenrod"
 ---
 
 
-THE MOTION OF A POINT ON A GIVEN LINE IN A VACUUM
 
-PROPOSITION 49. Problem.
+### PROPOSITION 49. Problem.
 
 430. If a body is acted on by any forces, to find the curve AM (Fig. 53), upon which all
 the descents are made in equal times as far as to the point A.
@@ -21,37 +21,42 @@ Solution.
 Whatever the forces should be acting, all these can be reduced to two forces, of which
 the first now always pulls the body downwards along MQ, and the other pulls the body
 horizontally along MP. Let the force which pulls along
-MQ be equal to P, and the force which pulls along MP
-be equal to Q; call AP = x, PM = y, AM = s ; let the
+MQ be equal to P, and the force which pulls along MP be equal to Q; call AP = x, PM = y, AM = s ; let the
 speed at the point A correspond to the height b, and the
 speed at M correspond to the height v. With these in
 place, the equation arises v = b − Pdx − Qdy .
-∫
+
+
 Whereby if we put h = b and
+
 ∫
 ∫ Pdx + ∫ Qdy = z , then v
+
 is a function of one dimension of h and z, and therefore
 m = 1 (408). On this account, this equation is obtained
 for the curve sought :
-∫
-∫
+
+
 s = 2 a z = 2 a( Pdx + Qdy )
+
 or
+
 ds =
 aPdx + aQdy
 .
 a( ∫ Pdx + ∫ Qdy )
-But since we have ds = ( dx 2 + dy 2 ) , thenEULER'S MECHANICA VOL. 2.
-Chapter 2g
-page 332
+
+But since we have ds = ( dx 2 + dy 2 )
+
 Therefore at the starting point A , where Pdx + Qdy = 0 , then Pdx + Qdy = 0 or
-Translated and annotated by Ian Bruce.
-∫
-∫
-dy : dx = − P : Q. And it is understood from the preceding proposition, that the time of
-this descent is equal to the time, [p. 212] according to the hypothesis of gravity equal to
+
+dy : dx = − P : Q.
+
+The time of this descent is equal to the time, [p. 212] according to the hypothesis of gravity equal to
 1, in which a pendulum of length 2a completes the descent. Q.E.I.
+
 Scholium.
+
 431. If a curve is obtained, upon which all the descents are made in the same time, it is
 easy to give the curves, upon which all the oscillations are performed in the same time.
 For since in a vacuum the ascents are similar to the descents, every curve, which is a
@@ -760,10 +765,8 @@ and the integral of this is :
 Which is that curve, which constitutes a tautochrone with the vertical right line, as we
 found above (452). Now the length of the isochronous pendulum is equal to a, if the body
 is oscillating on this curve. But if it is moving on the right line AC and on part of the
-curve AN, the length of the isochronous pendulum is a4 . And if D is the cusp of the curve,EULER'S MECHANICA VOL. 2.
-Chapter 2g
-Translated and annotated by Ian Bruce.
-page 351
+curve AN, the length of the isochronous pendulum is a4 . And if D is the cusp of the curve,
+
 a
 then AC = 8 , now the other root AM rises to infinity. Besides this algebraic tautochrone
 curve others are easily found.

@@ -36,7 +36,7 @@ Critical Thinking | the expansion of one's thinking process beyond the normal li
 Death | The state where a mind loses the ability to express independently of the physical aspects of the universe
 Dharma | The inherent, metaphysical nature of any discrete identity with reference to the creator of that identity 
 Dharmic | Being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
-Distance | the gap within identities
+Distance | the perceptive gap within identities; also space-span
 Domain | a territory owned or controlled by a ruler
 Eagle | the equation for everything, according to Superphysics
 Effort | the inherent capability of an identity for action
@@ -87,7 +87,7 @@ Shiva | “witnessing consciousness”
 Slavery | A regular state of control of another's actions that produces pain
 Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem
 Soul | a mind that is regarded without its crude parts. This is called atman in Sanskrit.
-Space | the Gap within perception, marked by identities
+Space | the perceptive gap within perception, marked by identities
 Spirit | a mind in active form with waves of forces and feelings flowing through it
 <!-- Any emtity or identity that relates to the pure Positive Force, with the Absolute as reference -->
 Spirituality | Any concept or idea that related to the pure Positive Force, with the Absolute as reference
@@ -99,9 +99,9 @@ Thinking | the process of integration of external idea-nodes within the mind-nod
 Thinking, Critical | the application of intellect with an added effort to push against or break through limitation
 Thinking, Ordinary | the application of intellect in the ordinary way within limitation
 Thought | A physicalized version of a metaphysical Idea, as a result of thinking
-Time | Gap between perceptions in general 
+Time | cognitive gap between perceptions in general 
 Time Dilation | The increase of timespan within time 
-Timespan | Gap between 2 perceptions
+Timespan | cognitive gap between 2 perceptions
 Vice | A specific feeling that is adharmic
 Virtue | A specific feeling that is dharmic
 Yoga | Union created by the Positive Force

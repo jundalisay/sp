@@ -1,3 +1,12 @@
+---
+title: "The forces on moving systems"
+heading: Part 4b
+description: ""
+weight: 15
+c: "darkslategray"
+---
+
+
 B. Relations between forces and velocities.
 
 It follows further from equations (7) that:
