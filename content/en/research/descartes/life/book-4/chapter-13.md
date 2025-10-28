@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 25
 description: "In 1638, mathematicians were occupied with the famous question of the roulette"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

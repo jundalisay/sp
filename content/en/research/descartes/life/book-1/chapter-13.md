@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 32
 description: "The troubles stirred up in Bohemia came from the vain hope that the Hussites and other Protestants of the kingdom had of being able to shake off the yoke of the House of Austria"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

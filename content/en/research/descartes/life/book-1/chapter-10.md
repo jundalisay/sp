@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 25
 description: "Descartes was among troops who seemed to be employed only against the Spanish."
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 16
 description: "Gassendi had not yet returned to France from his trip to the Netherlands, when Father Mersenne set out to make the same trip"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

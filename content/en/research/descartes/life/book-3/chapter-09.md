@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 22
 description: "Descartes, in the middle of Holland, enjoyed a perfect solitude"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

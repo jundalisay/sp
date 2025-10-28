@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 28
 description: "Beeckman and Descartes were so little interested in all these public actions"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

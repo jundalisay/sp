@@ -1,10 +1,19 @@
+---
+title: "Scent"
+description: "Sniffing with nostrils mites from wild beasts' limbs, Left by their feet along the tender grass"
+c: "purple"
+weight: 6
+# date: 1939-08-02
+writer:
+  name: Empedocles
+  url: https://en.wikipedia.org/wiki/Empedocles
+---
 
 
 
-## Scent.
+## Scent
 
-101. Sniffing with nostrils mites from wild beasts' limbs,
-Left by their feet along the tender grass. . .
+101. Sniffing with nostrils mites from wild beasts' limbs, Left by their feet along the tender grass. . .
 
 102. Thus got all things share of breath and smells.
 
@@ -189,5 +198,3 @@ Are tawny lions, those great beasts that sleep
 Couched on the black earth up the mountain side;
 But, when in forms of beautiful plumed trees
 They live, the bays are worthiest for souls.
-
-

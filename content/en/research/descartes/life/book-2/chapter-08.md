@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 20
 description: "Descartes never knew Galileo except by his reputation and by reading his books."
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

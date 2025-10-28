@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 16
 description: "Descartes had already been convinced for a long time by his own experience of the little utility of mathematics, especially when one cultivates them only for themselves, without applying them to other things."
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

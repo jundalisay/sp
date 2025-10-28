@@ -1,10 +1,18 @@
+---
+title: "The World as It Now Is"
+description: "The ways of knowing lie scattered through their narrow members"
+c: "purple"
+weight: 6
+# date: 1939-08-02
+writer:
+  name: Empedocles
+  url: https://en.wikipedia.org/wiki/Empedocles
+---
 
 
+## The World as It Now Is
 
-## The World as It Now Is.
-
-38. Come! I will name the like-primeval Four, Whence rose to sight all things we now behold—
-Earth, many-billowed Sea, and the moist Air, And Aether, the Titan, who binds the globe about.
+38. Come! I will name the like-primeval Four, Whence rose to sight all things we now behold—Earth, many-billowed Sea, and the moist Air, And Aether, the Titan, who binds the globe about.
 
 Earth and Air Not Illimitable.
 
@@ -14,7 +22,7 @@ Have idly prated in the babbling mouths
 Of those who little of the All have seen . . .
 
 
-## Sun and Moon.
+## Sun and Moon
 
 40. Keen-darting Helios and Selene mild.
 

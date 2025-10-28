@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 6
 description: "When Descartes arrived in Amsterdam, the republic was still busy distributing the riches that the fleets of the two East and West India companies had recently taken from the Spanish and Portuguese"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

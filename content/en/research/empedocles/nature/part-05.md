@@ -1,6 +1,16 @@
+---
+title: "Animals and Plants"
+description: "The ways of knowing lie scattered through their narrow members"
+c: "purple"
+weight: 6
+# date: 1939-08-02
+writer:
+  name: Empedocles
+  url: https://en.wikipedia.org/wiki/Empedocles
+---
 
 
-On Animals and Plants.
+
 
 71. If belief lack pith, and thou still doubt
 How from the mingling of the elements,

@@ -6,6 +6,8 @@ date: 2025-08-14
 weight: 6
 description: "Descartes combined all the extraordinary things that individuals told him with the buzz that this new society was making throughout Germany, felt shaken"
 c: "black"
+icon: Adrien Baillet
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

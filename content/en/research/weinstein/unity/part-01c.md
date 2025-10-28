@@ -29,31 +29,17 @@ While the full Riemann curvature tensor is a specific example of the more genera
 
 Thus the greatest advantage of Einstein and Grossman’s choice of Riemannian geometry is almost certainly to replace the broad freedom lost in bundle choice with the much more restricted freedom to play separately with the Weyl, (Traceless) Ricci, and Scalar components of the full curvature tensor as Einstein did in 1915.
 
-While that may not seem to modern field theoretic tastes like a sensible
-trade-off given the loss in choice of structure, it appears sufficient for one
-very particular application of great importance: gravity. Further, properly abstracted, the projection operators onto curvature sub-components may be seen as tensor product decompositions in such a way as to include the Dirac operator on Spinors with its contraction on 1-form valued Spinors. 
+While that may not seem to modern field theoretic tastes like a sensible trade-off given the loss in choice of structure, it appears sufficient for one very particular application of great importance: gravity. 
 
-Viewed in this fashion, the ability to decompose tensor products of representations involving the tangent and cotangent bundles is the clear enticement to work within the
-metric paradigm.
+Further, properly abstracted, the projection operators onto curvature sub-components may be seen as tensor product decompositions in such a way as to include the Dirac operator on Spinors with its contraction on 1-form valued Spinors. 
 
-The way this discussion has been framed by the above is designed to suggest
-the search for a parallel in the form of a second minor advantage. And here
-there is room for debate. The other main attribute of Riemannian geometry
-that suggests itself hides in plain sight under the label of the ‘The Fundamental
-Theorem’ of Riemannian geometry. 
+Viewed in this fashion, the ability to decompose tensor products of representations involving the tangent and cotangent bundles is the clear enticement to work within the metric paradigm.
 
-The choice of a Levi-Civita connection made by the metric is certainly convenient, but its use can always be seen as a choice
-to be made dynamically by allowing more general connections as suggested by
-Palatini. Thus its main value is that it allows the torsion tensor of any other
-connection to be calculated by converting the affine space of connections into
-an honest vector space with the Levi-Civita connection at the origin.
-However, this has always led to a puzzle: what good is being able to define
-the torsion tensor of a metric connection if the Levi-Civita connection is the
-only one that appears to matter in practice? Thus the torsion tensor appears,
-potentially, to be the solution to a problem which no one has yet thought to ask.
-As such, its potential advantages have so far been minor with its realized ones
-closer to non-existent. But it must be considered to be a potential advantage
-as the natural answer to a question which may some day arise.
+The way this discussion has been framed by the above is designed to suggest the search for a parallel in the form of a second minor advantage. And here there is room for debate. The other main attribute of Riemannian geometry that suggests itself hides in plain sight under the label of the ‘The Fundamental Theorem’ of Riemannian geometry.
+
+The choice of a Levi-Civita connection made by the metric is certainly convenient, but its use can always be seen as a choice to be made dynamically by allowing more general connections as suggested by Palatini. Thus its main value is that it allows the torsion tensor of any other connection to be calculated by converting the affine space of connections into an honest vector space with the Levi-Civita connection at the origin.
+
+However, this has always led to a puzzle: what good is being able to define the torsion tensor of a metric connection if the Levi-Civita connection is the only one that appears to matter in practice? Thus the torsion tensor appears, potentially, to be the solution to a problem which no one has yet thought to ask. As such, its potential advantages have so far been minor with its realized ones closer to non-existent. But it must be considered to be a potential advantage as the natural answer to a question which may some day arise.
 
 
 <!-- 1.5 Notes On The Present Draft Document

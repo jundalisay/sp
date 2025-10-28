@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 25
 description: "Descartes did not seek the solid of the roulette because he genuinely renounced geometry"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet
@@ -18,27 +19,58 @@ This news did not please the geometricians of Paris who were expecting more and 
 
 Des Argues showed his displeasure to Father Mersenne, who made it seem good to Mr. Descartes as a testimony of the esteem he had for everything that could come from him. 
 
-Descartes took it well, and considered himself very obliged to Mr. Des Argues for his concern. In consideration of his care, he wrote back to Father Mersenne in the month of September of the year 1638 to let him know that he had only decided to quit abstract geometry, that is to say, the search for questions that only serve to exercise the mind: and that he had taken this side only to have so much more leisure to cultivate another kind of geometry, which has for its question the explanation of the phenomena of nature. That for the rest Mr. Des Argues would soon recognize that all his physics **"was nothing else but geometry,"** if he took the trouble to consider what he had written about salt, snow, the rainbow, etc. in his meteors.
+Descartes took it well, and considered himself very obliged to Mr. Des Argues for his concern. 
 
-Des Argues was of this small number of friends in favor of whom he had been willing to make an exception to the rule he had prescribed for himself 15 years before of no longer wasting his time giving the solution of geometry problems. He even did something more for the love of Mr. Des Argues in particular. 
 
-For having learned that the places of his printed geometry, where he had affected to be obscure, caused this friend pain, he wanted to give him the clarifications himself by a writing he made expressly, to let him know how far the zeal he had for his service went. He asked Father Mersenne to assure him of the recognition he had for all his good offices, and to testify to him that it was not for him that he had wished to make himself obscure, but for certain envious people who would have boasted of having known without his help the same things that he had written.
+## Descartes Quits Mathematical Geometry for Natural Geometry
 
-Besides these clarifications on some places proposed by Mr. Des Argues, he consented that a Dutch gentleman of his friends undertake a regular introduction of all his geometry to facilitate the understanding of it to all kinds of readers.
+He wrote back to Father Mersenne in September 1638 to let him know that he had only decided to quit abstract geometry or the search for questions that only exercise the mind in order to have much more leisure to cultivate another kind of geometry which explains the phenomena of nature.
 
-He sent it to Paris from the end of the month of May or the beginning of June, and it was found so excellent and so short, that it was believed that he was the author of it. 
+That for the rest Mr. Des Argues would soon recognize that all his physics **"was nothing else but geometry,"** if he took the trouble to consider what he had written about salt, snow, the rainbow, etc. in his meteors.
 
-He judged that it was his duty to disabuse those who were in this opinion, and to make his friend fully enjoy the reward due to the author of this work. 
+Des Argues was one of his few friends who wanted Descartes to continue with [mathematical] geometry problems.
 
-Father Mersenne, at the solicitation of various people, asked Mr. Descartes for permission to have this introduction printed in Paris. Mr. Descartes having taken charge of speaking to the author about it wrote back to the father that this gentleman did not desire that it be printed, unless one wanted to be content to have only a dozen or two copies printed for those to whom this father would want to give copies; which would have been even more convenient than having it transcribed. But if it was a question of a public printing, the gentleman testified that he would prefer to have it done himself in Holland; and that in that case, he would still want to add many things to it; which he offered to do with time.
+ <!-- in favor of whom he had been willing to make an exception to the rule he had prescribed for himself 15 years before of no longer wasting his time giving the solution of geometry problems.  -->
 
-The most skillful complained of the brevity of this writing: and Mr. Descartes taking the defense of the author, believed he gave them satisfaction, by representing to them that it was not a commentary but an introduction. We must believe that it was rather the view of this writing than the bad disposition of his envious people who prevented him from mending his geometry, as he testified to having had the intention of doing in favor of the common readers, to make it more proportionate to their understanding. As for the introduction, we do not see that any other copies were made than handwritten ones. This is perhaps what led Mr. Bartolin to publish another of his own composition, in which he studied mainly to level the difficulties that algebra gives rise to, of which Mr. Descartes made the key to his geometry.
+He even did something more for the love of Mr. Des Argues in particular. 
 
-It is still to the year 1638 that the public is indebted for the excellent notes that Monsieur de Beaune, counselor to the presidial of Blois, made on the geometry of Mr. Descartes.
+Descartes learned that the obscurity of his printed geometry gave Des Argues pain.
 
-De Beaune did not see anyone before him on the ranks for mathematics; and he found himself side by side with Messrs. de Fermat, Mydorge, Hardy, de Roberval, and the other geometricians who passed for the first of the century. This is what gave a new luster to the treatise of Mr. Descartes, and which wonderfully increased the consideration of it with those, who could not understand it, or who could not estimate its price by themselves.
+ <!-- he wanted to give him the clarifications himself by a writing he made expressly, to let him know how far the zeal he had for his service went.  -->
 
-De Beaune sent his notes to Mr. Descartes towards the end of the same year. He read them with an attention mixed with an unspeakable pleasure, which increased until the end of the reading, all the more so as he did not meet anything there that was not perfectly in conformity with his thought. It is one of the rarest singularities that one has yet been able to notice in the republic of letters, which is filled with commentators, scholiasts and translators, but which is barely in a state to produce one of each kind who has been able to legitimately deserve until now from his author the honor that Mr. de Beaune received from Mr. Descartes on this occasion. 
+He asked Father Mersenne to assure Des Argues that he made himself obscure against envious people, not against Des Argues.
+
+ <!-- of the recognition he had for all his good offices, and to testify to him that it was not for him that he had wished to make himself obscure, but for certain envious people who would have boasted of having known without his help the same things that he had written. -->
+
+Besides these clarifications on some places proposed by Mr. Des Argues, 
+
+Descartes consented that a Dutch gentleman friend of his undertake a regular introduction of all his geometry to make it easier to understand.
+
+He sent it to Paris from the end of May. It was so excellent and so short.
+
+<!-- He judged that it was his duty to disabuse those who were in this opinion, and to make his friend fully enjoy the reward due to the author of this work.  -->
+
+<!-- Father Mersenne, at the solicitation of various people, asked Mr. Descartes for permission to have this introduction printed in Paris. Mr. Descartes having taken charge of speaking to the author about it wrote back to the father that this gentleman did not desire that it be printed, unless one wanted to be content to have only a dozen or two copies printed for those to whom this father would want to give copies; which would have been even more convenient than having it transcribed. But if it was a question of a public printing, the gentleman testified that he would prefer to have it done himself in Holland; and that in that case, he would still want to add many things to it; which he offered to do with time. -->
+
+The most skillful complained of the brevity of this writing.
+
+Descartes replied that it was but an introduction.
+
+We must believe that it was rather the view of this writing than the bad disposition of his envious people who prevented him from mending his geometry, as he testified to having had the intention of doing in favor of the common readers, to make it more proportionate to their understanding. 
+
+As for the introduction, we do not see that any other copies were made than handwritten ones. This is perhaps what led Mr. Bartolin to publish another of his own composition, in which he studied mainly to level the difficulties that algebra gives rise to, of which Mr. Descartes made the key to his geometry.
+
+In 1638, Monsieur de Beaune, counselor to the presidial of Blois, made comments on the geometry of Descartes.
+
+De Beaune:
+- did not see anyone before him on the ranks for mathematics.
+- found himself side by side with Fermat, Mydorge, Hardy, de Roberval, and the other geometricians who passed for the first of the century.
+
+This is what gave a new luster to the treatise of Mr. Descartes, and which wonderfully increased the consideration of it with those, who could not understand it, or who could not estimate its price by themselves.
+
+De Beaune sent his notes to Mr. Descartes towards the end of the same year. He read them with an attention mixed with an unspeakable pleasure, which increased until the end of the reading, all the more so as he did not meet anything there that was not perfectly in conformity with his thought.
+
+It is one of the rarest singularities that one has yet been able to notice in the republic of letters, which is filled with commentators, scholiasts and translators, but which is barely in a state to produce one of each kind who has been able to legitimately deserve until now from his author the honor that Mr. de Beaune received from Mr. Descartes on this occasion. 
 
 He wrote about it to Father Mersenne, to testify to him the satisfaction he had of having finally found the man that Providence **"seemed to have prepared to strengthen his geometry against the rejections of the ignorant and the censures of the envious."** He told this father, to show him what were the foundations of his recognition, that there was not a single word in the notes of Mr. de Beaune that was not **"entirely according to his intention"** and that he had seen very well in his geometry the constructions and the demonstrations of the plane and solid places, of which the others said that he had only put a simple analysis. 
 
@@ -70,11 +102,13 @@ But this employment being quite inconstant and caducous, Mr. Descartes gave with
 
 Gillot, according to the judgment that his master made of him, was a very faithful boy, of a very good mind, and of a very lovable nature. Although he had never been to college nor learned liberal arts, he did not fail to understand a little Latin and English. He knew French as if he had never left his country, and Flemish as if he had always lived in Holland. He possessed arithmetic and geometry perfectly, and he knew enough of the method of Mr. Descartes to learn alone and by himself everything that could be missing in the other parts of mathematics. Having acquired so many talents, he was no longer in a state or even of an age to reduce himself to a simple servitude. This is why Mr. Descartes who had always distinguished him a lot among his domestic staff, told Father Mersenne clearly that Mr. de Sainte Croix could take him with him as a man of letters or a secretary: but that he should not expect subjections from him as from a valet, because having always lived with people, who although above him, had not failed to tolerate him often **"as a comrade,"** he had never become accustomed to these subjections. He also had him advised not to demand from Gillot all the civilities that were practiced in Paris more than from a foreigner who would never have been raised there, and not to keep him too long on the difficult operations and calculations of numbers, for fear that he would be discouraged, because it is a very unfruitful work and which needed too much patience for a lively mind like that of Gillot.
 
-Mr. Descartes judged no less advantageously of Mr. Frénicle than of Mr. de Sainte Croix. He testified to Father Mersenne by a letter of August 23 that what he had sent him was more than sufficient to let him know that his **"arithmetic must be excellent, since it led him to things where analysis has a lot of trouble reaching."**
+Descartes judged no less advantageously of Mr. Frénicle than of Mr. de Sainte Croix. He testified to Father Mersenne by a letter of August 23 that what he had sent him was more than sufficient to let him know that his **"arithmetic must be excellent, since it led him to things where analysis has a lot of trouble reaching."**
 
 This judgment is of all the greater weight as Mr. Descartes was less prodigal of praises, especially writing to Father Mersenne, to whom he was accustomed to confiding his thoughts without **"any other precaution than the discretion of the father."** Thus it was not by compliment that answering towards the same time to a letter from Mr. Frénicle, he testified to him some surprise to see that he was more learned in the science of numbers than he would have believed it possible without the help of algebra, which however Mr. Frénicle did not use. This is what would have excited in him the desire to be able to confer with this skillful arithmetician if he had considered himself capable of it at the time, or if it had been a study to which he had applied himself. But, he says, **"I know so little of arithmetic (of this kind) that it is not yet a year since I was ignorant of what is called the aliquot parts of a number, and that I had to borrow a Euclid to learn it on the subject of a question that had been proposed to me."** 
 
-This declaration was no doubt an effect of this inviolable sincerity that reigned in the speeches and in the writings of Mr. Descartes, and which made him consequently admit that the lack of attention to some of the calculations of Mr. Frénicle had made him fall into some mistakes that he had recognized since. It was only the complaisance for his friends and the consideration for the merit of those of the rank where Messrs. de Sainte Croix, Frénicle, de Beaune, Des Argues, etc. were near him, who were capable of making him return to the operations of algebra and geometry, to which he had renounced to seek something that was more useful to man. Friendship did not allow him to shake this yoke, but he did not fail to secretly try with Father Mersenne the means of getting rid of it without displeasing them. The shortest of these means was to ask this father to break this trade. 
+<!-- This declaration was no doubt an effect of this inviolable sincerity that reigned in the speeches and in the writings of Mr. Descartes.
+
+ and which made him consequently admit that the lack of attention to some of the calculations of Mr. Frénicle had made him fall into some mistakes that he had recognized since. It was only the complaisance for his friends and the consideration for the merit of those of the rank where Messrs. de Sainte Croix, Frénicle, de Beaune, Des Argues, etc. were near him, who were capable of making him return to the operations of algebra and geometry, to which he had renounced to seek something that was more useful to man. Friendship did not allow him to shake this yoke, but he did not fail to secretly try with Father Mersenne the means of getting rid of it without displeasing them. The shortest of these means was to ask this father to break this trade.  -->
 
 The answer he made to the numerical questions of Mr. de Sainte Croix in the month of June 1638 had so tired him, that he begged this father not to send him any more of any nature whatsoever. For, he says, **"when I have received them, it is difficult for me to abstain from seeking them, especially if I know that they come, like these, from some person of merit. And having proposed to myself a study for which all the time of my life, however long it may be, would not be enough, I would do very badly to use any part of it for things that do not serve it. But besides that, as for numbers, I never claimed to know anything about them; and I have exercised myself so little, that I can say with truth, that although I once learned division and the extraction of the square root, it has been more than eighteen years since I no longer know them: and if I had to use them, I would have to study them in some book of arithmetic, or try to invent them just as if I had never known them."**
 

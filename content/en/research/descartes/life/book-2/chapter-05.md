@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 14
 description: "After a short stay in West Friesland, Descartes came to Holland where he spent a good part of the winter"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

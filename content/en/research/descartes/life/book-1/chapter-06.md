@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 16
 description: "Descartes was even less satisfied with the Physics and Metaphysics taught him the following year than he had been with Logic and Morality"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

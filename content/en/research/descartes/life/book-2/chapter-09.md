@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 23
 description: "While in Châtellerault, he was solicited to negotiate for the position of lieutenant general of the place"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

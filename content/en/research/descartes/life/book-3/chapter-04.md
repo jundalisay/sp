@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 12
 description: "On March 20, 5 suns were seen in that city at the same time as 4 **parhelia**, or false suns, around the sun."
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

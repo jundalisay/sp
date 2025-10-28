@@ -12,12 +12,14 @@ We test Descartes' assertions, just as we tested Einstein's and Keynes', to expo
 
 n | Source | Error | Reality
 --- | --- | --- | ---
-1 | Principia Part 3, 154 | Saturn does not rotate so much | Saturn rotates quickly
+1 | Principia Part 3: 154 | Saturn does not rotate so much | Saturn rotates quickly
 2 | The World Chapter 8 | Comets (and the Oort Cloud) move faster than the inner planets | Comets are slower
-3 | Principia Part 3, 82 | The fire-aether beyond Saturn do not move faster. | They move slower. This mistake is caused by the previous mistake on comets
-4 | Principia Part 3, 147 | The outer planets are more solid (materially denser) than the inner ones | The inner planets are more solid
-5 | Principia Part 3, 153 | Magnets have 2 opposing channel flow directions | Modern Physics reveals magnets to have 1 flow, from North to Soutn
-6 | Passions, Article 36 | The feelings come from the pineal gland instead of the heart | The feelings are facilitated by the heart, which are then processed by the pineal gland
+3 | Principia Part 3: 82 | The fire-aether beyond Saturn do not move faster. | They move slower. This mistake is caused by the previous mistake on comets
+4 | Principia Part 3: 147 | The outer planets are more solid (materially denser) than the inner ones | The inner planets are more solid
+5 | Principia Part 3: 153 | Magnets have 2 opposing channel flow directions | Modern Physics reveals magnets to have 1 flow, from North to Soutn
+6 | Principia Part 4: 77, 79 | Earthquakes are caused by gas explosions in the Earth | Earthquakes are caused by tectonic plates
+7 | Passions: 36 | The feelings come from the pineal gland instead of the heart | The feelings are facilitated by the heart, which are then processed by the pineal gland
+
 
 <!-- 4 | Meteors Discourse 8 | Colors are caused by photons turning in different directions. The cause of the error is believing that colors emerge after hitting something. This is a principle in Dioptrique. However, color is inherent information about the source, and not an emergent effect. | Colors are caused by wavelengths -->
 

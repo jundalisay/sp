@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 18
 description: "Descartes spent 9 years uprooting all the errors that had crept into his mind"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

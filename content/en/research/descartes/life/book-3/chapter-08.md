@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 20
 description: "During his travels, Father Mersenne had sent Mr. Descartes various literary news, including one on the recent publication of a book by Father Gibieuf."
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet

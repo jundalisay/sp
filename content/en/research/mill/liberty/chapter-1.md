@@ -20,9 +20,17 @@ This Essay is about Civil or Social Liberty, not about the Liberty of the Will w
 
 What is the nature and limits of the power which can be legitimately exercised by society over the individual? 
 
-This question has <!-- A question seldom stated, and hardly ever discussed, in general terms, but which profoundly influences the practical controversies of the age by its latent presence, and is likely soon to make itself recognised as the vital question of the future. It is so far from being new, that in a certain sense, it has --> divided mankind for a long time. <!-- , almost from the remotest ages; but in the stage of progress into which the more civilised portions of the species have now[Pg 2] entered, it presents itself under new conditions, and requires a different and more fundamental treatment. --> The struggle between Liberty and Authority is the most conspicuous feature in the portions of history with which we are earliest familiar, particularly in that of Greece, Rome, and England. 
+This question has divided mankind for a long time.
 
-In old times, this contest was between the people and the government. Liberty meant protection against the tyrannical rulers which were made up of <!-- The rulers were conceived (except in some of the popular governments of Greece) as in a necessarily antagonistic position to the people whom they ruled.  --> a governing One, or a governing tribe or caste, who derived their authority from inheritance or conquest. 
+<!-- A question seldom stated, and hardly ever discussed, in general terms, but which profoundly influences the practical controversies of the age by its latent presence, and is likely soon to make itself recognised as the vital question of the future. It is so far from being new, that in a certain sense, it has -->  <!-- , almost from the remotest ages; but in the stage of progress into which the more civilised portions of the species have now[Pg 2] entered, it presents itself under new conditions, and requires a different and more fundamental treatment. --> 
+
+The struggle between Liberty and Authority is the most conspicuous feature in the history of Greece, Rome, and England. 
+
+In old times, this contest was between the people and the government.
+
+Liberty meant protection against the tyrannical rulers which were made up of a governing One, or a governing tribe or caste, who derived their authority from inheritance or conquest.
+
+<!-- The rulers were conceived (except in some of the popular governments of Greece) as in a necessarily antagonistic position to the people whom they ruled.  -->  
 
 <!-- , who, at all events, did not hold it at the pleasure of the governed, and whose supremacy men did not venture, perhaps did not desire, to contest, whatever precautions might be taken against its oppressive exercise.  -->
 
@@ -30,9 +38,16 @@ Their power was regarded as:
 - necessary but also as highly dangerous
 - a weapon which they use against their subjects and external enemies
 
-To prevent the weaker members from being preyed on by vultures, an animal of prey stronger than the rest was needed to keep them down. But a king of the vultures would both prey on the weak and the strong. Thus, everyone had to be in a perpetual attitude of defence against him<!--  beak and claws -->. 
+To prevent the weaker members from being preyed on by vultures, an animal of prey stronger than the rest was needed to keep them down.
 
-Patriots therefore were needed to set limits to the ruler's power. They called this limitation as "liberty" and was implemented in two ways:
+But a king of the vultures would both prey on the weak and the strong.
+
+Thus, everyone had to be in a perpetual attitude of defence against him<!--  beak and claws -->. *
+
+{{< n n="This logic arose because the West had no concept of Dharma" >}}
+
+
+Patriots therefore were needed to set limits to the ruler's power. They called this limitation as "liberty" and was implemented in 2 ways:
 
 1. Political liberties or rights
 
@@ -40,43 +55,80 @@ A violation of this by the ruler<!--  was not supposed to infringe on these. If 
 
 2. The establishment of constitutional checks
 
-This came from the consent of the community. It represented its interests and was applied on <!-- necessary condition on --> the important acts of the ruler<!--  governing power -->. Most European rulers were not compelled to submit to this. This is why the lovers of liberty strove for this. 
+This came from the consent of the community. It represented its interests and was applied on <!-- necessary condition on --> the important acts of the ruler<!--  governing power -->. 
+
+Most European rulers were not compelled to submit to this. This is why the lovers of liberty strove for this. 
 
 People did not <!-- carry their aspirations -->go beyond this point as long as they were content to:
 - combat one enemy by another
 - be ruled by a master who would not not oppress them<!-- , on condition of being guaranteed more or less efficaciously against his tyranny, . -->
 
-In time, the people felt that <!-- A time, however, came, in the progress of human affairs, when men ceased to think it a necessity of nature that --> their governors should not be independent. Instead, <!-- opposed in interest to themselves.  --> those magistrates should be their tenants or delegates, revocable at their pleasure. This would prevent those magistrates from abusing the powers of government. 
+In time, the people felt that <!-- A time, however, came, in the progress of human affairs, when men ceased to think it a necessity of nature that --> their governors should not be independent. 
+
+Instead, <!-- opposed in interest to themselves.  --> those magistrates should be their tenants or delegates, revocable at their pleasure. This would prevent those magistrates from abusing the powers of government. 
 
 The popular party made this new demand for elected, temporary rulers. They made efforts to limit the power of rulers. 
 
-As the struggle proceeded, <!--  for making the ruling power emanate from the periodical choice of the ruled, --> some persons began to think that too much importance had been attached to the limitation of the power itself. Their new demand was for the <!-- That (it might seem) was a resource against rulers whose interests were habitually opposed to those of the people. What was now wanted was, that the --> rulers to be identified with the people. **Their interest should be the interest and will of the nation**. 
+As the struggle proceeded, some persons began to think that too much importance had been attached to the limitation of the power itself. 
+
+Their new demand was for the rulers to be identified with the people. **Their interest should be the interest and will of the nation**. 
 - The nation did not need to be protected against its own will. 
 - There was no fear of its tyrannising over itself. 
 
-Let the rulers be subjected <!-- responsible --> to it, <!-- promptly --> removable by it<!-- , and it could afford to trust them with power of which it could itself dictate the use to be made -->. Their power was the nation's own power, concentrated, in a  convenient form<!--  for exercise -->. 
+Let the rulers be subjected to it, removable by it. 
 
-This feeling was common among the last generation of European liberalism, in the Continental section* where it still predominates. 
+Their power was the nation's own power, concentrated, in a convenient form. 
 
-{{< n n="The French Revolution" >}}
+This feeling was common among the last generation of European liberalism, in the Continental section where it still predominates. 
+
+The Continental political thinkers had brilliant exceptions who thought that there should be limits to government. 
+
+<!-- Those who admit any limit to what a government may do, except in the case of such governments as they think ought not to exist, stand out as  among . --> 
+
+This feeling might have been prevalent in our Britain by now if it were encouraged unaltered. 
+
+But the success of the French Revolution exposed its own faults and infirmities which were hidden in from the theory.  
 
 
-The Continental political thinkers had brilliant exceptions who thought that there should be limits to government. <!-- Those who admit any limit to what a government may do, except in the case of such governments as they think ought not to exist, stand out as  among . --> This feeling might have been prevalent in our Britain by now if it were encouraged unaltered. But <!-- , in political and philosophical theories, as well as in persons, --> the success of the French Revolution exposed its <!-- discloses --> own faults and infirmities which were hidden in from the theory.  <!-- failure might have concealed from observation. --> 
+The idea that the people should have unlimited power over themselves seems axiomatic when popular government was still not a reality. 
 
-The idea that the people should have unlimited power over themselves seems axiomatic when popular government was still not a reality. <!-- a thing only dreamed about, or read of as having existed at some distant period of the past. Neither was that notion necessarily disturbed by such temporary aberrations as those of  --> The French Revolution allowed <!-- , the worst of which were the work of --> a usurping few <!-- , and which, in any case, belonged, not to the permanent working of popular institutions, but to a --> to suddenly and convulsively break out against monarchical and aristocratic despotism. 
+<!-- a thing only dreamed about, or read of as having existed at some distant period of the past. Neither was that notion necessarily disturbed by such temporary aberrations as those of  --> 
 
-In time, however, most countries became democratic republics. <!--  came to occupy a large portion of the earth's surface, and made itself felt as one of the most powerful members of the community of nations; and --> Elected and responsible governments became subject to the observations and criticisms.  <!-- which wait upon a great existing fact. --> <!-- It was now perceived that such phrases as  -->
+The French Revolution allowed a usurping few to suddenly and convulsively break out against monarchical and aristocratic despotism.
+
+In time, however, most countries became democratic republics.
+
+ <!--  came to occupy a large portion of the earth's surface, and made itself felt as one of the most powerful members of the community of nations; and -->  <!-- which wait upon a great existing fact. --> <!-- It was now perceived that such phrases as  -->
+
+Elected and responsible governments became subject to the observations and criticisms.
 
 
 ### Self-Government Doesn't Work
 
-"Self-government" and "the power of the people over themselves" are not real. <!-- do not express the true state of the case. --> The "people" who exercise the power are not always the same people with those over whom it is exercised. "Self-government" is not the government of each by himself, **but of each by all the rest**. 
+"Self-government" and "the power of the people over themselves" are not real.
 
-The will of the people really means the will of the most numerous or the most active, as the majority. <!-- , or those who succeed in making themselves accepted as the majority= --> The people, consequently, might oppress a part of them. Precautions are as much needed against this, as against any other abuse of power. 
+The "people" who exercise the power are not always the same people with those over whom it is exercised. 
 
-The limitation of <!-- the power of --> government over individuals is not so useful when that government is <!-- , loses none of its importance when the holders of power are --> regularly accountable to the <!-- community, that is, to the --> strongest party in society<!--  therein -->. This view appeals to both thinkers and the ruling class. <!-- of things, recommending itself equally to the intelligence of thinkers and to the inclination of those important classes in European society to whose real or supposed interests democracy is adverse, has had no difficulty in establishing itself.  -->
+"Self-government" is not the government of each by himself, **but of each by all the rest**. 
 
-"The tyranny of the majority" is now among the evils which society has to guard against. Like other tyrannies, this tyranny was first dreaded. <!--  of the majority was at first, and is still vulgarly, held in dread. It chiefly operates through the acts of the public authorities.  --> But <!-- reflecting persons --> people perceived that when society is itself is tyrannical, <!-- the tyrant—society collectively, over the separate individuals who compose it—its means of tyrannising are not restricted to the acts which it may do by the hands of its political functionaries.  --> it can <!-- Society can and does execute its own mandates. It --> practise social tyranny through:
+The will of the people really means the will of the most numerous or the most active, as the majority.
+
+The people, consequently, might oppress a part of them. Precautions are as much needed against this, as against any other abuse of power. 
+
+The limitation of the power of government over individuals is not so useful when that government is regularly accountable to the strongest party in society.
+
+This view appeals to both thinkers and the ruling class.
+
+ <!-- of things, recommending itself equally to the intelligence of thinkers and to the inclination of those important classes in European society to whose real or supposed interests democracy is adverse, has had no difficulty in establishing itself.  -->
+
+"The tyranny of the majority" is now among the evils which society has to guard against. Like other tyrannies, this tyranny was first dreaded. 
+
+<!--  of the majority was at first, and is still vulgarly, held in dread. It chiefly operates through the acts of the public authorities.  --> 
+
+But people perceived that when society is itself is tyrannical, it can practise social tyranny through:
+
+<!-- the tyrant—society collectively, over the separate individuals who compose it—its means of tyrannising are not restricted to the acts which it may do by the hands of its political functionaries.  -->  <!-- Society can and does execute its own mandates. It --> 
+
 - issuing the wrong mandates, or
 - mandating everything   <!-- more formidable than many kinds of political oppression -->. 
 
@@ -103,23 +155,37 @@ A good condition of human affairs must be maintained as protection against polit
 
 ## The Moral Rules of JS Mill
 
-Some rules of conduct must be imposed by law*. For subjects not fit for the law, the rules are set by opinion. <!-- What these rules should be, is the principal question in human affairs; but if we except a few of the most obvious cases, it is one of those which least progress has been made in resolving.  --> No two ages, and scarcely any two countries, have decided those rules alike. <!-- ; and the decision of one age or country is a wonder to another. Yet the people of any given age and country no more suspect any difficulty in it, than if it were a subject on which mankind had always been agreed.  -->
+Some rules of conduct must be imposed by law*. For subjects not fit for the law, the rules are set by opinion.
+
+<!-- What these rules should be, is the principal question in human affairs; but if we except a few of the most obvious cases, it is one of those which least progress has been made in resolving.  --> 
+
+No two ages, and scarcely any two countries, have decided those rules alike. 
+
+<!-- ; and the decision of one age or country is a wonder to another. Yet the people of any given age and country no more suspect any difficulty in it, than if it were a subject on which mankind had always been agreed.  -->
 
 <!-- The rules which obtain among themselves appear to them self-evident and self-justifying. This all but universal illusion is one of the examples of the magical influence of custom, which is not only, as the proverb says, a second nature, but is continually mistaken for the first.  -->
 
 {{< n n="Without any foundation in Metaphysics, JS Mill's Liberalism ends up being a casuistic system similar to Islam, except that it goes in the opposite direction towards the ego instead of the Supreme." >}}
 
 
-These rules are the effect of custom. <!-- , in preventing any misgiving respecting the rules of conduct which mankind impose on one another, is all the more complete because the subject is one on which it is not generally considered necessary that reasons should be given, either by one person to others, or by each to himself.  --> People are accustomed to believe, and have been encouraged to believe by <!--  by some who aspire to the character of --> philosophers, that their feelings, on subjects of this nature, are better than reasons<!-- , and render reasons unnecessary -->. 
+These rules are the effect of custom. 
+
+<!-- , in preventing any misgiving respecting the rules of conduct which mankind impose on one another, is all the more complete because the subject is one on which it is not generally considered necessary that reasons should be given, either by one person to others, or by each to himself.  --> 
+
+People are accustomed to believe, and have been encouraged to believe by philosophers, that their feelings, on subjects of this nature, are better than reasons. 
 
 
 ### Social Rules are Based on Ego or Personal Preference
 
-The practical principle which guides morality <!-- them to their opinions on the regulation of human conduct, --> is the feeling <!-- in each person's mind --> that everybody should <!-- be required to --> act as he, and those with whom he sympathises, would like them to act. 
+The practical principle which guides morality is the feeling that everybody should act as he, and those with whom he sympathises, would like them to act. 
 
-Morality is therefore a personal preference.  <!-- No one acknowledges to himself that his standard of judgment is his own liking, But an opinion on a point of conduct, not supported by reasons, can only count as one person's preference.  --> If this preference <!--  reasons are a mere appeal to a --> is similar to that felt by other people, then it is a general <!--  it is still only many people's --> preference instead of a personal preference. 
+Morality is therefore a personal preference.
 
-To an ordinary man, his personal <!-- own preference --> preference is perfectly satisfactory<!--  reason -->. It is generally his only basis for any of his notions of morality, taste, or propriety. <!-- , which are not expressly written in his religious creed; and his chief guide in the interpretation even of that.  -->
+<!-- No one acknowledges to himself that his standard of judgment is his own liking, But an opinion on a point of conduct, not supported by reasons, can only count as one person's preference.  --> 
+
+If this preference is similar to that felt by other people, then it is a general preference instead of a personal preference. 
+
+To an ordinary man, his personal preference is perfectly satisfactory<!--  reason -->. It is generally his only basis for any of his notions of morality, taste, or propriety. <!-- , which are not expressly written in his religious creed; and his chief guide in the interpretation even of that.  -->
 
 Therefore, men's opinions are <!-- , accordingly, on what is laudable or blamable, --> are affected by all the multifarious causes which influence their wishes in regard to the conduct of others<!-- , and which are as numerous as those which determine their wishes on any other subject -->. 
 
@@ -147,16 +213,26 @@ On the other hand, the feelings of formerly ascendant class <!--  , has lost its
 
 ### Social Rules are Based on Servility
 
-Another grand determining principle of the rules of conduct is <!-- , both in act and forbearance, which have been enforced by law or opinion, has been --> the servility of mankind towards <!-- the preferences or aversions of --> their temporal masters or their gods. 
+Another grand determining principle of the rules of conduct is the servility of mankind towards their temporal masters or their gods.
 
 This servility, though essentially selfish, is not hypocrisy. It leads to perfectly genuine hatred. It made men burn magicians and heretics. 
 
-Among so many baser influences, the general and obvious interests of society is a large one. It has a large share in moral feelings. <!--  have of course had a share, and a large one, in the direction of the moral sentiments --><!-- = less, however, as a matter of reason, and on their own account, than as a consequence of the sympathies and antipathies which grew out of them= and sympathies and antipathies which had little or nothing to do with the interests of society, have made themselves felt in the establishment of moralities with quite as great force. --> The likings and dislikings of society thus has <!-- , or of some powerful portion of it, are thus the main thing which has practically --> determined the rules which are laid down<!--  for general observance, under the penalties[Pg 13] of law or opinion -->. 
+Among so many baser influences, the general and obvious interests of society is a large one. It has a large share in moral feelings. 
+
+<!--  have of course had a share, and a large one, in the direction of the moral sentiments --><!-- = less, however, as a matter of reason, and on their own account, than as a consequence of the sympathies and antipathies which grew out of them= and sympathies and antipathies which had little or nothing to do with the interests of society, have made themselves felt in the establishment of moralities with quite as great force. --> 
+
+The likings and dislikings of society thus has determined the rules which are laid down.
+
 
 Those who <!-- And in general, those who --> have advanced the interest of society <!--  in thought and feeling have left this condition of things unassailed in principle, however they may --> have come into conflict with it in some of its details. They instead ask what things society should like or dislike, than in asking whether its likings or dislikings should be a law to individuals. 
 
-They preferred changing the feelings of mankind <!-- on the particular points on which they were themselves heretical, --> rather than defend freedom<!-- , with heretics generally -->. They are only consistent with <!-- only case in which the higher ground has been taken on principle and maintained with consistency, by any but an individual here and there, is that of --> religious belief. Religion is proof of the  <!-- = a case instructive in many ways, and not least so as forming --> <!-- a most striking instance of the --> fallibility of <!-- what is called --> the moral sense. The odium theologicum, in a sincere bigot, is one of the most unequivocal cases of moral feeling. 
+They preferred changing the feelings of mankind <!-- on the particular points on which they were themselves heretical, --> rather than defend freedom.
 
+They are only consistent with religious belief. Religion is proof of the fallibility of the moral sense. The odium theologicum, in a sincere bigot, is one of the most unequivocal cases of moral feeling. 
+
+<!-- only case in which the higher ground has been taken on principle and maintained with consistency, by any but an individual here and there, is that of --> 
+
+  <!-- = a case instructive in many ways, and not least so as forming --> <!-- a most striking instance of the --> 
 
 <!-- Those who first broke the yoke of the Universal Church, were in general as little willing to permit difference of religious opinion as that church itself. 
 
@@ -195,7 +271,11 @@ This is the sole end of mankind individually or collectively.  in  of any of the
 
 To justify that, the conduct from which it is desired to deter him must be calculated to produce evil to some one else. The only part of the conduct of any one, for which he is amenable to society, is that which concerns others. In the part which merely concerns himself, his independence is, of right, absolute. Over himself, over his own body and mind, the individual is sovereign. -->
 
-This doctrine applies only to mature human beings and not to children or teenagers. <!--   young persons below the age which the law may fix as that of manhood or womanhood. Those who are still in a state to --> They need to be cared for by others and must be protected against their own actions and external injury. 
+This doctrine applies only to mature human beings and not to children or teenagers.
+
+ <!--   young persons below the age which the law may fix as that of manhood or womanhood. Those who are still in a state to --> 
+
+They need to be cared for by others and must be protected against their own actions and external injury. 
 
 This doctrine also does not apply <!-- For the same reason, we may leave out of consideration those --> to backward societies. <!-- in which the race itself may be considered as in its nonage. The early difficulties in the way of spontaneous progress are so great, that there is seldom any choice of means for overcoming them; and a ruler full of the spirit of improvement is warranted in the use of any expedients that will attain an end, perhaps otherwise unattainable. -->  Despotism is a legitimate mode of government in dealing with barbarians, provided:
 - the end be their improvement and

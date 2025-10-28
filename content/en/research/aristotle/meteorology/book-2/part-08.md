@@ -11,13 +11,23 @@ writer:
 ---
 
 
-Wet and dry must both give rise to an evaporation. 
+Wet and dry both cause evaporation. 
 
-Earthquakes are a necessary consequence of this fact. The earth is essentially dry, but rain fills it with moisture. Then the sun and its own fire warm it and give rise to a quantity of wind both outside and inside it. This wind sometimes flows outwards in a single body, sometimes inwards, and sometimes it is divided. All these are necessary laws. Next we must find out what body has the greatest motive force. This will certainly be the body that naturally moves farthest and is most violent.
+Earthquakes are a necessary consequence of this evaporation.
 
-Now that which has the most rapid motion is necessarily
+The earth is dry. But rain fills it with moisture. 
+
+Then the sun and its own fire warm it and give rise to a quantity of wind both outside and inside it. 
+
+This wind sometimes flows outwards in a single body, sometimes inwards, and sometimes it is divided. All these are necessary laws.
+
+Next we must find out what body has the greatest motive force. This will certainly be the body that naturally moves farthest and is most violent.
+
+That which has the most rapid motion is necessarily
 the most violent; for its swiftness gives its impact the greatest
-force. Again, the rarest body, that which can most readily pass through
+force. 
+
+Again, the rarest body, that which can most readily pass through
 every other body, is that which naturally moves farthest. Wind satisfies
 these conditions in the highest degree (fire only becomes flame and
 moves rapidly when wind accompanies it): so that not water nor earth
@@ -201,23 +211,33 @@ violent as the sea allowed no exit to the wind that had entered the
 earth, but shut it in. So in their struggle with one another the wind
 caused the earthquake, and the wave by its settling down the inundation.
 
-Earthquakes are local and often affect a small district only; whereas
-winds are not local. Such phenomena are local when the evaporations
-at a given place are joined by those from the next and unite; this,
+Earthquakes are local and often affect a small district only. Whereas winds are not local. Such phenomena are local when the evaporations at a given place are joined by those from the next and unite; this,
 as we explained, is what happens when there is drought or excessive
-rain locally. Now earthquakes do come about in this way but winds
-do not. For earthquakes, rains, and droughts have their source and
+rain locally. 
+
+Earthquakes do come about in this way but winds
+do not. 
+
+For earthquakes, rains, and droughts have their source and
 origin inside the earth, so that the sun is not equally able to direct
-all the evaporations in one direction. But on the evaporations in
+all the evaporations in one direction. 
+
+But on the evaporations in
 the air the sun has more influence so that, when once they have been
 given an impulse by its motion, which is determined by its various
 positions, they flow in one direction. 
 
-When the wind is present in sufficient quantity there is an earthquake. The shocks are horizontal like a tremor; except occasionally, in a few places, where they act vertically, upwards from below, like a throbbing. It is the vertical direction which makes this kind of earthquake so rare. 
+When the wind is present in sufficient quantity there is an earthquake. 
 
-The motive force does not easily accumulate in great quantity in the position required, since the surface of the earth secretes far more of the evaporation than its depths. Wherever an earthquake of this kind does occur a quantity of stones comes to the surface of the earth (as when you throw up things in a winnowing fan), as we see from Sipylus and the Phlegraean plain and the district in Liguria, which were devastated by this kind of earthquake.
+The shocks are horizontal like a tremor; except occasionally, in a few places, where they act vertically, upwards from below, like a throbbing. It is the vertical direction which makes this kind of earthquake so rare. 
 
-Islands in the middle of the sea are less exposed to earthquakes than those near land. First, the volume of the sea cools the evaporations and overpowers them by its weight and so crushes them. Then, currents and not shocks are produced in the sea by the action of the winds.
+The motive force does not easily accumulate in great quantity in the position required, since the surface of the earth secretes far more of the evaporation than its depths. 
+
+Wherever an earthquake of this kind does occur a quantity of stones comes to the surface of the earth (as when you throw up things in a winnowing fan), as we see from Sipylus and the Phlegraean plain and the district in Liguria, which were devastated by this kind of earthquake.
+
+Islands in the middle of the sea are less exposed to earthquakes than those near land.
+
+First, the volume of the sea cools the evaporations and overpowers them by its weight and so crushes them. Then, currents and not shocks are produced in the sea by the action of the winds.
 
 Again, it is so extensive that evaporations do not collect in it but issue from it, and these draw the evaporations from the earth after them. Islands near the continent really form part of it: the intervening sea is not enough to make any difference; but those in the open sea can only be shaken if the whole of the sea that surrounds them is shaken too.
 

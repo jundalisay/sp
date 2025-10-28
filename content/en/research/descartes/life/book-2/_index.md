@@ -6,5 +6,6 @@ date: 2025-08-14
 weight: 8
 description: ""
 c: "black"
+icon: Adrien Baillet
 ---
 

@@ -6,6 +6,7 @@ date: 2025-08-14
 weight: 4
 description: "Descartes left Frankfurt at the end of September 1619 after attending the coronation of the emperor"
 c: "black"
+icon: Adrien Baillet
 writer:
   name: Adrien Baillet
   url: https://en.wikipedia.org/wiki/Adrien_Baillet
