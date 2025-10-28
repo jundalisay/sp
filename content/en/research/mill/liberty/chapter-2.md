@@ -6,7 +6,7 @@ weight: 6
 contributors: ['John Stuart Mill']
 description: "Utility is the foundation of morality"
 icon: "John Stuart Mill"
-youtube: "UpwdTIAcLVY"
+# youtube: "UpwdTIAcLVY"
 ---
 
 
@@ -82,10 +82,16 @@ Why is it, then, that there is on the whole a preponderance among mankind of rat
 
 If there really is this preponderance—which there must be, unless human affairs are, and have always been, in an almost desperate state—it is owing to a quality of the human mind, the source of everything respectable in man either as an intellectual or as a moral being, namely, that his errors are corrigible. He is capable of rectifying his mistakes, by discussion and experience. Not by experience alone. 
 
-There must be discussion, to show how experience is to be interpreted. Wrong opinions and practices gradually yield to fact and argument= but facts and arguments, to produce any effect on the mind, must be brought before it. Very few facts are able to tell their own story, without comments to bring out their meaning. The whole strength and value, then, of human judgment, depending on the one property, that it can be set right when it is wrong, reliance can be placed on it only when the means of setting it right are kept constantly at hand. In the case of any person whose judgment is really deserving of confidence, how has it become so? Because he has kept his mind open to criticism of his opinions and conduct. 
+There must be discussion, to show how experience is to be interpreted. Wrong opinions and practices gradually yield to fact and argument= but facts and arguments, to produce any effect on the mind, must be brought before it. Very few facts are able to tell their own story, without comments to bring out their meaning. 
 
-Because it has been his practice to listen to all that could be said against him; to profit by as much of it as was just, and expound to himself, and upon occasion to others, the fallacy of what was fallacious. Because he has felt, that the only way in which a human being can make some approach to knowing the whole of a subject, is by hearing what can be said about it by persons of every variety of opinion, and studying all modes in which it can be looked at by every character of mind. No wise man ever acquired his wisdom in any mode but this; nor is it in the nature of human intellect to become wise in any other manner. 
+The whole strength and value, then, of human judgment, depending on the one property, that it can be set right when it is wrong, reliance can be placed on it only when the means of setting it right are kept constantly at hand. In the case of any person whose judgment is really deserving of confidence, how has it become so? Because he has kept his mind open to criticism of his opinions and conduct. 
 
-The steady habit of correcting and completing his own opinion by collating it[Pg 38] with those of others, so far from causing doubt and hesitation in carrying it into practice, is the only stable foundation for a just reliance on it= for, being cognisant of all that can, at least obviously, be said against him, and having taken up his position against all gainsayers—knowing that he has sought for objections and difficulties, instead of avoiding them, and has shut out no light which can be thrown upon the subject from any quarter—he has a right to think his judgment better than that of any person, or any multitude, who have not gone through a similar process.
+Because it has been his practice to listen to all that could be said against him; to profit by as much of it as was just, and expound to himself, and upon occasion to others, the fallacy of what was fallacious. 
+
+Because he has felt, that the only way in which a human being can make some approach to knowing the whole of a subject, is by hearing what can be said about it by persons of every variety of opinion, and studying all modes in which it can be looked at by every character of mind. No wise man ever acquired his wisdom in any mode but this; nor is it in the nature of human intellect to become wise in any other manner. 
+
+The steady habit of correcting and completing his own opinion by collating it[Pg 38] with those of others, so far from causing doubt and hesitation in carrying it into practice, is the only stable foundation for a just reliance on it.
+
+For, being cognisant of all that can, at least obviously, be said against him, and having taken up his position against all gainsayers—knowing that he has sought for objections and difficulties, instead of avoiding them, and has shut out no light which can be thrown upon the subject from any quarter—he has a right to think his judgment better than that of any person, or any multitude, who have not gone through a similar process.
 
 <!-- It is not too much to require that what --> The wisest of mankind , those who are best entitled to trust their own judgment, find necessary to warrant their relying on it, should be submitted to by that miscellaneous collection of a few wise and many foolish individuals, called the public. 

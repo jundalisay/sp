@@ -58,7 +58,7 @@ Let the rulers be subjected <!-- responsible --> to it, <!-- promptly --> remova
 
 This feeling was common among the last generation of European liberalism, in the Continental section* where it still predominates. 
 
-> *Superphysics Note= The French Revolution
+{{< n n="The French Revolution" >}}
 
 
 The Continental political thinkers had brilliant exceptions who thought that there should be limits to government. <!-- Those who admit any limit to what a government may do, except in the case of such governments as they think ought not to exist, stand out as  among . --> This feeling might have been prevalent in our Britain by now if it were encouraged unaltered. But <!-- , in political and philosophical theories, as well as in persons, --> the success of the French Revolution exposed its <!-- discloses --> own faults and infirmities which were hidden in from the theory.  <!-- failure might have concealed from observation. --> 
@@ -86,11 +86,12 @@ Protection against the tyranny of the magistrate is not enough. There should als
 - the prevailing opinion and feeling, and
 - the tendency of society to impose its own ideas and practices as rules of conduct on those who dissent 
 
-Such tyranny= 
+Such tyranny:
 - prevents the development of any individuality not in harmony with its ways*, and 
 - compels all characters to fashion themselves on the model of its own
 
-> *Superphysics Note= Liberalism is naturally adharmic or non-harmonious because it lets people to refuse to be in line with the harmony of society 
+{{< n n="Liberalism is naturally adharmic or non-harmonious because it lets people to refuse to be in line with the harmony of society " >}}
+
 
 
 <!-- There is a limit to the legitimate interference of collective opinion with individual independence
@@ -106,8 +107,7 @@ Some rules of conduct must be imposed by law*. For subjects not fit for the law,
 
 <!-- The rules which obtain among themselves appear to them self-evident and self-justifying. This all but universal illusion is one of the examples of the magical influence of custom, which is not only, as the proverb says, a second nature, but is continually mistaken for the first.  -->
 
-> *Superphysics Note= Without any foundation in Metaphysics, JS Mill's Liberalism ends up being a casuistic system similar to Islam, except that it goes in the opposite direction towards the ego instead of the Supreme.  
-
+{{< n n="Without any foundation in Metaphysics, JS Mill's Liberalism ends up being a casuistic system similar to Islam, except that it goes in the opposite direction towards the ego instead of the Supreme." >}}
 
 
 These rules are the effect of custom. <!-- , in preventing any misgiving respecting the rules of conduct which mankind impose on one another, is all the more complete because the subject is one on which it is not generally considered necessary that reasons should be given, either by one person to others, or by each to himself.  --> People are accustomed to believe, and have been encouraged to believe by <!--  by some who aspire to the character of --> philosophers, that their feelings, on subjects of this nature, are better than reasons<!-- , and render reasons unnecessary -->. 

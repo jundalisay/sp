@@ -10,39 +10,55 @@ c: "firebrick"
 
 
 
-It has been stated before that the concepts of natural science can sometimes be sharply defined
-with regard to their connections. This possibility was realized for the first time in Newton's
-Principia and it is just for that reason that Newton's work has exerted its enormous influence on
-the whole development of natural science in the following centuries. Newton begins his Principia
-with a group of definitions and axioms which are interconnected in such a way that they form
-what one may call a `closed system.' Each concept can be represented by a mathematical
-symbol, and the connections between the different concepts are then represented by
-mathematical equations expressed by means of the symbols. The mathematical image of the
-system ensures that contradictions cannot occur in the system. In this way the possible motions
-of bodies under the influence of the acting forces are represented by the possible solutions of the
-equations. The system of definitions and axioms which can be written in a set of mathematical
+The concepts of natural science can sometimes be sharply defined through their connections. 
+
+This possibility was realized for the first time in Newton's Principia.*
+
+{{< n n="Wrong. Descartes was the first to exposed the natural laws that affected all" >}}
+
+This is why Newton's work has exerted its enormous influence on the development of natural science. 
+
+Newton begins his Principia with interconnected definitions and axioms that they form a `closed system.'
+
+{{< n n="Descartes also did this through his Elements model that affected physics, astrophysics, and biophysics." >}}
+
+Each concept can be represented by a mathematical symbol. 
+
+The connections between the different concepts are then represented by mathematical equations expressed through symbols. 
+
+The mathematical image of the system ensures that contradictions cannot occur in the system. 
+ 
+In this way, the possible motions of bodies under the influence of the acting forces are represented by the possible solutions of the equations. 
+
+The system of definitions and axioms which can be written in a set of mathematical
 equations is considered as describing an eternal structure of nature, depending neither on a 
 particular space nor on particular time.
+
 The connection between the different concepts in the system is so close that one could
 generally not change any one of the concepts without destroying the whole system.
-For this reason Newton's system was for a long time considered as final and the task set
-before the scientists of the following period seemed simply to be an expansion of Newton's
-mechanics into wider fields of experience. Actually physics did develop along these lines for about
-two centuries.
-From the theory of the motion of mass points one could go over
-54
-to the mechanics of solid bodies, to rotatory motions, and one could treat the continuous
-motions of a fluid or the vibrating motions of an elastic body. All these parts of mechanics or
+
+This is why Newton's system was for a long time considered as final.
+
+Scientists simply expanded Newton's mechanics into wider fields of experience. 
+
+
+From the theory of the motion of mass points, one could go over to the mechanics of solid bodies, to rotatory motions, and one could treat the continuous motions of a fluid or the vibrating motions of an elastic body. 
+
+All these parts of mechanics or
 dynamics were gradually developed in close connection with the evolution of mathematics,
 especially of the differential calculus, and the results were checked by experiments. Acoustics and
-hydrodynamics became a part of mechanics. Another science, in which the application of
-Newton'
-s mechanics was obvious, was astronomy. The improvements of the mathematical
+hydrodynamics became a part of mechanics. 
+
+Another science, in which the application of Newton's mechanics was obvious, was astronomy. 
+
+The improvements of the mathematical
 methods gradually led to more and more accurate determinations of the motions of the planets
 and of their mutual interactions. When the phenomena of electricity and magnetism were
 discovered, the electric or magnetic forces were compared to the gravitational forces and their
 actions upon the motion of the bodies could again be studied along the lines of Newtonian
-mechanics. Finally, in the nineteenth century, even the theory of heat could be reduced to
+mechanics. 
+
+Finally, in the nineteenth century, even the theory of heat could be reduced to
 mechanics by the assumption that heat really consists of a complicated statistical motion of the
 smallest parts of matter. By combining the concepts of the mathematical theory of probability
 with the concepts of Newtonian mechanics Clausius, Gibbs and Boltzmann were able to show that

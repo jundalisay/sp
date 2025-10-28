@@ -49,3 +49,9 @@ I deny the existence of gravity inside any body. Gravity is a quality that depen
 
 {{< i s="/graphics/physics/relationality.jpg" a="Relationality" >}}
 
+
+## The Air Layer Causes Forces and Wear and Tear
+
+The job of Space particles is to separate identities. This makes them cause the weathering and the wear and tear of physical things, including mountains, cars, electronics, and human bodies. 
+
+For example, friction is from the space particles giving movement to 2 objects that grind away at each other.
