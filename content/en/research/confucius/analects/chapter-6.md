@@ -67,7 +67,8 @@ When Tsz-hwa went on that journey to Ts'i, he had well-fed steeds yoked to his c
 When Yuen-Sz became prefect under Confucius, he gave him 900 measures of grain. But the prefect declined to accept them*.
 
 
-> *At this time Confucius was Criminal Judge in his native State of Lu. Yuen Sz had been a disciple. The commentators add that this was the officer's proper salary, and that he did wrong to refuse it.
+{{< f f="At this time Confucius was Criminal Judge in his native State of Lu. Yuen Sz had been a disciple. The commentators add that this was the officer's proper salary, and that he did wrong to refuse it." >}}
+
 
 
 {{< l a="Confucius" >}}
@@ -97,7 +98,6 @@ The head of the Ki family sent for Min-Tsz-Kien to make him governor of the town
 Politely decline for me. If the offer is renewed, then I shall go and live on the further bank of the Wan.
 {{< /r >}}
 
-#
 
 Peh-niu had fallen ill, and Confucous was asking about him. He held his hand from the window. 
 
@@ -210,7 +210,7 @@ He may be misled, but not befooled.
 The superior man with his wide study of books, and hedging himself round by the Rules of Propriety, is not surely, after all that, capable of overstepping his bounds.
 {{< /l >}}
 
-# 
+ 
 
 Nan-tsz had scandalized his disciple Tsz-Lu. Confucius uttered the solemn adjuration:
 
@@ -222,7 +222,9 @@ How far-reaching is the moral excellence that flows from the Constant Mean!*
 It has for a long time been rare among the people.
 {{< /l >}}
 
-> *The doctrine afterwards known by that name, and which gave its title to a Confucian treatise.
+
+{{< f f="The doctrine afterwards known by that name, and which gave its title to a Confucian treatise." >}}
+
 
 
 {{< r a="Tsz-Kung" >}}

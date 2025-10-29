@@ -135,6 +135,9 @@ Let one but make a movement in his face, And the bird will rise and seek some sa
 
 After Tsz-Lu had got it prepared, he smelt it thrice, and then rose up from his seat. 
 
+
+## Footnotes
+
 Footnote 22=  Because, it is said, such colors were adopted in fasting and mourning.] [Footnote 23=  Because they did not belong to the five correct colors (viz. green, yellow, carnation, white, and black), and were affected more by females.] 
 
 Footnote 24=  Since white was, as it is still, the mourning color.] [Footnote 25=  The act of "grace," before eating.] 

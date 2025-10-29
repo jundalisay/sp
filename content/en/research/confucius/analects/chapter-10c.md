@@ -115,4 +115,4 @@ What are ancestral temples and Grand Receptions, but for the feudal lords to tak
 {{< /l >}}
 
 
-[Footnote 26=  The men of virtuous life were Yen Yuen (Hw�i), Min Tsz-k'ien, Yen Pihniu, and Chung-kung (Yen Yung); the speakers and debaters were Tsai Wo and Tsz-Kung; the (capable) government servants were Yen Yu and Tsz-Lu; the literary students, Tsz-yu and Tsz-hi�.] 
+[Footnote 26=The men of virtuous life were Yen Yuen (Hwi), Min Tsz-k'ien, Yen Pihniu, and Chung-kung (Yen Yung); the speakers and debaters were Tsai Wo and Tsz-Kung; the (capable) government servants were Yen Yu and Tsz-Lu; the literary students, Tsz-yu and Tsz-hi.] 

@@ -136,13 +136,28 @@ The man of mere reputation, on the other hand, who speciously affects philanthro
 {{< /l >}}
 
 
-Fan Ch'i, strolling with him over the ground below the place of the rain-dance, said to him, "I venture to ask how to raise the standard of virtue, how to reform dissolute habits, and how to discern what is illusory?" 
+Fan Ch'i was strolling with him over the ground below the place of the rain-dance
 
-"Ah! a good question indeed!" he exclaimed. 
 
-"Well, is not putting duty first, and success second, a way of raising the standard of virtue? And is not attacking the evil in one's self, and not the evil which is in others, a way of reforming dissolute habits? 
+{{< r a="Fan Chi" >}}
+How can we:
+- raise the standard of virtue
+- reform dissolute habits
+- discern what is illusory?
+{{< /r >}}
 
-And as to illusions, is not one morning's fit of anger, causing a man to forget himself, and even involving in the consequences those who are near and dear to him�is not that an illusion?" The same disciple asked him what was meant by "a right regard for one's fellow-creatures." 
+{{< l a="Confucius" >}}
+Ah! Good question! Putting duty first and success second is a way of raising the standard of virtue.
+
+Attacking the evil in one's self, and not the evil which is in others, is a way of reforming dissolute habits.
+
+And as to illusions, is not one morning's fit of anger, causing a man to forget himself, and even involving in the consequences those who are near and dear to him�is not that an illusion?
+{{< /l >}}
+
+
+{{< r a="Fan Chi" >}}
+What s meant by "a right regard for one's fellow-creatures" 
+{{< /r >}}
 
 
 {{< l a="Confucius" >}}
@@ -161,7 +176,13 @@ It is knowledge of man.
 Lift up the straight, set aside the crooked, so can you make the crooked straight.
 {{< /l >}}
 
-Fan Ch'i left him, and meeting with Tsz-hi� he said, "I had an interview just now with the Master, and I asked him what wisdom was. 
+Fan Ch'i left him, and met with Tsz-hi
+
+
+{{< r a="Fan Chi" >}}
+I had an interview just now with the Master, and I asked him what wisdom was.
+{{< /r >}}
+
 
 In his answer he said, 'Lift up the straight, set aside the crooked, and so can you make the crooked straight.' What was his meaning?" "Ah! words rich in meaning, those," said the other. "When Shun was emperor, and was selecting his men from among the multitude, he 'lifted up' K�u-y�u; and men devoid of right feelings towards their kind went far away. And when T'ang was emperor, and chose out his men from the crowd, he 'lifted up' I-yin�with the same result." 
 

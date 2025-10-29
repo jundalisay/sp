@@ -24,6 +24,7 @@ Without the Proprieties, we have these results:
 
 {{< l a="Confucius" >}}
 When men of rank show genuine care for those nearest to them in blood, the people rise to the duty of neighborliness and sociability.
+
 When old friendships among them are not allowed to fall off, there will be a cessation of underhand practices among the people.
 {{< /l >}}
 

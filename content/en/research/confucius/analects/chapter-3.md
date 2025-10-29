@@ -37,7 +37,7 @@ In such a case, what shall we say of his sense of harmony*?
 {{< /l >}}
 
 
-> *Three great families related to each other, in whose hands the government of the State of Lu then was, and of which the Ki was the chief
+{{< f f="*Three great families related to each other, in whose hands the government of the State of Lu then was, and of which the Ki was the chief" >}}
 
 
 
@@ -56,14 +56,12 @@ In areas that relate to mourning, and those which are easily satisfied, it wants
 During the disorderly times, the North and East barbarians had Chieftains when we in this great country had none. We had lost these distinctions!
 {{< /l >}}
 
-#
 
 Confucius alluded to the Chief of the Ki family worshipping on Tai-shan which is one of the five sacred mountains, worshipped on only by the sovereign.
 
-Confucius to Yen Yu:
 
 {{< l a="Confucius" >}}
-Cannot you save him from this?
+[to Yen Yu] Cannot you save him from this?
 {{< /l >}}
 
 {{< r a="Yen-Yu" >}}

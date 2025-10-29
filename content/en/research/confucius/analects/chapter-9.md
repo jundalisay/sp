@@ -172,6 +172,7 @@ Ah! it was Hwi, was it not? who, when I had given him his lesson, was the unflag
 I saw him ever making progress. I never saw him stopping short. "Blade, but no bloom�or else bloom, but no produce; aye, that is the way with some! 
 {{< /l >}}
 
+
 {{< l a="Confucius" >}}
 Reverent regard is due to youth. How know we what difference there may be in them in the future from what they are now? Yet when they have reached the age of forty or fifty, and are still unknown in the world, then indeed they are no more worthy of such regard. "Can any do otherwise than assent to words said to them by way of correction? Only let them reform by such advice, and it will then be reckoned valuable. 
 
@@ -181,12 +182,35 @@ Can any be other than pleased with words of gentle suasion? Only let them comply
 {{< /l >}}
 
 
-"One who stands clad in hempen robe, the worse for wear�among others clad in furs of fox and badger, and yet unabashed�'tis Tsz-Lu, that, is it not?" 
+{{< l a="Confucius" >}}
+One who stands clad in hempen robe, the worse for wear�among others clad in furs of fox and badger, and yet unabashed 'tis Tsz-Lu, that, is it not?
+{{< /l >}}
 
-Tsz-Lu used always to be humming over the lines: "From envy and enmity free, What deed doth he other than good?" 
 
-"How should such a rule of life," asked the Master, "be sufficient to make any one good?" "When the year grows chilly, we know the pine and cypress are the last to fade. 
+Tsz-Lu used always to be humming over the lines: 
 
-"The wise escape doubt; the good-hearted, trouble; the bold, apprehension. "Some may study side by side, and yet be asunder when they come to the logic of things. Some may go on together in this latter course, but be wide apart in the standards they reach in it. Some, again, may together reach the same standard, and yet be diverse in weight of character." "The blossom is out on the cherry tree, With a flutter on every spray. 
+{{< r a="Tsz-Lu" >}}
+From envy and enmity free, What deed doth he other than good? 
+{{< /r >}}
 
-Dost think that my thoughts go not out to thee? Ah, why art thou far away!" Commenting on these lines the Master said, "There can hardly have been much 'thought going out,' What does distance signify?" 
+
+{{< l a="Confucius" >}}
+How should such a rule of life be sufficient to make any one good?
+
+When the year grows chilly, we know the pine and cypress are the last to fade. 
+
+The wise escape doubt; the good-hearted, trouble; the bold, apprehension. 
+
+Some may study side by side, and yet be asunder when they come to the logic of things. Some may go on together in this latter course, but be wide apart in the standards they reach in it. Some, again, may together reach the same standard, and yet be diverse in weight of character.
+
+The blossom is out on the cherry tree, With a flutter on every spray. 
+
+Dost think that my thoughts go not out to thee? Ah, why art thou far away!
+{{< /l >}}
+
+
+Commenting on these lines the Master said:
+
+{{< l a="Confucius" >}}
+There can hardly have been much 'thought going out,' What does distance signify?
+{{< /l >}}
