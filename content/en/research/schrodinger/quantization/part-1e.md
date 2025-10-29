@@ -8,9 +8,12 @@ draft: true
 
 
 § 2. Condition (15) gives 
-(19) −El = me4
-2K2l2 .
 
+... (19) 
+
+<!-- −El = me4
+2K2l2 .
+ -->
 Therefore, the well-known Bohr energy levels, which correspond to the Balmer
 terms, arise when one assign to the constant K, which we had to introduce in (2)
 for dimensional reasons, the value

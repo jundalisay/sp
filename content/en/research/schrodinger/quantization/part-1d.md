@@ -3,11 +3,12 @@ title: "Quantization as an eigenvalue problem"
 description: ""
 # image: "/covers/sciences.png" 
 color: "black"
-draft: true
 ---
 
 
-2. E < 0. In this case the condition (15) is not eo ipso excluded, but for the
+2. E < 0. 
+
+In this case the condition (15) is not eo ipso excluded, but for the
 moment we hold onto its exclusion, as arranged. Then, according to (14′′) and
 (17), U1 grows unlimited for r = ∞, whereas U2 vanishes exponentially. Our entire
 transcendent U (and the same holds true for χ) will then remain finite if and only
@@ -70,12 +71,14 @@ first order of the integrand. Two independent integrals are then delivered: one 
 the path that from z = −∞ leads to the zero, taking care of avoiding the pole;
 the other by the residual of the pole. The latter is the entire transcendent. We
 want to give its calculated value, but at once multiplied by rn, so that we obtain,
+
 17Translator’s note: in German, w.z.b.w.: Was zu beweisen war, i.e. “which was to demon-
 strate”.
-7
+
 according to (9) and (10) the solution of the originally presented equation (7).
 (The irrelevant multiplicative constant is arbitrarily adjusted.) One finds:
-(18) χ = f
+
+<!-- (18) χ = f
 (
 r
 √−2mE
@@ -88,8 +91,8 @@ k=0
 k!
 ( l + n
 l − n − 1 − k
-)
-.
+) -->
+
 One recognises that this is really a usable solution, since it remains finite for all
 real, non-negative r. Furthermore, the surface condition (6) is guaranteed by its
 exponential vanishing. We summarise the results for negative E:
