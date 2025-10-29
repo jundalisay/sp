@@ -3,6 +3,10 @@ title: "Udakarahaka Suttas: A Pool of Water"
 weight: 6
 description: "The Appativana Sutta is about relentless effort and unshakeable determination"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

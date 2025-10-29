@@ -4,6 +4,10 @@ title: "The Questions"
 weight: 4
 description: "Buddha was in the Karaṇḍa Bamboo Garden of the city of Rājagṛha, together with many great Bodhisattvas, bhikṣus, bhikṣuṇīs, upāsakas, and upāsikās"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 <!-- Pratyutpanna Buddha Sammukhāvasthita Samādhi -->

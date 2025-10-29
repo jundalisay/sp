@@ -4,6 +4,10 @@ title: "The Analogies"
 weight: 10
 description: "Bodhisattvas who have attained this samādhi but do not progress energetically are like those who are shipwrecked midway"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

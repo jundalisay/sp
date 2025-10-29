@@ -4,6 +4,10 @@ title: "Support and Protection"
 weight: 14
 description: "The 8 Bodhisattvas—Bhadrapāla, Ralinnāga, Gaujata, Naradatta, Suṣama, Mahāsusaha, Indrada, and Harandha—having heard the Buddha’s words, greatly rejoiced"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

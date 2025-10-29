@@ -4,6 +4,10 @@ title: "The Ending of Mental Fermentations"
 weight: 90
 description: "The monk directs and inclines his mind to the knowledge of the ending of the mental fermentations"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

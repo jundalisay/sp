@@ -4,6 +4,10 @@ title: "The Four Jhanas"
 weight: 20
 description: "Quite withdrawn from sensuality, withdrawn from unskillful mental qualities, he enters and remains in the first jhana"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

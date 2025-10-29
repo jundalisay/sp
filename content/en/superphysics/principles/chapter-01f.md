@@ -9,7 +9,9 @@ description: "Reality has 3 Operational Divisions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
+aliases:
+  /superphysics/principles/mind
 ---
 
 

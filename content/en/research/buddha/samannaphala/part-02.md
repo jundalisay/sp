@@ -4,6 +4,10 @@ title: "The Benefit of Spirital Life as Non-action, Purification, and Anmihilati
 weight: 8
 description: "The King asks the Buddha, What are the Visible Bemefits of Spiritual Life?"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

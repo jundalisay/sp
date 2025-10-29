@@ -3,6 +3,10 @@ title: "Brahmajāla Sutta"
 weight: 900
 description: "This is from the Adanta Sutras: Untamed"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 # author: Juan (simplified version)
 ---
 

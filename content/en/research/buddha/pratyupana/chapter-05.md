@@ -4,6 +4,10 @@ title: "The Four Groups of Disciples"
 weight: 12
 description: "If there are those who, after abandoning loves and desires to become bhikṣus, have heard of this samādhi, how should they learn, uphold, and practice it?"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

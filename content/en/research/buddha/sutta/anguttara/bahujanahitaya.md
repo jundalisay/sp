@@ -3,6 +3,10 @@ title: "Bahujanahitāya Sutta: For the Benefit of Many People"
 weight: 6
 description: "Bahujanahitāya Sutta: For the Benefit of Many People"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

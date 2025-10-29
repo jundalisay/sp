@@ -4,6 +4,10 @@ title: "Four Things to Do"
 weight: 8
 description: "“There are four things through which Bodhisattvas can quickly attain this samādhi"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

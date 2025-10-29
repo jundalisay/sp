@@ -4,6 +4,10 @@ title: "Samannaphala Sutta 2"
 weight: 902
 description: "Partial Eternalism"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 # author: Juan (simplified version)
 ---
 

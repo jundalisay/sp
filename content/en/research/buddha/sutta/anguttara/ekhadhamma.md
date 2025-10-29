@@ -3,6 +3,10 @@ title: "Ekadhamma Suttas — A Single Thing"
 weight: 6
 description: "The Appativana Sutta is about relentless effort and unshakeable determination"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 I don't envision a single thing that:

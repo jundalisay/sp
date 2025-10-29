@@ -4,6 +4,10 @@ title: "VANNUPATHA-JĀTAKA"
 weight: 100
 description: "Once upon a time when Brahmadatta was reigning in Benares, it was as his queen's child that the Bodhisatva came to life once more"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

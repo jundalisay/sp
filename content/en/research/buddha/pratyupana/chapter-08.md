@@ -4,6 +4,10 @@ title: "Utmost Sincerity"
 weight: 20
 description: "In the distant past, there was a Buddha called Sacanama, the Samyak-Saṁbuddha, Unsurpassed One, Teacher to Gods and Men"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

@@ -4,6 +4,10 @@ title: "The Benefit of Spirital Life as Non-relatedness, Restraint, and Evasion"
 weight: 10
 description: "Abhidhamma Pitaka reorganizes the Sutta Pitaka into a systematic framework."
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

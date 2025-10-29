@@ -4,6 +4,10 @@ title: "The Training"
 weight: 6
 description: "If Bodhisattvas aspire to attain this samādhi quickly, they should stand in great faith"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 The Buddha told Bhadrapāla, 

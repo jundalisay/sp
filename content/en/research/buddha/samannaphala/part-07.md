@@ -4,6 +4,10 @@ title: "Sense Restraint"
 weight: 18
 description: "How does a monk guard the doors of his senses?"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

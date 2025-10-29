@@ -3,6 +3,10 @@ title: "Heart Sutra: Prajñāpāramitā-Hṛdayam"
 weight: 3
 description: "gate, gate, pāragate, pārasaṁgate, Bodhi, svāhā!"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

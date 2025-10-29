@@ -4,6 +4,10 @@ title: "Brahmajāla Sutta 1b"
 weight: 900
 description: "View Standpoints and Eternalism"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 # author: Juan (simplified version)
 ---
 

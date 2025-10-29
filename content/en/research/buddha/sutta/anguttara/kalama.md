@@ -3,6 +3,10 @@ title: "Kalama Sutra"
 weight: 16
 description: "The Instruction to the Kalamas"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 

@@ -4,6 +4,10 @@ title: "Sympathetic Joy"
 weight: 16
 description: "Bodhisattvas can think four thoughts to kindle their sympathetic joy in order to attain this samādhi"
 c: "indigo"
+icon: Buddha
+writer:
+  name: Buddha
+  url: https://en.wikipedia.org/wiki/The_Buddha
 ---
 
 
