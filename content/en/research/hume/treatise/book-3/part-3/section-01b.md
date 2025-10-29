@@ -76,60 +76,80 @@ A true philosopher will never require any other principle to account for the str
 
 Many of the natural virtues have this tendency to the good of society.
 
-        Meekness, beneficence, charity, generosity, clemency, moderation, equity are the greatest among the moral qualities.
-        These are commonly denominated as social virtues, to mark their tendency to the good of society.
+Meekness, beneficence, charity, generosity, clemency, moderation, equity are the greatest among the moral qualities.
+- These are commonly denominated as social virtues, to mark their tendency to the good of society.
 
-    Some philosophers have represented all moral distinctions as the effect of artifice and education when skillful politicians tried to:
-        restrain men's turbulent passions, and
-        make them operate to the public good, through the notions of honour and shame.
-    However, this system is inconsistent with experience.
+Some philosophers have represented all moral distinctions as the effect of artifice and education when skillful politicians tried to:
+- restrain men's turbulent passions, and
+- make them operate to the public good, through the notions of honour and shame.
 
+However, this system is inconsistent with experience.
 
-        There are other virtues and vices besides those which have this tendency to the public advantage and loss.
-        Had men no natural sentiment of approbation and blame, it could never be excited by politicians.
-            The words 'laudable' and 'praise-worthy', 'blamable' and 'odious' would just be as intelligible, as if those words were perfectly unknown to us.
+There are other virtues and vices besides those which have this tendency to the public advantage and loss.
+
+Had men no natural sentiment of approbation and blame, it could never be excited by politicians.
+
+The words 'laudable' and 'praise-worthy', 'blamable' and 'odious' would just be as intelligible, as if those words were perfectly unknown to us.
 
 This system is erroneous.
 
 But it may teach us:
-            that moral distinctions arise from the tendency of qualities and characters to the interests of society, and
-            that our concern for that interest makes us approve or disapprove of them.
-    We only have such extensive concern for society through sympathy.
-        Consequently, sympathy takes us so far out of ourselves, as to give us the same pleasure or uneasiness in the characters of others, as if they had a tendency to our own advantage or loss.
+- that moral distinctions arise from the tendency of qualities and characters to the interests of society, and
+- that our concern for that interest makes us approve or disapprove of them.
 
-    The only difference between the natural virtues and justice is that the good resulting from virtue:
-        arises from every single act, and
-        is the object of some natural passion.
-    Whereas a single act of justice may often be contrary to the public good.
-    Only the concurrence of mankind is advantageous in a general scheme or system of action.
-    When I relieve persons in distress, my natural humanity is my motive.
-        I have promoted the happiness of my fellow humans as far as my aid extends.
+We only have such extensive concern for society through sympathy.
+
+Consequently, sympathy takes us so far out of ourselves, as to give us the same pleasure or uneasiness in the characters of others, as if they had a tendency to our own advantage or loss.
+
+The only difference between the natural virtues and justice is that the good resulting from virtue:
+- arises from every single act, and
+- is the object of some natural passion.
+
+Whereas a single act of justice may often be contrary to the public good.
+
+Only the concurrence of mankind is advantageous in a general scheme or system of action.
+
+When I relieve persons in distress, my natural humanity is my motive.
+
+I have promoted the happiness of my fellow humans as far as my aid extends.
 
 But if we examine the questions in any justice tribunal, humanity often decides contrary to the laws of justice.
-        Judges take from a poor man to give to a rich.
-        They bestow on the dissolute the labour of the industrious.
-        They put into the hands of the vicious, the means of harming themselves and others.
+
+Judges take from a poor man to give to a rich.
+
+They bestow on the dissolute the labour of the industrious.
+
+They put into the hands of the vicious, the means of harming themselves and others.
 
 However, the whole scheme of law and justice is advantageous to society.
-        Men established law and justice by their voluntary conventions, with a view to this advantage.
+
+Men established law and justice by their voluntary conventions, with a view to this advantage.
 
 After it is established by these conventions, it is naturally attended with a strong sentiment of morals.
-        These moral sentiments proceed only from our sympathy with the interests of society.
-        We do not need any other explanation of that esteem attending the natural virtues which have a tendency to the public good.
-    There are several circumstances which render this hypothesis more probable with regard to the natural, than the artificial virtues.
+
+These moral sentiments proceed only from our sympathy with the interests of society.
+
+We do not need any other explanation of that esteem attending the natural virtues which have a tendency to the public good.
+
+There are several circumstances which render this hypothesis more probable with regard to the natural, than the artificial virtues.
 
 The imagination is more affected by what is particular, than by what is general.
-        The sentiments are always moved with difficulty if their objects are loose and undetermined.
+
+The sentiments are always moved with difficulty if their objects are loose and undetermined.
 
 The whole system of justice is beneficial to society.
-        But the particular acts of justice are not beneficial.
-        We are concerned for the benefit the whole society receives from justice, but not for what a single person receives.
+ 
+But the particular acts of justice are not beneficial.
+ 
+We are concerned for the benefit the whole society receives from justice, but not for what a single person receives.
 
 On the contrary, every particular act of generosity is beneficial to the person who deserves it.
-        Therefore, we naturally think that tendencies of generosity will affect our sentiments and command our approbation more than tendencies of justice.
+ 
+Therefore, we naturally think that tendencies of generosity will affect our sentiments and command our approbation more than tendencies of justice.
 
 The approbation of justice arises from the tendencies to justice.
-        Thus, we can better ascribe the approbation of generosity to the tendencies to generosity.
+
+Thus, we can better ascribe the approbation of generosity to the tendencies to generosity.
 
 If one cause can be discovered for many similar effects, we should extend that cause to all those effects, especially if they have peculiar circumstances which facilitate the operation of that cause.
 

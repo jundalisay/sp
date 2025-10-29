@@ -2,7 +2,7 @@
 title: "Leedskalnin, Edward"
 # heading: Dogmatic
 description: 
-# a: "Leibniz"
+a: "Leedskalnin"
 c: "darkgoldenrod"
-weight: 2
+weight: 121
 ---

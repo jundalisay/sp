@@ -5,5 +5,5 @@ description: "Spinoza was a philosopher who wrote about God as a pantheist subst
 a: "Spinoza"
 c: "Indigo"
 # date: 2022-04-15
-weight: 198
+weight: 870
 ---

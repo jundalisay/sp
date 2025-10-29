@@ -50,8 +50,10 @@ Our idea is here precisely in that medium needed to make it operate on us by com
 
 It would have a contrary effect and operate on us by sympathy:
 - if it were accompanied with belief, and
-            if the person appeared to have the same merit which he assumed.
-        That principle's influence would then be superior to that of comparison, contrary to what happens when the person's merit seems below his pretensions.
+- if the person appeared to have the same merit which he assumed.
+
+That principle's influence would then be superior to that of comparison, contrary to what happens when the person's merit seems below his pretensions.
+
 
 ## Pride is an over-weaning conceit of ourselves.
 
@@ -93,23 +95,27 @@ This:
 - gives us a confidence and assurance in all our projects and enterprises.
 
 A person's ability is useless if he:
-        does not know it, and
-        cannot form designs suitable to it.
+- does not know it, and
+- cannot form designs suitable to it.
 
 We always need to know our own force.
-        If we were to make a mistake in this, it would be more advantageous to overrate our merit, than to put it below its just standard.
+
+If we were to make a mistake in this, it would be more advantageous to overrate our merit, than to put it below its just standard.
 
 
 Fortune commonly favours the bold and enterprising.
-        Nothing inspires us with more boldness, than a good opinion of ourselves.
+
+Nothing inspires us with more boldness, than a good opinion of ourselves.
 
 This kind of pride or self-applause is sometimes disagreeable to others.
-        But it is always agreeable to ourselves, just as modesty often produces uneasiness in the modest person, though it gives pleasure to everyone who observes it.
+
+But it is always agreeable to ourselves, just as modesty often produces uneasiness in the modest person, though it gives pleasure to everyone who observes it.
 
 Our own sensations determine:
 - the vice and virtue of any quality, and
 - those sensations it may excite in others.
 
 Thus, self-satisfaction and vanity are allowable and requisite in a character.
-        However, good-breeding and decency require that we avoid all signs and expressions which directly show vanity.
+
+However, good-breeding and decency require that we avoid all signs and expressions which directly show vanity.
 

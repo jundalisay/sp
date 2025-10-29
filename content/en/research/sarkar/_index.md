@@ -2,7 +2,7 @@
 title: "Sarkar, PR"
 heading: "Enlightened"
 description: "PR Sarkar was an Indian Philosopher"
-weight: 190
+weight: 750
 c: "indigo"
 a: "PR Sarkar"
 # date: 2020-10-31

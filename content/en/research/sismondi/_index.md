@@ -5,6 +5,6 @@ description: "Sismondi was a socialist economist who treated Economics as benefi
 a: "Sismondi"
 c: "seagreen"
 # date: 2022-04-25
-weight: 195
+weight: 840
 ---
 

@@ -18,8 +18,8 @@ Different goods provide us with:
 - the internal satisfaction of our minds,        
   - We are perfectly secure in the enjoyment of this.
 - the external advantages of our body, and
-    This may be ravished from us by others.
-    But they can get no advantage in doing so.
+  - This may be ravished from us by others.
+  - But they can get no advantage in doing so.
 - the enjoyment of those possessions acquired by our industry and good fortune.
     These are exposed to the violence of others.
     These may be transferred without suffering any loss or alteration.
@@ -40,30 +40,38 @@ The idea of justice can never:
 Justice would never have been dreamed of among savage men.
 
 Because the notion of injury or injustice implies an immorality committed against another person.
+
 Every immorality is derived from some defect or unsoundness of the passions.
+
 This defect must be judged of from the ordinary course of nature in the mind's constitution.
+
 It will be easy to know whether we are guilty of any immorality with regard to others by considering the natural and usual force of those affections.
 
 
 In the original frame of our mind, our strongest attention is confined to ourselves.
-        Our next attention is extended to our relations and acquaintances.
-        Only the weakest reaches to strangers and indifferent persons.
+    
+Our next attention is extended to our relations and acquaintances.
+
+Only the weakest reaches to strangers and indifferent persons.
 
 This partiality and unequal affection must have an influence on our:
-        conduct in society, and
-        ideas of vice and virtue.
+- conduct in society, and
+- ideas of vice and virtue.
         
 This makes us regard any remarkable transgression of such partiality as immoral.
-    We may observe this when we blame a person who:
-        centers all his affections in his family, or
-        is so regardless of them to give the preference to a stranger.
+
+We may observe this when we blame a person who:
+- centers all his affections in his family, or
+- is so regardless of them to give the preference to a stranger.
+
 Our natural uncultivated ideas of morality, instead of providing a remedy for the partiality of our affections, rather:
-    conform themselves to that partiality, and
-    give it an additional force and influence.
+- conform themselves to that partiality, and
+- give it an additional force and influence.
 
 
 The remedy, then, is not derived from nature, but from artifice.
-        Nature provides a remedy in the judgment and understanding, for what is irregular and incommodious in the affections.
+
+Nature provides a remedy in the judgment and understanding, for what is irregular and incommodious in the affections.
 
 Early education makes men sensible of society's infinite advantages.
 
@@ -71,7 +79,7 @@ Men observe that the principal disturbance in society arises from:
 - external goods, and
 - the looseness of external goods and their easy transition from one person to another.
 
-    They seek a remedy by putting these goods on the same footing with the fixed and constant advantages of the mind and body.
+They seek a remedy by putting these goods on the same footing with the fixed and constant advantages of the mind and body.
 
 
 This can only be done by a convention entered into by all the members of the society to:
@@ -130,4 +138,3 @@ In a like manner:
 - gold and silver:
   - become the common measures of exchange, and
   - are esteemed sufficient payment for something 100 times their value.
-

@@ -114,3 +114,4 @@ This combination of science and metaphysics will be opposed by materialists and 
 {{< q a="Blavatsky" >}}
 A minority strive to enlarge the domain of Physical Science by trespassing on the forbidden grounds of Metaphysics, so distasteful to some Materialists.
 {{< /q >}}
+

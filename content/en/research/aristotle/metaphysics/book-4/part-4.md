@@ -1,8 +1,7 @@
 ---
 heading: "Part 4 of Book 4"
-title: "To Be or Not to Be"
+title: "Sticking to Defintions"
 weight: 6
-
 c: "indigo"
 description: "Some philosophers assert that it is possible for the same thing to be and not to be"
 writer:
@@ -12,68 +11,87 @@ icon: "Aristotle"
 ---
 
 
-Some philosophers assert that it is possible for the same thing to be and not to be. 
+
+Some philosophers assert that it is possible for the same thing to exist and not to exist. 
 
 Writers on nature use this language.
 
-But it is impossible for anything to be and not to be at the same time. <!-- , and by this means have shown that this is the most indisputable of all principles. --> The uneducated even demand that this be demonstrated. <!--  , but this they do through want of education, for not to know of what things one should demand demonstration, and of what one should not, argues want of education. --> 
+But it is impossible for anything to exist and not to exist at the same time. 
 
-It is impossible for everything to be demonstrated as this would lead to an <!--   that there should be demonstration of absolutely  (there would be an --> infinite regression that would end up with no demonstration. 
+<!-- , and by this means have shown that this is the most indisputable of all principles. --> 
 
-<!-- ; but if there are things of which one should not demand demonstration, these persons could not say what principle they maintain to be more self-evident than the present one. -->
+The uneducated even demand that this be demonstrated. 
 
-<!-- We can demonstrate negatively even that this view is impossible, if our opponent will only say something. If he says nothing, it is absurd to seek to give an account of our views to one who cannot give an account of anything, in so far as he cannot do so. 
+This is because the uneducated do not to know which things one should seek proof and which things one should not
+- It would be impossible for everything to be proven.
 
-For such a man, as such, is from the start no better than a vegetable. Now negative demonstration I distinguish from demonstration proper, because in a demonstration one might be thought to be begging the question, but if another person is responsible for the assumption we shall have negative proof, not demonstration.  -->
+But it is possible to prove by refutation that it is impossible to prove everything, as long as the disputer says something. 
+- But if he says nothing, then it is ridiculous discuss with someone who says nothing just like talking to a plant.
 
-The starting-point for all such arguments is not the demand that our opponent shall say that something either is or is not (for this one might become a begging of the question).
+Proving by refutation is different from proving by demonstration.
 
-Instead, he shall say something which is significant both for himself and for another; for this is necessary, if he really is to say anything. 
+This is because one who demonstrates something inexplicable is like begging the initial principle.
 
-If he means nothing, then he will not be capable of reasoning.
+But proving by refutation refutes the inexplicable cause.
 
-But if any one grants this, demonstration will be possible; for we shall already have something definite. 
+The starting point for all such discussions is not the demand to say that something exists or does not exist, since this wuld be begging the initial principle.
 
-The person responsible for the proof, however, is not he who demonstrates but he who listens.
-- While disowning reason, he listens to reason.
+Instead, we demand that the word must signify something understandable to both himself and the disputer.
 
-He who admits this has admitted that something is true apart from demonstration (so that not everything will be 'so and not so').
+If there is such a word then there can be a demonstration since something will be defined.
 
-The word 'be' or 'not be' has a definite meaning. <!-- , so that not everything will be 'so and not so'. Again, --> 
+Assume that "man" means one thing, as "two-footed animal".
 
-Assume 'man' has one meaning as 'two-footed animal'.
-- 'One meaning' means: 'Man' means 'X'.
+One thing means that "man" in our discussion will refer only to a 2-footed animal even if "man" can mean other things. 
+- Here, the disputer submits to my definition. 
 
-So if 'A' is a man, then 'X' is 'being a man' for him.
 
-A word can have several meanings.
+It is possible to assign a separate proper name to each definition.
 
- <!-- if only they are limited in number; for to each definition there might be assigned a different word.  -->
+For example:
+- "man" is "two-footed animal"
+[- "man-essence" is "humanity"]
+[- "civlized-man" is "the most advanced thinking animal"]
 
-For instance, the word 'man' has several meanings. <!-- , one of which would have one definition, viz. 'two-footed animal', while there might be also several other definitions if only they were limited in number; for a peculiar name might be assigned to each of the definitions. If, however, they were not limited but one were to say that the word has an infinite number of meanings, obviously reasoning would be impossible; for not to have one meaning is to have no meaning, and if words have no meaning our reasoning with one another, and indeed with ourselves, has been annihilated; for it is impossible to think of anything if we do not think of one thing; but if this is possible, one name might be assigned to this thing.) -->
+
+But if names were not assigned, and "man" could mean many things then there would be no discussion.
+
+Assume that in a discussion, one word means one thing.
+
+Therefore, it is surely not possible for a physical man to mean the same as an abstact man. 
+
+Physical man means the same as abstact man only if man were a **homonymy**.
+
+But if "physical man" and "abstract man" are the same, then to be a physical man is also the same as to be an abstract man, since "man" is one.
+
+This is what **to be one** *philosophically* signifies, just as cloak and garment are the same *philosophically*.
+
+But "physical man" and "abstract man" were demonstrated to signify something different.
+
+I defined man as a physical man, a **two-footed animal**.
+
+And so man cannot be an abstract man.
+
+In this case, we cannot say that:
+- physical man is abstract man 
+- abstract man is physical man
 
 A name has one meaning. 
 
-Therefore, 'being a man' cannot mean 'not being a man' if 'man' 
-- has one significance 
-- signifies something about one subject
+Therefore, 'physical man' cannot mean 'abstract man' if 'man' means two-footed animal.
 
- <!-- but also (for we do not identify 'having one significance' with 'signifying something about one subject', since on that assumption even 'musical' and 'white' and 'man' would have had one significance, so that all things would have been one; for they would all have had the same significance). -->
-
-It is not possible to be and not to be the same thing, except in virtue of an ambiguity.
-
-<!-- just as if one whom we call 'man', others were to call 'not-man'; but the point in question is not this, whether -->
+It is not possible to be physical and abstract, except in virtue of an ambiguity. 
 
 
-Can the same thing can at the same time be and not be a man in name, but whether it can be in fact?
+<!-- Can the same thing can at the same time be and not be a man in name, but whether it can be in fact?
 
 If 'man' and 'not-man' mean the same thing, then 'not being a man' will mean nothing different from 'being a man'.
 
 So 'being a man' will be 'not being a man' -- they will mean the same thing.
 
-<!-- For being one means this-being related as 'raiment' and 'dress' are, if their definition is one. 
+For being one means this-being related as 'raiment' and 'dress' are, if their definition is one. 
 
-If 'being a man' and 'being a not-man' are to be one, they must mean one thing.  -->
+If 'being a man' and 'being a not-man' are to be one, they must mean one thing.
 
 But since 'man' means different things then if something is a man then t must be a two-footed animal. 
 
@@ -83,28 +101,79 @@ If this is necessary, it is impossible that the same thing should not at that ti
 
 It is, then, impossible that it should be at the same time true to say the same thing is a man and is not a man.
 
-This also applies to 'not being a man'.
+This also applies to 'not being a man'. -->
 
-For 'being a man' and 'being a not-man' mean different things, since even 'being white' and 'being a man' are different; for the former terms are much more different so that they must a fortiori mean different things. 
+Physical man and abstract man mean something different just as to be physically white is different from to be a physical man. 
 
-If any one says that 'white' means one and the same thing as 'man', again we shall say the same as what was said before, that it would follow that all things are one, and not only opposites. 
+Physical man is more different from abstract man than physical white is different from physical man.
 
-But if this is impossible, then what we have maintained will follow, if our opponent will only answer our question.
+<!-- But if they say that [5] **to be white** signifies the same thing, the same and one, we will again say the same thing that was said before, that **all things will be one** and not only opposites. If this is not possible, the conclusion follows, provided one answers the question simply.
 
-If, when one asks the question simply, he adds the contradictories, he is not answering the question. For there is nothing to prevent the same thing from being both a man and white and countless other things: but still, if one asks whether it is or is not true to say that this is a man, our opponent must give an answer which means one thing, and not add that 'it is also white and large'.
+But if, when simply asked, he also adds [10] the **negations**, he is not answering the question asked. For nothing prevents the same thing from being a **man and white** and countless other things in number. But nevertheless, when asked whether it is true to say that this is a man or not, one must answer with what **signifies one thing** and must not add that it is also white and large. For it is impossible to go through [15] the **accidents** (which are infinite in number). Therefore, let him go through all of them, or none. -->
 
-For, besides other reasons, it is impossible to enumerate its accidental attributes, which are infinite in number; let him, then, enumerate either all or none. Similarly, therefore, even if the same thing is a thousand times a man and a not-man, he must not, in answering the question whether this is a man, add that it is also at the same time a not-man, unless he is bound to add also all the other accidents, all that the subject is or is not; and if he does this, he is not observing the rules of argument.
+Assume that physical man and abstract man are the same in 10,000 ways. If the disputer asks if both definitions are the same, then you can agree as long as he adds all the other 10,000 attributes that are accidental to both defintions.
 
-Those who say this do away with substance and essence. 
-- They must say that all attributes are accidents, and that there is no such thing as 'being essentially a man' or 'an animal'.
+<!-- , those that it is or is not. [20] But if he does this, **he is not engaged in discussion** (or dialectic). -->
 
-For if there is to be any such thing as 'being essentially a man' this will not be 'being a not-man' or 'not being a man' (yet these are negations of it); for there was one thing which it meant, and this was the substance of something. And denoting the substance of a thing means that the essence of the thing is nothing else. 
+Some say that this would destroy the substance or essence of the defintion because this makes the definition accept accidental nuances. 
 
-But if its being essentially a man is to be the same as either being essentially a not-man or essentially not being a man, then its essence will be something else. 
+<!-- ** and the **'what-it-was-to-be'** (essence).  -->
 
-Therefore our opponents must say that there cannot be such a definition of anything, but that all attributes are accidental; for this is the distinction between substance and accident-'white' is accidental to man, because though he is white, whiteness is not his essence.
+<!-- For they must affirm that **everything is accidental** to everything else, and that to be precisely a man or to be precisely an animal is not its being.  -->
 
-But if all statements are accidental, there will be nothing primary about which they are made, if the accidental always implies predication about a subject. 
+My definition of physical man is precise. It cannot be abstract man, which negates it since the substance was its physicality.
+
+ <!-- **to be not-a-man** or **to be not-man** [25] (and yet these are the negations of it). For that term signifies **one thing**, and this was the **substance** of something. -->
+
+Substance means that it is existence that is true only for itself and not other things.
+
+But if physical man is precisely abstract man or non-physical man, then its existence will be something else.
+
+Consequently, they would say that:
+- no such definition exists for anything
+- everything is predicated accidentally
+
+It would mean that physical whiteness is accidental to physical man because he is white, but white is not his essence.
+
+If every attribute is accidental, then every definition is an attribute. 
+
+ <!-- will be no **primary subject** of predication, since the accident always signifies a category predicated of some **underlying subject**. -->
+
+This means that attributes are attributes of attributes. This goes to infinity which is impossible.
+
+This is because not more than two are usually combined as attributes to subjects.
+
+The accident is not an accident of an accident, unless it is because both are accidental to the same thing. 
+
+For example, the white is musical and this is white because both are accidental to the man. 
+
+But Socrates is not musical in this way, because both are accidental to something else.
+
+This means that the connection of white to Socrates cannot be infinite moving upward (in the series of predication).
+
+For example, something else accidental to the white Socrates: [10] for no **one thing** is generated from all of them. 
+
+Nor, indeed, will something else be accidental to the white, such as the musical: for neither is this accidental to that any more than that to this, and at the same time it is distinguished that some are accidental in this way, and others as the musical is to Socrates: 
+
+But those that are in the former way, an accident is **not accidental to an accident**, but only those that are in the latter way, so that not everything will be said to be accidental.
+
+
+There will be, therefore, something that signifies **substance** even in this way. If this is the case, it has been demonstrated that it is impossible for contradictions to be predicated simultaneously.
+
+Furthermore, if all contradictions are true at the same time concerning the same subject, it is clear that [20] **all things will be one**. For the same thing will be both a **trireme** and a **wall** and a **man**, if it is possible to affirm or deny anything of everything, as is necessary for those who assert the argument of Protagoras. For if someone thinks that the man is not a trireme, it is clear that he is not a trireme: so that he is also a trireme, [25] if the contradiction is true.
+
+And so, the result is that of Anaxagoras: **all things are together (commingled)**; so that nothing truly belongs to anything. They seem, therefore, to be speaking of the **indefinite** (or indeterminate), and while thinking they speak of being, they speak about **non-being**: for the indefinite is the thing that is potentially but not in actuality.
+
+But they must assert [30] the affirmation or the denial of every attribute about every subject: for it is absurd if the negation of an attribute itself belongs to each subject, but the negation of another attribute that does not belong to it does not belong: I mean, for example, if it is true to say that the man is not a man, it is clear that he is also either a trireme or not a trireme. If, then, the affirmation belongs, [35] the negation must also belong: but if the affirmation does not belong, the negation will belong even more than the attribute itself.
+
+
+
+
+
+
+
+
+
 
 The predication, then, must go on ad infinitum. But this is impossible; for not even more than two terms can be combined in accidental predication. 
 

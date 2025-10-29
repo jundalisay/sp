@@ -1,7 +1,7 @@
 ---
 title: Doubts on the Mind's Operations
 description: All the objects of human reason or enquiry may naturally be divided into two kinds
-image: "/covers/enquiry.jpg"
+c: steelblue
 weight: 14
 heading: "Section 4"
 icon: "David Hume"
@@ -13,11 +13,14 @@ writer:
 
 ## PART 2
 
-28. But we have not yet attained any tolerable satisfaction with regard to the question first proposed. Each solution still gives rise to a new question as difficult as the foregoing, and leads us on to farther enquiries. 
+
+<sup>28</sup> But we have not yet attained any tolerable satisfaction with regard to the question first proposed. Each solution still gives rise to a new question as difficult as the foregoing, and leads us on to farther enquiries. 
 
 When it is asked, What is the nature of all our reasonings concerning matter of fact? the proper answer seems to be, that they are founded on the relation of cause and effect. When again it is asked, What is the foundation of all our reasonings and conclusions concerning that relation? it may be replied in one word, Experience. 
 
-But if we still carry on our sifting humour, and ask, What is the foundation of all conclusions from experience? this implies a new question, which may be of more difficult solution and explication. Philosophers, that give themselves airs of superior wisdom and sufficiency, have a hard task when they encounter persons of inquisitive dispositions, who push them from every corner to which they retreat, and who are sure at last to bring them to some dangerous dilemma. 
+But if we still carry on our sifting humour, and ask, What is the foundation of all conclusions from experience? this implies a new question, which may be of more difficult solution and explication.
+
+Philosophers, that give themselves airs of superior wisdom and sufficiency, have a hard task when they encounter persons of inquisitive dispositions, who push them from every corner to which they retreat, and who are sure at last to bring them to some dangerous dilemma. 
 
 The best expedient to prevent this confusion is to be modest in our pretensions; and even to discover the difficulty ourselves before it is objected to us. 
 
@@ -30,7 +33,8 @@ Even after we have experience of the operations of cause and effect, our conclus
 This answer we must endeavour both to explain and to defend. 
 
 
-29. Nature has:
+
+<sup>29</sup> Nature has:
 - kept us far from all her secrets
 - given us only the knowledge of a few superficial qualities of objects
 
@@ -63,9 +67,12 @@ There is a required medium to enable the mind to draw such an inference if it be
 
 I do not know what that medium is. It is incumbent on those to produce it, who assert that it really exists, and is the origin of all our conclusions concerning matter of fact. 
 
-30. This negative argument, in process of time, becomes convincing if many penetrating and able philosophers shall turn their enquiries this way and no one be ever able to discover any connecting proposition or intermediate step, which supports the understanding in this conclusion. 
 
-But this question is new.  every reader may not trust so far to his own penetration, as to conclude, because an argument escapes his enquiry, that therefore it does not really exist. For this reason it may be requisite to venture upon a more difficult task; and enumerating all the branches of human knowledge, endeavour to show that none of them can afford such an argument. 
+<sup>30</sup> This negative argument, in process of time, becomes convincing if many penetrating and able philosophers shall turn their enquiries this way and no one be ever able to discover any connecting proposition or intermediate step, which supports the understanding in this conclusion. 
+
+But this question is new.
+
+Every reader may not trust so far to his own penetration, as to conclude, because an argument escapes his enquiry, that therefore it does not really exist. For this reason it may be requisite to venture upon a more difficult task; and enumerating all the branches of human knowledge, endeavour to show that none of them can afford such an argument. 
 
 All reasonings may be divided into 2 kinds:
 
@@ -98,7 +105,8 @@ Our knowledge of that relation is derived entirely from experience; and that all
 
 To endeavour, therefore, the proof of this last supposition by probable arguments, or arguments regarding existence, must be evidently going in a circle, and taking that for granted, which is the very point in question. 
 
-31. All arguments from experience are based on the similarity which we discover among natural objects, and by which we are induced to expect effects similar to those which we have found to follow from such objects. 
+
+<sup>31</sup> All arguments from experience are based on the similarity which we discover among natural objects, and by which we are induced to expect effects similar to those which we have found to follow from such objects. 
 
 Only a fool will dispute the authority of experience.
 
@@ -116,7 +124,8 @@ It is only after a long course of uniform experiments in any kind, that we attai
 
 I cannot find, I cannot imagine any such reasoning. But I keep my mind still open to instruction, if any one will vouchsafe to bestow it on me. 
 
-32. Should it be said that, from a number of uniform experiments, we infer a connexion between the sensible qualities and the secret powers; this, I must confess, seems the same difficulty, couched in different terms. The question still recurs, on what process of argument this inference is founded? 
+
+<sup>32</sup> Should it be said that, from a number of uniform experiments, we infer a connexion between the sensible qualities and the secret powers; this, I must confess, seems the same difficulty, couched in different terms. The question still recurs, on what process of argument this inference is founded? 
 
 Where is the medium, the interposing ideas, which join propositions so very wide of each other? It is confessed that the colour, consistence, and other sensible qualities of bread appear not, of themselves, to have any connexion with the secret powers of nourishment and support. 
 
@@ -150,7 +159,8 @@ As an agent, I am quite satisfied in the point. But as a philosopher, I will not
 
 No reading, no enquiry has yet been able to remove my difficulty, or give me satisfaction in a matter of such importance. Can I do better than propose the difficulty to the public, even though, perhaps, I have small hopes of obtaining a solution? We shall at least, by this means, be sensible of our ignorance, if we do not augment our knowledge. 
 
-33 A man is arrogant if he concludes, because an argument has escaped his own investigation, that therefore it does not really exist. 
+
+<sup>33</sup> A man is arrogant if he concludes, because an argument has escaped his own investigation, that therefore it does not really exist. 
 
 All the learned, for several ages, should have employed themselves in fruitless search upon any subject. But it may still, perhaps, be rash to conclude positively that the subject must, therefore, pass all human comprehension. 
 

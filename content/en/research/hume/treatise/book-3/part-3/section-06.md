@@ -78,18 +78,24 @@ But they lack the advantage of those who account for that sense by an extensive 
 According to their system, the virtue, the sense of virtue, and the principles of this sense must be approved of, so that only the laudable and good are presented on any side.
 
 This observation may be extended to justice and other virtues of that kind.
-        Justice is artificial, but the sense of its morality is natural.
+
+Justice is artificial, but the sense of its morality is natural.
 
 Any act of justice is beneficial to society because of the agreement of men in a system of conduct.
-        We naturally approve of it after it has that tendency.
-        If we did not approve of it, no agreement could ever produce that sentiment.
 
-    Most of men's inventions are subject to change.
-        They:
-            depend on humour and caprice, and
-            have a vogue for a time, and then sink into oblivion.
-    If justice were a human invention then it must be placed on the same footing.
-        But the cases are widely different.
+We naturally approve of it after it has that tendency.
+
+If we did not approve of it, no agreement could ever produce that sentiment.
+
+Most of men's inventions are subject to change.
+
+They:
+- depend on humour and caprice, and
+- have a vogue for a time, and then sink into oblivion.
+
+If justice were a human invention then it must be placed on the same footing.
+
+But the cases are widely different.
 
 Justice:
 - is founded on the greatest imaginable interest
@@ -146,11 +152,13 @@ I am most wiling to confess my errors.
 I think corrections are more honourable than the most unerring judgment.
 
 A man, who is free from mistakes, can pretend to no praises, except from the justness of his understanding.
-    But a man, who corrects his mistakes, shows the:
-        justness of his understanding, and
-        candour and ingenuity of his temper.
+
+But a man, who corrects his mistakes, shows the:
+- justness of his understanding, and
+- candour and ingenuity of his temper.
 
 I have not discovered any considerable mistakes in my reasonings except on one article.
 
 But I have found that some of my words have not been so well chosen, as to guard against all mistakes in the readers.
-    I have added this appendix to remedy this defect.
+
+I have added this appendix to remedy this defect.

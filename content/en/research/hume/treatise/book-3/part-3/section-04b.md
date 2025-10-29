@@ -142,10 +142,12 @@ The reason must be that the memory:
 - in all its middling degrees, it serves almost equally well in business and affairs.
 
 But the smallest variations in the judgment are sensibly felt in their consequences.
-        Judgment is never exerted in any eminent degree without an extraordinary delight and satisfaction.
+
+Judgment is never exerted in any eminent degree without an extraordinary delight and satisfaction.
 
 The sympathy with this utility and pleasure bestows a merit on the understanding.
-        The absence of sympathy makes us consider the memory as a faculty very indifferent to blame or praise.
+
+The absence of sympathy makes us consider the memory as a faculty very indifferent to blame or praise.
 
 One source of the esteem and affection for natural abilities, is derived from the importance they bestow on the person who has them.
 

@@ -1,7 +1,7 @@
 ---
 title: "Muammar al-Qaddafi"
 heading: "Unenlightened"
-weight: 170
+weight: 690
 description: ""
 c: "firebrick"
 a: "Qaddafi"

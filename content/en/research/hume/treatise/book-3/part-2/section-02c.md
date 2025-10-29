@@ -49,22 +49,27 @@ It is impossible there can be naturally a fixed right or property while the oppo
 - are not restrained by any convention or agreement.
 
 The convention for the distinction of property and for the stability of possession is most necessary to establish human society.
-        After the agreement for this rule, little or nothing remains to be done towards settling a perfect harmony and concord.
+
+After the agreement for this rule, little or nothing remains to be done towards settling a perfect harmony and concord.
 
 All the other passions, besides this of interest, are easily restrained or are not of such pernicious consequence, when indulged.
 
 Vanity, pity, and love are esteemed as:
-        social passions, and
-        bonds of union among men.
+- social passions, and
+- bonds of union among men.
 
 Envy and revenge are pernicious.
-        But they operate only by intervals and are directed against our superiors or enemies.
+
+But they operate only by intervals and are directed against our superiors or enemies.
 
 This avidity alone, of acquiring goods and possessions for ourselves and our nearest friends, is insatiable, perpetual, universal, and directly destructive of society.
-    Everyone is actuated by it.
-    Everyone has has a reason to fear it when it:
-        acts unrestrained, and
-        gives way to its first and most natural movements.
+
+Everyone is actuated by it.
+
+Everyone has has a reason to fear it when it:
+- acts unrestrained, and
+- gives way to its first and most natural movements.
+
 The difficulties in the establishment of society depend on the difficulties in regulating and restraining this avidity.
 
 
@@ -146,4 +151,3 @@ Like natural philosophers, moral philosophers should be able to consider the eff
 Natural philosophers consider any motion as consisting of two separate parts.
 
 Though at the same time, they acknowledge it to be uncompounded and inseparable in itself.
-
