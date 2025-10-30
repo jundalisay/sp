@@ -2,7 +2,6 @@
 heading: "Part 8"
 title: "The Contradictions of Heraclitus"
 weight: 14
-
 c: "indigo"
 description: "The one-sided theories which some people express about all things cannot be valid."
 writer:
@@ -31,4 +30,7 @@ If the former person excepts the contrary statement, saying it alone is not true
 
 Those who say all things are at rest are not right, nor are those who say all things are in movement. 
 
-For if all things are at rest, the same statements will always be true and the same always false,-but this obviously changes; for he who makes a statement, himself at one time was not and again will not be. And if all things are in motion, nothing will be true; everything therefore will be false. But it has been shown that this is impossible. Again, it must be that which is that changes; for change is from something to something. But again it is not the case that all things are at rest or in motion sometimes, and nothing for ever; for there is something which always moves the things that are in motion, and the first mover is itself unmoved.
+For if all things are at rest, the same statements will always be true and the same always false,-but this obviously changes; for he who makes a statement, himself at one time was not and again will not be. And if all things are in motion, nothing will be true; everything therefore will be false. 
+
+But it has been shown that this is impossible. Again, it must be that which is that changes; for change is from something to something. But again it is not the case that all things are at rest or in motion sometimes, and nothing for ever; for there is something which always moves the things that are in motion, and the first mover is itself unmoved.
+

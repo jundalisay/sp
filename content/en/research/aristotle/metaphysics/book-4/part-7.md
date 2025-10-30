@@ -2,7 +2,6 @@
 heading: "Part 7"
 title: "True or False"
 weight: 12
-
 c: "indigo"
 description: "One subject must either affirm or deny any one predicate."
 writer:

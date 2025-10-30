@@ -1,82 +1,161 @@
 ---
 heading: "Part 4"
-title: "The doctrine of Protagoras"
-weight: 8
+title: "The Subjective Materialist Doctrine of Protagoras"
+weight: 7
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 
 c: "indigo"
-description: "Those who really feel the difficulties have been led to this opinion by observation of the sensible world."
+description: "Protagoras is Subjective Materialist, while Democritus is Objective Materialist"
 icon: "Aristotle"
 ---
 
 
-From the same opinion proceeds the doctrine of Protagoras. 
 
-Both doctrines must be alike true or alike untrue. If all opinions and appearances are true, all statements must be at the same time true and false. 
+But if [the materialist] Protogoras were correct, then physically existing things would have a fixed nature.
+- Only the physicality would be true, not the abstraction.
 
-Many men hold beliefs in which they conflict with one another. 
+ <!-- and this would be true, and **not both true and not-true at the same time.**  -->
 
-They think those mistaken who have not the same opinions as themselves; so that the same thing must both be and not be. And on the other hand, if this is so, all opinions must be true; for those who are mistaken and those who are right are opposed to one another in their opinions; if, then, reality is such as the view in question supposes, all will be right in their beliefs.
+But if so, then we would be talking about physical and abstract versions at the same time.
 
-Both doctrines proceed from the same way of thinking. But the same method of discussion must not be used with all opponents; for some need persuasion, and others compulsion. Those who have been driven to this position by difficulties in their thinking can easily be cured of their ignorance; for it is not their expressed argument but their thought that one has to meet. But those who argue for the sake of argument can be cured only by refuting the argument as expressed in speech and in words.
+<!-- If, however, all men equally both speak falsely and speak truly, **it will not be possible for such a man to utter or speak**: for he says both these things and not-these things at the same time. -->
 
-Those who really feel the difficulties have been led to this opinion by observation of the sensible world.
+If he is like Protogoras who equally believes and does not believe, **how would he differ from the plants?** 
 
- (1) They think that contradictories or contraries are true at the same time, because they see contraries coming into existence out of the same thing. If, then, that which is not cannot come to be, the thing must have existed before as both contraries alike, as Anaxagoras says all is mixed in all, and Democritus too; for he says the void and the full exist alike in every part, and yet one of these is being, and the other non-being. To those, then, whose belief rests on these grounds, we shall say that in a sense they speak rightly and in a sense they err. For 'that which is' has two meanings, so that in some sense a thing can come to be out of that which is not, while in some sense it cannot, and the same thing can at the same time be in being and not in being-but not in the same respect. For the same thing can be potentially at the same time two contraries, but it cannot actually. And again we shall ask them to believe that among existing things there is also another kind of substance to which neither movement nor destruction nor generation at all belongs.
+<!-- This is why it is especially clear that **no one is so disposed,** neither among others nor among those who state this argument.  -->
 
-"And (2) similarly some have inferred from observation of the sensible world the truth of appearances. For they think that the truth should not be determined by the large or small number of those who hold a belief, and that the same thing is thought sweet by some when they taste it, and bitter by others, so that if all were ill or all were mad, and only two or three were well or sane, these would be thought ill and mad, and not the others.
+Why would he walk to Megara and not stay still if he believes in walking and not walking?
 
-"And again, they say that many of the other animals receive impressions contrary to ours; and that even to the senses of each individual, things do not always seem the same. Which, then, of these impressions are true and which are false is not obvious; for the one set is no more true than the other, but both are alike. And this is why Democritus, at any rate, says that either there is no truth or to us at least it is not evident.
+ <!-- supposing that he ought to walk?  -->
 
-"And in general it is because these thinkers suppose knowledge to be sensation, and this to be a physical alteration, that they say that what appears to our senses must be true; for it is for these reasons that both Empedocles and Democritus and, one may almost say, all the others have fallen victims to opinions of this sort. For Empedocles says that when men change their condition they change their knowledge; "
+Why does he take care not to fall into a ravine when he supposes equally that falling in is both good and not good?
 
+**It is because he supposes one thing to be better than the other.**
 
+So it means not all to him is equal. 
 
-"For wisdom increases in men according to what is before them. "
+<!-- If so, he must also suppose one thing to be **man** and the other **not-man**, and one thing **sweet** and the other **not-sweet**.  -->
 
+<!-- For he does not seek and suppose all things equally when, having believed it is better to drink water and see a man, he then seeks them: and yet he ought to, if **man and not-man were the same thing equally.** But, as was said, **no one is observed who does not guard against some things and not others**: so, it seems, all men simply suppose that [things] have a fixed nature, if not regarding all things, at least regarding the better and the worse. -->
 
+The followers of Protogoras do this by opinion, not by knowledge.
 
-"And elsewhere he says that:- "
+I think they should use knowledge than opinion. 
 
+Furthermore, the system of Protogoras becomes inaccurate. 
 
+We do not say that:
+- 2 is as equal to 3
+- a man who allows a range of 4 to be 5 to be equal to a man who supposes 4 to be 1,000
 
-"So far as their nature changed, so far to them always
-
-"Came changed thoughts into mind. "
-
-
-
-"And Parmenides also expresses himself in the same way= "
-
-
-
-"For as at each time the much-bent limbs are composed,
-
-"So is the mind of men; for in each and all men
-
-"'Tis one thing thinks-the substance of their limbs:
-
-"For that of which there is more is thought. "
+In the system of Protogoras, both men are not mistaken, but one is less mistaken than the other.
 
 
+There could indeed be some truth of which the more true is nearer.
 
-"A saying of Anaxagoras to some of his friends is also related,-that things would be for them such as they supposed them to be. And they say that Homer also evidently had this opinion, because he made Hector, when he was unconscious from the blow, lie 'thinking other thoughts',-which implies that even those who are bereft of thought have thoughts, though not the same thoughts. Evidently, then, if both are forms of knowledge, the real things also are at the same time 'both so and not so'. And it is in this direction that the consequences are most difficult. For if those who have seen most of such truth as is possible for us (and these are those who seek and love it most)-if these have such opinions and express these views about the truth, is it not natural that beginners in philosophy should lose heart? For to seek the truth would be to follow flying game.
+Even if an absolute truth does not exist, a relative truth is better than the unmixed argument that prevents the intellect from determining anything.
 
-"But the reason why these thinkers held this opinion is that while they were inquiring into the truth of that which is, they thought, 'that which is' was identical with the sensible world; in this, however, there is largely present the nature of the indeterminate-of that which exists in the peculiar sense which we have explained; and therefore, while they speak plausibly, they do not say what is true (for it is fitting to put the matter so rather than as Epicharmus put it against Xenophanes). And again, because they saw that all this world of nature is in movement and that about that which changes no true statement can be made, they said that of course, regarding that which everywhere in every respect is changing, nothing could truly be affirmed. It was this belief that blossomed into the most extreme of the views above mentioned, that of the professed Heracliteans, such as was held by Cratylus, who finally did not think it right to say anything but only moved his finger, and criticized Heraclitus for saying that it is impossible to step twice into the same river; for he thought one could not do it even once.
+The doctrine of **Protagoras** is derived from the same opinion.
 
-"But we shall say in answer to this argument also that while there is some justification for their thinking that the changing, when it is changing, does not exist, yet it is after all disputable; for that which is losing a quality has something of that which is being lost, and of that which is coming to be, something must already be. And in general if a thing is perishing, will be present something that exists; and if a thing is coming to be, there must be something from which it comes to be and something by which it is generated, and this process cannot go on ad infinitum.-But, leaving these arguments, let us insist on this, that it is not the same thing to change in quantity and in quality. Grant that in quantity a thing is not constant; still it is in respect of its form that we know each thing.-And again, it would be fair to criticize those who hold this view for asserting about the whole material universe what they saw only in a minority even of sensible things. For only that region of the sensible world which immediately surrounds us is always in process of destruction and generation; but this is-so to speak-not even a fraction of the whole, so that it would have been juster to acquit this part of the world because of the other part, than to condemn the other because of this.-And again, obviously we shall make to them also the same reply that we made long ago; we must show them and persuade them that there is something whose nature is changeless. Indeed, those who say that things at the same time are and are not, should in consequence say that all things are at rest rather than that they are in movement; for there is nothing into which they can change, since all attributes belong already to all subjects.
+<!--  and it is necessary that both [arguments, Protagoras' and the one denying non-contradiction] either stand or fall together: 
 
-"Regarding the nature of truth, we must maintain that not everything which appears is true; firstly, because even if sensation-at least of the object peculiar to the sense in question-is not false, still appearance is not the same as sensation.-Again, it is fair to express surprise at our opponents' raising the question whether magnitudes are as great, and colours are of such a nature, as they appear to people at a distance, or as they appear to those close at hand, and whether they are such as they appear to the healthy or to the sick, and whether those things are heavy which appear so to the weak or those which appear so to the strong, and those things true which appear to the slee ing or to the waking. For obviously they do not think these to be open questions; no one, at least, if when he is in Libya he has fancied one night that he is in Athens, starts for the concert hall.
+for if all things that seem to be are true and all things that appear are true, **it is necessary that all things are both true and false at the same time**  -->
 
-And again with regard to the future, as Plato says, surely the opinion of the physician and that of the ignorant man are not equally weighty, for instance, on the question whether a man will get well or not.-And again, among sensations themselves the sensation of a foreign object and that of the appropriate object, or that of a kindred object and that of the object of the sense in question, are not equally authoritative, but in the case of colour sight, not taste, has the authority, and in the case of flavour taste, not sight; each of which senses never says at the same time of the same object that it simultaneously is 'so and not so'.
 
-But not even at different times does one sense disagree about the quality, but only about that to which the quality belongs. I mean, for instance, that the same wine might seem, if either it or one's body changed, at one time sweet and at another time not sweet; but at least the sweet, such as it is when it exists, has never yet changed, but one is always right about it, and that which is to be sweet is of necessity of such and such a nature. Yet all these views destroy this necessity, leaving nothing to be of necessity, as they leave no essence of anything; for the necessary cannot be in this way and also in that, so that if anything is of necessity, it will not be 'both so and not so'.
+Many people:
+- suppose contrary things to one another.
+- consider those who have different opinions from them to be wrong
 
-If only the sensible exists, there would be nothing if animate things were not; for there would be no faculty of sense. 
+And so the same thing is physical and abstract. 
 
-Now the view that neither the sensible qualities nor the sensations would exist is doubtless true (for they are affections of the perceiver), but that the substrata which cause the sensation should not exist even apart from sensation is impossible. 
+If so, then everything is true.
 
-For sensation is surely not the sensation of itself, but there is something beyond the sensation, which must be prior to the sensation; for that which moves is prior in nature to that which is moved, and if they are correlative terms, this is no less the case.
+The difference is in the way of meeting all disputers. 
 
+- Some need **persuasion**
+- Others need **force [or constraint]**
+
+The ignorance of others is easily treated by focusing on their thought, not at the argument.
+
+But for those who speak for the sake of argument, their cure is a **refutation** of the words they use.
+
+This is because some are perplexed by **sensible things** when they see simultaneous contradictions from the same thing.
+
+This makes it impossible for the abstract to become physical [reality], since the thing that pre-existed is contrary to the physical thing. 
+
+
+## Anaxagoras' System
+
+But Anaxagoras says that everything is **mixed in everything**.
+
+Democritus says the same: the empty and the full exist equally in any given part, although:
+- the empty is abstract
+- the full is physical
+
+Likewise, some suppose that the world is the basis of these things.
+
+I think that they are:
+- correct in one way
+- but wrong in another way
+
+This is because they speak of physicality in 2 ways.
+
+1. Something becoming physical from abstraction
+2. Something both being physical and abstract at the same time, either as actual with potentiality, or potential with actuality
+
+<!-- but **not being in the same respect**: for it is possible for contraries to be the same thing **potentially** at the same time, but **not actually**. -->
+
+I think they are supposing some **other kind of substance** among existing things, which is beyond movement or destruction or coming-into-being at all.
+
+
+
+## The System of Democritus and Empedocles
+
+Democritus believes in the truth of appearances through **sensible things**. 
+
+His followers think that the true should be judged not by instances.
+
+This is because a sweet thing can be bitter to others. 
+
+Furthermore, animals and each person also experience contraries.*
+
+{{< n n="This is explained by samskara and mental shape, which is lacking in Greek philosophy" >}}
+
+<!-- **Which of these, then, are true or false, is unclear**: for the former are no more true than the latter, but equally so. -->
+
+That is why **Democritus** says that either **nothing is true** or **unclear to us**. 
+
+They believe that:
+- **perception is wisdom**
+- this perception is **alteration**
+- what appears through perception is **necessarily true**
+
+**Empedocles** says that as men change their bodily state, they change their understanding:
+- 'For to men **understanding** grows according to what is present.'
+
+Yet in other places he says:
+- 'And in proportion as they were changed in nature, **so did their thought always change** in its nature.'
+
+**Parmenides** declares in the same manner:
+- The mind which thinks is like the limbs that walk 
+- The more that is perceived in everything, the more is the thought
+
+
+**Anaxagoras** said that that existing things would be for them **such as they supposed them to be**.
+
+The supporters of Anaxagoras say that **Homer** has this opinion too, because he described Hector, when he was stunned by the blow, as lying there **'with a changed mind'**
+- This implies that even those who are mad possess understanding, but not the same kind.
+
+If both are forms of understanding exist, then things are simultaneously so and not so.*
+
+{{< n n="This is now seen in the probability wave of Quantum Mechanics" >}}
+
+This is where the consequence is most difficult.
+
+It means some have more truth and others who are seeking it have less. 
+
+Then **how is it not right for those attempting to philosophize to lose heart?** 
+
+For to seek the truth would be like **chasing after flying things**."

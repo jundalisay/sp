@@ -13,11 +13,12 @@ icon: "Juan"
 Period | Philosopher | Key Idea
 --- | --- | ---
 624–546 BC | Thales of Miletus | Water was the fundamental substance (arche) of the cosmos
-610–546 BC |  Anaximander Pupil of Thales | Developed a cosmological (vortex)
+610–546 BC |  Anaximander Pupil of Thales | Developed a cosmological vortex
 585–525 BC |  Anaximenes | Air was the arche. Used condensation and expansion to explain how air changed into other elements
 570–495 BC | Pythagoras | Founded a religious and philosophical school -- numbers were the ultimate reality
 535–475 BC |  Heraclitus | Change is the only reality. His arche was fire
 515–445 BC |  Parmenides | Founded the Eleatic school -- change is an illusion and reality is a single, unchanging, and uniform sphere
+500—428 BC | Anaxagoras | Fixed essence or substance
 490–430 BC | Empedocles | Four Classical Elements moved by Love and Strife
 480-420 BC | Leucippus | Founder of Atomism -- universe is made of indivisible atoms moving in a void
 460–370 BC | Democritus | Student of Leucippus 
