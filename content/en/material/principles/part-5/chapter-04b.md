@@ -56,6 +56,9 @@ This has advantages over the Periodic Table:
 - It drops arbitrary names such as Einsteinium and Californium for numerical ones like "6" for carbon, so that CO2 is 6-8(2) pronounce six-eight-duo. In this way, people just need to memorize the atomic number. 
 - The relationships of the compounds become more intuitive. For example, the magnetic metals form recurring rings, while the groups form spirals  
 
+{{< i s="/graphics/physics/butane.jpg" a="Butane" c="Butane as C4 H10 becomes 6(4)-1(10) or six-quad-one-decad" >}}
+
+{{< i s="/graphics/physics/glucose.jpg" a="Glucose" c="Glucose as C6 H12 O6 becomes 6(6)-1(12)-8(6) or six-hexa-one-dodeca-eight-hexa" >}}
 
 
 ### The Weird Russel Table

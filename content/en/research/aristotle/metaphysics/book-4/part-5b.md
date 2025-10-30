@@ -11,10 +11,60 @@ icon: "Aristotle"
 ---
 
 
+Anaxagoras, Democritus, Protogoras, and Empedocles held their opinions because they they thought, 'that which is' was identical with the sensible world.
 
-"But the reason why these thinkers held this opinion is that while they were inquiring into the truth of that which is, they thought, 'that which is' was identical with the sensible world; in this, however, there is largely present the nature of the indeterminate-of that which exists in the peculiar sense which we have explained; and therefore, while they speak plausibly, they do not say what is true (for it is fitting to put the matter so rather than as Epicharmus put it against Xenophanes). And again, because they saw that all this world of nature is in movement and that about that which changes no true statement can be made, they said that of course, regarding that which everywhere in every respect is changing, nothing could truly be affirmed. It was this belief that blossomed into the most extreme of the views above mentioned, that of the professed Heracliteans, such as was held by Cratylus, who finally did not think it right to say anything but only moved his finger, and criticized Heraclitus for saying that it is impossible to step twice into the same river; for he thought one could not do it even once.
+But physicality has largely the nature of the indeterminate.
 
-"But we shall say in answer to this argument also that while there is some justification for their thinking that the changing, when it is changing, does not exist, yet it is after all disputable; for that which is losing a quality has something of that which is being lost, and of that which is coming to be, something must already be. And in general if a thing is perishing, will be present something that exists; and if a thing is coming to be, there must be something from which it comes to be and something by which it is generated, and this process cannot go on ad infinitum.-But, leaving these arguments, let us insist on this, that it is not the same thing to change in quantity and in quality. Grant that in quantity a thing is not constant; still it is in respect of its form that we know each thing.-And again, it would be fair to criticize those who hold this view for asserting about the whole material universe what they saw only in a minority even of sensible things. For only that region of the sensible world which immediately surrounds us is always in process of destruction and generation; but this is-so to speak-not even a fraction of the whole, so that it would have been juster to acquit this part of the world because of the other part, than to condemn the other because of this.-And again, obviously we shall make to them also the same reply that we made long ago; we must show them and persuade them that there is something whose nature is changeless. Indeed, those who say that things at the same time are and are not, should in consequence say that all things are at rest rather than that they are in movement; for there is nothing into which they can change, since all attributes belong already to all subjects.
+<!-- -of that which exists in the peculiar sense which we have explained; and  -->
+
+Therefore, they speak plausibly.
+
+But they do not say what is true.
+
+ <!-- (for it is fitting to put the matter so rather than as Epicharmus put it against Xenophanes). -->
+
+They saw that all this world of nature is in movement and changes from which no true absolute statement can be made.
+
+So they said that:
+- everything is changing
+- yet nothing could truly be affirmed
+ 
+The Heracliteans, as Cratylus, held the most extreme of this belief.
+
+who finally did not think it right to say anything but only moved his finger, and 
+
+He criticized Heraclitus for saying that it is impossible to step twice into the same river.
+
+He believed that you cannot even step into a river once.
+
+
+<!-- ; for he thought one could not do it even once. -->
+
+I understand why they say that the changing does not exist when it is changing.
+
+But this is disputable.
+
+This is because:
+- that which is losing a quality had that quality which is merely being lost
+- that which is gaining a quality already has a scope for that quality. 
+
+ <!-- coming to be, something must already be. -->
+
+A thing that perishes means it has existed. 
+
+A thing that is coming to be, means it has a cause.
+
+These processes cannot go on ad infinitum.
+
+ <!-- there must be something from which it comes to be and something by which it is generated, and this process cannot  -->
+
+It is not the same thing to change in quantity and in quality.
+
+Grant that in quantity a thing is not constant; still it is in respect of its form that we know each thing.
+
+It would be fair to criticize those who hold this view for asserting about the whole material universe what they saw only in a minority even of sensible things. 
+
+For only that region of the sensible world which immediately surrounds us is always in process of destruction and generation; but this is-so to speak-not even a fraction of the whole, so that it would have been juster to acquit this part of the world because of the other part, than to condemn the other because of this.-And again, obviously we shall make to them also the same reply that we made long ago; we must show them and persuade them that there is something whose nature is changeless. Indeed, those who say that things at the same time are and are not, should in consequence say that all things are at rest rather than that they are in movement; for there is nothing into which they can change, since all attributes belong already to all subjects.
 
 "Regarding the nature of truth, we must maintain that not everything which appears is true; firstly, because even if sensation-at least of the object peculiar to the sense in question-is not false, still appearance is not the same as sensation.-Again, it is fair to express surprise at our opponents' raising the question whether magnitudes are as great, and colours are of such a nature, as they appear to people at a distance, or as they appear to those close at hand, and whether they are such as they appear to the healthy or to the sick, and whether those things are heavy which appear so to the weak or those which appear so to the strong, and those things true which appear to the slee ing or to the waking. For obviously they do not think these to be open questions; no one, at least, if when he is in Libya he has fancied one night that he is in Athens, starts for the concert hall.
 

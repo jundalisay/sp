@@ -68,66 +68,123 @@ The support for the refugees was inspiring. Nadir Rahim, whose father was Commis
 
 These were names revived from Islamic history when those who received the holy Prophet and his companions in Madinah came to be called ansaris and those who had fled Makkah muhajirs.
 
-My own experiences in the early years of Pakistan confirm this. My father was a senior official in the new country, the first divisional  Superintendent of the Pakistan Railways in Karachi,_its capital. 
+My own experiences in the early years of Pakistan confirm this. 
+
+My father was a senior official in the new country, the first divisional Superintendent of the Pakistan Railways in Karachi. 
 
 
 The movement of refugees, troops and goods all depended on the railways. He had a large official house where dozens of refugees were camped for months and where families lived with us for years.
 
-People seemed to appear from nowhere in our house and then disappear for ever. They looked dazed, uncertain and withdrawn. I remember in particular two men: one old, respectable and orthodox, the other young, barely in his teens. The first seemed to have found strength in Islam and his punctilious observation of ritual. The young man was asleep most of the time wrapped in a white sheet as if he were a corpse. 
+People seemed to appear from nowhere in our house and then disappear forever.
+- They looked dazed, uncertain and withdrawn.
 
-When he woke he had little to say. An expression of permanent sorrow was etched on his face. He wished to shut out the past. I do not know where he came from and what happened to him.
+I saw 2 men:
+
+1. One was old, respectable and orthodox
+
+He found strength in Islam
+
+2. One was young, barely in his teens
+
+He was asleep most of the time. When he woke he had little to say. 
+
+Permanent sorrow was etched on his face. He wished to shut out the past. I do not know where he came from and what happened to him.
 
 
 
 ### Jinnah, Pakistan and India
 
-Jinnah wished for cordial relations with the state of India. He never changed his will, which left part of his estate to educational institutions in Aligarh, Bombay and Delhi. Hoping to visit his beloved Bombay, Jinnah also kept his property in India.
+Jinnah wished for cordial relations with India.
 
-Jinnah's view of friendly relations between India and Pakistan after partition was recorded in an interview with General Ismay, Chief of Staff to the Viceroy:
+He never changed his will, which left part of his estate to educational institutions in Aligarh, Bombay and Delhi. 
+
+Hoping to visit his beloved Bombay, Jinnah also kept his property in India.
+
+Jinnah's view of friendly relations between India and Pakistan after partition was recorded in an interview with General Ismay, Chief of Staff to the Viceroy.
 
 Mr. Jinnah said with the greatest earnestness that once partition had been decided upon, everyone would know exactly where they were, all troubles would cease, and they would live happily ever after. 
 
-He quoted me the case of two brothers who hated each other like poison as a result of the portions allotted to them under their father's will. Finally they could bear it no longer and took the case to court. Mr. Jinnah defended one of them and the case was fought with the utmost venom. 
+He quoted me the case of two brothers who hated each other like poison as a result of the portions allotted to them under their father's will. 
+
+Finally they could bear it no longer and took the case to court. Mr. Jinnah defended one of them and the case was fought with the utmost venom. 
 
 Two years later Mr. Jinnah met his client and asked how he was getting on and how was his brother, and he said: 'oh, once the case was decided, we became the greatest friends'.
 
-Jinnah wished for a civilized discourse, maintaining standards of neighbourly courtesy, in his dealings with India. On his final flight from Delhi he conveyed this message to the new Indian government:
+Jinnah wished for a civilized discourse, maintaining standards of neighbourly courtesy, in his dealings with India. On his final flight from Delhi he conveyed this message to the new Indian government.
 
-I bid farewell to the citizens of Delhi, amongst whom I have many friends of all communities and I earnestly appeal to everyone to live in this great and historic city with peace. The past must be buried and let us start afresh as two independent sovereign States of Hindustan [India] and Pakistan. I wish Hindustan prosperity and peace. 
+I bid farewell to the citizens of Delhi, amongst whom I have many friends of all communities and I earnestly appeal to everyone to live in this great and historic city with peace.
+
+The past must be buried and let us start afresh as two independent sovereign States of Hindustan [India] and Pakistan. 
+
+I wish Hindustan prosperity and peace. 
 
 Seervai, the Indian writer, comments on the Indian response to Jinnah's message:
 
-Jinnah left India for Pakistan on 7 August 1947, with an appeal to both Hindus and Muslims to 'bury the past' and wished India success and prosperity. The next clay, Vallabhbhai Patel said in Delhi, 'The poison had been removed from the body of India."9
-Patel went on:
+Jinnah left India for Pakistan on August 7, 1947, with an appeal to both Hindus and Muslims to 'bury the past'.
 
-As for the Muslims they have their roots, their sacred places and
-their centres here. I do not know what they can possibly do in Pakistan. It
-will not be long before they return to us.
+The next day, Vallabhbhai Patel said in Delhi:
 
-'Hardly the words,' concludes Seervai, 'to promote goodwill and
-neighbourliness either then or in the days to come.'
+{{< r a="Vallabhbhai Patel" >}}
+The poison had been removed from the body of India. The Muslims have their roots, their sacred places and their centres here.  I do not know what they can possibly do in Pakistan. It will not be long before they return to us.
+{{< /r >}}
 
-As for the Hindu citizens of Pakistan, there was never any doubt in Jinnah's mind that they would be protected as citizens and given full rights. Speech after speech confirmed this. When Pakistan was created, Jinnah had seven ministers in the Cabinet, one a Hindu.
+{{< l a="Seervai" >}}
+These are not words to promote goodwill and neighbourliness
+{{< /l >}}
+
+
+In Jinnah's mind, the Hindu citizens of Pakistan would be protected as citizens and given full rights. 
+
+When Pakistan was created, Jinnah had 7 ministers in the Cabinet, one was a Hindu.
 
 In one of his first radio broadcasts as head of state Jinnah abandoned his normal reserve and opened his heart to the nation:
 
-I am speaking to you under deep distress and with a heavy heart. We have undoubtedly achieved Pakistan and that too without bloody war and practically, peacefully, by moral and intellectual force and with the power of pen which is no less mighty than the sword and so our righteous cause has triumphed. 
 
-Are we now going to besmear and tarnish this greatest achievement for which there is no parallel in the whole history of the world by resorting to frenzy, savagery and butchery?
+{{< l a="Jinnah" >}}
+I am speaking to you under deep distress and with a heavy heart. We have achieved Pakistan without bloody war, peacefully, by moral and intellectual force and with the power of pen which is no less mighty than the sword. And so our righteous cause has triumphed. Are we now going to besmear and tarnish this greatest achievement which has no parallel in the history of the world by resorting to frenzy, savagery and butchery?
+{{< /l >}}
+
 
 In early October 1947 Muslims in West Punjab began to react to the horror stories coming from India. Jinnah reminded the authorities in both countries:
 
-The division of India was agreed upon with a solemn and sacred undertaking that minorities would be protected by the two Dominion Governments and that the minorities had nothing to fear so long as they remained loyal to the State.
+{{< l a="Jinnah" >}}
+The division of India was agreed with a sacred undertaking that:
+- minorities would be protected by the two Dominion Governments 
+- the minorities had nothing to fear so long as they remained loyal to the State
+{{< /l >}}
 
-He urged the government of India to 'put a stop to the process of victimization of Muslims.' To calm the situation Jinnah flew to Lahore, which had borne the full brunt of the refugees arriving from India with their heart-rending tales, and in a public meeting urged restraint: Despite the treatment which is being meted out to the Muslim minorities in India, we must make it a matter of our prestige and honour to safeguard the lives of the minority communities and to create a sense of security among them.
 
-On the death of Gandhi on 30 January 1948, Jinnah issued a statement that angered and disappointed many Indians because it spoke of Gandhi only as a great Hindu leader. This was unfair to Jinnah, who used the word 'great' three times in his brief message. Once again, we need to read Jinnah's full statement, especially in conjunction with the one made later in which he states that the Muslims of India had lost their main support. The official version is as follows:
+He urged the government of India end the victimization of Muslims.
 
-I am shocked to learn of the most dastardly attack on the life of Mr. Gandhi, resulting in his death. There can be no controversy in the face of death. Whatever our political differences, he was one of the greatest men produced by the Hindu community, and a leader who commanded their universal confidence and respect. I wish to express my deep sorrow, and sincerely sympathize with the great Hindu community and his family in their bereavement at this momentous, historical and critical juncture so soon after the birth of freedom and freedom for Hindustan and Pakistan. The loss to the Dominion of India is irreparable, and it will be very 42difficult to fill the vacuum created by the passing away of such a great man at this moment.
+To calm the situation Jinnah flew to Lahore, which had borne the full brunt of the refugees arriving from India with their heart-rending tales, and in a public meeting urged restraint.
 
-Just before his own death, Jinnah proposed a joint defence pact with India as the Cold War started to shape the world and the two power blocs began to form. Jinnah was still thinking as a South Asian nationalist. Since he had won the rights and security of his community through the creation of Pakistan, he thought the problem of national defence was over. Alas, it was not to be.
+Despite the treatment which is being meted out to the Muslim minorities in India, we must make it a matter of our prestige and honour to safeguard the lives of the minority communities and to create a sense of security among them.
 
-With relations souring so quickly at the creation of Pakistan, the relationship between the two countries—and therefore the two communities in the subcontinent as a whole—was set on a collision course and has unfortunately remained so ever since. As this conflict is rooted in history political parties who see an easy gain to be made readily exploit it. Had Jinnah's vision prevailed—and found an echo in India—we would have seen a very different South Asia. There would have been two stable nations—India and Pakistan, both supplementing and supporting each other.
+On the death of Gandhi on 30 January 1948, Jinnah issued a statement that angered and disappointed many Indians because it spoke of Gandhi only as a great Hindu leader.
+
+This was unfair to Jinnah, who used the word 'great' three times in his brief message. 
+
+Once again, we need to read Jinnah's full statement, especially in conjunction with the one made later in which he states that the Muslims of India had lost their main support. The official version is as follows:
+
+
+{{< l a="Jinnah" >}}
+I am shocked to learn of the attack on Gandhi, resulting in his death.
+
+Whatever our political differences, he was one of the greatest men produced by the Hindu community, and a leader who commanded their universal confidence and respect.
+
+I wish to express my deep sorrow, and sincerely sympathize with the great Hindu community and his family in their bereavement at this momentous, historical and critical juncture so soon after the birth of freedom and freedom for Hindustan and Pakistan. 
+
+The loss to the Dominion of India is irreparable, and it will be very difficult to fill the vacuum created by the passing away of such a great man at this moment.
+{{< /l >}}
+
+
+Just before his own death, Jinnah proposed a joint defence pact with India as the Cold War started to shape the world and the two power blocs began to form. 
+
+Jinnah was still thinking as a South Asian nationalist. Since he had won the rights and security of his community through the creation of Pakistan, he thought the problem of national defence was over.
+
+With relations souring so quickly at the creation of Pakistan, the relationship between the two countries—and therefore the two communities in the subcontinent as a whole—was set on a collision course and has unfortunately remained so ever since. 
+
+As this conflict is rooted in history political parties who see an easy gain to be made readily exploit it. Had Jinnah's vision prevailed—and found an echo in India—we would have seen a very different South Asia. There would have been two stable nations—India and Pakistan, both supplementing and supporting each other.
 
 Jinnah's idea of a joint defence system against the outside world would have ensured that there would have been no crippling defence expenditures. There would have been no reason to join one or other camp of the Cold War. There would have been open borders, free trade and regular visiting between the two countries.
 

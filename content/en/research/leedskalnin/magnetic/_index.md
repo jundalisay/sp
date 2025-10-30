@@ -1,6 +1,6 @@
 ---
-title: "Leedskalnin, Edward"
+title: "Magnetic Current"
 description: 
 c: "darkgoldenrod"
-weight: 2
+weight: 200
 ---
