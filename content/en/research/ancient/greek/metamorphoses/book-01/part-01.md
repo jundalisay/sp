@@ -59,10 +59,9 @@ Such heat consumes the middle zone that none may dwell therein;
 
 Two extremes are covered with deep snow; 
 
-Two are placed betwixt the hot and cold, which mixed together give a temperate clime;
+Two are placed between the hot and cold, which mixed together give a temperate clime.
 
-Over all the atmosphere suspends with weight proportioned to the fiery sky, exactly as the weight of earth compares
-with weight of water.
+Over all the atmosphere suspends with weight proportioned to the fiery sky, exactly as the weight of earth compares with weight of water.
 
 He ordered mist to gather in the air and spread the clouds. 
 
@@ -70,9 +69,9 @@ He fixed the thunders that disturb our souls, and brought the lightning on destr
 
 Nor did the great Artificer permit these mighty winds to blow unbounded in the pathless skies, but each discordant brother fixed in space, although His power can scarce restrain their rage to rend the universe. 
 
-At His command to far Aurora, Eurus took his way, to Nabath, Persia, and that mountain range
-first gilded by the dawn; and Zephyr's flight was towards the evening star and peaceful shores,
-warm with the setting sun.
+At His command to far Aurora, Eurus took his way, to Nabath, Persia, and that mountain range first gilded by the dawn.
+
+Zephyr's flight was towards the evening star and peaceful shores, warm with the setting sun.
 
 Boreas invaded Scythia and the northern snows; 
 
@@ -86,15 +85,15 @@ Lest some part might be bereft of life the gleaming waves were filled with twink
 
 The agitated air was filled with birds.
 
-But one more perfect and more sanctified, a being capable of lofty thought, intelligent to rule, was wanting still man was created! 
+But a creature of a higher mind, more apt for lofty thought, and fit to rule the rest, was still missing. 
 
-Did the Unknown God designing then a better world make man of seed divine? 
+Then Man was born from Enki [Prometheus], the Creator of a better world, creating him either from:
+- seed Divine or
+- fresh Earth recently drawn from the aether
 
-Or did Prometheus take the new soil of earth (that still contained some godly element of Heaven's Life) and use it to create the race of man;
+He first mingled it with water of new streams; so that his new creation, upright man, was made in image of commanding Gods.
 
-First mingling it with water of new streams; so that his new creation, upright man,
-was made in image of commanding Gods?
+While all other animals look downwards at the ground, Enki gave man a lofty face and was commanded to look up at the sky and with an upright face may view the stars.
 
-On earth the brute creation bends its gaze, but man was given a lofty countenance and was commanded to behold the skies; and with an upright face may view the stars:—
+And so it was that shapeless clay took the form of man till then unknown to earth.
 
-And so it was that shapeless clay put on the form of man till then unknown to earth.

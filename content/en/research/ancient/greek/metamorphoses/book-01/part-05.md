@@ -10,62 +10,43 @@ After this, the Earth spontaneously produced the world of animals, when all rema
 
 So when the seven streamed Nile from oozy fields returned duly to her ancient bed, the sun's ethereal rays impregn the slime, that haply as the peasants turn the soil they find strange animals unknown before:
 
-some in the moment of their birth, and some
-deprived of limbs, imperfect; often part
-alive and part of slime inanimate
-are fashioned in one body. Heat combined
-with moisture so conceives and life results
-from these two things. 
+Some in the moment of their birth, and some deprived of limbs, imperfect; often part alive and part of slime inanimate are fashioned in one body. 
 
-The flames may be the foes of water. Yet everything that lives
-begins in humid vapour, and it seems
-discordant concord is the means of life.
+Heat combined with moisture so conceives and life results from these two things. 
 
-When Earth, spread over with diluvian ooze, felt heat ethereal from the glowing sun,
-unnumbered species to the light she gave,
-and gave to being many an ancient form,
-or monster new created. 
+The flames may be the foes of water. Yet everything that lives begins in humid vapour, and it seems discordant concord is the means of life.
+
+When Earth, spread over with diluvian ooze, felt heat ethereal from the glowing sun, unnumbered species to the light she gave, and gave to being many an ancient form, or monster new created. 
 
 Unwilling she created thus enormous Python.
 
-Thou unheard of serpent spread so far athwart the side of a vast mountain, didst fill with fear
-the race of new created man. 
+Thou unheard of serpent spread so far athwart the side of a vast mountain, didst fill with fear the race of new created man. 
 
-The God that bears the bow (a weapon used till then only to hunt the deer and agile goat)
-destroyed the monster with a myriad darts,
-and almost emptied all his quiver, till
-envenomed gore oozed forth from livid wounds.
+The God that bears the bow (a weapon used till then only to hunt the deer and agile goat) destroyed the monster with a myriad darts, and almost emptied all his quiver, till envenomed gore oozed forth from livid wounds.
 
-Lest in a dark oblivion time should hide
-the fame of this achievement, sacred sports
-he instituted, from the Python called
-“The Pythian Games.” 
+Lest in a dark oblivion time should hide the fame of this achievement, sacred sports he instituted, from the Python called “The Pythian Games.” 
 
-In these the happy youth who proved victorious in the chariot race, running and boxing, with an honoured crown
-of oak leaves was enwreathed. The laurel then 
-was not created, wherefore Phoebus, bright
-and godlike, beauteous with his flowing hair,
-was wont to wreathe his brows with various leaves.
+In these the happy youth who proved victorious in the chariot race, running and boxing, with an honoured crown of oak leaves was enwreathed. 
+
+The laurel then  was not created, wherefore Phoebus, bright and godlike, beauteous with his flowing hair, was wont to wreathe his brows with various leaves.
 
 
 ## Daphne And Phoebus
 
 Daphne was the daughter of a River God and was first beloved by Phoebus, the great God of glorious light. 
+ 
+'Twas not a cause of chance but out of Cupid's vengeful spite that she was fated to torment the lord of light.
 
-'Twas not a cause of chance
-but out of Cupid's vengeful spite that she
-was fated to torment the lord of light.
-For Phoebus, proud of Python's death, beheld
-that impish god of Love upon a time
-when he was bending his diminished bow,
-and voicing his contempt in anger said;
-“What, wanton boy, are mighty arms to thee,
-great weapons suited to the needs of war?
+For Phoebus, proud of Python's death, beheld that impish god of Love upon a time when he was bending his diminished bow,
+and voicing his contempt in anger said; 
+
+“What, wanton boy, are mighty arms to thee, great weapons suited to the needs of war?
 
 The bow is only for the use of those
 large deities of heaven whose strength may deal
 wounds, mortal, to the savage beasts of prey;
 and who courageous overcome their foes.—
+
 it is a proper weapon to the use
 of such as slew with arrows Python, huge,
 whose pestilential carcase vast extent
@@ -73,14 +54,18 @@ covered. Content thee with the flames thy torch
 enkindles (fires too subtle for my thought)
 and leave to me the glory that is mine.”
 to him, undaunted, Venus, son replied;
+
 “O Phoebus, thou canst conquer all the world
 with thy strong bow and arrows, but with this
 small arrow I shall pierce thy vaunting breast!
 And by the measure that thy might exceeds
 the broken powers of thy defeated foes,
-so is thy glory less than mine.” No more
+so is thy glory less than mine.” 
+
+No more
 he said, but with his wings expanded thence
 flew lightly to Parnassus, lofty peak.
+
 There, from his quiver he plucked arrows twain,
 most curiously wrought of different art;
 one love exciting, one repelling love.
@@ -106,8 +91,9 @@ my daughter, I have wished a son in law,
 and now you owe a grandchild to the joy
 of my old age.” But Daphne only hung
 her head to hide her shame. The nuptial torch
-seemed criminal to her. She even clung,
-caressing, with her arms around his neck,
+seemed criminal to her. 
+
+She even clung, caressing, with her arms around his neck,
 and pled, “My dearest father let me live
 a virgin always, for remember Jove
 did grant it to Diana at her birth.”
@@ -117,8 +103,9 @@ her loveliness prevailed against their will;
 for, Phoebus when he saw her waxed distraught,
 and filled with wonder his sick fancy raised
 delusive hopes, and his own oracles
-deceived him.—As the stubble in the field
-flares up, or as the stacked wheat is consumed
+deceived him.—
+
+As the stubble in the field flares up, or as the stacked wheat is consumed
 by flames, enkindled from a spark or torch
 the chance pedestrian may neglect at dawn;
 so was the bosom of the god consumed,
@@ -132,9 +119,9 @@ and fingers and her arms; her shoulders white
 as ivory;—and whatever was not seen
 more beautiful must be.
 
-Swift as the wind
-from his pursuing feet the virgin fled,
+Swift as the wind from his pursuing feet the virgin fled,
 and neither stopped nor heeded as he called;
+
 “O Nymph! O Daphne! I entreat thee stay,
 it is no enemy that follows thee—
 why, so the lamb leaps from the raging wolf,
@@ -142,9 +129,11 @@ and from the lion runs the timid faun,
 and from the eagle flies the trembling dove,
 all hasten from their natural enemy
 but I alone pursue for my dear love.
+
 Alas, if thou shouldst fall and mar thy face,
 or tear upon the bramble thy soft thighs,
 or should I prove unwilling cause of pain!
+
 “The wilderness is rough and dangerous,
 and I beseech thee be more careful—I
 will follow slowly.—Ask of whom thou wilt,
@@ -153,6 +142,7 @@ I am no mountain dweller of rude caves,
 nor clown compelled to watch the sheep and goats;
 and neither canst thou know from whom thy feet
 fly fearful, or thou wouldst not leave me thus.
+
 “The Delphic Land, the Pataraean Realm,
 Claros and Tenedos revere my name,
 and my immortal sire is Jupiter.
@@ -329,23 +319,16 @@ She raised her arms to Heaven, and gazing full
 upon the broad sun said; “I swear to you
 by yonder orb, so radiant and bright,
 which both beholds and hears us while we speak,
-that you are his begotten son.—You are
-the child of that great light which sways the world:
-and if I have not spoken what is true,
-let not mine eyes behold his countenance,
-and let this fatal moment be the last
-that I shall look upon the light of day!
-Nor will it weary you, my son, to reach
-your father's dwelling; for the very place
-where he appears at dawn is near our land.
+that you are his begotten son.
+
+You are the child of that great light which sways the world: and if I have not spoken what is true, let not mine eyes behold his countenance, and let this fatal moment be the last that I shall look upon the light of day! 
+
+Nor will it weary you, my son, to reach your father's dwelling; for the very place where he appears at dawn is near our land.
 Go, if it please you, and the very truth
 learn from your father.” 
 
-Instantly sprang forth exultant Phaethon. Overjoyed with words
-so welcome, he imagined he could leap
-and touch the skies. 
+Instantly sprang forth exultant Phaethon. 
 
-And so he passed his land
-of Ethiopia, and the Indies, hot
-beneath the tawny sun, and there he turned
-his footsteps to his father's Land of Dawn.
+Overjoyed with words so welcome, he imagined he could leap and touch the skies. 
+
+And so he passed his land of Ethiopia, and the Indies, hot beneath the tawny sun, and there he turned his footsteps to his father's Land of Dawn.

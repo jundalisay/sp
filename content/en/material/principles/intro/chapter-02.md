@@ -99,7 +99,7 @@ In the Spatial Layer, this manifests as:
 
 
 In the Radiant Layer, this manifests as:
-- a male charge for the positive charge in Physics, and female charge for the negative charge
+- a male charge for the negative charge in Physics, and female charge for the positive charge
 - particle spin 0 and 1, versus 1/2, 3/2, 5/2
 
 

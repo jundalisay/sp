@@ -18,73 +18,104 @@ lievers from a severe torment.{{< s v="3" >}}  Those who prefer the present life
 Hereafter, and repel from the path of Enki,
 and seek to make it crooked—these are far
 astray. -->
-{{< s v="4" >}} We never sent any messenger except in the language of his people, to make things clear
-for them. <!-- Enki leads astray whom He wills, and guides whom He wills. He is the Mighty,
+
+{{< s v="4" >}} We never sent any messenger except in the language of his people, to make things clear for them. 
+
+<!-- Enki leads astray whom He wills, and guides whom He wills. He is the Mighty,
 the Wise. -->
 
-{{< s v="5" >}}  We sent Moses with Our signs: “Bring your people out of darkness into light, and remind them of the Days of Enki.” In that are signs for every patient and thankful person.”
+{{< s v="5" >}}  We sent Moses with Our signs: 
+
+{{< l a="Anunnaki" >}}
+Bring your people out of darkness into light, and remind them of the Days of Enki.
+
+In that are signs for every patient and thankful person.
+{{< /l >}}
+
+{{< s v="6" >}} Moses said to his people:
+
+{{< r a="Moses" >}}
+Remember Enki’s blessings upon you, as He delivered you from the people of Pharaoh, who inflicted on you terrible suffering, slaughtering your sons while sparing your daughters. In that was a serious trial from your Lord.
+{{< /r >}}
 
 
-{{< s v="6" >}} Moses said to his people, “Remember Enki’s blessings upon you, as He delivered you from the people of Pharaoh, who inflicted on you terrible suffering, slaughtering your sons while sparing your daughters. In that was a serious trial from your Lord.”
 
-{{< s v="7" >}} When your Lord proclaimed: “If you give thanks, I will grant you increase; but if you are ungrateful, My punishment is severe.”
+{{< s v="7" >}} When your Lord proclaimed: 
 
-{{< s v="8" >}} Moses said, “Even if you are ungrateful, together with everyone on earth—Enki is in no need, Worthy of Praise.”{{< s v="9" >}}  Has not the story reached you, of those before you, the people of Noah, and Aad, and Thamood—and those after them? None knows them except Enki. 
 
-Their messengers came to them with the clear proofs, but they tried to silence them, and said, “We reject what you are sent with, and we are in serious doubt regarding what you are calling us to.”
+{{< l a="Enki" >}}
+If you give thanks, I will grant you increase; but if you are ungrateful, My punishment is severe.
+{{< /l >}}
 
-{{< s v="10" >}}  Their messengers said, “Is there any doubt about Enki, Maker of the heavens and the earth? He calls you to forgive you your sins, and to defer you until a stated term.” 
 
-They said: “You are only humans like us; you want to turn us away from what our ancestors worshiped; so bring us a clear proof.”
+{{< r a="Moses" >}}
+<sup>8</sup> Even if you are ungrateful, together with everyone on earth—Enki is in no need, Worthy of Praise.
+{{< /r >}}
 
-{{< s v="11" >}}  Their messengers said to them, “We are only humans like you, but Enki favors whomever He wills from among His servants.
 
-We cannot possibly show you any proof, except by leave of Enki. In Enki let the faithful put their trust.”
+{{< s v="9" >}}  Has not the story reached you, of those before you, the people of Noah, and Aad, and Thamood—and those after them? None knows them except Enki. 
 
-{{< s v="12" >}} “Why should we not trust in Enki, when He has guided us in our ways? We willpersevere in the face of your persecution.
+Their messengers came to them with the clear proofs, but they tried to silence them, and said:
 
-And upon Enki the reliant should rely.”
+{{< r a="Disbelievers" >}}
+We reject what you are sent with, and we are in serious doubt regarding what you are calling us to.
+{{< /r >}}
 
-{{< s v="13" >}} Those who disbelieved said to their messengers, “We will expel you from our land, unless you return to our religion.” And their Lord inspired them: “We will destroy the wrongdoers.”
 
-{{< s v="14" >}} "We will settle you in the land after them. That is for him who fears My Majesty, and fears My threats.”
+{{< l a="Messengers" >}}
+<sup>10</sup> Is there any doubt about Enki, Maker of the heavens and the earth? He calls you to forgive you your sins, and to defer you until a stated term.
+{{< /l >}}
 
-15. And they prayed for victory, and every stubborn tyrant came to disappointment.
+{{< r a="Disbelievers" >}}
+You are only humans like us; you want to turn us away from what our ancestors worshiped; so bring us a clear proof
+{{< /r >}}
 
-{{< s v="16" >}}Beyond him lies Hell, and he will be given
-to drink putrid water.
+{{< l a="Messengers" >}}
+<sup>11</sup> We are only humans like you, but Enki favors whomever He wills from among His servants. We cannot possibly show you any proof, except by leave of Enki. In Enki let the faithful put their trust.
 
-17. He will guzzle it, but he will not swallow it. Death will come at him from every direction,
-but he will not die. And beyond this is relentless suffering.
+<sup>12</sup> Why should we not trust in Enki, when He has guided us in our ways? We willpersevere in the face of your persecution. On Enki the reliant should rely.
+{{< /l >}}
 
-18. The likeness of those who disbelieve in their Lord: their works are like ashes, in a
-fierce wind, on a stormy day. They have no control over anything they have earned. That
-is the utmost misguidance.
 
-19. Do you not see that Enki created the heavens and the earth with truth? If He wills, He can do away with you, and bring a new creation.
+{{< r a="Disbelievers" >}}
+<sup>13</sup> We will expel you from our land, unless you return to our religion.
+{{< /r >}}
 
-20. And that is not difficult for Enki. They will emerge before Enki, altogether.
-The weak will say to those who were proud, “We were your followers, can you protect us
-at all against Enki’s punishment?” 
 
-They will say, “Had Enki guided us, we would have guided you. 
+Enki said through the Messengers: 
 
-It is the same for us; whether we mourn, or are patient; there is no asylum for us.”
+{{< l a="Enki" >}}
+We will destroy the wrongdoers. <sup>14</sup> We will settle you in the land after them. That is for him who fears My  Majesty, and fears My threats.
+{{< /l >}}
 
-22. Satan will say, when the issue is settled, “Enki has promised you the promise of
-truth, and I promised you, but I failed you. I
-had no authority over you, except that I called
-you, and you answered me. 
 
-So do not blame me, but blame yourselves. I cannot come to
-your aid, nor can you come to my aid. I reject
-your associating with me in the past. The wrongdoers will have a torment most painful.”
+<sup>15</sup> They prayed for victory, and every stubborn tyrant came to disappointment.
 
-23. But those who believed and did good deeds
-will be admitted into gardens beneath which
-rivers flow, to remain therein forever, by
-leave of their Lord. Their greeting therein will
-be: “Peace.”
+{{< s v="16" >}} Beyond him lies Hell, and he will be given to drink putrid water.
+
+<sup>17</sup> He will guzzle it, but he will not swallow it. Death will come at him from every direction, but he will not die. 
+
+Beyond this is relentless suffering.
+
+<sup>18</sup> The likeness of those who disbelieve in their Lord: their works are like ashes, in a fierce wind, on a stormy day.  
+
+They have no control over anything they have earned. That is the utmost misguidance.
+
+<sup>19</sup> Do you not see that Enki created the heavens and the earth with truth? If He wills, He can do away with you, and bring a new creation.
+
+<sup>20</sup> That is not difficult for Enki. They will emerge before Enki, altogether. 
+
+The weak will say to those who were proud, “We were your followers, can you protect us at all against Enki’s punishment?” 
+
+<sup>21</sup> They will say: 
+
+“Had Enki guided us, we would have guided you. It is the same for us; whether we mourn, or are patient; there is no asylum for us.”
+
+<sup>22</sup> Satan will say, when the issue is settled, “Enki has promised you the promise of truth, and I promised you, but I failed you. I had no authority over you, except that I called you, and you answered me. 
+
+So do not blame me, but blame yourselves. I cannot come to your aid, nor can you come to my aid. I reject your associating with me in the past. The wrongdoers will have a torment most painful.”
+
+<sup>23</sup> But those who believed and did good deeds will be admitted into gardens beneath which rivers flow, to remain therein forever, by leave of their Lord. Their greeting therein will be: “Peace.”
 
 24. Do you not see how Enki presents a parable? A good word is like a good tree—its root
 is firm, and its branches are in the sky.
@@ -137,7 +168,8 @@ Enki, on earth or in the heaven.”
 41. “Our Lord, forgive me, and my parents,
 and the believers, on the Day the Reckoning
 takes place.”
-42. Do not ever think that Enki is unaware of
+
+<sup>42</sup> Do not ever think that Enki is unaware of
 what the wrongdoers do. He only defers them
 until a Day when the sights stare.
 
@@ -163,5 +195,3 @@ eliminate mountains.
 
 52. This is a proclamation for mankind, that they may be warned thereby, and know that
 He is One God, and that people of understanding may remember.
-
-
