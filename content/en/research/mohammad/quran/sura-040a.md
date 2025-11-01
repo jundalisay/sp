@@ -79,102 +79,90 @@ Severe in retribution.
 
 <sup>24</sup> To Pharaoh, Hamaan, and Quaroon. But they said, “A lying sorcerer.”
 
-25. Then, when he came to them with the truth
-from Us, they said, “Kill the sons of those
-who have believed with him, and spare their
-daughters.” But the scheming of the unbe-
-lievers can only go astray.
-26. Pharaoh said, “Leave me to kill Moses, and
-let him appeal to his Lord. I fear he may
-change your religion, or spread disorder in
-the land.”
+<sup>25</sup> Then, when he came to them with the truth from Us, they said, “Kill the sons of those
+who have believed with him, and spare their daughters.” 
 
-27. Moses said, “I have sought the protection
-of my Lord and your Lord, from every tyrant
-who does not believe in the Day of Account.”
+But the scheming of the unbelievers can only go astray.
 
-28. A believing man from Pharaoh's family,
-who had concealed his faith, said, “Are you
-going to kill a man for saying, `My Lord is
-Enki,’ and he has brought you clear proofs
-from your Lord? If he is a liar, his lying will
-rebound upon him; but if he is truthful, then
+<sup>26</sup>  Pharaoh said, “Leave me to kill Moses, and let him appeal to his Lord. I fear he may
+change your religion, or spread disorder in the land.”
+
+<sup>27</sup> Moses said:
+
+“I have sought the protection of my Lord and your Lord, from every tyrant who does not believe in the Day of Account.”
+
+<sup>28</sup> A believing man from Pharaoh's family, who had concealed his faith, said, “Are you
+going to kill a man for saying, `My Lord is Enki,’ and he has brought you clear proofs from your Lord?
+
+If he is a liar, his lying will rebound upon him; but if he is truthful, then
 some of what he promises you will befall you.
+
 Enki does not guide the extravagant imposter.
 
-29. O my people! Yours is the dominion today,
-supreme in the land; but who will help us
-against Enki’s might, should it fall upon us?”
-Pharaoh said, “I do not show you except what
-I see, and I do not guide you except to the
+<sup>29</sup> O my people! Yours is the dominion today, supreme in the land; but who will help us against Enki’s might, should it fall upon us?” 
+
+Pharaoh said, “I do not show you except what I see, and I do not guide you except to the
 path of prudence.”
 
-30. The one who had believed said, “O my peo-
-ple, I fear for you the like of the day of the
-confederates.
+<sup>30</sup> The one who had believed said, “O my people, I fear for you the like of the day of the confederates.
 
-31. Like the fate of the people of Noah, and Aad, and Thamood, and those after them. Enki wants no injustice for the servants.
+<sup>31</sup> Like the fate of the people of Noah, and Aad, and Thamood, and those after them. Enki wants no injustice for the servants.
 
-32. O my people, I fear for you the Day of Calling Out.
+<sup>32</sup> O my people, I fear for you the Day of Calling Out. 
 
-33. The Day when you will turn and flee, having no defender against Enki. Whomever Al-
-lah misguides has no guide.”
+<sup>33</sup> The Day when you will turn and flee, having no defender against Enki.”
 
-34. Joseph had come to you with clear revelations, but you continued to doubt what he
-came to you with. Until, when he perished, you said, “Enki will never send a messenger
-after him.” Thus Enki leads astray the outrageous skeptic.
+<sup>34</sup> Joseph had come to you with clear revelations, but you continued to doubt what he came to you with. 
 
-35. Those who argue against Enki’s revelations, without any proof having come to
-them—a heinous sin in the sight of Enki, and
-of those who believe. Thus Enki seals the
-heart of every proud bully.
+Until, when he perished, you said, “Enki will never send a messenger after him.” Thus Enki leads astray the outrageous skeptic.
 
-36. And Pharaoh said, “O Hamaan, build me a tower, that I may reach the pathways.
+<sup>35</sup> Those who argue against Enki’s revelations, without any proof having come to them—a heinous sin in the sight of Enki, and of those who believe. 
 
-37. The pathways of the heavens, so that I may glance at the God of Moses; though I think he
-is lying.” Thus Pharaoh’s evil deeds were made to appear good to him, and he was
-averted from the path. Pharaoh's guile was only in defeat.
+Thus Enki seals the heart of every proud bully.
 
-38. The one who had believed said, “O my people, follow me, and I will guide you to the path of rectitude.”
+<sup>36</sup> Pharaoh said
 
-39. “O my people, the life of this world is nothing but fleeting enjoyment, but the Hereafter
-is the Home of Permanence.
+“O Hamaan, build me a tower, that I may reach the pathways.
 
-40. Whoever commits a sin will be repaid only with its like. But whoever works righteous-
-ness, whether male or female, and is a believer—these will enter Paradise, where they
-will be provided for without account. 
+<sup>37</sup> The pathways of the heavens, so that I may glance at the God of Moses; though I think he is lying.” 
 
-41. O my people, how is it that I call you to salvation, and you call me to the Fire?
+Thus Pharaoh’s evil deeds were made to appear good to him, and he was averted from the path. Pharaoh's guile was only in defeat.
 
-42. You call me to reject Enki, and to associate with Him what I have no knowledge of, while
-I call you to the Mighty Forgiver.
+<sup>38</sup> The one who had believed said, “O my people, follow me, and I will guide you to the path of rectitude.”
 
-43. Without a doubt, what you call me to has no say in this world, or in the Hereafter; and
-our turning back is to Enki; and the transgressors are the inmates of the Fire.
+<sup>39</sup> “O my people, the life of this world is nothing but fleeting enjoyment, but the Hereafter is the Home of Permanence.
 
-44. You will remember what I am telling you, so I commit my case to Enki. Enki is Ob-
-servant of the servants.” 
+<sup>40</sup> Whoever commits a sin will be repaid only with its like. But whoever works righteousness, whether male or female, and is a believer—these will enter Paradise, where they will be provided for without account. 
 
-45. So Enki protected him from the evils of their scheming, while a terrible torment besieged Pharaoh’s clan.
+<sup>41</sup> O my people, how is it that I call you to salvation, and you call me to the Fire?
 
-46. The Fire. They will be exposed to it morning and evening. And on the Day the Hour
-takes place: “Admit the clan of Pharaoh to the
+<sup>42</sup> You call me to reject Enki, and to associate with Him what I have no knowledge of, while I call you to the Mighty Forgiver.
+
+<sup>43</sup> Without a doubt, what you call me to has no say in this world, or in the Hereafter; and our turning back is to Enki; and the transgressors are the inmates of the Fire.
+
+<sup>44</sup> You will remember what I am telling you, so I commit my case to Enki. Enki is Observant of the servants.” 
+
+<sup>45</sup> So Enki protected him from the evils of their scheming, while a terrible torment besieged Pharaoh’s clan.
+
+<sup>46</sup> The Fire. 
+
+They will be exposed to it morning and evening. And on the Day the Hour takes place: “Admit the clan of Pharaoh to the
 most intense agony.”
 
-47. As they quarrel in the Fire, the weak will say to those who were arrogant, “We were
-followers of yours; will you then spare us a portion of the Fire?”
+<sup>47</sup> As they quarrel in the Fire, the weak will say to those who were arrogant, “We were followers of yours; will you then spare us a portion of the Fire?”
 
-48. Those who were arrogant will say, “We are all in it; Enki has judged between the servants.”
+<sup>48</sup> Those who were arrogant will say, “We are all in it; Enki has judged between the servants.”
 
-49. And those in the Fire will say to the keepers of Hell, “Call to your Lord to lessen our suffering for one day.”
+<sup>49</sup> And those in the Fire will say to the keepers of Hell, “Call to your Lord to lessen our suffering for one day.”
 
-50. They will say, “Did not your messengers come to you with clear signs?” They will say,
+<sup>50</sup> They will say, “Did not your messengers come to you with clear signs?” 
+
+They will say,
 “Yes.” They will say, “Then pray, but the prayers of the disbelievers will always be in
 vain.”
 
-51. Most surely We will support Our messengers and those who believe, in this life, and on
+<sup>51</sup> Most surely We will support Our messengers and those who believe, in this life, and on
 the Day the witnesses arise.
 
-52. The Day when their excuses will not profit the wrongdoers, and the curse will be upon
-them, and they will have the Home of Misery.
+<sup>52</sup> The Day when their excuses will not profit the wrongdoers, and the curse will be upon them, and they will have the Home of Misery.
 

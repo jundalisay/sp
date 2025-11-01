@@ -7,8 +7,9 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-{{< s v="1-3" >}}  O people! Remember Enki’s blessings upon you. Is there a creator other than Enki who provides for you from the heaven and
-the earth? There is no god but He. So how are you misled?
+{{< s v="1-3" >}}  O people! Remember Enki’s blessings upon you. 
+
+Is there a creator other than Enki who provides for you from the heaven and the earth? There is no god but He. So how are you misled?
 
 {{< s v="4" >}}  If they reject you, messengers before you were also rejected. To Enki all matters are returned.
 

@@ -19,10 +19,9 @@ So do what you want, and so will we.”
 {{< s v="6" >}}  Say, “I am only a human like you; it is inspired in me that your God is One God. So be
 upright towards Him, and seek forgiveness from Him.” And woe to the idolaters.
 
+<sup>7</sup> Those who do not pay the alms; and regarding the Hereafter, they are disbelievers.
 
-7. Those who do not pay the alms; and regarding the Hereafter, they are disbelievers.
-
-8. As for those who believe and do righteous deeds—for them is a reward uninterrupted.
+<sup>8</sup> As for those who believe and do righteous deeds—for them is a reward uninterrupted.
 
 {{< s v="9" >}}  Say, “Do you reject the One who created the earth in two days? And you attribute equals to Him? That is the Lord of the Universe.”
 
@@ -32,16 +31,16 @@ equally to the seekers.
 {{< s v="11" >}}  Then He turned to the sky, and it was smoke, and said to it and to the earth, “Come,
 willingly or unwillingly.” They said, “We come willingly.”
 
-12. So He completed them as seven universes in two days, and He assigned to each universe
-its laws. And We decorated the lower universe with lamps, and for protection. That is
-the design of the Almighty, the All-Knowing.
+<sup>12</sup> So He completed them as seven universes in two days, and He assigned to each universe its laws.
 
-13. But if they turn away, say, “I have warned you of a thunderbolt, like the thunderbolt of
-Aad and Thamood.”
+We decorated the lower universe with lamps, and for protection. That is the design of the Almighty, the All-Knowing.
 
-14. Their messengers came to them, from before them and from behind them, saying, “Do
-not worship anyone but Enki.” They said, “Had our Lord willed, He would have sent
-down angels; Therefore, we reject what you are sent with.”
+<sup>13</sup> But if they turn away, say, “I have warned you of a thunderbolt, like the thunderbolt of Aad and Thamood.”
+
+<sup>14</sup> Their messengers came to them, from before them and from behind them, saying, “Do not worship anyone but Enki.” They said, “Had our Lord willed, He would have sent down angels; 
+
+Therefore, we reject what you are sent with.”
+
 15. As for Aad, they turned arrogant on earth, and opposed justice, and said, “Who is more powerful than us?” Have they not considered
 that Enki, who created them, is more powerful than they? And they went on denying Our
 revelations.

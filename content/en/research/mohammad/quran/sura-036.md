@@ -9,11 +9,11 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="1-3" >}}  You {{< s v="4" >}} are one of the messengers. a straight path.
 
-<sup>6.</sup> To warn a people whose ancestors were not warned, and so they are unaware.
+<sup>6</sup> To warn a people whose ancestors were not warned, and so they are unaware.
 
-<sup>7.</sup> The Word was realized against most of them, for they do not believe.
+<sup>7</sup> The Word was realized against most of them, for they do not believe.
 
-<sup>8.</sup> We placed shackles around their necks, up to their chins, so they are stiff-necked. {{< s v="9" >}} We placed a barrier in front of them, and a barrier behind them, and We have enshrouded them, so they cannot see.
+<sup>8</sup> We placed shackles around their necks, up to their chins, so they are stiff-necked. {{< s v="9" >}} We placed a barrier in front of them, and a barrier behind them, and We have enshrouded them, so they cannot see.
 
 {{< s v="10" >}}  It is the same for them, whether you warn them, or do not warn them—they will not believe. {{< s v="11" >}}  You warn only him who follows the Message, and fears the Most Gracious inwardly.
 
@@ -87,4 +87,3 @@ Alas for the servants. No messenger ever came to them, but they ridiculed him.
 <sup>35-36</sup> That they may eat from its fruits, although their hands did not make it. Will they not be appreciative?
 
 <!-- <sup>36</sup> Glory be to Him who created all the pairs; of what the earth produces, and of their own selves, and of what they do not know. -->
-

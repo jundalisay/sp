@@ -17,74 +17,60 @@ Two questions have been raised in political economy:
 1. Is the public interested in the cultivation of science in all its branches?
 2. Is it necessary, that the public should spend to teach those branches?
 
-Whatever be the position of man in society, he is in constant dependence upon the three kingdoms of nature. His food, his
-clothing, his medicines, every object either of business or of
-pleasure, is subject to fixed laws; and the better those laws
-are understood, the more benefit will accrue to society. 
+Whatever be the position of man in society, he is in constant dependence upon the three kingdoms of nature. His food, his clothing, his medicines, every object either of business or of pleasure, is subject to fixed laws.
 
-Every individual, from the common mechanic, that works in wood
-or clay, to the prime minister that regulates with the dash of
-his pen the agriculture, the breeding of cattle, the mining, or
-the commerce of a nation, will perform his business the bet-
-ter, the better he understands the nature of things, and the
-more his understanding is enlightened.
+The better those laws are understood, the more benefit will accrue to society. 
 
-For this reason, every advance of science is followed by an
-increase of social happiness. A new application of the lever,
-or of the power of wind or water, or even a method of reducing the friction of bodies, will, perhaps, have an influence on
-twenty different arts. An uniformity of weights and measures,
-arranged upon mathematical principles, would be a benefit
-to the whole commercial world, if it were wise enough to
-adopt such an expedient. 
+Every individual, from the common mechanic, that works in wood or clay, to the prime minister that regulates with the dash of his pen the agriculture, the breeding of cattle, the mining, or the commerce of a nation, will perform his business the better, the better he understands the nature of things, and the more his understanding is enlightened.
 
-An important discovery in astronomy or geology may possibly afford the means of ascertaining the
-longitude at sea with precision, which would be an immense
-advantage to navigation all over the world. The naturalisation
-in Europe of a new botanical genus or species might possibly
-influence the comfort of many millions of individuals. 50
-231Jean-Baptise Say, A Treatise on Political Economy
+For this reason, every advance of science is followed by an increase of social happiness. A new application of the lever, or of the power of wind or water, or even a method of reducing the friction of bodies, will, perhaps, have an influence on twenty different arts. 
+
+An uniformity of weights and measures, arranged upon mathematical principles, would be a benefit to the whole commercial world, if it were wise enough to adopt such an expedient. 
+
+An important discovery in astronomy or geology may possibly afford the means of ascertaining the longitude at sea with precision, which would be an immense advantage to navigation all over the world. 
+
+The naturalisation in Europe of a new botanical genus or species might possibly
+influence the comfort of many millions of individuals.
+
+
 comparative merit, there is much unfairness to be apprehended
 from the esprit de corps of such communities.
-Among the numerous classes of science, theoretical and prac-
-tical, which it is the interest of the public to advance and
-promote, there are fortunately many, that individuals have a
-personal interest in pursuing, and which the public, there-
-fore, is not called upon to pay the expense of teaching. Every
-adventurer in any branch of industry is urged most strongly
+
+Among the numerous classes of science, theoretical and practical, which it is the interest of the public to advance and
+promote, there are fortunately many, that individuals have a personal interest in pursuing, and which the public, therefore, is not called upon to pay the expense of teaching. 
+
+Every adventurer in any branch of industry is urged most strongly
 by self-interest to learn his business and whatever concerns
 it. The journeyman gains in his apprenticeship, besides manual
 dexterity, a variety of notions and ideas only to be learnt in
 the work-shop, and which can be no otherwise recompensed,
 than by the wages he will receive.
+
 Encouragement may, with perfect safety, be held out to a mode
 of instruction of no small efficacy; I mean, the composition
 of good elementary 53 works. The reputation and profit of a
 good book in this class do not indemnify the labour, science,
 and skill, requisite to its composition. 54 A man must be a fool
 to serve the public in this line where the natural profit is so
-little proportioned to the benefit derived to the public. The
-want of good elementary books will never be thoroughly sup-
-plied, until the public shall hold out temptations, sufficiently
-ample to engage first-rate talents in their composition. It does
+little proportioned to the benefit derived to the public. 
+
+The want of good elementary books will never be thoroughly supplied, until the public shall hold out temptations, sufficiently ample to engage first-rate talents in their composition. It does
 not answer to employ particular individuals for the express
 purpose; for the man of most talents will not always succeed
 the best= nor to offer specific premiums; for they are often
-bestowed on very imperfect productions, and the encourage-
-ment ceases the moment the premium is awarded. But merit
+bestowed on very imperfect productions, and the encouragement ceases the moment the premium is awarded. But merit
 in this kind should be paid proportionately to its degree, and
-always liberally. A good work will thus be sure to be super-
-seded by a better, till perfection is at last attained in each
+always liberally. 
+
+A good work will thus be sure to be superseded by a better, till perfection is at last attained in each
 class. 
 
-There is no great expense incurred by liberally rewarding excellence; for it must
-always be extremely rare; and what is a great sum to an indi-
-vidual, is a small matter to the pockets of a nation.
+There is no great expense incurred by liberally rewarding excellence; for it must always be extremely rare; and what is a great sum to an individual, is a small matter to the pockets of a nation.
 
-But it is not every degree or class of knowledge, that yields a benefit to the individual, equivalent to that accruing to the
-public. In treating above 51 of the profits of the man of science, I have shown the reason, why his talents are not ad-
-equately remunerated; yet theoretical is quite as useful to society as practical knowledge; for how could science ever be
-applied to the practical utility of mankind, unless it were discovered and preserved by the theorist? It would rapidly de-
-generate into mere mechanical habit, which must soon decline; and the downfall of the arts would pave the way for the
+But it is not every degree or class of knowledge, that yields a benefit to the individual, equivalent to that accruing to the public.
+
+In treating above 51 of the profits of the man of science, I have shown the reason, why his talents are not adequately remunerated; yet theoretical is quite as useful to society as practical knowledge; for how could science ever be
+applied to the practical utility of mankind, unless it were discovered and preserved by the theorist? It would rapidly degenerate into mere mechanical habit, which must soon decline; and the downfall of the arts would pave the way for the
 return of ignorance and barbarism.
 
 In every country that can at all appreciate the benefits to be derived from the enlargement of human faculties, it has been
@@ -96,21 +82,13 @@ But it requires some skill in the management, to prevent such establishments fro
 progress of knowledge, and as an obstruction rather than as
 an avenue to the improvement of education. 
 
-Long before the revolution, it had become notorious, that most of our French
-universities had been thus perverted from the intention of their
-founders. All the principal discoveries were made elsewhere;
-and most of them had to encounter the weight of their influ-
-ence over the rising generation and credit with men in power. 52
-These are the kinds of instruction most calculated to promote
-national wealth, and most likely to retrograde, if not in some
-measure supported by the public. There are others, which are
-essential to the softening of national manners, and stand yet
-more in need of that support.
+Long before the revolution, it had become notorious, that most of our French universities had been thus perverted from the intention of their founders. 
 
-When the useful arts have arrived at a high degree of perfection, and labour has been very generally and minutely subdi-
-vided, the occupation of the lowest classes of labourers is reduced to one or two operations, for the most part simple in
-themselves, and continually repeated= to these their whole thought and attention are directed; and from them they are
-seldom diverted by any novel or unforeseen occurrence= their
+All the principal discoveries were made elsewhere and most of them had to encounter the weight of their influence over the rising generation and credit with men in power. 52
+
+These are the kinds of instruction most calculated to promote national wealth, and most likely to retrograde, if not in some measure supported by the public. There are others, which are essential to the softening of national manners, and stand yet more in need of that support.
+
+When the useful arts have arrived at a high degree of perfection, and labour has been very generally and minutely subdivided, the occupation of the lowest classes of labourers is reduced to one or two operations, for the most part simple in themselves, and continually repeated= to these their whole thought and attention are directed; and from them they are seldom diverted by any novel or unforeseen occurrence= their
 intellectual faculties, being rarely or never called into play,
 must of course be degraded and brutified, and themselves rendered incapable of uttering two words of common sense
 out of their peculiar line of business, and utterly devoid of
@@ -118,10 +96,9 @@ any generous ideas or elevated notions.
 
 Elevation of mind is generated by enlarged views of men and things, and can never
 exist in a being incapable of conceiving the general bearings
-and connexions of objects. A plodding mechanic can con-
-ceive no connexion between the inviolability of property and
-public prosperity, or how he can be more interested in that
-prosperity, than his more wealthy neighbour; but is apt to
+and connexions of objects. 
+
+A plodding mechanic can conceive no connexion between the inviolability of property and public prosperity, or how he can be more interested in that prosperity, than his more wealthy neighbour; but is apt to
 consider all these important benefits as so many encroach-
 ments on his rights and happiness. 
 
@@ -132,26 +109,19 @@ trust them with any discretionary control.
 If a candidate presents himself for examination, he must not be referred to teach-
 ers, who are at the same time judges and interested parties,
 sure to think well of their own scholars, and ill of those of
-every body else. The merit of the candidate should alone de-
-cide, and not the place where he happens to have studied, nor
-the length of his probation; for to oblige a student in any sci-
-ence, medicine for instance, to learn it at a particular place,
+every body else. 
+
+The merit of the candidate should alone decide, and not the place where he happens to have studied, nor the length of his probation; for to oblige a student in any science, medicine for instance, to learn it at a particular place,
 is, possibly, to prevent his learning it better elsewhere; and,
-to prescribe any fixed routine of study, is, possibly, to pre-
-vent his fixing a shorter road. Moreover, in deciding upon
+to prescribe any fixed routine of study, is, possibly, to prevent his fixing a shorter road. Moreover, in deciding upon
 
-retrograde, until it reached the confines of barbarism, before
-individuals had observed the operating cause of its decline.
-with persons of his own condition, will open his mind to these
-conceptions, as well as introduce a little more delicacy of
-feeling into his conduct, as a father, a husband, a brother, or a citizen.
+retrograde, until it reached the confines of barbarism, before individuals had observed the operating cause of its decline.
 
-I would not be understood to find fault with public establish-
-ments for purposes of education, in other branches than those I have been describing. I am only endeavouring to show, in
-what branches a nation may wisely, and with due regard to its own interest, defray the charge out of the public purse. Every
-diffusion of such knowledge, as is founded upon fact and experience, and does not proceed upon dogmatical opinions
-and assertions, every kind of instruction, that tends to improve the taste and understanding, is a positive good; and,
-consequently, an institution calculated to diffuse it must be
+with persons of his own condition, will open his mind to these conceptions, as well as introduce a little more delicacy of feeling into his conduct, as a father, a husband, a brother, or a citizen.
+
+I would not be understood to find fault with public establishments for purposes of education, in other branches than those I have been describing. I am only endeavouring to show, in what branches a nation may wisely, and with due regard to its own interest, defray the charge out of the public purse. 
+
+Every diffusion of such knowledge, as is founded upon fact and experience, and does not proceed upon dogmatical opinions and assertions, every kind of instruction, that tends to improve the taste and understanding, is a positive good; and, consequently, an institution calculated to diffuse it must be
 beneficial. But care must be taken, that encouragement of
 one branch shall not operate to discourage another. 
 
