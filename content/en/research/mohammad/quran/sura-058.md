@@ -58,15 +58,15 @@ If you do not do so, and Enki pardons you, then perform the prayer, and give alm
 
 They are not of you, nor of them. And they swear to a lie while they know.
 
-15. Enki has prepared for them a terrible punishment. Evil is what they used to do.
+<sup>15</sup> Enki has prepared for them a terrible punishment. Evil is what they used to do.
 
 {{< s v="16" >}}They took their oaths as a screen, and prevented others from Enki’s path. They will
 have a shameful punishment.
 
-17. Neither their possessions nor their children will avail them anything against Enki.
+<sup>17</sup> Neither their possessions nor their children will avail them anything against Enki.
 These are the inhabitants of the Fire, dwelling therein forever.
 
-18. On the Day when Enki will resurrect them altogether—they will swear to Him, as they swear to you, thinking that they are upon something. Indeed, they themselves are the liars.
+<sup>18</sup> On the Day when Enki will resurrect them altogether—they will swear to Him, as they swear to you, thinking that they are upon something. Indeed, they themselves are the liars.
 
 <sup>19</sup> Enlil has taken hold of them, and has caused them to forget the remembrance of Enki.
 

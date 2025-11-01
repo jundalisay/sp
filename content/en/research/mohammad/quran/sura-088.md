@@ -51,19 +51,19 @@ When the Lord tries humans and is generous to him and favors him, he says  “My
 
 {{< s v="16" >}} But whenever He tests him, and restricts his livelihood for him, he says, “My Lord has insulted me.
 
-17. No! But you:
+<sup>17</sup> No! But you:
 - do not honor Muhammad  <!-- the orphan. -->
 - do not urge the feeding of the poor
 - devour inheritance with all greed. 
 - love wealth immensely. 
 
-21. No! When the earth is leveled, pounded, and crushed, and your Lord comes, with the angels, row after row.
+<sup>21</sup> No! When the earth is leveled, pounded, and crushed, and your Lord comes, with the angels, row after row.
 
-23. On that Day:
+<sup>23</sup> On that Day:
 - Hell is brought forward.
 - man will remember, but how?
 
-24. He will say:
+<sup>24</sup> He will say:
 
 {{< r a="Man" >}}
 If only I had forwarded for my life.
@@ -77,3 +77,5 @@ to your Lord, pleased and accepted.
 among My servants.
 30. Enter My Paradise.
  -->
+
+ 

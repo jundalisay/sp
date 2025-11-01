@@ -1,7 +1,7 @@
 ---
-heading: Book 1
+heading: Part 4
 title: "Diluvium. Deucalion and Pyrrha"
-weight: 3
+weight: 11
 c: "darkslategray"
 description: "Texts from ancient civilizations"
 ---
@@ -9,41 +9,30 @@ description: "Texts from ancient civilizations"
 
 Jove scattered his thunder bolts wide.
 
-But he feared the flames, unnumbered, sacred ether might ignite
-and burn the axle of the universe:
-and he remembered in the scroll of fate,
-there is a time appointed when the sea
-and earth and Heavens shall melt, and fire destroy
-the universe of mighty labour wrought.
-Such weapons by the skill of Cyclops forged,
-for different punishment he laid aside—
-for straightway he preferred to overwhelm
-the mortal race beneath deep waves and storms
+But he feared the flames, unnumbered, sacred ether might ignite and burn the axle of the universe:
+and he remembered in the scroll of fate, there is a time appointed when the sea and earth and Heavens shall melt, and fire destroy the universe of mighty labour wrought.
+
+Such weapons by the skill of Cyclops forged, for different punishment he laid aside—
+
+For straightway he preferred to overwhelm the mortal race beneath deep waves and storms
 from every raining sky.
 
-Instantly
-he shut the Northwind in Aeolian caves,
-and every other wind that might dispel
+Instantly he shut the Northwind in Aeolian caves, and every other wind that might dispel
 the gathering clouds. He bade the Southwind blow:—
 the Southwind flies abroad with dripping wings,
 concealing in the gloom his awful face:
-the drenching rain descends from his wet beard
-and hoary locks; dark clouds are on his brows
+
+The drenching rain descends from his wet beard and hoary locks; dark clouds are on his brows
 and from his wings and garments drip the dews:
 his great hands press the overhanging clouds;
 loudly the thunders roll; the torrents pour;
-Iris, the messenger of Juno, clad
-in many coloured raiment, upward draws
-the steaming moisture to renew the clouds.
 
-The standing grain is beaten to the ground,
-the rustic's crops are scattered in the mire,
-and he bewails the long year's fruitless toil.
+Iris, the messenger of Juno, clad in many coloured raiment, upward draws the steaming moisture to renew the clouds.
 
-The wrath of Jove was not content with powers
-that emanate from Heaven; he brought to aid
-his azure brother, lord of flowing waves,
-who called upon the Rivers and the Streams:
+The standing grain is beaten to the ground, the rustic's crops are scattered in the mire, and he bewails the long year's fruitless toil.
+
+The wrath of Jove was not content with powers that emanate from Heaven; he brought to aid
+his azure brother, lord of flowing waves, who called upon the Rivers and the Streams:
 and when they entered his impearled abode,
 Neptune, their ancient ruler, thus began;
 “A long appeal is needless; pour ye forth
@@ -200,8 +189,9 @@ in dumb amazement: Pyrrha, first of voice,
 refused the mandate and with trembling lips
 implored the goddess to forgive—she feared
 to violate her mother's bones and vex
-her sacred spirit. Often pondered they
-the words involved in such obscurity,
+her sacred spirit.
+
+Often pondered they the words involved in such obscurity,
 repeating oft: and thus Deucalion
 to Epimetheus' daughter uttered speech
 of soothing import; “ 
@@ -211,13 +201,15 @@ the skill of thought. Our mother is the Earth,
 and I may judge the stones of earth are bones
 that we should cast behind us as we go.”
 
-And although Pyrrha by his words was moved
+Although Pyrrha by his words was moved
 she hesitated to comply; and both amazed
 doubted the purpose of the oracle,
 but deemed no harm to come of trial. They,
 descending from the temple, veiled their heads
 and loosed their robes and threw some stones
-behind them. It is much beyond belief,
+behind them. 
+
+It is much beyond belief,
 were not receding ages witness, hard
 and rigid stones assumed a softer form,
 enlarging as their brittle nature changed
@@ -226,8 +218,9 @@ appeared, imperfect, faintly outlined first,
 as marble statue chiseled in the rough.
 The soft moist parts were changed to softer flesh,
 the hard and brittle substance into bones,
-the veins retained their ancient name. And now
-the Gods supreme ordained that every stone
+the veins retained their ancient name. 
+
+Now the Gods supreme ordained that every stone
 Deucalion threw should take the form of man,
 and those by Pyrrha cast should woman's form
 assume: so are we hardy to endure and prove by toil and deeds from what we sprung.

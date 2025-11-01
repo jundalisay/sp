@@ -1,15 +1,17 @@
 ---
 title: "Experiment 13: Coulomb’s Proof Plane"
-heading: "Chapter 2"
-weight: 2
+heading: "Chapter 4b"
+weight: 26
 date: 2023-05-27
 c: "darkgoldenrod"
 ---
 
 
-### Experiment XIII. Coulomb’s Proof Plane
+### Experiment 13. Coulomb’s Proof Plane
 
-47.] If one of these disks be placed with one of its flat surfaces in contact with the surface of an electrified conductor and then removed, it will be found to be charged. If the disk is very thin, and if the electrified surface is so nearly flat that the whole surface of the disk lies very close to it, the charge of the disk will be nearly equal to that of the portion of the electrified surface which it covered. If the disk is thick, or does not lie very close to the electrified surface, its charge, when removed, will be somewhat greater.
+47. If one of these disks be placed with one of its flat surfaces in contact with the surface of an electrified conductor and then removed, it will be found to be charged. If the disk is very thin, and if the electrified surface is so nearly flat that the whole surface of the disk lies very close to it, the charge of the disk will be nearly equal to that of the portion of the electrified surface which it covered.
+
+If the disk is thick, or does not lie very close to the electrified surface, its charge, when removed, will be somewhat greater.
 
 This method of ascertaining the density of electrification of a surface was
 introduced by Coulomb, and the disk when used for this purpose is called

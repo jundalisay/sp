@@ -1,7 +1,7 @@
 ---
 title: "The use of Physical Analogies"
 heading: "Chapter 5b"
-weight: 2
+weight: 36
 date: 2023-05-27
 c: "darkgoldenrod"
 ---

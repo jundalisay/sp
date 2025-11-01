@@ -1,6 +1,13 @@
-IO AND JUPITER
-There is a grove in Thessaly, enclosed
-on every side with crags, precipitous,—
+---
+title: "Io and Jupiter"
+weight: 5
+c: "darkslategray"
+description: "Texts from ancient civilizations"
+---
+
+
+
+There is a grove in Thessaly, enclosed on every side with crags, precipitous,—
 on which a forest grows—and this is called
 the Vale of Tempe—through this valley flows
 the River Peneus, white with foaming waves,

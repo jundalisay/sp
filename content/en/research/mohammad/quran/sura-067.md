@@ -79,28 +79,29 @@ It is He who scattered you on earth, and to Him you will be rounded up.
 {{< /l >}}
 
 
-25. And they say:
+<sup>25</sup> They say:
 
 {{< r a="Disbelievers" >}}
 When will this promise be fulfilled, if you are truthful?
 {{< /r >}}
 
 
-26. Say:
+<sup>26</sup> Say:
 
 {{< l a="Muslims" >}}
 Knowledge is with Enki, and I am only a clear warner.
 {{< /l >}}
 
-27. But when they see it approaching, the faces of the disbelievers will turn gloomy. It will be said, “This is what you used to call for.”
 
-28. Say:
+<sup>27</sup> But when they see it approaching, the faces of the disbelievers will turn gloomy. It will be said, “This is what you used to call for.”
+
+<sup>28</sup> Say:
 
 {{< l a="Muslims" >}}
 Have you considered? Should Enki make me perish, and those with me; or else He bestows His mercy on us; who will protect the disbelievers from an agonizing torment?
 
-29. He is the Compassionate. We have faith in Him, and in Him we trust. Soon you will know who is in evident error.
+<sup>29</sup> He is the Compassionate. We have faith in Him, and in Him we trust. Soon you will know who is in evident error.
 
-30. Have you considered? If your water drains away, who will bring you pure running water?
+<sup>30</sup> Have you considered? If your water drains away, who will bring you pure running water?
 {{< /l >}}
 

@@ -1,18 +1,14 @@
 ---
-title: "THE PYTHIAN GAMES"
+title: "The Pythian Games"
 weight: 5
 c: "darkslategray"
 description: "Texts from ancient civilizations"
 ---
 
 
-After this, the Earth spontaneously produced the world of animals, when all
-remaining moistures of the mirey fens fermented in the sun, and fruitful seeds
-in soils nutritious grew to shapes ordained.
+After this, the Earth spontaneously produced the world of animals, when all remaining moistures of the mirey fens fermented in the sun, and fruitful seeds in soils nutritious grew to shapes ordained.
 
-So when the seven streamed Nile from oozy fields returned duly to her ancient bed,
-the sun's ethereal rays impregn the slime, that haply as the peasants turn the soil
-they find strange animals unknown before:
+So when the seven streamed Nile from oozy fields returned duly to her ancient bed, the sun's ethereal rays impregn the slime, that haply as the peasants turn the soil they find strange animals unknown before:
 
 some in the moment of their birth, and some
 deprived of limbs, imperfect; often part
@@ -28,14 +24,14 @@ discordant concord is the means of life.
 When Earth, spread over with diluvian ooze, felt heat ethereal from the glowing sun,
 unnumbered species to the light she gave,
 and gave to being many an ancient form,
-or monster new created. Unwilling she
-created thus enormous Python.
+or monster new created. 
 
-Thou unheard of serpent spread so far athwart
-the side of a vast mountain, didst fill with fear
-the race of new created man. The God
-that bears the bow (a weapon used till then
-only to hunt the deer and agile goat)
+Unwilling she created thus enormous Python.
+
+Thou unheard of serpent spread so far athwart the side of a vast mountain, didst fill with fear
+the race of new created man. 
+
+The God that bears the bow (a weapon used till then only to hunt the deer and agile goat)
 destroyed the monster with a myriad darts,
 and almost emptied all his quiver, till
 envenomed gore oozed forth from livid wounds.
@@ -43,19 +39,18 @@ envenomed gore oozed forth from livid wounds.
 Lest in a dark oblivion time should hide
 the fame of this achievement, sacred sports
 he instituted, from the Python called
-“The Pythian Games.” In these the happy youth
-who proved victorious in the chariot race,
-running and boxing, with an honoured crown
-of oak leaves was enwreathed. The laurel then
+“The Pythian Games.” 
+
+In these the happy youth who proved victorious in the chariot race, running and boxing, with an honoured crown
+of oak leaves was enwreathed. The laurel then 
 was not created, wherefore Phoebus, bright
 and godlike, beauteous with his flowing hair,
 was wont to wreathe his brows with various leaves.
 
 
-## DAPHNE AND PHOEBUS
+## Daphne And Phoebus
 
-Daphne was the daughter of a River God and was first beloved by Phoebus, the great God
-of glorious light. 
+Daphne was the daughter of a River God and was first beloved by Phoebus, the great God of glorious light. 
 
 'Twas not a cause of chance
 but out of Cupid's vengeful spite that she
@@ -66,6 +61,7 @@ when he was bending his diminished bow,
 and voicing his contempt in anger said;
 “What, wanton boy, are mighty arms to thee,
 great weapons suited to the needs of war?
+
 The bow is only for the use of those
 large deities of heaven whose strength may deal
 wounds, mortal, to the savage beasts of prey;
@@ -345,10 +341,11 @@ where he appears at dawn is near our land.
 Go, if it please you, and the very truth
 learn from your father.” 
 
-Instantly sprang forth
-exultant Phaethon. Overjoyed with words
+Instantly sprang forth exultant Phaethon. Overjoyed with words
 so welcome, he imagined he could leap
-and touch the skies. And so he passed his land
+and touch the skies. 
+
+And so he passed his land
 of Ethiopia, and the Indies, hot
 beneath the tawny sun, and there he turned
 his footsteps to his father's Land of Dawn.

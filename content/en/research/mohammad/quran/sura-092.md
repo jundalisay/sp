@@ -24,17 +24,17 @@ By:
 
 {{< s v="12" >}} Indeed, [incumbent] upon Us is guidance.
 
-13. And indeed, to Us belongs the Hereafter and the first [life].
+<sup>13</sup> To Us belongs the Hereafter and the first [life].
 
-14. So I have warned you of a Fire which is blazing.
+<sup>14</sup> So I have warned you of a Fire which is blazing.
 
-15. None will [enter to] burn therein except the most wretched one
+<sup>15</sup> None will [enter to] burn therein except the most wretched one
 
-16. Who had denied and turned away.
+<sup>16</sup> Who had denied and turned away.
 
-17. But the righteous one will avoid it –
+<sup>17</sup> But the righteous one will avoid it –
 
-18. [He] who gives [from] his wealth to purify himself
+<sup>18</sup> [He] who gives [from] his wealth to purify himself
 
 19. And not [giving] for anyone who has [done him] a favor to be
 rewarded 1809
@@ -58,6 +58,3 @@ You were lost, so He guided you.
 You were poor, so He made you self-sufficient.
 
 Rebuff the beggar, but proclaim the blessings of your Lord.
-
-
-

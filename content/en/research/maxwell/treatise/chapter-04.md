@@ -1,7 +1,7 @@
 ---
-title: "THE ELECTRIC FIELD"
+title: "The Electric Field"
 heading: "Chapter 4"
-weight: 2
+weight: 24
 date: 2023-05-27
 c: "darkgoldenrod"
 ---

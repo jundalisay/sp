@@ -7,14 +7,6 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-
-{{< s v="1-5" >}} The sun and the moon move according to plan, precise calculation.
-- The stars and the trees submit to the laws of Enki.
-- He raised the sky and set up the balance so that you will not transgress the balance and keep the weights with justice.
-- He created
-  - man from hard clay, like bricks.
-  - the jinn from a fusion of fire.
-
 <sup>1-2</sup> The Compassionate Enki:
 -  has taught the Quran.
 - <sup>3</sup> created man <sup>4</sup> and taught him clear expression.
@@ -35,115 +27,86 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <sup>11</sup> In it are:
 - fruits, and palms in clusters.
-- <sup>12</sup> grains in the blades, and fragrant plants
+- <sup>12-13</sup> grains in the blades, and fragrant plants
 
-<sup>13</sup> So which of your Lord’s marvels will you deny?
+<!-- <sup>13</sup> So which of your Lord’s marvels will you deny? -->
 
 <sup>14</sup> Enki created:
 - man from hard clay, like bricks
-- <sup>15</sup> the jinn from a fusion of fire
+- <sup>15-16</sup> the jinn from a fusion of fire
 
-<sup>16</sup> So which of your Lord’s marvels will you deny?
+<!-- <sup>16</sup> So which of your Lord’s marvels will you deny? -->
 
-<sup>17</sup> Lord of the two Easts and Lord of the two Wests.
+<sup>17-18</sup> Lord of the two Easts and Lord of the two Wests.
 
-<sup>18</sup> So which of your Lord’s marvels will you deny?
+<!-- <sup>18</sup> So which of your Lord’s marvels will you deny? -->
 
 <sup>19</sup> He merged the 2 seas, converging together.
 
-<sup>20</sup> Between them is a barrier, which they do not overrun.
+<sup>20-21</sup> Between them is a barrier, which they do not overrun.
 
-<sup>21</sup> So which of your Lord’s marvels will you deny?
+<!-- <sup>21</sup> So which of your Lord’s marvels will you deny? -->
 
+<sup>22-23</sup> From them emerge pearls and coral.
 
-<!--  , and
-do not violate the balance.{{< s v="9" >}} {{< s v="10" >}}  And
-the earth; He set up for the creatures.{{< s v="11" >}}  In
-So which of your Lord’s marvels will you
-deny?
-17. Lord of the two Easts and Lord of the two
-Wests.
-18. So which of your Lord’s marvels will you
-deny?
-19. He merged the two seas, converging to-
-gether.
-20. Between them is a barrier, which they do
-not overrun.
-21. So which of your Lord’s marvels will you
-deny?
-16.
-22. From
-205
-them emerge pearls and coral.55. THE COMPASSIONATE (ar-Rahman)
-So which of your Lord’s marvels will you
-deny?
-24. His are the ships, raised above the sea like
-landmarks.
-25. So which of your Lord’s marvels will you
-deny?
-23.
-26. Everyone
-upon it is perishing.
-will remain the Presence of your Lord,
-Full of Majesty and Splendor.
-28. So which of your Lord’s marvels will you
-deny?
-29. Everyone in the heavens and the earth asks
-Him. Every day He is managing.
-30. So which of your Lord’s marvels will you
-deny?
-27. But -->
+<!-- <sup>23</sup> So which of your Lord’s marvels will you deny? -->
 
-{{< s v="31" >}} We will attend to you, men and jinn. 
+<sup>24-25</sup> His are the ships, raised above the sea like landmarks.
 
-<sup>33</sup> O society of jinn and humans! If you can pass through the bounds of the heavens and the earth, go ahead and pass. But you will not pass except with authorization.
+<!-- <sup>25</sup> So which of your Lord’s marvels will you deny? -->
 
-<sup>35</sup> You will be bombarded with flares of fire
-and brass, and you will not succeed.
+<sup>26</sup> Everyone upon it is perishing.
 
-<sup>37</sup> When the sky splits apart, and becomes rose, like paint.
+<sup>27</sup> But will remain the Presence of your Lord, Full of Majesty and Splendor.
 
-{{< s v="39-" >}} On that Day:
-- no human and no jinn will be asked about his sins.
-- the guilty will be recognized by their marks. 
-  - They will be taken by the forelocks and feet.
+<!-- 28. So which of your Lord’s marvels will you deny? -->
 
-<!-- 43. This is Hell that the guilty denied.
-They circulate between it and between a
-seething bath.
-45. So which of your Lord’s marvels will you
-deny? -->
+<sup>29-30</sup> Everyone in the heavens and the earth asks Him. Every day He is managing.
 
-{{< s v="46" >}} But for him who feared the Lord are 2 gardens with 2 flowing springs with:
-- fruits of every kind, in pairs.
-- furnishings lined with brocade near the fruits of the two gardens
-- virgins looking only at their male partners, untouched before by any man or jinn, as though they were rubies and corals.
+<!-- 30. So which of your Lord’s marvels will you deny? -->
 
+<sup>31-32</sup> We will attend to you, O prominent two.
 
-60. The reward of goodness is goodness.
+<!-- 32. So which of your Lord’s marvels will you deny? -->
 
-Beneath them are 2 other gardens, deep green, with 2 springs
+<sup>33</sup> O society of jinn and humans! 
 
-68. In them are fruits, and date-palms, and
-pomegranates.
+If you can pass through the bounds of the heavens and the earth, go ahead and pass.
 
-	
-70. In them are good and beautiful virgins, fair ones secluded in the tents, untouched by human nor jinn. 
+But you will not pass except with authorization.
+
+<!-- 34. So which of your Lord’s marvels will you deny? -->
+
+<sup>35-36</sup> You will be bombarded with flares of fire and brass, and you will not succeed.
+
+<!-- 36. So which of your Lord’s marvels will you deny? -->
+
+<sup>37-38</sup> When the sky splits apart, and becomes rose, like paint.
+
+<!-- 38. So which of your Lord’s marvels will you deny? -->
+
+<sup>39-40</sup> On that Day, no human and no jinn will be asked about his sins.
+
+<!-- 40. So which of your Lord’s marvels will you deny? -->
+
+<sup>41</sup> The guilty will be recognized by their marks. They will be taken by the forelocks and the feet.
+
+<!-- 42. So which of your Lord’s marvels will you deny? -->
+
+<sup>43</sup> This is Hell that the guilty denied.
+
+<sup>44</sup> They circulate between it and between a seething bath.
+
+<!-- 45. So which of your Lord’s marvels will you deny? -->
+
+<sup>46</sup> But for him who feared the standing of his Lord are 2 gardens <sup>48-49</sup> full of varieties <sup>50-51</sup> with:
+- 2 flowing springs <sup>52-53</sup> with fruits of every kind, in pairs.
+- <sup>54-55</sup> furnishings lined with brocade near the fruits of the 2 gardens
+- <sup>56-58</sup> virgins looking only at their male partners, untouched before by any man or jinn, as though they were rubies and corals.
+
+<sup>60-61</sup> The reward of goodness is goodness.
+
+<sup>62-64</sup> Beneath them are 2 other gardens, deep green, with 2 gushing springs <sup>65-68</sup> with fruits, date-palms, and pomegranates.
+
+<sup>70-76</sup> In them are good and beautiful virgins, fair ones secluded in the tents, untouched by human nor jinn. 
 - They are reclined on green cushions and beautiful carpets. 
-
-
-
-
-
-<!-- 
-75. So which of your Lord’s marvels will you
-deny?
-76. Reclining on green cushions, and exquisite
-carpets.
-77. So which of your Lord’s marvels will you
-deny?
-78. Blessed be the name of your Lord, Full of
-Majesty and Splendor.
- -->
-
-

@@ -13,41 +13,46 @@ description: "I swear by this city of Makkah"
 
 {{< s v="2" >}} You Muhammad, are free of restriction in this city. 
 
-3. And [by] the father and that which was born [of him]
+<sup>3</sup> And [by] the father and that which was born [of him]
 
-4. We have certainly created man into hardship.
+<sup>4</sup> We have certainly created man into hardship.
 
-5. Does he think that no one can overcome him?
+<sup>5</sup> Does he think that no one can overcome him?
 
-6. He says, "I have spent wealth in abundance."  
+<sup>6</sup> He says:
 
-7. Does he think that no one has seen him?
+{{< r a="Man" >}}
+I have spent wealth in abundance.
+{{< /r >}}
 
-8. Have We not made for him two eyes?
 
-9. And a tongue and two lips?
+<sup>7</sup> Does he think that no one has seen him?
 
-10. And have shown him the two ways? 1795
+<sup>8</sup> Have We not made for him two eyes?
 
-11. But he has not broken through the difficult pass. 1796
+<sup>9</sup> A tongue and two lips?
 
-12. And what can make you know what is [breaking through] the difficult pass?
+<sup>10</sup> And have shown him the two ways? 
 
-13. It is the freeing of a slave
+<sup>11</sup> But he has not broken through the difficult pass. 
 
-14. Or feeding on a day of severe hunger
+<sup>12</sup> What can make you know what is [breaking through] the difficult pass?
 
-15. An orphan of near relationship
+<sup>13</sup> It is the freeing of a slave
 
-16. Or a needy person in misery
+<sup>14</sup> Or feeding on a day of severe hunger
 
-17. And then being among those who believed and advised one another to patience and advised one another to compassion.
+<sup>15</sup> An orphan of near relationship
 
-18. Those are the companions of the right.
+<sup>16</sup> Or a needy person in misery
 
-19. But they who disbelieved in Our signs – those are the companions of the left.
-20. Over them will be fire closed in.
+<sup>17</sup> And then being among those who believed and advised one another to patience and advised one another to compassion.
 
+<sup>18</sup> Those are the companions of the right.
+
+<sup>19</sup> But they who disbelieved in Our signs – those are the companions of the left.
+
+<sup>20</sup> Over them will be fire closed in.
 
 
 ## 91. THE SUN (ash-Shams)
@@ -69,7 +74,7 @@ By:
 
 {{< s v="13">}} Salih, the messenger of Enki, said to them: "Do not harm the she-camel of Enki or [prevent her from] her drink."
 
-14. But they denied him and hamstrung 1804 her. So their Lord brought down upon them destruction for their sin and made it
-equal [upon all of them].
+<sup>14</sup> But they denied him and hamstrung 1804 her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].
 
-15. And He does not fear the consequence thereof.
+<sup>15</sup> He does not fear the consequence thereof.
+
