@@ -45,18 +45,28 @@ When forces came against you We sent against them a wind and forces that you did
 
 <!-- Enki is Observant of what you do. -->
 
-{{< s v="10" >}}  When they came upon you, from above you, and from beneath you; and the eyes became dazed, and the hearts reached the throats, and you harbored doubts about Enki.
+{{< s v="10" >}} They came from above you and beneath you.
 
-{{< s v="11" >}}  There and then the believers were tested, and were shaken most severely.
+The eyes became dazed, and the hearts reached the throats, and you harbored doubts about Enki.
+
+{{< s v="11" >}} There and then the believers were tested, and were shaken most severely.
 
 <sup>12</sup> The hypocrites and those with sick hearts said:
 
-
-“Enki and His Messenger promised us nothing but illusion.”
+{{< r a="Disbelievers" >}}
+Enki and His Messenger promised us nothing but illusion.
 
 <sup>13</sup> “O people of Yathrib, you cannot make a stand, so retreat.” 
+{{< /r >}}
 
-A faction of them asked the Prophet to excuse them, saying, “Our homes are exposed,” although they were not exposed. 
+
+A faction of them asked the Prophet to excuse them, saying:
+
+{{< r a="Disbelievers" >}}
+Our homes are exposed
+{{< /r >}}
+
+But they were not exposed. 
 
 They only wanted to flee.
 
@@ -68,10 +78,11 @@ A pledge to Enki is a responsibility.
 
 {{< s v="16" >}} Say:
 
-“Flight will not benefit you, if you flee from death or killing, even then you will be given only brief enjoyment.
+{{< l a="Mohammad" >}}
+Flight will not benefit you, if you flee from death or killing, even then you will be given only brief enjoyment.
 
-<sup>17</sup> Who will shield you from Enki, if He intends adversity for you, or intends mercy for you?” 
-
+<sup>17</sup> Who will shield you from Enki, if He intends adversity for you, or intends mercy for you?
+{{< /l >}}
 
 Besides Enki, they will find for themselves neither friend nor helper.
 
@@ -86,13 +97,20 @@ Then, when panic is over, they whip you with sharp tongues. They resent you any 
 These have never believed, so Enki has nullified their works; a matter easy for Enki.
 
 
-<sup>20</sup> They assumed that the confederates had not withdrawn. But were the confederates to advance, they would wish they were in the desert with the Bedouins, inquiring about your news.
+<sup>20</sup> They assumed that the confederates had not withdrawn. 
+
+But were the confederates to advance, they would wish they were in the desert with the Bedouins, inquiring about your news.
 
 If they were among you, they would have done little fighting.
 
-<sup>21</sup> You have an excellent example in the Messenger of Enki; for anyone who seeks Enki and the Last Day, and remembers Enki frequently.
+<sup>21</sup> You have an excellent example in the Messenger of Enki. 
 
-<sup>22</sup> When the believers saw the confederates, they said, “This is what Enki and His messenger have promised us; and Enki and His messenger have told the truth.” 
+<!-- For anyone who seeks Enki and the Last Day, and remembers Enki frequently. -->
+
+<sup>22</sup> When the believers saw the confederates, they said:
+
+
+ “This is what Enki and His messenger have promised us; and Enki and His messenger have told the truth.” 
 
 It only increased them in faith and submission.
 

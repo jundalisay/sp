@@ -15,6 +15,46 @@ description: "This is the Book in which there is no doubt, a guide for the right
   - man from hard clay, like bricks.
   - the jinn from a fusion of fire.
 
+<sup>1-2</sup> The Compassionate Enki:
+-  has taught the Quran.
+- <sup>3</sup> created man <sup>4</sup> and taught him clear expression.
+
+<sup>5</sup> The sun and the moon move according to plan.
+
+<sup>6</sup> The stars and the trees prostrate themselves.
+
+<sup>7</sup> Enki:
+- raised the sky
+- set up the balance.
+
+<sup>8</sup> So do not transgress in the balance.
+
+<sup>9</sup> But maintain the weights with justice, and do not violate the balance.
+
+<sup>10</sup> Enki set up the earth for the creatures.
+
+<sup>11</sup> In it are:
+- fruits, and palms in clusters.
+- <sup>12</sup> grains in the blades, and fragrant plants
+
+<sup>13</sup> So which of your Lord’s marvels will you deny?
+
+<sup>14</sup> Enki created:
+- man from hard clay, like bricks
+- <sup>15</sup> the jinn from a fusion of fire
+
+<sup>16</sup> So which of your Lord’s marvels will you deny?
+
+<sup>17</sup> Lord of the two Easts and Lord of the two Wests.
+
+<sup>18</sup> So which of your Lord’s marvels will you deny?
+
+<sup>19</sup> He merged the 2 seas, converging together.
+
+<sup>20</sup> Between them is a barrier, which they do not overrun.
+
+<sup>21</sup> So which of your Lord’s marvels will you deny?
+
 
 <!--  , and
 do not violate the balance.{{< s v="9" >}} {{< s v="10" >}}  And
@@ -56,16 +96,12 @@ deny?
 
 {{< s v="31" >}} We will attend to you, men and jinn. 
 
+<sup>33</sup> O society of jinn and humans! If you can pass through the bounds of the heavens and the earth, go ahead and pass. But you will not pass except with authorization.
 
-33. O society of jinn and humans! If you can pass through the bounds of the heavens and
-the earth, go ahead and pass. But you will not pass except with authorization.
-
-
-35. You will be bombarded with flares of fire
+<sup>35</sup> You will be bombarded with flares of fire
 and brass, and you will not succeed.
 
-
-37. When the sky splits apart, and becomes rose, like paint.
+<sup>37</sup> When the sky splits apart, and becomes rose, like paint.
 
 {{< s v="39-" >}} On that Day:
 - no human and no jinn will be asked about his sins.

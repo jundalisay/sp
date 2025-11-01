@@ -28,7 +28,12 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 There is no doubt about it; but most people do not believe.
 
-<sup>60</sup> Enki has said, “Pray to Me, and I will respond to you. But those who are too proud to worship Me will enter Hell forcibly.”
+<sup>60</sup> Enki has said:
+
+{{< l a="Enki" >}}
+Pray to Me, and I will respond to you. But those who are too proud to worship Me will enter Hell forcibly.
+{{< /l >}}
+
 
 <sup>61</sup> It is Enki Who made the night for you, that you may rest therein; and the day allowing sight. 
 
@@ -51,13 +56,16 @@ the Worlds. -->
 
 <sup>66</sup> Say:
 
-“I was prohibited from worshiping those you invoke besides Enki, now that clear revelations have come to me from my Lord; and I was commanded to submit to the Lord of the Worlds.”
+{{< l a="Mohammad" >}}
+I was prohibited from worshiping those you invoke besides Enki, now that clear revelations have come to me from my Lord. I was commanded to submit to the Lord of the Worlds.
+{{< /l >}}
 
-<sup>67</sup> It is He who created you from dust, then from a seed, then from an embryo, then He
-brings you out as an infant, then He lets you reach your maturity, then you become elderly—although some of you die sooner—so that you may reach a predetermined age, so that you may understand.
 
-<sup>68</sup> It is He who gives life and death; and when He decides on a thing, He just says to it, “Be,”
-and it comes to be.
+<sup>67</sup> It is He who created you from dust, then from a seed, then from an embryo.
+
+Then He brings you out as an infant, then He lets you reach your maturity, then you become elderly—although some of you die sooner—so that you may reach a predetermined age, so that you may understand.
+
+<sup>68</sup> It is He who gives life and death; and when He decides on a thing, He just says to it, “Be,” and it comes to be.
 
 <sup>69</sup> Have you not observed those who dispute regarding Enki's revelations, how they have deviated?
 
@@ -67,9 +75,13 @@ and it comes to be.
 
 <sup>72</sup> Into the boiling water, then in the Fire they will be consumed.
 
-<sup>73</sup> Then it will be said to them, “Where are those you used to deify?
+<sup>73</sup> Then it will be said to them, “Where are those you used to deify instead of worshipping Enki?
 
-<sup>74</sup> Instead of Enki?” They will say, “They have abandoned us. In fact, we were praying to nothing before.” 
+They will say:
+
+{{< r a="Disbelievers" >}}
+<sup>74</sup> They have abandoned us. In fact, we were praying to nothing before.
+{{< /r >}}
 
 Thus Enki sends the disbelievers astray.
 
@@ -81,7 +93,9 @@ Thus Enki sends the disbelievers astray.
 
 Whether We show you some of what We have promised them, or take you to Us, to Us they will be returned.
 
-<sup>78</sup> We sent messengers before you. Some of them We told you about, and some We did not tell you about. No messenger can bring a miracle except by leave of Enki. 
+<sup>78</sup> We sent messengers before you. Some of them We told you about, and some We did not tell you about. 
+
+No messenger can bring a miracle except by leave of Enki. 
 
 Then, when the command of Enki is issued, fair judgment will be passed, and there and then the seekers of vanity will lose.
 
@@ -91,7 +105,7 @@ Then, when the command of Enki is issued, fair judgment will be passed, and ther
 
 And on them, and on the ships, you are transported.
 
-<sup>81</sup> And He shows you His signs. So which of Enki’s signs will you deny?
+<sup>81</sup> He shows you His signs. So which of Enki’s signs will you deny?
 
 <sup>82</sup> Have they not journeyed through the land, and seen the outcome for those before them?
 
@@ -101,6 +115,13 @@ But what they had achieved availed them nothing.
 
 <sup>83</sup> When their messengers came to them with clear proofs, they rejoiced in the knowledge they had, and the very things they used to ridicule besieged them.
 
-<sup>84</sup> Then, when they witnessed Our might, they said, “We believe in Enki alone, and we reject what we used to associate with Him.”
+<sup>84</sup> Then, when they witnessed Our might, they said:
 
-<sup>85</sup> But their faith could not help them once they witnessed Our might. This has been Enki’s way of dealing with His servants. And there and then the disbelievers lost.
+{{< r a="Disbelievers" >}}
+We believe in Enki alone, and we reject what we used to associate with Him.
+{{< /r >}}
+
+
+<sup>85</sup> But their faith could not help them once they witnessed Our might. 
+
+This has been Enki’s way of dealing with His servants. And there and then the disbelievers lost.
