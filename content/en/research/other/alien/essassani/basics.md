@@ -11,12 +11,15 @@ The Essassani are a 5th dimensional civilization in a parallel reality in the Sh
 
 They are a hybrid of human and Gray DNA created by the Grays (future humans). This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
 
-They are based on unconditional love, ecstasy, fun, following your excitement, being totally non-judgmental, and giving validity and equality to the uniqueness of each individual in their society*.
+{{< i s="/covers/essassani.jpg" a="Essassani" c="This symbol is the Essassani phone number that you meditate on before you sleep so hopefully you will dream about them i.e meet them in the astral dimension" >}}
+
 
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
 
 {{< d t="Superphysics Note" >}}
-Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. (We primarily use Essassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Essassani)
+Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. 
+
+(We primarily use Essassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Essassani. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
 
 However, no one seems to be keen enough to notice that **their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans**.
 
@@ -40,7 +43,7 @@ Humans can upgrade themselves to Essassani by evolving genetically with each gen
 {{< /d >}}
 
 
-## Basic Beliefs
+## Basic Beliefs: Signature Vibration and Synchronicity
 
 Every individual is a self-aware, self-reflective, free-will entity, a holographic representation of the Infinite Creation.
 
@@ -147,9 +150,6 @@ This is whatever is most exciting to you at the moment, in the highest* sense.  
 
 {{< n n="Highest here means dharmic. Unfortunately, the channel Darryl does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is the drawback of using that word." >}}
 
-
-
-
 2. Do this to the best of your ability. 
 
 Take it as far as you can go until you can not take it any further. Make sure your beliefs are not causing you to dampen your excitement ahead of time.
@@ -183,4 +183,3 @@ By activating this synchronicity, things in your life flow more naturally, pleas
 ## Most Powerful Mantra
 
 "I am who I am, and that is enough"
-

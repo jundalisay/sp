@@ -4,7 +4,7 @@ heading: "Chapter 5"
 weight: 10
 image: "/flags/vn.png"
 description: "Political, civic, economic, cultural and social human rights and citizen’s rights are recognized, respected, protected, and guaranteed"
-icon: /flags/vn.png
+icon: Vietnam
 ---
 
 

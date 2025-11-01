@@ -1,5 +1,6 @@
 ---
 title: "Ideas"
+linkTitle: Part 1
 heading: Part 1
 description: "All our perceptions are either impressions or ideas."
 c: "steelblue"

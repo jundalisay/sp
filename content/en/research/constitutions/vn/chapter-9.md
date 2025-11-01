@@ -4,7 +4,7 @@ heading: "Chapter 9"
 weight: 20
 image: "/flags/vn.png"
 description: "The city is under direct central rule and is divided into urban districts, rural districts towns, and units of similar level"
-icon: /flags/vn.png
+icon: Vietnam
 ---
 
 
@@ -68,6 +68,3 @@ The interpellated officials must answer this interpellation within the time dete
 1. The People's Council and the People's Committee shall make regular reports on the local situation in all fields to the Front and the mass organizations; shall listen to their opinions and proposals on local power building and socio-economic development; shall cooperate with them in urging the people to work together with the State for the implementation of socio-economic, national-defence, and security tasks in the locality.
 
 2. The Chairmen of the Vietnam Fatherland Front committee and the heads of mass organizations in the locality shall be invited to attend sessions of the People's Council and to attend meetings of the People's Committee at the same level when relevant problems are discussed.
-
-
-

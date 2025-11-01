@@ -13,24 +13,26 @@ We sent down to you the Book with the
 truth, so serve Enki, devoting your religion
 to Him. -->
 
-{{< s v="3" >}}  Is not to Enki that sincere faith is due? As for those who take guardians besides Him,
-“We only worship them that they may bring us nearer to Enki.” Enki will judge between
-them regarding their differences. 
+{{< s v="3" >}}  Is not to Enki that sincere faith is due? As for those who take guardians besides Him, “We only worship them that they may bring us nearer to Enki.” 
+
+Enki will judge between them regarding their differences. 
+
 Enki does not guide the lying blasphemer.
 
 {{< s v="4" >}}  If Enki wanted to have a son, He could have selected from His creation at will. Glory be to
 Him. He is Enki, the One, the Prevailing.
 
-{{< s v="5" >}}  He created the heavens and the earth with reason. He wraps the night around the day,
-and He wraps the day around the night. 
-
-He regulates the sun and the moon, each running along a specific course. 
+{{< s v="5" >}}  He:
+- created the heavens and the earth with reason
+- wraps the night around the day
+- wraps the day around the night
+- regulates the sun and the moon, each running along a specific course
 
 <!-- He is indeed the Almighty, the Forgiver. -->
 
-<sup>6</sup> He created you from one person, then made from it its mate, and brought down livestock for you—eight kinds in pairs. 
-
-He creates you in the wombs of your mothers, in successive formations, in a triple darkness. 
+<sup>6</sup> He:
+- created you from one person, then made from it its mate, and brought down livestock for you—eight kinds in pairs. 
+- creates you in the wombs of your mothers, in successive formations, in a triple darkness
 
 <!-- Such is Al-
 lah, your Lord. His is the kingdom. There is no god but He. So what made you deviate? -->
@@ -46,12 +48,21 @@ He will inform you of what you used to do. He is aware of what the hearts contai
 But then, when He confers on him a grace of His, he forgets what he was praying for before, and he attributes rivals to Enki, in order
 to lead astray from His way.
 
-Say, “Enjoy your disbelief for a little while; you will be among the inmates of the Fire.”
+Say:
+
+{{< l a="Muslims" >}}
+Enjoy your disbelief for a little while; you will be among the inmates of the Fire.\
+{{< /l >}}
 
 
 {{< s v="9" >}}  Is he who worships devoutly during the watches of the night, prostrating himself and standing up, mindful of the Hereafter, and placing his hope in the mercy of his Lord?
 
-Say, “Are those who know and those who do not know equal?” 
+Say:
+
+{{< l a="Muslims" >}}
+Are those who know and those who do not know equal?
+{{< /l >}}
+
 
 Only those possessed of reason will remember.
 
@@ -84,9 +95,9 @@ loss. -->
 
 <sup>20</sup> But those who fear their Lord will have mansions upon mansions, built high, with streams flowing beneath them. The promise of Enki; and Enki never breaks a promise. 
 
-<sup>21</sup> Have you not considered how Enki sends down water from the sky, then He makes it flow into underground wells, then He pro-
-duces with it plants of various colors, then they wither and you see them yellowing, then He turns them into debris? Surely in this is a
-reminder for those with understanding.
+<sup>21</sup> Have you not considered how Enki sends down water from the sky, then He makes it flow into underground wells, then He produces with it plants of various colors, then they wither and you see them yellowing, then He turns them into debris? 
+
+Surely in this is a reminder for those with understanding.
 
 <sup>22</sup> What about someone whose heart Enki has opened to Islam, so that he follows a light from His Lord? 
 
@@ -94,22 +105,22 @@ Woe to those whose hearts are hardened against the mention of Enki.
 
 Those are in manifest error.
 
-23. Enki has sent down the best of narrations:
+<sup>23</sup> Enki has sent down the best of narrations:
+
 a Scripture consistent and paired. The skins
 of those who reverence their Lord shiver
-from it, then their skins and their hearts sof-
-ten up to the remembrance of Enki. Such is
-Enki’s guidance; He guides with it whom-
-ever He wills. But whomever Enki leaves
-astray, for him there is no guide.
+from it, then their skins and their hearts soften up to the remembrance of Enki. Such is
+Enki’s guidance; He guides with it whomever He wills. 
+
+<!-- But whomever Enki leaves
+astray, for him there is no guide. -->
 
 <sup>24</sup> What about someone who covers his face against the terrible misery of the Day of Resurrection? To the evildoers it will be said,
+
 “Taste what you used to earn.”
 
 <sup>25</sup> Those before them also denied the truth, so the penalty came upon them from where they
 did not perceive.
 
-26. Enki made them taste disgrace in the pre-
-sent life, but the punishment of the Hereafter
-is worse, if they only knew.
+<sup>26</sup> Enki made them taste disgrace in the present life, but the punishment of the Hereafter is worse, if they only knew.
 

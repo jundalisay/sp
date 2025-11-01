@@ -38,65 +38,41 @@ superiority.
 Description of how to find out the powers of the elements.
 
 
-FIRE
-hhh
-mm
-EARTH
-w
-yyyy
-n
-AIR
-j
-kkkk
-q
-WATER
-h
-l
+Fire | Earth | Air | Water
+--- | --- | --- | ---
+_ | w | j | 
+hhh | yyyy | kkkk | h
+mm | n | q | l 
 
-The superiority here goes to the earth. Its nature, coldand-dryness, is the nature of the black bile. Thus, one assumes that the sick person suffers from the black bile. After one has composed an appropriate statement from the letters
-resulting from the breakdown into aliquot parts, it turns out that the throat is the
-place where the pain is located. The appropriate medicine is a clyster, and the
-appropriate liquid lemon juice. This results from the powers of the numbers of the
-letters of the word "horse." The (preceding discussion) is a brief, appropriate
-example.
 
-In order to find out the powers of the elements from proper names, one
-proceeds in the following way. For instance, one takes "Muhammad" and writes it
-with unconnected letters (m-h-m-d). Then, one writes down the names of the fourelements according to the composition of the (celestial) sphere. The result will be
+The superiority here goes to the earth. Its nature, coldand-dryness, is the nature of the black bile. Thus, one assumes that the sick person suffers from the black bile.
+
+After one has composed an appropriate statement from the letters resulting from the breakdown into aliquot parts, it turns out that the throat is the place where the pain is located. 
+
+The appropriate medicine is a clyster, and the appropriate liquid lemon juice. This results from the powers of the numbers of the letters of the word "horse." 
+
+The (preceding discussion) is a brief, appropriate example.
+
+In order to find out the powers of the elements from proper names, one proceeds in the following way. For instance, one takes "Muhammad" and writes it with unconnected letters (m-h-m-d). 
+
+Then, one writes down the names of the fourelements according to the composition of the (celestial) sphere. The result will be
 the letters and number of each element. For instance:
-FIRE
-EARTH
-AIR
-WATER
-Three kinds
-'''
-hh
-mm
-Three kinds
-bbb
-www
-nn
-Six kinds
-jj
-zz
-kkk
-ss
-qq
-nn
-Six kinds
-dddd
-hhh
-lll
-'''
-rrr
-hhh
-One will find that the strongest of the elements of the name mentioned is the
-element of water, because the number of its letters is twenty. Therefore, one gives it
-superiority over the other elements of the name mentioned. One proceeds in the
-same way with all names. They are then added to their chords, or to the chord
-attributed to the ascendant in the za'irajah, or to the chord of the verse ascribed to
-Malik b. Wuhayb which he made the basis for the mixture of questions and which
-runs:
+
+
+Fire | Earth | Air | Water
+--- | --- | --- | --- 
+3 kinds | 3 kinds | 6 kinds | 6 kinds
+''' | bbb | jj | dddd
+hh | www | zz | hhh
+_ | _ | kkk | lll
+mm | nn | ss | ''
+_ | _ | qq | rrr
+_ | _ | nn | hhh
+
+
+One will find that the strongest of the elements of the name mentioned is the element of water, because the number of its letters is twenty. 
+
+Therefore, one gives it superiority over the other elements of the name mentioned. One proceeds in the same way with all names. They are then added to their chords, or to the chord attributed to the ascendant in the za'irajah, or to the chord of the verse ascribed to Malik b. Wuhayb which he made the basis for the mixture of questions and which runs:
 
 A weighty question you have got. Keep, then, to yourself
 Remarkable doubts which have been raised and which can be straightened
@@ -165,4 +141,3 @@ The construction of letter za'irajahs, as well as the divine art and philosophic
 It 952 should be known that all these operations lead only to getting an answer that corresponds to the idea of the question. They do not give information on anything supernatural. 
 
 They are a sort of witty (game), as we mentioned at the beginning of the book. 953 Likewise, they do not belong to the science of letter magic (simiya').
-

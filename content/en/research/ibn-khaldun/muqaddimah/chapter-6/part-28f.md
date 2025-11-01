@@ -158,5 +158,3 @@ Then, the elemental relationships are found out, as has been mentioned before in
 
 They have a foundation useful for finding them out from the nature of the letter and the nature of the field of the table in which the (letter) occurs, as was mentioned by the shaykh for (the benefit of) those who know the technical
 terminology. 
-
-

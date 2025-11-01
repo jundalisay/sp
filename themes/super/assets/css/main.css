@@ -30,7 +30,7 @@ body {font-family: 'Nunito';}
 
 strong {color: mediumseagreen !important; font-weight: 900;}
 
-a {color: steelblue}
+/*a {color: steelblue}*/
 
 
 /* Don't use Tailwind's animation classes at all */

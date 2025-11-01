@@ -424,36 +424,49 @@ is one. One moves one on the side of eight. The three which is in excess of nine
 one gets seventeen, plus the one of the result, which gives eighteen. It is entered
 among the letters of the chords. It is an l, which is set down.
 This is the end of the operation.
-The example in the preceding question was this. We wanted to know
-whether the za'irajah was a modern or an ancient science. 913 The ascendant was in
-the first degree of Sagittarius. We set down:
-The letters of the chords.
-The letters of the question.
-The principles, which are:
-(1) The number of the letters - ninety-three.
-(2) The cycles of (the letters) - seven, with the remainder of nine.
-(3) The ascendant - one.
-(4) The ruler of Sagittarius - four.
-(5) The greatest cycle - one.
-(6) The degrees of the ascendant plus the cycle - two.
-(7) Ascendant plus cycle multiplied by the ruler eight.
-(8) The ruler added to the ascendant-five.
-The verse of the poem= 914
-A weighty question you have got. Keep, then, to yourself
-Remarkable doubts which have been raised and which can be straightened
-out with diligence.
-The letters of the chords:
 
+The example in the preceding question was this. 
+
+We wanted to know whether the za'irajah was a modern or an ancient science.
+
+The ascendant was in the first degree of Sagittarius. 
+
+We set down:
+
+- The letters of the chords
+- The letters of the question
+- The principles, which are:
+
+1. The number of the letters - ninety-three.
+2. The cycles of (the letters) - seven, with the remainder of nine.
+3. The ascendant - one.
+4. The ruler of Sagittarius - four.
+5. The greatest cycle - one.
+6. The degrees of the ascendant plus the cycle - two.
+7. Ascendant plus cycle multiplied by the ruler eight.
+8. The ruler added to the ascendant-five.
+
+The verse of the poem: 914
+
+{{< q a="" >}}
+A weighty question you have got. Keep, then, to yourself
+Remarkable doubts which have been raised and which can be straightened out with diligence.
+{{< /q >}}
+
+
+The letters of the chords:
 
 s, t, d, 915 t, h, n, th, k, h, m, d, s, w, n, th, h, s, alif, b, l, m, n, s, 'ayn,
 f, d, q, r, s, y, k, 1, m, n, s, 'ayn, f, q, r, s, t, th, kh, dh, z, gh, sh, t, k, n,
 'ayn, h, s, z, w, h, l, s, k, l, m, n, s, alif, b, j, d, h, w, z, h, t, y.
 
 
-<!-- The letters of the question:
+The letters of the question:
+
 alif, l, z, 91 5a y, r, j, t; 'ayn, l, m; m, h, d, th, alif, m;
 q, d, y, m.
-561225
+
+<!-- 561225
 s
 w
 alif
@@ -535,7 +548,7 @@ d
 37
 38 -->
 
-Fifth Cycle= 17, remainder 5,
+<!-- Fifth Cycle= 17, remainder 5,
 Sixth Cycle= 13, remainder 1,
 Seventh Cycle= 9.
 Eighth Cycle= 17, remainder 5,
@@ -557,15 +570,16 @@ l 50
 alif 41 916
 t, w, n, alif, q, s, b, x, r, alif, alif, r, s, alif, t, q, b, alif, r, q, alif, 'ayn, alif, r,
 h, r, h, 918 l, d, alif, r, s, h, [alf 919 ], l, d, y, f, s, r, alif, h, m, t, alif, l, l.
-[m 917 ],
+[m 917 ], -->
 
 Their period is according to twenty-five, then twentythree twice, then twenty-one twice, until one gets to the one at the end of the verse [?]. 
 <!-- 920  -->
 
-All the letters are moved. t, r, w, h, n; r, w, h; alif, l, q, d, s; atif, b, r, z; s, r, h, alif; l, alif, d, r, y, s; f, alif, s, t, r, q, atif; b, h, alif; m, r, t,
+All the letters are moved. 
+
+t, r, w, h, n; r, w, h; alif, l, q, d, s; atif, b, r, z; s, r, h, alif; l, alif, d, r, y, s; f, alif, s, t, r, q, atif; b, h, alif; m, r, t,
 q, atif; alf, l, 'ayn, l, alif. 
 
 <!-- 921
 End of the discussion of how to find answers in rhymed form from the
 Za'irajah of the World. -->
-

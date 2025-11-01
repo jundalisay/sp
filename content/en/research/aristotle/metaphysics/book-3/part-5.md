@@ -39,6 +39,9 @@ For if substance, not having existed before, now exists, or having existed befor
 
 For when bodies come into contact or are divided, their boundaries simultaneously become one in the one case when they touch, and two in the other-when they are divided; so that when they have been put together one boundary does not exist but has perished, and when they have been divided the boundaries exist which before did not exist (for it cannot be said that the point, which is indivisible, was divided into two). 
 
-If the boundaries come into being and cease to be, from what do they come into being? A similar account may also be given of the 'now' in time; for this also cannot be in process of coming into being or of ceasing to be, but yet seems to be always different, which shows that it is not a substance. 
 
-The same is true of points and lines and planes; for the same argument applies, since they are all alike either limits or divisions.
+[1002b1] they exist sometimes as one when they touch, and sometimes as two when they are divided. 
+
+Consequently, they do not exist when they are joined, but have perished, and when they are divided, they exist though they did not exist before (for surely the indivisible point was not divided into two), and if they come into being and [5] perish, from what do they come into being? 
+
+The case is similar concerning the 'now' in time: for it is not possible for this either to come into being and perish, and yet it always seems to be different, though it is not some substance. It is similarly clear that the case is the same concerning points, lines, and planes: for the [10] same account applies: for all are equally either limits or divisions.

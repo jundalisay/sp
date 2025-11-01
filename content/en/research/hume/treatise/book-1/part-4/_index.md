@@ -1,8 +1,10 @@
 ---
 title: "The Skeptical and Other Systems of Philosophy"
 heading: Part 4
+linkTitle: Part 4
 description: "The Skeptical and Other Systems of Philosophy Simplified"
 c: "steelblue"
+date: "2020-06-16"
 weight: 8
 writer:
   name: David Hume
@@ -11,5 +13,5 @@ icon: "David Hume"
 ---
 
 
-<!-- date        = "2020-06-16" -->
+<!--  -->
 

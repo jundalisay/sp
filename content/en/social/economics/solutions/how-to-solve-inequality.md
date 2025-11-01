@@ -15,9 +15,7 @@ icon: "Juan"
 According to Socrates, inequality takes root most commonly when a society transitions from intellectual rule to an oligarchy:
 
 {{< q a="Socrates" >}}
-An Oligarchic State is not one, but two States, the one of poor, the other of rich men. They are living on the same spot and always conspiring against one another. <!-- They will also be incapable of carrying on any war because if they arm the people, they will be more afraid of them than of the enemy. So there will be few to fight as the oligarchs are few to rule. -->
-Their fondness for money makes them unwilling to pay taxes. Under such a constitution, the same persons have too many callings. They are husbandmen, tradesmen, warriors, all in one. It does not look well.
-<i>The greatest evil of oligarchy is that it creates the extremes of great wealth and utter poverty.</i>
+An Oligarchic State is not one, but two States, the one of poor, the other of rich men. They are living on the same spot and always conspiring against one another. Their fondness for money makes them unwilling to pay taxes. Under such a constitution, the same persons have too many callings. They are husbandmen, tradesmen, warriors, all in one. It does not look well. <i>The greatest evil of oligarchy is that it creates the extremes of great wealth and utter poverty.</i>
 {{< /q >}}
 
 
@@ -75,6 +73,7 @@ However, a tax is a negative action which can be stifle growth. To address this,
 ## Structural Reform 
 
 While taxation is an active solution to inequality, structural reform is a passive solution.
+
 
 Its main principle is competition to dislodge concentrations of wealth that tend to block the flow. 
 

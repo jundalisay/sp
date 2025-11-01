@@ -1,6 +1,6 @@
 ---
 description: "Treatise of Human Nature Simplified"
-title: "Treatise of Human Nature"
+title: "Treatise"
 c: "steelblue"
 writer:
   name: David Hume

@@ -1,6 +1,7 @@
 ---
 title: "Knowledge and Probability"
 heading: Part 3
+linkTitle: Part 3
 description: "Knowledge and Probability"
 c: "steelblue"
 weight: 6

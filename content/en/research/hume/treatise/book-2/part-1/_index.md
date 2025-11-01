@@ -1,5 +1,6 @@
 ---
 title: "Pride and Humility"
+linkTitle: Part 1
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 weight: 2

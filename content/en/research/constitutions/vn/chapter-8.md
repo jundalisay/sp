@@ -4,7 +4,7 @@ heading: "Chapter 8"
 weight: 18
 image: "/flags/vn.png"
 description: "The people’s courts are the judicial organ of the Socialist Republic of Vietnam, exercising the judicial power"
-icon: /flags/vn.png
+icon: Vietnam
 ---
 
 

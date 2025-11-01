@@ -2,7 +2,6 @@
 heading: "Part 6"
 title: "Do forms exist?"
 weight: 16
-
 c: "indigo"
 writer:
   name: Aristotle 
@@ -12,23 +11,20 @@ icon: "Aristotle"
 ---
 
 
-Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. 
 
-If it is for this reason, because
+But, altogether, one might raise the difficulty as to why one needs to seek other things besides the sensible things and the intermediate things, such as those we posit as Forms. 
 
-The objects of mathematics differ from the things in this world in some other respect. But Forms do not differ at all. There are many Forms of the same kind that their first principles cannot be limited in number. 
+For if [we must seek them] because the mathematical [15] objects differ from those here in some other respect, but in respect of there being many like individuals they do not differ at all, then their principles will not be numerically definite (just as the principles of the letters here are not numerically definite for all, but definite in form, unless one takes this particular syllable [20] or this particular sound: and of these they will also be numerically definite—and similarly also in the case of the intermediate things: for the like individuals are infinite there too). Therefore, if there are no other things besides the sensible and the mathematical objects, such as some say the Forms are, there will not be one substance numerically but in kind, nor will the principles of [25] existing things be some number numerically, but in kind.
 
-This is just as the elements of all the languages in this world are not limited in number, but in kind. This is unless one takes the elements of this individual syllable or sound -- its elements will be limited in number.  
+If, then, this is necessary, it is also necessary for this reason to posit that the Forms exist. For even if those who speak do not articulate well, at least this is what they want, and it is necessary for them to say these things: that each of the Forms is a certain substance and nothing by accident. [30]
 
-This is the case of the intermediates. There also the members of the same kind are infinite in number), so that if there are not-besides perceptible and mathematical objects-others such as some maintain the Forms to be, there will be no substance which is one in number, but only in kind, nor will the first principles of things be determinate in number, but only in kind:-if then this must be so, the Forms also must therefore be held to exist. 
+But if we are to posit that the Forms exist and that the principles are one numerically but not in kind, we have stated the impossible consequences that must follow.
 
-Even if those who support this view do not express it articulately, still this is what they mean, and they must be maintaining the Forms just because each of the Forms is a substance and none is by accident.
-
-But if we are to suppose both that the Forms exist and that the principles are one in number, not in kind, we have mentioned the impossible results that necessarily follow.
+Close to these is the difficulty as to whether the elements exist potentially or in some other way. For if in some other way, something else will be prior to the principles (prior [35] to...)
 
 
-"(13) Closely connected with this is the question whether the elements exist potentially or in some other manner. If in some other way, there will be something else prior to the first principles; for the potency is prior to the actual cause, and it is not necessary for everything potential to be actual.-But if the elements exist potentially, it is possible that everything that is should not be. For even that which is not yet is capable of being; for that which is not comes to be, but nothing that is incapable of being comes to be.
+[1003a1] for the power of that cause [the mover] is one, but what is potential is not necessarily all like that. But if the elements exist potentially, it is possible that none of the things that exist should be: for it is possible for what is not yet to be; for what is not comes into being, and nothing [5] comes into being of those things whose being is impossible.
 
-"(12) We must not only raise these questions about the first principles, but also ask whether they are universal or what we call individuals. If they are universal, they will not be substances; for everything that is common indicates not a 'this' but a 'such', but substance is a 'this'. And if we are to be allowed to lay it down that a common predicate is a 'this' and a single thing, Socrates will be several animals-himself and 'man' and 'animal', if each of these indicates a 'this' and a single thing.
+It is necessary, then, to raise these difficulties about the principles, and whether they are universal or as we say particular. For if they are universal, they will not be substances (for none of the common terms signifies a 'this something' but a 'such-like', but substance [10] is a 'this something': and if we are to posit that which is predicated in common is a 'this something' and one, Socrates will be many animals, both himself and Man and Animal, if each signifies a 'this something' and one).
 
-"If, then, the principles are universals, these universal. Therefore if there is to be results follow; if they are not universals but of knowledge of the principles there must be the nature of individuals, they will not be other principles prior to them, namely those knowable; for the knowledge of anything is that are universally predicated of them.
+If, then, the principles are universal, these consequences follow: but if they are not universal, but as particulars, they will not be knowable (for knowledge is [15] universal for all things), so that there will be other principles prior to the principles—those that are predicated universally—if there is to be knowledge of them.

@@ -4,7 +4,7 @@ heading: "Chapter 5b"
 weight: 12
 image: "/flags/vn.png"
 description: "Political, civic, economic, cultural and social human rights and citizen’s rights are recognized, respected, protected, and guaranteed"
-icon: /flags/vn.png
+icon: Vietnam
 ---
 
 
@@ -51,23 +51,17 @@ extraordinary and plenipotentiary of Socialist Republic of Vietnam.
 ### Article 75
 
 1. Nationalities Council comprises the Chairman, Vice-Chairmen, and members.
+
 The Chairman of the Nationalities Council is elected by the National Assembly;
-Vice-Chairmen and the members of Nationalities Council are approved by the
-National Assembly’s Standing Committee.
 
-2. The Nationalities Council studies and makes proposals to the National Assembly
-on issues concerning the nationalities; supervises and controls the
-implementation of policies on nationalities, the execution of programmes and
-plans for socio-economic development of the highlands and regions inhabited by
-national minorities.
+Vice-Chairmen and the members of Nationalities Council are approved by the National Assembly’s Standing Committee.
 
-3. The Chairman of the Nationalities Council shall be invited to sit in on the
-Government’s meetings at which are discussed ways of putting into effect
-policies on nationalities. In promulgation of decisions related to nationalities
-policies, the Government must consult the Nationalities Council.
 
-4. The Nationalities Council has also other duties and powers as assigned to the
-Committees of the National Assembly in clause 2 of Article 76.
+2. The Nationalities Council studies and makes proposals to the National Assembly on issues concerning the nationalities; supervises and controls the implementation of policies on nationalities, the execution of programmes and plans for socio-economic development of the highlands and regions inhabited by national minorities.
+
+3. The Chairman of the Nationalities Council shall be invited to sit in on the Government’s meetings at which are discussed ways of putting into effect policies on nationalities. In promulgation of decisions related to nationalities policies, the Government must consult the Nationalities Council.
+
+4. The Nationalities Council has also other duties and powers as assigned to the Committees of the National Assembly in clause 2 of Article 76.
 
 
 <!-- Legislative committees -->
@@ -127,16 +121,9 @@ Ministers and other members of the Government, the President of the Supreme
 People's Court, and the Head of the Supreme People's Procuracy, and Head of
 the State Audit.
 
-2. The interpellated officials must give an answer at the current session; in case an
-inquiry is needed, the National Assembly may decide that the answer should be
-given to its Standing Committee or at one of its own subsequent sessions, or may
-allow the answer to be given in writing.
+2. The interpellated officials must give an answer at the current session; in case an inquiry is needed, the National Assembly may decide that the answer should be given to its Standing Committee or at one of its own subsequent sessions, or may allow the answer to be given in writing.
 
-3. The deputy to the National Assembly has the right to request State bodies,
-organizations, and individuals to answer questions on matters concerning their
-duties. The heads of these bodies, organizations, or individuals have the
-responsibility to answer questions put by the deputy within the time limit set by
-the law.
+3. The deputy to the National Assembly has the right to request State bodies, organizations, and individuals to answer questions on matters concerning their duties. The heads of these bodies, organizations, or individuals have the responsibility to answer questions put by the deputy within the time limit set by the law.
 
 
 ### Article 81: Immunity of legislators
@@ -165,9 +152,8 @@ A member of the National Assembly cannot be arrested or prosecuted without the c
 
 1. The State President, the Standing Committee of the National Assembly, the Nationalities Council and Committees of the National Assembly, the Government, the Supreme People's Court, the Supreme People's Procuracy, the State Audit, The Central Committee of the Vietnam Fatherland Front and the central bodies of its member organizations have the right to submit draft laws to the National Assembly and draft ordinances to the National Assembly’s Standing Committee.
 
-2. Members of the National Assembly may present motions concerning laws,
-ordinances, draft laws, and draft ordinances to the National Assembly and the
-National Assembly’s Standing Committee.
+2. Members of the National Assembly may present motions concerning laws, ordinances, draft laws, and draft ordinances to the National Assembly and the National Assembly’s Standing Committee.
+
 
 ### Article 85
 

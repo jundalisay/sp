@@ -2,7 +2,6 @@
 heading: "Part 2"
 title: "Questions 1 to 3"
 weight: 4
-
 c: "indigo"
 description: "Should the sciences investigate all the kinds of causes?"
 writer:

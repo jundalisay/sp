@@ -211,6 +211,21 @@ An alternate reality needs a slight modification in wave quality, but a diferent
 Alternate realities are in the same universe. But different universes are in a single Existence, as Existence Space.
 
 
+
+<!-- Gödel’s Incompleteness Theorem just means reality is open ended. 
+
+Al khwarizmi's algorithm just means finding the optimum distribution of an estate according to law. 
+
+So if the law is open ended then the algorithm is open ended.
+
+It means the algorithm gives different answers each time. 
+
+This is still consistent with multiverse theory. 
+
+Faizal et al merely prove they don't know what they're talking about.  -->
+
+
+
 ## A Richer Reality Has More Diversity; The Goal of Existence
 
 The previous section explained that the base of Existence is the possibility of having disturbances. 

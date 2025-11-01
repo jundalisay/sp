@@ -25,9 +25,9 @@ Let it be known to you - God guide us and you 925 - that the following letters a
 
 <!-- 926  -->
 
-There are 43 letters, as one can see:
+There are 43 letters:
 
-alif, w, l, alif, 'ayn, z, s, atif, l, m, kh, y, d, l, z, q, t, alif,
+alif, w, l, alif, 'ayn, z, s, atif, l, m, kh, y, d, l, z, q, t, alif, 
 f, dh, s, r, n, gh, sh, r, alif, k, k, y, b, m, d, b, j, t, l, h,
 h, d, th, l, th, alif.
 
@@ -51,8 +51,10 @@ The end of the first line is the beginning of the second, and the rest is moved 
 
 The letters in the "region" follow each other inproportion to the motion. Then, one finds out the chord of each letter through square division by the smallest aliquot part found in it, 927a and one puts (each) chord opposite its letter. Then, one finds out the elemental relations for the letters of the table and indicates their natural power, their spiritual power, their spiritual scales, their psychic dispositions, and their principal bases from the table which has been composed for the purpose and which looks as follows: 
 
-<!-- Bases
-300 60
+Bases | Dispositions | Scales | Powers
+--- | --- | --- | --- 
+
+<!-- 300 60
 100
 3
 900 80 6
@@ -69,7 +71,7 @@ The letters in the "region" follow each other inproportion to the motion. Then, 
 700
 800
 900
-Dispositions
+
 Scales
 Powers
 80
@@ -103,11 +105,16 @@ Scales t
 5 d
 4 h
 w
-z -->
+z --> 
 
-Then, 929 one takes the chord of each letter after multiplying it by the bases of the four cardines of the (celestial) spheres. One should avoid what is adjacent to the cardines and also the sawaqit, 930 because their relationship is confused. 
 
-The result here is the first degree of diffusion. 931 Then, one takes the total of the elements and subtracts from it [?] the bases of the generated things. There remain the bases of the world of creation, after it has been exposed to the moments [?] of creation. 
+Then, one takes the chord of each letter after multiplying it by the bases of the 4 cardines of the (celestial) spheres. 
+
+One should avoid what is adjacent to the cardines and also the sawaqit, because their relationship is confused. 
+
+The result here is the first degree of diffusion. 931 
+
+Then, one takes the total of the elements and subtracts from it [?] the bases of the generated things. There remain the bases of the world of creation, after it has been exposed to the moments [?] of creation. 
 
 Then, there are transferred to it some abstractions from matter - the elements that constitute matter. The result is the middle horizon of the soul. 
 
@@ -121,7 +128,12 @@ Then, the first of the elements basically constituting matter is subtracted from
 
 The total of the particulars of the elements is always multiplied by the fourth degree of diffusion. The result is the first world of particularization. 
 
-The result of the multiplication of the second (element) with the second (degree of diffusion) is the second world of particularization; that of the third with the third is the third; and that of the fourth with the fourth is the fourth world of particularization. The worlds of particularization are added up and subtracted from the world of totality. There remain the worlds of abstraction. 
+The result of the multiplication of:
+- the second (element) with the second (degree of diffusion) is the second world of particularization
+- the third with the third is the third
+- the fourth with the fourth is the fourth world of particularization
+
+The worlds of particularization are added up and subtracted from the world of totality. There remain the worlds of abstraction. 
 
 They are divided by the most high horizon. 
 
@@ -129,16 +141,28 @@ The result is the first particular. The remainder is divided by the middle horiz
 
 The result is the second particular. 
 
-The remainder is the third. The fourth here is fixed forthe fourth (division [?]). If one wants more than four (divisions [?]), one must increase the number of the worlds of particularization, that of the degrees of
-diffusion, and that of the magic squares containing letters in their numerical value.
+The remainder is the third. The fourth here is fixed forthe fourth (division [?]). 
+
+If one wants more than four (divisions [?]), one must increase the number of the worlds of particularization, that of the degrees of diffusion, and that of the magic squares containing letters in their numerical value. 
+
 God guide us and you.
 
 Likewise, if the world of abstraction is divided by the first degree of diffusion, the result is the first particular of the world of composition, and so forth to the end of the last degree of the world of existence.
 
-
 Another method to find the answer is this. A competent (practitioner of letter magic) said:
 
-Let it be known to you - God strengthen us and you with a spirit coming from Him - that the science of letters is an important science. The scholar who knows it comes to know things that he would not be able to know with the help of any other science in the world. The practice of the science of (letter magic) requires certain conditions. 
+God strengthens us and you with a spirit coming from Him - that the science of letters is an important science. 
 
-With its help, the scholar may discover the secrets of creation and the inner workings of nature. Thus, he learns the two results of philosophy, which are letter magic and its sister (alchemy). The veil of the unknown is lifted for him. He thus learns the contents of the secret recesses of the heart. 
+The scholar who knows it comes to know things that he would not be able to know with the help of any other science in the world. 
+
+The practice of the science of (letter magic) requires certain conditions. 
+
+With its help, the scholar may discover the secrets of creation and the inner workings of nature. 
+
+Thus, he learns the 2 results of philosophy:
+
+1. Letter magic
+2. Alchemy (its sister)
+
+<!-- The veil of the unknown is lifted for him. He thus learns the contents of the secret recesses of the heart.  -->
 

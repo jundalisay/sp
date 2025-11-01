@@ -1,6 +1,7 @@
 ---
 title: "The Ideas of Space and Time"
 heading: Part 2
+linkTitle: Part 2
 description: "The Ideas of Space and Time Simplified"
 c: "steelblue"
 weight: 4

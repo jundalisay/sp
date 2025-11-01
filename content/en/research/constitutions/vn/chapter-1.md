@@ -4,7 +4,7 @@ heading: "Chapter 1"
 weight: 2
 image: "/flags/vn.png"
 description: "The Socialist Republic of Vietnam is an independent, sovereign and united country, whic in its territorial integrity comprises its mainland, islands, territorial waters and air space"
-icon: /flags/vn.png
+icon: Vietnam
 ---
 
 
@@ -157,4 +157,3 @@ The Socialist Republic of Vietnam consistently:
 4. The National Day is the day of the Declaration of Independence, the Second of September 1945.
 
 5. The capital of the Socialist Republic of Vietnam is Hanoi.
-
