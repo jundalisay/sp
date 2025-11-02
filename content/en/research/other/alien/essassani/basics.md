@@ -11,7 +11,7 @@ The Essassani are a 5th dimensional civilization in a parallel reality in the Sh
 
 They are a hybrid of human and Gray DNA created by the Grays (future humans). This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
 
-{{< i s="/covers/essassani.jpg" a="Essassani" c="This symbol is the Essassani phone number that you meditate on before you sleep so hopefully you will dream about them i.e meet them in the astral dimension" >}}
+{{< i s="/graphics/bio/essassani.jpg" a="Essassani" c="This symbol is the Essassani phone number that you meditate on before you sleep while thinking of the Orion system so hopefully you will dream about them i.e meet them in the astral dimension" >}}
 
 
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
