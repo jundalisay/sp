@@ -9,35 +9,50 @@ description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zen
 icon: "Socrates"
 ---
 
+<!-- and the possession of gold and silver, and -->
+{{< l a="Socrates" >}}
+You affirm that virtue is be the power of attaining the goods.
+
+These goods to you are health, wealth, having office and honour in the state.
+
+Then, who is the hereditary friend of the great king, virtue is the power of getting silver and gold.
+
+Would you add that they must be gained piously, justly, or do you deem this to be of no consequence? 
+
+And is any mode of acquisition, even if unjust and dishonest, equally to be deemed virtue?
+{{< /l >}}
+
+{{< r a="Meno" >}}
+Not virtue, Socrates, but vice.
+{{< /r >}}
+
+{{< l a="Socrates" >}}
+Then justice or temperance or holiness, or some other part of virtue, as would appear, must accompany the acquisition, and without them the mere acquisition of good will not be virtue.
+{{< /l >}}
+
+{{< r a="Meno" >}}
+How can there be virtue without these?
+{{< /r >}}
 
 
-SOCRATES: Then let us see whether what you say is true from another point of view; for very likely you may be right:—You affirm virtue to be the power of attaining goods?
+{{< l a="Socrates" >}}
+The non-acquisition of gold and silver in a dishonest manner for oneself or another, or in other words the want of them, may be equally virtue?
 
-SOCRATES: And the goods which you mean are such as health and wealth and the possession of gold and silver, and having office and honour in the state—those are what you would call goods?
+Then the acquisition of such goods is no more virtue than the non-acquisition and want of them, but whatever is accompanied by justice or honesty is virtue, and whatever is devoid of justice is vice.
 
-MENO: Yes, I should include all those.
 
-SOCRATES: Then, according to Meno, who is the hereditary friend of the great king, virtue is the power of getting silver and gold; and would you add that they must be gained piously, justly, or do you deem this to be of no consequence? And is any mode of acquisition, even if unjust and dishonest, equally to be deemed virtue?
-
-MENO: Not virtue, Socrates, but vice.
-
-SOCRATES: Then justice or temperance or holiness, or some other part of virtue, as would appear, must accompany the acquisition, and without them the mere acquisition of good will not be virtue.
-
-MENO: Why, how can there be virtue without these?
-
-SOCRATES: And the non-acquisition of gold and silver in a dishonest manner for oneself or another, or in other words the want of them, may be equally virtue?
-
-SOCRATES: Then the acquisition of such goods is no more virtue than the non-acquisition and want of them, but whatever is accompanied by justice or honesty is virtue, and whatever is devoid of justice is vice.
-
-MENO: It cannot be otherwise, in my judgment.
-
-SOCRATES: And were we not saying just now that justice, temperance, and the like, were each of them a part of virtue? And so, Meno, this is the way in which you mock me. 
+Justice, temperance, and the like, were each of them a part of virtue. And so, Meno, this is the way in which you mock me. 
 
 I asked you to deliver virtue into my hands whole and unbroken, and I gave you a pattern according to which you were to frame your answer; and you have forgotten already, and tell me that virtue is the power of attaining good justly, or with justice; and justice you acknowledge to be a part of virtue.
 
 Then it follows from your own admissions, that virtue is doing what you do with a part of virtue; for justice and the like are said by you to be parts of virtue.
+{{< /l >}}
 
-MENO: What of that?
+
+{{< r a="Meno" >}}
+What of that?
+{{< /r >}}
+
 
 SOCRATES: What of that! Why, did not I ask you to tell me the nature of virtue as a whole? And you are very far from telling me this; but declare every action to be virtue which is done with a part of virtue; as though you had told me and I must already know the whole of virtue, and this too when frittered away into little pieces. And, therefore, my dear Meno, I fear that I must begin again and repeat the same question: What is virtue? for otherwise, I can only say, that every action done with a part of virtue is virtue; what else is the meaning of saying that every action done with justice is virtue? Ought I not to ask the question over again; for can any one who does not know virtue know a part of virtue?
 

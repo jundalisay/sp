@@ -20,7 +20,9 @@ But as you think only of controlling me who am your slave, and never of controll
 {{< l a="Socrates" >}}
 Can the question 'Whether virtue is given by instruction, or in any other way,' be argued on hypothesis?
 
-As the geometrician, when he is asked whether a certain triangle is capable being inscribed in a certain circle (Or, whether a certain area is capable of being inscribed as a triangle in a certain circle.), will reply: 'I cannot tell you as yet; but I will offer a hypothesis which may assist us in forming a conclusion: If the figure be such that when you have produced a given side of it (Or, when you apply it to the given line, i.e. the diameter of the circle (autou).), the given area of the triangle falls short by an area corresponding to the part produced (Or, similar to the area so applied.), then one consequence follows, and if this is impossible then some other;
+As the geometrician, when he is asked whether a certain triangle is capable being inscribed in a certain circle (Or, whether a certain area is capable of being inscribed as a triangle in a certain circle.), will reply: 'I cannot tell you as yet; but I will offer a hypothesis which may assist us in forming a conclusion: 
+
+If the figure be such that when you have produced a given side of it (Or, when you apply it to the given line, i.e. the diameter of the circle (autou).), the given area of the triangle falls short by an area corresponding to the part produced (Or, similar to the area so applied.), then one consequence follows, and if this is impossible then some other;
 {{< /l >}}
 
 
@@ -132,9 +134,9 @@ I do not retract the assertion that if virtue is knowledge it may be taught; but
 Conversely, may not the art of which neither teachers nor disciples exist be assumed to be incapable of being taught?
 {{< /l >}}
 
-
-MENO: True; but do you think that there are no teachers of virtue?
-
+{{< r a="Meno" >}}
+True; but do you think that there are no teachers of virtue?
+{{< /r >}}
 
 {{< l a="Socrates" >}}
 I have certainly often enquired whether there were any, and taken great pains to find them, and have never succeeded; and many have assisted me in the search, and they were the persons whom I thought the most likely to know. 
@@ -175,4 +177,6 @@ These are the people whom mankind call Sophists?
 {{< /l >}}
 
 
-ANYTUS: By Heracles, Socrates, forbear! I only hope that no friend or kinsman or acquaintance of mine, whether citizen or stranger, will ever be so mad as to allow himself to be corrupted by them; for they are a manifest pest and corrupting influence to those who have to do with them.
+{{< r a="Anytus" >}}
+By Heracles, Socrates, forbear! I only hope that no friend or kinsman or acquaintance of mine, whether citizen or stranger, will ever be so mad as to allow himself to be corrupted by them; for they are a manifest pest and corrupting influence to those who have to do with them.
+{{< /r >}}

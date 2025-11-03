@@ -10,24 +10,29 @@ icon: "Socrates"
 ---
 
 
+{{< l a="Socrates" >}}
+Can virtue be taught?
+{{< /l >}}
 
-SOCRATES: Then virtue cannot be taught?
 
 MENO: Not if we are right in our view. But I cannot believe, Socrates, that there are no good men: And if there are, how did they come into existence?
 
-SOCRATES: I am afraid, Meno, that you and I are not good for much, and that Gorgias has been as poor an educator of you as Prodicus has been of me. Certainly we shall have to look to ourselves, and try to find some one who will help in some way or other to improve us. This I say, because I observe that in the previous discussion none of us remarked that right and good action is possible to man under other guidance than that of knowledge (episteme);—and indeed if this be denied, there is no seeing how there can be any good men at all.
+{{< l a="Socrates" >}}
+I am afraid that:
+- you and I are not good for much
+- Gorgias has been as poor an educator of you as Prodicus has been of me
 
-MENO: How do you mean, Socrates?
+We shall have to look to ourselves, and try to find some one who will help in some way or other to improve us. 
 
-SOCRATES: I mean that good men are necessarily useful or profitable. Were we not right in admitting this? It must be so.
+This I say, because I observe that in the previous discussion none of us remarked that right and good action is possible to man under other guidance than that of knowledge (episteme);—and indeed if this be denied, there is no seeing how there can be any good men at all.
 
-MENO: Yes.
+I mean that good men are necessarily useful or profitable.
 
-SOCRATES: And in supposing that they will be useful only if they are true guides to us of action—there we were also right?
+And in supposing that they will be useful only if they are true guides to us of action—there we were also right?
 
-MENO: Yes.
+But when we said that a man cannot be a good guide unless he have knowledge (phrhonesis), this we were wrong.
+{{< /l >}}
 
-SOCRATES: But when we said that a man cannot be a good guide unless he have knowledge (phrhonesis), this we were wrong.
 
 MENO: What do you mean by the word 'right'?
 
@@ -159,7 +164,10 @@ SOCRATES: And the women too, Meno, call good men divine—do they not? and the S
 
 MENO: And I think, Socrates, that they are right; although very likely our friend Anytus may take offence at the word.
 
-SOCRATES: I do not care; as for Anytus, there will be another opportunity of talking with him. To sum up our enquiry—the result seems to be, if we are at all right in our view, that virtue is neither natural nor acquired, but an instinct given by God to the virtuous. Nor is the instinct accompanied by reason, unless there may be supposed to be among statesmen some one who is capable of educating statesmen. And if there be such an one, he may be said to be among the living what Homer says that Tiresias was among the dead, 'he alone has understanding; but the rest are flitting shades'; and he and his virtue in like manner will be a reality among shadows.
+{{< l a="Socrates" >}}
+I do not care; as for Anytus, there will be another opportunity of talking with him. To sum up our enquiry—the result seems to be, if we are at all right in our view, that virtue is neither natural nor acquired, but an instinct given by God to the virtuous. Nor is the instinct accompanied by reason, unless there may be supposed to be among statesmen some one who is capable of educating statesmen. And if there be such an one, he may be said to be among the living what Homer says that Tiresias was among the dead, 'he alone has understanding; but the rest are flitting shades'; and he and his virtue in like manner will be a reality among shadows.
+{{< /l >}}
+
 
 MENO: That is excellent, Socrates.
 

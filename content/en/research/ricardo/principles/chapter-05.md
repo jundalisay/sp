@@ -9,13 +9,23 @@ date: 2025-02-09
 
 
 
-Labour, like all other things which are purchased and sold, and which may be increased or diminished in quantity, has its natural and its market price. The natural price of labour is that price which is necessary to enable the labourers, one with another, to subsist and to perpetuate their race, without either increase or diminution.
+Labour, like all other things which are purchased and sold, and which may be increased or diminished in quantity, has its natural and its market price. 
 
-The power of the labourer to support himself, and the family which may be necessary to keep up the number of labourers, does not depend on the quantity of money, which he may receive for wages; but on the quantity of food, necessaries, and conveniences become essential to him from habit, which that money will purchase.
+The natural price of labour is that price which is necessary to enable the labourers, one with another, to subsist and to perpetuate their race, without either increase or diminution.
 
-The natural price of labour, therefore, depends on the price of the food, necessaries, and conveniences required91 for the support of the labourer and his family. With a rise in the price of food and necessaries, the natural price of labour will rise; with the fall in their price, the natural price of labour will fall.
+The power of the labourer to support himself, and the family which may be necessary to keep up the number of labourers, does not depend on the quantity of his money wages.
 
-With the progress of society, the natural price of labour has always a tendency to rise, because one of the principal commodities by which its natural price is regulated, has a tendency to become dearer, from the greater difficulty of producing it. As, however, the improvements in agriculture, the discovery of new markets, whence provisions may be imported, may for a time counteract the tendency to a rise in the price of necessaries, and may even occasion their natural price to fall, so will the same causes produce the correspondent effects on the natural price of labour.
+Instead, it depends on the quantity of food, necessaries, and conveniences which that money will purchase.
+
+The natural price of labour, therefore, depends on the price of the food, necessaries, and conveniences required for the support of the labourer and his family.
+
+With a rise in the price of food and necessaries, the natural price of labour will rise; with the fall in their price, the natural price of labour will fall.*
+
+{{< n n="This is proven wrong by outsourcing" >}}
+
+With the progress of society, the natural price of labour has always a tendency to rise, because one of the principal commodities by which its natural price is regulated, has a tendency to become dearer, from the greater difficulty of producing it. 
+
+As, however, the improvements in agriculture, the discovery of new markets, whence provisions may be imported, may for a time counteract the tendency to a rise in the price of necessaries, and may even occasion their natural price to fall, so will the same causes produce the correspondent effects on the natural price of labour.
 
 The natural price of all commodities excepting raw produce and labour has a tendency to fall, in the progress of wealth and population; for though, on one hand, they are enhanced in real value, from the rise in the natural price of the raw material of which they are made, this is more than counterbalanced92 by the improvements in machinery, by the better division and distribution of labour, and by the increasing skill, both in science and art, of the producers.
 
@@ -50,8 +60,6 @@ Independently of the variations in the value of money, which necessarily affect 
 1st. The supply and demand of labourers.
 
 2dly. The price of the commodities on which the wages of labour are expended.
-
-98
 
 In different stages of society, the accumulation of capital, or of the means of employing labour, is more or less rapid, and must in all cases depend on the productive powers of labour. The productive powers of labour are generally greatest when there is an abundance of fertile land: at such periods accumulation is often so rapid, that labourers cannot be supplied with the same rapidity as capital.
 
@@ -130,9 +138,14 @@ It is a truth which admits not a doubt, that the comforts and well being of the 
 
 The nature of the evil points out the remedy. By gradually contracting the sphere of the poor laws; by impressing on the poor the value of independence, by teaching them113 that they must look not to systematic or casual charity, but to their own exertions for support, that prudence and forethought are neither unnecessary nor unprofitable virtues, we shall by degrees approach a sounder and more healthful state.
 
-No scheme for the amendment of the poor laws merits the least attention, which has not their abolition for its ultimate object; and he is the best friend to the poor, and to the cause of humanity, who can point out how this end can be attained with the most security, and at the same time with the least violence. It is not by raising in any manner different from the present, the fund from which the poor are supported, that the evil can be mitigated. It would not only be no improvement, but it would be an aggravation of the distress which we wish to see removed, if the fund were increased in amount, or were levied according to some late proposals, as a general fund from the country at large. The present mode of its collection and application has served to mitigate its pernicious effects. Each parish raises a separate fund for the support of its own poor. Hence it becomes an ob114ject of more interest and more practicability to keep the rates low, than if one general fund were raised for the relief of the poor of the whole kingdom. A parish is much more interested in an economical collection of the rate, and a sparing distribution of relief, when the whole saving will be for its own benefit, than if hundreds of other parishes were to partake of it.
+No scheme for the amendment of the poor laws merits the least attention, which has not their abolition for its ultimate object; and he is the best friend to the poor, and to the cause of humanity, who can point out how this end can be attained with the most security, and at the same time with the least violence. 
 
-It is to this cause, that we must ascribe the fact of the poor laws not having yet absorbed all the net revenue of the country; it is to the rigour with which they are applied, that we are indebted for their not having become overwhelmingly oppressive. If by law every human being wanting support could be sure to obtain it, and obtain it in such a degree as to make life tolerably comfortable, theory would lead us to expect that all other taxes together would be light compared with the single one of poor rates. The principle of gravitation is not more certain than the tendency of such laws to change wealth and power into misery and weakness; to call away the exertions of labour from every object, except that of providing mere subsistence; to con115found all intellectual distinction; to busy the mind continually in supplying the body's wants; until at last all classes should be infected with the plague of universal poverty. Happily these laws have been in operation during a period of progressive prosperity, when the funds for the maintenance of labour have regularly increased, and when an increase of population would be naturally called for. But if our progress should become more slow; if we should attain the stationary state, from which I trust we are yet far distant, then will the pernicious nature of these laws become more manifest and alarming; and then too will their removal be obstructed by many additional difficulties.
+It is not by raising in any manner different from the present, the fund from which the poor are supported, that the evil can be mitigated. It would not only be no improvement, but it would be an aggravation of the distress which we wish to see removed, if the fund were increased in amount, or were levied according to some late proposals, as a general fund from the country at large. The present mode of its collection and application has served to mitigate its pernicious effects. 
 
+Each parish raises a separate fund for the support of its own poor. Hence it becomes an ob114ject of more interest and more practicability to keep the rates low, than if one general fund were raised for the relief of the poor of the whole kingdom. A parish is much more interested in an economical collection of the rate, and a sparing distribution of relief, when the whole saving will be for its own benefit, than if hundreds of other parishes were to partake of it.
 
+It is to this cause, that we must ascribe the fact of the poor laws not having yet absorbed all the net revenue of the country; it is to the rigour with which they are applied, that we are indebted for their not having become overwhelmingly oppressive. If by law every human being wanting support could be sure to obtain it, and obtain it in such a degree as to make life tolerably comfortable, theory would lead us to expect that all other taxes together would be light compared with the single one of poor rates.
 
+The principle of gravitation is not more certain than the tendency of such laws to change wealth and power into misery and weakness; to call away the exertions of labour from every object, except that of providing mere subsistence; to con115found all intellectual distinction; to busy the mind continually in supplying the body's wants; until at last all classes should be infected with the plague of universal poverty. 
+
+Happily these laws have been in operation during a period of progressive prosperity, when the funds for the maintenance of labour have regularly increased, and when an increase of population would be naturally called for. But if our progress should become more slow; if we should attain the stationary state, from which I trust we are yet far distant, then will the pernicious nature of these laws become more manifest and alarming; and then too will their removal be obstructed by many additional difficulties.

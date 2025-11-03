@@ -117,42 +117,26 @@ SOCRATES: And that is the line which the learned call the diagonal. And if this 
 BOY: Certainly, Socrates.
 
 
-
-SOCRATES: What do you say of him, Meno? Were not all these answers given out of his own head?
-
-MENO: Yes, they were all his own.
-
-SOCRATES: And yet, as we were just now saying, he did not know?
-
-MENO: True.
-
-SOCRATES: But still he had in him those notions of his—had he not?
-
-MENO: Yes.
-
-SOCRATES: Then he who does not know may still have true notions of that which he does not know?
-
-MENO: He has.
-
-SOCRATES: And at present these notions have just been stirred up in him, as in a dream; but if he were frequently asked the same questions, in different forms, he would know as well as any one at last?
-
-MENO: I dare say.
-
-SOCRATES: Without any one teaching him he will recover his knowledge for himself, if he is only asked questions?
-
-MENO: Yes.
-
-SOCRATES: And this spontaneous recovery of knowledge in him is recollection?
-
-MENO: True.
-
-SOCRATES: And this knowledge which he now has must he not either have acquired or always possessed?
-
-MENO: Yes.
-
-
 {{< l a="Socrates" >}}
-But if he always possessed this knowledge he would always have known; or if he has acquired the knowledge he could not have acquired it in this life, unless he has been taught geometry;
+Meno, all of his answers came out of his own head. And yet, he did not know.
+
+But still he had in him those notions of his.
+
+**Then he who does not know may still have true notions of that which he does not know.**
+
+At present these notions have just been stirred up in him, as in a dream.
+
+But if he were frequently asked the same questions, in different forms, he would know as well as any one at last?
+
+Without any one teaching him he will recover his knowledge for himself, if he is only asked questions?
+
+This spontaneous recovery of knowledge in him is recollection.
+
+This knowledge which he has now, he always possessed.
+
+But if he always possessed this knowledge he would always have known.
+
+Or if he has acquired the knowledge he could not have acquired it in this life, unless he has been taught geometry;
 
 He may be made to do the same with all geometry and every other branch of knowledge. Now, has any one ever taught him all this? You must know about him, if, as you say, he was born and bred in your house.
 {{< /l >}}
@@ -170,32 +154,33 @@ MENO: Clearly he must.
 
 SOCRATES: Which must have been the time when he was not a man?
 
-MENO: Yes.
 
 
 {{< l a="Socrates" >}}
-If there have been always true thoughts in him, both at the time when he was and was not a man, which only need to be awakened into knowledge by putting questions to him, his soul must have always possessed this knowledge, for he always either was or was not a man?
-{{< /l >}}
+If there have been always true thoughts in him, both at the time when he was and was not a man, which only need to be awakened into knowledge by putting questions to him, his soul must have always possessed this knowledge, for he always either was or was not a man.
 
-
-MENO: Obviously.
-
-
-{{< l a="Socrates" >}}
 If the truth of all things always existed in the soul, then the soul is immortal. Wherefore be of good cheer, and try to recollect what you do not know, or rather what you do not remember.
 {{< /l >}}
 
 
-MENO: I feel, somehow, that I like what you are saying.
+{{< r a="Meno" >}}
+I like what you are saying.
+{{< /r >}}
 
 
 {{< l a="Socrates" >}}
-I, Meno, like what I am saying. Some things I have said of which I am not altogether confident. But that we shall be better and braver and less helpless if we think that we ought to enquire, than we should have been if we indulged in the idle fancy that there was no knowing and no use in seeking to know what we do not know;—that is a theme upon which I am ready to fight, in word and deed, to the utmost of my power.
+I like what I am saying.
+
+Some things I have said of which I am not altogether confident. 
+
+But that we shall be better and braver and less helpless if we think that we ought to enquire, than we should have been if we indulged in the idle fancy that there was no knowing and no use in seeking to know what we do not know;—that is a theme upon which I am ready to fight, in word and deed, to the utmost of my power.
+
+<!-- MENO: There again, Socrates, your words seem to me excellent. -->
+
+Thus, a man should enquire about that which he does not know, shall you and I make an effort to enquire together into the nature of virtue?
 {{< /l >}}
 
+{{< r a="Meno" >}}
+By all means, Socrates. And yet I would much rather return to my original question, Whether in seeking to acquire virtue we should regard it as a thing to be taught, or as a gift of nature, or as coming to men in some other way?
+{{< /r >}}
 
-MENO: There again, Socrates, your words seem to me excellent.
-
-SOCRATES: Then, as we are agreed that a man should enquire about that which he does not know, shall you and I make an effort to enquire together into the nature of virtue?
-
-MENO: By all means, Socrates. And yet I would much rather return to my original question, Whether in seeking to acquire virtue we should regard it as a thing to be taught, or as a gift of nature, or as coming to men in some other way?
