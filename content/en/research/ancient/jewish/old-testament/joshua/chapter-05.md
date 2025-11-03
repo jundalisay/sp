@@ -28,22 +28,22 @@ Make sharp knives and circumcise again the Israelites the second time.
 
 <sup>7</sup> Joshua circumcised their children as they were uncircumcised during the journey. 
 
-8 After they had done circumcising all the people, they abode in their places in the camp, till they were whole. 
-
-9 Enki said to Joshua:
+<sup>8</sup> After they had done circumcising all the people, they abode in their places in the camp, till they were whole. 
 
 {{< l a="Enki" >}}
-This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.
+[to Joshua] This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.
 {{< /l >}}
 
 
-10 The Israelites encamped in Gilgal, and kept the passover on the 14th day of the month at even in the plains of Jericho.
+<sup>10</sup> The Israelites encamped in Gilgal, and kept the passover on the 14th day of the month at even in the plains of Jericho.
 
-11 They ate the old corn of the land on the morrow after the passover, unleavened cakes, and parched [corn] in the selfsame day.
+<sup>11</sup> They ate the old corn of the land on the morrow after the passover, unleavened cakes, and parched [corn] in the selfsame day.
 
-12 The manna ceased on the morrow after they had eaten of the old corn of the land; neither had the Israelites manna any more; but they did eat of the fruit of the land of Canaan that year.
+<sup>12</sup> The manna ceased on the morrow after they had eaten of the old corn of the land; neither had the Israelites manna any more.
 
-13} When Joshua was by Jericho, he saw a man with sword drawn in his hand. Joshua went to him, and asked:
+But they did eat of the fruit of the land of Canaan that year.
+
+<sup>13</sup> When Joshua was by Jericho, he saw a man with sword drawn in his hand. Joshua went to him, and asked:
 
 {{< r a="Joshua" >}}
 Are you friend or foe?
@@ -61,7 +61,7 @@ What did Enki tell you?
 
 
 {{< l a="Enki-Agent" >}}
-15 Loosen your shoe from off your foot. For the place where you stand on is holy.
+<sup>15</sup> Loosen your shoe from off your foot. For the place where you stand on is holy.
 {{< /l >}}
 
 

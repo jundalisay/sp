@@ -7,102 +7,120 @@ c: "firebrick"
 ---
 
 
-
-1 Enki said to Joshua:
-
 {{< l a="Enki" >}}
-Fear not, neither be you dismayed: take all the people of war with you, and arise, go up to Ai: see, I have given into your hand the king of Ai, and his people, and his city, and his land
+<sup>1</sup> [To Joshua]: Do not fear nor be dismayed.
 
-2 Do to Ai and her king as you did to Jericho and her king: only the spoil thereof, and the cattle thereof, shall you take for a prey unto yourselves: lay you an ambush
-for the city behind it.
+Take all your army with you and go up to Ai. I have given into your hand the king of Ai, his people, city, and land.
+
+<sup>2</sup> Do to Ai and her king as you did to Jericho and her king.
+
+Only the spoil thereof, and the cattle thereof, shall you take for a prey unto yourselves: lay you an ambush for the city  behind it.
 {{< /l >}}
 
 
-3 So Joshua arose, and all the people of war, to go up against Ai.
-
-Joshua chose out 30,000 mighty men of valour, and sent them away by night. 
+<sup>3</sup> Joshua chose out 30,000 mighty men of valour, and sent them away by night. 
  
-4 He commanded them, saying:
 
 {{< r a="Joshua" >}}
-Behold, you shall lie in wait against the city, [even] behind the city: go not very far from the city, but be you all ready: 
+<sup>4</sup> Lie in wait behind the city and be ready. Do not go very far from the city.
 
-5 I, and all the people that [are] with me, will approach unto the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them, 6} (For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.
+<sup>5</sup>  I and my people will approach the city. They will come out against us.
 
-7 Then you shall rise up from the ambush, and seize upon the city: for Enki will deliver it into your hand. 
+<sup>6</sup> We will flee from them as they chase us and we will draw them from the city.
 
-8 After you have taken the city, burn it according to the commandment of Enki.
+ <!-- for they will say, They flee before us, as at the first: therefore we will flee before them. -->
+
+<sup>7</sup> Then you shall rise up from the ambush, and seize the city. Enki will deliver it into your hand. 
+
+<sup>8</sup> After you have taken the city, burn it according to the commandment of Enki.
 {{< /r >}}
 
 
-9 Joshua sent them forth and they went to lie in ambush, and abode between Bethel and Ai, on the west side of Ai: 
+<sup>9</sup> Joshua sent them forth and they went to lie in ambush, and abode between Bethel and Ai, on the west side of Ai.
 
 But Joshua lodged that night among the people. 
 
-10 Joshua rose up early in the morning, and numbered the people, and went up, he and the elders of Israel, before the people to Ai. 
+<sup>10</sup> Joshua rose up early in the morning and assembled the people.
 
-11 All the people, [even the people] of war that
-[were] with him, went up, and drew nigh, and came before
-the city, and pitched on the north side of Ai: now [there
-was] a valley between them and Ai. 
+They, with the elders of Israel, went up before the people to Ai. 
 
-12 He took about 5,0000 men, and set them to lie in ambush between Bethel and Ai, on the west side of the city. 
+<sup>11</sup> Joshua's men pitched on the north side of Ai so that there was a valley between them and Ai.
 
-13 When they had set the people, [even] all the host that [was] on the north of the city, and their liers in wait on the
-west of the city, Joshua went that night into the midst of the
-valley.
+<sup>12</sup> He took 5,000 men and set them to lie in ambush between Bethel and Ai, on the west side of the city. 
 
-14 When the king of Ai saw it, that they hasted and rose up early, and the men of the city went out against Israel to battle, he and all his people, at a time appointed, before the plain; but he wist not that [there were] liers in ambush against him behind the city. 
+<sup>13</sup> WSo the soldiers took up their positions—with the main camp to the north of the city and the ambush to the west of it. That night Joshua went into the valley.
 
-15 Joshua and all Israel made as if they were beaten before them, and fled by the way of the wilderness.
+<sup>14</sup> When the king of Ai saw it, they hastened and rose up early. Their men went out against Israel to battle.
 
-16 All the people that [were] in Ai were called together to
-pursue after them: and they pursued after Joshua, and were
-drawn away from the city.
+He assembled all his people, at a time appointed, in the plain.
 
-17 There was not a man left in Ai or Bethel, that went not out after Israel: and they left the city open, and pursued after Israel. 
+But he did not know that there was an ambush against him behind the city. 
 
-18 Enki said to Joshua:
+<sup>15</sup> Joshua and his army fled into the wilderness as if they were beaten.
+
+<sup>16</sup> Everyone in Ai were called to pursue after them and were drawn away from the city.
+
+<sup>17</sup> There was not a man left in Ai or Bethel.
+
+<!-- , that went not out after Israel: and  -->
+
+They left the city open.
+
+<!-- , and pursued after Israel.  -->
 
 {{< l a="Enki" >}}
-Stretch out the spear that [is] in your hand toward Ai; for I will give it into thine hand. 
+<sup>15</sup> [to Joshua:]  Stretch out the spear in your hand toward Ai. I will give it into your hand. 
 {{< /l >}}
 
 
-Joshua stretched out the spear that [he had] in his hand toward the city.
+Joshua stretched out the spear in his hand toward the city.
 
-19 The ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand: and they entered into the city, and took it, and hasted and set the city on fire.
+<sup>19</sup> The ambush arose quickly out of their place.
 
-20 When the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers. 
+They:
+- ran as soon as he had stretched out his hand
+- entered into the city and took it and set it on fire
 
-21 When Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
+<sup>20</sup> When the men of Ai looked behind them, they saw the smoke from their city.
 
-22 The other issued out of the city against them; so they were in the midst of Israel, some on this side, and some on that side: and they smote them, so that they let none of them remain or escape. 
+ they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers. 
 
+<sup>21</sup> When Joshua and his army saw that the ambush had taken the city which was now burning, they turned and slew the men of Ai.
 
-23 The king of Ai they took alive, and brought him to Joshua.
+<sup>22</sup> Those in the ambush also went out of the city against the men of Ai who were surrounded by Israelites. 
 
-24 When Israel had made an end of slaying all the inhabitants of Ai in the field, in the wilderness wherein they chased them, and when they were all fallen on the edge of the sword, until they were consumed, that all the Israelites returned unto Ai, and smote it with the edge of the sword.
+The Israelites killed them all, <sup>23</sup> except for the king of Ai which they brought to Joshua.
 
-25 On that day, 12,000 died, including both men and women and all the men of Ai.
+<sup>24</sup> When Israel finished killing all the men of Ai in the field and the wilderness, they returned to Ai and killed those who were inside.
 
-26 Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai. 
+<sup>25</sup> On that day, 12,000 people of Ai died, including men and women.
 
-27 Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the LORD which he commanded Joshua.
+<sup>26</sup> This was because Joshua did not draw his hand back that stretched out the spear, until he had utterly destroyed all the inhabitants of Ai. 
 
-28 Joshua burnt Ai, and made it an heap for ever, [even] a desolation
-unto this day. 29} And the king of Ai he hanged on a
-tree until eventide: and as soon as the sun was down, Joshua
-commanded that they should take his carcase down from the
-tree, and cast it at the entering of the gate of the city, and
-raise thereon a great heap of stones, [that remaineth] unto
-this day.
+<sup>27</sup> Only the cattle and the spoil of that city Israel took for themselves, as Enki commanded Joshua.
 
-30} Then Joshua built an altar unto Enki God of Israel in mount Ebal, 31} As Moses commanded the Israelites, as it is written in
-the book of the law of Moses, an altar of whole stones, over which no man hath lift up [any] iron: and they offered thereon burnt offerings unto Enki, and sacrificed peace offerings.
+<sup>28</sup> Joshua burnt Ai, and made it permanent ruin unto this day.
 
-32 He wrote there upon the stones a copy of the
-law of Moses, which he wrote in the presence of the
-Israelites. 
+<sup>29</sup> He impaled the body of the king of Ai on a pole and left it there until evening. 
 
-33 All Israel, and their elders, and officers, and their judges, stood on this side the ark and on that side before the priests the Levites, which bare the ark of the covenant of Enki, as well the stranger, as he that was born among them; half of them over against mount Gerizim, and half of them over against mount Ebal; as Moses the servant of Enki had commanded before, that they should bless the people of Israel. 34} And afterward he read all the words of the law, the blessings and cursings, according to all that is written in the book of the law. 35} There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.
+At sunset, Joshua ordered them to take the body from the pole and throw it down at the entrance of the city gate. 
+
+They raised a large pile of rocks over it, which remains to this day.
+
+<sup>30</sup> Then Joshua built an altar unto Enki in mount Ebal, <sup>31</sup> as Moses commanded the Israelites, as it is written in the book of the law of Moses.
+
+It was an altar of uncut stones, on which no iron tool had been used.
+
+On it they offered to Enki burnt offerings and sacrificed fellowship offerings. 
+
+<sup>32</sup> There, in the presence of the Israelites, Joshua wrote on stones a copy of the law of Moses.
+
+<sup>33</sup> All the Israelites, with their elders, officials and judges, were standing on both sides of the ark of the covenant of the Lord, facing the Levitical priests who carried it. 
+
+Both the foreigners living among them and the native-born were there. 
+
+Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses had formerly commanded when he gave instructions to bless the people of Israel.
+
+<sup>34</sup> Afterward, he read all the words of the law, the blessings and cursings, according to all that is written in the book of the law.
+
+<sup>35</sup> There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.

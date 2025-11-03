@@ -11,14 +11,13 @@ c: "firebrick"
 
 They presented themselves before Enki.
 
-2 Joshua said to all the people:
+<sup>2</sup> Joshua said to all the people:
 
 
 {{< l a="Joshua" >}}
 Thus said Enki God of Israel, Your fathers dwelt on the other side of the flood in old time, [even] Terah, the father of Abraham, and the father of Nachor: and they served other gods. 
 
-3 I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his
-seed, and gave him Isaac. 
+<sup>3</sup> I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac. 
 
 4 I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt.
 

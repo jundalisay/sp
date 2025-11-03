@@ -10,69 +10,100 @@ c: "firebrick"
 <sup>1</sup> Jericho was straitly shut up because of the Israelites: none went out, and none came in. 
 
 {{< l a="Enki" >}}
-<sup>2</sup> [To Joshua:] See, I have given into your hand Jericho, its king and its mighty men of valour. 3 Your army shall go around the city once for 6 days. 4 Seven priests shall bring before the army the ark seven trumpets of rams horns. 
+<sup>2</sup> [To Joshua:] See, I have given into your hand Jericho, its king and its mighty men of valour.
+
+<sup>3</sup> Your army shall go around the city once for 6 days. 
+
+<sup>4</sup> Seven priests shall bring before the army, the ark, and 7 trumpets of ram's horns. 
 
 On the seventh day you shall go around the city 7 times, and the priests shall blow with the trumpets. 5 When they make a long blast with the ram’s horn, and  when you hear the sound of the trumpet, all the people shall shout with a great shout. The wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
 {{< /l >}}
 
 
-6 So Joshua called the priests, and said to them
+<sup>6</sup> So Joshua called the priests:
 
 {{< r a="Joshua" >}}
 Take up the ark of the covenant, and let 7 priests bear 7 trumpets of rams’ horns before the ark of Enki. 
+
+<sup>7</sup> Pass on, and compass the city, and let him that is armed pass on before the ark of Enki.
 {{< /r >}}
 
+<sup>8</sup> The 7 priests bearing the 7 trumpets of rams’ horns passed on before Enki, and blew with the trumpets.
 
-7 he said unto the people
+The ark of the covenant of Enki followed them.
 
-Pass on, and compass the city, and let him that is armed pass on before the ark of Enki.
+<sup>9</sup> The armed men went before the priests that blew with the trumpets.
 
+The rear guard came after the ark. All this time, the priests go on blowing with the trumpets.
 
-8 The seven priests bearing the seven trumpets of rams’ horns passed on before Enki, and blew with
-the trumpets: and the ark of the covenant of Enki followed them.
+<sup>10</sup> Joshua had commanded the people:
 
-9 The armed men went before the priests that blew with the trumpets, and the rereward came after the ark, [the priests] going on, and blowing with the trumpets.
+{{< r a="Joshua" >}}
+Do not shout nor make any noise with your voice. Do not say any word until the day I tell you to shout.
 
-10 Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall [any] word proceed out of your mouth, until the day I bid you shout; then shall you shout. 
+<sup>11</sup> So the ark compassed the city, going around it once.
 
-11 So the ark of the LORD compassed the city, going about [it] once: and they came into the camp, and lodged in the camp. 
+They came into the camp, and lodged in the camp. 
 
-12 Joshua rose early in the morning, and the priests took up the ark of Enki. 13} And seven priests bearing seven trumpets of rams’ horns before the ark of Enki went on continually, and blew with the
-trumpets: and the armed men went before them; but the rereward came after the ark of Enki, [the priests] going on, and blowing with the trumpets. 
+<sup>12</sup> Joshua rose early in the morning. The priests took up the ark of Enki.
 
-14 The second day they compassed the city once, and returned into
-the camp: so they did six days.
+<sup>13</sup> Seven priests bearing 7 trumpets of rams’ horns before the ark went on continually, and blew with the
+trumpets.
 
-15 On the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner 7 times: only on that day they compassed the city seven
-times. 
+The armed men went before them. But the rear guard came after the ark of Enki, the priests going on, and blowing with the trumpets. 
 
-16 At the seventh time, when the priests blew with the trumpets, Joshua said unto the
-people, Shout; for Enki hath given you the city.
+<sup>14</sup> The second day they compassed the city once, and returned into the camp: so they did 6 days.
 
-17 The city shall be accursed, [even] it, and all that [are] therein, to Enki: only Rahab the harlot shall live, she and all that [are] with her in the house, because she hid the messengers that we sent. 
+<sup>15</sup> On the 7th day, they:
+- rose early around the dawning of the day
+- compassed the city after the same manner 7 times
 
-18 And ye, in any wise keep [yourselves] from the accursed thing, lest you make [yourselves] accursed, when you take of the accursed thing, and make the camp of Israel a curse, and trouble it.
+Only on that day they compassed the city 7 times. 
 
-19 But all the silver, and gold, and vessels of brass and iron,
-[are] consecrated unto Enki: they shall come into the
+<sup>16</sup> At the 7th time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for Enki hath given you the city.
+
+<sup>17</sup> The city shall be accursed, even it, and all that are therein, to Enki: only Rahab the harlot shall live, she and all that [are] with her in the house, because she hid the messengers that we sent. 
+
+<sup>18</sup> And ye, in any wise keep [yourselves] from the accursed thing, lest you make [yourselves] accursed, when you take of the accursed thing, and make the camp of Israel a curse, and trouble it.
+
+<sup>19</sup> But all the silver, and gold, and vessels of brass and iron, are consecrated unto Enki: they shall come into the
 treasury of Enki.
 
-20 So the people shouted when [the priests] blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city. 
+<sup>20</sup> So the people shouted when [the priests] blew with the trumpets.
 
-21 They utterly destroyed all that [was] in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
+When the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city. 
 
-22  But Joshua had said unto the 2 men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as you sware unto her. 
+<sup>21</sup> They utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
 
-23 The young men that were spies went in, and brought Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel. 
+<sup>22</sup> But Joshua had said to the 2 young men that had spied out the country:
 
-24 They burnt the city and all that was therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of Enki. 
+{{< r a="Joshua" >}}
+Go into the harlot’s house and bring her out and all that she has as you sware unto her.
+{{< /r >}}
 
-25 Joshua saved Rahab the harlot alive, and her father’s household, and all that she had;
-and she dwelleth in Israel [even] unto this day; because she hid the messengers, which Joshua sent to spy out Jericho. 
+<sup>23</sup> The young spies went in, and brought Rahab, her father, mother, brethren, and all that she had.
 
-26 Joshua adjured [them] at that time, saying, Cursed [be] the man before Enki, that riseth up and
-buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest [son] shall he set up the gates of it. 
+They brought out all her kindred, and left them outside the camp of Israel.
 
-27 So Enki was with Joshua; and his fame was [noised] throughout all the country.
+<sup>24</sup> They burnt the city and all that was in it. 
+
+Only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of Enki.*
+
+{{< n n="This was because the Anunnaki created humans to mine metals for them" >}}
+
+<sup>25</sup> Joshua saved Rahab the harlot alive, and her father’s household, and all that she had.
+
+She lived in Israel even unto this day because she hid the messengers, which Joshua sent to spy out Jericho. 
+
+<sup>26</sup> Joshua adjured them at that time, saying:
+
+{{< r a="Joshua" >}}
+Cursed be the man before Enki, that rises up and rebuilds this city Jericho.
+
+He shall:
+- lay its foundation at the cost of his firstborn
+- set up its gates at the cost of his youngest son 
+
+<sup>27</sup> So Enki was with Joshua. His fame spread throughout the land.
 
 

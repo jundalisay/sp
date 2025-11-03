@@ -17,6 +17,7 @@ c: "firebrick"
 ### Enki's Plan of Conquest
 
 1. All the borders of the Philistines
+
 2. All Geshuri <sup>3</sup> from Sihor, which is before Egypt, even unto the borders of Ekron northward, which is counted to the Canaanite.
 - 5 lords of the Philistines
 - The Gazathites
@@ -27,6 +28,7 @@ c: "firebrick"
 - The Avites
 
 3. <sup>4</sup> From the south, all the land of the Canaanites and Mearah that is beside the Sidonians, unto Aphek, to the borders of the Amorites.
+
 4. <sup>5</sup> The land of the Giblites, and all Lebanon, towards the east, from Baal-gad under mount Hermon unto the entering into Hamath. 
 
 <sup>6</sup> All the inhabitants of the hill country from Lebanon unto Misrephoth-maim, and all the Sidonians
@@ -76,4 +78,4 @@ I will drive them out before the Israelites. Only divide you it by lot unto the 
 
 32 These [are the countries] which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward.
 
-33 But unto the tribe of Levi Moses gave not [any] inheritance: Enki God of Israel [was] their inheritance, as he said unto them.
+<sup>33</sup> But unto the tribe of Levi Moses gave not [any] inheritance: Enki God of Israel [was] their inheritance, as he said unto them.

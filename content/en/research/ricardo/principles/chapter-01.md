@@ -43,15 +43,24 @@ In speaking then of commodities, of their exchangeable value, and of the laws wh
 
 In the early stages of society, the exchangeable value of these commodities, or4 the rule which determines how much of one shall be given in exchange for another, depends solely on the comparative quantity of labour expended on each.
 
-"The real price of every thing," says Adam Smith, "what every thing really costs to the man who wants to acquire it, is the toil and trouble of acquiring it. What every thing is really worth to the man who has acquired it, and who wants to dispose of it, or exchange it for something else, is the toil and trouble which it can save to himself, and which it can impose upon other people." "Labour was the first price—the original purchase-money that was paid for all things." Again, "in that early and rude state of society, which precedes both the accumulation of stock and the appropriation of land, the proportion between the quantities of labour necessary for acquiring different objects, seems to be the only circumstance which can afford any rule for exchanging them for one another. If among a nation of hunters, for example, it usually cost twice the labour to kill a beaver which it does to kill a deer, one beaver should naturally exchange for, or5 be worth two deer. It is natural that what is usually the produce of two days', or two hours' labour, should be worth double of what is usually the produce of one day's, or one hour's labour."2
+{{< l a="Adam Smith" >}}
+The real price of every thing, what every thing really costs to the man who wants to acquire it, is the toil and trouble of acquiring it. What every thing is really worth to the man who has acquired it, and who wants to dispose of it, or exchange it for something else, is the toil and trouble which it can save to himself, and which it can impose upon other people.
 
-That this is really the foundation of the exchangeable value of all things, excepting those which cannot be increased by human industry, is a doctrine of the utmost importance in political economy; for from no source do so many errors, and so much difference of opinion in that science proceed, as from the vague ideas, which are attached to the word value.
+Labour was the first price—the original purchase-money that was paid for all things.
+
+..in that early and rude state of society, which precedes both the accumulation of stock and the appropriation of land, the proportion between the quantities of labour necessary for acquiring different objects, seems to be the only circumstance which can afford any rule for exchanging them for one another. If among a nation of hunters, for example, it usually cost twice the labour to kill a beaver which it does to kill a deer, one beaver should naturally exchange for, or5 be worth two deer. It is natural that what is usually the produce of two days', or two hours' labour, should be worth double of what is usually the produce of one day's, or one hour's labour.
+{{< /l >}}
+
+
+That this is really the foundation of the exchangeable value of all things, excepting those which cannot be increased by human industry, is a doctrine of the utmost importance in political economy
+
+for from no source do so many errors, and so much difference of opinion in that science proceed, as from the vague ideas, which are attached to the word value.
 
 If the quantity of labour realized in commodities, regulate their exchangeable value, every increase of the quantity of labour must augment the value of that commodity on which it is exercised, as every diminution must lower it.
 
-Adam Smith accurately defined the original source of exchangeable value.
-
-He said that all things became more or less valuable in proportion as more or less labour was bestowed on their production.
+Adam Smith:
+- accurately defined the original source of exchangeable value.
+- said that all things became valuable as labour was bestowed on their production.
 
 He also created another standard measure of value.
 
@@ -59,7 +68,10 @@ He also created another standard measure of value.
 
 Sometimes he speaks of corn, at other times of labour, as a standard measure, as if labour and corn were equivalent expressions.
 
-He does not mean the labor used for production, but the wages that labor represents. 
+He does not mean the labor used for production, but the wages that labor represents.*
+
+{{< n n="Right away, Ricardo misunderstands Smith by thinking of objective, physical wages instead of subjective, metaphysical toil and trouble" >}}
+
 
 <!-- not the quantity of labour bestowed on the production of any object, but the quantity which it can command in the market: as if these were two equivalent expressions, and as if because -->
 
@@ -68,15 +80,23 @@ He assumes that when a man's labour becomes doubly efficient, he could produce t
 
  <!-- he would necessarily receive twice the former quantity in exchange for it. -->
 
-If this were true, if the labourer's reward were always proportional to what he produced, and if his commodity would purchase the equal amount of corn then yes, labour or corn might accurately measure the variations of other things.
+
+
+I agree that labour or corn can accurately be the measure as long as:
+- the labourer's reward were always proportional to what he produced, and
+- his commodity would purchase the equal amount of corn
+
 
 <!-- the quantity of labour bestowed on a commodity, and the quantity of labour which that commodity would purchase, would be equal, and either :  -->
 
 **But they are not equal.**
 
-Labour is an invariable standard correctly indicating the variations of other things/
+Labour is an invariable standard correctly indicating the variations of other things.
 
-Corn is subject to as many fluctuations as the commodities compared with it. 
+Corn is subject to as many fluctuations as the commodities compared with it.*
+
+{{< n n="Ricardo fails to understand that corn is just shorthand or a symbol for life. Life is still life while the person is alive." >}}
+
 
 Smith showed the insufficiency of a variable medium, such as gold and silver, for determining the varying value of other things.
 
@@ -88,11 +108,48 @@ He chose corn or labour which are also variable.*
 
 Gold and silver are subject to fluctuations, from the discovery of new and more abundant mines.
 
-But such discoveries are rare, and their effects, though powerful, are limited to periods of comparatively short duration. They are subject also to fluctuation, from improvements in the skill and machinery with which the mines may be worked; as in consequence of such improvements, a greater quantity may be obtained with the same labour. They are further subject to fluctuation from the decreasing produce of the mines, after they have yielded a supply to the world, for a succession of ages. But from which of these sources of fluctuation is corn exempted? Does not that also vary, on one hand, from improvements8 in agriculture, from improved machinery and implements used in husbandry, as well as from the discovery of new tracts of fertile land, which in other countries may be taken into cultivation, and which will affect the value of corn in every market where importation is free? Is it not on the other hand subject to be enhanced in value from prohibitions of importation, from increasing population and wealth, and the greater difficulty of obtaining the increased supplies, on account of the additional quantity of labour which the cultivation of inferior lands requires? Is not the value of labour equally variable; being not only affected, as all other things are, by the proportion between the supply and demand, which uniformly varies with every change in the condition of the community, but also by the varying price of food and other necessaries, on which the wages of labour are expended?
+But such discoveries are rare.
 
-In the same country double the quantity of labour may be required to produce a given quantity of food and necessaries at one time, that may be necessary at another, and a distant time; yet the labourer's reward may9 possibly be very little diminished. If the labourer's wages at the former period, were a certain quantity of food and necessaries, he probably could not have subsisted if that quantity had been reduced. Food and necessaries in this case will have risen 100 per cent. if estimated by the quantity of labour necessary to their production, while they will scarcely have increased in value, if measured by the quantity of labour for which they will exchange.
+They are subject to:
+- fluctuation from improvements in the skill and machinery which increase production
+- fluctuation from the decreasing produce of the mines 
 
-The same remark may be made respecting two or more countries. In America and Poland, a year's labour will produce much more corn than in England. Now, supposing all other necessaries to be equally cheap in those three countries, would it not be a great mistake to conclude, that the quantity of corn awarded to the labourer, would in each country be in proportion to the facility of production?
+But from which of these sources of fluctuation is corn exempted?
+
+Corn also varies from:
+- improvements in agriculture
+- improved machinery and implements used in husbandry
+- the discovery of new fertile land
+
+Corn is enhanced in value from:
+- prohibitions of importation
+- increasing population and wealth
+- the greater difficulty of obtaining the increased supplies because of the labour needed to cultivate the inferior lands
+
+The value of labour is equally variable.
+
+It is affected, as all other things are, by supply and demand.
+
+{{< n n="Ricardo does not understand that corn represents life, and labour represents a person's need to earn a livelihood, as opposed to stealing or doing crime to live" >}}
+
+
+<!-- , which uniformly varies with every change in the condition of the community, but also by the varying price of food and other necessaries, on which the wages of labour are expended? -->
+
+In a country, double the labour might be required to produce food and necessaries now than in the distant past.
+
+ <!-- at one time, that may be necessary at another, and a distant time; -->
+
+- Yet the labourer's reward might be very little reduced. 
+
+If the labourer's wages in the distant past were a certain quantity of food and necessaries, he probably could not have subsisted if that quantity had been reduced. 
+
+Food and necessaries in this case will have risen 100%.
+
+If estimated by the quantity of labour necessary to their production, while they will scarcely have increased in value, if measured by the quantity of labour for which they will exchange.
+
+In America and Poland, a year's labour will produce much more corn than in England.
+
+If all other necessaries are equally cheap in those 3 countries, it a great mistake to conclude that the quantity of corn awarded to the labourer would be proportional to the facility of production in each country.
 
 If the shoes and clothing of the labourer, could, by improvements in machinery, be produced by one fourth of the labour now necessary to their production, they would prob10ably fall 75 per cent.; but so far is it from being true, that the labourer would thereby be enabled permanently to consume four coats, or four pair of shoes, instead of one, that his wages would in no long time be adjusted by the effects of competition, and the stimulus to population, to the new value of the necessaries on which they were expended. If these improvements extended to all the objects of the labourer's consumption, we should find him probably at the end of a very few years, in possession of only a small, if any, addition to his enjoyments, although the exchangeable value of those commodities, compared with any other commodity, in the manufacture of which no such improvement were made, had sustained a very considerable reduction; and though they were the produce of a very considerably diminished quantity of labour.
 
@@ -102,19 +159,38 @@ If any one commodity could be found, which now and at all times required precise
 
 In speaking however of labour, as being the foundation of all value, and the relative quantity of labour as determining the relative value of commodities, I must not be supposed to be inattentive to the different qualities of labour, and the difficulty of comparing an hour's, or a day's labour, in one employment, with the same duration of labour in another. The estimation in which different qualities of labour are held, comes soon to be adjusted in the market with sufficient precision for all practical purposes, and depends much on the comparative skill of the labourer, and intensity of the labour performed. The scale, when once formed, is liable to little variation. If a day's labour of a working jeweller be more valuable than a day's labour of a common labourer, it has13 long ago been adjusted, and placed in its proper position in the scale of value.3
 
-In comparing therefore the value of the same commodity, at different periods of time, the consideration of the comparative skill and intensity of labour, required for that particular commodity, needs scarcely to be attended to, as it operates equally at both pe14riods. One description of labour at one time is compared with the same description of labour at another; if a tenth, a fifth, or a fourth, has been added or taken away, an effect proportioned to the cause will be produced on the relative value of the commodity.
+
+In comparing therefore the value of the same commodity, at different periods of time, the consideration of the comparative skill and intensity of labour, required for that particular commodity, needs scarcely to be attended to, as it operates equally at both periods.
+
+One description of labour at one time is compared with the same description of labour at another; if a tenth, a fifth, or a fourth, has been added or taken away, an effect proportioned to the cause will be produced on the relative value of the commodity.
 
 If a piece of cloth be now of the value of two pieces of linen, and if, in ten years hence, the ordinary value of a piece of cloth should be four pieces of linen, we may safely conclude, that either more labour is required to make the cloth, or less to make the linen, or that both causes have operated.
 
-As the inquiry to which I wish to draw the reader's attention, relates to the effect of the variations in the relative value of commodities, and not in their absolute value, it will be of little importance to examine into the comparative degree of estimation in which the different kinds of human labour are held. We may fairly conclude, that whatever inequality there might originally have been in them, whatever the ingenuity, skill, or time necessary for the acquirement of one species of15 manual dexterity more than another, it continues nearly the same from one generation to another; or at least, that the variation is very inconsiderable from year to year, and therefore, can have little effect for short periods on the relative value of commodities.
+My inquiry is on the effect of the variations in the relative value of commodities, and not in their absolute value, it will be of little importance to examine into the comparative degree of estimation in which the different kinds of human labour are held. 
 
-"The proportion between the different rates both of wages and profit in the different employments of labour and stock, seems not to be much affected, as has already been observed, by the riches or poverty, the advancing, stationary, or declining state of the society. Such revolutions in the public welfare, though they affect the general rates both of wages and profit, must in the end affect them equally in all different employments. The proportion between them therefore must remain the same, and cannot well be altered, at least for any considerable time, by any such revolutions."4
+We may fairly conclude, that whatever inequality there might originally have been in them, whatever the ingenuity, skill, or time necessary for the acquirement of one species of manual dexterity more than another, it continues nearly the same from one generation to another; or at least, that the variation is very inconsiderable from year to year, and therefore, can have little effect for short periods on the relative value of commodities.
 
-It will be seen by the extract which I have made in page 4, from the "Wealth of Nations," that though Adam Smith fully recognized the principle, that the proportion be16tween the quantities of labour necessary for acquiring different objects, is the only circumstance which can afford any rule for our exchanging them for one another, yet he limits its application to "that early and rude state of society, which precedes both the accumulation of stock and the appropriation of land;" as if, when profits and rent were to be paid, they would have some influence on the relative value of commodities, independent of the mere quantity of labour that was necessary to their production.
 
-Adam Smith, however, has no where analyzed the effects of the accumulation of capital, and the appropriation of land, on relative value. It is of importance, therefore, to determine how far the effects which are avowedly produced on the exchangeable value of commodities, by the comparative quantity of labour bestowed on their production, are modified or altered by the accumulation of capital and the payment of rent.
+{{< l a="Adam Smith" >}}
+"The proportion between the different rates both of wages and profit in the different employments of labour and stock, seems not to be much affected, as has already been observed, by the riches or poverty, the advancing, stationary, or declining state of the society. Such revolutions in the public welfare, though they affect the general rates both of wages and profit, must in the end affect them equally in all different employments. The proportion between them therefore must remain the same, and cannot well be altered, at least for any considerable time, by any such revolutions."
+{{< /l >}}
 
-First, as to the accumulation of capital. Even in that early state to which Adam Smith refers, some capital, though possibly made and accumulated by the hunter himself17 would be necessary to enable him to kill his game. Without some weapon, neither the beaver nor the deer could be destroyed, and therefore the value of these animals would be regulated, not solely by the time and labour necessary to their destruction, but also by the time and labour necessary for providing the hunter's capital, the weapon, by the aid of which their destruction was effected.
+
+Adam Smith fully recognized the principle that the proportion between the quantities of labour necessary for acquiring different objects, is the only rule for our exchanging them for one another.
+
+Yet he limits its application to "that early and rude state of society, which precedes both the accumulation of stock and the appropriation of land.
+
+As if, when profits and rent were to be paid, they would have some influence on the relative value of commodities, independent of the mere quantity of labour that was necessary to their production.
+
+Adam Smith, however, has not analyzed how relative value is affected by:
+- the accumulation of capital
+- the appropriation of land
+
+How far are the effects produced on the exchangeable value of commodities, by the comparative quantity of labour bestowed on their production, are modified or altered by the accumulation of capital and the payment of rent?
+
+1. The accumulation of capital
+
+Even in that early state to which Adam Smith refers, some capital, though possibly made and accumulated by the hunter himself would be necessary to enable him to kill his game. Without some weapon, neither the beaver nor the deer could be destroyed, and therefore the value of these animals would be regulated, not solely by the time and labour necessary to their destruction, but also by the time and labour necessary for providing the hunter's capital, the weapon, by the aid of which their destruction was effected.
 
 Suppose the weapon necessary to kill the beaver, were constructed with much more labour than that necessary to kill the deer, on account of the greater difficulty of approaching near to the former animal, and the consequent necessity of its being more true to its mark; one beaver would naturally be of more value than two deer, and precisely for this reason, that more labour would on the whole be necessary to its destruction.
 
@@ -289,9 +365,21 @@ And the capitalists
 22
  	——
  	100
-In that case I should say, that wages and rent46 had fallen, and profits risen; though in consequence of the abundance of commodities, the quantity paid to the labourer and landlord would have increased in the proportion of 25 to 44. Wages are to be estimated by their real value, viz. by the quantity of labour and capital employed in producing them, and not by their nominal value either in coats, hats, money, or corn. Under the circumstances I have just supposed, commodities would have fallen to half their former value; and, if money had not varied, to half their former price also. If then in this medium, which had not varied in value, the wages of the labourer should be found to have fallen, it will not the less be a real fall, because they might furnish him with a greater quantity of cheap commodities, than his former wages.
 
-The variation in the value of money, however great, makes no difference in the rate of profits; for suppose the goods of the manufacturer to rise from 1000l. to 2000l., or 100 per cent., if his capital, on which the variations of money have as much effect as on the value of produce, if his machinery, buildings, and stock in trade rise more than 100 per cent., his47 rate of profits has fallen, and he has a proportionably less quantity of the produce of the labour of the country at his command.
+
+In that case:
+- wages and rent had fallen
+- profits had risen
+
+Though in consequence of the abundance of commodities, the quantity paid to the labourer and landlord would have increased in the proportion of 25 to 44.
+
+Wages are to be estimated by their real value, viz. by the quantity of labour and capital employed in producing them, and not by their nominal value either in coats, hats, money, or corn.
+
+Under the circumstances I have just supposed, commodities would have fallen to half their former value; and, if money had not varied, to half their former price also. 
+
+If then in this medium, which had not varied in value, the wages of the labourer should be found to have fallen, it will not the less be a real fall, because they might furnish him with a greater quantity of cheap commodities, than his former wages.
+
+The variation in the value of money, however great, makes no difference in the rate of profits; for suppose the goods of the manufacturer to rise from 1000l. to 2000l., or 100 per cent., if his capital, on which the variations of money have as much effect as on the value of produce, if his machinery, buildings, and stock in trade rise more than 100%, his rate of profits has fallen, and he has a proportionably less quantity of the produce of the labour of the country at his command.
 
 If, with capital of a given value, he double the quantity of produce, its value falls one half, and then it will bear the same proportion to the capital which produced it, as it did before.
 
@@ -299,9 +387,10 @@ If at the same time that he doubles the quantity of produce by the employment of
 
 It appears then that the accumulation of capital, by occasioning different proportions48 of fixed and circulating capital to be employed in different trades, and by giving different degrees of durability to such fixed capital, introduces a considerable modification to the rule, which is of universal application in the early states of society.
 
-Commodities, though they continue to rise and fall, in proportion as more or less labour is necessary to their production, are also affected in their relative value by a rise or fall of profits, since equal profits may be derived from goods which sell for 2,000l. and from those which sell for 10,000l.; and consequently the variations of those profits, independently of any increased or diminished quantity of labour required for the goods in question, must affect their prices in different proportions.
+Commodities rise and fall as labour is necessary to their production.
 
-It appears too, that commodities may be lowered in value in consequence of a real rise of wages, but they never can be raised from that cause. On the other hand, they may rise from a fall of wages, as they then lose the peculiar advantages of production, which high wages afforded them.
+They are also affected in their relative value by a rise or fall of profits, since equal profits may be derived from goods which sell for 2,000l. and from those which sell for 10,000l.; and consequently the variations of those profits, independently of any increased or diminished quantity of labour required for the goods in question, must affect their prices in different proportions.
 
+Commodities may be lowered in value in consequence of a real rise of wages, but they never can be raised from that cause. 
 
-
+On the other hand, they may rise from a fall of wages, as they then lose the peculiar advantages of production, which high wages afforded them.

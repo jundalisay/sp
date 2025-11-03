@@ -48,6 +48,4 @@ So they took up the ark of the covenant, and went before the people.
 
 Those that came down towards the sea of the plain, even the salt sea failed and were cut off. And the people passed over right against Jericho. 
 
-<sup>17</sup> The priests that carried the ark of the covenant of Enki stood firm on dry ground in the
-middle of the Jordan river. All the Israelites passed over on dry ground, until all passed over the  Jordan river.
-
+<sup>17</sup> The priests that carried the ark of the covenant of Enki stood firm on dry ground in the middle of the Jordan river. All the Israelites passed over on dry ground, until all passed over the  Jordan river.
