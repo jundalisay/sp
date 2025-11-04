@@ -2,7 +2,7 @@
 heading: Part 5b
 title: The Human Anatomy
 weight: 18
-description: Rene Descartes 1635
+description: From the description of inanimate bodies and plants, I passed to animals, particularly to man. 
 c: "royalblue"
 writer:
   name: Rene Descartes
@@ -62,15 +62,35 @@ This is the principal receptacle of the blood, and the trunk of the tree of whic
 
 This is inappropriately named because it is only an artery which starts in the heart. It is divided outwards into many branches which presently disperse themselves all over the lungs. 
 
-The left side cavity also has 2 canals equal in size to or larger than the preceding venous artery (arteria venosa) which is also inappropriately named because it is simply a vein which comes from the lungs, where it is divided into many branches. It is interlaced with those of the arterial vein, and those of the tube called the windpipe, through which the air we breathe enters. The great artery which, issuing from the heart, sends its branches all over the body. 
+The left side cavity also has 2 canals equal in size to or larger than the preceding venous artery (arteria venosa) which is also inappropriately named because it is simply a vein which comes from the lungs, where it is divided into many branches. 
 
-I should wish also that such persons were carefully shown the 11 pellicles which, like so many small valves, open and shut the 4 orifices that are in these 2 cavities, viz., 3 at the entrance of the hollow veins where they are disposed in such a manner as by no means to prevent the blood which it contains from flowing into the right ventricle of the heart, and yet exactly to prevent its flowing out; three at the entrance to the arterial vein, which, arranged in a manner exactly the opposite of the former, readily permit the blood contained in this cavity to pass into the lungs, but hinder that contained in the lungs from returning to this cavity; 
+It is interlaced with those of the arterial vein, and those of the tube called the windpipe, through which the air we breathe enters. 
 
-In like manner, two others at the mouth of the venous artery, which allow the blood from the lungs to flow into the left cavity of the heart, but preclude its return; and three at the mouth of the great artery, which suffer the blood to flow from the heart, but prevent its reflux. 
+The great artery which, issuing from the heart, sends its branches all over the body. 
 
-Nor do we need to seek any other reason for the number of these pellicles beyond this that the orifice of the venous artery being of an oval shape from the nature of its situation, can be adequately closed with two, whereas the others being round are more conveniently closed with three. 
+Such persons were carefully shown the 11 pellicles.
+- Like other small valves, these open and shut the 4 orifices that are in these 2 cavities.
 
-The grand artery and the arterial vein are of much harder and firmer texture than the venous artery and the hollow vein; and that the two last expand before entering the heart, and there form, as it were, two pouches denominated the auricles of the heart, which are composed of a substance similar to that of the heart itself
+
+3 of these are at the entrance of the hollow veins.
+
+These:
+- do not prevent the blood which it contains from flowing into the right ventricle of the heart
+- prevent that blood from flowing out
+
+3 at the entrance to the arterial vein.
+- These are arranged in an exactly opposite way of the former
+- These permit the blood contained in this cavity to pass into the lungs, but hinder that contained in the lungs from returning to this cavity.
+
+In like manner, 2 others at the mouth of the venous artery, which allow the blood from the lungs to flow into the left cavity of the heart, but preclude its return.
+
+3 at the mouth of the great artery cause the blood to flow from the heart, but prevent its reflux. 
+
+Nor do we need to seek any other reason for the number of these pellicles beyond this that the orifice of the venous artery being of an oval shape from the nature of its situation, can be adequately closed with two, whereas the others being round are more conveniently closed with 3. 
+
+The grand artery and the arterial vein are of much harder and firmer texture than the venous artery and the hollow vein.
+
+The 2 last expand before entering the heart, and there form, as it were, two pouches denominated the auricles of the heart, which are composed of a substance similar to that of the heart itself
 
 There is always more warmth in the heart than in any other part of the body.
 
@@ -80,7 +100,7 @@ For, after these things, it is not necessary for me to say anything more with a 
 
 But as soon as two drops of blood have thus passed, one into each of the cavities, these drops which cannot but be very large, because the orifices through which they pass are wide, and the vessels from which they come full of blood, are immediately rarefied, and dilated by the heat they meet with. 
 
-In this way they cause the whole heart to expand, and at the same time press home and shut the five small valves that are at the entrances of the two vessels from which they flow, and thus prevent any more blood from coming down into the heart, and becoming more and more rarefied, they push open the six small valves that are in the orifices of the other two vessels, through which they pass out, causing in this way all the branches of the arterial vein and of the grand artery to expand almost simultaneously with the heart which immediately thereafter begins to contract, as do also the arteries, because the blood that has entered them has cooled, and the six small valves close, and the five of the hollow vein and of the venous artery open anew and allow a passage to other two drops of blood, which cause the heart and the arteries again to expand as before.
+In this way they cause the whole heart to expand, and at the same time press home and shut the five small valves that are at the entrances of the 2 vessels from which they flow, and thus prevent any more blood from coming down into the heart, and becoming more and more rarefied, they push open the six small valves that are in the orifices of the other two vessels, through which they pass out, causing in this way all the branches of the arterial vein and of the grand artery to expand almost simultaneously with the heart which immediately thereafter begins to contract, as do also the arteries, because the blood that has entered them has cooled, and the six small valves close, and the five of the hollow vein and of the venous artery open anew and allow a passage to other two drops of blood, which cause the heart and the arteries again to expand as before.
 
 The blood which enters into the heart passes through these two pouches called auricles. Their motion is the contrary of that of the heart. 
 
@@ -107,7 +127,15 @@ This physician likewise abundantly establishes what he has advanced respecting t
 
 From experience which shows that all the blood which is in the body may flow out of it in a very short time through a single artery that has been cut, even although this had been closely tied in the immediate neighbourhood of the heart and cut between the heart and the ligature, so as to prevent the supposition that the blood flowing out of it could come from any other quarter than the heart.
 
-But there are many other circumstances which evince that what I have alleged is the true cause of the motion of the blood= thus, in the first place, the difference that is observed between the blood which flows from the veins, and that from the arteries, can only arise from this, that being rarefied, and, as it were, distilled by passing through the heart, it is thinner, and more vivid, and warmer immediately after leaving the heart, in other words, when in the arteries, than it was a short time before passing into either, in other words, when it was in the veins; and if attention be given, it will be found that this difference is very marked only in the neighbourhood of the heart; and is not so evident in parts more remote from it. 
+But there are many other circumstances which evince that what I have alleged is the true cause of the motion of the blood.
+
+1. The difference between the blood which flows from the veins, and that from the arteries, can only arise from them being rarefied and distilled by passing through the heart.
+
+This makes them thinner, more vivid, and warmer immediately after leaving the heart.
+
+In other words, when in the arteries, than it was a short time before passing into either, in other words, when it was in the veins.
+
+This difference is very marked only in the neighbourhood of the heart; and is not so evident in parts more remote from it. 
 
 In the next place, the consistency of the coats of which the arterial vein and the great artery are composed, sufficiently shows that the blood is impelled against them with more force than against the veins. 
 

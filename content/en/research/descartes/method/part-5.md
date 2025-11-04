@@ -2,7 +2,7 @@
 heading: Part 5
 title: Cartesian Cosmology
 weight: 16
-description: Rene Descartes 1635
+description: The whole whole chain of truths which I discovered would have gotten me into trouble. 
 c: "royalblue"
 writer:
   name: Rene Descartes
@@ -16,23 +16,40 @@ The whole whole chain of truths which I discovered would have gotten me into tro
 
 <!-- I would here willingly have proceeded to exhibit the whole chain of truths which I deduced from these primary but as with a view to this it would have been necessary now to treat of many questions in dispute among the learned, with whom I do not wish to be embroiled, I believe that it will be better for me to refrain from this exposition, and only mention in general what these truths are, that the more judicious may be able to determine whether a more special account of them would conduce to the public advantage. -->
 
-I have ever remained firm in my original resolution to suppose no other principle than that of which I have recently availed myself in demonstrating the existence of God and of the soul, and to accept as true nothing that did not appear to me more clear and certain than the demonstrations of the geometers had formerly appeared; 
+<!-- I have ever remained firm in my original resolution to suppose no other principle than that of which I have recently availed myself in demonstrating the existence of God and of the soul, and to accept as true nothing that did not appear to me more clear and certain than the demonstrations of the geometers had formerly appeared;  -->
 
+I have observed certain laws established in nature by God.
 
-I have also observed certain laws established in nature by God in such a manner, and of which he has impressed on our minds such notions, that after we have reflected sufficiently upon these, we cannot doubt that they are accurately observed in all that exists or takes place in the world and farther, by considering the concatenation of these laws, it appears to me that I have discovered many truths more useful and more important than all I had before learned, or even had expected to learn.
+ <!-- in such a manner, and of which he has impressed on our minds such notions, that after we have reflected sufficiently upon these, we cannot doubt that  -->
+
+These laws are:
+- accurately observed in all that exists or takes place in the world and farther.
+- interconnected 
+- more useful and more important than all I had before learned and will learn
+
+<!--  by considering the concatenation of these laws, it appears to me that I have discovered many truths 
+
+ , or even had expected to learn. -->
 
 But because I have essayed to expound the chief of these discoveries in a treatise which certain considerations prevent me from publishing, I cannot make the results known more conveniently than by here giving a summary of the contents of this treatise. 
 
-It was my design to comprise in it all that, before I set myself to write it, I thought I knew of the nature of material objects. 
+<!-- It was my design to comprise in it all that, before I set myself to write it, I thought I knew of   -->
 
-I am like a painter who is unable to paint all the parts of a body. 
-
-So I select the main part. I make the light fall only on that part, with the rest in the dark. I then let them appear only while I am looking at that main part. 
+Before I wrote down these laws, I felt I should know the nature of material objects first.
 
 
 ## A Light-first Science
 
-This is why I focused on light. I then add something on:
+
+I am like a painter who is unable to paint all the parts of a body. 
+
+So I select the main part.
+
+I make the light fall only on that part, with the rest in the dark. I then let them appear only while I am looking at that main part. 
+
+This is why I focused on light. 
+
+I then add something on:
 - the sun and the stars, since light almost wholly proceeds from them
 - the heavens since they transmit it
 - the planets, comets, and earth, since they reflect it
