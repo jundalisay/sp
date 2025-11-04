@@ -65,15 +65,14 @@ Descartes calls this organic chi as "animal spirits" which are detected by the h
 
 Physical instruments and detectors only detect up to the Electromagentic Force (Radiant Layer) and so cannot detect aethereal chi, which is only detectable by the aethereal soul or mind through the heart chakra. 
 
-The problem is that modern humans have become heartless (as to allow the World Wars, atomic bomb on Japan, Gaza Genocide, etc) and so the knowledge of chi and the aether has died out. 
+The problem is that modern humans have become heartless (as to allow the World Wars, atomic bomb on Japan, Gaza Genocide, etc) and so the knowledge of chi and the aether has died out. Ask any physicist about making the feelings of the heart a basis for Physics and he will think of you as a crackpot.
 
 Levitators harness chi for levitation by diverting the chi away from its normal course towards the brain. 
 - Instead, they route it to wherever their soul wants.
 - This translates to either telekinesis or levitation. 
 
 Chi is able to move objects because the main role of the aetherspace is to separate identities. 
-- This is why you don't go through your chair -- because the aetherspace (gluon field) of you and the chair repel each other to maintain your separate identities
-
+- This is why you don't go through your chair -- because the aetherspace (atomic space) of you and the chair repel each other to maintain your separate identities
 
 So the chi can be used to separate objects in space farther, as telekinesis or levitation.
 
@@ -84,7 +83,7 @@ Its main disadvantage is that it is very subtle and so it needs a lot of intelle
 - advanced machine learning and
 - a scientist who can detect the subtle changes in himself and the object or surroundings
 
-Rockets do not need such things. 
+Rockets do not need such things, and so it is the main propulsion mechanism used by Modern Physics. 
 
 <!-- However, our preferred theoretical way is to source the aetherspace from the electrons instead of the proton, as kind of aether-force field which then manipulates most1.
 
@@ -128,9 +127,9 @@ These makes the following energy sources unnecessary:
 - biomass
 - batteries 
 
-This is why we are against electric vehicles as they:
+<!-- This is why we are against electric vehicles as they:
 - use heavy chemical batteries (antimatter removes the need for chemicals)
-- use wires (Lazar clearly says the UFO had no wires because power was sent positionally)
+- use wires (Lazar clearly says the UFO had no wires because power was sent positionally) -->
 
 
 

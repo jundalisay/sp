@@ -14,29 +14,82 @@ icon: "Rene Descartes"
 
 Three years have now elapsed since I finished the treatise on all these matters. 
 
-I was about to publish it when I learned that persons that I respect had condemned another physics work recently published. That work had nothing prejudicial either to religion or to the state. 
+I was about to publish it when I learned that persons that I respect had condemned another physics work recently published. 
+- That work had nothing prejudicial either to religion or to the state. 
 
 <!-- , and nothing therefore which would have prevented me from giving expression to it in writing, if reason had persuaded me of its truth; -->
 
-This led me to fear that my own doctrines might be interpreted to be against the truth, despite my great care in not offending anyone. <!--  I have always taken not to accord belief to new opinions of which I had not the most certain demonstrations, and not to give expression to aught that might tend to the hurt of any one.  -->
+This led me to fear that my own doctrines might be interpreted to be against the truth, despite my great care in not offending anyone. 
 
-This has stopped me from publishing them. I have always disliked writing books. <!-- And these reasons, on one side and the other, are such that not only is it in some measure my interest here to state them, but that of the public, perhaps, to know them. -->
+<!--  I have always taken not to accord belief to new opinions of which I had not the most certain demonstrations, and not to give expression to aught that might tend to the hurt of any one.  -->
+
+This has stopped me from publishing them. I have always disliked writing books. 
+
+<!-- And these reasons, on one side and the other, are such that not only is it in some measure my interest here to state them, but that of the public, perhaps, to know them. -->
 
 <!-- I have never made much account of what has proceeded from my own mind; and so long as I gathered no other advantage from the method I employ beyond satisfying myself on some difficulties belonging to the speculative sciences, or endeavouring to regulate my actions according to the principles it taught me, I never thought myself bound to publish anything respecting it. For in what regards manners,  -->
 
-Everyone is so full of his own wisdom, that there might be found as many reformers as heads, if any were allowed to take upon themselves the task of mending them, except those whom God has constituted the supreme rulers of his people or to whom he has given sufficient grace and zeal to be prophets; and although my speculations greatly pleased myself, I believed that others had theirs, which perhaps pleased them still more. 
+<!-- Everyone is so full of his own wisdom, that there might be found as many reformers as heads, if any were allowed to take upon themselves the task of mending them, except those whom God has constituted the supreme rulers of his people or to whom he has given sufficient grace and zeal to be prophets; and although my speculations greatly pleased myself, I believed that others had theirs, which perhaps pleased them still more.  -->
 
-As soon as I had learned physics and made experiments, I observed how limited it is and how much it differs from my principles. 
+As soon as I had learned [Aristotle's] physics and made experiments, I observed how limited it is and how much it differs from my principles. 
 
-For the general good of mankind, I could not keep my principles concealed without sinning grievously against current system of physics. <!-- the law by which we are bound to promote, as far as in us lies, the .  -->
+For the general good of mankind, I could not keep my principles concealed without sinning grievously against the current system of [Aristotle's] physics. 
 
-For by them I perceived it to be possible to arrive at knowledge highly useful in life; and in room of the speculative philosophy usually taught in the schools, to discover a practical, by means of which, knowing the force and action of fire, water, air the stars, the heavens, and all the other bodies that surround us, as distinctly as we know the various crafts of our artisans, we might also apply them in the same way to all the uses to which they are adapted, and thus render ourselves the lords and possessors of nature. 
+<!-- the law by which we are bound to promote, as far as in us lies, the .  -->
 
-This is a result to be desired, not only in order to the invention of an infinity of arts, by which we might be enabled to enjoy without any trouble the fruits of the earth, and all its comforts, but also and especially for the preservation of health, which is without doubt, of all the blessings of this life, the first and fundamental one; for the mind is so intimately dependent upon the condition and relation of the organs of the body, that if any means can ever be found to render men wiser and more ingenious than hitherto, I believe that it is in medicine they must be sought for. 
+My principles lead to:
+- knowledge which is highly useful in life. 
+- a practical way of knowing the force and action of fire, water, air the stars, the heavens, and all the other bodies that surround us
+  - This is in the same way that we distinctly know the crafts of our artisans.
 
-Medical science has a few useful things. <!--  whose utility is very remarkable= but without any wish to depreciate it, I am confident that there is no-one, even among those whose profession it is, who does not admit that all at present known in it is almost nothing in comparison of what remains to be discovered; --> and that we could free ourselves from an infinity of maladies of body as well as of mind, and perhaps also even from the debility of age, if we had sufficiently ample knowledge of their causes, and of all the remedies provided for us by nature. 
+This could make ourselves the lords and possessors of nature through the invention of an infinity of arts.
 
-But since I designed to employ my whole life in the search after so necessary a science, and since I had fallen in with a path which seems to me such, that if anyone follow it he must inevitably reach the end desired, unless he be hindered either by the shortness of life or the want of experiments, I judged that there could be no more effectual provision against these two impediments than if I were faithfully to communicate to the public all the little I might myself have found, and incite men of superior genius to strive to proceed farther, by contributing, each according to his inclination and ability, to the experiments which it would be necessary to make, and also by informing the public of all they might discover, so that, by the last beginning where those before them had left off, and thus connecting the lives and labours of many, we might collectively proceed much farther than each by himself could do.
+The first and fundamental use of such inventions is for the preservation of health.
+
+
+<!-- For by them I perceived it to be possible to arrive at ; and in room of the speculative philosophy usually taught in the schools, to discover a practical, by means of which, 
+
+, we might also apply them in the same way to all the uses to which they are adapted, and thus -->
+
+<!-- This is a result to be desired, not only in order to the invention of an infinity of arts, by which we might be enabled to enjoy without any trouble the fruits of the earth, and all its comforts, but also and especially for 
+
+, which is without doubt, of all the blessings of this life, ; for -->
+
+The mind is so intimately dependent on the condition and relation of the organs of the body.
+
+ <!-- that if any means can ever be found to render men wiser and more ingenious than hitherto, I believe that it is in medicine they must be sought for.  -->
+
+Medical science has a few useful things and is very decifient. 
+
+<!--  whose utility is very remarkable= but without any wish to depreciate it, I am confident that there is no-one, even among those whose profession it is, who does not admit that all at present known in it is almost nothing in comparison of what remains to be discovered; --> 
+
+We could free ourselves from the maladies of body and mind, and perhaps also even old age, if we knew:
+- their causes, and
+- all the remedies provided by nature
+
+
+I have dedicated my whole life in the search of such a science.
+
+My path will inevitably reach success.
+
+But it is hindered either by:
+- the shortness of life or
+- the want of experiments
+
+<!-- , and since I had fallen in with a path which seems to me such, that if anyone follow it he must  the end desired, unless he be  -->
+
+I can get around these obstacles by:
+- communicating to the public all the little which I myself have found
+- inciting men of superior genius to proceed farther than me, by contributing, each according to his inclination and ability, to the necessary experiments
+
+ <!-- which it would be  to make, and also by informing the public of all they might discover, so that, by the last beginning where those before them had left off, and thus -->
+
+This would connect the lives and labours of many, so that we can collectively proceed much farther than if we worked individually.
+
+ <!-- each by himself could do. -->
+
+
+<!-- , I judged that there could be no more effectual provision against these two impediments than if I were faithfully to , and  -->
 
 
 Experiments become always more necessary the more one is advanced in knowledge. 
@@ -63,27 +116,76 @@ I have found heavens, stars, an earth, and even on the earth water, air, fire, m
 
 Thereupon, turning over in my mind, the objects that had ever been presented to my senses I freely venture to state that I have never observed any which I could not satisfactorily explain by the principles had discovered. 
 
-The power of nature is so ample and vast. These principles are so simple and general, that I have hardly observed a single particular effect which I cannot at once recognize as capable of being deduced in many different modes from the principles, 
+The power of nature is so ample and vast.
 
-My greatest difficulty usually is to discover in which of these modes the effect is dependent upon them; for out of this difficulty cannot otherwise extricate myself than by again seeking certain experiments, which may be such that their result is not the same, if it is in the one of these modes at we must explain it, as it would be if it were to be explained in the other. 
+These principles are so simple and general.
 
-As to what remains, I am now in a position to discern, as I think, with sufficient clearness what course must be taken to make the majority those experiments which may conduce to this end= but I perceive likewise that they are such and so numerous, that neither my hands nor my income, though it were a thousand times larger than it is, would be sufficient for them all; so that according as henceforward I shall have the means of making more or fewer experiments, I shall in the same proportion make greater or less progress in the knowledge of nature. This was what I had hoped to make known by the treatise I had written, and so clearly to exhibit the advantage that would thence accrue to the public, as to induce all who have the common good of man at heart, that is, all who are virtuous in truth, and not merely in appearance, or according to opinion, as well to communicate to me the experiments they had already made, as to assist me in those that remain to be made.
+I have hardly observed a single effect which I cannot immediately recognize as capable of being deduced in many different modes from the principles.
+
+My greatest difficulty usually is figuring out in which of these modes the effect is dependent on them.
+
+I can only get out of this difficulty by seeking experiments which have different results [between the control and the variable].
+
+ <!-- same, if it is in the one of these modes at we must explain it, as it would be if it were to be explained in the other.  -->
+
+<!-- As to what remains, I am now in a position to discern, as I think, with sufficient clearness what course must be taken to make the majority those experiments which may conduce to this end= but I perceive likewise that they are such and so numerous, -->
+
+
+So many experiments are needed, that neither my hands nor my income, though it were a thousand times larger than it is, would be sufficient for them all.
+
+The more experiments, the greater the progress in the knowledge of nature.
+
+so that according as henceforward I shall have the means of making more or fewer experiments, I shall in the same proportion make greater or less  
+
+This was what I had hoped to make known by the treatise I had written, and so clearly to exhibit the advantage that would thence accrue to the public, as to induce all who have the common good of man at heart, that is, all who are virtuous in truth, and not merely in appearance, or according to opinion, as well to communicate to me the experiments they had already made, as to assist me in those that remain to be made.
 
 But since that time other reasons have occurred to me, by which I have been led to change my opinion, and to think that I ought indeed to go on committing to writing all the results which I deemed of any moment, as soon as I should have tested their truth, and to bestow the same care upon them as I would have done had it been my design to publish them. 
 
 This course commended itself to me, as well because I thus afforded myself more ample inducement to examine them thoroughly, for doubtless that is always more narrowly scrutinized which we believe will be read by many, than that which is written merely for our private use (and frequently what has seemed to me true when I first conceived it, has appeared false when I have set about committing it to writing), as because I thus lost no opportunity of advancing the interests of the public, as far as in me lay, and since thus likewise, if my writings possess any value, those into whose hands they may fall after my death may be able to put them to what use they deem proper.
 
-But I will not publish them during my lifetime because of the oppositions or controversies they will cause. <!--  which they might give rise, or even the reputation, such as it might be, which they would acquire for me, should be any occasion of my losing the time that I had set apart for my own improvement. --> <!-- For though it be true that everyone is bound to promote to the extent of his ability the good of others, and that to be useful to no-one is really to be worthless, yet it is likewise true that our cares ought to extend beyond the present, and it is good to omit doing what might perhaps bring some profit to the living, when we have in view the accomplishment of other ends that will be of much greater advantage to posterity. -->
+But I will not publish them during my lifetime because of the oppositions or controversies they will cause.
 
-I am quite willing it should be known that the little I have hitherto learned is almost nothing in comparison with that of which I am ignorant, and to the knowledge of which I do not despair of being able to attain; for it is much the same with those who gradually discover truth in the sciences, as with those who when growing rich find less difficulty in making great acquisitions, than they formerly experienced when poor in making acquisitions of much smaller amount. Or they may be compared to the commanders of armies, whose forces usually increase in proportion to their victories, and who need greater prudence to keep together the residue of their troops after a defeat than after a victory to take towns and provinces. 
+<!--  which they might give rise, or even the reputation, such as it might be, which they would acquire for me, should be any occasion of my losing the time that I had set apart for my own improvement. --> <!-- For though it be true that everyone is bound to promote to the extent of his ability the good of others, and that to be useful to no-one is really to be worthless, yet it is likewise true that our cares ought to extend beyond the present, and it is good to omit doing what might perhaps bring some profit to the living, when we have in view the accomplishment of other ends that will be of much greater advantage to posterity. -->
 
-For he truly engages in battle who endeavours to surmount all the difficulties and errors which prevent him from reaching the knowledge of truth, and he is overcome in fight who admits a false opinion touching a matter of any generality and importance, and he requires thereafter much more skill to recover his former position than to make great advances when once in possession of thoroughly ascertained principles. As for myself, if I have succeeded in discovering any truths in the sciences (and I trust that what is contained in this volume I will show that I have found some), I can declare that they are but the consequences and results of five or six principal difficulties which I have surmounted, and my encounters with which I reckoned as battles in which victory declared for me. 
+The little I have hitherto learned is almost nothing compared to that of which I am ignorant.
 
-I will not hesitate even to avow my belief that nothing further is wanting to enable me fully to realize my designs than to gain two or three similar victories; and that I am not so far advanced in years but that, according to the ordinary course of nature, I may still have sufficient leisure for this end.
+ <!-- and to the knowledge of which I do not despair of being able to attain; for it is much the same with those who gradually discover truth in the sciences, as with  -->
 
-But I conceive myself the more bound to husband the time that remains the greater my expectation of being able to employ it aright, and I should doubtless have much to rob me of it, were I to publish the principles of my physics= for although they are almost all so evident that to assent to them no more is needed than simply to understand them, and although there is not one of them of which I do not expect to be able to give demonstration, yet, as it is impossible that they can be in accordance with all the diverse opinions of others, I foresee that I should frequently be turned aside from my grand design, on occasion of the opposition which they would be sure to awaken.
+This is similar to:
+- those who when growing rich find less difficulty in making great acquisitions compared to when they were poor making acquisitions of much smaller amount.
+- the commanders of armies, whose forces usually increase in proportion to their victories
+  - They need greater prudence to keep together their troops after a defeat than after a victory
 
-These oppositions would be useful in:
+ <!-- to take towns and provinces.  For he truly engages in battle who   touching a matter of any generality and importance, and he requires thereafter  -->
+
+A true warrior endeavours to surmount all the difficulties and errors which prevent him from reaching the knowledge of truth.
+
+He loses if he admits a false opinion.
+- He would need much more skill to recover his former position than to make great advances when once in possession of thoroughly ascertained principles. 
+
+The truths that I have discovering in the sciences is from the 5-6 principal difficulties which I have surmounted.
+
+<!-- , and my encounters with which I reckoned as battles in which victory declared for me. 
+
+(and I trust that what is contained in this volume I will show that I have found some), I can declare that they are but the consequences and results of  -->
+
+I will not hesitate even to avow my belief that nothing further is wanting to enable me fully to realize my designs than to gain 2-3 similar victories.
+
+ <!-- far advanced in years but that, according to the ordinary course of nature, -->
+
+I am not so old yet I may still have sufficient leisure for this end.
+
+<!-- But I conceive myself the more bound to husband the time that remains the greater my expectation of being able to employ it aright, and I should doubtless have much to rob me of it, were I to publish the principles of my physics= for although they are almost all so evident that to assent to them no more is needed than simply to understand them -->
+
+I can demonstrate all these principles. 
+
+But they are against the the diverse opinions of others.
+
+<!-- , and although there is not one of them of which I do not expect to be able to give demonstration, yet, as it is impossible that they can be in accordance with all 
+
+, I foresee that I should frequently be turned aside from my grand design, on occasion of the opposition which they would be sure to awaken. -->
+
+I expect opposition to them. But these oppositions would be useful in:
 - making me aware of my errors
 - making people realize the value of my philosophy
 - allowing others to build on it
