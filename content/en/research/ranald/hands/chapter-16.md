@@ -9,20 +9,7 @@ draft: true
 ---
 
 
-WHEN The Doctor Loo\s at Hands
-
-the doctor looks at hands,
-only what
-we laymen
-what does he see? Certainly not
-body having the
-behold, a moving part of the
-power to grasp objects, move them, make them, change them; nor
-does he see just an appendage through which we can express our-
-selves, supplementing our powers of speech by gesture.
-Underlying the doctor's professional glance at our hands is his
-knowledge of their structure and their functioning. First, he sees in
-the hand a part of the body whose development he can trace through
+The doctor sees in the hand a part of the body whose development he can trace through
 Though there are large gaps in the doctor's knowledge
 which he has to bridge with guesswork and theory, he
 has a consistent explanation of the successive steps by which life in

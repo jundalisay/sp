@@ -22,7 +22,7 @@ XXI. All parts of the Earth, if considered alone, are not heavy but light. To un
 
 The motion of the air-aether that makes droplets round also makes planets round. 
 
-{{< img src="/graphics/physics/droplet.jpg" alt="In Cartesian Physics, surface tension and gravity have the same cause. The parts of a droplet go towards its center just as a planet's parts go to its own center." >}}
+{{< i s="/graphics/physics/droplet.jpg" a="Surface Tension" c="In Cartesian Physics, surface tension and gravity have the same cause. The parts of a droplet go towards its center just as a planet's parts go to its own center. The space particles travel in straight lines that create a circular shape as an effect of the *fractal* nature of space particles." >}}
 
 
 This phenomenon is the gravity of terrestrial bodies. 

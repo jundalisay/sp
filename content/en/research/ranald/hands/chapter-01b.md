@@ -40,7 +40,7 @@ Their affections rarely conflict with their worldly interests, though in family 
 They have great regard for custom and tradition, though they are not easily swayed by others.
 
 
-## THE SPATULATE HAND
+## The Spatulate Hand
 
 A hand which promises an interesting and active life is the spatulate, or energetic. It has broad fingertips and fanlike palm, shaped like the spatula knife which chemists use for mixing.
 
@@ -50,7 +50,6 @@ The outstanding attributes of a spatulate hand are driving energy, restlessness,
 
 They are neither credulous nor overly skeptical, approaching new ideas with enthusiasm, but
 applying sound reasoning.
-
 
 Persons with spatulate hands tend to accept others for what they are. They have no desire to reform or to possess their friends. 
 
@@ -73,10 +72,13 @@ The balanced spatulate hand is usually found in great engineers, inventors and b
 Empire makers and destroyers have spatulate hands.
 
 
-## THE KNOTTY HAND
+## The Knotty Hand
 
-The knotty or profound hand is a philosophic hand, is one which goes with deep thought. You can recognize the type by its bony structure. The joints large, the back of the hand ridged, the general outline irregular. Its fingertips are usually pointed or rounded.
+The knotty or profound hand:
+- is a philosophic hand, is one which goes with deep thought. 
+- has a bony structure
 
+The joints large, the back of the hand ridged, the general outline irregular. Its fingertips are usually pointed or rounded.
 
 Logic in its narrow sense is the outstanding trait of the knotty hand. 
 

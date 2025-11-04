@@ -80,9 +80,6 @@ These  are short, horizontal lines on the outer edge of the palm under the littl
 
 This runs up the hand at an angle, ascending from the line of life toward the mount of Mercury.
 
-
 There are a number of minor lines in the hand.
 
 All the lines are not always present in every hand, and their absence is frequently of even greater significance than is their presence.
-
-

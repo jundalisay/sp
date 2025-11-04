@@ -101,7 +101,4 @@ and prominent base on the thumb often
 the accurate touch so necessary to the surgeon, dentist and
 the hand will
 
-A long, thin second phalanx
-indicate
-skilled mechanic.
-
+A long, thin second phalanx indicate a skilled mechanic.

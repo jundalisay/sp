@@ -1,6 +1,6 @@
 ---
 heading: "Part 2b"
-title: "The third premise"
+title: "The Third Premise"
 writer:
   name: Averroes
   url: https://en.wikipedia.org/wiki/Averroes

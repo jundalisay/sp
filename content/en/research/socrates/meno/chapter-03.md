@@ -22,6 +22,7 @@ Would you add that they must be gained piously, justly, or do you deem this to b
 And is any mode of acquisition, even if unjust and dishonest, equally to be deemed virtue?
 {{< /l >}}
 
+
 {{< r a="Meno" >}}
 Not virtue, Socrates, but vice.
 {{< /r >}}
@@ -56,7 +57,10 @@ What of that?
 
 SOCRATES: What of that! Why, did not I ask you to tell me the nature of virtue as a whole? And you are very far from telling me this; but declare every action to be virtue which is done with a part of virtue; as though you had told me and I must already know the whole of virtue, and this too when frittered away into little pieces. And, therefore, my dear Meno, I fear that I must begin again and repeat the same question: What is virtue? for otherwise, I can only say, that every action done with a part of virtue is virtue; what else is the meaning of saying that every action done with justice is virtue? Ought I not to ask the question over again; for can any one who does not know virtue know a part of virtue?
 
-MENO: No; I do not say that he can.
+
+{{< r a="Meno" >}}
+No; I do not say that he can.
+{{< /r >}}
 
 SOCRATES: Do you remember how, in the example of figure, we rejected any answer given in terms which were as yet unexplained or unadmitted?
 

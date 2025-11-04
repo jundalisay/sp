@@ -10,28 +10,39 @@ icon: "Socrates"
 ---
 
 
-{{< l a="Socrates" >}}
+
+<!-- {{< l a="Socrates" >}}
 Had I the command of you as well as of myself, Meno, I would not have enquired whether virtue is given by instruction or not, until we had first ascertained 'what it is.'
 
 But as you think only of controlling me who am your slave, and never of controlling yourself,—such being your notion of freedom, I must yield to you, for you are irresistible. And therefore I have now to enquire into the qualities of a thing of which I do not as yet know the nature.
-{{< /l >}}
+{{< /l >}} -->
 
 
 {{< l a="Socrates" >}}
 Can the question 'Whether virtue is given by instruction, or in any other way,' be argued on hypothesis?
 
-As the geometrician, when he is asked whether a certain triangle is capable being inscribed in a certain circle (Or, whether a certain area is capable of being inscribed as a triangle in a certain circle.), will reply: 'I cannot tell you as yet; but I will offer a hypothesis which may assist us in forming a conclusion: 
+We ask a geometrician: Can a certain triangle can be drawn in a certain circle? Can a certain area be drawn as a triangle in a certain circle?
+{{< /l >}}
+
+{{< r a="Geometrician" >}}
+I will offer a hypothesis which may assist us in forming a conclusion: 
 
 If the figure be such that when you have produced a given side of it (Or, when you apply it to the given line, i.e. the diameter of the circle (autou).), the given area of the triangle falls short by an area corresponding to the part produced (Or, similar to the area so applied.), then one consequence follows, and if this is impossible then some other;
-{{< /l >}}
+
+Therefore I assume a hypothesis before I tell you whether this triangle is capable of being inscribed in the circle':—that is a geometrical hypothesis.
+{{< /r >}}
 
 
 {{< l a="Socrates" >}}
-Therefore I wish to assume a hypothesis before I tell you whether this triangle is capable of being inscribed in the circle':—that is a geometrical hypothesis.
+We too do not know the nature and qualities of virtue.
 
-We too, as we know not the nature and qualities of virtue, must ask, whether virtue is or is not taught, under a hypothesis: as thus, if virtue is of such a class of mental goods, will it be taught or not?
+We ask whether virtue is or is not taught, under a hypothesis. 
 
-Let the first hypothesis be that virtue is or is not knowledge,—in that case will it be taught or not? or, as we were just now saying, 'remembered'? For there is no use in disputing about the name. But is virtue taught or not? or rather, does not every one see that knowledge alone is taught?
+Thus, is virtue a class of mental goods, will it be taught or not?
+
+Let the first hypothesis be that virtue is or is not knowledge,—in that case will it be taught or not? or, as we were just now saying, 'remembered'? 
+
+For there is no use in disputing about the name. But is virtue taught or not? or rather, does not every one see that knowledge alone is taught?
 {{< /l >}}
 
 

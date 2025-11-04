@@ -23,53 +23,37 @@ This is navigating without compass, stars, oars, or rudder, in which we must nee
 
 
 
+{{< r a="Sagredo" >}}
+I submit to the latter more willingly, as I am better satisfied with your architectonic and general discourse than with that of Aristotle. 
 
-SAGR. I submit to the latter more willingly, as I am better satisfied with your architectonic
-and general discourse than with that of Aristotle. For yours satisfies me without the least
-misgiving, while the other blocks me in some way at every turn. Nor do I know why Simplicio
-should not be quickly satisfied with the argument you put forward to prove that motion in a
-straight line can have no place in nature, so long as we suppose the parts of the universe to be
-disposed in the best arrangement and perfectly ordered.
+For yours satisfies me without the least misgiving, while the other blocks me in some way at every turn. 
+
+Nor do I know why Simplicio should not be quickly satisfied with the argument you put forward to prove that motion in a straight line can have no place in nature, so long as we suppose the parts of the universe to be disposed in the best arrangement and perfectly ordered.
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
-Stop there, Sagredo. for now a way occurs to me in which Simplicio may be given
-satisfaction, provided only that he does not wish to stay so closely tied to every phrase of
-Aristotle's as to hold it sacrilege to depart from a single one of them.
-There is no doubt that to maintain the optimum placement and perfect order of the parts of the
-universe as to local situation, nothing will do but circular motion or rest. As to motion by a
-straight line, I do not see how it can be of use for anything except to restore to their natural
-location such integral bodies as have been accidentally removed and separated from their
-whole, as we have just said.
+Stop there, Sagredo. for now a way occurs to me in which Simplicio may be given satisfaction, provided only that he does not wish to stay so closely tied to every phrase of Aristotle's as to hold it sacrilege to depart from a single one of them.
 
-Let us now consider the whole terrestrial globe, and let us see what can happen to make it and
-the other world bodies keep themselves in the natural and best disposition. One must either say
-that it is at rest and remains perpetually immovable in its place, or else that it stays always in
-its place but revolves itself, or finally that it goes about a center, moving along the
-circumference of a circle. Of these events, Aristotle and Ptolemy and all their followers say
-that it is the first which has always been observed and which will be forever maintained; that
-is, perpetual rest in the same place. Now why, then, should they not have said from the start
+There is no doubt that to maintain the optimum placement and perfect order of the parts of the universe as to local situation, nothing will do but circular motion or rest. 
+
+As to motion by a straight line, I do not see how it can be of use for anything except to restore to their natural location such integral bodies as have been accidentally removed and separated from their whole, as we have just said.
+
+Let us now consider the whole terrestrial globe, and let us see what can happen to make it and the other world bodies keep themselves in the natural and best disposition. 
+
+One must either say that it is at rest and remains perpetually immovable in its place, or else that it stays always in its place but revolves itself, or finally that it goes about a center, moving along the circumference of a circle. Of these events, Aristotle and Ptolemy and all their followers say that it is the first which has always been observed and which will be forever maintained; that is, perpetual rest in the same place. Now why, then, should they not have said from the start
 that its natural property is to remain motionless, rather than making its natural motion
 downward, a motion with which it never did and never will move? 
 
-As to motion by a
-straight line, let it be granted to us that nature makes use of this to restore particles of earth,
-water, air, fire, and every other integral mundane body to their whole, when any of them find
-themselves separated and transported into some improper place unless this restoration can also
-be made by finding some more appropriate circular motion. It seems to me that this original
-position fits all the consequences much better, even by Aristotle's own method, than to
-attribute straight motion as an intrinsic and natural principle of the elements. This is obvious;
-for let me ask the Peripatetic if, being of the opinion that celestial bodies are incorruptible and
-eternal, he believes that the terrestrial globe is not so, but corruptible and mortal, so that there
-will come a time when, the sun and moon and other stars continuing their existence and their
-operations, the earth will not be found in the universe but will be annihilated along with the
-rest of the elements, and I am certain that he would answer, No. Therefore generation and
-corruption belong to the parts and not to the whole; indeed, to very small and superficial parts
-which are insensible in comparison to the whole mass. Now since Aristotle argues generation
-and corruption from the contrariety of straight motions, let us grant such motions to the parts,
-which alone change and decay. But to the whole globe and sphere of the elements will be
-ascribed either circular motion or perpetual continuance in its proper place -- the only
-tendencies fined for the perpetuation and maintenance of perfect order.
+As to motion by a straight line, let it be granted to us that nature makes use of this to restore particles of earth, water, air, fire, and every other integral mundane body to their whole, when any of them find themselves separated and transported into some improper place unless this restoration can also be made by finding some more appropriate circular motion. 
+
+It seems to me that this original position fits all the consequences much better, even by Aristotle's own method, than to attribute straight motion as an intrinsic and natural principle of the elements. 
+
+This is obvious; for let me ask the Peripatetic if, being of the opinion that celestial bodies are incorruptible and eternal, he believes that the terrestrial globe is not so, but corruptible and mortal, so that there will come a time when, the sun and moon and other stars continuing their existence and their operations, the earth will not be found in the universe but will be annihilated along with the rest of the elements, and I am certain that he would answer, No. 
+
+Therefore generation and corruption belong to the parts and not to the whole; indeed, to very small and superficial parts which are insensible in comparison to the whole mass. 
+
+Now since Aristotle argues generation and corruption from the contrariety of straight motions, let us grant such motions to the parts, which alone change and decay. But to the whole globe and sphere of the elements will be ascribed either circular motion or perpetual continuance in its proper place -- the only tendencies fined for the perpetuation and maintenance of perfect order.
 
 What is thus said of earth may be said as reasonably of fire and of the greater part of the air, to
 which elements the Peripatetics are forced to assign as an intrinsic and natural motion one with

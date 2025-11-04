@@ -9,7 +9,7 @@ draft: true
 ---
 
 
-The Hand as Medium
+## The Hand as Medium
 
 one use to which study of the hands has been put with thor-
 method is in fingerprinting for the purposes of iden-
@@ -557,6 +557,7 @@ is continually renewed by uncertainty. The sparsely populated county
 of Los Angeles in California reported for one year over one hundred
 amnesia victims unidentified and consequently committed to insti-
 tutions.
+
 These figures apply to representative cities in normal times. In
 flood and earthquake, the number of unidentified victims is
 fire,
@@ -564,7 +565,9 @@ appalling. Children, separated from their families, are never reunited
 with them. The dead and the injured are unclaimed. Bereaved fam-
 are in doubt for years about the fate of their loved ones. When
 the Ohio River overflowed its banks and routed thousands out of
-iliesIDENTIFICATION BY THE HAND
+ilies
+
+IDENTIFICATION BY THE HAND
 108
 homes, scattering family units, when the Morro Castle burned,
 when San Francisco was devastated by fire and quakes, rescue

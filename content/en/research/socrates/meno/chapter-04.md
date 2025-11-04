@@ -87,34 +87,61 @@ Four.
 {{< /r >}}
 
 
-SOCRATES: And how many in this?
+{{< l a="Socrates" >}}
+How many in this?
+{{< /l >}}
+
 
 {{< r a="Boy" >}}
 Two.
 {{< /r >}}
 
-
-SOCRATES: And four is how many times two?
+{{< l a="Socrates" >}}
+Four is how many times two?
+{{< /l >}}
 
 {{< r a="Boy" >}}
 Twice.
 {{< /r >}}
 
-SOCRATES: And this space is of how many feet?
+{{< l a="Socrates" >}}
+This space is of how many feet?
+{{< /l >}}
 
-BOY: Of eight feet.
+{{< r a="Boy" >}}
+Of 8 feet
+{{< /r >}}
 
-SOCRATES: And from what line do you get this figure?
 
-BOY: From this.
+{{< l a="Socrates" >}}
+From what line do you get this figure?
+{{< /l >}}
 
-SOCRATES: That is, from the line which extends from corner to corner of the figure of four feet?
+{{< r a="Boy" >}}
+From this.
+{{< /r >}}
 
-BOY: Yes.
 
-SOCRATES: And that is the line which the learned call the diagonal. And if this is the proper name, then you, Meno's slave, are prepared to affirm that the double space is the square of the diagonal?
+{{< l a="Socrates" >}}
+That is, from the line which extends from corner to corner of the figure of 4 feet?
+{{< /l >}}
 
-BOY: Certainly, Socrates.
+
+{{< r a="Boy" >}}
+Yes
+{{< /r >}}
+
+
+{{< l a="Socrates" >}}
+That is the line which the learned call the diagonal. 
+
+If this is the proper name, then you, affirm that the double space is the square of the diagonal?
+{{< /l >}}
+
+
+{{< r a="Boy" >}}
+Certainly, Socrates.
+{{< /r >}}
 
 
 {{< l a="Socrates" >}}
@@ -142,21 +169,16 @@ He may be made to do the same with all geometry and every other branch of knowle
 {{< /l >}}
 
 
-MENO: And I am certain that no one ever did teach him.
-
-SOCRATES: And yet he has the knowledge?
-
-MENO: The fact, Socrates, is undeniable.
-
-SOCRATES: But if he did not acquire the knowledge in this life, then he must have had and learned it at some other time?
-
-MENO: Clearly he must.
-
-SOCRATES: Which must have been the time when he was not a man?
-
+{{< r a="Meno" >}}
+I am certain that no one ever did teach him.
+{{< /r >}}
 
 
 {{< l a="Socrates" >}}
+Yet he has the knowledge.
+
+But if he did not acquire the knowledge in this life, then he must have had and learned it at some other time before he was born.
+
 If there have been always true thoughts in him, both at the time when he was and was not a man, which only need to be awakened into knowledge by putting questions to him, his soul must have always possessed this knowledge, for he always either was or was not a man.
 
 If the truth of all things always existed in the soul, then the soul is immortal. Wherefore be of good cheer, and try to recollect what you do not know, or rather what you do not remember.
@@ -183,4 +205,3 @@ Thus, a man should enquire about that which he does not know, shall you and I ma
 {{< r a="Meno" >}}
 By all means, Socrates. And yet I would much rather return to my original question, Whether in seeking to acquire virtue we should regard it as a thing to be taught, or as a gift of nature, or as coming to men in some other way?
 {{< /r >}}
-

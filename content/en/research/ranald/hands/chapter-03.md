@@ -1,7 +1,6 @@
 ---
 heading: Chapter 3
 title: "The Thumb"
-# date: 1767
 weight: 12
 contributors: ['Ranald']
 c: "deeppink"
@@ -22,10 +21,12 @@ The thumbs of an ape are so short and rigid (plate 17).
 
 {{< img src="/graphics/palm/ape.jpg" alt="Ape palm" >}}
 
-In the hand of man, the thumb is opposable. It can swing in an arc and touch every one of the other fingers. An ape's thumb cannot. Our manual dexterity, our ability to handle tools, to create, to build, to write, to guide fine instruments, we owe to our thumbs.
+In the hand of man, the thumb is opposable. It can swing in an arc and touch every one of the other fingers. An ape's thumb cannot. 
+
+Our manual dexterity, our ability to handle tools, to create, to build, to write, to guide fine instruments, we owe to our thumbs.
 
 
-### LARGE AND SMALL THUMBS
+## Large And Small Thumbs
 
 The thumb governs the general qualities of will, reason and appetites. 
 
@@ -47,7 +48,8 @@ Small thumbs always detract from the positive qualities of a hand, not so much b
 
 The normal thumb, when held straight up along the side of the hand, should reach to about the middle of the index finger's base phalanx (see plate 18), and its second and third phalanx should be of equal size.
 
-### THE THUMB'S SETTING
+
+## The Thumb'S Setting
 
 The relative height of the thumb measured by the first finger differs with the setting of the thumb whether high or low on the hand. Often a low-set thumb, even when it is long, will reach only to the base of the first finger.
 
@@ -65,7 +67,7 @@ But if the other aspects of the hand are good, the close setting may indicate on
 A medium setting of the thumb with free movement at the side of the hand indicates a person who is well balanced, neither extravagant nor mean, neither obstinate nor weak-willed; frank, honest and loyal.
 
 
-### The Thumb'S Phalanxes
+## The Thumb'S Phalanxes
 
 The thumb has 3 phalanxes. 
 
@@ -97,5 +99,3 @@ The second thumb phalanx governs perception, judgment and reasoning powers. If l
 who can make intricate plans but falls short in their execution. 
 
 On the other hand, a deficient phalanx of reason with strong will, leads to action which may often be foolish or misapplied. Waisted formation of the phalanx of reason goes with an ability to make fine distinctions.
-
-

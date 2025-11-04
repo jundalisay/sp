@@ -43,7 +43,7 @@ Love of beauty and disgust with ugliness are often guiding principles in the liv
 They live through their feelings. Their emotions swing from ecstasy, when they are loved, to despair when they feel themselves lonely and useless.
 
 
-## COMBINED TYPES
+## Combined Types
 
 There are few persons nowadays whose hands are of one type alone. Most of us are much more complex than that. 
 
@@ -56,6 +56,7 @@ Spatulate fingers with a square hand give originality and energy.
 Such a combination is excellent ior an inventor. A square hand with conic or pointed fingers is a good indication for creative art work, the square palm giving method and perseverance, the tapering fingers contributing sensitiveness and love of beauty. 
 
 Even in this combination, however, the force and drive of energy are needed to make for real accomplishment.
+
 
 ## THE MIXED HAND
 

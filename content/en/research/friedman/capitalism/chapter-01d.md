@@ -10,26 +10,29 @@ description: ""
 
 Most of the human race has lived under mild autocracies.
 
-1) These autocracies were far, far from mild with respect to those people who chose to take an active role in politics. For the
-average citizen, however, the government was neither very oppressive nor
-very beneficial.
+<!-- 1)  -->
 
-The economic policy followed by most of these despots doesn’t
-differ too much from what has been followed by most historic democracies. Athens and Rome, after all, had price control over basic necessities.
+<!-- These autocracies were far from mild with respect to those people who chose to take an active role in politics. 
 
-Indeed, the bread of Rome was largely provided directly by the Roman
-state. Anyone living today realizes that democracies muddle around a good
-deal in their economies, just like despots.
+For the average citizen, however, the government was neither very oppressive nor very beneficial. -->
 
-Most despots have, to repeat, not done a great deal in their economy,
-not because they have any theoretical objections to it, but because they are
-busy with other things, such as their harem. I recently acquired a book2
-which is a translation of a general guide for local officials under the old
-Chinese Empire. 
+The economic policy followed by most of these despots doesn’t differ too much from what has been followed by most historic democracies. 
 
-The official slogan of the Chinese Empire from the time
-of Mencious was: “The government should own all important industries and carefully control the rest.” No doubt the author of this book believed in that slogan, but as a matter of fact, in this very thick book he devotes
-almost no attention to economic control. The only conspicuous example of
+Athens and Rome had price control over basic necessities.
+
+The bread of Rome was largely provided directly by the Roman state.
+
+Anyone living today realizes that democracies muddle around a good deal in their economies, just like despots.
+
+Most despots have not done a great deal in their economy, not because they have any theoretical objections to it, but because they are busy with other things, such as their harem.
+
+I recently acquired a book on a guide for local officials under the old Chinese Empire. 
+
+The official slogan of the Chinese Empire from the time of Mencius was: 
+
+“The government should own all important industries and carefully control the rest.” 
+
+In this very thick book the author devotes almost no attention to economic control. The only conspicuous example of
 intervention in the economy was his decision that the wine shops located
 directly across from the entrance of his Yamen were overcharging their
 customers. He imposed price control on them.

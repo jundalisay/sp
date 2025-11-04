@@ -9,7 +9,9 @@ description: "Sigmund Freud was the founder of psychoanalysis, a clinical method
 
 
 
-The humanitarian and egalitarian sentiment which helped produce the steeply graduated individual income tax has also produced a host of other measures directed at promoting the ''welfare" of particular groups. The most important single set of measures is the bundle misleadingly labeled "social security." Others are public housing, minimum wage laws, farm price supports, medical care for particular groups, special aid programs, and so on.
+The humanitarian and egalitarian sentiment helped produce the steeply graduated individual income tax has also produced a host of other measures directed at promoting the ''welfare" of particular groups.
+
+The most important single set of measures is the bundle misleadingly labeled "social security." Others are public housing, minimum wage laws, farm price supports, medical care for particular groups, special aid programs, and so on.
 
 I shall first discuss briefly a few of the latter, mostly to indicate how
 different their actual effects may be from those intended, and shall then discuss

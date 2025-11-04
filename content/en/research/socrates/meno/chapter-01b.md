@@ -32,19 +32,19 @@ I think not, Socrates.
 
 
 {{< l a="Socrates" >}}
-There would be small reason in that. Yet once more, fair friend; according to you, virtue is 'the power of governing;' but do you not add 'justly and not unjustly'?
+To you, virtue is 'the power of governing.' But do you add 'justly'?
 {{< /l >}}
 
 
 {{< r a="Meno" >}}
-Yes, Socrates; I agree there; for justice is virtue.
+Yes, I agree there; for justice is virtue.
 {{< /r >}}
 
 
 {{< l a="Socrates" >}}
-Would you say 'virtue,' Meno, or 'a virtue'?
+Would you say that 'justice is virtue' or 'justice is **a** virtue'?
 
-I mean as I might say about anything; that a round, for example, is 'a figure' and not simply 'figure,' and I should adopt this mode of speaking, because there are other figures.
+For example, is round 'a figure' and there are other figures, or is round the only figure?
 {{< /l >}}
 
 

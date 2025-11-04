@@ -23,90 +23,134 @@ There is the same proof that these ideas must have existed before we were born, 
 {{< r a="Simmias" >}}
 Yes, Socrates. 
 
-I am convinced that there is precisely the same necessity for the one as for the other. The argument retreats successfully to the position that the existence of the soul before birth cannot be separated from the existence of the essence of which you speak. 
+I am convinced that there is precisely the same necessity for the one as for the other. 
 
-For there is nothing which to my mind is so patent as that beauty, goodness, and the other notions of which you were just now speaking, have a most real and absolute existence; and I am satisfied with the proof.
+The argument retreats successfully to the position that the existence of the soul before birth cannot be separated from the existence of the essence of which you speak. 
+
+For there is nothing which to my mind is so patent as that beauty, goodness, and the other notions of which you were just now speaking, have a most real and absolute existence.
+
+I am satisfied with the proof.
 {{< /r >}}
 
-Well, but is Cebes equally satisfied? for I must convince him too.
+{{< l a="Socrates" >}}
+But is Cebes equally satisfied? I must convince him too.
+{{< /l >}}
+
 
 {{< r a="Simmias" >}}
-I think that Cebes is satisfied= although he is the most incredulous of mortals, yet I believe that he is sufficiently convinced of the existence of the soul before birth. 
+I think that Cebes is satisfied.
 
-But that after death the soul will continue to exist is not yet proven even to my own satisfaction. I cannot get rid of the feeling of the many to which Cebes was referring—the feeling that when the man dies the soul will be dispersed, and that this may be the extinction of her. 
+He is the most incredulous. Yet I believe that he is convinced of the existence of the soul before birth. 
 
-For admitting that she may have been born elsewhere, and framed out of other elements, and was in existence before entering the human body, why after having entered in and gone out again may she not herself be destroyed and come to an end?
+But that after death, the soul's continued existence is not yet proven even to my own satisfaction.
+
+I cannot get rid of the feeling of the many to which Cebes was referring—the feeling that when the man dies the soul will be dispersed, and that this may be the extinction of her. 
+
+I allow that the soul might have been:
+- born elsewhere
+- framed out of other elements
+- in existence before entering the human body
+
+But why after having entered in and gone out again may she not be destroyed and come to an end?
 {{< /r >}}
 
 {{< r a="Cebes" >}}
 Very true, Simmias. 
 
-About half of what was required has been proven; to wit, that our souls existed before we were born:—that the soul will exist after death as well as before birth is the other half of which the proof is still wanting, and has to be supplied; when that is given the demonstration will be complete.
+About half of what was required has been proven, that our souls existed before we were born.
+
+But the soul existing after death as well as before birth is the other half of which the proof is still lacking.
+
+ <!-- wanting, and has to be supplied; when that is given the demonstration will be complete. -->
 {{< /r >}}
 
+
 {{< l a="Socrates" >}}
-But that proof has been already given. If you put the two arguments together—I mean this and the former one, in which we admitted that everything living is born of the dead. 
+But that proof has been already given.
 
-For if the soul exists before birth, and in coming to life and being born can be born only from death and dying, must she not after death continue to exist, since she has to be born again?—Surely the proof which you desire has been already furnished. 
+You should put the 2 arguments together.
 
-Still I suspect that you and Simmias would be glad to probe the argument further. Like children, you are haunted with a fear that when the soul leaves the body, the wind may really blow her away and scatter her; especially if a man should happen to die in a great storm and not when the sky is calm.
+We admitted that everything living is born of the dead. 
+
+If the soul exists before birth, and in coming to life and being born, then being born comes only from death and dying.
+
+It follows that the soul after death must continue to exist, since it has to be born again.
+
+<!-- ?—Surely the proof which you desire has been already furnished.  -->
+
+Still I suspect that you and Simmias would be glad to probe the argument further.
+
+Like children, you are haunted with a fear that when the soul leaves the body, the wind may really blow her away and scatter her.
+
+This is especially if a man dies in a great storm and not when the sky is calm.
 {{< /l >}}
 
 
-Cebes answered with a smile= Then, Socrates, you must argue us out of our fears—and yet, strictly speaking, they are not our fears, but there is a child within us to whom death is a sort of hobgoblin; him too we must persuade not to be afraid when he is alone in the dark.
+{{< r a="Cebes" >}}
+[smiling] Then, Socrates, you must argue us out of our fears.
+
+There is a child within us to whom death is a sort of hobgoblin.
+
+We must persuade this child not to be afraid when he is alone in the dark.
+{{< /r >}}
+
+<!-- Let the voice of the charmer be applied daily until you have charmed away the fear.
+
+And where shall we find a good charmer of our fears, Socrates, when you are gone? -->
+
 
 {{< l a="Socrates" >}}
-Let the voice of the charmer be applied daily until you have charmed away the fear.
-{{< /l >}}
+<!-- Hellas is a large place with many good men.
 
+There are many barbarous races. Seek for him among them all, far and wide, sparing neither pains nor money. 
 
-And where shall we find a good charmer of our fears, Socrates, when you are gone?
+For there is no better way of spending your money. You must seek among yourselves too. You are the best people able to make the search. -->
 
-{{< l a="Socrates" >}}
-Hellas is a large place, Cebes. 
+We must ask into the soul which we imagine and fear is liable to be scattered.
 
-It has many good men. There are many barbarous races. Seek for him among them all, far and wide, sparing neither pains nor money. For there is no better way of spending your money. You must seek among yourselves too. You are the best people able to make the search.
-
-We must ask ourselves what that is which, as we imagine, is liable to be scattered, and about which we fear? and what again is that about which we have no fear?
-{{< /l >}}
+<!-- , and about which we fear? and what again is that about which we have no fear? -->
 
 <!-- And then we may proceed further to enquire -->
-{{< l a="Socrates" >}}
-Does that which suffers dispersion is or is not of the nature of soul? Our hopes and fears as to our own souls will turn upon the answers to these questions.
 
-The compound or composite is naturally capable of also being dissolved. But that which is uncompounded is indissoluble.
+<!-- Does that which suffers dispersion is or is not of the nature of -->
+
+Can the soul be dispersed? 
+
+<!-- Our hopes and fears as to our own souls will turn upon the answers to these questions. -->
+
+The compound or composite is naturally capable of being dissolved. But that which is uncompounded is indissoluble.
 
 The uncompounded may be assumed to be the same and unchanging, whereas the compound is always changing and never the same.
-{{< /l >}}
 
+In the dialectical process, we define idea or essence as true existence.
 
-{{< l a="Socrates" >}}
-In the dialectical process, we define idea or essence as true existence. The true essence of equality, beauty, etc are unchangeable. 
+The true essence of equality, beauty, etc are unchangeable. 
 
 Each of them are always as they are. They have the same simple self-existent and unchanging forms. They do not admit of variation at all at anytime. 
 
-The beautiful are always changing -- horses, garments, etc. <!--  or any other things which are named by the same names and may be called equal or beautiful,—are they all unchanging and the same always, or quite the reverse? May they not rather be described as almost always changing and hardly ever the same, either with themselves or with one another? -->
+The beautiful are always changing -- horses, garments, etc. 
 
-These you can touch and see and perceive with the senses. But the unchanging things you can only perceive with the mind—they are invisible and are not seen.
-{{< /l >}}
+<!--  or any other things which are named by the same names and may be called equal or beautiful,—are they all unchanging and the same always, or quite the reverse? May they not rather be described as almost always changing and hardly ever the same, either with themselves or with one another? -->
 
+These you can touch and see and perceive with the senses. 
 
-{{< l a="Socrates" >}}
+But the unchanging things you can only perceive with the mind—they are invisible and are not seen.
+
 There are 2 sorts of existences:
-- seen: this is the changing
-- unseen: this is the unchanging
+
+1. Seen: this is the changing
+2. Unseen: this is the unchanging
 
 One of us is part body, another is part soul.  The body is the seen and the soul is the unseen by the human eye.
-{{< /l >}}
 
-{{< l a="Socrates" >}}
 The soul uses the body as an instrument of perception. It uses sight or hearing. 
 
-Perceiving through the body is perceiving through the senses. The soul too is then dragged by the body into the region of the changeable. It wanders and is confused. The world spins round her, and she is like a drunkard, when she touches change. 
-{{< /l >}}
+Perceiving through the body is perceiving through the senses. 
 
+The soul too is then dragged by the body into the region of the changeable. It wanders and is confused. 
 
-{{< l a="Socrates" >}}
+The world spins round her, and she is like a drunkard, when she touches change. 
+
 But when returning into herself she reflects, then she passes into the other world, the region of purity, and eternity, and immortality, and unchangeableness, which are her kindred, and with them she ever lives, when she is by herself and is not let or hindered. 
 
 Then she ceases from her erring ways, and being in communion with the unchanging is unchanging. 
@@ -117,7 +161,8 @@ And to which class is the soul more nearly alike and akin?
 {{< /l  >}}
 
 {{< r a="Cebes" >}}
-I think, Socrates, that, in the opinion of every one who follows the argument, the soul will be infinitely more like the unchangeable—even the most stupid person will not deny that.
+I think that the soul will be infinitely more like the unchangeable
+<!-- —even the most stupid person will not deny that. -->
 {{< /r >}}
 
 

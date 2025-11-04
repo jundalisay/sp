@@ -29,7 +29,9 @@ With such a line, you can expect the ability to concentrate, sound judgment, a g
 
 A broad, shallow line indicates less precision and sureness, but, though the mind may be less penetrating, it is not necessarily less purposeful. It is the chained line (see plate 28) which shows flightiness and lack of concentration.
 
-Often you will find a line which varies in quality through its length. In that case, the mental abilities will differ at various periods of life. Sometimes the cause of such variation will be apparent in other signs of the hand. The life line may, for example, show a serious illness at the time the line of head is of inferior quality, or the line of heart may
+Often you will find a line which varies in quality through its length. 
+
+In that case, the mental abilities will differ at various periods of life. Sometimes the cause of such variation will be apparent in other signs of the hand. The life line may, for example, show a serious illness at the time the line of head is of inferior quality, or the line of heart may
 indicate emotional unbalance for a period.
 
 **A broken line is  always unfortunate.** 

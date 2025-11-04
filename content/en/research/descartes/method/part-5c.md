@@ -1,7 +1,7 @@
 ---
 heading: Part 5c
 title: The Animal Spirits
-weight: 14
+weight: 19
 description: Rene Descartes 1635
 c: "royalblue"
 writer:

@@ -12,9 +12,8 @@ draft: true
 
 While the length of the fingers will give some indication of the
 method of working and thinking natural to a man, the
-fingertips will greatly modify that preliminary finding. It is a safe
-assumption to assign sensitivity and intuition to pointed and taper-
-ing tips, practically to square ones, and energy to spready ones.
+fingertips will greatly modify that preliminary finding. It is a safe assumption to assign sensitivity and intuition to pointed and tapering tips, practically to square ones, and energy to spready ones.
+
 general
 The
 various combinations of differently shaped tips with fingers of
@@ -32,10 +31,12 @@ ators, decorators, hotel
 of all kinds, welfare workers, beauty oper-
 such persons should have the ma-
 managers
+
 Those whose work is
 and whose relations with coworkers are more or less
 impersonal can safely have squarish fingertips. Those who must
 dominate others have spatulate tips.
+
 From the tips and fingers, we can form a rough picture of the
 kinds of work for which a man is fitted. Of course, to divide voca-
 tions by rigid lines is both incorrect and misleading. A mining en-
@@ -64,9 +65,8 @@ And for almost every hand there is more than one fitting avenue of
 expression. Your hand will not so much tell you the one and only
 way by which you may succeed and be happy as indicate the paths by
 which you cannot, and also, show you a number by which you might.
-As illustration, I should like to describe a number of hands of per-
-sons who have found the work in which they could be satisfied. The
-first
+
+As illustration, I should like to describe a number of hands of persons who have found the work in which they could be satisfied. The first
 the
 is
 hand
@@ -80,8 +80,9 @@ weak-willed and easily swayed by others. His line of head is straight
 show excess imagination, but rather a
 is flat and not overly wide, a
 shape which goes with well-defined interests and concentration on
-those interests. His heavy Mercury finger with its spatulate tip points
-to shrewdness and energy in business dealings.
+those interests.
+
+His heavy Mercury finger with its spatulate tip points to shrewdness and energy in business dealings.
 The hand of a popular and versatile actor showed these charac-
 and
 firm.

@@ -77,11 +77,13 @@ I came up with the idea of God as perfection.
 
 <!-- But this could not be the case with the idea of a nature more perfect than myself; for to receive it from nothing was a thing manifestly impossible; and, because it is not less repugnant that the more perfect should be an effect of, and dependence on the less perfect, than that something should proceed from nothing, it was equally impossible that I could hold it from myself= accordingly, it but remained that it had been placed in me by a nature which was in reality more perfect than mine, and which even possessed within itself all the perfections of which I could form any idea; that is to say, in a single word, which was God.  -->
 
-I knew some perfections which I lacked. It meant that I was not the only being in existence. 
+I knew some perfections which I lacked. It meant that:
+- I was not the only being in existence. 
+- there was logically some other more perfect Being whom I was dependent on, and from whom I had received all that I possessed.
 
-But, on the contrary, that there was logically some other more perfect Being upon whom I was dependent, and from whom I had received all that I possessed.
+If I had existed alone, and independently of every other being so as be perfect, then I would never be able to think of the words "infinite", "eternal", "immutable", "omniscient", "all-powerful" and all the other things that I was not. 
 
-If I had existed alone, and independently of every other being, so as be perfect, then I would never be able to think of the words infinite, eternal, immutable, omniscient, all-powerful and all the other things that I was not. I therefore put all these perfections in God. 
+I therefore put all these perfections in God. 
 
 <!-- 
 however little, which I actually possessed, I should have been able, for the same reason, to have had from myself the whole remainder of perfection, of the want of which I was conscious, and thus could of myself have become 
@@ -90,20 +92,29 @@ however little, which I actually possessed, I should have been able, for the sam
 
 For in order to know the nature of God, I only had judge whether all the properties in my mind are perfect. 
 
-I was assured that no one which indicated any imperfection was in him, and that none of the rest was awanting. 
+<!-- I was assured that no one which indicated any imperfection was in him, and that none of the rest was awanting.  -->
 
-Thus I perceived that doubt, inconstancy, sadness, etc, could not be found in God, since I myself would have been happy to be free from them. 
+Thus, I perceived that doubt, inconstancy, sadness, etc, could not be found in God, since I myself would have been happy to be free from them. 
 
-Besides, I had ideas of many sensible and corporeal things. I might have been dreaming when I had them. They might be false. But they are still my thoughts. 
+Besides, I had ideas of many sensible and corporeal things. 
+
+I might have been dreaming when I had them. 
+
+They might be false. But they are still my thoughts. 
+
+**But I had already very clearly recognized in myself that the intelligent nature is distinct from the corporeal.**
 
 
-But I had already very clearly recognized in myself that the intelligent nature is distinct from the corporeal.
+## Conservation Laws by God
 
 All composition is an evidence of dependency. Thus, a state of dependency is manifestly a state of imperfection.
 
-I therefore determined that it could not be a perfection in God to be compounded of these two natures and that consequently he was not so compounded.
+I therefore determined that it could not be a perfection in God to be compounded of these 2 natures.
+- Consequently, he was not so compounded.
 
-If there were any bodies in the world, or even any intelligences, or other natures that were not wholly perfect, their existence depended on his power in such a way that they could not subsist without him for a single moment.
+Any bodies, intelligences, or other natures that were not totally perfect would have their existence depend on his power.
+
+They could not subsist without him for a single moment.
 
 I represented to myself the shapes of the geometers. I conceived them to be a continuous body or a space:
 - indefinitely extended in length, width, and height or depth
@@ -127,44 +138,115 @@ I found existing things in my thoughts. If follows that a Perfect Being that has
 
 Consequently, God, this Perfect Being, exists just as the shapes of geometry exist.
 
-People have trouble realizing this because they never raise their thoughts above sensible objects. They are so used to consider only the ideas from material objects, that all that is not materially imaginable seems to them not intelligible. 
+People have trouble realizing this because they never raise their thoughts above sensible objects. 
 
-Philosophers of the schools accept as a maxim that all our understanding comes from the senses and that the ideas of God and of the soul have never been through our senses.
+They are so used to consider only the ideas from material objects, that all that is not materially imaginable seems to them not intelligible. 
+
+Philosophers of the schools accept as a maxim that:
+- all our understanding comes from the senses 
+- the ideas of God and of the soul have never been through our senses
 
 Thus, those who perceive God and the soul through the material senses are like people who use their eyes to hear sounds or smell odours.
 
-Finally, people who still doubt the existence of God and the soul should learn all my other propositions. 
+
+People who still doubt the existence of God and the soul should learn all my other propositions. 
 
 God and the soul exist just as we have a body and just as the stars and the earth exist.
 
 We have a strong moral assurance of these things. 
 
-Yet at the same time no-one, unless his intellect is impaired, can deny, when the question relates to a metaphysical certitude, that there is sufficient reason to exclude entire assurance, in the observation that when asleep we can in the same way imagine ourselves possessed of another body and that we see other stars and another earth, when there is nothing of the kind. 
+<!-- Yet at the same time no-one, unless his intellect is impaired, can deny, when the question relates to a metaphysical certitude, that there is sufficient reason to exclude entire assurance, in the observation that  -->
 
-For how do we know that the thoughts which occur in dreaming are false rather than those other which we experience when awake, since the former are often not less vivid and distinct than the latter? 
 
-Genius men study this question as long as they want. But I do not believe that they will be able to give any reason which can remove this doubt, unless they presuppose the existence of God.
+When we are asleep we might dream of:
+- ourselves being in another body
+- seeing other stars and another earth
 
-For, in the first place even the principle which I have already taken as a rule, viz., that all the things which we clearly and distinctly conceive are true, is certain only because God is or exists and because he is a Perfect Being, and because all that we possess is derived from him= whence it follows that our ideas or notions, which to the extent of their clearness and distinctness are real, and proceed from God, must to that extent be true. 
+This is even if those things to do not seem to exist.
 
-Accordingly, whereas we not infrequently have ideas or notions in which some falsity is contained, this can only be the case with such as are to some extent confused and obscure, and in this proceed from nothing (participate of negation), that is, exist in us thus confused because we are not wholly perfect.
+ <!-- when there is nothing of the kind.  -->
 
-it is not less repugnant that falsity or imperfection, in so far as it is imperfection, should proceed from God, than that truth or perfection should proceed from nothing. But if we did not know that all which we possess of real and true proceeds from a Perfect and Infinite Being, however clear and distinct our ideas might be, we should have no ground on that account for the assurance that they possessed the perfection of being true.
+How do we know that the thoughts in our dreams are false compared to our thoughts when awake?
 
-But after the knowledge of God and of the soul has rendered us certain of this rule, we can easily understand that the truth of the thoughts we experience when awake, ought not in the slightest degree to be called in question on account of the illusions of our dreams. 
+ <!-- rather than those other which we experience when awake, since the former are often not less vivid and distinct than the latter?  -->
 
-For if it happened that an individual, even when asleep, had some very distinct idea, as, for example, if a geometer should discover some new demonstration, the circumstance of his being asleep would not militate against its truth; and as for the most ordinary error of our dreams, which consists in their representing to us various objects in the same way as our external senses, this is not prejudicial, since it leads us very properly to suspect the truth of the ideas of sense; 
+Genius men study this question as long as they want.
 
-For we are not infrequently deceived in the same manner when awake; as when persons in the jaundice see all objects yellow, or when the stars or bodies at a great distance appear to us much smaller than they are. For, in fine, whether awake or asleep, we ought never to allow ourselves to be persuaded of the truth of anything unless on the evidence of our reason. 
+But they will be able to give any reason which can remove this doubt, unless they presuppose God's existence.
 
-I say of our reason, and not of our imagination or of our senses= thus, for example, although we very clearly see the sun, we ought not therefore to determine that it is only of the size which our sense of sight presents.
+For, in the first place even the principle which I have already taken as a rule, viz., that 
 
-We may distinctly imagine the head of a lion joined to the body of a goat, without being therefore shut up to the conclusion that a chimaera exists; for it is not a dictate of reason that what we thus see or imagine is in reality existent; 
+My rule was that all the things which we clearly and distinctly conceive are true.
 
-but it plainly tells us that all our ideas or notions contain in them some truth; for otherwise it could not be that God, who is wholly perfect and veracious, should have placed them in us. 
+This rule is certain only because God:
+- exists
+- is a Perfect Being
+- is the source of all that we possess
 
-Our reasonings are clearer and most complete when we are awake, and not asleep. 
+It follows that our ideas or notions, which to the extent of their clearness and distinctness are real, and proceed from God, must to that extent be true. 
+
+We frequently have ideas or notions which have some falsity.
+- Such ideas are therefore confused and obscure
+- This obscurity comes from us not being totally perfect
+
+<!-- , and in this proceed from nothing (participate of negation), that is, exist in us thus confused because we are not wholly perfect. -->
+
+<!-- it is not less repugnant that falsity or imperfection, in so far as it is imperfection, should proceed from God, than that truth or perfection should proceed from nothing. 
+
+But if we did not know that all which we possess of real and true proceeds from a Perfect and Infinite Being, however clear and distinct our ideas might be, we should have no ground on that account for the assurance that they possessed the perfection of being true. -->
+
+
+The knowledge of God and of the soul makes us certain of this rule.
+
+ <!-- we can easily understand that the truth of the thoughts we experience when awake, ought not in the slightest degree to be called in question on account of  -->
+
+The illusions of our dreams does not affect the truth of our thoughts when we are awake.
+
+ <!-- experience -->
+
+A sleeping person might get a very distinct idea.
+
+For example, a geometer might discover a new demonstration. His being asleep would not prevent its truth.
+
+The error in our dreams make us question the truth in what we experience when awake, because we are also deceived in the same manner when awake.
+
+<!-- ; and as for the most ordinary error of our dreams, which consists in their representing to us various objects in the same way as our external senses, this is not prejudicial, since it leads us very properly to suspect the truth of the ideas of sense;  -->
+
+For example:
+- persons with jaundice see all objects yellow
+- we see the distant stars as very small
+
+ <!-- or bodies at a great distance appear to us much smaller than they are.  -->
+
+Whether awake or asleep, we should never be persuaded of the truth of anything unless on the evidence of our reason, and not of our imagination or of our senses.*
+
+{{< n n="Here, Descartes refutes evidence from fantasy AND evidence from the raw physical senses. This is consistent with Socratic Dialectics which require all perceptions to be processed further instead of being taken raw" >}}
+
+
+For example, we very clearly see the sun. But we should not conclude that it is as small as our eye sees it. 
+
+ <!-- therefore to determine that it is only of the size which our sense of sight presents. -->
+
+We can distinctly imagine the head of a lion joined to the body of a goat.
+
+ <!-- without being therefore shut up to the conclusion that a chimaera exists; for it is not a dictate of -->
+
+But it is not relevant to our reason whether the lion-goat really exists or not.
+
+ <!-- what we thus see or imagine is in reality existent;  -->
+
+Our reason simply tells us that all our ideas or notions have some truth in them.
+
+Otherwise, God would not have placed them in us.
+
+<!-- , who is wholly perfect and veracious, should have   -->
+
+Our reasonings are clearer and most complete when we are awake, not when asleep. 
 
 Sometimes, our imagination is more lively and distinct than our waking moments. 
 
-Reason further dictates that, since all our thoughts cannot be true because of our partial imperfection, those possessing truth must infallibly be found in the experience of our waking moments rather than in that of our dreams.
+<!-- Reason further dictates that, since  because of  -->
+
+Our imperfection means that not all our thoughts can be true.
+
+Those possessing truth are found in the experience of our waking moments rather than in that of our dreams.

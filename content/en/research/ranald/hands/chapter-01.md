@@ -28,7 +28,7 @@ One of the few things which modern, scientific hand analysis has retained from a
 
 Various students of the hand have divided their subject into as many as 170 typical divisions. But most authorities agree on 7 basic types, each with its characteristic traits.
 
-## THE ELEMENTARY HAND
+## The Elementary Hand
 
 The elementary hand belongs to the simplest and least cultivated persons. It is easily recognized, being thick, clumsy and stolid-looking.
 
@@ -56,7 +56,7 @@ But, actually, only certain types of elementary-handed persons, in whom jealousy
 This type of hand is fast disappearing. As men improve their broaden their cultural interests and conditions physical, their hands reflect the change.
 
 
-## THE CONIC HAND
+## The Conic Hand
 
 
 Today the most common type is the conic, or sensitive hand. 

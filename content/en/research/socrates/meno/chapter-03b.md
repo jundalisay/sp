@@ -21,7 +21,10 @@ Observe him while he recalls the steps in regular order.
 Remember that I am not speaking of an oblong, but of a figure equal every way, and twice the size of this—that is to say of eight feet; and I want to know whether you still say that a double square comes from double line?
 {{< /l >}}
 
-BOY: Yes.
+{{< r a="Boy" >}}
+Yes
+{{< /r >}}
+
 
 {{< l a="Socrates" >}}
 SOCRATES: This line become doubled if we add another such line here. Four such lines will make a space containing 8 feet. Let us draw such a figure. There  are these 4 divisions in the shape, each of which is equal to the figure of 4 feet. This is 4 times 4. Four times is not double but 4 times as much.
@@ -42,7 +45,10 @@ Then the line which forms the side of 8 feet should be more than this line of 2 
 {{< /l >}}
 
 
-BOY: 3 feet.
+{{< r a="Boy" >}}
+3 feet
+{{< /r >}}
+
 
 {{< l a="Socrates" >}}
 If we add a half to this line of two, that will be the line of three. 

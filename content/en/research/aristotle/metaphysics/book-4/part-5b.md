@@ -23,19 +23,20 @@ But they do not say what is true.
 
  <!-- (for it is fitting to put the matter so rather than as Epicharmus put it against Xenophanes). -->
 
-They saw that all this world of nature is in movement and changes from which no true absolute statement can be made.
+ <!-- of nature -->
+They saw that this world is in movement and changes, from which no true absolute statement can be made.
 
 So they said that:
 - everything is changing
 - yet nothing could truly be affirmed
  
-The Heracliteans, as Cratylus, held the most extreme of this belief.
 
-who finally did not think it right to say anything but only moved his finger, and 
+Cratylus, a Heraclitean, held the most extreme of this belief.
 
-He criticized Heraclitus for saying that it is impossible to step twice into the same river.
+<!-- who finally did not think it right to say anything but only moved his finger, and  -->
 
-He believed that you cannot even step into a river once.
+- He criticized Heraclitus for saying that it is impossible to step twice into the same river.
+- He believed that you cannot even step into a river once.
 
 
 <!-- ; for he thought one could not do it even once. -->
@@ -60,13 +61,43 @@ These processes cannot go on ad infinitum.
 
 It is not the same thing to change in quantity and in quality.
 
-Grant that in quantity a thing is not constant; still it is in respect of its form that we know each thing.
+In a change in quantity, the thing is not constant.
 
-It would be fair to criticize those who hold this view for asserting about the whole material universe what they saw only in a minority even of sensible things. 
+Yet it still keeps its form which lets us know each thing.
 
-For only that region of the sensible world which immediately surrounds us is always in process of destruction and generation; but this is-so to speak-not even a fraction of the whole, so that it would have been juster to acquit this part of the world because of the other part, than to condemn the other because of this.-And again, obviously we shall make to them also the same reply that we made long ago; we must show them and persuade them that there is something whose nature is changeless. Indeed, those who say that things at the same time are and are not, should in consequence say that all things are at rest rather than that they are in movement; for there is nothing into which they can change, since all attributes belong already to all subjects.
+The view of the Heraclitean is wrong as they assert for the whole material universe what they saw only in a minority of sensible things. 
 
-"Regarding the nature of truth, we must maintain that not everything which appears is true; firstly, because even if sensation-at least of the object peculiar to the sense in question-is not false, still appearance is not the same as sensation.-Again, it is fair to express surprise at our opponents' raising the question whether magnitudes are as great, and colours are of such a nature, as they appear to people at a distance, or as they appear to those close at hand, and whether they are such as they appear to the healthy or to the sick, and whether those things are heavy which appear so to the weak or those which appear so to the strong, and those things true which appear to the slee ing or to the waking. For obviously they do not think these to be open questions; no one, at least, if when he is in Libya he has fancied one night that he is in Athens, starts for the concert hall.
+This is because only that region of the sensible world which immediately surrounds us is always in the process of destruction and generation.
+
+But this is region is not even a fraction of the whole.
+
+So it would have been juster to acquit this part of the world than to condemn the other part.
+
+ <!-- because of this.-And again, obviously we shall make to them also the same reply that we made long ago;  -->
+
+We must show them that there is something whose nature is changeless.
+
+Those people who say that things are at the same time physical and abstract. 
+- This means that all things are at rest instead of movement because there is nothing into which they can change since all attributes belong already to all subjects.
+
+ <!-- are and are not, should in consequence say that  -->
+
+
+Not everything which appears is true.
+
+This is because physical appearance is different from sensation. 
+
+ <!-- firstly, because even if sensation-at least of the object peculiar to the sense in question-is not false, still appearance is not the same as sensation. -->
+
+Our opponents ask whether magnitudes are as great, 
+
+and colours are the same when near and far or when seen by the healthy and the sick.
+
+and weight is heavy to the weak and to the strong. 
+
+<!-- of such a nature, as they appear to people at a distance, or as they appear to those close at hand, and whether they are such as they appear to the healthy or to the sick, and whether those things are heavy which appear so to the weak or those which appear so to the strong, and those things true which appear to the slee ing or to the waking.  -->
+
+Obviously, they do not think these to be open questions; no one, at least, if when he is in Libya he has fancied one night that he is in Athens, starts for the concert hall.
 
 And again with regard to the future, as Plato says, surely the opinion of the physician and that of the ignorant man are not equally weighty, for instance, on the question whether a man will get well or not.-And again, among sensations themselves the sensation of a foreign object and that of the appropriate object, or that of a kindred object and that of the object of the sense in question, are not equally authoritative, but in the case of colour sight, not taste, has the authority, and in the case of flavour taste, not sight; each of which senses never says at the same time of the same object that it simultaneously is 'so and not so'.
 

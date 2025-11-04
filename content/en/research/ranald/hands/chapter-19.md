@@ -274,13 +274,12 @@ This cancerous formation
 is
 almost always placed just under
 the end of the line of head.
-In the same way, the hand will show characteristic deviations from
-normal surface markings for diabetes, disorders of the genital sys-
-tem, kidneys, liver or nerve and circulatory machinery. It is hardly
-within the scope of this book to enlarge on these symptoms, nor is
-it the place of a layman to theorize too extensively about the nature
-and cause
-of disease.
+
+
+In the same way, the hand will show characteristic deviations from normal surface markings for diabetes, disorders of the genital system, kidneys, liver or nerve and circulatory machinery. 
+
+It is hardly within the scope of this book to enlarge on these symptoms, nor is it the place of a layman to theorize too extensively about the nature and cause of disease.
+
 On
 one thing
 I
