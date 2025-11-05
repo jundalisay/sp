@@ -13,23 +13,29 @@ icon: "Buddha"
 ---
 
 
-21. Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already. [3]
+<sup>21</sup> Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already.
 
-22. Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones. [4]
 
-23. The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage.
+<sup>22</sup> Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones.
 
-24. Ever grows the glory of him who is energetic, mindful and pure in conduct, discerning and self-controlled, righteous and heedful.
+<sup>23</sup> The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage.
 
-25. By effort and heedfulness, discipline and self-mastery, let the wise one make for himself an island which no flood can overwhelm.
+<sup>24</sup> Ever grows the glory of him who is energetic, mindful and pure in conduct, discerning and self-controlled, righteous and heedful.
 
-26. The foolish and ignorant indulge in heedlessness, but the wise one keeps his heedfulness as his best treasure.
 
-27. Do not give way to heedlessness. Do not indulge in sensual pleasures. Only the heedful and meditative attain great happiness.
+<sup>25</sup> By effort and heedfulness, discipline and self-mastery, let the wise one make for himself an island which no flood can overwhelm.
 
-28. Just as one upon the summit of a mountain beholds the groundlings, even so when the wise man casts away heedlessness by heedfulness and ascends the high tower of wisdom, this sorrowless sage beholds the sorrowing and foolish multitude.
 
-29. Heedful among the heedless, wide-awake among the sleepy, the wise man advances like a swift horse leaving behind a weak jade.
+<sup>26</sup> The foolish and ignorant indulge in heedlessness, but the wise one keeps his heedfulness as his best treasure.
+
+
+<sup>27</sup> Do not give way to heedlessness. Do not indulge in sensual pleasures. Only the heedful and meditative attain great happiness.
+
+
+<sup>28</sup> Just as one upon the summit of a mountain beholds the groundlings, even so when the wise man casts away heedlessness by heedfulness and ascends the high tower of wisdom, this sorrowless sage beholds the sorrowing and foolish multitude.
+
+
+<sup>29</sup> Heedful among the heedless, wide-awake among the sleepy, the wise man advances like a swift horse leaving behind a weak jade.
 
 30. By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised. [5]
 

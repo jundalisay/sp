@@ -1,10 +1,10 @@
 ---
-title: "SPEUSIPPUS: Plato"
+title: "Speusippus: Plato"
 heading: Chapter 72
 # book 4
 date: 2025-08-21
 weight: 155
-description: "LIFE OF SPEUSIPPUS"
+description: "Life Of Speusippus"
 c: "darkslategray"
 tags: ['Platonists']
 ---

@@ -20,8 +20,6 @@ Sirians | These are the good aquatic aliens and source of RH negative blood type
 Tall Whites | Nordics
 
 
-
-
 Non-Physical Aliens | Description
 --- | ---
 Consciousness at Center of Milky Way | Creator of Precursors
@@ -30,7 +28,7 @@ Blue men | Compassionate race of energy beings
 
 
 
-## Blue Men
+### Blue Men
 
 There are 2 versions: physical and energy
 
@@ -45,3 +43,15 @@ They take war dead and bring them to their peaceful planet.
 They were physical beings who found a way to become energy beings
 
 They are connected to Nature and interact with native indigenous tribes.
+
+
+### Anunnaki 
+
+The Anunnaki are now Lyrans that are the origin of the Plaedians. 
+
+
+
+## Star Systems
+
+Draco constellation is recently awakening.
+

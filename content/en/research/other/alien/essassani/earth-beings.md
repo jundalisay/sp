@@ -6,6 +6,10 @@ description: "Bashar answers Questions about Earth Beings"
 ---
 
 
+Spirits are orbs of light
+
+
+
 ## Chubacapra, Mothman
 
 {{< r a="Man" >}}

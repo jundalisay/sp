@@ -1,9 +1,9 @@
 ---
 title: "Essential Subjects: Astronomy"
-heading: "Chapter 3 of Book 7"
-weight: 1
+heading: "Chapter 3"
+weight: 8
 c: "steelblue"
-description: "The study of physics and astronomy can augment the study of geometry by finding patterns in the heavens [This was later proven by Isaac Newton who invented Calculus and Physics from the observation of heavenly bodies]. The movement of heavenly bodies are relative to each other and not exact [This was proven by Einstein's General Relativity]"
+description: "The study of physics and astronomy can augment the study of geometry by finding patterns in the heavens"
 author: "Socrates"
 icon: "Socrates"
 ---
@@ -12,7 +12,7 @@ icon: "Socrates"
 
 ## The Patterns of Geometry Can Be Seen In Astronomy*
 
-{{< n n="As later proven by Isaac Newton who invented calculus from geometric patterns through the observation of heavenly bodies" >}}
+{{< n n="As later proven by Isaac Newton who invented calculus from geometric patterns through the observation of heavenly bodies. Diogenes wrote the Socrates was supposed to be a natural philosopher (physicist) but later chose moral philosophy after seeing that the Greeks were not interested in physics." >}}
 
 
 {{< l a="Socrates" >}}
@@ -59,10 +59,7 @@ Little is known about those sciences because:
 - No government patronises them.
   - This leads to a lack of energy in pursuing them, in addition to them being difficult.
 - Students cannot learn them unless they have a director.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 But even if a director could be found, the conceited students would not attend to him.
 
 But this would not happen if the whole State became the director of these studies and gave honour to them.
@@ -138,7 +135,8 @@ The spangled heavens should be used as a pattern and with a view to that higher 
 {{< /l >}}
 
 
-{{< n n="<li>This is similar to General Relativity</li><li>Unlike General Relativity, the cause of the motions of heavenly bodies are inherent. We call this 'gravitational signatures'. Socrates implies that photons cannot directly measure such inherent signatures. The pattern of such signatures can then be used to make a locational map that Einstein refers to as the fabric of spacetime and can be used to predict the motions of heavenly bodies.</li>" >}}
+{{< n n="This is similar to General Relativity. Unlike General Relativity, the cause of the motions of heavenly bodies are inherent. We call this 'gravitational signatures'. Socrates implies that photons cannot directly measure such inherent signatures. The pattern of such signatures can then be used to make a locational map that Einstein refers to as the fabric of spacetime and can be used to predict the motions of heavenly bodies." >}}
+
 
 
 {{< l a="Socrates" >}}

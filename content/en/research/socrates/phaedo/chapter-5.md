@@ -9,7 +9,6 @@ icon: "Socrates"
 
 
 
-<!-- {{< l a="Socrates" >}} -->
 These are evil souls. They are compelled to wander around such places in payment of the penalty of their former evil way of life.
 
 They have a persistent craving for the corporeal. They continue to wander until their craving imprisons them finally in another body.

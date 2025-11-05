@@ -102,6 +102,3 @@ On the fourth day after, they came to a place where they could see from above a 
 There, in the midst of the light, they saw the ends of the chains of heaven let down from above.
 This light is the belt of heaven which holds together the circle of the universe, like the under-girders of a trireme.
 {{< /l >}}
-
-
-

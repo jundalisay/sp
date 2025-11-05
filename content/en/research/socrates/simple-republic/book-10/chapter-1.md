@@ -42,17 +42,11 @@ The painter too is an example of a creator of appearances. He paints a bed, but 
 - one existing in nature, which is made by God,
 - one is the work of the carpenter,
 - one is the work of the painter.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
-These three beds were made by three artists. God made one bed in nature and not two. If He had made two, then those two would need a third bed to serve as their original idea. That third bed that came before the two other beds would then be the ideal one.
+These 3 beds were made by three artists. God made one bed in nature and not two. If He had made two, then those two would need a third bed to serve as their original idea. That third bed that came before the two other beds would then be the ideal one.
 
 He is the natural author of the original bed and all other creations. The carpenter is also a maker of the bed. But the painter is an imitator. He is thrice removed from the original. Therefore, imitators are thrice removed from the original 
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 The tragic poet is also an imitator. Like all imitators, he is thrice removed from the king and from the truth. The painter imitates only the creations of artists.
  
 <!-- The art of painting is an imitation of things as they appear, and not of its real essence. The imitator is a long way off from the truth. 
@@ -64,17 +58,15 @@ A thing can be looked at from different angles and appear differently. A painter
 - all things else that anybody knows, and
 - every single thing with a higher degree of accuracy than any other man.
 
-{{< /l >}}
-
-
-{{< l a="Socrates" >}}
 Ignorant people are thus deceived by some wizard whom they see as all-knowing because they were unable to analyse the nature of knowledge and imitation. People say that the tragedians know all the arts and all things human such as virtue, vice, and divinity. They reason that those tragedians can compose well because they know such subjects. <!-- He who has not have this knowledge can never be a poet. --> But those people are under a similar illusion. Homer is the head of the tragedians.
 
 <!-- Perhaps they may have come across imitators and have been deceived. They may not have remembered when they saw their works that these were but imitations thrice removed from the truth. These could easily be made without any knowledge of the truth, because they are appearances only and not realities. Or they might be right.
 
 Poets might really know what they are talking about.  -->
 
-If a person were able to make both the original and the image, he would not seriously devote himself to the image-making branch. The real artist would know the real essence of what he was imitating. He would be interested in realities and not in imitations. He would desire to leave many fair works as memorials of himself. Instead of being the author of encomiums, he would prefer to be their theme. 
+If a person were able to make both the original and the image, he would not seriously devote himself to the image-making branch. 
+
+The real artist would know the real essence of what he was imitating. He would be interested in realities and not in imitations. He would desire to leave many fair works as memorials of himself. Instead of being the author of encomiums, he would prefer to be their theme. 
 {{< /l >}}
 
 
@@ -131,12 +123,12 @@ If Homer could not educate and improve mankind and was a mere imitator, then he 
 Protagoras of Abdera, Prodicus of Ceos, and others only have to whisper to their contemporaries: "You will never be able to manage your own house or your own State until you appoint us as your ministers of education."
 
 This ingenious device of theirs makes people love them.
-{{< /l >}}
+
 
 <!--  Their companions all but carry them about on their shoulders. The contemporaries of Homer, or of Hesiod, would not have allowed either of them to go about as rhapsodists, if they were really able to make mankind virtuous. They would have been as unwilling to part with them as with gold. They would have compelled them to stay at home with them. If the master would not stay, then the disciples would have followed him everywhere until they had enough education. Then we must infer that. -->
 
 
-{{< l a="Socrates" >}}
+
 Thus, all these poets, beginning with Homer, are only imitators. 
 
 They copy images of virtue but never reach the truth. The poet is like a painter who will paint a carpenter though he understands nothing of carpentry. 
@@ -148,22 +140,19 @@ Similarly, the poet uses words to lay on the colours of the several arts, unders
 Other people are as ignorant as he is. They judge only from his words and imagine that he speaks very well if he speaks of carpentry, military tactics, etc. in metre, harmony, and rhythm. 
 
 Such is the sweet influence which melody and rhythm by nature have.
-{{< /l >}}
 
 
-{{< l a="Socrates" >}}
 The tales of poets appear poor when stripped of the colours which music puts on them and recited in simple prose. They are like faces which were never really beautiful, but only blooming. Now the bloom of youth has left them. 
 
-The imitator or maker of the image knows nothing of its true existence. He knows appearances only. The painter will paint a saddle to be made by the leatherworker. But the painter does not know how a saddle should be. Even the leatherworkers do not know. Only the horseman who uses them knows the right form of a saddle. Thus, everything has:
+The imitator or maker of the image knows nothing of its true existence. He knows appearances only. The painter will paint a saddle to be made by the leatherworker. But the painter does not know how a saddle should be. 
+
+Even the leatherworkers do not know. Only the horseman who uses them knows the right form of a saddle. Thus, everything has:
 
 - one which uses,
 - another which makes,
 - another which imitates them.
 
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 The excellence or beauty or truth of every structure, animate or inanimate, and of every action of man, is relative to the use for which Nature or the artist has intended them. 
 
 Their user must have the greatest experience of them. He must indicate to the maker the good or bad qualities which develop while in use. For example, the flute-player will tell the flute-maker which of his flutes are satisfactory. He will tell him how he should make them.
@@ -181,4 +170,3 @@ But the imitator will not have the true knowledge of his imitations. <!-- The im
 
 Thus, we agree that the imitator has no knowledge worth mentioning of what he imitates. 
 {{< /l >}}
-

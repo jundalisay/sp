@@ -28,6 +28,7 @@ Take up the ark of the covenant, and let 7 priests bear 7 trumpets of rams’ ho
 <sup>7</sup> Pass on, and compass the city, and let him that is armed pass on before the ark of Enki.
 {{< /r >}}
 
+
 <sup>8</sup> The 7 priests bearing the 7 trumpets of rams’ horns passed on before Enki, and blew with the trumpets.
 
 The ark of the covenant of Enki followed them.
@@ -40,6 +41,8 @@ The rear guard came after the ark. All this time, the priests go on blowing with
 
 {{< r a="Joshua" >}}
 Do not shout nor make any noise with your voice. Do not say any word until the day I tell you to shout.
+{{< /r >}}
+
 
 <sup>11</sup> So the ark compassed the city, going around it once.
 
@@ -103,6 +106,8 @@ Cursed be the man before Enki, that rises up and rebuilds this city Jericho.
 He shall:
 - lay its foundation at the cost of his firstborn
 - set up its gates at the cost of his youngest son 
+{{< /r >}}
+
 
 <sup>27</sup> So Enki was with Joshua. His fame spread throughout the land.
 

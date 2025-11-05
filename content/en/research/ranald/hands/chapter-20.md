@@ -13,12 +13,15 @@ draft: true
 
 one use to which study of the hands has been put with thor-
 method is in fingerprinting for the purposes of iden-
+
+
 Knowledge that individual fingerprints differ from each
 other is no new thing. The Chinese were aware of this fact many
 thousands of years ago and made use of it as a means of verifying
 ough
 scientific
 tification.
+
 important documents.
 
 Only recently has the western world has adopted fingerprinting to aid:
@@ -38,27 +41,32 @@ palm may be
 completely altered in the course of a lifetime, the design made by
 the papillary ridges on the fingertips remains the same throughout
 life.
+
 If the ridges are mutilated,
 they grow back in the identical
+
 The
 ridging in the palm is subject to slight alterations, more
 in the nature of its lines (as I have indicated in the chapter about
 pattern.
+
 the medical application of hand analysis) than in the formation of
 the pattern, but the palm, too, can be used for identification
 purposes.
-How
-is it
-possible to classify
-and use the
-99
-fingerprints
+
+How is it possible to classify
+and use the fingerprints
 if
-they growIDENTIFICATION BY THE HAND
-100
+they grow
+
+
+## IDENTIFICATION BY THE HAND
+
+
 in such infinite variety?
 in detail, the designs
 patterns.
+
 The
 on our
 explanation
@@ -70,11 +78,15 @@ are all evolved from the ridging which grows in con-
 on the cushion pads which animals have on their feet.
 They
 centric circles
-TYPES OF FINGERPRINTS
-Nearest to this design of concentric circles is the true whorl (see
-Next is the spiral whorl, which is the beginning of the
-plate 63).
+
+
+## TYPES OF FINGERPRINTS
+
+Nearest to this design of concentric circles is the true whorl (see plate 63).
+
+Next is the spiral whorl, which is the beginning of the 
 design breakdown with
+
 The
 spiral
 whorl
@@ -85,6 +97,7 @@ usually composed of two ridges starting at a
 and widening out into ever larger
 spiral circles, like the
 vortex of a whirlpool.
+
 The third design in the ridge patterns is the loop formation (see
 double loop type, the two ridges
 plate 64). In the first of these, the
@@ -104,6 +117,7 @@ still
 follow
 that in which the U-shaped loops open outTYPES OF FINGERPRINTS
 into a wider arch curving about
+
 Then
 an upright
 in the tented arch
@@ -134,12 +148,12 @@ arch, the tented arch and the composite are the basis
 "."'
 "'
 .VtV?"*
-65
-66
+
 of identification by
 world, there be individual digits
 may
 fingerprints.
+
 In the millions of fingers in this
 a very few which are exactly
 alike, having the same number of ridge lines, of the same thickness,
@@ -149,16 +163,20 @@ But there will be no two hands in which the ten
 same and in the same combination.
 digits are all exactly
 the
+
 Though
 criminal identification
 is still
 the best
 known
 use of finger-
+
 other applications are now coming into practice. A few
-banks have substituted fingerprints for a witnessed cross as au-
-thorization from depositors who cannot write.
+banks have substituted fingerprints for a witnessed cross as authorization from depositors who cannot write.
+
 Similarly, the govern-
+
+
 prints,
 many
 ment requires
@@ -175,24 +193,24 @@ identity of those they deal with.
 The
 protection extends to both the
 and the depositor.
+
 Important documents may be signed by
 institution
 by pen. In this connection,
 fingerprint rather than
 the object is to prevent fraud, a signa-
-ture ought certainly to accompany the print on wills, deeds or sim-
-ilar papers, for it is obviously much simpler to obtain an involun-
-if
-tary print from the hand than to force a person to sign documents.
+ture ought certainly to accompany the print on wills, deeds or similar papers, for it is obviously much simpler to obtain an involuntary print from the hand than to force a person to sign documents.
+
 Prints from the hands of a dead man, an unconscious one, or one
 who was under
 physical constraint might easily be obtained.
+
 Other objections can also be raised, not to the use of fingerprints
 for identification, but to their use for oppression. The fingerprinting
 of employes by "hotels, factories, mills has been used in industrial
 warfare to exclude union men from employment.TYPES OF FINGERPRINTS
 Yet these objections are not
-103
+
 a means
 hands of certain agencies.
 to fingerprinting per se, as
@@ -216,27 +234,26 @@ description, bearing and childish tricks are advertised
 find
 police,
 whose
-in the press,
-but never with such accuracy that parents feel completely relieved of
-doubt until they actually see their child again. What of the run-
-aways? Publication of their handprints would lead to immediate
+in the press, but never with such accuracy that parents feel completely relieved of
+doubt until they actually see their child again. What of the runaways? 
+
+Publication of their handprints would lead to immediate
 Handprint records would certainly speed the hunt for
 children
 and quickly dispose of those false leads which
 kidnaped
 identification.
 mark every widely publicized case.
+
 Many institutions have come to
 realize the value of finger
 and
-handprints. Maternity hospitals, finding that the tiny ridges on a
-baby's fingertips are too minute to make clear impressions, take
-prints of the foot. Footprints, however, do change more or less dur-
-ing the course of a lifetime. Because of this, Dr. Gilbert Palmer Pond
-has evolved a means which provides identification for life, using
-prints of an infant's palm. The ridging on the eminences of the palm
-usually coarser than that on baby's fingertips, and such hospital
-impressions supply a means of identification which can be used for
+handprints. 
+
+Maternity hospitals, finding that the tiny ridges on a baby's fingertips are too minute to make clear impressions, take prints of the foot. 
+
+Footprints, however, do change more or less during the course of a lifetime. Because of this, Dr.  Gilbert Palmer Pond has evolved a means which provides identification for life, using prints of an infant's palm. The ridging on the eminences of the palm usually coarser than that on baby's fingertips, and such hospital impressions supply a means of identification which can be used for 
+
 is
 a lifetime. For absolute certainty, however, supplementing a baby's
 palm print with impressions of the fingertips taken at school age is
@@ -279,12 +296,14 @@ husband became quarrelsome and even violent when drunk. His
 weakness took more and more of a hold on him as time wore on.
 Had it not been for her infant son, she would have left her husband.
 of his failing did.
-After two years of marriage, a particularly violent scene brought
-things to a climax. She threatened to have him forcibly committed
+
+After two years of marriage, a particularly violent scene brought things to a climax. She threatened to have him forcibly committed 
+
+
 and given a
 cure.
-He
-retaliated with violence,
+
+He retaliated with violence,
 for her life. Unfortunately, her parents, to
 and she had
 to flee
@@ -308,7 +327,10 @@ public, they hired private detectives. Then, in
 desperation, they appealed to the police. But for months, no one
 could find a trace of the missing pair. You can imagine the mother's
 husband
-agony. She had endured humiliation, even violence, from her
+agony. 
+
+She had endured humiliation, even violence, from her 
+
 for the sake of the child only to have her son taken from her. Worst
 was the uncertainty. Her waking moments were haunted by
 Her dreams repeated
@@ -321,10 +343,13 @@ a
 band in
 Pennsylvania town. The entire family rushed West to
 a man
-see him. When they arrived, they found a shivering skeleton of
+see him. 
+
+When they arrived, they found a shivering skeleton of
+
 At
-last thereTYPES OF FINGERPRINTS
-105
+last there
+
 tossing in the last stages of delirium tremens. The hospital gave
 hope of life and no prospect of a rational word before death.
 fifteen
@@ -366,6 +391,7 @@ studied the prints very carefully, trying to comfort the mother
 with
 all
 the information I could give her about her son.
+
 From
 the
 formed a picture of a very intelligent, well-balanced youth
@@ -397,12 +423,12 @@ she, with her careful work,
 who
 dis-
 and quite by accident.
-Many months had
-passed without my hearing from her. I was
-lecturing in Akron, Ohio, and was scheduled to address the high-
-school graduating class.
-The
-students,
+
+Many months had passed without my hearing from her. 
+
+I was lecturing in Akron, Ohio, and was scheduled to address the high-school graduating class.
+
+The students,
 now
 preparing to take on the
 know the stories in
@@ -418,8 +444,9 @@ the
 many
 struck
 me
-as familiar. I thoughtIDENTIFICATION BY THE HAND
-106
+as familiar.
+
+I thought 
 had analyzed it before and, calling out the boy's
 written
 on the impression paper, I asked whether I
@@ -437,8 +464,9 @@ name which
 had already
 had seen
 it
-before. I
-have a very peculiar memory. Some of you remember faces. Others
+before. 
+
+I have a very peculiar memory. Some of you remember faces. Others
 can recall a person's name even after years of separation and only
 casual acquaintance. I
 interesting
@@ -456,6 +484,7 @@ his present foster parents.
 on the
 Even then
 New York
+
 I did not guess the truth,
 but
 continued to study the boy's
@@ -470,6 +499,7 @@ Certainty awaited my actual comparison of this new print with the
 train returning to
 I had in my
 was convinced.
+
 photograph
 and
 I
@@ -501,16 +531,19 @@ often read in the papers of men
 and women picked up wandering in the streets, unable to remem-
 ber their names, their addresses, their occupations, or anything which
 the aged and the sick.
+
+
 could be used to restore them again to their families?
 I recall one instance, which recently came to my attention, of
 an elderly woman who was led out of a large New York department
 store at closing time. She appeared to be a person of culture and
 refinement, accustomed to care and thoughtfulness from others. A
 victim of amnesia, she had forgotten what brought her to the store,
-who she was or where she came from. Institutions gave her their
+who she was or where she came from. 
+
+Institutions gave her their
 comfortless hospitality while her frantic family in another city
-appealed to the police, to travelers' aid societies, to welfare agencies,TYPES OF FINGERPRINTS
-107
+appealed to the police, to travelers' aid societies, to welfare agencies, 
 and even to hired private detectives. They spent terrifying hours
 examining unidentified bodies in morgues and studying photographs
 of other old women, picked up without name or associations. Only
@@ -521,6 +554,7 @@ brought this grandmother and
 her family together again. Think of the suffering which might have
 been avoided had her family been able to send her fingerprints to
 and hospitals all over the country.
+
 Just to get an idea of the magnitude of the riddle of unsolved
 identity to which fingerprints would yield an answer, consider the
 police
@@ -529,19 +563,18 @@ young boys and girls come
 Paris. Yearly, thousands of
 to Paris
 men, women,
-and are never heard of again. In
-1935, according to police records, almost sixteen thousand persons
-were reported "missing" in France's capital. These include husbands
-who have deserted their families, mothers who have left children,
-runaway boys and
-the well, the lonely
-girls, old, young and middle-aged, the sick and
+and are never heard of again. 
+
+In 1935, according to police records, almost 16,000 persons were reported "missing" in France's capital. 
+
+These include husbands who have deserted their families, mothers who have left children, runaway boys and the well, the lonely girls, old, young and middle-aged, the sick and
 and the sorely missed, the honest and the crooked
 on second thought, not the crooked, for criminals' trademarks are
 in the files of the Paris Surete, just as American felons' are
 on record
 in
 Washington.
+
 And
 these amazing figures apply to a city where everyone
 is re-
@@ -562,13 +595,12 @@ These figures apply to representative cities in normal times. In
 flood and earthquake, the number of unidentified victims is
 fire,
 appalling. Children, separated from their families, are never reunited
-with them. The dead and the injured are unclaimed. Bereaved fam-
+with them. The dead and the injured are unclaimed. 
+
+Bereaved families 
 are in doubt for years about the fate of their loved ones. When
 the Ohio River overflowed its banks and routed thousands out of
-ilies
 
-IDENTIFICATION BY THE HAND
-108
 homes, scattering family units, when the Morro Castle burned,
 when San Francisco was devastated by fire and quakes, rescue
 their
@@ -578,8 +610,9 @@ The government recognized the aid which fingerprinting would
 give when it ordered impressions made of all enlisted men in the
 world war. For this reason, the number of missing and unknown
 soldier dead was much cut down.
-I
-would certainly not favor compulsory fingerprinting
+
+I would certainly not favor compulsory fingerprinting
+
 In the
 of a
 first
@@ -588,6 +621,7 @@ place, compulsion
 democratic country; in the second, as I
 is
 of everyone.
+
 hardly in the spirit
 said, records of
 have
@@ -597,4 +631,3 @@ poned until a new society eliminates man's oppression of man. On
 the contrary, private records made by yourself for your own use are
 today both feasible and of untold value.
 this sort
-

@@ -11,18 +11,19 @@ draft: true
 
 <!-- PART FOUR -->
 
-CHILD TRAINING
+## Child Training
 
 IN DISCUSSING guidance, I
 wish
 the application of hand analysis to vocational
-to take issue with the neat tabular classifica-
+to take issue with the neat tabular classifications
+
 first
 by which palmists used to assign a person to life as baker,
 broker, soldier or prima donna by virtue of a single indication of the
 hand. Nothing like that is possible. In prescribing a life's work, we
 must be as open minded and exact as a physician in prescribing a
-tions
+
 cure for diabetes. Tables sweepingly recommending certain vocations
 to hands of a given conformation are comparable to the medicine
 man's
@@ -32,8 +33,10 @@ in this field
 can be just as
 dis-
 astrous as in medicine.
+
 I
 tion.
+
 do not mean that hands are of no value
 On
 the contrary, careful
@@ -60,10 +63,9 @@ others, and the hands, I have found, are a sure aid in man's study
 of man.
 In my opinion the time to begin vocational training is in child-
 hood. During the formative years, talents may be either developed
-naturally or twisted into unhealthy channels Though specialized
-IOQTHE HAND AS VOCATIONAL GUIDE
-110
-training should usually be postponed until
+naturally or twisted into unhealthy channels 
+
+Though specialized training should usually be postponed until
 direction should be decided
 upon
 much
@@ -74,6 +76,7 @@ life.
 necessary for parents to take a most ob-
 of
 view.
+
 Too
 jective point
 often, I have seen promising children
@@ -158,11 +161,11 @@ requires minute care for success.
 A
 child withCHILD TRAINING
 long, straight fingers will not usually
-111
-need to be trained in orderli-
-ness, but he
-may require that his interests be broadened.
+
+need to be trained in orderliness, but he may require that his interests be broadened.
+
 in a child's hand, the line of head is broken or full of
+
 When,
 it
 islands,
@@ -180,6 +183,7 @@ and at the same time restrained and directed
 in his studies
 and
 reading.
+
 A
 line of head,
 curving far
@@ -241,19 +245,14 @@ fail in
 much
 many
 later in life.
+
 school mathematics,
 natural gifts are not otherwise ap-
 So long as an Albert Einstein can
 we must look
 for other
-means
-of guid-
-ing ourselves in child training than merely the school record and
-behavior in the home.
+means of guiding ourselves in child training than merely the school record and behavior in the home.
 means.
-The study
-of
-hands ought
-to
-be one of those
 
+
+The study of hands should be one of those

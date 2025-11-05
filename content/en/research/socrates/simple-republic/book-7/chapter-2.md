@@ -1,7 +1,7 @@
 ---
 title: "Essential Subjects: Math and Geometry"
-heading: "Chapter 2 of Book 7"
-weight: 1
+heading: "Chapter 2"
+weight: 6
 c: "steelblue"
 description: "Inviting objects draw curiosity and intelligence. Uninviting objects do not (Chapter 2). The essential subjects are math, geometry, physics, astronomy, and dialectics"
 author: "Socrates"
@@ -9,9 +9,8 @@ icon: "Socrates"
 ---
 
 
-
 {{< l a="Socrates" >}}
-Aside from Music and Gymnastic, Math, Geometry, Astronomy, and Dialectic Must be Taught to Guardians How will such guardians be produced?
+Aside from Music and Gymnastic, Math, Geometry, Astronomy, and Dialectic must be taught to guardians, how will such guardians be produced?
 
 The process is not the turning over of an oyster-shell. This is an allusion to a game where two parties fled or pursued depending on whether an oyster-shell thrown in the air fell with the dark or light side. 
 
@@ -71,10 +70,7 @@ Arithmetic leads naturally to reflection. But it was never rightly used.
 There are 2 kinds of objects of sense:
 - Uninviting objects
 - Inviting objects
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 **Uninviting objects do not pass from one sensation to the opposite.** 
 
 An example is my 3 fingers. There is <!--  Now one will ask "what is a finger?", as there is --> nothing here which invites, excites, or draws intelligence.
@@ -87,10 +83,7 @@ Fingers do not excite curiosity and are uninviting. But the size of fingers do.
 
 Their size invites further perceptions from sight and touch.
 <!-- Can sight adequately perceive them? Does the touch adequately perceive the thickness or softness of the fingers?  -->
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 The sense concerned with hardness is also concerned with softness. It only conveys to the soul that the same thing is felt to be both hard and soft.
 
 The soul would be perplexed if 'hard' and 'soft' were used arbitrarily. 
@@ -98,11 +91,9 @@ The soul would be perplexed if 'hard' and 'soft' were used arbitrarily.
 In these perplexities, the soul uses calculation and intelligence to help her distinguish between several objects. If an object turns out to be two two objects, then each of them is different.
 
 If the two are the same and came from one, then she will conceive the two as divided. If there were undivided, they could only be conceived of as one. The eye can see big and small, but only in a confused manner and cannot distinguish objects all the time. The thinking mind intends to light up the chaos.
+
 It was compelled to reverse the process, and look at small and big as separate and not confused. This was the beginning of the question 'What is big?' and 'What is small?'. Thus, the distinction of the visible and the intelligible arose.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 This was what I meant of impressions that invited the intellect and those that did not. 
 
 If simple unity could be adequately perceived by the sight alone, then nothing could attract the soul towards the essence of being, just as nothing is attracted to the nature of a finger.
@@ -125,10 +116,7 @@ Our guardian is both warrior and philosopher. This is a kind of knowledge which 
 - not like merchants or retail-traders, with a view to buying or selling, but for the sake of their military use, and of the soul herself.
 
 This will be the easiest way for her to pass from becoming to truth and being.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 Arithmetic, as a science, is so charming! 
 
 In many ways, it conduces to our desired end, if pursued in the spirit of a philosopher, and not of a shopkeeper! Arithmetic has a very great and elevating effect.
@@ -178,17 +166,17 @@ They have in view practice only.
 They are always speaking, in a narrow and ridiculous manner, of squaring and extending and applying and the like.
 
 They confuse the necessities of geometry with those of daily life, even if knowledge is the real object of the whole science.
+
 The knowledge which geometry aims at is knowledge of the eternal, and not of the perishing and transient.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 Then, geometry will draw the soul towards truth.
 It will create the spirit of philosophy and raise up that which is now unhappily allowed to fall down.
 
 Thus it should be most sternly laid down that the inhabitants of your fair city should learn geometry.
 
 Moreover, the science has indirect effects, which are not small.
+
 It has the military advantages of which you spoke about.
+
 It also gives an infinitely quicker apprehension than one who has not.
 {{< /l >}}

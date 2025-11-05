@@ -20,7 +20,7 @@ All who were enamour'd any-way, were in the same Condition. You might perceive i
 You, Palemon, want our Philosophical Adventures recorded. 
 
 Our Nation:
-- talks Politicks in every Company
+- talks Politics in every Company
 - mixes the Discourses of State-affairs with those of Entertainment
 
 We Moderns degraded Philosophy because:
@@ -57,7 +57,8 @@ This brings to my mind a Reason I have often sought for; why we Moderns, who abo
 
 To lay Colours, to draw, or describe, against the Appearance of Nature and Truth, is a Liberty neither permitted the Painter nor the Poet. Much less can the Philosopher have such a Privilege; especially in his own Case. If he represents his Philosophy as making any figure in Conversation; if he triumphs in the Debate, and gives his own Wisdom the advantage over that of the World; he may be liable to sound Raillery, and possibly be made a Fable of.
 
-'Tis said of the Lion, that being in civil Conference with the Man, he wisely refus’d to yield the Superiority of Strength to him; when instead of Fact, the Man produc'd only certain Figures and Representations of human Victorys over the Lionkind. These Master-pieces of Art the Beast discover'd to be wholly of human Forgery: and from these he had good right to appeal. Indeed had he ever in his life been witness to any such Combats as the Man represented to him in the way of Art; possibly the Example might have mov'd him. But old Statues of a Hercules, a Theseus, or other Beast-subduers, cou'd have little power over him, whilst he neither saw nor felt any such living Antagonist capable to dispute the Field with him.
+'Tis said of the Lion, that being in civil Conference with the Man, he wisely refus’d to yield the Superiority of Strength to him; when instead of Fact, the Man produc'd only certain Figures and Representations of human Victorys over the Lionkind. 
 
+These Master-pieces of Art the Beast discover'd to be wholly of human Forgery: and from these he had good right to appeal. 
 
-
+Indeed had he ever in his life been witness to any such Combats as the Man represented to him in the way of Art; possibly the Example might have mov'd him. But old Statues of a Hercules, a Theseus, or other Beast-subduers, cou'd have little power over him, whilst he neither saw nor felt any such living Antagonist capable to dispute the Field with him.

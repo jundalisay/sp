@@ -71,3 +71,22 @@ The Library of Alexandria had information on Atlantis
 
 The Ten Commandments are in Crystal Tablets that give you information upon touching certain parts. Bashar implies that these are under the Sphinx. 
 
+
+
+
+## Crystal Skulls
+
+These were created during Atlantean times. These represent archetypes and have a lot of information.
+
+Silicon is a good medium to store information.
+
+The Master Skull was the basis for the other skulls.
+
+
+Name | Location | Information or Archtype
+--- | --- | ---
+Sequoia | North East America near Canada | Tree energy
+Tet | Angkor wat | Other energies 
+Shem | Tibet | Other dimensions and portals
+
+

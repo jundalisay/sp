@@ -22,8 +22,6 @@ Thrasymachus | ![Thrasymachus avatar](/icons/Thrasymachus.jpg)
 Cleitophon | ![Cleitophon avatar](/icons/Cleitophon.jpg) 
 
 
-
-
 The scene is in Cephalus' house at the Piraeus. Socrates narrates the dialogue to Timaeus, Hermocrates, Critias, and a nameless person, who are introduced in the Timaeus, the day after it happened.
 
 Glaucon is the son of Ariston.
