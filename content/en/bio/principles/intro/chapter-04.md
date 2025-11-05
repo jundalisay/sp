@@ -47,10 +47,8 @@ For example, the identity of Donald Trump is different from that of Joe Biden be
 
 These many constant changes create a lot of new identities which then leads to the natural diversity in the universe.  
 
-{{< q a="Hume" c="Treatise of Human Nature, Book 1, Part 4" >}}
-The addition or reduction of a mountain would not be enough to produce a diversity in a planet. But the change of a very few inches can destroy the identity of some bodies.
-
-This means that objects break the continuity of the mind's actions according to their proportion to each other, and not according to the size of the objects. This interruption makes an object cease to appear the same.
+{{< q a="David Hume" c="Treatise of Human Nature, Book 1, Part 4" >}}
+The addition or reduction of a mountain would not be enough to produce a diversity in a planet. But the change of a very few inches can destroy the identity of some bodies. This means that objects break the continuity of the mind's actions according to their proportion to each other, and not according to the size of the objects. This interruption makes an object cease to appear the same.
 {{< /q >}}
 
 
@@ -58,8 +56,6 @@ This means that objects break the continuity of the mind's actions according to 
 <!--  identity from the tank because our minds can perceive them as separately existing -- a tank without a headlight is still a tank. 
 
 However, a tank without a turret is no longer a tank. And so the turret is inseperable from the identity of a tank.  -->
-
-
 
 <!-- Likewise, the balloon of a hot air balloon cannot be separated without destroying the original identity of the hot air balloon.
 
@@ -94,9 +90,12 @@ Hume explains that this is because the mind has a tendency to stitch together th
 
 This then makes the stitched-identity an illusion. Instead, the diversity is the real phenomenon, consistent with Hindu philosophy:
 
-{{< q >}}
-Vaecitryaḿ prákrtadharmah samánaḿ na bhaviśyati. [Diversity is the law of Nature, Identity can never exist.]
+{{< q a="Brihadaranyaka Upanishad" c="1.4.7" >}}
+This (universe) was then undifferentiated. It differentiated only into name and form—it was called such and such, and was of such and such form. This Self has entered into these bodies up to the tip of the nails.. The Self alone is to be meditated upon, for all these are unified in It.]
 {{< /q >}}
+
+<!-- Vaecitryaḿ prákrtadharmah samánaḿ na bhaviśyati. [Diversity is the law of Nature, Identity can never exist.
+“He was alone… He desired, ‘Let me become many. Let me bring forth.’” -->
 
 <!-- Each self is a subjective artificial construct made by the perceiving entity, which in the human case is consciousness.  -->
 
@@ -121,14 +120,13 @@ Doing so would be information-and-memory-overload for us. To save us from such a
 
 If we applied this system to humans, then a 20-year old man will not only have 20 selves and not even 7,300 selves (20 * 365), but 630,720,000 selves if his smallest perception is in seconds! If humans live for 100 years, then each human soul will experience 3,153,600,000 selves in a lifetime, and even more if we can naturally perceive milliseconds and remember what happened in each millisecond.
 
-{{< img src="/photos/psych/schizo.jpg" cap="A soul can have many selves (instances). This is most evident among Westerners who have a liberalized culture and not so much in Asian culture where the selves are controlled by tradition" alt="crazy">}}
-
+{{< img src="/photos/psych/schizo.jpg" cap="A soul can have many selves (instances). This is most evident among Westerners who have a liberalized culture and not so much in Asian culture where the selves are controlled or harmonized by tradition. 'Control' implies Negative force, while 'harmonized' implies Positive" alt="crazy">}}
 
 
 This dynamic idea of the self is very important because it serves as the foundation for Book 2 where Hume discusses the nature of emotions, and Book 3 which is about Morals. 
 
-- When applied to mental health, this explains the root cause of personality disorders such as split personality. 
-- When applied to society, it explains social cycles or why revolutions, civil war, recessions, financial crises happen. We can say that a civil war is the fight between the two personalities of a single society.
+- When applied to mental health, this explains the root cause of personality disorders such as split personality, the metaphysical root causes of which are unknown to Western Medical science
+- When applied to society, it explains social cycles or why revolutions, civil war, recessions, financial crises happen. We can say that a civil war is the fight between the two personalities of a single society. Again, Western Sociology is ignorant of the root causes, as proven by the failure of the League of Nations and the United Nations to prevent war and other problems that afflict humanity
 
 Hume's concept of the self is fully compatible with:
 - Socrates' concept of the soul, and
@@ -136,10 +134,14 @@ Hume's concept of the self is fully compatible with:
 
 This dynamism prevents moral systems from degrading into casuistry wherein all moral rules are given beforehand, such as in the Ten Commandments and Shariah law. 
 
+The proposals of David Hume and Adam Smith being unknown is proof that the Europe had a burst of enlightenment in the 17th-18th centuries, but went back to darkness immediately from the 19th century. 
+
 
 ## The Problem with Casuistry
 
-The problem with such laws is that they force dynamic consciousnesses into a static moral box, hindering their evolution. Morals are ultimately based on feelings, and feelings change through time since feelings are a wave and waves always change. Therefore, the moral rules made in 500 BC will work well for the feelings of 500 BC, but might be incompatible with the feelings of 2020 AD.
+The problem with such laws is that they force dynamic consciousnesses into a static moral box, hindering their evolution. Morals are ultimately based on feelings, and feelings change through time since feelings are a wave and waves always change. 
+
+Therefore, the moral rules made in 500 BC will work well for the feelings of 500 BC, but might be incompatible with the feelings of 2020 AD.
 
 If we were to view moral rules as a kind of forced logic, then the casuistic moral systems in Judaism, Islam, and Christianity would be like hard-coding, whereas the rules in Hinduism, Buddhism, and Taoism would be soft-coding. 
 
@@ -157,7 +159,9 @@ elsif..
 
 Here, you compare an action `x` with whatever is exactly listed beforehand and then get a corresponding punishment or reward. This system makes rules as they go, adding them to existing ones, and is based on effect. 
 
-This method is easy to set up, but will show cracks in the long run. For example, it was easy for Moses to come up with Ten Commandments to bring his people into Israel. But it later led to internal conflict because the rules were too simple. The latter Jews like Jesus added on new laws that contradicted the old laws and created confusion. This contradiction caused his revisions to become totally different from Judaism, as a new moral system or program called "Christianity".
+This method is easy to set up, but will show cracks in the long run. 
+
+For example, it was easy for Moses to come up with Ten Commandments to bring his people into Israel. But it later led to internal conflict because the rules were too simple. The latter Jews like Jesus added on new laws that contradicted the old laws and created confusion. This contradiction caused his revisions to become totally different from Judaism, as a new moral system or program called "Christianity".
 
 
 ### Non-Casuistry is Better
@@ -194,24 +198,26 @@ Conversely, the water in the sea (paramatman) can be turned into billions of new
 Instead of water and seas, Hume gives the example of a citizens and republics, wherein each citizen is a 'drop' or member of the bigger sea of humans.:
 
 
-{{< q a="Hume" >}}
+{{< q a="David Hume" >}}
 I can only compare the soul to a republic with several members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic in the incessant changes of its parts. The same republic may change its members, laws, and constitutions.  
 {{< /q >}}
 
 
 In Bio Superphysics, Hume's idea of the self leads to complex personality types, as well as personality disorders, depending on how united or disunited the selves are.  
 
-In Social Superphysics, it naturally leads to the idea of the society-organism which has its own dynamics, just as water in a cup has different dynamics than water in the ocean. For example, water in a cup does not have waves nor any variation in saltiness or mineral content, whereas ocean-water has waves and a varying amount of minerals.
+In Social Superphysics, it naturally leads to the idea of the society-organism which has its own dynamics, just as water in a cup has different dynamics than water in the ocean. 
+
+For example, water in a cup does not have waves nor any variation in saltiness or mineral content, whereas ocean-water has waves and a varying amount of minerals.
 
 This has the following implementations in the different sciences:
 
 
 Science | Effect
 --- | ---
-Material Superphysics | It destroys the grandfather paradox because if you go back in time to kill yourself as a child, you are actually *killing a different entity*. This means that your current self will stay alive, but your child-self will die
+Material Superphysics | It destroys the grandfather paradox because if you go back in time to kill yourself as a child, you are actually *killing a different entity*. This means that your current self will stay alive, but that seemingly-other-child-version-of-you will die
 . | It allows the possibility of multiverses which have different copies of the self.
 Bio Superphysics | It gets to the root causes of personality disorders
-Supersociology | Death penalty and imprisonment would be applied differently because the person who committed the crime is a different entity from the one serving the jail time
+Supersociology | Death penalty and imprisonment would be applied differently because the person who committed the crime is a different entity from the one serving the jail time i.e a criminal can only be executed if there is not change in his wave-form through time as it means that his soul has been so deeply indoctrinated with a wrong *adharmic* wave pattern
 Supereconomics | Sanctions on erring countries will also be different because the Kim Jong Un that met Trump in 2019 is a different entity from the Kim Jong Un that started in 2011
 . | Laws should not guarantee the lifetime ownership of assets and property because the entity that deserved it in the beginning might not be deserving later on*. 
 
@@ -244,7 +250,9 @@ You could say that convicts are those shrubs that were neglected by society so a
 
 This new system is much more sophisticated as it gets data regularly to plot the behavior of each self. It then matches their pattern acccording to the general moral template or general moral principles. 
 
-If each soul has 3 billion selves in a lifetime and there are 1 billion people on earth, as a set population, then a global lawmaker must do 30,000,000,000,000,000 observations (30 quadrillion) in a year! This is impossible for any person or even groups of persons. But is possible for an artificially-intelligent lawmaker such as a computer which can handle thousands of computations per second. 
+If each soul has 3 billion selves in a lifetime and there are 1 billion people on earth, as a set population, then a global lawmaker must do 30,000,000,000,000,000 observations (30 quadrillion) in a year! 
+
+This is impossible for any person or even groups of persons. But is possible for an artificially-intelligent lawmaker such as a computer which can handle thousands of computations per second. 
 
 This is the idea behind [ISAIAH](https://pantrypoints.com/match) or the Impartial Spectator Automated Inteligence Aggregation Host which processes user data and compares it with a moral template to assist in making moral judgements in real time. With ISAIAH, the following moral decisions can be made:
 
