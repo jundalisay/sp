@@ -74,12 +74,11 @@ They wear white robes and have chaplets upon their heads. They accompany with th
 - Lachesis sings of the past. Lachesis laying hold of either in turn, first with one hand and then with the other.
 - Clotho sings of the present. Clotho from time to time assists with a touch of her right hand the revolution of the outer circle of the whorl or spindle.
 - Atropos sings the future. Atropos with her left hand touching and guiding the inner ones**.
-
-
 {{< /l >}}
 
 
-> **Superphyics Note: The mind categorizes cause & effect in 3 phases: past, present, and future. The lower chakras (outer whorls to Socrates) are concerned with the present, while the higher chakras (inner whorls) are concerned with the future.
+{{< n n="The mind categorizes cause & effect in 3 phases: past, present, and future. The lower chakras (outer whorls to Socrates) are concerned with the present, while the higher chakras (inner whorls) are concerned with the future." >}}
+
 
 
 
@@ -102,10 +101,7 @@ Let him who draws the first lot have the first choice, and the life which he cho
 He then scattered lots indifferently among them all. Each of them took up the lot which fell near him except Er himself (he was not allowed).
 
 Each took his lot and saw his number. Then, the Interpreter placed on the ground before them the samples of lives. There were many more lives than the souls present, and they were of all sorts.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 There were lives of every animal and of man in every condition.
 - There were tyrannies among them, some lasting out the tyrant's life, others which broke off in the middle and came to an end in poverty and exile and beggary.
 - There were lives of famous men, some who were famous for their beauty, strength, and success in games. Some were famous for their birth and the qualities of their ancestors. Some were infamous, for the opposite qualities.
@@ -113,4 +109,3 @@ There were lives of every animal and of man in every condition.
 - There were other qualities all mingled with one another. Elements of wealth mingled with poverty. Disease mingled with health.
 - There were mean states also.
 {{< /l >}}
-

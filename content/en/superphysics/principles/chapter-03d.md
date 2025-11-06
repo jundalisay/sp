@@ -187,6 +187,15 @@ The knowledge of the factors affecting dharmagenesis, as the pervading waves, id
 - In politics and sociology, this will prevent conflict by understanding the ethos of each race or social group
 
 
+{{< q a="Socrates" c="The Republic by Plato, Book 2, Chapter 3" >}}
+The beginning is the most important part of any work.
+{{< /l >}}
+
+<!--  This is especially true for our youth because that is the time when:
+- the character is being formed, and
+- the desired impression is more readily taken. -->
+
+
 Basically, it means that before you start something, you should know:
 - the true intention or motivation behind it. This is the miro part
 - whether that intention matches the flow of reality or environment. This is the macro part

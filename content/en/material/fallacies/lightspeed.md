@@ -30,7 +30,9 @@ An observer at point A with a watch can determine the time values of events near
 This corrupts Physics by sacrificing the aether just to enshrine electromagnetism. This corruption seen nowadays in:
 - tech companies adding more and more  energy and CPU to artificial intelligence (AI) with the wrong belief that more energy will magically turn AI into real intelligence
 - the Hubble Tension and Axis of Evil, as the CMB being believed to have come from the Big Bang instead of the local aetherspace
-- physcists theorizing warp drives that will never become a reality
+- physicists theorizing warp drives that will never become a reality
+- physicists simplistically adding energy to fusion reactions wrongly believing that it will magically output more energy than it takes in
+
 
 {{< q a="Alcubierre" c="The Warp Drive">}}
 Exotic matter will be needed to generate such a distortion of spacetime
@@ -77,7 +79,7 @@ This is far more harmful than the simultaneity fallacy because it makes:
 
 This fallacy is seen in:
 - superluminal motion where light actually travels faster than the maximum speed, yet is mathematically coerced to stay within `c`
-- Jamwes Webb Space Telescope showing very distant galaxies already well formed
+- James Webb Space Telescope showing very distant galaxies already well formed
 - wormholes and whiteholes not being found, since the center of black holes are aether and not space
 
 
@@ -86,7 +88,9 @@ This fallacy is seen in:
 
 ## Superluminal Motion Hacks
 
-Physicists discard the evidence of light in quasars, pulsars, and nova going faster than light. They instead create math hacks to coerce the evidence into conforming with the Einstein fallacy.
+Physicists discard the evidence of light in quasars, pulsars, and nova going faster than 300,000 km/s.
+
+They instead create math hacks to coerce the evidence into conforming with the Einstein fallacy.
 
 
 ### 1. Light Echo Hack

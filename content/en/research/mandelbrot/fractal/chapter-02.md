@@ -6,6 +6,8 @@ weight: 4
 date: 2025-11-04
 ---
 
+
+
 ## Jean Perrin
 
 familiar motions this view appears true enough, do not see that it involves considerable diffi- culties.
@@ -36,3 +38,5 @@ cally constant for spheres below a certain vol- ume. This mean density may be no
 "One step further and our spherule be- comes of the order of a molecule radius. In a gas, it will generally lie in intermolecular space, where its mean density will henceforth vanish. At our point the true density will also vanish. But about once in a thousand times that point will lie within a molecule, and the mean density will be a thousand times higher than the value we usually take to be the true density of the gas.
 "Let our spherule grow steadily smaller. Soon, except under exceptional circumstances, it will become empty and remain so hence- forth owing to the emptiness of intra-atomic space; the true density vanishes almost every- where, except at an infinite number of isolat- ed points, where it reaches an infinite value.
 "Analogous considerations are applicable to properties such as velocity, pressure, or
+
+

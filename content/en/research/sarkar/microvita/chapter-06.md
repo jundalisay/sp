@@ -10,6 +10,8 @@ weight: 18
 ---
 
 
+<!-- ## Chapter 9 elsewhere -->
+
 According to their nature, microvita(1) are of 3 types:
 
 1. Negative

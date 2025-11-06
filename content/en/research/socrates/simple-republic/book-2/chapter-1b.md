@@ -68,6 +68,7 @@ However, the adharmic make more pretensions than the dharmic. They:
 This matches with the testimony of Hesiod and Homer. Hesiod says that many blessings are provided for the dharmic. Homer has a very similar strain.
 {{< /r >}}
 
+
 {{< q a="Hesiod" >}}
 Still grander are the gifts of heaven <!-- which Musaeus and his son give to --> for the dharmic. They take them down into the world below, where they have the saints drunk at a feast, crowned with garlands.
 {{< /q >}}
@@ -83,19 +84,13 @@ But the wicked has another strain. While the wicked are living, they are brought
 <!-- and make them carry water in a sieve. They have the wicked  -->
 
 Again Socrates, please speak about dharma and adharma not like the poets, but like prose writers.
-{{< /r >}}
 
-
-{{< r a="Adeimantus" >}}
 The universal voice of mankind always says that:
 - dharma and virtue are honourable, but are grievous and toilsome
 - the pleasures of vice and adharma are easy to attain, and are only censured by law and opinion
 - honesty is mostly less profitable than dishonesty, and
 - wicked men are happy
-{{< /r >}}
 
-
-{{< r a="Adeimantus" >}}
 They honour wicked men when they are rich or influential. They despise and overlook the weak and poor, even if they are better than the others. But most extraordinary is they say that the gods give:
 - calamity and misery to good men
 - good and happiness to the wicked.
@@ -130,12 +125,9 @@ They produce books written by Musaeus and Orpheus<!-- , who were children of the
 - that they are equally at the service of the living and the dead.
 
 They call atonements as "mysteries" which redeem us from the pains of hell.
-{{< /r >}}
 
  <!-- But if we neglect them, no one knows what awaits us. --> 
 
-
-{{< r a="Adeimantus" >}}
 The young people hear:
 - all this said about virtue and vice, and
 - the way how gods and men regard them.
@@ -161,12 +153,9 @@ People say that:
 This is because, as philosophers prove, appearance:
 - tyrannizes over truth, and
 - is lord of happiness
-{{< /r >}}
-
 
 <!-- Nevertheless, the argument is that this is the path if we want to be happy. , with a view to concealment -->
 
-{{< r a="Adeimantus" >}}
 Therefore, I must devote myself to appearance. I will decorate the exterior of my house with virtue.
 
 Archilochus, the greatest of sages, recommends us to be subtle and crafty foxes. But I hear the concealment of wickedness is often difficult.
@@ -174,10 +163,7 @@ Archilochus, the greatest of sages, recommends us to be subtle and crafty foxes.
 I answer that nothing great is easy. We will establish secret brotherhoods and political clubs. Professors of rhetoric will then teach the art of persuading courts and assemblies partly by persuasion and partly by force. These will bring me unlawful gains without punishment. 
 
 But the gods cannot be deceived, neither can they be compelled.
-{{< /r >}}
 
-
-{{< r a="Adeimantus" >}}
 **But what if there are no gods?** What if they did not care about human things? Why then should we mind about concealment?
 
 We only know about the gods from the poets. These poets say that the gods may be influenced and turned by 'sacrifices, soothing entreaties, and offerings.' 
@@ -198,10 +184,7 @@ If we are dharmic, we may escape the vengeance of heaven but lose the gains of a
 The mighty cities declare that there are mysteries and atoning deities which have great power. The children of the gods, who were their poets and prophets, bear a like testimony.
 
 On what principle, then, shall we choose dharma rather than the worst adharma?
-{{< /r >}}
 
-
-{{< r a="Adeimantus" >}}
 If we only unite the adharma with deceitful appearances, then we accept what the authorities tell us.
 
 How can a man who has any superiority of mind, rank, or wealth, be willing to honour dharma?
@@ -210,16 +193,11 @@ Many people are very ready to forgive the unjust because they know that men are 
 They blame it on cowardice, age, or some weakness.
 
 But once they attain the power of being unjust, they immediately become as unjust as possible.
-{{< /r >}}
 
-
-{{< r a="Adeimantus" >}}
 Glaucon and I were astonished that no one has ever blamed adharma or praised dharma except with a view to the glories, honours, and benefits which flow from them.
 
 No one has ever adequately described in verse or prose the true essential nature of dharma or adharma in the soul.
-{{< /r >}}
 
-{{< r a="Adeimantus" >}}
 No one has ever shown that in the soul of every man, dharma is the greatest good and adharma the greatest evil.
 
 We would not need to watch for adharma if:
@@ -227,10 +205,7 @@ We would not need to watch for adharma if:
 - everyone has been taught this from youth.
 
 Every person would have been his own watchman because every person would be afraid of harbouring in himself the greatest of evils.
-{{< /r >}}
 
-
-{{< r a="Adeimantus" >}}
 Thrasymachus would seriously reject this. They would use stronger words on dharma and adharma to pervert their true nature.
 
 You said that dharma is one of that highest class of positives which are desired for their results, but in a far greater degree for their own sakes.

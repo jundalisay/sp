@@ -46,9 +46,7 @@ With such a diet, they may be expected to:
 - bequeath a similar life to their children after them.
 
 People should be given the ordinary conveniences of life. People who are to be comfortable are accustomed to lie on sofas, dine off tables, and have sauces and sweets in the modern style. 
-{{< /l >}}
 
-{{< l a="Socrates" >}}
 How is a luxurious State created? **There is no harm in this.**
 
 In a luxurious State, we can see better how dharma and adharma originate. **Many will not be satisfied with the simpler way of life.** They will be for adding sofas, tables, perfumes, incense, courtesans, and cakes in every variety. 
@@ -68,10 +66,7 @@ The city will have to fill and swell with many callings which are not required b
 - servants, tutors, nurses wet and dry, tirewomen and barbers, physicians, as well as confectioners and cooks, and swineherds.
   - They were not needed before in the former version of our State.
 - animals of many other kinds for food.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 The country is now too small. A slice of our neighbours' land will be wanted by us for pasture and tillage. They will want a slice of ours if, like ourselves, they exceed the limit of necessity and allow the unlimited accumulation of wealth. Then we shall go to war with them. Thus, war comes from causes which are also the causes of almost all the evils in States, private as well as public. Our State enlarges.
 {{< /l >}}
 
@@ -79,7 +74,7 @@ The country is now too small. A slice of our neighbours' land will be wanted by 
 > Thus, war comes from causes which are also the causes of almost all the evils in States.
 
 
-### Division of Labor Creates Highly Skilled Experts
+## Division of Labor Creates Highly Skilled Experts
 
 {{< l a="Socrates" >}}
 This time, the enlargement will be a whole army which will have to go out and fight the invaders to defend all that we have. One man cannot practise many arts with success. But war is an art, which needs as much attention as shoemaking. 

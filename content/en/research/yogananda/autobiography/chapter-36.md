@@ -9,9 +9,11 @@ weight: 328
 
 
 
-“Master, did you ever meet Babaji?”
+It was a calm summer night in Serampore.
 
-It was a calm summer night in Serampore; the large stars of the tropics gleamed over our heads as I sat by Sri Yukteswar’s side on the second-story balcony of the hermitage.
+The large stars of the tropics gleamed over our heads as I sat by Sri Yukteswar’s side on the second-story balcony of the hermitage.
+
+“Master, did you ever meet Babaji?”
 
 “Yes.” Master smiled at my direct question; his eyes lit with reverence. “Three times I have been blessed by the sight of the deathless guru. Our first meeting was in Allahabad at a Kumbha Mela.”
 

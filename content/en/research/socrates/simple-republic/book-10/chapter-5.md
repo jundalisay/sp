@@ -14,10 +14,8 @@ Here, my dear Glaucon, is the supreme peril of our human state. Therefore, the u
 **Let each of us leave every other kind of knowledge and seek and follow one thing only.**
 
 This will help us learn and discern between good and evil. In this way, we can always and everywhere choose the better life.
-{{< /l >}}
 
 
-{{< l a="Socrates" >}}
 We should consider the bearing of all these things on virtue. We should know:
 - what the effect of beauty is when combined with poverty or wealth in a particular soul,
 - what are the good and evil consequences of:
@@ -27,10 +25,7 @@ We should consider the bearing of all these things on virtue. We should know:
     - cleverness and dullness, and
     - all the natural and acquired gifts of the soul, and
     - the operation of them when conjoined.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 These will make us look at the nature of the soul and be able to determine which is the better and the worse. We will give the name of:
 - "evil" to the life which will make souls more unjust, and
 - good to the life which will make souls more just.
@@ -38,19 +33,13 @@ These will make us look at the nature of the soul and be able to determine which
 All else we will disregard.
 
 We have seen and known that this is the best choice both in this life and in the next life.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 A man must take with him after death an adamantine faith in truth and right so that in the next life he may be undazzled by the desire of wealth or the other allurements of evil.
 
 If not, he will come upon tyrannies and similar villainies. He will do irremediable wrongs to others and suffer worse himself.
 
 But let him know how to choose the mean and avoid the extremes on either side not only in this life but in all lives to come, for this is the way of happiness.
-{{< /l  >}}
 
-
-{{< l a="Socrates" >}}
 According to Er, the prophet said:
 {{< /l >}}
 
@@ -106,10 +95,7 @@ The choice of the souls was in most cases based on their experience of a previou
 - the soul of Epeus, the son of Panopeus, choosing the nature of a woman cunning in the arts
 - the soul of the jester Thersites was putting on the form of a monkey
 - lastly, the soul of Odysseus who remembered his former toils which then disenchanted him of ambition. And so he spent a considerable time searching the life of a private man who had no cares. He had some difficulty in finding this, which was lying around neglected by everybody else. When he saw it, he said that he would have done the same had his lot been first instead of last, and that he was delighted to have it.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 Not only did men pass into animals. There were animals tame and wild who also changed into one another and into corresponding human natures. 
 
 The good changed into the gentle and the evil into the savage, in all sorts of combinations*. All the souls had now chosen their lives.
@@ -149,26 +135,17 @@ When they had all passed, they marched on in a scorching heat to the plain of Fo
 Then towards evening, they encamped by the river of Unmindfulness, whose water no vessel can hold. They were all obliged to drink a certain quantity of this.
 
 Those who were not saved by wisdom drank more than was necessary. Those who drank forgot all things.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 After they had gone to rest, at the middle of the night there was a thunderstorm and earthquake. Instantly, they were driven upwards in all manner of ways to their birth, like shooting stars.
 
 Er was hindered from drinking the water. He could not say how he returned to the body except that he awoke suddenly and found himself lying on the pyre.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 Thus, Glaucon, the tale has been saved and has not perished.
 
 It will save us if we are obedient to it. We shall pass safely over the river of Forgetfulness and our soul will not be defiled.
 
 My counsel is that we hold fast ever to the heavenly way and follow after justice and virtue always.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 We should consider that the soul is immortal and able to endure every sort of good and every sort of evil.
 
 Thus, we shall live dear to one another and to the gods, both while remaining here and when, like conquerors in the games who go round to gather gifts, we receive our reward. 

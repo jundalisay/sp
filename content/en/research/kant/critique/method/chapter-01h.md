@@ -33,9 +33,23 @@ Very different is the case when it has to defend itself, not before a judge, but
 
 By the polemic of pure reason I mean the defence of its propositions made by reason, in opposition to the dogmatical counter-propositions advanced by other parties. The question here is not whether its own statements may not also be false; it merely regards the fact that reason proves that the opposite cannot be established with demonstrative certainty, nor even asserted with a higher degree of probability. Reason does not hold her possessions upon sufferance; for, although she cannot show a perfectly satisfactory title to them, no one can prove that she is not the rightful possessor.
 
-It is a melancholy reflection that reason, in its highest exercise, falls into an antithetic; and that the supreme tribunal for the settlement of differences should not be at union with itself. It is true that we had to discuss the question of an apparent antithetic, but we found that it was based upon a misconception. In conformity with the common prejudice, phenomena were regarded as things in themselves, and thus an absolute completeness in their synthesis was required in the one mode or in the other (it was shown to be impossible in both); a demand entirely out of place in regard to phenomena. There was, then, no real self-contradiction of reason in the propositions: The series of phenomena given in themselves has an absolutely first beginning; and: This series is absolutely and in itself without beginning. The two propositions are perfectly consistent with each other, because phenomena as phenomena are in themselves nothing, and consequently the hypothesis that they are things in themselves must lead to self-contradictory inferences.
+It is a melancholy reflection that:
+- reason, in its highest exercise, falls into an antithetic
+- the supreme tribunal for the settlement of differences should not be at union with itself. 
 
-But there are cases in which a similar misunderstanding cannot be provided against, and the dispute must remain unsettled. Take, for example, the theistic proposition: There is a Supreme Being; and on the other hand, the atheistic counter-statement: There exists no Supreme Being; or, in psychology: Everything that thinks possesses the attribute of absolute and permanent unity, which is utterly different from the transitory unity of material phenomena; and the counter-proposition: The soul is not an immaterial unity, and its nature is transitory, like that of phenomena. 
+I had to discuss the question of an apparent antithetic.
+
+But I found that it was based on a misconception. 
+
+In conformity with the common prejudice, phenomena were regarded as things in themselves, and thus an absolute completeness in their synthesis was required in the one mode or in the other (it was shown to be impossible in both); a demand entirely out of place in regard to phenomena.
+
+There was, then, no real self-contradiction of reason in the propositions: The series of phenomena given in themselves has an absolutely first beginning; and: This series is absolutely and in itself without beginning. 
+
+The 2 propositions are perfectly consistent with each other, because phenomena as phenomena are in themselves nothing, and consequently the hypothesis that they are things in themselves must lead to self-contradictory inferences.
+
+But there are cases in which a similar misunderstanding cannot be provided against, and the dispute must remain unsettled. 
+
+Take, for example, the theistic proposition: There is a Supreme Being; and on the other hand, the atheistic counter-statement: There exists no Supreme Being; or, in psychology: Everything that thinks possesses the attribute of absolute and permanent unity, which is utterly different from the transitory unity of material phenomena; and the counter-proposition: The soul is not an immaterial unity, and its nature is transitory, like that of phenomena. 
 
 The objects of these questions contain no heterogeneous or contradictory elements, for they relate to things in themselves, and not to phenomena. There would arise, indeed, a real contradiction, if reason came forward with a statement on the negative side of these questions alone.
 

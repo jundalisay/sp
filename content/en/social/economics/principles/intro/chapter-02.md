@@ -60,3 +60,13 @@ Working together creates more force in society just as:
 The goal of Supereconomics is to harmonize the supply with demand in real time globally so that the problems of lack can be made obsolete. This can be only made possible if the wave-nature of societies is understood.   
 
 
+The dominance of the different classes leads to the different ideologies
+
+Dominant Class | Philosophy
+--- | ---
+Workers | Communism, Socialism, Liberalism
+Warriors | Divine Rule, Military Rule, Conservatism
+Thinkers | Theocracy, Technocracy, Scientism
+Traders | Oligarchy, Neoliberalism, Mercantilism
+
+

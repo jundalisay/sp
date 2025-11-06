@@ -97,10 +97,7 @@ Yes, that would be the better way. We are not all alike. There are diversities o
 Business does not wait when the doer of the business is at leisure. Instead, the doer must follow up what he is doing, and make the business his first object. 
 
 If so, we must infer that all things are produced more plentifully and easily and of a better quality when one man does one thing which is natural to him and does it at the right time, and leaves other things.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 Then more than four citizens will be needed.
 - The husbandman will not make his own plough or other implements of agriculture.
 - The builder will not make his tools if he too needs many.
@@ -110,10 +107,7 @@ Thus, carpenters, smiths, and many other artisans, will be sharers in our little
 We can even add:
 - shepherds and other herdsmen so that our husbandmen can have oxen to plough with and our builders can have draught cattle, and
 - weavers so that they can have fleeces and hides.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 At this point, our State will not be very large but not too small. Then it is impossible to place a city where nothing needs to be imported.
 
 Then there must be another class of citizens who will bring the supply from another city. A trader must have something to give or produce at home must be not only enough for themselves, but such both in quantity and quality as to accommodate those from whom their wants are supplied.
@@ -132,5 +126,3 @@ This want, then, creates a class of retail-traders in our State.
   - 'Hire' is the name for the price of their labour.
   - These hirelings help to make up our population.
 {{< /l >}}
-
-

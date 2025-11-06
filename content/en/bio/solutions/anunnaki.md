@@ -17,7 +17,7 @@ https://mythlok.com/gucumatz/ -->
 
 Our **Anunnaki Hypothesis** states that humans were created by the Anunnaki in order to help them [mine gold](/research/ancient/sumerian/enki/part-04/).
 
-The Anunnaki are an alien species from Cygnus constellation. Their planet was heating up and like ours and so they needed atomized gold in their stratosphere to keep it cool. 
+According to the Essassani, the Anunnaki are an alien species from Cygnus constellation. Their planet was heating up and like ours and so they needed atomized gold in their stratosphere to keep it cool. 
 
 
 {{< q a="Enki" c="Enki and Ninhursaja, Part 3" >}}
@@ -53,20 +53,37 @@ They only were made and formed. They had no mother and no father. They were not 
 
 <!-- The problem was that  -->
 
-### The Deluge
+## The Deluge
 
-The most advanced humans were the Atlanteans who were split between good and bad. 
+The most advanced humans were the Atlanteans who were located in the Bahamas, and were split between good and bad.
 
-Enlil, an Anunnaki leader, wanted to destroy the humans and so the Anunnaki used the weapons of Tiamat to draw in the bigger version of comet Encke which currently creates the Taurid meteor showers.
+The bad Atlanteans wanted to dominate the world and defeat the Anunnaki who were headquartered in the Middle East. 
 
-According to the Essassani, this meteor shower hit the earth twice a year for 20 years. 
+Greece was the last Anunnaki stronghold before reaching the Middle East. And so the Anunnaki decided to build a fort at Athens. 
+
+
+{{< q a="Priest of Sais" c="Timeaus by Plato" >}}
+A goddess founded your city Athens 1,000 years before ours in order to repulse the invasion from Atlantis receiving from the Earth and Hephaestus the seed of your race.
+{{< /q >}}
+
+
+
+Because of this aggression from humans, the Anunnaki leader Enlil decided to destroy the human species. 
+
+And so the Anunnaki used the weapons of Tiamat to draw in comets to crash into Atlantis.
+
+The Essassani clarify that:
+- these comets were the Taurid meteor showers which hit the earth twice a year for 20 years around 10,800 BC
+- the comet that crashed was a bigger version of comet Encke
+
 
 The Atlanteans were mentioned as the Atra-Hasis in The Epic of Gilgamesh.
 
 
-We can look at the postive aspects of humans as a genetic engineering product. For example, instead of focusing on the human lust for gold and material objects, we can focus on the ability of humans to follow instructions and work for the benefit of others. 
+## What We Do With This
 
+We can look at the postive aspects of humans as a genetic engineering product. 
 
-
+For example, instead of focusing on the human lust for gold and material objects, we can focus on the ability of humans to follow instructions and work for the benefit of others. 
 
 
