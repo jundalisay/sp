@@ -3,7 +3,7 @@ heading: Chapter 5b
 title: "The Moral Philosophy of Plato"
 description: ""
 c: "firebrick"
-weight: 30
+weight: 34
 # date: 2022-05-18
 ---
 

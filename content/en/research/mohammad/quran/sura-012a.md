@@ -28,19 +28,15 @@ Your Lord will:
 - complete His blessing on you and the family of Jacob, as He has completed it before on your forefathers Abraham and Isaac.
 {{< /r >}}
 
-7. In Joseph and his brothers are lessons for the seekers.
+<sup>7</sup> In Joseph and his brothers are lessons for the seekers.
 
 {{< s v="8" >}} They said:
 
 {{< l a="Clan" >}}
-Joseph and his brother Benjamin are dearer to our father than we are, although we are a whole group.  Our father is obviously wrong. 
-
-Kill Joseph, or throw him somewhere so that your father‘s attention will be yours. Afterwards, you will be decent people.
+Joseph and his brother Benjamin are dearer to our father than we are, although we are a whole group.  Our father is obviously wrong. Kill Joseph, or throw him somewhere so that your father‘s attention will be yours. Afterwards, you will be decent people.
 {{< /l >}}
 
-{{< s v="10" >}}  
-
-One of them said:
+{{< s v="10" >}} One of them said:
 
 {{< l a="Someone" >}}
 Do not kill Joseph, but throw him into the bottom of the well; some caravan may pick him up.”
@@ -63,9 +59,12 @@ I worry that you would take him away. I fear the wolf may eat him while you are 
 If the wolf ate him, and we are many, we would be good for nothing.
 {{< /l >}}
 
-15. So they went away with him, and agreed to put him at the bottom of the well. 
+<sup>15</sup> So they went away with him, and agreed to put him at the bottom of the well. We inspired him:
 
-And We inspired him, “You will inform them of this deed of theirs when they are unaware.” 
+{{< l a="Anunnaki" >}}
+You will inform them of this deed of theirs when they are unaware.
+{{< /l >}}
+
 
 {{< s v="16-17" >}} They came to their father in the evening weeping;
 
@@ -73,58 +72,107 @@ And We inspired him, “You will inform them of this deed of theirs when they ar
 Father, we went off racing one another, and left Joseph by our belongings. The wolf ate him. But you will not believe us.
 {{< /l >}}
 
-18. They brought his shirt, with fake blood on it. 
+
+<sup>18</sup> They brought his shirt, with fake blood on it. 
 
 {{< r a="Father" >}}
 Your souls enticed you to do something. But patience is beautiful, and Enki is my Help against what you describe.
 {{< /r >}}
 
 
-A caravan passed by, and they sent their water-carrier. 
-- He lowered his bucket, and said, “Good news. Here is a boy.” 
-- They hid him as merchandise. 
+A caravan passed by, and they sent their water-carrier. He lowered his bucket, and said:
+
+{{< r a="Father" >}}
+Good news. Here is a boy.
+{{< /r >}}
+
+They hid him as merchandise. 
 
 
-20. They sold him for a cheap price—a few coins.
+<sup>20</sup> They sold him for a cheap price—a few coins.
 
-21. The Egyptian Minister of Supplies bought him and said to his wife: “Take good care of him. He might be useful or we may adopt him as a son.”
+<sup>21</sup> The Egyptian Minister of Supplies bought him and said to his wife: 
+
+{{< l a="Minister" >}}
+Take good care of him. He might be useful or we may adopt him as a son.
+{{< /l >}}
+
 
 We thus established Joseph in the land, to teach him the interpretation of events. 
 
 Enki has control over His affairs, but most people do not know.
 
-22. When he reached his maturity, We gave him wisdom and knowledge. We thus reward the righteous.
+<sup>22</sup> When he reached his maturity, We gave him wisdom and knowledge. We thus reward the righteous.
 
-23. The governor's wife tried to seduce him in the house that he was living in. She shut the doors and said: “I am yours.” 
+<sup>23</sup> The governor's wife tried to seduce him in the house that he was living in. She shut the doors and said: 
 
-He said, “Enki forbid! He is my Lord. He has given me a good home. Sinners never succeed.”
+{{< r a="Wife" >}}
+I am yours.
+{{< /r >}}
 
-24. She wanted him and he wanted her. But he saw the proof of his Lord. That was how We diverted evil and indecency away from him. He was one of Our loyal servants.
+{{< l a="Joseph" >}}
+Enki forbid! He is my Lord. He has given me a good home. Sinners never succeed.
+{{< /l >}}
 
-25. As they raced towards the door, she tore his shirt from behind. At the door, they ran into her husband. She said, “What is the penalty for him who desired to dishonor your wife, except imprisonment or a painful punishment?”
 
-26. He said, “It was she who tried to seduce me.” 
+<sup>24</sup> She wanted him and he wanted her. But he saw the proof of his Lord. That was how We diverted evil and indecency away from him. He was one of Our loyal servants.
 
-A witness from her household suggested: “If his shirt is torn from the front: then she has told the truth, and he is the liar.
+<sup>25</sup> As they raced towards the door, she tore his shirt from behind. At the door, they ran into her husband. She said:
 
-27. But if his shirt is torn from the back: then she has lied, and he is the truthful.”
+{{< r a="Wife" >}}
+What is the penalty for someone who dishonored your wife, other imprisonment or a painful punishment?
+{{< /r >}}
 
-28. And when he saw that his shirt was torn from the back, he said, “This is a woman's scheme. Your scheming is serious indeed.”
+{{< l a="Joseph" >}}
+<sup>26</sup> It was she who tried to seduce me.
+{{< /l >}}
 
-29. “Joseph, turn away from this. And you, woman, ask forgiveness for your sin.”
 
-Some ladies in the city said, “The governor's wife is trying to seduce her slave. She is deeply in love with him. We see she has gone astray.”
+A witness from her household suggested: 
 
-31. When she heard of their gossip, she invited them, and prepared for them a banquet, and she gave each one of them a knife. She said, “Joseph, come out to them.” 
+{{< r a="Man" >}}
+If his shirt is torn from the front then she has told the truth and he is the liar.
+
+<sup>27</sup> But if his shirt is torn from the back then she has lied and he is the truthful.
+{{< /r >}}
+
+
+<sup>28</sup> The minister saw that his shirt was torn from the back.
+
+{{< l a="Minister" >}}
+This is a woman's scheme. Your scheming is serious. <sup>29</sup> Joseph, turn away from this. You, woman, ask forgiveness for your sin.
+{{< /l >}}
+
+
+Some ladies in the city said:
+
+{{< l a="Ladies" >}}
+The governor's wife is trying to seduce her slave. She is deeply in love with him. We see she has gone astray.
+{{< /l >}}
+
+
+<sup>31</sup> When she heard of their gossip, she invited them, and prepared for them a banquet, and she gave each one of them a knife.
+
+{{< r a="Wife" >}}
+Joseph, come out to them.
+{{< /r >}}
 
 When they saw him, they marveled at him, and accidentally cut their hands. 
 
-They said, “Good Enki, this is not a human, this must be a precious angel.”
+{{< l a="Ladies" >}}
+Good Enki, this is not a human, this must be a precious angel.
+{{< /l >}}
 
-32. She said, “He is the one you blamed me for. I did try to seduce him, but he resisted. But if he does not do what I tell him to do, he will be imprisoned, and will be one of the despised.”
 
-33. He said, “My Lord, prison is more desirable to me than what they call me to. Unless You turn their scheming away from me, I may yield to them, and become one of the ignorant.”
+{{< r a="Wife" >}}
+<sup>32</sup> He is the one you blamed me for. I did try to seduce him, but he resisted. But if he does not do what I tell him to do, he will be imprisoned, and will be one of the despised.
+{{< /r >}}
 
-<!-- 34. Thereupon his Lord answered him, and diverted their scheming away from him. 
 
-35. Then it occurred to them, after they had seen the signs, to imprison him for a while. -->
+{{< l a="Joseph" >}}
+<sup>33</sup> My Lord, prison is more desirable to me than what they call me to. Unless You turn their scheming away from me, I may yield to them, and become one of the ignorant.
+{{< /l >}}
+
+<sup>34</sup> Thereupon his Lord answered him, and diverted their scheming away from him. 
+
+<sup>35</sup> Then it occurred to them, after they had seen the signs, to imprison him for a while.

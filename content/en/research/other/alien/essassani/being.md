@@ -9,13 +9,11 @@ description: "The Triple 'A' Formula is based on the Triple 'A' Automative Assoc
 {{< n n="From: Being a Whole Person" >}}
 
 
-
 {{< r a="Woman" >}}
 How Does Energy Become Ego-Consciousness?
 {{< /r >}}
 
 ## The Movie Analogy
-
 
 {{< l a="Bashar" >}}
 In a movie screen, the light on the screen creates an illusion of a character acting in a movie. 
@@ -49,9 +47,4 @@ Some ETs have bigger eyes because they have more access to the higher mind.
 You can know another person by starting into his/her eyes. 
 
 
-
-
 <!-- conscio pattern can be dealt with as if it were autonomous for the purpose of reflectivity.   -->
-
-
-

@@ -112,7 +112,15 @@ We see in you nothing but a man like us. We see that:
 <sup>28</sup> He said:
 
 {{< l a="Noah" >}}
-O my people, Have you considered? If I stand on clear evidence from my Lord, and He has given me a mercy from Himself, but you were blind to it, can we compel you to accept it, even though you dislike it? <sup>29</sup> I ask of you no money for it. My reward lies only with Enki. And I am not about to dismiss those who believed; they will surely meet their Lord. And I see that you are ignorant people. <sup>30</sup> Who will support me against Enki, if I dismiss them? Will you not give a thought? <sup>31</sup> I do not say to you that I possess the treasures of Enki, nor do I know the future, nor do I say that I am an angel. Nor do I say of those who are despicable in your eyes that Enki will never give them any good. Enki is Aware of what lies in their souls. If I did, I would be one of the wrongdoers.
+O my people, Have you considered? If I stand on clear evidence from my Lord, and He has given me a mercy from Himself, but you were blind to it, can we compel you to accept it, even though you dislike it? 
+
+<sup>29</sup> I ask of you no money for it. My reward lies only with Enki. And I am not about to dismiss those who believed. They will surely meet their Lord. I see that you are ignorant people. 
+
+<sup>30</sup> Who will support me against Enki, if I dismiss them? Will you not give a thought? 
+
+<sup>31</sup> I do not say to you that I possess the treasures of Enki, nor do I know the future, nor do I say that I am an angel. 
+
+Nor do I say of those who are despicable in your eyes that Enki will never give them any good. Enki is Aware of what lies in their souls. If I did, I would be one of the wrongdoers.
 {{< /l >}}
 
 
@@ -143,11 +151,11 @@ If I made it up, upon me falls my crime, and I am innocent of the crimes you com
 
 
 {{< l a="Noah" >}}
-If you ridicule us, we will ridicule you, just as you ridicule. 39. You will surely know upon whom will come a torment that will abase him, and upon whom will fall a lasting torment.
+If you ridicule us, we will ridicule you, just as you ridicule. <sup>39</sup> You will surely know upon whom will come a torment that will abase him, and upon whom will fall a lasting torment.
 {{< /l >}}
 
 
-40. Until, when Our command came, and the volcano erupted, We said, 
+<sup>40</sup> Until, when Our command came, and the volcano erupted, We said, 
 
 {{< l a="Enki Agents" >}}
 Board into it a pair of every kind, and your family—except those against whom the sentence has already been passed—and those who have believed.
@@ -162,14 +170,14 @@ But those who believed with him were only a few.
 {{< /l >}}
 
 
-42. And so it sailed with them amidst waves like hills. Noah called to his son, who had kept away:
+<sup>42</sup> And so it sailed with them amidst waves like hills. Noah called to his son, who had kept away:
 
 {{< l a="Noah" >}}
 O my son! Embark with us, and do not be with the disbelievers.
 {{< /l >}}
 
 {{< r a="Son" >}}
-43. I will take refuge on a mountain—it will protect me from the water.
+<sup>43</sup> I will take refuge on a mountain—it will protect me from the water.
 {{< /r >}}
 
 {{< l a="Noah" >}}
@@ -179,13 +187,20 @@ There is no protection from Enki’s decree today, except for him on whom He has
 
 The waves surged between them, and he was among the drowned.
 
-44. And it was said, “O earth, swallow your waters,” and “O heaven, clear up.” 
+<sup>44</sup> It was said:
+
+{{< l a="Anunnaki" >}}
+O earth, swallow your waters,” and “O heaven, clear up.
+{{< /l >}}
 
 The waters receded, and the event was concluded, and it settled on Judi, and it was proclaimed:
 
-“Away with the wicked people.”
+{{< l a="Anunnaki" >}}
+Away with the wicked people.
+{{< /l >}}
 
-45. Noah called to his Lord:
+
+<sup>45</sup> Noah called to his Lord:
 
 {{< r a="Noah" >}}
 O My Lord, my son is of my family. Your promise is true, and You are the Wisest of the wise.
@@ -202,7 +217,5 @@ O My Lord, my son is of my family. Your promise is true, and You are the Wisest 
 {{< /r >}}
 
 {{< l a="Enki Agents" >}}
-<sup>48</sup> O Noah, disembark with peace from Us; and with blessings upon you, and upon communities from those with you. Other communities We will grant prosperity,
-and then a painful torment from Us will befall them.
+<sup>48</sup> O Noah, disembark with peace from Us with blessings upon you, and upon communities from those with you. Other communities We will grant prosperity, and then a painful torment from Us will befall them.
 {{< /l >}}
-

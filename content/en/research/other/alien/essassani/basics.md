@@ -84,6 +84,16 @@ This mirrors the quantum mechanics discovery that there is no observation withou
 
 The observation of reality creates reality. Observer needs the observed.
 
+
+### You Support Your Reality. Your Reality Reflects Your Support Back to You
+
+Your reality does not support you. 
+
+Instead, **you support your reality**.
+
+If you support your reality, your reality will **reflect** the support that you give it back to you.
+
+
 <!-- 3 Phases for receiving the "version" of reality you prefer
 
 You ALREADY have everything you desire!
@@ -176,8 +186,6 @@ Release & replace the unpreferred beliefs:
 This activates synchronicity which is the organizing principle of the entire universe. Synchronicity is the "networking" and coordination of all parts of the universe with each other - through the one Universal Mind.
 
 By activating this synchronicity, things in your life flow more naturally, pleasantly, and desirably for you automatically, in perfect timing.
-
-
 
 
 ## Most Powerful Mantra

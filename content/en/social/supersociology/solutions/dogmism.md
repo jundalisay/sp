@@ -7,7 +7,7 @@ description: "We propose dogmism to break the Cycle of Extremism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 
@@ -16,9 +16,11 @@ Islamic terrorism became known worldwide because of the 9/11 attacks which overs
 ![War](/photos/psych/war.jpg)
 
 
-This connection is easily brought back up to mind and conversation whenever a terrorist attack occurs, whether it was rooted in Islam or not. Whenever a terrorist attack occurs, the common expectation nowadays is for it to be caused by a disgruntled Muslim. 
+This connection is easily brought back up whenever a terrorist attack occurs, whether it was rooted in Islam or not. 
 
-Whenever it is proven to be caused by a Muslim, anti-Islam sentiments rise.  Muslims then take a defensive stance. 
+Whenever a terrorist attack occurs, the common expectation nowadays is for it to be caused by a disgruntled Muslim. 
+
+Whenever it **is** proven to be caused by a Muslim, anti-Islam sentiments rise. Muslims then take a defensive stance. 
 
 Proper Muslims expectedly denounce the attack and say that it was un-Islamic. But by then, the connection between Islam and terrorism would have really formed in the public’s mind. 
 
@@ -33,7 +35,7 @@ The cycle is thus created and strengthened. We can call this 'the cycle of extre
 
 ## The Cause: Connecting ideas to other ideas, which are just remotely connected
 
-Since it is obvious that terrorist attacks are un-Islamic and anti-society, referring to such terrorists as ‘Islamic’ terrorists is a misnomer. 
+Since it is obvious that terrorist attacks are un-Islamic and anti-society, referring to such terrorists as ‘Islamic’ terrorists would be a misnomer. 
 
 <!-- It ultimately would be a fallacy since even terrorist groups are mini-societies themselves. 
 
@@ -41,11 +43,16 @@ It would be like calling a bacteria that killed other bacteria as an 'anti-bacte
 
 Terrorist attacks are based on a blind belief propagated by the founders of those terrorist societies. 
 
-For example, Osama Bin Laden propounded a wrong and blind belief that terrorist attacks would drive Americans out of the Middle East. But in reality, it caused the Americans to flock into Iraq and Afghanistan as soldiers from 2003. It even caused his own death in 2011 through a US Navy Seal attack. 
+For example, Osama Bin Laden propounded a wrong belief that terrorist attacks would drive Americans out of the Middle East. 
 
-In the end, Bin Laden’s belief left everyone — himself, his friends and foes, Muslims and Americans alike — worse off.  Clearly, if Bin Laden knew his own interest and could either look deeply into the root causes of his anger or have foresight of its consequences, then his mind would’ve never created such a belief in the first place. 
+In reality, the 9/11 attacks caused the American soldiers to flock into Iraq and Afghanistan from 2003.
+- It even caused his own death in 2011 through a US Navy Seal attack. 
 
-If he could connect his idea of smashing airplanes onto tall buildings (`Idea 1`) with the idea of US revenge (`Idea 2`) that would hurt both himself and Islam in the end (`Idea 3`), then he would not have done what he did. 
+In the end, Bin Laden’s belief left everyone — himself, his friends and foes, Muslims and Americans alike — worse off.  
+
+Clearly, if he knew his own interest and could either look deeply into the root causes of his anger or have foresight of its consequences, then his mind would’ve never created such a belief in the first place. 
+
+If he could connect his idea of smashing airplanes onto tall buildings (`Idea 1`) with the idea of revenge against the US (`Idea 2`) that would hurt both himself and Islam in the end (`Idea 3`), then he would not have done what he did. 
 
 David Hume knew that most humans have a weak ability to connect effect with ultimate causes, and causes with their long-term effects.
 
@@ -58,16 +65,12 @@ Shallow thinkers tend to decry even those of solid understanding, abstruse think
 
 
 {{< q a="Mohammad" c="Quran, Surah Al-Baqarah">}}
-<sup>216</sup> Fighting is ordained for you, even though you dislike it.
-
-<sup>217</sup> Say, “Fighting during the Holy Month is deplorable. But to bar others from Allah’s path, and to disbelieve in Him, and to prevent access to the Holy Mosque, and to expel its people from it, are more deplorable to Allah.
-
-Persecution is more serious than killing. If they can, they will not cease to fight you until they turn you back from your religion.
+<sup>216</sup> Fighting is ordained for you, even though you dislike it. <sup>217</sup> Say, “Fighting during the Holy Month is deplorable. But to bar others from Allah’s path, and to disbelieve in Him, and to prevent access to the Holy Mosque, and to expel its people from it, are more deplorable to Allah. Persecution is more serious than killing. They will not stop fighting you until they turn you back from your religion.
 {{< /q >}}
 
 <!-- Jihad is ordained for you though you dislike it. They will turn you back from [Islam]. Whoever turns back from [Islam] will [go to hell] -->
 
-This is a self-defense measure to keep Islam intact amidst all the rival philosophies going around. The best solution is not to attack Islam and to let Muslims get the good and bad consequences of their beliefs. 
+This is a self-defense measure to keep Islam intact amidst all the rival philosophies going around. **The best solution is not to attack Islam and to let Muslims get the good and bad consequences of their beliefs.** 
 
 <!-- ![Chart of terrorist groups](https://socioecons.files.wordpress.com/2016/01/navanti_infographic_2014-2.jpg) -->
 
@@ -111,7 +114,17 @@ Once the whole world knows about the specific flavor of that dogma and its propo
 - Adverb: Dogmistically
 
 Examples:
-- Trump dogmists attacked the US Capitol in an effort to reverse the election results.
-- The dogmists of Imperial Japan resolved to attack Pearl Harbor in 1941. 
+- "Trump dogmists attacked the US Capitol in an effort to reverse the election results."
+- "The dogmists of Imperial Japan resolved to attack Pearl Harbor in 1941."
 <!-- - The etnic cleansing in Rwanda is clearly dogmistic.  -->
-- He dogmistically rejected the job application of the gay black man. 
+- "He dogmistically rejected the job application of the gay black man."
+
+
+## What makes an idea of belief dogmatic?
+
+The key attribute that makes an idea of belief dogmatic is the overstrength of the Negative Force. This is explained in the Superphysics principles.
+
+The easiest way to detect the Negativity of an idea or belief is simply the bad feeling of it. 
+
+But since feeling is subjective, the best way is to see the effect of an idea of belief in the long term and compare them with some control that has an opposite feeling. 
+

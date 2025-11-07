@@ -24,7 +24,7 @@ the night to overlap the day. In that are signs
 for people who reflect. -->
 
 
-{{< s v="4" >}}  On earth are adjacent terrains, and gardens of vines, and crops, and date-palms, from the
+{{< s v="4" >}} On earth are adjacent terrains, and gardens of vines, and crops, and date-palms, from the
 same root or from distinct roots, irrigated with the same water. 
 
 We make some taste better than others. In that are proofs for people who reason.{{< s v="5" >}}  Should you wonder—the real wonder is their saying: “When we have become dust, will we be in a new creation?” 
@@ -32,14 +32,20 @@ We make some taste better than others. In that are proofs for people who reason.
 Those are they who defied their Lord. Those are they who will have yokes around their necks. Those are
 the inhabitants of the Fire, where they will remain forever.
 
-6. And they urge you to hasten evil before good, though examples have passed away be-
-fore them. Your Lord is full of forgiveness towards the people for their wrongdoings, yet
-your Lord is severe in retribution. 
+<sup>6</sup> They urge you to hasten evil before good, though examples have passed away before them. 
 
-7. Those who disbelieve say, “Why was a miracle not sent down to him from his Lord?”
+Your Lord is full of forgiveness towards the people for their wrongdoings, yet your Lord is severe in retribution. 
+
+<sup>7</sup> Those who disbelieve say:
+
+{{< r a="Disbelievers" >}}
+Why was a miracle not sent down to him from his Lord?
+{{< /r >}}
+
+
 You are only a warner, and to every community is a guide.
 
-8. Enki knows what every female bears, and every increase and decrease of the wombs.
+<sup>8</sup> Enki knows what every female bears, and every increase and decrease of the wombs.
 With Him, everything is by measure.
 
 {{< s v="9" >}}  The Knower of the Invisible and the Visible; the Grand, the Supreme.{{< s v="10" >}}  It is the same; whether one of you conceals his speech, or declares it; whether he goes into hiding by night, or goes out by day.

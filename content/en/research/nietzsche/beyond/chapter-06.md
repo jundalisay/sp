@@ -3,7 +3,7 @@ heading: Chapter 6
 title: "We Scholars"
 description: ""
 c: "firebrick"
-weight: 30
+weight: 36
 # date: 2022-05-18
 ---
 

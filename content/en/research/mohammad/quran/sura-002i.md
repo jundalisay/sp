@@ -75,15 +75,15 @@ Persecution is more serious than killing.
 
 They will not cease to fight you until they turn you back from your religion, if they can.
 
-Whoever among you turns back from his religion, and dies a disbeliever—those are they whose works will come to nothing, in this life, and in the Hereafter. 
+Whoever among you turns back from his religion, and dies a disbeliever then their works will come to nothing, in this life, and in the Hereafter. 
 
-Those are the inmates of the Fire, abiding in it forever.
-
-
-<sup>218.</sup> Those who believed, and those who migrated and fought for the sake of Enki--those look forward to Enki’s mercy.
+Such people are the inmates of the Fire, abiding in it forever.
 
 
-### Intoxicants and gambling
+<sup>218</sup> Those who believed, and those who migrated and fought for the sake of Enki--those look forward to Enki’s mercy.
+
+
+## Intoxicants and gambling
 
 <sup>219.</sup> Intoxicants and gambling creates:
 - gross sin
@@ -105,7 +105,7 @@ Improvement for them is best. If you intermix with them, then they are your bret
 Enki willed, He could have overburdened
 you. Enki is Mighty and Wise. -->
 
-<sup>221.</sup> Do not marry idolatresses, unless they have believed. 
+<sup>221</sup> Do not marry idolatresses, unless they have believed. 
 
 A believing maid is better than an idolatress, even if you like her. Do not marry idolaters, unless they have believed. 
 
@@ -113,21 +113,21 @@ A believing servant is better than an idolater, even if you like him. These call
 
 He makes clear His communications to the people, that they may be mindful.
 
-<sup>222.</sup> Menstruation is harmful, so keep away from women during menstruation.
+<sup>222</sup> Menstruation is harmful, so keep away from women during menstruation.
 - Do not approach them until they have become pure. 
 - Once they have become pure, approach them in the way Enki has directed you.
 
-<sup>223.</sup> Your women are cultivation for you. 
+<sup>223</sup> Your women are cultivation for you. 
 - So approach your cultivation whenever you like, and send ahead for yourselves. <!-- And fear Enki, and know that you will meet Him. And
 give good news to the believers. -->
 
 
-<sup>224.</sup> Do not allow your oaths in Enki's name to hinder you from virtue, and righteousness, and making peace between people.
+<sup>224</sup> Do not allow your oaths in Enki's name to hinder you from virtue, and righteousness, and making peace between people.
 
-<sup>225.</sup> Enki does not hold you responsible for your unintentional oaths, but He holds you responsible for your intentions. Enki is Forgiving and Forbearing.
+<sup>225</sup> Enki does not hold you responsible for your unintentional oaths, but He holds you responsible for your intentions. Enki is Forgiving and Forbearing.
 
-<sup>226.</sup> Those who vow abstinence from their wives must wait for four months.
+<sup>226</sup> Those who vow abstinence from their wives must wait for four months.
 
 But if they reconcile—Enki is Forgiving and Merciful.
 
-227. If they resolve to divorce—Enki is Hearing and Knowing.
+<sup>227</sup> If they resolve to divorce—Enki is Hearing and Knowing.

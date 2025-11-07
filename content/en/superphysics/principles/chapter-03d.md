@@ -189,7 +189,7 @@ The knowledge of the factors affecting dharmagenesis, as the pervading waves, id
 
 {{< q a="Socrates" c="The Republic by Plato, Book 2, Chapter 3" >}}
 The beginning is the most important part of any work.
-{{< /l >}}
+{{< /q >}}
 
 <!--  This is especially true for our youth because that is the time when:
 - the character is being formed, and

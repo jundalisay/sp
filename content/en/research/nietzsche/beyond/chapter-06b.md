@@ -3,7 +3,7 @@ heading: Chapter 6b
 title: "Fredericianism"
 description: ""
 c: "firebrick"
-weight: 30
+weight: 38
 # date: 2022-05-18
 ---
 
@@ -59,9 +59,16 @@ They will smile, those rigorous spirits, when any one says in their presence "Th
 
 Perhaps they will not only have a smile, but a genuine disgust for all that is thus rapturous, idealistic, feminine, and hermaphroditic, and if any one could look into their inmost hearts, he would not easily find therein the intention to reconcile 
 
-"Christian sentiments" with "antique taste," or even with "modern parliamentarism" (the kind of reconciliation necessarily found even among philosophers in our very uncertain and consequently very conciliatory century). Critical discipline, and every habit that conduces to purity and rigour in intellectual matters, will not only be demanded from themselves by these philosophers of the future, they may even make a display thereof as their special adornment—nevertheless they will not want to be called critics on that account. 
+"Christian sentiments" with "antique taste," or even with "modern parliamentarism" (the kind of reconciliation necessarily found even among philosophers in our very uncertain and consequently very conciliatory century). 
 
-It will seem to them no small indignity to philosophy to have it decreed, as is so welcome nowadays, that "philosophy itself is criticism and critical science—and nothing else whatever!" Though this estimate of philosophy may enjoy the approval of all the Positivists of France and Germany (and possibly it even flattered the heart and taste of KANT: let us call to mind the titles of his principal works), our new philosophers will say, notwithstanding, that critics are instruments of the philosopher, and just on that account, as instruments, they are far from being philosophers themselves! Even the great Chinaman of Konigsberg was only a great critic.
+Critical discipline, and every habit that conduces to purity and rigour in intellectual matters, will not only be demanded from themselves by these philosophers of the future, they may even make a display thereof as their special adornment—nevertheless they will not want to be called critics on that account. 
+
+
+It will seem to them no small indignity to philosophy to have it decreed, as is so welcome nowadays, that "philosophy itself is criticism and critical science—and nothing else whatever!" 
+
+This might be approved by the Positivists of France and Germany and Kant.
+
+But our new philosophers will say that critics are instruments of the philosopher, and just on that account, as instruments, they are far from being philosophers themselves! Even the great Chinaman of Konigsberg was only a great critic.
 
 
 <sup>211</sup> People should stop confounding philosophical workers and scientific men with philosophers.
@@ -135,7 +142,7 @@ They conceive of every necessity as troublesome, as a painful compulsory obedien
 
 Artists have here perhaps a finer intuition; they who know only too well that precisely when they no longer do anything "arbitrarily," and everything of necessity, their feeling of freedom, of subtlety, of power, of creatively fixing, disposing, and shaping, reaches its climax—in short, that necessity and "freedom of will" are then the same thing with them. 
 
-There is, in fine, a gradation of rank in psychical states, to which the gradation of rank in the problems corresponds; and the highest problems repel ruthlessly every one who ventures too near them, without being predestined for their solution by the loftiness and power of his spirituality. 
+There is a gradation of rank in psychical states, to which the gradation of rank in the problems corresponds; and the highest problems repel ruthlessly every one who ventures too near them, without being predestined for their solution by the loftiness and power of his spirituality. 
 
 Of what use is it for nimble, everyday intellects, or clumsy, honest mechanics and empiricists to press, in their plebeian ambition, close to such problems, and as it were into this "holy of holies"—as so often happens nowadays! But coarse feet must never tread upon such carpets: this is provided for in the primary law of things; the doors remain closed to those intruders, though they may dash and break their heads thereon.
 

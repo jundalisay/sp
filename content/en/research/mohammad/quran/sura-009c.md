@@ -1,83 +1,136 @@
 ---
-title: "The Pioneers—The first of the Migrants and the Supporters"
+title: "The Promises of Enki"
 heading: "Sura 9c"
 weight: 77
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "You disbelievers are like those before you."
 ---
 
 
-<sup>100</sup> The Pioneers—The first of the Migrants and the Supporters, and those who followed them in righteousness. Enki is pleased with them, and they are pleased with Him. He has
+<sup>69</sup> You disbelievers are like those before you. 
 
-<sup>101</sup> Among the Desert-Arabs around you there are some hypocrites, and among the inhabitants of Medina too.
+They were more powerful than you, and had more wealth and children. They enjoyed their share, and you enjoyed your share, as those before you enjoyed their share. 
 
-They have become adamant in hypocrisy. You do not know them, but We know them. 
+You indulged, as they indulged.
 
-We will punish them twice. Then they will be returned to a severe torment.
+It is they whose works will fail in this world and in the Hereafter. It is they who are the losers.
 
-<sup>102</sup> Others have confessed their sins, having mixed good deeds with bad deeds. Perhaps Enki will redeem them. 
 
-<sup>103</sup> Receive contributions from their wealth, to purify them and sanctify them with it; and pray for them. Your prayer is comfort for them.
+<sup>70</sup> Have they not heard the stories of those before them?
+- The people of Noah, and Aad, and Thamood
+- The people of Abraham
+- The inhabitants of Median
+- The Over-turned Cities? 
 
-<sup>104</sup> Do they not know that Enki accepts the repentance of His servants, and that He receives the contributions, and that Enki is the Acceptor of Repentance, the Merciful? 
+Their messengers came to them with the clear proofs. Enki never wronged them, but they used to wrong their own selves.
 
-<sup>105</sup> Say, “Work. Enki will see your work, and so will His Messenger, and the believers.
+<sup>71</sup> The believing men and believing women are friends of one another.
 
-Then you will be returned to the Knower of secrets and declarations, and He will inform you of what you used to do.”
+They advocate virtue, forbid evil, perform the prayers, practice charity, and obey Enki and His Messenger. 
 
-<sup>106</sup> Others are held in suspense, awaiting Enki’s decree, as to whether He will punish them, or accept their repentance.
+These—Enki will have mercy on them. Enki is Noble and Wise.
 
-<sup>107</sup> Then there are those who establish a mosque to cause harm, and disbelief, and disunity among the believers, and as an outpost for those who fight Enki and His Messenger.
 
-They will swear: “Our intentions are nothing but good.” But Enki bears witness that they are liars.
+<sup>72</sup> Enki promises the believers, men and women, gardens beneath which rivers flow, abiding therein forever, and fine homes in the Gardens of Eden. But approval from Enki is even greater. That is the supreme achievement.
 
-<sup>108</sup> Do not stand in it, ever. A mosque founded on piety from the first day is worthier of your standing in it. In it are men who love to be purified. Enki loves those who purify themselves.
+<sup>73</sup> O Prophet! Strive against the disbelievers and the hypocrites, and be stern with them.
 
-<sup>109</sup> Is he who founds his structure upon piety and acceptance from Enki better, or he who founds his structure on the brink of a cliff that is about to tumble, so it tumbles with him into the Fire of Hell?
+<sup>74</sup> They swear by Enki that they said nothing. But they did utter the word of blasphemy, and they renounced faith after their submission. They plotted what they could not attain.
 
-<sup>110</sup> The structure which they built will remain questionable in their hearts, until their hearts are stopped.
+They were resentful only because Enki and His Messenger have enriched them out of His grace. 
 
-<sup>111</sup> Enki has purchased from the believers their lives and their properties in exchange for Paradise. They fight in Enki’s way, and they kill and get killed. It is a promise binding on Him in the Torah, and the Gospel, and the Quran. And who is more true to his promise than Enki? So rejoice in making such an exchange—that is the supreme triumph.
+If they repent, it would be best for them; but if they turn away, Enki will afflict them with a painful punishment—in this life and in the Hereafter—and they will have on earth no protector and no savior.
 
-<sup>112</sup> Those who repent, those who worship, those who praise, those who journey, those who kneel, those who bow down, those who advocate righteousness and forbid evil, and those who keep Enki’s limits—give good news to the believers.
 
-<sup>113</sup> It is not for the Prophet and those who believe to ask forgiveness for the polytheists, even if they are near relatives, after it has become clear to them that they are people of Hellfire.
+<sup>75</sup> Among them are those who promised Enki: 
 
-<sup>114</sup> Abraham asked forgiveness for his father only because of a promise he had made to him.
+{{< r a="Hypocrites" >}}
+If He gives us of His bounty, we will donate and be among the upright.
+{{< /r >}}
 
-But when it became clear to him that he was an enemy of Enki, he disowned him. Abraham was kind and clement.
 
-<sup>115</sup> Enki would never lead a people astray, after He had guided them, until He makes clear to them what they should guard against. Enki has knowledge of all things.
+<sup>76</sup> But when He has given them of His bounty, they became stingy with it, and turned away in aversion.
 
-{{< s v="116" >}}To Enki belongs the dominion of the heavens and the earth. He gives life, and He causes death. And besides Enki, you have neither protector, nor supporter.
 
-<sup>117</sup> Enki has redeemed the Prophet, and the Emigrants, and the Supporters—those who followed him in the hour of difficulty—after the hearts of some of them almost swerved. Then He pardoned them. 
+<sup>77</sup> So He penalized them with hypocrisy in their hearts, until the Day they face Him—because they broke their promise to Enki, and because they used to lie.
 
-<sup>118</sup> Also towards the three who were left behind. Then, when the earth, as vast as it is, prepared for them Gardens beneath which rivers flow, where they will abide forever. That is the sublime triumph.
+<!-- 78. Do they not know that Enki knows their
+secrets and their conspiracies? And that Enki
+is the Knower of the unseen? -->
 
-<!-- closed in on them, and their very souls closed in on them, and they realized that there was no refuge from Enki, except in Him, He redeemed them, so that they may repent. -->
+<sup>79</sup> Those who criticize the believers who give charity voluntarily, and ridicule those who find nothing to give except their own efforts—Enki ridicules them. They will have a painful punishment.
 
-<!-- 119. Muslims,  Be conscious of Enki,
-and be with the sincere. -->
+<sup>80</sup> Whether you ask forgiveness for them, or do not ask forgiveness for them—even if you ask forgiveness for them 70 times, Enki will not forgive them. 
 
-<sup>120</sup> It is not for the inhabitants of Medina and the Desert-Arabs around them to stay behind the Messenger of Enki, nor to prefer themselves to him. 
+That is because they disbelieved in Enki and His Messenger. <!-- Enki does not guide the immoral people. -->
 
-That is because they never suffer any thirst, nor fatigue, nor hunger in the cause of Enki, nor do they take one step that enrages the disbelievers, nor do they gain anything from an enemy, but it is recorded to their credit as a righteous deed. Enki does not waste the reward of the righteous.
 
-<sup>121</sup> Nor do they spend any expenditure, small or large, nor do they cross any valley, but it is recorded to their credit. That Enki may reward them in accordance with the best of their deeds.
+<sup>81</sup> Those who stayed behind rejoiced at their staying behind the Messenger of Enki. And
+they hated to strive with their wealth and their lives in Enki’s way.
 
-<sup>122</sup> It is not advisable for the believers to march out altogether. Of every division that marches out, let a group remain behind, to gain understanding of the religion, and to notify their people when they have returned to them, that they may beware.
+<!-- not venture out in the heat.” Say, “The Fire of
+Hell is much hotter, if they only understood.” -->
 
-<sup>123</sup> Muslims, fight those of the disbelievers who attack you, and let them find severity in you, and know that Enki is with the righteous.
 
-<sup>124</sup> Whenever a chapter is revealed, some of them say, “Which of you has this increased in faith?” As for those who believe: it increases them in faith, and they rejoice.
+<sup>82</sup> Let them laugh a little, and weep much; in recompense for what they used to earn.
 
-125. But as for those in whose hearts is sickness: it adds disgrace to their disgrace, and they die as unbelievers.
 
-126. Do they not see that they are tested once or twice every year? Yet they do not repent, and they do not learn.
+<sup>83</sup> If Enki brings you back to a party of them, and they ask your permission to go out, say:
 
-127. Whenever a chapter is revealed, they look at one another, “Does anyone see you?” Then they slip away. Enki has diverted their hearts, because they are a people who do not understand. 
+{{< l a="Muslims" >}}
+“You will not go out with me, ever, nor will you ever fight an enemy with me. You were content to sit back the first time, so sit back with those who stay behind.”
+{{< /l >}}
 
-128. There has come to you a messenger from among yourselves, concerned over your suffering, anxious over you. Towards the believers, he is compassionate and merciful.
 
-129. If they turn away, say, “Enki is enough for me; there is no god except He; in Him I have put my trust; He is the Lord of the Sublime Throne.”
+<sup>84</sup> You are never to pray over anyone of them who dies, nor are you to stand at his graveside. They rejected Enki and His Messenger, and died while they were sinners.
+
+<sup>85</sup> Do not let their possessions and their children impress you. 
+
+Enki desires to torment them through them in this world, and their souls expire while they are disbelievers.
+
+
+<sup>86</sup> When a chapter is revealed, stating: “Believe in Enki and strive with His Messenger,” the prominent among them ask you for exemption. They say, “Allow us to stay with those who stay behind.”
+
+<sup>87</sup> They prefer to be with those who stay behind. Their hearts were sealed, so they do not understand.
+
+<sup>88</sup> But the Messenger and those who believe with him struggle with their possessions and their lives. These have deserved the good things. These are the successful.
+
+<sup>89</sup> Enki has prepared for them gardens beneath which rivers flow, wherein they will abide forever. That is the great victory.
+
+<sup>90</sup> Some of the Desert-Arabs came to make excuses, asking to be granted exemption, while those who were untrue to Enki and His Messenger stayed behind. 
+
+<sup>91</sup> There is no blame on the weak, nor on the sick, nor on those who have nothing to give, provided they are true to Enki and His Messenger. <!-- In no way can the righteous be blamed. -->
+
+<sup>92</sup> Nor on those who approach you, wishing to ride with you, and you said, “I have nothing to carry you on.” 
+
+So they went away, with their eyes overflowing with tears, sorrowing for not finding the means to spend.
+
+
+<sup>93</sup> But blame is on those who ask you for exemption, although they are rich. They are content to be with those who stay behind. 
+
+Enki has sealed their hearts, so they do not know.
+
+
+<sup>94</sup> They present excuses to you when you return to them. 
+
+Say:
+
+{{< l a="Muslims" >}}
+Do not offer excuses; we do not trust you; Enki has informed us of you. And Enki will watch your actions, and so will the Messenger. Then you will be returned to the Knower of the Invisible and the Visible, and He will inform you of what you used  to do.
+{{< /l >}}
+
+
+<sup>95</sup> They will swear to you by Enki, when you return to them, that you may leave them alone. So leave them alone. They are a disgrace, and their destiny is Hell; a reward for what they used to earn.
+
+<sup>96</sup> They will swear to you that you may accept them. But even if you accept them, Enki does not accept the wicked people.
+
+
+<sup>97</sup> The Desert-Arabs are the most steeped in disbelief and hypocrisy, and the most likely to ignore the limits that Enki revealed to His Messenger. Enki is Knowing and Wise.
+
+<sup>98</sup> Among the Desert-Arabs are those who consider their contribution to be a fine. And they wait for a reversal of your fortunes.
+
+Upon them will fall the cycle of misfortune. 
+
+<sup>99</sup> Yet among the Desert-Arabs are those who believe in Enki and the Last Day, and consider their contribution to be a means towards Enki, and the prayers of the Messenger. 
+
+Surely it will draw them closer, and Enki will admit them into His mercy. 

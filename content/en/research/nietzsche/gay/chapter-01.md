@@ -70,8 +70,7 @@ it is drive, instinct, stupidity, lack of reasons. Life ought to be loved,
 because -! Man ought to advance himself and his neighbour, because -!
 What names all these Oughts and Becauses have been given and may yet
 be given in the future! The ethical teacher makes his appearance as the
-teacher of the purpose of existence in order that what happens necessarily and always, by itself and without a purpose, shall henceforth seem
-to be done for a purpose and strike man as reason and an ultimate
+teacher of the purpose of existence in order that what happens necessarily and always, by itself and without a purpose, shall henceforth seem to be done for a purpose and strike man as reason and an ultimate
 commandment; to this end he invents a second, different existence and
 takes by means of his new mechanics the old, ordinary existence off its
 old, ordinary hinges. To be sure, in no way does he want us to laugh at
@@ -80,8 +79,7 @@ individual, something first and last and tremendous; for him there are
 no species, sums, or zeroes. Foolish and fanciful as his inventions and
 valuations may be, badly as he may misjudge the course of nature and
 deny its conditions - and all ethical systems hitherto have been so
-foolish and contrary to nature that humanity would have perished from every one had it gained power over humanity- all the same! Every time
-'the hero' appeared on stage, something new was attained: the gruesome
+foolish and contrary to nature that humanity would have perished from every one had it gained power over humanity- all the same! Every time 'the hero' appeared on stage, something new was attained: the gruesome
 counterpart of laughter, that profound shock that many individuals feel
 at the thought: 'Yes, living is worth it! Yes, I am worthy of living!' Life
 and I and you and all of us became interesting to ourselves once again for
@@ -106,3 +104,4 @@ the means and necessities of the preservation of the species.' And
 therefore! Therefore! Therefore! Oh, do you understand me, my
 brothers? Do you understand this new law of ebb and flood? We, too,
 have our time! 
+

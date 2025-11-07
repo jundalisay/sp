@@ -12,7 +12,9 @@ description: "We sent Noah to his people"
 <sup>50</sup> To Aad, their brother Hud said:
 
 {{< l a="Hud" >}}
-“O my people, worship Enki. You have no other god besides Him. You do nothing but invent lies. <sup>51</sup> I ask you no wage for it. My wage lies with Him who originated me. <sup>52</sup> Ask forgiveness from your Lord. He will release the sky pouring down upon you, and will add strength to your strength. Do not turn away and be wicked.”
+O my people, worship Enki. You have no other god besides Him. You do nothing but invent lies. <sup>51</sup> I ask you no wage for it. My wage lies with Him who originated me. 
+
+<sup>52</sup> Ask forgiveness from your Lord. He will release the sky pouring down upon you, and will add strength to your strength. Do not turn away and be wicked.”
 {{< /l >}}
 
 
@@ -22,15 +24,22 @@ description: "We sent Noah to his people"
 
 
 {{< l a="Hud" >}}
-I call Enki to witness, and you to witness, that I am innocent of what you associate. 55. Besides Him. So scheme against me, all of you, and do not hesitate. 56. I have placed my trust in Enki, my Lord and your Lord. There is not a creature but He holds it by the forelock. My Lord is on a straight path. 57. If you turn away, I have conveyed to you what I was sent to you with; and my Lord will replace you with another people, and you will not cause Him any harm. My Lord is Guardian over all things.
+I call Enki to witness, and you to witness, that I am innocent of what you associate.
+
+<sup>55</sup> Besides Him. So scheme against me, all of you, and do not hesitate. <sup>56</sup> I have placed my trust in Enki, my Lord and your Lord. 
+
+There is not a creature but He holds it by the forelock. My Lord is on a straight path. 
+
+<sup>57</sup> If you turn away, I have conveyed to you what I was sent to you with. My Lord will replace you with another people, and you will not cause Him any harm. 
+<!-- My Lord is Guardian over all things. -->
 {{< /l >}}
 
 
-<sup>58.</sup> When Our decree came, We saved Hud and those who believed with him. We delivered them from a harsh punishment.
+<sup>58</sup> When Our decree came, We saved Hud and those who believed with him. We delivered them from a harsh punishment.
 
-<sup>59.</sup> That was Aad. They denied the signs of their Lord, and defied His messengers, and followed the lead of every stubborn tyrant.
+<sup>59</sup> That was Aad. They denied the signs of their Lord, and defied His messengers, and followed the lead of every stubborn tyrant.
 
-<sup>60.</sup> They were pursued by a curse in this world, and on the Day of Resurrection. Aad blasphemed against their Lord—so away with Aad, the people of Hud.
+<sup>60</sup> They were pursued by a curse in this world, and on the Day of Resurrection. Aad blasphemed against their Lord—so away with Aad, the people of Hud.
 
 
 <sup>61</sup> To Thamood, their brother Saleh said: 
@@ -45,7 +54,9 @@ O my people, worship Enki. You have no god other than Him. He initiated you from
 
 
 {{< l a="Saleh" >}}
-<sup>63</sup> O my people, If I stand on clear evidence from my Lord, and He has given me mercy from Him, who would protect me from Enki, if I disobeyed Him? You add nothing for me except loss. 64. O my people, this is the she-camel of Enki, a sign for you. Let her graze on Enki’s land, and do not harm her, lest an imminent punishment overtakes you.
+<sup>63</sup> O my people, If I stand on clear evidence from my Lord, and He has given me mercy from Him, who would protect me from Enki, if I disobeyed Him? You add nothing for me except loss.
+
+<sup>64</sup> O my people, this is the she-camel of Enki, a sign for you. Let her graze on Enki’s land, and do not harm her, lest an imminent punishment overtakes you.
 {{< /l >}}
 
 
@@ -74,10 +85,14 @@ Do not fear, we were sent to the people of Lot.
 
 <sup>71</sup> His wife was standing by, so she laughed. 
 
-We gave her good news of Isaac; and after Isaac, Jacob.
+We gave her good news of Isaac, and after Isaac, Jacob.
 
+<sup>72</sup> She said:
 
-<sup>72</sup> She said, “Alas for me. Shall I give birth, when I am an old woman, and this, my husband, is an old man? This is truly a strange thing.”
+{{< r a="Wife" >}}
+Alas for me. Shall I give birth, when I am an old woman, and this, my husband, is an old man? This is truly a strange thing.
+{{< /r >}}
+
 
 {{< r a="People" >}}
 <sup>73</sup> Do you marvel at the decree of Enki? The mercy and blessings of Enki are upon you, O people of the house. He is Praiseworthy and Glorious.
@@ -117,11 +132,12 @@ O my people, these are my daughters. They are purer for you. So do not embarrass
 
 
 {{< r a="People" >}}
-<sup>81</sup> O Lot, we are the envoys of your Lord; they will not reach you. So set out with your family during the cover of the night, and let none of you look back, except for your wife. She will be struck by what will strike them. Their appointed time is the morning. Is not the morning near?
+<sup>81</sup> O Lot, we are the envoys of your Lord; they will not reach you. So set out with your family during the cover of the night, and let none of you look back, except for your wife.
+
+She will be struck by what will strike them. Their appointed time is the morning. Is not the morning near?
 {{< /r >}}
 
 
 <sup>82</sup> When Our command came about, We turned it upside down, and We rained down on it stones of baked clay.
 
 <sup>83</sup> Marked from your Lord, and never far from the wrongdoers.
-
