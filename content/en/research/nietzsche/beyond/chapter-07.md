@@ -8,7 +8,7 @@ weight: 4
 ---
 
 
-214. OUR Virtues?
+<sup>214</sup> OUR Virtues?
 
 It is probable that we, too, have still our virtues, although naturally they are not those sincere and massive virtues on account of which we hold our grandfathers in esteem and also at a little distance from us.
 
@@ -27,7 +27,7 @@ It seems, therefore, that however little we may imagine ourselves to be old-fash
 
 
 
-215. In the firmament there are sometimes 2 suns which determine the path of one planet.
+<sup>215</sup> In the firmament there are sometimes 2 suns which determine the path of one planet.
 
 In certain cases, suns of different colours shine around a single planet, now with red light, now with green, and then simultaneously flood it with motley colours.
 
@@ -35,31 +35,36 @@ Likewise, we modern men, owing to the complicated mechanism of our "firmament," 
 
 Our actions shine alternately in different colours, and are seldom unequivocal—and there are often cases, also, in which our actions are MOTLEY-COLOURED.
 
-216. To love one's enemies? 
+
+<sup>216</sup> To love one's enemies? 
 
 I think that has been well learnt: it takes place thousands of times at present on a large and small scale; indeed, at times the higher and sublimer thing takes place:—we learn to DESPISE when we love, and precisely when we love best; all of it, however, unconsciously, without noise, without ostentation, with the shame and secrecy of goodness, which forbids the utterance of the pompous word and the formula of virtue. 
 
 Morality as attitude—is opposed to our taste nowadays. This is ALSO an advance, as it was an advance in our fathers that religion as an attitude finally became opposed to their taste, including the enmity and Voltairean bitterness against religion (and all that formerly belonged to freethinker-pantomime). It is the music in our conscience, the dance in our spirit, to which Puritan litanies, moral sermons, and goody-goodness won't chime.
 
 
-217. Let us be careful in dealing with those who attach great importance to being credited with moral tact and subtlety in moral discernment! 
+
+<sup>217</sup> Let us be careful in dealing with those who attach great importance to being credited with moral tact and subtlety in moral discernment! 
 
 They never forgive us if they have once made a mistake BEFORE us (or even with REGARD to us)—they inevitably become our instinctive calumniators and detractors, even when they still remain our "friends."—Blessed are the forgetful: for they "get the better" even of their blunders.
 
-218. The psychologists of France—and where else are there still psychologists nowadays?—have never yet exhausted their bitter and manifold enjoyment of the betise bourgeoise, just as though... in short, they betray something thereby. 
+
+<sup>218</sup> The psychologists of France—and where else are there still psychologists nowadays?—have never yet exhausted their bitter and manifold enjoyment of the betise bourgeoise, just as though... in short, they betray something thereby. 
 
 Flaubert, for instance, the honest citizen of Rouen, neither saw, heard, nor tasted anything else in the end; it was his mode of self-torment and refined cruelty. As this is growing wearisome, I would now recommend for a change something else for a pleasure—namely, the unconscious astuteness with which good, fat, honest mediocrity always behaves towards loftier spirits and the tasks they have to perform, the subtle, barbed, Jesuitical astuteness, which is a thousand times subtler than the taste and understanding of the middle-class in its best moments—subtler even than the understanding of its victims:—a repeated proof that "instinct" is the most intelligent of all kinds of intelligence which have hitherto been discovered.
 
 In short, you psychologists, study the philosophy of the "rule" in its struggle with the "exception": there you have a spectacle fit for Gods and godlike malignity! Or, in plainer words, practise vivisection on "good people," on the "homo bonae voluntatis," ON YOURSELVES!
 
 
-219. The practice of judging and condemning morally, is the favourite revenge of the intellectually shallow on those who are less so, it is also a kind of indemnity for their being badly endowed by nature, and finally, it is an opportunity for acquiring spirit and BECOMING subtle—malice spiritualises. 
+
+<sup>219</sup> The practice of judging and condemning morally, is the favourite revenge of the intellectually shallow on those who are less so, it is also a kind of indemnity for their being badly endowed by nature, and finally, it is an opportunity for acquiring spirit and BECOMING subtle—malice spiritualises. 
 
 They are glad in their inmost heart that there is a standard according to which those who are over-endowed with intellectual goods and privileges, are equal to them, they contend for the "equality of all before God," and almost NEED the belief in God for this purpose.
 
 It is among them that the most powerful antagonists of atheism are found. If any one were to say to them "A lofty spirituality is beyond all comparison with the honesty and respectability of a merely moral man"—it would make them furious, I shall take care not to say so. I would rather flatter them with my theory that lofty spirituality itself exists only as the ultimate product of moral qualities, that it is a synthesis of all qualities attributed to the "merely moral" man, after they have been acquired singly through long training and practice, perhaps during a whole series of generations, that lofty spirituality is precisely the spiritualising of justice, and the beneficent severity which knows that it is authorized to maintain GRADATIONS OF RANK in the world, even among things—and not only among men.
 
-220. Now that the praise of the "disinterested person" is so popular one must—probably not without some danger—get an idea of WHAT people actually take an interest in, and what are the things generally which fundamentally and profoundly concern ordinary men—including the cultured, even the learned, and perhaps philosophers also, if appearances do not deceive. 
+
+<sup>220</sup> Now that the praise of the "disinterested person" is so popular one must—probably not without some danger—get an idea of WHAT people actually take an interest in, and what are the things generally which fundamentally and profoundly concern ordinary men—including the cultured, even the learned, and perhaps philosophers also, if appearances do not deceive. 
 
 The fact thereby becomes obvious that the greater part of what interests and charms higher natures, and more refined and fastidious tastes, seems absolutely "uninteresting" to the average man—if, notwithstanding, he perceive devotion to these interests, he calls it desinteresse, and wonders how it is possible to act "disinterestedly." There have been philosophers who could give this popular astonishment a seductive and mystical, other-worldly expression (perhaps because they did not know the higher nature by experience?), instead of stating the naked and candidly reasonable truth that "disinterested" action is very interesting and "interested" action, provided that... "And love?"—What! Even an action for love's sake shall be "unegoistic"? But you fools—! "And the praise of the self-sacrificer?"—But whoever has really offered sacrifice knows that he wanted and obtained something for it—perhaps something from himself for something from himself; that he relinquished here in order to have more there, perhaps in general to be more, or even feel himself "more."
 
@@ -68,7 +73,7 @@ But this is a realm of questions and answers in which a more fastidious spirit d
 And after all, truth is a woman; one must not use force with her.
 
 
-221. "It sometimes happens," said a moralistic pedant and trifle-retailer, "that I honour and respect an unselfish man: not, however, because he is unselfish, but because I think he has a right to be useful to another man at his own expense. 
+<sup>221</sup> "It sometimes happens," said a moralistic pedant and trifle-retailer, "that I honour and respect an unselfish man: not, however, because he is unselfish, but because I think he has a right to be useful to another man at his own expense. 
 
 In short, the question is always who HE is, and who THE OTHER is. For instance, in a person created and destined for command, self-denial and modest retirement, instead of being virtues, would be the waste of virtues: so it seems to me.
 

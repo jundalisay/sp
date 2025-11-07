@@ -26,7 +26,9 @@ We shall do this by story-telling*. Our story shall be the education of our hero
 
 
 {{< l a="Socrates" >}}
-The young should be trained first with the false literature. We will tell children fictitious stories which are not totally false. This is done before they are of the age to learn gymnastics. That was my meaning when I said that we must teach music before gymnastics. 
+The young should be trained first with the false literature. We will tell children fictitious stories which are not totally false. 
+
+This is done before they are of the age to learn gymnastics. That was my meaning when I said that we must teach music before gymnastics. 
 
 **The beginning is the most important part of any work**. This is especially true for our youth because that is the time when:
 - the character is being formed, and
@@ -65,16 +67,11 @@ The fault is committed whenever an erroneous representation is made of the natur
 The greatest lie in high places was the one which Hesiod told about Uranus and how Cronus retaliated on him.
 
 The doings of Cronus, and the sufferings which in turn his son inflicted on him, should not be lightly told to young and thoughtless persons. They should be be buried in silence.
-{{< /l >}}
 
-{{< l a="Socrates" >}}
 But if it is absolute necessary to mention them, a chosen few might hear them in a mystery. They should sacrifice not a common (Eleusinian) pig, but some huge and unprocurable victim. 
 
 Then the number of the hearers will be very few. The young man should not be told that the worst of crimes are not outrageous.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 Those stories should not be repeated. Our future guardians should not be told about:
 - the wars in heaven, and
 - the plots and fightings among the gods.
@@ -121,10 +118,7 @@ Very true, but what are these forms of theology that you mean?
 The kind wherein God is represented as He truly is. He is not truly good and must not be represented as such. No good thing is hurtful.
 - A thing that is not hurt can do no evil.
 - A thing that does no evil cannot be a cause of evil.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 The good is advantageous and the cause of well-being. It follows that the good is the cause of the good only, and not the cause of all things. Then God, if He be good, is not the author of all things, as the many assert. Instead, He is the cause of a few things only.
 - The goods of human life are few and the evils are many.
 - The good is to be attributed to God alone.
@@ -132,9 +126,6 @@ The good is advantageous and the cause of well-being. It follows that the good i
 
 Then we must not listen to Homer or to any other poet who is guilty of saying that:
 {{< /l >}}
-
-
-
 
 
 {{< q a="Homer" >}}
@@ -166,14 +157,12 @@ If they are of God, the poet must devise some explanation. He must say that:
 - God did what was just and right.
 - They were the better for being punished.
 - Those who are punished are miserable.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 But he must not say that God is the author of their misery. He can say that the wicked are miserable because they require to be punished, and are benefited by receiving punishment from God.
 
 We should strenuously deny that God is the author of evil to anyone. Such a fiction is suicidal, ruinous, impious.
 {{< /l >}}
+
 
 {{< r a="Adeimantus" >}}
 I agree with you, and am ready to give my assent to the law.
@@ -185,18 +174,12 @@ Let this be one of our rules and principles on the gods= that God is not the aut
 We expect our poets and reciters to conform to this rule.
 
 What do you think of a second principle? Is God a magician? Does He appear insidiously in one shape now and in another shape later? Does He sometimes change into many forms, sometimes deceiving us? Or is God one and the same immutably fixed in his own proper image?
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 A change in anything must be effected either by the thing itself, or by some other thing. Things which are at their best are also the least liable to be altered or discomposed. For example:
 - When healthiest and strongest, the human frame is least liable to be affected by meats and drinks.
 - The plant which is in the fullest vigour also suffers least from winds or the sun's heat.
 - Likewise, the bravest and wisest soul will not be confused or deranged by any external influence.
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 The same principle applies to all composite things—furniture, houses, garments, etc. When good and well made, they are least altered by time and circumstances. Then everything which is good, whether made by art or nature, or both, is least liable to suffer change from the outside.
 
 But surely God and the things of God are in every way perfect. Then He can hardly be compelled by external influence to take many shapes. He cannot change and transform himself.
@@ -213,13 +196,22 @@ Very true, but then no one, whether god or man, wants to make himself worse.
 {{< l a="Socrates" >}}
 Then it is impossible that God should ever be willing to change. Being the fairest and best that is conceivable, every god remains absolutely and forever in his own form.
 
-Then, let none of the poets tell us that= "The gods, taking the disguise of strangers from other lands, walk up and down cities in all sorts of forms."
+Then, let none of the poets tell us that:
+{{< /l >}}
 
+
+{{< r a="Poets" >}}
+The gods, taking the disguise of strangers from other lands, walk up and down cities in all sorts of forms.
+{{< /r >}}
+
+
+{{< l a="Socrates" >}}
 Let no one slander Proteus and Thetis. Let no one either in tragedy or in any other kind of poetry, introduce Hera disguised in the likeness of a priestess asking an alms "for the life-giving daughters of Inachus the river of Argos".
 
 Let us not have mothers under the influence of the poets scaring their children with a bad version of these myths.
-They say that certain gods "go out at night in the form of so many strangers."
+
+They say that certain gods "go out at night in the form of so many foreigners [aliens]."
+
 They will make cowards of their children.
 {{< /l >}}
-
 

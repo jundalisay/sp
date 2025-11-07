@@ -31,9 +31,13 @@ WHAT really is this "Will to Truth" in us?
 
 In fact we made a long halt at the question as to the origin of this Will—until at last we came to an absolute standstill before a yet more fundamental question. We inquired about the VALUE of this Will. 
 
-Granted that we want the truth: WHY NOT RATHER untruth? And uncertainty? Even ignorance? The problem of the value of truth presented itself before us—or was it we who presented ourselves before the problem? Which of us is the Oedipus here? Which the Sphinx? 
+Why do we not want untruth, uncertainty, and ignorance?
 
-It would seem to be a rendezvous of questions and notes of interrogation. And could it be believed that it at last seems to us as if the problem had never been propounded before, as if we were the first to discern it, get a sight of it, and RISK RAISING it? 
+This is the problem of the value of truth. Or was it we who presented ourselves before the problem? Which of us is the Oedipus here? Which the Sphinx? 
+
+It seems as if:
+- the problem had never been propounded before
+- we were the first to see it and RISK RAISING it
 
 For there is risk in raising it, perhaps there is no greater risk.
 
@@ -52,7 +56,9 @@ Such genesis is impossible.
 
 But rather in the lap of Being, in the intransitory, in the concealed God, in the 'Thing-in-itself—THERE must be their source, and nowhere else!"
 
-This mode of reasoning discloses the typical prejudice by which metaphysicians of all times can be recognized, this mode of valuation is at the back of all their logical procedure; through this "belief" of theirs, they exert themselves for their "knowledge," for something that is in the end solemnly christened "the Truth." 
+This mode of reasoning discloses the typical prejudice by which metaphysicians of all times can be recognized, this mode of valuation is at the back of all their logical procedure.
+
+Through this "belief" of theirs, they exert themselves for their "knowledge," for something that is in the end solemnly christened "the Truth." 
 
 The fundamental belief of metaphysicians is THE BELIEF IN ANTITHESES OF VALUES. 
 

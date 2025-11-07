@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "Apophthegms And Interludes"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 28
 # date: 2022-05-18
 ---
 
