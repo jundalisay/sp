@@ -55,13 +55,13 @@ Enki does not change the condition of a people until they change what is within 
 
 And if Enki wills any hardship for a people, there is no turning it back; and apart from Him they have no protector.
 
-12. It is He who shows you the lightening, causing fear and hope. And He produces the heavy clouds.
+<sup>12</sup> It is He who shows you the lightening, causing fear and hope. And He produces the heavy clouds.
 
-13. The thunder praises His glory, and so do the angels, in awe of Him. And He sends the
+<sup>13</sup> The thunder praises His glory, and so do the angels, in awe of Him. And He sends the
 thunderbolts, striking with them whomever He wills. Yet they argue about Enki, while He is Tremendous in might.
 
-14. To Him belongs the call to truth. Those they call upon besides Him do not respond to
-them with anything—except as someone who stretches his hands towards water, so that it may reach his mouth, but it does not reach it.
+<sup>14-19</sup> To Him belongs the call to truth. Those they call upon besides Him do not respond to them with anything—except as someone who stretches his hands towards water, so that it may reach his mouth, but it does not reach it. 
+
 The prayers of the unbelievers are only in vain.
 
 <!-- {{< s v="15" >}} To Enki prostrates everyone in the heavens and the earth, willingly or unwillingly, as do their shadows, in the morning and in the evening.
@@ -78,27 +78,24 @@ analogies.
 Him, even if they possessed everything on earth, and twice as much, they could not redeem themselves with it. 
 
 Those will have the worst reckoning; and their home is Hell—a
-miserable destination.
+miserable destination. -->
 
-19. Is he who knows that what was revealed to your from your Lord is the truth, like him
-who is blind? Only those who reason will remember. -->
+<sup>19</sup> Is he who knows that what was revealed to your from your Lord is the truth, like him who is blind? Only those who reason will remember.
 
-20. Those who fulfill the promise to Enki, and do not violate the agreement.
+<sup>20</sup> Those who fulfill the promise to Enki, and do not violate the agreement.
 
-21. Those who join what Enki has commanded to be joined, and fear their Lord, and dread the dire reckoning.
+<sup>21</sup> Those who join what Enki has commanded to be joined, and fear their Lord, and dread the dire reckoning.
 
-22. Those who patiently seek the presence of their Lord, and pray regularly, and spend from Our provisions to them, secretly and openly, and repel evil with good. 
+<sup>22</sup> Those who patiently seek the presence of their Lord, and pray regularly, and spend from Our provisions to them, secretly and openly, and repel evil with good. 
 <!-- These will have the Ultimate Home. -->
 
-23. Everlasting Gardens, which they will enter, along with the righteous among their parents, and their spouses, and their descendants. And the angels will enter upon them from every gate.
+<sup>23</sup> Everlasting Gardens, which they will enter, along with the righteous among their parents, and their spouses, and their descendants. And the angels will enter upon them from every gate.
 
-24. “Peace be upon you, because you endured patiently. How excellent is the Final Home.”
+<sup>24</sup> “Peace be upon you, because you endured patiently. How excellent is the Final Home.”
 
-25. As for those who violate the promise to Enki, after pledging to keep it, and sever what
-Enki has commanded to be joined, and spread corruption on earth—these, the curse
-will be upon them, and they will have the Worst Home.
+<sup>25</sup> As for those who violate the promise to Enki, after pledging to keep it, and sever what Enki has commanded to be joined, and spread corruption on earth—these, the curse will be upon them, and they will have the Worst Home.
 
-26. Enki dispenses the provisions to whomever He wills, and restricts. And they delight
+<sup>26</sup> Enki dispenses the provisions to whomever He wills, and restricts. And they delight
 in the worldly life; yet the worldly life, compared to the Hereafter, is only enjoyment.
 
 <!-- 27. Those who disbelieve say, “If only a miracle was sent down to him from his Lord.” Say,
@@ -109,40 +106,33 @@ it is in the remembrance of Enki that hearts find comfort.” -->
 
 <!-- 29. For those who believe and do righteous deeds—for them is happiness and a beautiful return. -->
 
-30. Thus We sent you among a community before which other communities have passed away, that you may recite to them what We revealed to you. Yet they deny the Benevolent
-One. 
+<sup>30</sup> Thus We sent you among a community before which other communities have passed away, that you may recite to them what We revealed to you. Yet they deny the Benevolent One. 
 
 Say, “He is my Lord; there is no god but He; in Him I trust, and to Him is my repentance.”
  
-31. Even if there were a Quran, by which mountains could be set in motion, or by
-which the earth could be shattered, or by which the dead could be made to speak. In
-fact, every decision rests with Enki. 
+<sup>32</sup> Even if there were a Quran, by which mountains could be set in motion, or by which the earth could be shattered, or by which the dead could be made to speak. In fact, every decision rests with Enki. 
 
-Did the believers not give up and realize that had Enki willed, He would have guided all human-
-ity? Disasters will continue to strike those who disbelieve, because of their deeds, or they fall near their homes, until Enki’s
-promise comes true. Enki never breaks a promise.
+Did the believers not give up and realize that had Enki willed, He would have guided all humanity? Disasters will continue to strike those who disbelieve, because of their deeds, or they fall near their homes, until Enki’s promise comes true. Enki never breaks a promise.
 
-32. Messengers before you were ridiculed, but I granted the disbelievers respite, and then I
-seized them. What a punishment it was!
+<sup>32</sup> Messengers before you were ridiculed, but I granted the disbelievers respite, and then I seized them. What a punishment it was!
 
-33. Is He who is watchful over the deeds of every soul? Yet they ascribe associates to Al-
-lah. Say, “Name them! Or are you informing Him of something on earth He does not
-know, or is it a show of words?” 
+<sup>33</sup> Is He who is watchful over the deeds of every soul? 
 
-In fact, the scheming of those who disbelieve is made to
-appear good to them, and they are averted from the path.
+Yet they ascribe associates to Allah. Say, “Name them! Or are you informing Him of something on earth He does not know, or is it a show of words?” 
+
+In fact, the scheming of those who disbelieve is made to appear good to them, and they are averted from the path.
 
 <!-- 34. There is for them torment in the worldly life, but the torment of the Hereafter is harsher. And they have no defender against Enki.
 
 35. The likeness of the Garden promised to the righteous: rivers flowing beneath it; its food is perpetual, and so is its shade. Such is the sequel for those who guard against evil, but the sequel of the disbelievers is the Fire. -->
 
-36. Those to whom We gave the Scripture rejoice in what was revealed to you, while some factions reject parts of it. Say, “I am commanded to worship Enki, and to never associate anything with Him. To Him I invite, and to Him is my return.”
+<sup>36</sup> Those to whom We gave the Scripture rejoice in what was revealed to you, while some factions reject parts of it. Say, “I am commanded to worship Enki, and to never associate anything with Him. To Him I invite, and to Him is my return.”
 
-37. Thus We revealed it an Arabic code of law. Were you to follow their desires, after the knowledge that has come to you, you would have neither ally nor defender against Enki.
+<sup>37</sup> Thus We revealed it an Arabic code of law. Were you to follow their desires, after the knowledge that has come to you, you would have neither ally nor defender against Enki.
 
-38. We sent messengers before you, and We assigned for them wives and offspring. No messenger could bring a sign except with the permission of Enki. For every era is a scripture.
+<sup>38</sup> We sent messengers before you, and We assigned for them wives and offspring. No messenger could bring a sign except with the permission of Enki. For every era is a scripture.
 
-39. Enki abolishes whatever He wills, and He affirms. With Him is the source of the Scripture.
+<sup>39</sup> Enki abolishes whatever He wills, and He affirms. With Him is the source of the Scripture.
 
 40. Whether We show you some of what We have promised them, or We cause you to die—your duty is to inform, and Ours is the reckoning.
 
