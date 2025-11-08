@@ -3,7 +3,7 @@ title: "Trade: The Case For Fair Trade"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Peter Navarro"
 heading: Chapter 26
 weight: 68

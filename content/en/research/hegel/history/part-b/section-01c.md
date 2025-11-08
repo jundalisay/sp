@@ -1,6 +1,6 @@
 ---
-heading: Section 1
-title: The Historical Status of Philosophy
+heading: Section 1c
+title: British Philosophy
 description: The subject of philosophy is the actual knowledge of what truly is.
 c: "steelblue"
 author: Hegel
@@ -9,71 +9,75 @@ weight: 8
 ---
 
 
-(2) We can also believe that many philosophical affirmations were to be found in the mystery religions; in any event they presented symbolically adumbrations of later, superior representations. Still, a good deal of the sensible is mingled in them. 
 
-They probably belong to the very ancient remnants of nature-religion which have, in fact, retreated into darkness. 
+In England under the heading of philosophy is understood natural science. 
 
-In general what is retained in the mystery religions belongs to a stage of culture far below that to which the people have attained. 
+Thus it happens that a journal (like Hermbstadts Journal), for example, which talks about agriculture (manure), economics, industry, chemistry, etc., and tells about discoveries in these areas, is called a philosophical review.
 
-In the Christian religion, mysteries essentially contain the speculative. The Neoplatonists called the speculative concept mystical. The terms muein, mueisqai (consecrate oneself, be consecrated) signified to be engaged in speculative philosophy. 
+By the same token optical instruments, barometers, thermometers, etc., are called philosophical instruments. Even theories, especially those concerned with morality, which are derived more from the feelings of the human heart and from experience than from the concept or from determinations of what is right, in England belong to philosophy.
 
-Consequently there is nothing unknown in these mysteries; their name signifies not something mysterious (Geheimnis) but rather consecration. 
+The Scottish moral philosophers in particular should be mentioned in this connection; they reason in a Ciceronian manner, taking as their starting point drives, inclinations, and immediate certainty, i.e., from the sort of thing which Cicero calls insitum natura.
 
-Thus, all Athenians were consecrated into the Eleusinian mysteries (and philologically speaking the same observation is to be made, for the same notion [Vorstellung] holds there); Socrates alone is an exception. The only thing that was forbidden was to reveal these things publicly before strangers; with regard to some of them it was made a crime to do so. 
+In the same way modern English theories of political economy, e.g., that of Adam Smith and of those influenced by him, are counted as philosophy. 
 
-What we find in the Christian religion is similar; there dogmas are called mysteries. 
+The result is that, at least in England, the name philosophy is respected, because there whatever is derived from general principles or can be taken out of the realm of experience and brought back to determinate principles is called philosophical. 
 
-They are what is known of God’s nature and disseminated as doctrine. Thus, a mystery is not something unknown or hidden; it is something revealed, familiar, what everyone in the community knows; and it is by this knowledge that they are distinguished from members of other religions. 
+A short time ago a banquet was held in honor of Canning. In his speech of acknowledgment it comes out that he congratulates England, because there philosophical principles are employed in government. Thus, in England at least, philosophy is not a term used ironically.
 
-Here, too, then, mysterium does not mean secret (since every Christian is in on the secret); it is simply another name for the speculative. For the senses, for sensual man with his desires and his ordinary understanding, it is, of course, a secret; for understanding finds only contradictions anywhere in the speculative; it finds difference impenetrable and cannot grasp the concrete. 
+Even though all these ways of viewing things go under the heading of philosophy, we must exclude them from our treatment of the subject, despite the fact that in all of them there is a principle which they have in common with philosophy, i.e., that in them it is one’s self which sees, senses, thinks, is present.
 
-Mysterium, or the idea, however, is at the same time the resolution of contradictions. We are here concerned with mysteries, then, only to the extent that in them thought as thought, articulated in the form of thought, is present.
+Whatever the area may be, this is the great principle opposed to authority. In perception it is 1 myself who perceive; and the same is true of sensing, understanding, thinking. 
 
-b. Mythical Philosophizing. 
+What is to have significance for man must be contained in his own thinking. Properly speaking, “in his own thinking” is a pleonasm.
 
-It can also be claimed that myths are a way of philosophizing; and that they have also often been so. Mythical language is also deliberately used, as it is said, in order to evoke sublime ideas. Plato, for example, employs many myths. Jacobi, too, belongs to this number, since he employs the forms of Christian religion in his philosophizing and in this manner says the most speculative things. This form, however, is not the correct one or the one which suits philosophy. 
+Every man must think for himself, no one can think for another, any more than he can eat or drink for another. 
 
-Thought which has itself as object must be, in its form too, object for itself; it has to have risen above its natural form and to have appeared also in the form of thought. 
+It is this moment of the self, plus the form which is produced in thinking, the form of universal laws, principles, fundamental determinations, in short the form of universality, that philosophy has in common with those sciences, philosophical points of view, representations, etc., of which we have been speaking; they are what has given to all of them the name philosophy.
 
-There is a fairly prevalent opinion that Plato’s myths are superior to his more abstract mode of expression; nor is there any question that Plato does present them beautifully. When we consider them more carefully we see that his myths are partly the result of an inability to get thought across to human beings in a purer form. Partly, too, Plato speaks this way only to introduce his themes – when he comes to the principal theme, however, his manner of expression is different. Aristotle says: “Those who philosophize mythically do not deserve to be taken seriously.” That is true. Still, when Plato employs myths he certainly has good reasons for so doing. In general, however, the mythical form is not the one in which thought is best portrayed; it is only a subordinate way.
 
-Just as the Freemasons have symbols which count as deep wisdom – deep in the way that we call a well deep when we cannot see the bottom – so men are easily convinced that what is hidden is deep. But, when something is concealed, it may well be the case that there is nothing behind the concealment. Thus, among the Freemasons what is totally hidden (not only from outsiders but also from insiders) is really nothing and requires neither a special wisdom nor science. It belongs precisely to thought, on the other hand, to manifest itself; it is its very nature to be clear. Manifestation is not, so to speak, a situation which can take place or not, such that thought would continue to be thought whether manifested or not – manifestation is its very being. [This paragraph inserted from Michelet’s first edition of 1833.]
+2. Relation of Philosophy to Religion
 
-Others have employed lines, numbers, and geometrical figures as symbols. A snake biting its own tail, for example, or a circle count as symbols of eternity. Such a symbol is a sensible image; spirit, however, does not need that sort of symbol, it has language. If spirit can express itself in the element proper to thought, then the symbolic is an incorrect, a false mode of presentation. When we talk about Pythagoras we shall come back to this point. This sort of thing is found among the Chinese, too; they use lines and numbers to signify thoughts.
+The second sphere of those manifestations of spirit which are more closely related to philosophy is the area of religious representations in general. Here belongs primarily religion as such, then mythology and the mysteries, and even to a certain extent poetry. 
 
-So, the mythical as such and mythical forms of philosophizing are excluded from what we have to say.
+Just as the first area of which we spoke had in common with philosophy its formal element, the I and the form of universality, so what is common here is the other side, i.e., the substantial element, the content.
 
-c. The Place of Thoughts in Poetry and Religion. 
+In the various religions, peoples have left a record of the way they thought regarding the being of the world, the absolute, that which is in and for itself. There we find what they held to be the cause, the essence, the substantial, in both nature and spirit. 
 
-The third remark to be made is that religion as such, like poetry, contains thoughts. The form in which religion is presented is not merely that of art, as it is particularly in Greek religion; 
+There, too, we discover their opinions regarding the manner in which human spirit or human nature is related to such objects – to the divinity, the true.
 
-Rather it contains thoughts, universal notions. By the same token, poetry (i.e., the art whose element is language) attains to the expression of thoughts; 
+In religion, then, we immediately observe two characteristics (Bestimmungen): first, how man is conscious of God, i.e., how in consciousness he represents God, this being the objective form or determination of thought whereby man sets the essence of divinity over against himself, represents it as something other than himself, as an alien being in the beyond. 
 
-in poets, too, we find profound universal thoughts. Thoughts such as these – e.g., on fate in Homer and the Greek tragedians, or on living and dying, being and ceasing to be, birth and death – then, are clearly abstract and important thoughts, which also are often imaginatively presented, for example, in Indian poetry. 
+The second characteristic is to be found in devotion and cult, which constitute the overcoming of this opposition, whereby man raises himself to God and becomes conscious of his unity with God’s being. This is the sense which cult has in all religions. 
 
-Still, in the history of philosophy we are not to consider this mode of presentation either. One could speak of a philosophy of Aeschylus, of Euripides, of Schiller, of Goethe, etc. 
+Among the Greeks cult served rather to raise them to an enjoyment of this unity, since for them the being of God was not in itself something beyond them.
 
-But, such thoughts are to an extent merely incidental and, thus, not germane to our presentation; they constitute general ways of representing the true, the vocation of man, morality, etc. 
+Religion and philosophy, then, have as an object in common what is true in and for itself – God, insofar as He is in and for Himself – and man in his relation to God. In religions, men have made manifest the consciousness they had concerning the supreme being. To this extent religions are the supreme work of reason. Thus it is absurd to believe that priests invented religion in order to deceive the people – as though men would permit anything to be imposed on them with regard to the ultimate and supreme being.
 
-To an extent, also, these thoughts have not attained to the form which is proper to them; and the form which is required is that of thought, wherein what is expressed must be the ultimate and constitute the absolute foundation. 
+Although philosophy has the same object as religion, still in relation to each other they have developed many differences. The first question, then, is: how does philosophy differ from theology and religion in general? The second is: to what extent must we in the history of philosophy take the religious into account?
 
-With regard to the thoughts we have just spoken about that is not the case; in them there is an absence of distinction from and relation to each other. 
+a. The Form of Philosophy Distinguished from That of Religion. First, then, the question how philosophy and religion differ from each other. In this connection I intend to present their general characteristics and – so far as possible – discuss them.
 
-Besides, in the case of the Indians, whatever has a relation to thought is shot through with confusion.
+b. Divine and Human Spirit. Common to both is what is in and for itself, the universal, absolute Spirit. This is spirit, but at the same time it includes nature within itself; it is itself and the grasp of nature within itself. It is not identical with nature in the superficial sense in which the chemically neutral is, but is rather in its own self identical with – nature, or one with itself in nature. Such is its identity with nature that the latter, its negative, the real, is posited only as ideal. That is the idealism of spirit. The universality of spirit, to which both philosophy and religion are related, is absolute, not exterior, universality. It is a universality which penetrates everything, is present in everything. We have to represent spirit to ourselves as free, and freedom of the spirit means that it is with itself, has a rational awareness of itself. Its nature is to grasp the other in such a comprehensive way as to find itself in the other, to unite itself with itself in the other, there to possess and enjoy itself.
 
-In addition we are not concerned with those thoughts which have their source in Christian religion or in the Church. 
+Here, then, is manifested the relationship of Spirit to the human spirit. No matter how fragile and isolated individuality may be represented, abstraction must simply be made from this sort of atomistic representation. When spirit is represented in truth it is what is rationally aware of itself (das sich selbst Vernehmende). The difference between the individual and the universal, then, is so to be expressed, that the subjective, individual spirit is the universal divine Spirit, to the extent that there is rational awareness of the latter, to the extent that the latter manifests itself in each subject, each man. The spirit which is rationally aware of absolute Spirit is, then, the subjective spirit.
 
-The Fathers of the Church were, it is true, great philosophers, and the growth of Christianity owes a great deal to them. Still, their philosophizing moves within the framework of an already fixed and given doctrinal concept which is fundamental to it. 
+If we take this determination as our point of departure, then as further determinations we have simply various forms of this rational awareness. What we call religious belief is the substantial, universal manner in which man is rationally aware of the divine Spirit. 
 
-In the same way we do not see among the Scholastics the sort of free thought which develops from itself and builds upon itself; rather we see that their thought is tied to all sorts of presuppositions.
+Apart from belief the divine Spirit is not what he is according to the teaching of the Church. In this way the divine Spirit is not in himself but is present in the spirit of man, in the spirit of those who belong to his community. Then it is that the individual spirit is rationally aware of the divine Spirit, i.e., of the essence of his own spirit, of his own essence, of what is substantial in him; and this essence is precisely the universal in and for itself, the enduring. 
 
-This, then, is what I wanted to say by way of introduction to our treatment of the history of philosophy. 
+That is the faith of the Evangelical Church – not an historical (historischer) faith, not a belief in historical (geschichtliche) things; rather this Lutheran faith is the spirit’s own faith, the consciousness whereby it is rationally aware of the substantial in spirit. 
 
-Two points in particular have been emphasized in what we have said about the relationship which these last types of thinking have to philosophy. 
+According to a recent theory of faith it is said: I believe, I have immediate knowledge that I have a body. This, then, is called belief, that something determinate, some content or other is immediately in us, is produced in our consciousness. That is belief in the external sense. 
 
-One of these concerned the formal element, self-thinking in general as it occurs in the natural sciences, in what might be called popular philosophy. 
+But the internal, the religious sense of belief is precisely the knowledge of the absolute Spirit of which we have been speaking; and this knowledge, as it is first of all in the human spirit, is immediate and, as a result, is immediate certitude. 
 
-In that case it was the form which is common to them and to philosophy; whereas the determination of content, the matter, is not developed from the thought itself, but comes from elsewhere, from nature or from feeling, or, as is often the case, sound common sense (Menschenverstand) is adopted as a criterion (as in Scottish philosophy). 
+It is simply a testimony of man’s spirit, which is the profound root of the identity of spirit in general. Spirit generates (erzeugt) itself, manifests its own self, shows itself and gives testimony of itself also, of its unity with itself. It also has consciousness of itself, consciousness of its unity with its object, because it is itself its own object. 
 
-The other aspect was the substantial, which religion in particular shares with philosophy. In this case, however, what is lacking to the substantial element is the form of thought. Thus, what remains for philosophy is simply the substantial element in the form of thought.
-,
+When consciousness of this object comes on the scene, develops, and takes form, the content in question can seem to be something given in sensation, sensibly represented, coming from outside; the way in mythology a myth has of coming into being according to an historical pattern. This pattern is external. To faith, however, belongs the testimony of the spirit. The content can, of course, come from outside, be given and received, but the spirit must give testimony to it.
+
+To be more precise and to speak of the Christian religion, we know that Christ came into the world almost 2000 years ago. He said, however, “I am with you all days, even to the end of the world,” and “Where two or three are gathered together in my name, I am there in the midst of them.” Still, this was not to be the sensible presence of this individual person. He also said , when I am no longer with you, “the Spirit will lead you to all truth,” i.e., the relation of externality must first be removed; it is not the true relationship. Herein we find an elucidation (Erklarung) of what we said above.
+
+On the one hand we have to do there with a representative consciousness, where the content is an object, and it is outside us, separated from us. On the other hand we have devotion, cult, the feeling of union with this object. The result is a certain ambiguity; at one time externality is stronger, at another, devotion. At one time the indwelling Christ is sent back 2000 years to Palestine and is simply an historical person in th at land and those surroundings. At another time, however, in devotion and in cult, the feeling of His presence is predominant. Consequently, at this point there is to be found a contrast in religion.
+
+
+

@@ -3,7 +3,7 @@ title: "Additional K–12 Reforms"
 date: 2024-11-01
 description: "States should be able to opt out of federal education programs such as the Academic Partnerships Lead Us to Success (APLUS) Act."
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 weight: 30
 ---
 

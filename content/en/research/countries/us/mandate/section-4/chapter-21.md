@@ -4,7 +4,7 @@ title: "The Economy"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 21
 weight: 6
 ---

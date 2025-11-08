@@ -3,7 +3,7 @@ title: "Title 6: School Discipline And Disparate Impact"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 weight: 24
 heading: Chapter 11d
 ---

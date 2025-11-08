@@ -1,55 +1,24 @@
 ---
-title: "CHINA AND OTHER GEOPOLITICAL THREATS"
+title: "China And Other Geopolitical Threats"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 22d
 weight: 36
 ---
 
 
 
-Committee on Foreign Investment in the United States. The interagency
-Committee on Foreign Investment in the United States should realign its priorities
-to meet the United States’ current foreign policy threats, especially from China.
-On October 20, 2022, the Treasury Department, which chairs CFIUS, adopted
-the first-ever CFIUS Enforcement and Penalty Guidelines50 on the committee’s
-national security risk mitigation requirements. However, there are no clear rules
-that guide CFIUS on mitigation monitoring, nor is there a published penalty sched-
-ule to standardize accountability when CFIUS pursues a civil money penalty for
-violators. In addition, Treasury—as chair of the committee—runs an opaque pro-
-cess that biases committee procedure toward corporate interests and away from
-national security interests. Finally, the committee’s jurisdiction does not extend
-over greenfield investments that Chinese state-owned enterprises have historically
-pursued in the United States, which leaves America vulnerable to an instrument
-of Chinese economic statecraft.
+### Committee on Foreign Investment in the United States. 
 
-Given these issues, the next steps for CFIUS should be to develop a more
-coherent—and transparent—mitigation monitoring program to complement the
-enforcement guidelines, give CFIUS agencies in charge of national security con-
-cerns an equal voice at the table, and petition Congress to amend the law to cover
-Chinese greenfield investments.
+The interagency Committee on Foreign Investment in the United States should realign its priorities to meet the United States’ current foreign policy threats, especially from China. On October 20, 2022, the Treasury Department, which chairs CFIUS, adopted the first-ever CFIUS Enforcement and Penalty Guidelines50 on the committee’s national security risk mitigation requirements. However, there are no clear rules that guide CFIUS on mitigation monitoring, nor is there a published penalty sched- ule to standardize accountability when CFIUS pursues a civil money penalty for violators. In addition, Treasury—as chair of the committee—runs an opaque pro- cess that biases committee procedure toward corporate interests and away from national security interests. Finally, the committee’s jurisdiction does not extend over greenfield investments that Chinese state-owned enterprises have historically pursued in the United States, which leaves America vulnerable to an instrument of Chinese economic statecraft.
 
-CFIUS should publish a penalty schedule for violations of CFIUS reporting and
-mitigation requirements. Publishing a penalty schedule for CFIUS violations will
-reduce the discretion of the committee to waive penalties or impose mere “wrist
-slap” costs on violators of the law. Additionally, a standardized penalty schedule
-would likely increase the deterrence of CFIUS enforcement by reducing the per-
-ception among parties to covered transactions that they can avoid enforcement
-by the committee or secure special exceptions based on appeals to the commit-
-tee’s discretion.
+Given these issues, the next steps for CFIUS should be to develop a more coherent—and transparent—mitigation monitoring program to complement the enforcement guidelines, give CFIUS agencies in charge of national security con- cerns an equal voice at the table, and petition Congress to amend the law to cover Chinese greenfield investments.
 
-As a legal matter—and in application by CFIUS—mitigation monitoring has
-developed as the Wild West. There are no clear rules that guide the entire com-
-mittee on mitigation monitoring, nor is there the same level of oversight or
-accountability within and among the agencies as applies when CFIUS reviews
-a transaction or when it pursues a civil money penalty. Indeed, it is a credit to
-transaction parties and the professionalism of the governmental officials and con-
-tractors who conduct mitigation monitoring on behalf of the government that, by
-and large, mitigation monitoring has worked adequately during the last several
-decades. But dependency on the personality and capabilities of individuals creates
-unnecessary risk both for CFIUS and for transaction parties.﻿
+CFIUS should publish a penalty schedule for violations of CFIUS reporting and mitigation requirements. Publishing a penalty schedule for CFIUS violations will reduce the discretion of the committee to waive penalties or impose mere “wrist slap” costs on violators of the law. Additionally, a standardized penalty schedule would likely increase the deterrence of CFIUS enforcement by reducing the per- ception among parties to covered transactions that they can avoid enforcement by the committee or secure special exceptions based on appeals to the commit- tee’s discretion.
+
+As a legal matter—and in application by CFIUS—mitigation monitoring has developed as the Wild West. There are no clear rules that guide the entire com- mittee on mitigation monitoring, nor is there the same level of oversight or accountability within and among the agencies as applies when CFIUS reviews a transaction or when it pursues a civil money penalty. Indeed, it is a credit to transaction parties and the professionalism of the governmental officials and con- tractors who conduct mitigation monitoring on behalf of the government that, by and large, mitigation monitoring has worked adequately during the last several decades. But dependency on the personality and capabilities of individuals creates unnecessary risk both for CFIUS and for transaction parties.﻿
 
 Congress should make the Department of Defense (DOD) a CFIUS co-chair
 with the Department of Treasury. Making DOD an official CFIUS co-chair along

@@ -3,7 +3,7 @@ title: "Veterans Health Administration (VHA)"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 20b
 weight: 188
 ---

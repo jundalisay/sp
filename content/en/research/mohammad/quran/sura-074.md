@@ -68,30 +68,34 @@ None knows the soldiers of your Lord except He.
 
 This is nothing but a reminder for the mortals.
 
-32. Nay!  By the moon 33. and the night as it retreats 34. and the morning as it lights up.
 
-35. It is one of the greatest warning to the mortals to whomever among you wishes to advance, or regress.
+<sup>32</sup> Nay!  By the moon <sup>33</sup> and the night as it retreats <sup>34</sup> and the morning as it lights up.
+
+<sup>35</sup> It is one of the greatest warning to the mortals to whomever among you wishes to advance, or regress.
 
 Every soul is hostage to what it has earned except for those on the Right who inquire in the Gardens 41. About the guilty.
 
 {{< l a="Muslims" >}}
-42. What drove you into Saqar?
+<sup>42</sup> What drove you into Saqar?
 {{< /l >}}
 
 {{< r a="Disbelievers" >}}
-43. We were not of those who prayed.
+<sup>43</sup> We were not of those who prayed.
 
-44. We did we feed the destitute.
+<sup>44</sup> We did we feed the destitute.
 
-We used to indulge with those who indulge. 46. We used to deny the Day of Judgment 47. until the Inevitable came upon us.
+We used to indulge with those who indulge. 
+
+<sup>46</sup> We used to deny the Day of Judgment <sup>47</sup> until the Inevitable came upon us.
 {{< /r >}}
 
 
-48. But the intercession of intercessors will not help them.
+<sup>48</sup> But the intercession of intercessors will not help them.
 
-49. Why are they turning away from the Reminder as though they were panicked donkeys fleeing from a lion?
+<sup>49</sup> Why are they turning away from the Reminder as though they were panicked donkeys fleeing from a lion?
 
 Yet every one of them desires to be given scrolls unrolled.
+
 
 53. No indeed! But they do not fear the Hereafter.
 

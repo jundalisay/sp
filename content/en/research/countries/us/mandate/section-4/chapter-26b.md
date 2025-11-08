@@ -1,40 +1,21 @@
 ---
-title: "CHALLENGE #2: COMMUNIST CHINA’S ECONOMIC AGGRESSION AND QUEST FOR WORLD DOMINATION"
+title: "Challenge #2: Communist China’S Economic Aggression And Quest For World Domination"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 
-Among all of its bilateral trade relationships, America’s relationship with Com-
-munist China is the most fraught with difficulty. The problem is not just that the
-relentlessly mercantilist and protectionist trade policies that China has pursued
-ever since its accession to the WTO in 2001 have led to chronic, massive, and
-ever-expanding trade deficits. Communist China’s economic aggression in the
-traditional trade policy space is further facilitated by equally aggressive industrial
-policies and technology transfer–forcing policies that are designed to shift the
-world’s manufacturing and supply chains to Communist Chinese soil.
-The Chinese Communist Party’s policy goal is to propel the Chinese economy,
-but its broader goal is to strengthen Communist China’s defense industrial base
-and associated warfighting capabilities. That China unabashedly seeks to supplant
-America as the world’s dominant economic and military power is not in dispute.
-Rather, it is a prominent feature of Communist Chinese dictator Xi Jinping’s rhet-
-oric. Xi has promised that the deed will be done by 2049, the 100-year anniversary
-of the Communist takeover of the Mainland.19
+Among all of its bilateral trade relationships, America’s relationship with Communist China is the most fraught with difficulty. 
 
-In light of Communist China’s broader geopolitical and military agenda, the
-American President who takes office in January 2025 must view the U.S.–China
-trade relationship and associated policy reforms within the context of the broader
-existential threat posed by Communist China. The question is whether that next
-President should seek to decouple economically and financially from Communist
-China as America’s first best response to China’s unrelenting aggression or con-
-tinue efforts to negotiate with an authoritarian country and brutal dictatorship
-with a well-established reputation for failing to abide by any agreements it enters.
-Institutionalized Aggression. Table 5 depicts more than 50 types of policy
-aggression institutionalized by the CCP across six different categories of such
-aggression. Viewed as whole, the extent of Communist China’s aggression is
-breathtaking.
+The problem is not just that the relentlessly mercantilist and protectionist trade policies that China has pursued ever since its accession to the WTO in 2001 have led to chronic, massive, and ever-expanding trade deficits. Communist China’s economic aggression in the traditional trade policy space is further facilitated by equally aggressive industrial policies and technology transfer–forcing policies that are designed to shift the world’s manufacturing and supply chains to Communist Chinese soil.
+
+The Chinese Communist Party’s policy goal is to propel the Chinese economy, but its broader goal is to strengthen Communist China’s defense industrial base and associated warfighting capabilities. That China unabashedly seeks to supplant America as the world’s dominant economic and military power is not in dispute. Rather, it is a prominent feature of Communist Chinese dictator Xi Jinping’s rhet- oric. Xi has promised that the deed will be done by 2049, the 100-year anniversary of the Communist takeover of the Mainland.19
+
+In light of Communist China’s broader geopolitical and military agenda, the American President who takes office in January 2025 must view the U.S.–China trade relationship and associated policy reforms within the context of the broader existential threat posed by Communist China. 
+
+The question is whether that next President should seek to decouple economically and financially from Communist China as America’s first best response to China’s unrelenting aggression or con- tinue efforts to negotiate with an authoritarian country and brutal dictatorship with a well-established reputation for failing to abide by any agreements it enters. Institutionalized Aggression. Table 5 depicts more than 50 types of policy aggression institutionalized by the CCP across six different categories of such aggression. Viewed as whole, the extent of Communist China’s aggression is breathtaking.
 
 At the trade policy level, Communist China relies heavily on a wide range of
 mercantilist and protectionist tools to protect its own markets and unfairly exploit
@@ -227,182 +208,120 @@ would indeed be both fruitless and dangerous.
 
 TABLE 6
 
-Vectors of Communist China’s Economic Aggression in the
-Technology and IP Space
+Vectors of Communist China’s Economic Aggression in the Technology and IP Space
+
 1. Physical Theft and Cyber-Enabled Theft of Technologies and IP
-• Physical Theft of Technologies and IP Through Economic Espionage
-• Cyber-Enabled Espionage and Theft
-• Evasion of U.S. Export Control Laws
-• Counterfeiting and Piracy
-• Reverse Engineering
+
+- Physical Theft of Technologies and IP Through Economic Espionage
+- Cyber-Enabled Espionage and Theft
+- Evasion of U.S. Export Control Laws
+- Counterfeiting and Piracy
+- Reverse Engineering
+
 2. Coercive and Intrusive Regulatory Gambits
-• Foreign Ownership Restrictions
-• Adverse Administrative Approvals and Licensing Requirements
-• Discriminatory Patent and Other IP Rights Restrictions
-• Security Reviews Force Technology and IP Transfers
-• Secure and Controllable Technology Standards
-• Data Localization Mandates
-• Burdensome and Intrusive Testing
-• Discriminatory Catalogues and Lists
-• Government Procurement Restrictions
-• Indigenous Technology Standards that Deviate from International Norms
-• Forced Research and Development
-• Antimonopoly Law Extortion
-• Expert Review Panels Force Disclosure of Proprietary Information
-• Chinese Communist Party Co-opts Corporate Governance
-• Placement of Chinese Employees with Foreign Joint Ventures
+
+- Foreign Ownership Restrictions
+- Adverse Administrative Approvals and Licensing Requirements
+- Discriminatory Patent and Other IP Rights Restrictions
+- Security Reviews Force Technology and IP Transfers
+- Secure and Controllable Technology Standards
+- Data Localization Mandates
+- Burdensome and Intrusive Testing
+- Discriminatory Catalogues and Lists
+- Government Procurement Restrictions
+- Indigenous Technology Standards that Deviate from International Norms
+- Forced Research and Development
+- Antimonopoly Law Extortion
+- Expert Review Panels Force Disclosure of Proprietary Information
+- Chinese Communist Party Co-opts Corporate Governance
+- Placement of Chinese Employees with Foreign Joint Ventures
+
 3. Economic Coercion
-• Export Restraints Restrict Access to Raw Materials
-• Monopsony Purchasing Power
+
+- Export Restraints Restrict Access to Raw Materials
+- Monopsony Purchasing Power
+
 4. Information Harvesting
-• Open-Source Collection of Science and Technology Information
-• Chinese Nationals in U.S. as Non-Traditional Information Collectors
-• Recruitment of Science, Technology, Business, and Finance Talent
+
+- Open-Source Collection of Science and Technology Information
+- Chinese Nationals in U.S. as Non-Traditional Information Collectors
+- Recruitment of Science, Technology, Business, and Finance Talent
 
 5. State-Sponsored, Technology-Seeking Investment
-• Chinese State Actors Involved in Technology-Seeking FDI
-• Chinese Investment Vehicles Used to Acquire and Transfer U.S. Technologies and IP
-– Mergers and Acquisitions
-– Greenfield Investments
-– Seed and Venture Funding
 
-SOURCE: White House Office of Trade and Manufacturing Policy, How China’s Economic Aggression Threatens the
+- Chinese State Actors Involved in Technology-Seeking FDI
+- Chinese Investment Vehicles Used to Acquire and Transfer U.S. Technologies and IP
+- Mergers and Acquisitions
+- Greenfield Investments
+- Seed and Venture Funding
+
+<!-- SOURCE: White House Office of Trade and Manufacturing Policy, How China’s Economic Aggression Threatens the
 Technologies and Intellectual Property of the United States and the World, June 2018, https://trumpwhitehouse.
-archives.gov/wp-content/uploads/2018/06/FINAL-China-Technology-Report-6.18.18-PDF.pdf (accessed March 21, 2023).
+archives.gov/wp-content/uploads/2018/06/FINAL-China-Technology-Report-6.18.18-PDF.pdf (accessed March 21, 2023). -->
 
 
-The following policy options were on the drawing board or in discussion as
-preparations for a potential Trump second term were being made. These options
-span the spectrum from purely trade-related like increasing tariffs to cutting off
+The following policy options were on the drawing board or in discussion as preparations for a potential Trump second term were being made. 
+
+These options span the spectrum from purely trade-related like increasing tariffs to cutting off
 Communist China’s access to American financial markets, research institutions,
-and consumers. The next American President should strongly consider adopting
-all of them as a package:
+and consumers. The next American President should strongly consider adopting all of them as a package:
 
-Provide significant financial and tax incentives to American companies that
-are seeking to onshore production from Communist China to U.S. soil.
-Stop Communist China’s abuse of the so-called de minimis exemption,
-which allows it to evade the tariffs for products valued at less than $800.
-Prohibit Communist Chinese state-owned enterprises from bidding on U.S.
-government procurement contracts (for example, contracts for subway and
-other transportation systems).
-Prohibit the use of Communist Chinese–made drones in American airspace.
-Ban all Chinese social media apps such as TikTok and WeChat, which pose
-significant national security risks and expose American consumers to data
-and identity theft.
-lProhibit all Communist Chinese investment in high-technology industries.
-lProhibit U.S. pension funds from investing in Communist Chinese stocks.
+- Provide significant financial and tax incentives to American companies that are seeking to onshore production from Communist China to U.S. soil. 
+- Stop Communist China’s abuse of the so-called de minimis exemption, which allows it to evade the tariffs for products valued at less than $800. 
+- Prohibit Communist Chinese state-owned enterprises from bidding on U.S. government procurement contracts (for example, contracts for subway and other transportation systems).
+- Prohibit the use of Communist Chinese–made drones in American airspace. 
+- Ban all Chinese social media apps such as TikTok and WeChat, which pose significant national security risks and expose American consumers to data and identity theft.
+- Prohibit all Communist Chinese investment in high-technology industries.
+- Prohibit U.S. pension funds from investing in Communist Chinese stocks.
+- Delist any Communist Chinese stocks that do not meet Public Company Accounting Oversight Board standards or, alternatively, close off the Chinese “A shares” stock market to U.S. investment and deregister U.S.-sanctioned Communist Chinese companies.
+- Prohibit the use of Hong Kong clearinghouses as transit points for American capital investing in the Chinese mainland.
+- Prohibit the inclusion of Chinese sovereign bonds in U.S. investors’ portfolios.
+- Strategically expand tariffs to all Chinese products and increase tariff rates to levels that will block out “Made in China” products, and execute this strategy in a manner and at a pace that will not expose the U.S. to lack of access to essential products like key pharmaceuticals.
+- Systematically reduce and eventually eliminate any U.S. dependence on Communist Chinese supply chains that may be used to threaten national security such as medicines, silicon chips, rare earth minerals, computer motherboards, flatscreen displays, and military components. 
+- Sanction any companies, including American companies like Apple, that facilitate Communist China’s use of its Great Firewall surveillance and censorship capabilities.
+- Order the Department of Homeland Security (DHS) and Department of Justice to contract with U.S.-owned and U.S.-operated artificial intelligence companies that are capable of detecting, identifying, and disrupting both the domestic groups’ and CCP influencers’ social media operations and funding streams using public information as a rapidly available offensive measure.
+- Reinvigorate and expand the DHS crackdown on the CCP’s use of e-sellers (including third-party sellers) and the shippers and operators of major warehouses such as Amazon, eBay, and Alibaba to flood U.S. markets with counterfeit and pirated goods.
+- Compel the closure of all Confucius Institutes in the U.S., which serve as propaganda arms of the CCP.
+- Significantly reduce or eliminate the issuance of visas to Chinese students or researchers to prevent espionage and information harvesting.
+- Hold the CCP accountable for the COVID-19 virus, which almost certainly originated as a genetically engineered virus from the Wuhan Institute of Virology, and do so through the establishment of a presidential commission or select congressional committee that would investigate the origins of the virus; its various costs, both economically and in human life; and the possible means of collecting damages from the CCP, which are likely to rise to the trillions of dollars.
 
-Delist any Communist Chinese stocks that do not meet Public Company
-Accounting Oversight Board standards or, alternatively, close off the
-Chinese “A shares” stock market to U.S. investment and deregister U.S.-
-sanctioned Communist Chinese companies.
-Prohibit the use of Hong Kong clearinghouses as transit points for American
-capital investing in the Chinese mainland.
-Prohibit the inclusion of Chinese sovereign bonds in U.S. investors’ portfolios.
-
-Strategically expand tariffs to all Chinese products and increase tariff rates
-to levels that will block out “Made in China” products, and execute this
-strategy in a manner and at a pace that will not expose the U.S. to lack of
-access to essential products like key pharmaceuticals.
-
-Systematically reduce and eventually eliminate any U.S. dependence on
-Communist Chinese supply chains that may be used to threaten national
-security such as medicines, silicon chips, rare earth minerals, computer
-motherboards, flatscreen displays, and military components.
-Sanction any companies, including American companies like Apple, that
-facilitate Communist China’s use of its Great Firewall surveillance and
-censorship capabilities.
-
-Order the Department of Homeland Security (DHS) and Department of
-Justice to contract with U.S.-owned and U.S.-operated artificial intelligence
-companies that are capable of detecting, identifying, and disrupting both the
-domestic groups’ and CCP influencers’ social media operations and funding
-streams using public information as a rapidly available offensive measure.
-Reinvigorate and expand the DHS crackdown on the CCP’s use of e-sellers
-(including third-party sellers) and the shippers and operators of major
-warehouses such as Amazon, eBay, and Alibaba to flood U.S. markets with
-counterfeit and pirated goods.
-
-Compel the closure of all Confucius Institutes in the U.S., which serve as
-propaganda arms of the CCP.
-
-Significantly reduce or eliminate the issuance of visas to Chinese students or
-researchers to prevent espionage and information harvesting.
-Hold the CCP accountable for the COVID-19 virus, which almost certainly
-originated as a genetically engineered virus from the Wuhan Institute of
-Virology, and do so through the establishment of a presidential commission
-or select congressional committee that would investigate the origins of
-the virus; its various costs, both economically and in human life; and the
-possible means of collecting damages from the CCP, which are likely to rise
-to the trillions of dollars.
-
-If the new U.S. President wishes to defend this country against the serious exis-
-tential threat posed by Communist China, that President will adopt all of these
-proposals through the requisite presidential executive orders or memoranda.
-Effective Trade Policy in the Real World. To conclude this analysis, it is
-useful to offer brief reflections on a number of key obstacles to implementing the
-policy initiatives recommended in this chapter. These obstacles include:
-
-The dogma of the Ricardian free-trade model, which has been used as
-propaganda to thwart the adoption of measures that seek to level the global
-trading field for American manufacturers, farmers, ranchers, and workers;
-The politics of trade policy, which has led to a great divide that makes trade
-policy reforms difficult to implement;
-The economics of trade deficits, which are not adequately understood either
-by the American public or by the policymaking intelligentsia; and
-The crucial role of supportive White House and Administration personnel
-in implementing effective trade policies.
+If the new U.S. President wishes to defend this country against the serious existential threat posed by Communist China, that President will adopt all of these proposals through the requisite presidential executive orders or memoranda. 
 
 
-The Dogma of Free Trade. Clearly, the fair and balanced trade orientation
-of this chapter runs starkly against the free trade grain of the globalist Ricardian
-orthodoxy, which is predicated on the theory that free trade represents the best
-path by which to achieve both American and global prosperity. This orthodoxy
-is based on the ivory tower academic conclusion that if countries trade freely
-among each other, each will pursue its own comparative advantages; production
-will be most efficient around the world; the economic pie will be bigger both
-for the globe and for each free trading country; and (so long as workers who
-lose their jobs are fairly compensated from the gains from trade) everyone will
-be better off.
+### Effective Trade Policy in the Real World. 
 
-The most obvious problem with this orthodoxy (there are many more) is that
-nowhere is Ricardian free trade mirrored in the real world. Instead, America
-trades in a world where the WTO’s MFN rules are stacked against us, scofflaws
-like Communist China run roughshod over what meager WTO rules there are, and
-the United States among all of the world’s developed nations is the biggest victim
-of the free trade Ricardian orthodoxy.
+There are key obstacles to implementing the policy initiatives recommended here:
 
-During his first term, President Donald Trump preached that there can be no
-free trade without fair, reciprocal, and balanced trade. He was right then, and who-
-ever is the next President in 2025 should heed this critical principle whenever the
-flag of free trade is waved to prevent the adoption of needed reforms.
-The Politics of Trade Policy: Who Benefits? Today, there is a great divide
-among Americans that stands in the way of constructive trade policy reforms. This
-great divide is certainly not about a partisan desire for low taxes and a reduced
-regulatory burden. Rather, it is over whether our borders should be open or secure
-and whether it is prudent to offshore our manufacturing and defense industrial
-base and associated supply chains.
+1. The dogma of the Ricardian free-trade model has been used as propaganda to thwart measures that level the global trading field for American manufacturers, farmers, ranchers, and workers.
+2. The politics of trade policy has led to a great divide that makes trade policy reforms difficult to implement.
+3. The economics of trade deficits, which are not adequately understood by the American public or by the policymakers
+4. The crucial role of supportive White House and Administration personnel in implementing effective trade policies.
 
-Those who support secure borders and seek to onshore more of American pro-
-duction and supply chains do so to boost the real wages of American workers and to
-enhance our national security. Some Americans historically have supported open
-borders and offshoring under the flag of the Ricardian trade model, which assumes
-the free flow of both labor and capital. Yet it is equally true that open borders and
-offshoring also help American multinational corporations to maximize their profits
-by minimizing their labor and environmental protection costs.
 
-In particular, an open border policy, which allows for the unlimited migration of
-cheap labor, depresses American wage rates and thereby boosts corporate profits.
-At the same time, offshoring gives American corporations readier access to the
-sweatshops and pollution havens of Asia and Latin America. Our skies and water
-may be cleaner, and our products may be cheaper, Main Street manufacturers and
+### The Dogma of Free Trade
+
+The fair and balanced trade orientation of this chapter runs against the free trade grain of the globalist Ricardian orthodoxy, which believes that free trade is the best path to achieve both American and global prosperity.
+
+This orthodoxy is based on the ivory tower academic conclusion that if countries trade freely among each other, each will pursue its own comparative advantages; production will be most efficient around the world; the economic pie will be bigger both
+for the globe and for each free trading country; and (so long as workers who lose their jobs are fairly compensated from the gains from trade) everyone will be better off.
+
+The most obvious problem with this orthodoxy is that nowhere is Ricardian free trade mirrored in the real world. 
+
+Instead, America trades in a world where the WTO’s MFN rules are stacked against us, scofflaws like Communist China run roughshod over what meager WTO rules there are, and the United States among all of the world’s developed nations is the  biggest victim of the free trade Ricardian orthodoxy.
+
+During his first term, President Donald Trump preached that there can be no free trade without fair, reciprocal, and balanced trade. He was right then, and whoever is the next President in 2025 should heed this critical principle whenever the flag of free trade is waved to prevent the adoption of needed reforms. 
+
+The Politics of Trade Policy: Who Benefits? Today, there is a great divide among Americans that stands in the way of constructive trade policy reforms. 
+
+This great divide is certainly not about a partisan desire for low taxes and a reduced regulatory burden. Rather, it is over whether our borders should be open or secure and whether it is prudent to offshore our manufacturing and defense industrial base and associated supply chains.
+
+Those who support secure borders and seek to onshore more of American production and supply chains do so to boost the real wages of American workers and to enhance our national security. 
+
+Some Americans historically have supported open borders and offshoring under the flag of the Ricardian trade model, which assumes the free flow of both labor and capital. Yet it is equally true that open borders and offshoring also help American multinational corporations to maximize their profits by minimizing their labor and environmental protection costs.
+
+In particular, an open border policy, which allows for the unlimited migration of cheap labor, depresses American wage rates and thereby boosts corporate profits.
+
+At the same time, offshoring gives American corporations readier access to the sweatshops and pollution havens of Asia and Latin America. Our skies and water may be cleaner, and our products may be cheaper, Main Street manufacturers and
 workers bear the brunt of these policies.
 
-The obvious political problem in adopting many of the policies proposed here
-is that they will be opposed by the special-interest groups that benefit from open
-borders and offshoring and that contribute lavishly to both political parties. These
-special-interest groups range from the hedge funds of Wall Street and tech entre-
-preneurs of Silicon Valley to big-box retailers that stuff their aisles particularly
-with cheap “Made in China” goods.
-
-
+The obvious political problem in adopting many of the policies proposed here is that they will be opposed by the special-interest groups that benefit from open borders and offshoring and that contribute lavishly to both political parties. These special-interest groups range from the hedge funds of Wall Street and tech entre- preneurs of Silicon Valley to big-box retailers that stuff their aisles particularly with cheap “Made in China” goods.

@@ -1,43 +1,78 @@
----
-heading: Chapter 2b
-title: "Renark:The Ought"
-weight: 10
-description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
-author: Hegel
-icon: "Hegel"
-c: "steelblue"
----
 
 
+(b) Quality
 
-§ 262
 
-The ought has recently played a great part in philosophy, especially in connection with morality and also in metaphysics generally, as the ultimate and absolute concept of the identity of the in-itself or self-relation, and of the determinateness or limit.
+<sup>195</sup> Because of the immediacy of the oneness of being and nothing in determinate being, they do not extend beyond each other; so far as determinate being is in the form of being, so far is it non-being, so far is it determinate. Being is not the universal, determinateness not the particular. 
 
-§ 263
+Determinateness has not yet severed itself from being; and indeed it will no more sever itself from being, for the truth which from now on underlies them as ground is the unity of non-being with being; on this as ground all further determinations are developed. But the relation in which determinateness here stands to being is the immediate unity of both, so that as yet no differentiation of this unity is posited.
 
-'You can, because you ought' — this expression, which is supposed to mean a great deal, is implied in the notion of ought. For the ought implies that one is superior to the limitation; in it the limit is sublated and the in-itself of the ought is thus an identical self-relation, and hence the abstraction of 'can'. But conversely, it is equally correct that: 'you cannot, just because you ought.' For in the ought, the limitation as limitation is equally implied; the said formalism of possibility has, in the limitation, a reality, a qualitative otherness opposed to it and the relation of each to the other is a contradiction, and thus a 'cannot', or rather an impossibility.
 
-§ 264
+<sup>196</sup> Determinateness thus isolated by itself in the form of being is quality — which is wholly simple and immediate.
 
-In the Ought the transcendence of finitude, that is, infinity, begins. The ought is that which, in the further development, exhibits itself in accordance with the said impossibility as the infinity.
+Determinateness as such is the more universal term which can equally be further determined as quantity and so on. Because of this simple character of quality as such, there is nothing further to be said about it.
 
-§ 265
 
-With respect to the form of the limitation and the ought, two prejudices can be criticised in more detail. First of all, great stress is laid on the limitations of thought, of reason, and so on, and it is asserted that the limitation cannot be transcended. To make such as assertion is to be unaware that the very fact that something is determined as a limitation implies that the limitation is already transcended. For a determinateness, a limit, is determined as a limitation only in opposition to its other in general, that is, in opposition to that which is free from the limitation; the other of a limitation is precisely the being beyond it. Stone and metal do not transcend their limitation because this is not a limitation for them. If, however, in the case of such general propositions framed by the understanding, such as that limitation cannot be transcended, thought will not apply itself to finding out what is implied in the Notion, then it can be directed to the world of actuality where such proportions show themselves to be completely unreal. just because thought is supposed to be superior to actuality, to dwell apart from it in higher regions and therefore to be itself determined as an ought-to-be, on the one hand, it does not advance to the Notion, and, on the other hand, it stands in just as untrue a relation to actuality as it does to the Notion.
+<sup>197</sup> Determinate being, however, in which nothing no less than being is contained, is itself the criterion for the one-sidedness of quality as a determinateness which is only immediate or only in the form of being.
 
-Because the stone does not think, does not even feel, its limitedness is not a limitation for it, that is, is not a negation in it for sensation, imagination, thought, etc., which it does not possess. But even the stone, as a something, contains the distinction of its determination or in-itself and its determinate being, and to that extent it, too, transcends its limitation; the Notion which is implicit in it contains the identity of the stone with its other. If it is a base capable of being acted on by an acid, then it can be oxidised, and neutralised, and so on. In oxidation, neutralisation and so on, it overcomes its limitation of existing only as a base; it transcends it, and similarly the acid overcomes its limitation of being an acid. This ought, the obligation to transcend limitations, is present in both acid and caustic base in such a degree that it is only by force that they can be kept fixed as (waterless, that is, purely non-neutral) acid and caustic base.
+It is equally to be posited in the determination of nothing, when it will be posited as a differentiated, reflected determinateness, no longer as immediate or in the form of being. Nothing, as thus the determinate element of a determinateness, is equally something reflected, a negation.
 
-§ 266
+Quality, taken in the distinct character of being, is reality; as burdened with a negative it is negation in general, likewise a quality but one which counts as a deficiency, and which further on is determined as limit, limitation.
 
-If, however, an existence contains the Notion not merely as an abstract in-itself, but as an explicit, self-determined totality, as instinct, life, ideation, etc., then in its own strength it overcomes the limitation and attains a being beyond it. The plant transcends the limitation of being a seed, similarly, of being blossom, fruit, leaf; the seed becomes the developed plant, the blossom fades away, and so on. The sentient creature, in the limitation of hunger, thirst, etc., is the urge to overcome this limitation and it does overcome it. It feels pain, and it is the privilege of the sentient nature to feel pain; it is a negation in its self, and the negation is determined as a limitation in its feeling, just because the sentient creature has the feeling of its self, which is the totality that transcends this determinateness. If it were not above and beyond the determinateness, it would not feel it as its negation and would feel no pain.
 
-But it is reason, thought, which is supposed to be unable to transcend limitation — reason, which is the universal explicitly beyond particularity as such (that is, all particularity), which is nothing but the overcoming of limitation! Granted, not every instance of transcending and being beyond limitation is a genuine liberation from it, a veritable affirmation; even the ought itself, and abstraction in general, is in imperfect transcending. However, the reference to the wholly abstract universal is a sufficient reply to the equally abstract assertion that limitation cannot be transcended, or, again, even the reference to the infinite in general is a sufficient refutation of the assertion that the finite cannot be transcended.
+<sup>198</sup> Both are determinate being, but in reality as quality with the accent on being, the fact is concealed that it contains determinateness and therefore also negation. Consequently, reality is given the value only of something positive from which negation, limitation and deficiency are excluded. Negation taken as mere deficiency would be equivalent to nothing; but it is a determinate being, a quality, only determined with a non-being.
 
-§ 267
 
-In this connection we may mention a seemingly ingenious fancy of Leibniz: that if a magnet possessed consciousness it would regard its pointing to the north as a determination of its will, as a law of its freedom. On the contrary, if it possessed consciousness and consequently will and freedom, it would be a thinking being. Consequently, space for it would be universal, embracing every direction, so that the single direction to the north would be rather a limitation on its freedom, just as much as being fixed to one spot would be a limitation for a man although not for a plant.
+## Remark: Quality and Negation
 
-§ 268
+<sup>199</sup> Reality may seem to be a word of various meanings because it is used of different, indeed of opposed determinations. In philosophy one may perhaps speak of a merely empirical reality as of a worthless existence. But when it is said that thoughts, concepts, theories have no reality, this means that they do not possess actuality; in itself or in its notion, the idea of a Platonic Republic, for example, may well be true. Here the worth of the idea is not denied and it is left its place alongside the reality. 
 
-On the other hand, the ought is the transcending, but still only finite transcending, of the limitation. Therefore, it has its place and its validity in the sphere of finitude where it holds fast to being-in-itself in opposition to limitedness, declaring the former to be the regulative and essential factor relatively to what is null. Duty is an ought directed against the particular will, against self-seeking desire and capricious interest and it is held up as an ought to the will in so far as this has the capacity to isolate itself from the true. Those who attach such importance to the ought of morality and fancy that morality is destroyed if the ought is not recognized as ultimate truth, and those too who, reasoning from the level of the understanding, derive a perpetual satisfaction from being able to confront everything there is with an ought, that is, with a 'knowing better' — and for that very reason are just as loath to be robbed of the ought — do not see that as regards the finitude of their sphere the ought receives full recognition. But in the world of actuality itself, Reason and Law are not in such a bad way that they only ought to be — it is only the abstraction of the in-itself that stops at this-any more than the ought is in its own self perennial and, what is the same thing, that finitude is absolute. The philosophy of Kant and Fichte sets up the ought as the highest point of the resolution of the contradictions of Reason; but the truth is that the ought is only the standpoint which clings to finitude and thus to contradiction.
+But as against mere ideas, mere notions, the real alone counts as true. The sense in which, on the one hand, outer existence is made the criterion of the truth of a content is no less one-sided than when the idea, essential being, or even inner feeling is represented as indifferent to outer existence and is even held to be the more excellent the more remote it is from reality.
+
+
+<sup>200</sup> In connection with the term 'reality', mention must be made of the former metaphysical concept of God which, in particular, formed the basis of the so-called ontological proof of the existence of God. 
+
+God was defined as the sum-total of all realities, and of this sum-total it was said that no contradiction was contained in it, that none of the realities cancelled any other; for a reality is to be taken only as a perfection, as an affirmative being which contains no negation. Hence the realities are not opposed to one another and do not contradict one another.
+
+<sup>201</sup> Reality as thus conceived is assumed to survive when all negation has been thought away; but to do this is to do away with all determinateness.
+
+Reality is quality, determinate being; consequently, it contains the moment of the negative and is through this alone the determinate being that it is. 
+
+Reality, taken as we are supposed to take it, in the so-called eminent sense or as infinite -in the usual meaning of the word-is expanded into indeterminateness and loses its meaning. 
+
+God's goodness is not to be goodness in the ordinary, but in the eminent sense; not different from justice but tempered by it (a mediatory expression used by Leibniz), just as, conversely, justice is tempered by goodness; 
+
+And so goodness is no longer goodness, nor justice any more justice. Power is supposed to be tempered by wisdom, but in that case it is not power as such for it would be subject to wisdom; wisdom is supposed to be expanded into power, in which case it vanishes as the wisdom which determines the end and measure of things. 
+
+The true Notion of the infinite and its absolute unity which will present itself later, is not to be understood as a tempering, a reciprocal restricting or a mixing; such a superficial conception of the relationship leaves it indefinite and nebulous and can satisfy only a Notion-less way of thinking.
+
+When reality, taken as a determinate quality as it is in the said definition of God, is extended beyond its determinateness it ceases to be reality and becomes abstract being; God as the pure reality in all realities, or as the sum total of all realities, is just as devoid of determinateness and content as the empty absolute in which all is one.
+
+
+<sup>202</sup> If, on the other hand, reality is taken in its determinateness, then, since it essentially contains the moment of the negative, the sum-total of all realities becomes just as much a sum-total of all negations, the sum-total of all contradictions.
+
+It becomes then straightway the absolute power in which everything determinate is absorbed; but reality itself is, only in so far as it is still confronted by a being which it has not sublated; consequently, when it is thought as expanded into realised, limitless power, it becomes the abstract nothing. The said reality in all realities, the being in all determinate being, which is supposed to express the concept of God, is nothing else than abstract being, which is the same as nothing.
+
+
+<sup>203</sup> Determinateness is negation posited as affirmative and is the proposition of Spinoza: omnis determinatio est negatio. 
+
+This proposition is infinitely important; only, negation as such is formless abstraction, However, speculative philosophy must not be charged with making negation or nothing an ultimate: negation is as little an ultimate for philosophy as reality is for it truth.
+
+<sup>204</sup> Of this proposition that determinateness is negation, the unity of Spinoza's substance — or that there is only one substance — is the necessary consequence. 
+
+Thought and being or extension, the two attributes, namely, which Spinoza had before him, he had of necessity to posit as one in this unity; for as determinate realities they are negations whose infinity is their unity. 
+
+According to Spinoza's definition, of which more subsequently, the infinity of anything is its affirmation. He grasped them therefore as attributes, that is, as not having a separate existence, a self-subsistent being of their own, but only as sublated, as moments; or rather, since substance in its own self lacks any determination whatever, they are for him not even moments, and the attributes like the modes are distinctions made by an external intellect. Similarly, the substantiality of individuals cannot persist in the face of that proposition. 
+
+The individual is a relation-to-self through its setting limits to everything else; but these limits are thereby also limits of itself, relations to an other, it does not possess its determinate being within itself. True, the individual is more than merely an entity bounded on all sides, but this more belongs to another sphere of the Notion; in the metaphysics of being, the individual is simply a determinate something, and in opposition to the independence and self-subsistence of such something, to the finite as such, determinateness effectively brings into play its essentially negative character, dragging what is finite into that same negative movement of the understanding which makes everything vanish in the abstract unity of substance.
+
+<sup>205</sup> Negation stands directly opposed to reality: further on, in the special sphere of reflected determinations, it becomes opposed to the positive, which is reality reflecting the negation — the reality in which the negative has an illusory being [scheint], the negative which in reality as such is still hidden.
+
+
+<sup>206</sup> Quality is especially a property only where, in an external relation, it manifests itself as an immanent determination. 
+
+By properties of herbs, for instance, we understand determinations which not only are proper to something, but are the means whereby this something in its relations with other somethings maintains itself in its own peculiar way, counteracting the alien influences posited in it and making its own determinations effective in the other — although it does not keep this at a distance. The more stable determinatenesses, on the other hand, such as figure, shape, are not called properties, nor even qualities perhaps, because they are conceived as alterable, as not identical with the being [of the object].
+
+
+<sup>207</sup> 'Qualierung' or 'Inqualierung', an expression of Jacob Boehme's, whose philosophy goes deep, but into a turbid depth, signifies the movement of a quality (of sourness, bitterness, fieriness, etc.) within itself in so far as it posits and establishes itself in its negative nature (in its 'Qual' or torment) from out of an other — signifies in general the quality's own internal unrest by which it produces and maintains itself only in conflict.
+

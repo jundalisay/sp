@@ -28,62 +28,61 @@ description: "Mohammad, you are not insane"
 - {{< s v="11" >}} the backbiter, spreader of slander
 - {{< s v="12">}} the cruel, illegitimate pretender
 
-{{< s v="14" >}} Just because he has money and children, he says that Our Verses are “Myths of the ancients!”
-{{< s v="16" >}} We will brand him on his snout. 
+{{< s v="14" >}} Just because he has money and children, he says that Our Verses are “Myths of the ancients!” {{< s v="16" >}} We will brand him on his snout. 
 
 {{< s v="17-18" >}} We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning without any reservation.
 
-{{< s v="19" >}} This is why a calamity from your Lord came upon the garden while they slept. 20. In the morning it was as if picked.
+{{< s v="19" >}} This is why a calamity from your Lord came upon the garden while they slept. <sup>20</sup> In the morning it was as if picked.
 
-21. In the morning, they called to one another:
+<sup>21-22</sup> In the morning, they called to one another:
 
 {{< r a="People" >}}
 Go early to your plantation, if you are going to harvest.
 {{< /r >}}
 
-23. So off they went, murmuring to one another.
+<sup>23</sup> So off they went, murmuring to one another.
 
 {{< r a="People" >}}
-24. No poor person is to enter it upon you today.
+<sup>24</sup> No poor person is to enter it upon you today.
 {{< /r >}}
 
+<sup>25</sup> So they went early.
 
-25. So they went early.
-
-26. But when they saw it, they said::
+<sup>26</sup> But when they saw it, they said::
 
 {{< r a="People" >}}
 We were wrong. 27. We are now deprived.
 {{< /r >}}
 
-28. The most reasonable of them said:
+
+<sup>28</sup> The most reasonable of them said:
 
 {{< l a="Someone" >}}
 Did I not say to you, ‘if only you would glorify?’
 {{< /l>}}
 
 {{< r a="People" >}}
-29. Glory to our Lord! We were indeed in the wrong.
+<sup>29</sup> Glory to our Lord! We were indeed in the wrong.
 {{< /r >}}
 
-30. Then they turned to one another, blaming one another.
+<sup>30</sup> Then they turned to one another, blaming one another.
 
 {{< r a="People" >}}
-31. Woe to us—we were domineering. 32. Perhaps our Lord will give us a better substitute for it. We are turning to our Lord.
+<sup>31</sup> Woe to us—we were domineering. 32. Perhaps our Lord will give us a better substitute for it. We are turning to our Lord.
 {{< /r >}}
 
 
-33. Such is the punishment. But the punishment of the Hereafter is greater, if they only knew.
+<sup>33</sup> Such is the punishment. But the punishment of the Hereafter is greater, if they only knew.
 
-34. For the righteous are Gardens of Delight with their Lord.
+<sup>34</sup> For the righteous are Gardens of Delight with their Lord.
 
-35. Shall We treat the Muslims like the villains?
+<sup>35</sup> Shall We treat the Muslims like the villains?
 
-36. What's the matter with you [Mohammad]? How do you judge?
+<sup>36</sup> What's the matter with you [Mohammad]? How do you judge?
 
-37. Do you have a scripture which you study 38. Wherein there is whatever you choose?
+<sup>37</sup> Do you have a scripture which you study 38. Wherein there is whatever you choose?
 
-39. Or do you have oaths from Us, binding until the Day of Resurrection, that you will have whatever you demand?
+<sup>39</sup> Or do you have oaths from Us, binding until the Day of Resurrection, that you will have whatever you demand?
 
 40. Ask them, which of them will guarantee that.
 

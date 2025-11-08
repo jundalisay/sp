@@ -1,16 +1,14 @@
 ---
-title: "IMPLEMENTING THE CONSERVATIVE VISION"
+title: "Implementing The Conservative Vision"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 
 
-Vision will be crucial for the next conservative Administration, but nuts-and-
-bolts policies are also important. Making the conservative vision for trade a reality
-will require several actions, some of which may prove to be more difficult to achieve
+Vision will be crucial for the next conservative Administration, but nuts-and-bolts policies are also important. Making the conservative vision for trade a reality will require several actions, some of which may prove to be more difficult to achieve
 than others. Specifically:
 
 Implement tariff relief to help counteract inflation by reducing prices
@@ -167,7 +165,7 @@ tended (though foreseen) consequence.
 CHART 2
 
 Total U.S. Industrial Production
-INDEX 2017=100
+<!-- INDEX 2017=100
 120
 100
 80
@@ -188,7 +186,8 @@ SOURCE: Federal Reserve Bank of St. Louis, “Industrial Production: Total Index
 https://fred.stlouisfed.org/series/INDPRO (accessed March 2, 2023).
 2000
 2010
-2020
+2020 -->
+
 
 Federal Reserve research shows that the tariffs have cost about 75,000 manufac-
 turing jobs while creating only about 1,000 jobs in the steel industry—not including

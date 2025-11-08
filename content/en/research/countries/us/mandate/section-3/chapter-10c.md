@@ -3,7 +3,7 @@ title: "Recommendations for the Department of Agriculture"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 weight: 10
 author: "Daren Bakst"
 ---

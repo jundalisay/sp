@@ -4,7 +4,7 @@ date: 2024-11-01
 description: ""
 weight: 3
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Rick Dearborn"
 ---
 

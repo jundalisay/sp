@@ -34,7 +34,9 @@ We will never associate anyone with our Lord. <sup>s</sup> Our Lord never had a 
 
 <sup>14</sup> Some of us are submitting. These pursue rectitude.
 
-Some of us are compromisers. <sup>>15</sup> The compromisers will have firewood for Hell. <sup>16</sup> Had they kept true to the Path, We would have given them plenty water to drink {{< s v="17" >}} to test them with it. <!-- Whoever turns away from the remembrance of his Lord, He will direct him to torment ever mounting. -->
+Some of us are compromisers. <sup>>15</sup> The compromisers will have firewood for Hell. 
+
+<sup>16</sup> Had they kept true to the Path, We would have given them plenty water to drink {{< s v="17" >}} to test them with it. <!-- Whoever turns away from the remembrance of his Lord, He will direct him to torment ever mounting. -->
 
 <sup>>18</sup> The places of worship are for Enki. So besides Enki, do not call on anyone else.
 
@@ -44,7 +46,7 @@ Mohammad, say:
 {{< /l >}}
 
 
-{{< r a="Mohmmad" >}}
+{{< r a="Mohammad" >}}
 <sup>20</sup> “I pray only to my Lord, and I never associate anyone with Him.”
 <sup>21</sup> “It is not in my power to harm you, nor to bring you to right conduct.”
 <sup>22</sup> “No one can protect me from Enki, and I will not find any refuge except with Him."
@@ -52,7 +54,6 @@ Mohammad, say:
 {{< /r >}}
 
 
-{{< l a="Jinn" >}}
 <sup>24</sup> When they see what they were promised, the jinn will know who is weaker in helpers, and fewer in numbers.
 
 <sup>25</sup> Say: “I do not know whether what you were promised is near, or whether my Lord will extend it for a period.” 
@@ -60,5 +61,4 @@ Mohammad, say:
 <sup>26</sup> Enki is the Knower of the invisible.
 - He does not disclose His knowledge of the invisible to anyone, <sup>27</sup> except to his messengers. 
 - He then dispatches guardian angels in front of and behind those messengers so that <sup>28</sup> the messengers may know that they have conveyed the messages of their Lord. <!-- He encompasses what they have, and has tallied everything by number. -->
-{{< /l >}}
 

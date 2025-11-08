@@ -1,7 +1,6 @@
 ---
 heading: "Section 5h"
 title: The process of Perceiving and Understanding
-# title: "Observation of Organic Nature"
 description: The process of perceiving and understanding (intelligence) reflects itself into itself, and by so doing determines its object.
 c: "steelblue"
 author: Hegel
@@ -10,7 +9,7 @@ weight: 11
 
 
 
-{{< s v='279' >}}  If we see the difference between this way of framing laws and previous forms, it will clear up its nature completely. 
+{{< s v='279' >}}  If we see the difference between this way of framing laws and previous forms, it will clear up its nature completely.
 
 The process of perceiving and understanding (intelligence) reflects itself into itself, and by so doing determines its object.
 
@@ -22,9 +21,13 @@ Here, the organic unity, i.e. just the relation of those opposites, is itself th
 
 This process in its simplicity is directly universality; and in that universality opens out into different factors, whose relation it is the purpose of the law to express, the moments of the process take the form of being universal objects of this mode of consciousness, and the law runs, “the outer is an expression of the inner”. 
 
-Understanding has here grasped the thought of the law itself, whereas formerly it merely looked for laws in a general way, and their moments appeared before it in the shape of a definite and specific content, and not in the form of thoughts of laws.
+Understanding has here grasped the thought of the law itself.
 
-As regards content, therefore, such laws ought not to have place in this connexion which merely passively accept and put into the form of universality purely existential distinctions; but such laws as directly maintain in these distinctions the restless activity of the notion as well, and consequently possess at the same time necessity in the relation of the two sides. 
+Whereas formerly it merely looked for laws in a general way, and their moments appeared before it in the shape of a definite and specific content, and not in the form of thoughts of laws.
+
+As regards content, therefore, such laws should not have place in this connexion which merely passively accept and put into the form of universality purely existential distinctions.
+
+But such laws as directly maintain in these distinctions the restless activity of the notion as well, and consequently possess at the same time necessity in the relation of the two sides. 
 
 Yet, precisely because that object, organic unity, directly combines the endless superseding, or the absolute negation of, existence with inactive passive existence, and because the moments are essentially pure transition — there are thus not to be found any such merely existent aspects as are required for the law.
 
@@ -87,7 +90,9 @@ Owing to the form of simplicity and immediacy, then, in which this content is ma
 
 {{< s v='284' >}} The outer, looked at by itself, is the embodied form and shape (Gestaltung) in general, the system of life articulating itself in the element of existence, and at the same time essentially the existence of the organism as it is for an other — objective reality in its aspect of self-existence.
 
-This other appears in the first instance as its outer inorganic nature. If these two are looked at in relation to a law, the inorganic nature cannot, as we saw before, constitute the aspect of a law beside the organic being, because the latter exists absolutely for itself, and assumes a universal and free relation to inorganic nature.
+This other appears in the first instance as its outer inorganic nature.
+
+If these two are looked at in relation to a law, the inorganic nature cannot, as we saw before, constitute the aspect of a law beside the organic being, because the latter exists absolutely for itself, and assumes a universal and free relation to inorganic nature.
 
 
 {{< s v='285' >}} To define more exactly, however, the relation of these two aspects in the case of the organic form, this form, in which the organism is embodied, is in one aspect turned against inorganic nature, while in an other it is for itself and reflected into itself. The real organic being is the mediating agency, which brings together and unites the self-existence of life [its being for itself], with the outer in general, with what simply and inherently is.
@@ -156,5 +161,3 @@ In the case of a series with concurrent differences — whether the relation is 
 But this one aspect, qua resultant fact, is nothing else than what has been already mentioned, viz. an individual property, say, like ordinary cohesion, alongside and indifferent to which the others, specific gravity among them, are found lying, and every other can be selected equally rightly, i.e. equally wrongly, to stand as representative of the entire other aspect; one as well as the other would merely “represent” or stand for [German vorstellen] the essential reality (Wesen), but would not actually be the fact (Sache) itself. 
 
 Thus it seems that the attempt to find series of bodies which should in their two aspects run continuously and simply parallel, and express the essential nature of the bodies in a law holding of these aspects, must be looked at as an aim that is ignorant alike of what it is about and of the means for carrying it through.
-
-

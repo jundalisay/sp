@@ -3,7 +3,7 @@ title: "Ferc: Electric Reliability And Resilience"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 12i
 weight: 56
 ---

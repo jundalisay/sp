@@ -3,7 +3,7 @@ title: "Department Of Justice"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: Gene Hamilton
 ---
 

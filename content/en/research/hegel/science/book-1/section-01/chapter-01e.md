@@ -31,7 +31,10 @@ Becoming therefore contains being and nothing as two such unities, each of which
 
 Becoming is in this way in a double determination. 
 
-In one of them, nothing is immediate, that is, the determination starts from nothing which relates itself to being, or in other words changes into it; in the other, being is immediate, that is, the determination starts from being which changes into nothing: the former is coming-to-be and the latter is ceasing-to-be.
+In one of them, nothing is immediate, that is, the determination starts from nothing which relates itself to being, or in other words changes into it.
+
+In the other, being is immediate, that is, the determination starts from being which changes into nothing: the former is coming-to-be and the latter is ceasing-to-be.
+
 
 <sup>179</sup>
 

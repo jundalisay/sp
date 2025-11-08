@@ -1,27 +1,17 @@
 ---
-title: "ECONOMIC DEVELOPMENT ADMINISTRATION"
+title: "Economic Development Administration"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 21g
 weight: 24
 ---
 
 
-The Economic Development Administration (EDA) is charged with investing in
-local communities to encourage and enable growth and innovation in the private
-sector, with particular focus on distressed or underserved areas. Over time, it has
-also served as a distribution mechanism for emergency relief funds (e.g., Hurricane
-Maria and COVID-19).
+The Economic Development Administration (EDA) is charged with investing in local communities to encourage and enable growth and innovation in the private sector, with particular focus on distressed or underserved areas. Over time, it has also served as a distribution mechanism for emergency relief funds (e.g., Hurricane Maria and COVID-19).
 
-In the Trump Administration, the EDA served an important role for the CARES
-Act. It successfully disbursed approximately $1.5 billion in funding beginning in
-May 2020 and throughout the COVID-19 pandemic. However, this task revealed
-EDA’s shortcomings. On a capability level, EDA lacked the technical and financial
-systems and skills to disburse these funds in a compliant manner and required
-external contracts for advisory support to hire the personnel needed to accom-
-plish its goals.
+In the Trump Administration, the EDA served an important role for the CARES Act. It successfully disbursed approximately $1.5 billion in funding beginning in May 2020 and throughout the COVID-19 pandemic. However, this task revealed EDA’s shortcomings. On a capability level, EDA lacked the technical and financial systems and skills to disburse these funds in a compliant manner and required external contracts for advisory support to hire the personnel needed to accom- plish its goals.
 
 Historically, EDA was a small bureau with an annual budget for $350 million
 in Public Works grants annually. EDA’s decision-making is decentralized to its
@@ -29,15 +19,12 @@ six regional offices, which delayed the release of CARES Act funding by months.
 But more broadly, EDA is an impediment to coordinated campaigns that advance
 
 
+### Administration priorities
 
-Administration priorities. Rather than implementing the new Department Organi-
-zation Orders required to put conservative governance in place, it would be more
-efficient to abolish EDA and reallocate its funding to other overlapping federal
-grant programs.
+Rather than implementing the new Department Organization Orders required to put conservative governance in place, it would be more efficient to abolish EDA and reallocate its funding to other overlapping federal grant programs.
 
 If that proves unachievable, as has historically been the case due to political
 considerations in Congress, EDA would benefit from:
-
 
 Leveraging of the direct hire authorities established in the Trump
 Administration for special initiatives or disaster/recovery funding. Leaving
@@ -128,8 +115,8 @@ innovation; and
 Evaluating the harmful effects of unfair trade practices on minority-owned
 businesses and their employees.
 
-U.S. PATENT AND TRADEMARK OFFICE
 
+### U.S. Patent And Trademark Office
 
 Support like-minded countries as candidates for leadership in the World
 Intellectual Property Organization and build strong relationships with
@@ -161,21 +148,14 @@ how limit innovation.
 
 Political leadership in a new conservative Administration should:
 
-NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
 
-The National Institute of Standards and Technology is charged with promoting
-U.S. innovation and competitiveness by “advancing measurement science, standards,
-and technology.”8 NIST carries out cutting edge research, helps industry establish
-standards and best practices, and is the nation’s foremost authority on measurements.
-NIST’s atomic clock, for instance, maintains the official time of the United States.
-An incoming Administration should evaluate the federal government’s civilian
-research footprint and consolidate those functions while ensuring that any research
-conducted with taxpayer dollars serves the national interest in a concrete way in
-line with conservative principles. Beyond this, an incoming Administration should:
+### National Institute Of Standards And Technology
 
+The National Institute of Standards and Technology is charged with promoting U.S. innovation and competitiveness by “advancing measurement science, standards, and technology.”8 NIST carries out cutting edge research, helps industry establish standards and best practices, and is the nation’s foremost authority on measurements. NIST’s atomic clock, for instance, maintains the official time of the United States. An incoming Administration should evaluate the federal government’s civilian research footprint and consolidate those functions while ensuring that any research conducted with taxpayer dollars serves the national interest in a concrete way in line with conservative principles. Beyond this, an incoming Administration should:
 
-Privatize the Hollings Manufacturing Extension Partnership. The
-Hollings Manufacturing Extension Partnership (MEP) establishes and
+Privatize the Hollings Manufacturing Extension Partnership. 
+
+The Hollings Manufacturing Extension Partnership (MEP) establishes and
 manages a network of centers focused on advising small- and medium-sized
 manufacturers in order to improve processes and thereby strengthen the
 U.S. industrial base. When Congress created the program, MEP centers were
@@ -209,7 +189,8 @@ standards for markets that do allow open access. The incoming Administration
 should consider increased government-sponsored participation by private
 companies and government employees with relevant expertise.
 
-NATIONAL TELECOMMUNICATIONS AND INFORMATION SERVICE
+
+## National Telecommunications And Information Service
 
 The independent National Telecommunications and Information Service
 (NTIS) is charged with ensuring that federally funded research and data are
@@ -218,8 +199,8 @@ due to modern usage of the internet by federal agencies and researchers. NTIS’
 functions should be moved to NIST and consolidated with the Tech Transfer and
 ROI initiatives.
 
-NATIONAL TELECOMMUNICATIONS AND
-INFORMATION ADMINISTRATION
+
+## National Telecommunications And Information Administration
 
 
 Support free speech and hold big tech accountable. Immediately
@@ -264,13 +245,13 @@ Review FirstNet. Evaluate the performance and long-term value
 proposition of FirstNet in view of modern technologies that will render
 it obsolete.
 
-CONCLUSION
+
+## CONCLUSION
+
 The above policies, strategies, and tactics will set a new Administration on
 firm footing that allows the Department of Commerce to assist the President in
 implementing a bold agenda that delivers economic prosperity and strong national
 security to the American people. While many of the department’s functions fall
 outside the remit of the federal government, its unique authorities in diverse areas
 provide critical tools that can and should be brought to bear in implementing a
-conservative governing philosophy that keeps Americans safe and provides oppor-
-tunity for all.
-
+conservative governing philosophy that keeps Americans safe and provides opportunity for all.

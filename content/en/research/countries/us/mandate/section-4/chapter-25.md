@@ -1,29 +1,22 @@
 ---
-title: "SMALL BUSINESS ADMINISTRATION"
+title: "Small Business Administration"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Karen Kerrigan"
 heading: Chapter 25
 weight: 60
 ---
 
 
-## MISSION STATEMENT
+## Mission Statement
 
-### OVERVIEW
+### Overview
 
-Created almost 70 years ago, the SBA was launched under the Small Business
-Act with a mission to “aid, counsel, assist and protect, insofar as is possible, the
-interests of small business concerns.”1 According to its current mission statement:
-The U.S. Small Business Administration (SBA) helps Americans start, grow,
-and build resilient businesses.
+Created almost 70 years ago, the SBA was launched under the Small Business Act with a mission to “aid, counsel, assist and protect, insofar as is possible, the interests of small business concerns.”1 According to its current mission statement: The U.S. Small Business Administration (SBA) helps Americans start, grow, and build resilient businesses.
 
-SBA was created in 1953 as an independent agency of the federal government
-to aid, counsel, assist and protect the interests of small business concerns;
-preserve free competitive enterprise; and maintain and strengthen the overall
-economy of our nation.2
+SBA was created in 1953 as an independent agency of the federal government to aid, counsel, assist and protect the interests of small business concerns; preserve free competitive enterprise; and maintain and strengthen the overall economy of our nation.2
 
 The SBA’s founding mission has evolved over time as programs have been
 expanded or implemented, subject to the philosophical grounding of each Admin-
@@ -127,23 +120,10 @@ loan credit subsidy costs, and miscellaneous program “enhancements” to suppo
 small businesses through economic challenges or circumstances. As noted by the
 Congressional Research Service:
 
-Overall, the SBA’s appropriations have ranged from a high of over $761.9
-billion in FY2020 to a low of $571.8 million in FY2007. Much of this volatility
-is due to significant variation in supplemental appropriations for disaster
-assistance to address economic damages caused by major hurricanes and for
-SBA lending program enhancements to help small businesses access capital
-during and immediately following recessions. For example, in FY2020, the
-SBA received over $760.9 billion in supplemental appropriations to assist
-small businesses adversely affected by the novel coronavirus (COVID-
-19) pandemic.18
+Overall, the SBA’s appropriations have ranged from a high of over $761.9 billion in FY2020 to a low of $571.8 million in FY2007. Much of this volatility is due to significant variation in supplemental appropriations for disaster assistance to address economic damages caused by major hurricanes and for SBA lending program enhancements to help small businesses access capital during and immediately following recessions. For example, in FY2020, the SBA received over $760.9 billion in supplemental appropriations to assist small businesses adversely affected by the novel coronavirus (COVID- 19) pandemic.18
 
 The CRS further notes that “[o]verall, since FY2000, appropriations for SBA’s
 other programs, excluding supplemental appropriations, have increased at a pace
 that exceeds inflation.”19
 
-In terms of current loan volume, the SBA “reached nearly $43 billion in fund-
-ing to small businesses, providing more than 62,000 traditional loans through its
-7(a), 504, and Microloan lending partners and over 1,200 investments through
-SBA licensed Small Business Investment Companies (SBICs) for Fiscal Year (FY)
-2022.”20 The agency’s total budgetary resources for FY 2022 amount to $44.25
-billion, which represents 0.4 percent of the FY 2022 U.S. federal budget.21
+In terms of current loan volume, the SBA “reached nearly $43 billion in fund- ing to small businesses, providing more than 62,000 traditional loans through its 7(a), 504, and Microloan lending partners and over 1,200 investments through SBA licensed Small Business Investment Companies (SBICs) for Fiscal Year (FY) 2022.”20 The agency’s total budgetary resources for FY 2022 amount to $44.25 billion, which represents 0.4 percent of the FY 2022 U.S. federal budget.21

@@ -24,8 +24,7 @@ This becomes a simple mind in a physical organism as a living thing.
 
 
 {{< q a="PR Sarkar" c="Idea and Ideology, Chapter 2" >}}
-Mind arises as a chemical reaction of physical clash within the unit structure. This is because its physical body itself is a creation of the Cosmic Mindstuff. This Cosmic Mindstuff keeps the subtler Identity and the Ego as its dormant aspects. The first stages of the creation of mind is thus from natural physical chemical reactions where vital energy is present. These first minds are made up of mere mindstuff, without ego. But without ego, the blind vital energy cannot cause the physical structure to act. Most of the minds of undeveloped creatures and plants are made of mindstuff. Further psychic evolution leads to the expression of ego that creates identity. The active-identity leads to the intellect. 
-The pure identity leads to supra-physicality.
+Mind arises as a chemical reaction of physical clash within the unit structure. This is because its physical body itself is a creation of the Cosmic Mindstuff. This Cosmic Mindstuff keeps the subtler Identity and the Ego as its dormant aspects. The first stages of the creation of mind is thus from natural physical chemical reactions where vital energy is present. These first minds are made up of mere mindstuff, without ego. But without ego, the blind vital energy cannot cause the physical structure to act. Most of the minds of undeveloped creatures and plants are made of mindstuff. Further psychic evolution leads to the expression of ego that creates identity. The active-identity leads to the intellect. The pure identity leads to supra-physicality.
 {{< /q >}}
 
 

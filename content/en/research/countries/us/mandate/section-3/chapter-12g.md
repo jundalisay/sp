@@ -3,7 +3,7 @@ title: "Office Of Intelligence And Counterintelligence (iac)"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 12g
 weight: 52
 ---

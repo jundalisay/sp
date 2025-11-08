@@ -3,13 +3,28 @@ title: "Should the FTC Enforce Antitrust—or Even Continue to Exist? "
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 
-NEEDED REFORMS
+## Needed Reforms
 
-Some conservatives think that antitrust enforcement should be invested solely in the Department of Justice (DOJ). The FTC’s commissioners are not removable at will by the President, which many quite reasonably believe violates the Vesting Clause Congress should investigate ESG practices as a cover for anticompetitive activity and possible unfair trade practices. The business of American business is business, not ideology. The privileges extended to corporations in American society come with the expectation that of Article II of the Constitution; it is for this reason that conservatives have long believed in either ending law enforcement activities of independent agencies or ending their independent status. The Supreme Court ruling in Humphrey’s Execu- tor12 upholding agency independence seems ripe for revisiting—and perhaps sooner than later.13
+Some conservatives think that antitrust enforcement should be invested solely in the Department of Justice (DOJ). 
+
+The FTC’s commissioners are not removable at will by the President.
+- Many reasonably believe this violates the Vesting Clause
+
+Congress should investigate ESG practices as a cover for anticompetitive activity and possible unfair trade practices. 
+
+The business of American business is business, not ideology.
+
+The privileges extended to corporations in American society come with the expectation that of Article II of the Constitution.
+
+This is why conservatives have long believed in either:
+- ending law enforcement activities of independent agencies or
+- ending their independent status
+
+The Supreme Court ruling in Humphrey’s Executor upholding agency independence seems ripe for revisiting—and perhaps sooner than later.
 
 Others think that the post–New Deal expansion of the administrative state
 has had baleful effects upon our society and earnestly share the hope that it can
@@ -49,70 +64,62 @@ advance sets of fashionable moral beliefs, such as ESG/DEI, introduce agency
 problems into the shareholder relationship and appropriate corporate wealth
 for their own benefit.
 
-Milton Friedman recognized this problem decades ago when answering the
-question whether businesses have ethical or social obligations, as was mentioned
-above. Contrary to his detractors, Friedman did not defend “greed is good.” Rather,
-according to Friedman, socially responsible activities conducted by a corporation
-distort economic freedom because shareholders do not decide how their money
-will be spent—increasing the possibility for fraud or management opportunism.
-This is especially the case in concentrated industries with market power.15
-Managers who insert their own values into underwriting agreements, contracts
-for professional services, or other business transactions coopt shareholder value
-for their own personal utility. This is an unfair trade practice, particularly when it
-occurs in industries that enjoy market power and special privileges or relationships
-with the government.
+Milton Friedman recognized this problem decades ago when asked whether businesses have ethical or social obligations.
 
-Cancel Culture, Collusion, and Commerce. As a corollary, businesses that
-make general offers of service to the public forego profits by refusing to service
-a lawful activity, i.e., fossil fuel extraction or gun manufacturing, raising similar
-concerns. When banks or internet platforms refuse customers based on their
-political or social views (as distinguished from religious views), they forgo profits.
-While such decisions are often justified on public relations, marketing, or branding
-grounds—and normally such decisions, reflecting business judgment, should and
-would receive deference, this presumption is harder to make in a highly parti-
-san, ideologically divided America. This type of behavior can rise to the level of an
-unfair trade practice when the business is (1) publicly traded; (2) highly regulated;
-(3) enjoys legal privileges; (4) enjoys market power; and (5) appears to engage in
-its own political or social agenda that is unrelated to any conceivable branding
-concerns. The government, as guided by democratically passed laws, already reg-
-ulates activities such as fossil fuel extraction and gun manufacturing. Businesses,
-particularly those that enjoy certain government privileges or relationships and/
-or market power, should not replace democratic decision-making with their own
-judgment on controversial matters.
+Friedman did not defend “greed is good.” 
 
-A related concern is the degree to which concentration of industries, particu-
-larly in pharmaceuticals, health care, and the internet, encourages government
-collusion that undermines democratic institutions. Collusion can be explicit, in the
-case for example of government working with social media companies to censor
-politically harmful news, or more implicit—for example, regulatory requirements
-so burdensome that they deter market entrance by smaller entities without the
-resources to bear them.
+Rather, he said that socially responsible activities conducted by a corporation distort economic freedom because shareholders do not decide how their money will be spent—increasing the possibility for fraud or management opportunism.
 
-The FTC should examine platforms’ advertising and contract-
-making with children as a deceptive or unfair trade practice, perhaps
-requiring written parental consent.
-Currently, the Child Online Privacy Protection Act (COPPA)20 regulates the
-information internet firms can obtain from children. COPPA fails because it (1)
-only protects children under the age of 13, leaving older teenagers completely
-unprotected and (2) only prohibits platforms from collecting information from a
-child using “actual knowledge” rather than abiding by the “constructive knowledge”
-standard, which prohibits collecting information from a user reasonably assumed
-to be underage. The FTC has rulemaking authority under this statute but has done
-little with this authority, nor can it—given the statutory constraints. However,
-l
-The FTC can and should institute unfair trade practices proceedings
-against entities that enter into contracts with children without
-parental consent. Personal parental responsibility is, of course, key, but
-the law must respect, not undermine, lawful parental authority.
+This is especially the case in concentrated industries with market power.15 
 
-Protecting Children Online. The FTC has long protected children in a variety
-of different contexts. Internet platforms profit from obtaining information from
-children without parents’ knowledge or consent—and social media’s effect on the
-well-being of American children is well-documented. Around 2012, American
-teens experienced a dramatic decline in wellness. Depression, self-harm, suicide
-attempts, and suicide all increased sharply among U.S. adolescents between 2011
-and 2019,16 with similar trends worldwide.17 The increase occurred at the same
-time that social media use moved from rare to ubiquitous among teens,18 making
+Managers who insert their own values into underwriting agreements, contracts for professional services, or other business transactions coopt shareholder value for their own personal utility.
+
+This is an unfair trade practice, particularly when it occurs in industries that enjoy market power and special privileges or relationships with the government.
+
+
+### Cancel Culture, Collusion, and Commerce.
+
+As a corollary, businesses that make general offers of service to the public forego profits by refusing to service a lawful activity, i.e., fossil fuel extraction or gun manufacturing, raising similar concerns. 
+
+When banks or internet platforms refuse customers based on their political or social views (as distinguished from religious views), they forgo profits.
+
+While such decisions are often justified on public relations, marketing, or branding grounds—and normally such decisions, reflecting business judgment, should and would receive deference, this presumption is harder to make in a highly partisan, ideologically divided America. 
+
+This type of behavior can rise to the level of an unfair trade practice when the business is (1) publicly traded; (2) highly regulated; (3) enjoys legal privileges; (4) enjoys market power; and (5) appears to engage in its own political or social agenda that is unrelated to any conceivable branding concerns. 
+
+The government, as guided by democratically passed laws, already regulates activities such as fossil fuel extraction and gun manufacturing. 
+
+Businesses, particularly those that enjoy certain government privileges or relationships and or market power, should not replace democratic decision-making with their own judgment on controversial matters.
+
+A related concern is the degree to which concentration of industries, particularly in pharmaceuticals, health care, and the internet, encourages government collusion that undermines democratic institutions. 
+
+Collusion can be explicit, in the case for example of government working with social media companies to censor politically harmful news, or more implicit—for example, regulatory requirements so burdensome that they deter market entrance by smaller entities without the resources to bear them.
+
+The FTC should examine platforms’ advertising and contract-making with children as a deceptive or unfair trade practice, perhaps requiring written parental consent.
+
+Currently, the Child Online Privacy Protection Act (COPPA) regulates the information that internet firms can obtain from children. 
+
+COPPA fails because it:
+
+1. only protects children under the age of 13
+
+This leaves older teenagers unprotected
+
+2. only prohibits platforms from collecting information from a child using “actual knowledge” rather than abiding by the “constructive knowledge” standard, which prohibits collecting information from a user reasonably assumed to be underage. 
+
+The FTC has rulemaking authority under this statute but has done little with this authority, nor can it—given the statutory constraints. 
+
+<!-- However, -->
+
+The FTC can and should institute unfair trade practices proceedings against entities that enter into contracts with children without parental consent. 
+
+Personal parental responsibility is, of course, key, but the law must respect, not undermine, lawful parental authority.
+
+Protecting Children Online. 
+
+The FTC has long protected children in a variety of different contexts. Internet platforms profit from obtaining information from children without parents’ knowledge or consent—and social media’s effect on the well-being of American children is well-documented. 
+
+Around 2012, American teens experienced a dramatic decline in wellness. Depression, self-harm, suicide attempts, and suicide all increased sharply among U.S. adolescents between 2011 and 2019,16 with similar trends worldwide.17 The increase occurred at the same time that social media use moved from rare to ubiquitous among teens,18 making
 social media a prime suspect for the sudden rise in mental health issues among
 teens. In addition, excessive social media use is strongly linked to mental health
 issues among individuals. Several studies strongly support the notion that social
@@ -231,19 +238,19 @@ for long enough time horizons. Yet, a pattern of highly concentrated firms—wit
 occasional dropout and replacement by another successor firm with vast market
 power—seems to be emerging.
 
-The policy implications of this quandary are not clear, but for the conservative
-movement, some believe that some type of policy response is necessary. The domi-
-nant internet platforms have disrupted democratic deliberation, as is evidenced by
-the Hunter Biden laptop story. They have a propensity to collude with government
-to advance political goals, as documents unearthed by the Missouri and Louisiana
-AG suits concerning the COVID response demonstrate. And they play a pivotal
-role in our economy.
+The policy implications of this quandary are not clear, but for the conservative movement, some believe that some type of policy response is necessary. The dominant internet platforms have disrupted democratic deliberation, as is evidenced by the Hunter Biden laptop story. They have a propensity to collude with government to advance political goals, as documents unearthed by the Missouri and Louisiana AG suits concerning the COVID response demonstrate. And they play a pivotal role in our economy.
 
 As Judge Frank Easterbrook famously suggested, regulators should look at the cost of error in their judgments. This argument has usually been used to buttress a tentative and hands off approach to antitrust because judicial error in antitrust will persist (Type II error) and continue to damage markets, while failure to take antitrust action (Type I error) will correct itself in the long run as competitors challenge monopolies.28 However, failing to take antitrust enforcement action (Type I error) includes the possibility of real injury to the structure of important American institutions such as democratic accountability and free speech. If so, a more proactive approach may be warranted.
 
-Social media, have an unquestionable negative utility, particularly on young people, as set forth above. The more “efficient” pro- vision of such services may create more unhappiness. More broadly, the utility benefits of many online platforms and services are obscure and may be significantly overstated, as the most recent evidence suggests.29 The FTC must become more sophisticated in measuring consumer surplus. In addition, the FTC should be open to behavioral explanations, such as habit and small hedonic differences, as keys to how platforms create and keep market power.30
+Social media, have an unquestionable negative utility, particularly on young people, as set forth above. 
+
+The more “efficient” provision of such services may create more unhappiness. More broadly, the utility benefits of many online platforms and services are obscure and may be significantly overstated, as the most recent evidence suggests.29 The FTC must become more sophisticated in measuring consumer surplus. In addition, the FTC should be open to behavioral explanations, such as habit and small hedonic differences, as keys to how platforms create and keep market power.30
 
 
 ## CONCLUSION
 
-Conservative approaches to antitrust and consumer protection continue to trust markets, not government, to give people what they want and provide the prosperity and material resources Americans need for flourishing, productive, and meaningful lives. At the same time, conservatives cannot be blind to certain developments in the American economy that appear to make government–private sector collusion more likely, threaten vital democratic institutions, such as free speech, and threaten the happiness and mental well-being of many Americans, particularly children. Many, but not all, conservatives believe that these develop- ments may warrant the FTC’s making a careful recalibration of certain aspects of antitrust and consumer protection law and enforcement.
+Conservative approaches to antitrust and consumer protection continue to trust markets, not government, to give people what they want and provide the prosperity and material resources Americans need for flourishing, productive, and meaningful lives. 
+
+At the same time, conservatives cannot be blind to certain developments in the American economy that appear to make  government–private sector collusion more likely, threaten vital democratic institutions, such as free speech, and threaten the happiness and mental well-being of many Americans, particularly children. 
+
+Many, but not all, conservatives believe that these develop- ments may warrant the FTC’s making a careful recalibration of certain aspects of antitrust and consumer protection law and enforcement.

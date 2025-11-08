@@ -3,14 +3,14 @@ title: "Department Of The Treasury"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 contributors: ['Stephen Moore', 'David R. Burton', 'William L. Walton']
 heading: Chapter 22
 weight: 28
 ---
 
 
-## INTRODUCTION
+## Introduction
 
 The U.S. Treasury Department has a broad regulatory and policy reach. The next Administration should make major policy changes to: (1) reduce regulatory impediments to economic growth that reduce living standards and endanger pros- perity; (2) reduce regulatory compliance costs that increase prices and cost jobs; (3) promote fiscal responsibility; (4) promote the international competitiveness of U.S. businesses; and (5) better respect the American people’s due process and privacy rights.
 
@@ -26,12 +26,12 @@ Department should be:
 - Improved financial regulation
 - Addressing the economic and financial aspects of the geopolitical threat posed by China and other hostile countries;
 - Reform of the anti-money laundering and beneficial ownership
-reporting systems;
+reporting systems
 - Reversal of the racist “equity” agenda of the Biden Administration; and
 - Reversal of the economically destructive and ineffective climate-related financial-risk agenda of the Biden Administration.
 
 
-### BIDEN ADMINISTRATION TREASURY DEPARTMENT
+### BIden Administration Treasury Department
 
 The Biden Administration Treasury Department has failed badly in achieving
 every one of the agency’s core objectives. The financial affairs of the nation have
@@ -81,7 +81,7 @@ moderate income communities.5
 
 
 
-### TREASURY DEPARTMENT ORGANIZATION
+### Treasury Department Organization
 
 The Treasury Department is one of the few executive agencies recognized in
 the U.S. Constitution. It states:
@@ -118,7 +118,9 @@ to the Under Secretary for Domestic Finance.﻿
 
 
 
-### Terrorism and Financial Intelligence. Terrorism and Financial Intelligence (TFI)
+### Terrorism and Financial Intelligence. 
+
+Terrorism and Financial Intelligence (TFI)
 was created in 2004 as part of the larger reorganization of the U.S. government to
 promote homeland security following the 9/11 terrorist attacks. 
 
@@ -129,23 +131,9 @@ economic sanctions programs and supporting the wider law enforcement commu-
 nity in investigating financial crimes. It is led by the Under Secretary for Terrorism
 and Financial Intelligence.
 
-International Affairs protects and supports U.S. economic prosperity and
-national security by working to foster the most favorable external environment for
-sustained employment and economic growth in the United States. The most crucial
-functions of the Office of International Affairs relate to managing the U.S.–China
-Strategic Dialogue; representing U.S. interests in the World Bank, International
-Monetary Fund (IMF) and other multilateral development banks; and overseeing
-the Committee on Foreign Investment in the U.S. (CFIUS). It is led by the Under
-Secretary for International Affairs.
+International Affairs protects and supports U.S. economic prosperity and national security by working to foster the most favorable external environment for sustained employment and economic growth in the United States. The most crucial functions of the Office of International Affairs relate to managing the U.S.–China Strategic Dialogue; representing U.S. interests in the World Bank, International Monetary Fund (IMF) and other multilateral development banks; and overseeing the Committee on Foreign Investment in the U.S. (CFIUS). It is led by the Under Secretary for International Affairs.
 
-Tax Policy formulates and develops tax policies and programs and works with
-Congress to get them passed into law. It reviews and issues regulations drafted by
-attorneys from the IRS’s Office of Chief Counsel to administer the Internal Reve-
-nue Code, negotiates tax information exchange agreements with the tax authorities
-of foreign governments, participates in international tax organizations, and pro-
-vides economic and legal policy analysis for domestic and international tax policy
-decisions. This office also provides revenue estimates for the President’s budget.
-It is led by the Assistant Secretary for Tax Policy.
+Tax Policy formulates and develops tax policies and programs and works with Congress to get them passed into law. It reviews and issues regulations drafted by attorneys from the IRS’s Office of Chief Counsel to administer the Internal Reve- nue Code, negotiates tax information exchange agreements with the tax authorities of foreign governments, participates in international tax organizations, and pro- vides economic and legal policy analysis for domestic and international tax policy decisions. This office also provides revenue estimates for the President’s budget. It is led by the Assistant Secretary for Tax Policy.
 
 Economic Policy reports on current and prospective economic developments
 and assists in the determination of appropriate economic policies. This office is
@@ -174,17 +162,9 @@ The Alcohol and Tobacco Tax and Trade Bureau collects federal excise taxes on al
 
 The Internal Revenue Service is the largest of the department’s bureaus, accounting for about 85 percent of Treasury’s personnel and about four-fifths of its appropriated budget. It administers and enforces U.S. tax laws.
 
-The Bureau of Engraving and Printing develops and produces U.S. currency notes.
-The Financial Crimes Enforcement Network (FinCEN) is designed to protect
-the financial system from illicit use. It also administers the beneficial ownership
-reporting regime mandated by the Corporate Transparency Act.12
+The Bureau of Engraving and Printing develops and produces U.S. currency notes. The Financial Crimes Enforcement Network (FinCEN) is designed to protect the financial system from illicit use. It also administers the beneficial ownership reporting regime mandated by the Corporate Transparency Act.12
 
-The Bureau of the Fiscal Service provides central payment services to federal
-program agencies, operates the U.S. government’s collections and deposit systems,
-provides government-wide accounting and reporting services, manages the collec-
-tion of delinquent debt owed to the U.S. government, borrows the money needed to
-operate the government through the sale of U.S. Treasury securities (including the
-state and local government series), and accounts for and services the public debt.
+The Bureau of the Fiscal Service provides central payment services to federal program agencies, operates the U.S. government’s collections and deposit systems, provides government-wide accounting and reporting services, manages the collection of delinquent debt owed to the U.S. government, borrows the money needed to operate the government through the sale of U.S. Treasury securities (including the state and local government series), and accounts for and services the public debt.
 
 The United States Mint designs and mints U.S. circulating and bullion coins.
 The Office of the Comptroller of the Currency (OCC) charters, regulates, and

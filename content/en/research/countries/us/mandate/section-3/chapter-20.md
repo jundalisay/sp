@@ -3,7 +3,7 @@ title: "Department Of Veterans Affairs"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: Brooks D. Tucker
 heading: Chapter 20
 weight: 186

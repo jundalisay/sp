@@ -3,7 +3,7 @@ title: "Religion"
 date: 2024-11-01
 description: "America’s religious diversity means that workplaces include people of many faiths and that many employers are faith-based"
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 

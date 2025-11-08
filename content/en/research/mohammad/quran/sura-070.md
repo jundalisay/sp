@@ -47,12 +47,13 @@ No one is safe from their Lord’s punishment except for:
 - those who honor their trusts and their pledges.
 - those who stand by their testimonies.
 
-35. These will be honored in Gardens.
+<sup>35</sup> These will be honored in Gardens.
 
-37. The disbelievers mocked the Prophet Mohammad saying that they will enter paradise before the believers do. 
+<sup>37</sup> The disbelievers mocked the Prophet Mohammad saying that they will enter paradise before the believers do. 
 
-38. They think they will be admitted into the Garden of Bliss. 
-39. No! They will be replaced with people better than they. 
+<sup>38</sup> They think they will be admitted into the Garden of Bliss. 
+
+<sup>39</sup> No! They will be replaced with people better than they. 
 
 42.  So leave them to converse vainly and amuse themselves until
 they meet their Day. 

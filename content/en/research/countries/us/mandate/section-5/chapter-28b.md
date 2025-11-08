@@ -1,9 +1,9 @@
 ---
-title: "POLICY PRIORITIES"
+title: "Policy Priorities"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 
@@ -15,21 +15,17 @@ The FCC needs to change course and bring new urgency to achieving four main goal
 4. Ensuring FCC accountability and good governance
 
 
-### Reining in Big Tech
+## Reining in Big Tech
 
-The FCC has an important role to play in addressing the threats to individual liberty posed by corporations that are abusing dominant positions in the market. Nowhere is that clearer than when it comes to Big Tech and its attempts to drive diverse political viewpoints from the digital town square. Today, a handful of corporations can shape everything from the information we consume to the places we shop. These corporate behemoths are not merely exercising market power; they are abusing dominant positions. They are not simply prevailing in the free market; they are taking advantage of a landscape that has been skewed—in many cases by the government—to favor their business models over those of their competitors. It is hard to imagine another industry in which a greater gap exists between power and accountability. That is why a new Adminis- tration should support FCC action on several fronts. Specifically, the FCC should:
+The FCC has an important role to play in addressing the threats to individual liberty posed by corporations that are abusing dominant positions in the market. 
 
+Nowhere is that clearer than when it comes to Big Tech and its attempts to drive diverse political viewpoints from the digital town square. Today, a handful of corporations can shape everything from the information we consume to the places we shop. 
 
-Eliminate immunities that courts added to Section 230. The FCC
-should issue an order that interprets Section 230 in a way that eliminates
-the expansive, non-textual immunities that courts have read into the statute.
+These corporate behemoths are not merely exercising market power; they are abusing dominant positions. They are not simply prevailing in the free market; they are taking advantage of a landscape that has been skewed—in many cases by the government—to favor their business models over those of their competitors. It is hard to imagine another industry in which a greater gap exists between power and accountability. That is why a new Adminis- tration should support FCC action on several fronts. Specifically, the FCC should:
 
-As one of the FCC’s previous General Counsels noted, the FCC has authority
-to take this action because Section 230 is codified in the Communications
-Act.16 The FCC’s Section 230 reforms should track the positions outlined
-in a July 2020 Petition for Rulemaking filed at the FCC near the end of
-the Trump Administration.17 Any new presidential Administration should
-consider filing a similar or new petition.
+Eliminate immunities that courts added to Section 230. The FCC should issue an order that interprets Section 230 in a way that eliminates the expansive, non-textual immunities that courts have read into the statute.
+
+As one of the FCC’s previous General Counsels noted, the FCC has authority to take this action because Section 230 is codified in the Communications Act.16 The FCC’s Section 230 reforms should track the positions outlined in a July 2020 Petition for Rulemaking filed at the FCC near the end of the Trump Administration.17 Any new presidential Administration should consider filing a similar or new petition.
 
 As Justice Clarence Thomas has made clear, courts have construed Section
 230 broadly to confer on some of the world’s largest companies a sweeping
@@ -385,40 +381,23 @@ impose heavy-handed regulation rather than relying on competition
 and market forces to produce optimal outcomes. President Franklin D.
 Roosevelt recommended that Congress create the FCC in February 1934
 for the purposes of establishing “a single Government agency charged
-with broad authority” over the field of communications.27 Congress
-subsequently established the FCC through the Communications Act of 1934.
-Congress has passed a number of additional statutes—some broad, some
-— 856 —Federal Communications Commission
-narrow—that pertain to the FCC’s authority, including most significantly
+with broad authority” over the field of communications.27 
+
+Congress subsequently established the FCC through the Communications Act of 1934.
+
+Congress has passed a number of additional statutes—some broad, some narrow—that pertain to the FCC’s authority, including most significantly
 the Telecommunications Act of 1996,28 which opened up markets for greater
 competition and largely deregulated industry segments.
-Technological change in the connectivity sector is occurring rapidly. We
-are now seeing an unprecedented level of convergence, innovation, and
-competition in the market for connectivity. On the one hand, traditional
-cable providers like Charter are now offering mobile wireless services to
-consumers in direct competition with traditional wireless companies like
-Verizon. On the other hand, a new generation of low-earth orbit satellite
-services like StarLink and Amazon’s Project Kuiper stand to offer high-
-speed home broadband in competition with legacy providers. Furthermore,
-broadcasters are offering high-speed downloads directly to consumers over
-spectrum that previously provided only TV service.
+
+Technological change in the connectivity sector is occurring rapidly. We are now seeing an unprecedented level of convergence, innovation, and competition in the market for connectivity. On the one hand, traditional cable providers like Charter are now offering mobile wireless services to consumers in direct competition with traditional wireless companies like Verizon. On the other hand, a new generation of low-earth orbit satellite services like StarLink and Amazon’s Project Kuiper stand to offer high- speed home broadband in competition with legacy providers. Furthermore, broadcasters are offering high-speed downloads directly to consumers over spectrum that previously provided only TV service.
+
 Ultimately, FCC reliance on competition and innovation is vital if the
-agency is to deliver optimal outcomes for the American public. The
-FCC should engage in a serious top-to-bottom review of its regulations
-and take steps to rescind any that are overly cumbersome or outdated.
+agency is to deliver optimal outcomes for the American public. 
+
+The FCC should engage in a serious top-to-bottom review of its regulations and take steps to rescind any that are overly cumbersome or outdated.
+
 The Commission should focus its efforts on creating a market-friendly
-regulatory environment that fosters innovation and competition from a
-wide range of actors, including cable-based, broadband-based, and satellite-
-based Internet providers.
+regulatory environment that fosters innovation and competition from a wide range of actors, including cable-based, broadband-based, and satellite-based Internet providers.
 
 
-These rapidly evolving market conditions counsel in favor of eliminating
-many of the heavy-handed FCC regulations that were adopted in an era
-when every technology operated in a silo. These include many of the FCC’s
-media ownership rules, which can have the effect of restricting investment
-and competition because those regulations assume a far more limited set of
-competitors for advertising dollars than exist today, as well as its universal
-service requirements.
-
-
-
+These rapidly evolving market conditions counsel in favor of eliminating many of the heavy-handed FCC regulations that were adopted in an era when every technology operated in a silo. These include many of the FCC’s media ownership rules, which can have the effect of restricting investment and competition because those regulations assume a far more limited set of competitors for advertising dollars than exist today, as well as its universal service requirements.

@@ -3,7 +3,7 @@ title: "Renewing The Department’s Focus On Violent Crime"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 

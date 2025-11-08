@@ -3,7 +3,7 @@ title: "The Jones Act"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 
@@ -146,19 +146,8 @@ the cases it brought. The WTO’s slow death began under the Obama Administra-
 tion, which refused to allow appointees to the WTO’s appellate board, which as a
 consequence is now nonfunctional. Both the Trump and Biden Administrations
 have continued the Obama Administration’s approach.
-That means that every case in the dispute resolution process will sputter to
-a halt as parties file appeals that cannot be heard. If the WTO is no longer fit for
-that purpose, it may be better to look in a different direction. More than 20 years
-ago, a Heritage Foundation senior fellow proposed that America and other free
-economies should form a Global Free Trade Alliance that is open to all countries
-that adhere to a truly free market system with appropriate safeguards such as
-property rights, lack of corruption, and enforcement of contracts.74 Alongside a
-general agreement on low to zero tariffs, the alliance would move to reduce the
-effect of nontariff barriers (such as the previously noted baby formula ingredient
-and labeling barriers) by basing trade around the principle of mutual recognition.
-Such an alliance could be started by a trade agreement between the United States
-and, for example, the United Kingdom with an accession chapter allowing others
-to join if they meet the criteria.
+
+That means that every case in the dispute resolution process will sputter to a halt as parties file appeals that cannot be heard. If the WTO is no longer fit for that purpose, it may be better to look in a different direction. More than 20 years ago, a Heritage Foundation senior fellow proposed that America and other free economies should form a Global Free Trade Alliance that is open to all countries that adhere to a truly free market system with appropriate safeguards such as property rights, lack of corruption, and enforcement of contracts.74 Alongside a general agreement on low to zero tariffs, the alliance would move to reduce the effect of nontariff barriers (such as the previously noted baby formula ingredient and labeling barriers) by basing trade around the principle of mutual recognition. Such an alliance could be started by a trade agreement between the United States and, for example, the United Kingdom with an accession chapter allowing others to join if they meet the criteria.
 
 It would be essential for a Global Free Trade Alliance to avoid the WTO’s most
 serious problem: the exemptions from its rules that are granted to developing
@@ -298,4 +287,3 @@ Refocus the Indo-Pacific Economic Framework for Prosperity
 on trade. President Biden began the process to create IPEF in 2022,
 but any agreement will likely still be under negotiation when the next
 Administration takes office. IPEF is similar to the TPP, but its member
-

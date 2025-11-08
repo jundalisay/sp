@@ -24,7 +24,7 @@ O my people, why do you hurt me, although you know that I am Enki’s Messenger 
 
 When they swerved, Enki swerved their hearts. Enki does not guide the sinful people.
 
-6. Jesus said:
+<sup>6</sup> Jesus said:
 
 {{< l a="Jesus" >}}
 O Jews, I am Enki’s Messenger to you, confirming what preceded me of the Torah, and announcing good news of a messenger who will come after me, whose name is Ahmad.
@@ -37,9 +37,10 @@ This is obvious sorcery.
 {{< /r >}}
 
 
-7. The greatest wrongdoer is he who attributes falsehoods to Enki when he is being invited to Islam?
 
-8. They want to extinguish Enki’s Light with their mouths; but Enki will complete His Light, even though the disbelievers dislike it.
+<sup>7</sup> The greatest wrongdoer is he who attributes falsehoods to Enki when he is being invited to Islam?
+
+<sup>8</sup> They want to extinguish Enki’s Light with their mouths; but Enki will complete His Light, even though the disbelievers dislike it.
 
 {{< s v="9" >}}  It is He who sent His Messenger with the guidance and the true religion, to make it prevail over all religions, even though the idolaters dislike it.
 
@@ -47,11 +48,11 @@ This is obvious sorcery.
 
 {{< s v="11" >}}  That you believe in Enki and His Messenger, and strive in the cause of Enki with your possessions and yourselves. That is best for you, if you only knew.
 
-12. He will forgive your sins and will admit you into gardens beneath which rivers flow, and into beautiful mansions in the Gardens of Eden. That is the supreme success.
+<sup>12-13</sup> He will forgive your sins and will admit you into gardens beneath which rivers flow, and into beautiful mansions in the Gardens of Eden. That is the supreme success.
 
 <!-- 13. And something else you love: support from Enki, and imminent victory. So give good news to the believers. -->
 
-14. So be supporters of Enki, as Jesus said to the disciples:
+<sup>14</sup> So be supporters of Enki, as Jesus said to the disciples:
 
 
 {{< l a="Jesus" >}}
@@ -66,7 +67,3 @@ We are Enki's supporters.
 So a group of the Jews believed, while another group disbelieved. 
 
 We supported those who believed against their foe, so they became dominant.
-
-
-
-

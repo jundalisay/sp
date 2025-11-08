@@ -1,61 +1,56 @@
 ---
-title: "THE CASE FOR FREE TRADE"
+title: "The Case For Free Trade"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Kent Lassman"
 ---
 
 
-Trade policy is a statement of American identity. Our trade policy choices reveal America’s values and where we
-put our trust. Do we place our trust in Washington elites to revive a declining coun-
-try, or do we trust in America’s tradition of entrepreneurs and everyday people
-blazing new trails? Do we follow China by copying its strong-arm trade policies,
-or do we lead China and the rest of the world by forging our own path? Our trade
-policy decisions will tell you what we Americans really think of ourselves.
+Trade policy is a statement of American identity.
+
+Our trade policy choices reveal America’s values and where we put our trust. Do we place our trust in Washington elites to revive a declining country, or do we trust in America’s tradition of entrepreneurs and everyday people blazing new trails? 
+
+Do we follow China by copying its strong-arm trade policies, or do we lead China and the rest of the world by forging our own path? 
+
+Our trade policy decisions will tell you what we Americans really think of ourselves.
 
 
-### A CONSERVATIVE VISION FOR TRADE
+## A Conservative Vision For Trade
 
-The policy recommendations in this chapter reflect a belief in the strength of
-America’s founding institutions, its economy, and its people. They are based on data
-showing decades of American progress with all that this implies. They also reflect
-a realistic understanding of the fact that trade policy has limited capabilities and
-is vulnerable to mission creep and regulatory capture. Policymakers should be
-modest about what they can accomplish through trade policy and need to exercise
-constant vigilance against abuses. For example:
+The policy recommendations here are based on data:
+- showing decades of American progress
+- reflecting a realistic understanding of the fact that trade policy has limited capabilities and is vulnerable to mission creep and regulatory capture. 
 
-Trade can lower consumer prices for ordinary Americans and open new
-markets for American businesses and their goods.
-Trade can help American workers and businesses to specialize in what they
-do best—which is how they outcompete the rest of the world in technology,
-manufacturing, agriculture, and other areas.
+Policymakers should be modest about what they can accomplish through trade policy and need to exercise constant vigilance against abuses. 
+
+<!-- For example: -->
+
+Trade can lower consumer prices for ordinary Americans and open new markets for American businesses and their goods.
+
+Trade can help American workers and businesses to specialize in what they do best—which is how they outcompete the rest of the world in technology, manufacturing, agriculture, and other areas.
+
 In foreign policy, trade can help to preserve and strengthen alliances.
-At the same time, sound trade policy requires humility. It is not a panacea for
-every policy problem. Trade policy cannot favor one sector over another without
-causing tradeoffs that outweigh the benefits.41 Neither free trade nor protectionism
-will create jobs. Trade affects the types of jobs people have, but it has no long-run
-effect on the number of jobs. Labor force size is tied to population size more than
-anything else. The American people are smart and sophisticated enough to hear
-these truths.
 
-It is not just conservatives who overestimate the power of trade policy. Recent
-progressive attempts to use trade policy to advance whole-of-government initia-
-tives on climate, equity, and other issues will fail for the same reason that a hammer
-cannot turn a screw: It is the wrong tool for the job. Conservatives should be sim-
-ilarly skeptical of recent attempts on the Right to use progressive trade policy to
-punish political opponents, remake manufacturing, or accomplish other objectives for which it is not suited. The next Administration needs to end the mission creep that has all but taken over trade policy in recent years.
+At the same time, sound trade policy requires humility. It is not a panacea for every policy problem. Trade policy cannot favor one sector over another without causing tradeoffs that outweigh the benefits.41 Neither free trade nor protectionism will create jobs.
+
+Trade affects the types of jobs people have, but it has no long-run effect on the number of jobs. Labor force size is tied to population size more than anything else. The American people are smart and sophisticated enough to hear these truths.
+
+It is not just conservatives who overestimate the power of trade policy. Recent progressive attempts to use trade policy to advance whole-of-government initiatives on climate, equity, and other issues will fail for the same reason that a hammer cannot turn a screw: It is the wrong tool for the job. 
+
+Conservatives should be similarly skeptical of recent attempts on the Right to use progressive trade policy to punish political opponents, remake manufacturing, or accomplish other objectives for which it is not suited. The next Administration needs to end the mission creep that has all but taken over trade policy in recent years.
 
 Trade policy works best when it sticks to trade and treats separate issues
 separately. Trade agreements since the North American Free Trade Agreement
 (NAFTA) have been increasingly burdened by trade-unrelated provisions involving
 labor, environmental, intellectual property, and other regulations. Where these
 were a side agreement to NAFTA in the 1990s, they were integrated into the main
-text of the United States–Mexico–Canada Agreement (USMCA) in 2019. The
-Indo-Pacific Economic Framework for Prosperity (IPEF) that the Biden Admin-
-istration is currently pursuing consists entirely of trade-unrelated provisions:
+text of the United States–Mexico–Canada Agreement (USMCA) in 2019. 
+
+The Indo-Pacific Economic Framework for Prosperity (IPEF) that the Biden Administration is currently pursuing consists entirely of trade-unrelated provisions:
 Negotiations are steering clear of trade altogether.
+
 Trade-unrelated provisions are routinely hijacked by progressives and rent-seek-
 ers and dilute otherwise worthwhile trade agreements. They also create additional
 points of contention that make agreements unnecessarily difficult to pass. A con-
@@ -134,11 +129,7 @@ in tariffs after World War II have made possible decades of continued prosperity
 Intensive growth requires specialization, and the larger the market, the more spe-
 cialization is possible.
 
-Fighting Pessimistic Bias. Farmers’ share of the population continued to
-decline through this entire period, yet employment remained high, and the
-
-
-CHART 1
+<!-- CHART 1
 U.S. Real GDP per Capita
 REAL GROSS DOMESTIC PRODUCT PER CAPITA, IN CHAINED 2012 DOLLARS,
 SEASONALLY ADJUSTED ANNUAL RATE
@@ -154,30 +145,27 @@ $0
 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
 SOURCE: Federal Reserve Bank of St. Louis, “Real Gross Domestic Product per Capita,”
 https://fred.stlouisfed.org/series/ A939RX0Q048SBEA (accessed March 2, 2023).
-A heritage.org
+ -->
 
-economy continued to grow. Factories were not the only beneficiaries of agri-
-culture’s productivity boom and the labor it freed; services also grew. In fact,
-service-sector employment surpassed manufacturing employment around 1890—
-far earlier than most people realize.47
+
+Fighting Pessimistic Bias. Farmers’ share of the population continued to decline through this entire period, yet employment remained high, and the economy continued to grow. Factories were not the only beneficiaries of agri-
+culture’s productivity boom and the labor it freed; services also grew. 
+
+In fact, service-sector employment surpassed manufacturing employment around 1890—far earlier than most people realize.47
 Pessimistic bias is one of the most important cultural problems that conserva-
 tive policymakers need to address. In trade, as in most other areas, few people ever
 zoom out to see the big picture, which is one reason why so many people mistakenly
 believe that U.S. manufacturing and the U.S. economy are in decline.
-The data do not show American economic carnage. They show more than two
-centuries of intensive growth, made possible by a growing internal market through-
-out the 19th century and a growing international market in the post–World War
-II era. The transition from farm to factory did not shrink the labor force or farm
-output. Later, the transition from factories to services did not shrink the labor force, factory output, or farm output. Both transitions affected the types of jobs,
+
+The data do not show American economic carnage. They show more than two centuries of intensive growth, made possible by a growing internal market throughout the 19th century and a growing international market in the post–World War
+II era. 
+
+The transition from farm to factory did not shrink the labor force or farm output. Later, the transition from factories to services did not shrink the labor force, factory output, or farm output. Both transitions affected the types of jobs,
 not the number of jobs.
 
-Americans today can more easily afford everything from air conditioning to
-flat-screen televisions and smartphones, and trade is one reason why. Bigger mar-
-kets mean more specialization, more innovative ideas, more customers, and more
-people from whom to buy.
+Americans today can more easily afford everything from air conditioning to flat-screen televisions and smartphones, and trade is one reason why. Bigger markets mean more specialization, more innovative ideas, more customers, and more people from whom to buy.
 
-America’s official unemployment rate went as low as 3.5 percent during 2022,
-while real per capita gross domestic product (GDP) rose to an all-time record.
-Clearly, people who wanted to work were able to find work that paid well even as
-manufacturing jobs grew more slowly than service jobs.
+America’s official unemployment rate went as low as 3.5 percent during 2022, while real per capita gross domestic product (GDP) rose to an all-time record. 
+
+Clearly, people who wanted to work were able to find work that paid well even as manufacturing jobs grew more slowly than service jobs.
 

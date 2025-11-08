@@ -3,7 +3,7 @@ title: "Bureau Of Economic Analysis And The Office Of The Undersecretary For Eco
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 21e
 weight: 18
 ---

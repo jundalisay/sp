@@ -4,7 +4,7 @@ title: "International Trade Administration"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 21b
 weight: 8
 ---

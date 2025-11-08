@@ -3,7 +3,7 @@ title: "Prioritizing The Protection Of Public Safety"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 

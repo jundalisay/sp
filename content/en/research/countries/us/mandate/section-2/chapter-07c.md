@@ -3,7 +3,7 @@ title: "Foreign Intelligence Surveillance Act (fisa)"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 

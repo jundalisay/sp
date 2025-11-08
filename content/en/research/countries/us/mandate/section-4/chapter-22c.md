@@ -1,9 +1,9 @@
 ---
-title: "TAXPAYER RIGHTS AND PRIVACY"
+title: "Taxpayer Rights And Privacy"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 21b
 weight: 34
 ---
@@ -20,7 +20,8 @@ The Office of the Taxpayer Advocate was created by Congress to assist taxpay- er
 - Requiring the IRS to address the NTA’s comments in final rules and including the NTA in deliberations prior to the release of a proposed rule
 - Authorizing the NTA to file amicus briefs independently.
 
-### Administrative Burden.
+
+### Administrative Burden
 
 In 2021, Americans filed 261 million tax returns and an astounding 4.7 billion information returns (such as Form W-2s, Form 1098s
 and Form 1099s).46 Complying with tax law costs Americans more than $400 billion annually, or about 2 percent of gross domestic product.47 Although the IRS administers these reporting programs, most of this expense is mandated by Congress, not the IRS.
@@ -77,7 +78,7 @@ before being distributed to those in need. Also, these foreign entities have int
 that do not coincide with American national security and economic interests.
 
 
-### FISCAL RESPONSIBILITY
+### Fiscal Responsibility
 
 Treasury should make balancing the federal budget a mission-critical objective.
 The federal budget absorbs enormous resources from the economy, both in money
@@ -93,7 +94,7 @@ ditures, deficit, and debt for the preceding fiscal year. The statement should a
 include this individual family’s pro-rata share of the debt based on family size.
 
 
-### INTERNATIONAL COMPETITIVENESS
+### International Competitiveness
 
 The Treasury must act more assertively in international financial institutions to
 protect and advance U.S. national interests—and oppose those that do not. It should

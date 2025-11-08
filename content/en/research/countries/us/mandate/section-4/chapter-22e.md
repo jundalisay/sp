@@ -1,26 +1,22 @@
 ---
-title: "IMPROVED FINANCIAL REGULATION"
+title: "Improved Financial Regulation"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 22d
 weight: 38
 ---
 
 
-One of the priorities of the incoming Administration should be to restructure
-the outdated and cumbersome financial regulatory system in order to promote
-financial innovation, improve regulator efficiency, reduce regulatory costs, close
-regulatory gaps, eliminate regulatory arbitrage, provide clear statutory authority,
-consolidate regulatory agencies or reduce the size of government, and increase
-transparency.
+One of the priorities of the incoming Administration should be to restructure the outdated and cumbersome financial regulatory system in order to promote financial innovation, improve regulator efficiency, reduce regulatory costs, close regulatory gaps, eliminate regulatory arbitrage, provide clear statutory authority, consolidate regulatory agencies or reduce the size of government, and increase transparency.
 
 Merging Functions. The new Administration should establish a more stream-
 lined bank and supervision by supporting legislation to merge the Office of the
 Comptroller of the Currency, the Federal Deposit Insurance Corporation, the
 National Credit Union Administration, and the Federal Reserve’s non-monetary
 supervisory and regulatory functions.
+
 U.S. banking law remains stuck in the 1930s regarding which functions finan-
 cial companies should perform. It was never a good idea either to restrict banks
 to taking deposits and making loans or to prevent investment banks from taking
