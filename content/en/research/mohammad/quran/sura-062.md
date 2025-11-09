@@ -48,6 +48,3 @@ Say:
 {{< l a="Muslims" >}}
 What is with Enki is better than entertainment and business; and Enki is the Best of providers.
 {{< /l >}}
-
-
-

@@ -65,8 +65,6 @@ The activating (radiating) capacity of the ego determines physical activity (pri
 
 
 
-
-
 ## Each Person has 3 Billion Selves which are Fluid
 
 In Hinduism, the jivatman is a tiny-soul that loses its identity when it is absorbed into the larger universal-soul, similar to a water in a glass losing its identity or self when it is poured into the sea. 
@@ -225,5 +223,3 @@ The main cause of purely mental illness is the wrong shape that the mind has tak
 The main cause of body-mind illness is some problem with the nerves or appearance of the body or the funcitoning of some organs. 
 
 For example, a physical defect such as cleft lip might create depression or anxiety. Body-mind illnesses can be usually cured by operating on the physical error. 
-
-

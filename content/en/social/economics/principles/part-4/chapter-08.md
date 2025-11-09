@@ -36,15 +36,20 @@ Neoclassical Economics, as the commercial system, is unable to arrive at the rea
 The real value of things prevents our proposed system from crashing because [the ratio of values](/social/economics/principles/intro/chapter-04/) are maintained and not made absolute or constant as in the commercial system.
 
 
-### Replacing Nominal Value with Real Value
+
+## Replacing Nominal Value with Real Value
 
 We can restore these natural ratios by pulling down money from the supreme pedestal where it currently stands on, just as we by fixed Einstein's General Relativity by removing the constant speed of light `c`, and instead using the other qualities of the star or galaxy where it comes from.
 
-So in order to know a bread's "supereconomic" `G` or real value, we need to know what that bread was exchanged with, and not its money price. This chain of exchanges can then be backpropagated in order to know its relativistic value to other goods or services. 
+So in order to know a bread's "supereconomic" `G` or real value, we need to know what that bread was exchanged with, and not its money price. 
+
+This chain of exchanges can then be backpropagated in order to know its relational value to other goods or services. 
 
 Once the relative value-motions of goods and services are known, then we can predict the demand for them and so arrange the supply ahead of time in order to address all the demand and achieve constant zero-inflation. This feature is standard in our points-based economic system. 
 
-Economics, on the other hand, allows only money-purchases so that 1 bread is equal to 1 dollar, for example. But it has no idea of where that 1 dollar came from. 
+Economics, on the other hand, allows only money-purchases so that `1` bread is equal to `1` dollar, for example. 
+
+**But it has no idea of where that 1 dollar came from.** 
 
 Did it come from wages? Or from a sale of a tomato? Was it donated? 
 
@@ -53,14 +58,15 @@ If you use machine-learning to backpropagate all the transactions for bread, you
 > If you use machine-learning to backpropagate all the transactions, you will end up with a dollar price without knowing what it really represents
 
 
-The best that they can do is apply stochastic calculus to create probabilistic "algorithmic trading" and "dynamic stochastic general equilibrium" which have both caused crashes. 
+The best that they can do is apply stochastic calculus to create probabilistic "algorithmic trading" and "dynamic stochastic general equilibrium" which have caused crashes. 
 
-Economists have no choice but to concede and say that price movements are mysterious, blaming "herd behavior", just as physicists say that quantum effects are mysterious, pointing to the Heisenberg uncertainty principle.
+Economists have no choice but to concede and say that price movements are mysterious, blaming "herd behavior".
 
-> Economists have no choice but to concede that price movements are mysterious just as Physicists say quantum effects are mysterious
+This is similar to how physicists say that quantum effects are mysterious, pointing to the Heisenberg uncertainty principle.
 
+<!-- > Economists have no choice but to concede that price movements are mysterious just as Physicists say quantum effects are mysterious -->
 
-{{< img src="https://sorasystem.sirv.com/cards/receipt.jpeg" cap="Commercial receipts just give the money value and has no information where that money value came from. This is the same problem that leads to tax avoidance and evasion, which then leads to budget deficits, weak governments, and subsequent instability." >}}
+{{< i s="/photos/econ/receipt.jpg" c="Commercial receipts just give the money value and has no information where that money value came from. This is the same problem that leads to tax avoidance and evasion, which then leads to budget deficits, weak governments, and subsequent instability." >}}
 
 
 Our model on the other hand, follows Smith and the Physiocrats, and uses [grain-based valuation](/social/economics/principles/part-4/chapter-07c) to predict price movements from the outside looking in, or the top-down approach. This helped us to correctly predict:
@@ -70,14 +76,16 @@ Our model on the other hand, follows Smith and the Physiocrats, and uses [grain-
 
 ## The Modern Economic Table
 
-{{< youtube r8g949AxUU0 >}}
-
 This bottom-up approach is exactly what Francois Quesnay had in mind when he created [the Economic Table](/social/economics/solutions/modern-economic-table) to list the exchanges of commodities and trace their final total value or contribution to the economy. 
 
 
-{{< img src="/graphics/econ/physiocrats.gif" alt="The Economic Table" cap="The Economic Table traces the journey of productive versus unproductive labor in creating real value in an economy" >}}
+{{< youtube r8g949AxUU0 >}}
+
 
 The Modern Economic Table was invented by Francois Quesnay of the Physiocrats in the 18th century. It represents the flow of value-creation between productive and unproductive members of society. 
+
+{{< img src="/graphics/econ/physiocrats.gif" alt="The Economic Table" cap="The Economic Table traces the journey of productive versus unproductive labor in creating real value in an economy" >}}
+
 
 <!-- This system can be backpropagated in order to automate the process so that it can help visualize the map or neural network of the kinetic desire of human society. This then would allow demand to be predicted so that supply can be allocated ahead of time in order to prevent scarcity and the subsequent inequality and poverty that it creates. -->
 
@@ -100,9 +108,9 @@ The inflation in Singapore from the global food crisis is proof that a zero-agri
 /me -->
 
 
-Like Adam Smith, the Physiocrats advocated productivity instead of luxury and idleness. This is why they advocated massive investment in agriculture and extraction in order to maximize the raw material output which is the basis for further processing and manufacturing.
+Like Adam Smith, the Physiocrats advocated productivity instead of money, luxury and idleness. This is why they advocated massive investment in agriculture and extraction in order to maximize the raw material output which is the basis for further processing and manufacturing.
 
-{{< q a="Quesnay" >}}
+{{< q a="Francois Quesnay" >}}
 We do not mean the small-scale cultivation carried on with oxen. This ungrateful cultivation reveals the poverty and ruin of the Nations where it prevails. It has nothing to do with the order of the Table.
 {{< /q >}}
 
@@ -112,11 +120,8 @@ We do not mean the small-scale cultivation carried on with oxen. This ungrateful
 <!-- By using, the social cycles of Socrates, we can classify the modern economists as part of the oligarch class, and the Physiocrats as the democrat class. Adam Smith would be the aristocratic class of philosophers, while Communism would be the tyranny class which started out as the democrat class.
  -->
 
-{{< q a="Quesnay" >}}
-Maxim 7 Complete Circulation: Let the sum total of the revenues be annually returned into and along the entire course of circulation; let no money fortunes be accumulated
-Maxim 10 Revenue Expended in the Country: Let none of the revenue pass into the home of the stranger without return either in money or merchandise.
-
-Maxim 24 Balance of Money in Trade is Illusory: Let no one be deceived by an apparent advantage in reciprocal commerce with foreign countries, which is simply a balance received in money, without examining and comparing the profits that result from the merchandise one has sold and the merchandise which has been bought.
+{{< q a="Francois Quesnay" >}}
+Maxim 7 Complete Circulation: Let the sum total of the revenues be annually returned into and along the entire course of circulation; let no money fortunes be accumulated Maxim 10 Revenue Expended in the Country: Let none of the revenue pass into the home of the stranger without return either in money or merchandise. Maxim 24 Balance of Money in Trade is Illusory: Let no one be deceived by an apparent advantage in reciprocal commerce with foreign countries, which is simply a balance received in money, without examining and comparing the profits that result from the merchandise one has sold and the merchandise which has been bought.
 {{< /q >}}
 
 
@@ -150,4 +155,6 @@ This would make taxation much more convenient since it is imposed automatically.
 
 This then would allow an Investment Fund to adjust its rate of return in order to pump up underinvestments and reduce overinvestment.
 
-As you can see, Supereconomics has a lot of tools to grow an economy while preventing monopoly, inequality, and poverty that is simply unthinkable in Economics. The next post will explain the last tool, which is the DCTI.
+As you can see, Supereconomics has a lot of tools to grow an economy while preventing monopoly, inequality, and poverty that is simply unthinkable in Economics. The next post will explain the last tool, which is the DSTI.
+
+

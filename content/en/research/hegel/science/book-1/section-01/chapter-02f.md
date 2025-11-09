@@ -9,18 +9,15 @@ c: "steelblue"
 ---
 
 
+<sup>262</sup> The ought has recently played a great part in philosophy, especially in connection with morality and also in metaphysics generally, as the ultimate and absolute concept of the identity of the in-itself or self-relation, and of the determinateness or limit.
 
-§ 262
 
-The ought has recently played a great part in philosophy, especially in connection with morality and also in metaphysics generally, as the ultimate and absolute concept of the identity of the in-itself or self-relation, and of the determinateness or limit.
+<sup>263</sup> 'You can, because you ought' — this expression, which is supposed to mean a great deal, is implied in the notion of ought.
 
-§ 263
+For the ought implies that one is superior to the limitation; in it the limit is sublated and the in-itself of the ought is thus an identical self-relation, and hence the abstraction of 'can'. But conversely, it is equally correct that: 'you cannot, just because you ought.' For in the ought, the limitation as limitation is equally implied; the said formalism of possibility has, in the limitation, a reality, a qualitative otherness opposed to it and the relation of each to the other is a contradiction, and thus a 'cannot', or rather an impossibility.
 
-'You can, because you ought' — this expression, which is supposed to mean a great deal, is implied in the notion of ought. For the ought implies that one is superior to the limitation; in it the limit is sublated and the in-itself of the ought is thus an identical self-relation, and hence the abstraction of 'can'. But conversely, it is equally correct that: 'you cannot, just because you ought.' For in the ought, the limitation as limitation is equally implied; the said formalism of possibility has, in the limitation, a reality, a qualitative otherness opposed to it and the relation of each to the other is a contradiction, and thus a 'cannot', or rather an impossibility.
 
-§ 264
-
-In the Ought the transcendence of finitude, that is, infinity, begins. The ought is that which, in the further development, exhibits itself in accordance with the said impossibility as the infinity.
+<sup>264</sup> In the Ought the transcendence of finitude, that is, infinity, begins. The ought is that which, in the further development, exhibits itself in accordance with the said impossibility as the infinity.
 
 § 265
 

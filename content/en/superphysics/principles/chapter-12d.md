@@ -22,11 +22,28 @@ The problem is that:
 So science itself is negative or evil (if we associate the Negative Force with evil). 
 
 
-The cause of error in Western philosophy is the lack of spiritual technique which leads to spiritual tradition that sustains itself. 
+The cause of error in Western philosophy is the lack of samadhi among its leading philosophers.
 
-The lack of technique is from the lack of a teacher. 
+By reading what is known from Thales to Hegel, it is obvious that very few Western philosophers have had samadhi or the direct experience of the Supreme Entity. 
 
-Ths teacher in Western philosophy seemed to by Pythagoras. 
+Only the following seems to show symptoms of having experienced samadhi:
+
+1. Pythagoras
+2. Socrates
+3. Descartes
+
+Pythagoras was known to have some special power/s which support an enlightened state of mind. But these are way inferior to Asian philosophers from Patanjali to Ramakrishna and Yogananda. 
+
+
+
+For example, Yogananda's account of Sri Yukteswar's lifetrons and astra and causal realms are essential in us coming up with the 5 metaphysical layers of causal, essential, astral, subtle, and crude. 
+
+ <!-- spiritual technique which leads to spiritual tradition that sustains itself.  -->
+
+
+The lack of samadhi in the West is from the lack of technique which is from the lack of a teacher. 
+
+The main enlightened teacher in Western philosophy seemed to be Pythagoras. 
 
 Jesus only taught for 3 short years, which is useless since metaphysical skills take years and even lifetimes to develop. 
 
@@ -44,9 +61,9 @@ In contrast, there are many gurus in Asia such as:
 - PR Sarkar
 - etc
 
+Buddha was known for both an original philosophy and for having various occult powers.
 
 This is why advanced souls might choose to incarnate in India which has a relative abundnace of gurus to help advanced souls pick up where they left off in the past life. 
 
 <!-- arises from  This  imposition of universal objectivity.  -->
-
 

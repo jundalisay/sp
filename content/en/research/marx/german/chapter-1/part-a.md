@@ -23,7 +23,7 @@ A. Idealism and Materialism -->
 
 Germany has in the last few years gone through an unparalleled revolution. 
 
-The decomposition of the Hegelian philosophy began with Strauss. It has developed into a universal ferment into which all the “powers of the past” are swept.
+Strauss decomposed the Hegelian philosophy which has developed into a universal ferment into which all the “powers of the past” are swept.
 
 In the general chaos, mighty empires have arisen only to meet with immediate doom. 
 
@@ -31,7 +31,9 @@ In the general chaos, mighty empires have arisen only to meet with immediate doo
 
 It was a revolution that made the French Revolution seem like child’s play, a world struggle beside which the struggles of the Diadochi [successors of Alexander the Great] appear insignificant. 
 
-Principles ousted one another, heroes of the mind overthrew each other with unheard-of rapidity, and in the three years 1842-45 more of the past was swept away in Germany than at other times in three centuries.
+- Principles ousted one another.
+- Heroes of the mind overthrew each other rapidly
+- In the three years 1842-45 more of the past was swept away in Germany than at other times in three centuries.
 
 All this took place in the realm of pure thought.
 
@@ -39,7 +41,9 @@ The putrescence of the absolute spirit is interesting.
 
 <!-- When the last spark of its life had failed, the various components of this caput mortuum began to decompose, entered into new combinations and formed new substances. -->
 
-The industrialists of philosophy, who till then had lived on the exploitation of the absolute spirit, now seized upon the new combinations. Each with all possible zeal set about retailing his apportioned share. 
+The industrialists of philosophy till then had lived on the exploitation of the absolute spirit.
+- They now seized upon the new combinations.
+- Each wanting to retail his apportioned share. 
 
 This naturally gave rise to competition which was carried on in moderately staid bourgeois fashion.
 
@@ -58,48 +62,72 @@ Later when the German market was glutted, the business was spoiled in the usual 
 
 [In the first version of the clean copy there follows a passage, which is crossed out:] |p. 21| -->
 
-We preface therefore the specific criticism of individual representatives of this movement with a few general observations, elucidating the ideological premises common to all of them. 
+I criticize individual representatives of this movement, elucidating their common ideological premises. 
 
-These remarks will suffice to indicate the standpoint of our criticism insofar as it is required for the understanding and the motivation of the subsequent individual criticisms. We oppose these remarks to Feuerbach because he is the only one who has at least made some progress and whose works can be examined de bonne foi.
+<!-- These remarks will suffice to indicate the standpoint of our criticism insofar as it is required for the understanding and the motivation of the subsequent individual criticisms.  -->
 
-1. Ideology in General, and Especially German Philosophy
+I oppose these remarks to Feuerbach because he is the only one who has made some progress.
+
+ <!-- and whose works can be examined de bonne foi. -->
+
+
+### 1. Ideology in General, and Especially German Philosophy
 
 A. We know only a single science, the science of history. 
 
-One can look at history from two sides and divide it into the history of nature and the history of men. 
+History has 2 sides:
 
-These two sides are, however, inseparable. 
+1. The history of nature, as natural science
+2. The history of men
+
+These two sides are inseparable. 
 
 The history of nature and the history of men are dependent on each other so long as men exist. 
 
-The history of nature, called natural science, does not concern us here; but we will have to examine the history of men, since almost the whole ideology amounts either to a distorted conception of this history or to a complete abstraction from it. Ideology is itself only one of the aspects of this history.
+The ideology of the history of men is either:
+- a distorted conception of this history or
+- a complete abstraction from it. 
 
-German criticism has, right up to its latest efforts, never quitted the realm of philosophy. 
+Ideology is itself only one of the aspects of this history.
 
-The whole body of German philosophical inquiries sprung from the definite philosophical system of Hegel.
+<!-- German criticism has, right up to its latest efforts, never quitted the realm of philosophy.  -->
+
+German philosophical inquiries sprung from the definite philosophical system of Hegel.
 
 <!-- Not only in their answers but in their very questions there was a mystification.  -->
 
-This dependence on Hegel is why these modern critics have not even attempted a comprehensive criticism of the Hegelian system.
+This dependence on Hegel is why these modern critics have not criticized the Hegelian system.
 <!-- , however much each professes to have advanced beyond Hegel.  -->
 
-Their polemics against Hegel and against one another are confined to this – each extracts one side of the Hegelian system and turns this against the whole system as well as against the sides extracted by the others. 
+<!-- Their polemics against Hegel and against one another are confined to this – -->
 
-To begin with they extracted pure unfalsified Hegelian categories such as “substance” and “self-consciousness,” later they desecrated these categories with more secular names such as species “the Unique,” “Man,” etc.
+Each critique of the Hegelian system and turns his side against:
+- the whole system
+- against the sides extracted by the others. 
+
+They extracted pure unfalsified Hegelian categories such as “substance” and “self-consciousness”.
+
+Then they desecrated these categories with more secular names such as species “the Unique,” “Man,” etc.
 
 <!-- The entire body of German philosophical criticism from Strauss to Stirner is confined to criticism of religious conceptions. [The following passage is crossed out in the manuscript:] claiming to be the absolute redeemer of the world from all evil.  -->
 
-Religion was continually regarded and treated as the archenemy, as the ultimate cause of all relations repugnant to these philosophers.
+Religion was treated as the arch-enemy.
 
-The critics started from real religion and actual theology. What religious consciousness and a religious conception really meant was determined variously as they went along. 
+ <!-- as the ultimate cause of all relations repugnant to these philosophers. -->
 
-Their advance consisted in subsuming the allegedly dominant metaphysical, political, juridical, moral and other conceptions under the class of religious or theological conceptions; and similarly in pronouncing political, juridical, moral consciousness as religious or theological, and the political, juridical, moral man – “man” in the last resort – as religious.
+<!-- The critics started from real religion and actual theology. 
+
+What religious consciousness and a religious conception really meant was determined variously as they went along. 
+
+Their advance consisted in subsuming the allegedly dominant metaphysical, political, juridical, moral and other conceptions under the class of religious or theological conceptions; and similarly in pronouncing political, juridical, moral consciousness as religious or theological, and the political, juridical, moral man – “man” in the last resort – as religious. -->
 
 The dominance of religion was taken for granted. 
 
-Gradually every dominant relationship was pronounced a religious relationship and transformed into a cult, a cult of law, a cult of the State, etc. On all sides it was only a question of dogmas and belief in dogmas. 
+Gradually every dominant relationship was pronounced a religious relationship and transformed into a cult, a cult of law, a cult of the State, etc.
 
-The world was sanctified to an ever-increasing extent till at last our venerable Saint Max was able to canonise it en bloc and thus dispose of it once for all.
+On all sides it was only a question of dogmas and belief in dogmas. 
+
+<!-- The world was sanctified to an ever-increasing extent till at last our venerable Saint Max was able to canonise it en bloc and thus dispose of it once for all. -->
 
 The Old Hegelians had comprehended everything as soon as it was reduced to an Hegelian logical category.
 
@@ -128,21 +156,24 @@ According to their fantasy, the following are products of consciousness:
 - their bonds
 - their limitations 
 
+The Young Hegelians logically remove human limitations by imposing the moral postulate of exchanging their present consciousness for human, critical or egoistic consciousness. 
 
+This demand to change consciousness is really interpreting reality in another way.
 
-The Young Hegelians logically put to men the moral postulate of exchanging their present consciousness for human, critical or egoistic consciousness, and thus of removing their limitations. 
+<!-- , i.e. to recognise it by means of another interpretation.  -->
 
-This demand to change consciousness amounts to a demand to interpret reality in another way, i.e. to recognise it by means of another interpretation. 
+The Young-Hegelian ideologists have made “world-shattering" statements. 
 
-The Young-Hegelian ideologists have made “world-shattering" statements. In reality, they are the staunchest conservatives. 
+In reality, they are the staunchest conservatives. 
 
-The most recent of them have found the correct expression for their activity when they declare they are only fighting against “phrases.” 
+They declare that they are only fighting against “phrases.” 
+
+  <!-- most recent of them have found the correct expression for their activity when they declare  -->
 
 They forget, however, that to these phrases they themselves are only opposing other phrases, and that they are in no way combating the real existing world when they are merely combating the phrases of this world.
 
-The only results which this philosophic criticism could achieve were a few (and at that thoroughly one-sided) elucidations of Christianity from the point of view of religious history; all the rest of their assertions are only further embellishments of their claim to have furnished, in these unimportant elucidations, discoveries of universal importance.
+The only results which this philosophic criticism could achieve were a few (and at that thoroughly one-sided) elucidations of Christianity from the point of view of religious history.
+
+All the rest of their assertions are only further embellishments of their claim to have furnished, in these unimportant elucidations, discoveries of universal importance.
 
 It has not occurred to any one of these philosophers to inquire into the connection of German philosophy with German reality, the relation of their criticism to their own material surroundings.
-
-
-

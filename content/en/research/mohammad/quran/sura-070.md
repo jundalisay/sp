@@ -13,9 +13,9 @@ The disbelievers cannot repel it.
 <!-- Enki, Lord of the Ways of Ascent. -->
 The angels and the Spirit ascend to Enki on a Day lasting 50,000 years. {{< s v="4" >}} So be graciously patient. 
 
-6. They see it not coming soon. But We see it as coming very soon. 
+<sup>6</sup> They see it not coming soon. But We see it as coming very soon. 
 
-8. On that Day:
+<sup>8</sup> On that Day:
 - the sky will be like molten brass.{{< s v="9" >}} 
 - the mountains will be like tufted wool.{{< s v="10" >}}  
 - No friend will care about his friend. They will be shown each other.
@@ -55,8 +55,7 @@ No one is safe from their Lord’s punishment except for:
 
 <sup>39</sup> No! They will be replaced with people better than they. 
 
-42.  So leave them to converse vainly and amuse themselves until
-they meet their Day. 
+<sup>42</sup> So leave them to converse vainly and amuse themselves until they meet their Day. 
 
 <!-- 43. The Day when they will emerge from the
 tombs in a rush, as though they were hurry-

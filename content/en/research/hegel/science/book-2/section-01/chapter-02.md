@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2
 title: "The Essentialities or Determinations of Reflection"
-weight: 8
+weight: 28
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel
 icon: "Hegel"

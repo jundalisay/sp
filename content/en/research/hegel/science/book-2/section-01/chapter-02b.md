@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2b
 title: "What is Identity?"
-weight: 10
+weight: 30
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel
 icon: "Hegel"
@@ -10,10 +10,7 @@ c: "steelblue"
 
 {{< n n="We replace 'being' with existence and 'instance' with time." >}}
 
-
-§ 869
-
-1. Essence is simple time as sublated time.
+<sup>869</sup> 1. Essence is simple time as sublated time.
 
 Its negativity is its existence. It is self-equal in its absolute negativity.
 
@@ -22,9 +19,7 @@ Through this absolute negativity otherness and relation-to-other has vanished in
 Essence is therefore simple identity with self.
 
 
-§ 870
-
-2. This identity-with-self is the time of reflection.
+<sup>870</sup> 2. This identity-with-self is the time of reflection.
 
 This identity-with-self is not that equality-with-self that is either existence or nothing. 
 
@@ -44,9 +39,7 @@ On the contrary, existence and every identification of existence  has sublated i
 
 ## Remark 1: Abstract Identity
 
-§ 871
-
-The kind of thinking that does only external reflection fails to grasp identity or essence, which is the same thing. 
+<sup>871</sup> The kind of thinking that does only external reflection fails to grasp identity or essence, which is the same thing. 
 - Such thinking always has only abstract identity, and difference, alongside it.
 
 In its opinion, reason is just a loom on which it externally interweaves:
@@ -62,43 +55,60 @@ The Notion of identity, that it is simple self-related negativity, is not a prod
 Whereas, on the contrary, that identity that is aloof from difference, and difference that is aloof from identity, are products of external reflection and abstraction, which arbitrarily clings to this point of indifferent difference.
 
 
-§ 872
+<sup>872</sup> 2. This identity is, in the first instance, essence itself, not yet a determination of it, reflection in its entirety, not a distinct moment of it.
 
-2. This identity is, in the first instance, essence itself, not yet a determination of it, reflection in its entirety, not a distinct moment of it. As absolute negation it is the negation that immediately negates itself, a non-being and difference that vanishes in its arising, or a distinguishing by which nothing is distinguished, but which immediately collapses within itself. The distinguishing is the positing of non-being as non-being of the other. But the non-being of the other is sublation of the other and therewith of the distinguishing itself. Here, then, distinguishing is present as self-related negativity, as a non-being which is the non-being of itself, a non-being which has its non-being not in another but in its own self. What is present, therefore, is self-related, reflected difference, or pure, absolute difference.
+As absolute negation it is the negation that immediately negates itself, a non-being and difference that vanishes in its arising, or a distinguishing by which nothing is distinguished, but which immediately collapses within itself. 
 
-§ 873
+The distinguishing is the positing of non-being as non-being of the other. But the non-being of the other is sublation of the other and therewith of the distinguishing itself. Here, then, distinguishing is present as self-related negativity, as a non-being which is the non-being of itself, a non-being which has its non-being not in another but in its own self. What is present, therefore, is self-related, reflected difference, or pure, absolute difference.
 
-In other words, identity is the reflection-into-self that is identity only as internal repulsion, and is this repulsion as reflection-into-self, repulsion which immediately takes itself back into itself. Thus it is identity as difference that is identical with itself. But difference is only identical with itself in so far as it is not identity but absolute non-identity. But non-identity is absolute in so far as it contains nothing of its other but only itself, that is, in so far as it is absolute identity with itself.
 
-§ 874
+<sup>873</sup> In other words, identity is the reflection-into-self that is identity only as internal repulsion, and is this repulsion as reflection-into-self, repulsion which immediately takes itself back into itself. 
 
-Identity, therefore, is in its own self absolute non-identity. But it is also the determination of identity as against non-identity. For as reflection-into-self it posits itself as its own non-being; it is the whole, but, as reflection, it posits itself as its own moment, as positedness, from which it is the return into itself. It is only as such moment of itself that it is identity as such, as determination of simple equality with itself in contrast to absolute difference.
+Thus it is identity as difference that is identical with itself. But difference is only identical with itself in so far as it is not identity but absolute non-identity. But non-identity is absolute in so far as it contains nothing of its other but only itself, that is, in so far as it is absolute identity with itself.
+
+
+<sup>874</sup> Identity, therefore, is in its own self absolute non-identity. But it is also the determination of identity as against non-identity.
+
+For as reflection-into-self it posits itself as its own non-being; it is the whole, but, as reflection, it posits itself as its own moment, as positedness, from which it is the return into itself. It is only as such moment of itself that it is identity as such, as determination of simple equality with itself in contrast to absolute difference.
 
 
 Remark 2: First Original Law of Thought
 
-§ 875
 
-In this remark, I will consider in more detail identity as the law of identity which is usually adduced as the first law of thought.
+<sup>875</sup> In this remark, I will consider in more detail identity as the law of identity which is usually adduced as the first law of thought.
 
-This proposition in its positive expression A = A is, in the first instance, nothing more than the expression of an empty tautology. It has therefore been rightly remarked that this law of thought has no content and leads no further. It is thus the empty identity that is rigidly adhered to by those who take it, as such, to be something true and are given to saying that identity is not difference, but that identity and difference are different. They do not see that in this very assertion they are themselves saying that identity is different; for they are saying that identity is different from difference; since this must at the same time be admitted to be the nature of identity, their assertion implies that identity, not externally, but in its own self, in its very nature, is this, to be different.
+This proposition in its positive expression A = A is, in the first instance, nothing more than the expression of an empty tautology. 
 
-§ 876
+It has therefore been rightly remarked that this law of thought has no content and leads no further. It is thus the empty identity that is rigidly adhered to by those who take it, as such, to be something true and are given to saying that identity is not difference, but that identity and difference are different.
 
-But further, they do not see that, by clinging to this unmoved identity which has its opposite in difference, they thereby convert it into a one-sided determinateness which, as such, has no truth. It is admitted that the law of identity expresses only a one-sided determinatedness, that it contains only formal truth, a truth which is abstract, incomplete. In this correct judgement, however, it is immediately implied that truth is complete only in the unity of identity with difference, and hence consists only in this unity. When asserting that this identity is imperfect, the perfection one has vaguely in mind is this totality, measured against which the identity is imperfect; but since, on the other hand, identity is rigidly held to be absolutely separate from difference and in this separation is taken to be something essential, valid, true, then the only thing to be seen in these conflicting assertions is the failure to bring together these thoughts, namely, that identity as abstract identity is essential, and that as such it is equally imperfect: the lack of awareness of the negative movement which, in these assertions, identity itself is represented to be. Or, when it is said that identity is essential identity as separation from difference, or in the separation from difference, then this is directly the expressed truth about it, namely, that identity consists in being separation as such, or in being essential in separation, that is, it is nothing for itself but is a moment of separation.
-
-§ 877
-
-Now as regards other confirmation of the absolute truth of the law of identity, this is based on experience in so far as appeal is made to the experience of every consciousness; for anyone to whom this proposition A = A, a tree is a tree, is made, immediately admits it and is satisfied that the proposition as immediately self-evident requires no further confirmation or proof.
-
-§ 878
-
-On the one hand, this appeal to experience, that the proposition is universally admitted by everyone, is a mere manner of speaking. For it is not pretended that the experiment with the abstract proposition A = A has been made on every consciousness. The appeal, then, to actually carried-out experiment is not to be taken seriously; it is only the assurance that if the experiment were made, the proposition would be universally admitted. But if what were meant were not the abstract proposition as such, but its concrete application from which the former were supposed first to be developed, then the assertion of its universality and immediacy would consist in the fact that every consciousness would treat it as fundamental, even in every utterance it made, or that it lies implicitly in every utterance. But the concrete and the application are, in fact, precisely the connection of the simple identical with a manifold that is different from it. Expressed as a proposition, the concrete would at first be a synthetic proposition. From the concrete itself or its synthetic proposition, abstraction could indeed extract by analysis the proposition of identity; but then, in fact, it would not have left experience as it is, but altered it; for the fact is that experience contains identity in unity with difference and is the immediate refutation of the assertion that abstract identity as such is something true, for the exact opposite, namely, identity only in union with difference, occurs in every experience.
+They do not see that in this very assertion they are themselves saying that identity is different; for they are saying that identity is different from difference; since this must at the same time be admitted to be the nature of identity, their assertion implies that identity, not externally, but in its own self, in its very nature, is this, to be different.
 
 
-§ 879
+<sup>876</sup> But further, they do not see that, by clinging to this unmoved identity which has its opposite in difference, they thereby convert it into a one-sided determinateness which, as such, has no truth. 
 
-On the other hand, the experiment with the pure law of identity is made only too often, and it is shown clearly enough in this experiment what is thought of the truth it contains. 
+It is admitted that the law of identity expresses only a one-sided determinatedness, that it contains only formal truth, a truth which is abstract, incomplete.
+
+In this correct judgement, however, it is immediately implied that truth is complete only in the unity of identity with difference, and hence consists only in this unity. When asserting that this identity is imperfect, the perfection one has vaguely in mind is this totality, measured against which the identity is imperfect.
+
+But since, on the other hand, identity is rigidly held to be absolutely separate from difference and in this separation is taken to be something essential, valid, true, then the only thing to be seen in these conflicting assertions is the failure to bring together these thoughts, namely, that identity as abstract identity is essential, and that as such it is equally imperfect: 
+
+The lack of awareness of the negative movement which, in these assertions, identity itself is represented to be. Or, when it is said that identity is essential identity as separation from difference, or in the separation from difference, then this is directly the expressed truth about it, namely, that identity consists in being separation as such, or in being essential in separation, that is, it is nothing for itself but is a moment of separation.
+
+<sup>877</sup> Now as regards other confirmation of the absolute truth of the law of identity, this is based on experience in so far as appeal is made to the experience of every consciousness; for anyone to whom this proposition A = A, a tree is a tree, is made, immediately admits it and is satisfied that the proposition as immediately self-evident requires no further confirmation or proof.
+
+
+<sup>878</sup> On the one hand, this appeal to experience, that the proposition is universally admitted by everyone, is a mere manner of speaking.
+
+For it is not pretended that the experiment with the abstract proposition A = A has been made on every consciousness. The appeal, then, to actually carried-out experiment is not to be taken seriously; it is only the assurance that if the experiment were made, the proposition would be universally admitted. 
+
+But if what were meant were not the abstract proposition as such, but its concrete application from which the former were supposed first to be developed, then the assertion of its universality and immediacy would consist in the fact that every consciousness would treat it as fundamental, even in every utterance it made, or that it lies implicitly in every utterance. 
+
+But the concrete and the application are, in fact, precisely the connection of the simple identical with a manifold that is different from it. Expressed as a proposition, the concrete would at first be a synthetic proposition. 
+
+From the concrete itself or its synthetic proposition, abstraction could indeed extract by analysis the proposition of identity; but then, in fact, it would not have left experience as it is, but altered it; for the fact is that experience contains identity in unity with difference and is the immediate refutation of the assertion that abstract identity as such is something true, for the exact opposite, namely, identity only in union with difference, occurs in every experience.
+
+
+<sup>879</sup> On the other hand, the experiment with the pure law of identity is made only too often, and it is shown clearly enough in this experiment what is thought of the truth it contains. 
 
 Ask: "What is a plant?"
 
@@ -115,26 +125,35 @@ If the answer is "God is God", then expectation is cheated.
 Such as answer is very lightly esteemed. An answer that merely reiterates the same thing is most boring and tedious.
 
 
+<sup>880</sup> Looking more closely at this tedious effect produced by such truth, we see that the beginning, 'The plant is—,' sets out to say something, to bring forward a further determination. But since only the same thing is repeated, the opposite has happened, nothing has emerged. Such identical talk therefore contradicts itself. 
 
-§ 880
+Identity, instead of being in its own self truth and absolute truth, is consequently the very opposite; instead of being the unmoved simple, it is the passage beyond itself into the dissolution of itself.
 
-Looking more closely at this tedious effect produced by such truth, we see that the beginning, 'The plant is—,' sets out to say something, to bring forward a further determination. But since only the same thing is repeated, the opposite has happened, nothing has emerged. Such identical talk therefore contradicts itself. Identity, instead of being in its own self truth and absolute truth, is consequently the very opposite; instead of being the unmoved simple, it is the passage beyond itself into the dissolution of itself.
 
-§ 881
+<sup>881</sup> In the form of the proposition, therefore, in which identity is expressed, there lies more than simple, abstract identity.
 
-In the form of the proposition, therefore, in which identity is expressed, there lies more than simple, abstract identity; in it, there lies this pure movement of reflection in which the other appears only as illusory being, as an immediate vanishing; A is is a beginning that hints at something different to which an advance is to be made; but this different something does not materialise; A is—A; the difference is only a vanishing; the movement returns into itself. The prepositional form can be regarded as the hidden necessity of adding to abstract identity the more of that movement. And so an A, or a plant, or some other kind of substrate, too, is added which, as a useless content, is of no significance; but it constitutes the difference which seems to be accidentally associated with it. If instead of A or any other substrate, identity itself is taken — identity is identity — then equally it is admitted that also in its place any other substrate could be taken. Consequently, if the appeal is to be made to what experience shows, then it shows that this identity is nothing, that it is negativity, the absolute difference from itself.
+In it, there lies this pure movement of reflection in which the other appears only as illusory being, as an immediate vanishing; A is is a beginning that hints at something different to which an advance is to be made; but this different something does not materialise; A is—A; the difference is only a vanishing; the movement returns into itself. 
 
-§ 882
+The prepositional form can be regarded as the hidden necessity of adding to abstract identity the more of that movement. 
 
-The other expression of the law of identity: A cannot at the same time be A and not-A, has a negative form; it is called the law of contradiction. Usually no justification is given of how the form of negation by which this law is distinguished from its predecessor, comes to identity. But this form is implied in the fact that identity, as the pure movement of reflection, is simple negativity which contains in more developed form the second expression of the law just quoted. A is enunciated, and a not-A, the pure other of A; but it only shows itself in order to vanish. In this proposition, therefore, identity is expressed-as negation of the negation. A and not-A are distinguished, and these distinct terms are related to one and the same A. Identity, therefore, is here represented as this distinguishedness in one relation or as simple difference in the terms themselves.
+And so an A, or a plant, or some other kind of substrate, too, is added which, as a useless content, is of no significance; but it constitutes the difference which seems to be accidentally associated with it. If instead of A or any other substrate, identity itself is taken — identity is identity — then equally it is admitted that also in its place any other substrate could be taken.
 
-§ 883
+Consequently, if the appeal is to be made to what experience shows, then it shows that this identity is nothing, that it is negativity, the absolute difference from itself.
 
-From this it is evident that the law of identity itself, and still more the law of contradiction, is not merely of analytic but of synthetic nature. For the latter contains in its expression not merely empty, simple equality-with-self, and not merely the other of this in general, but, what is more, absolute inequality, contradiction per se. But as has been shown, the law of identity itself contains the movement of reflection, identity as a vanishing of otherness.
+<sup>882</sup> The other expression of the law of identity: A cannot at the same time be A and not-A, has a negative form; it is called the law of contradiction.
 
-§ 884
+Usually no justification is given of how the form of negation by which this law is distinguished from its predecessor, comes to identity.
 
-What emerges from this consideration is, therefore, first, that the law of identity or of contradiction which purports to express merely abstract identity in contrast to difference as a truth, is not a law of thought, but rather the opposite of it; secondly, that these laws contain more than is meant by them, to wit, this opposite, absolute difference itself.
+But this form is implied in the fact that identity, as the pure movement of reflection, is simple negativity which contains in more developed form the second expression of the law just quoted. 
+
+A is enunciated, and a not-A, the pure other of A; but it only shows itself in order to vanish. In this proposition, therefore, identity is expressed-as negation of the negation. A and not-A are distinguished, and these distinct terms are related to one and the same A. Identity, therefore, is here represented as this distinguishedness in one relation or as simple difference in the terms themselves.
+
+<sup>883</sup> From this it is evident that the law of identity itself, and still more the law of contradiction, is not merely of analytic but of synthetic nature. For the latter contains in its expression not merely empty, simple equality-with-self, and not merely the other of this in general, but, what is more, absolute inequality, contradiction per se. 
+
+But as has been shown, the law of identity itself contains the movement of reflection, identity as a vanishing of otherness.
+
+
+<sup>884</sup> What emerges from this consideration is, therefore, first, that the law of identity or of contradiction which purports to express merely abstract identity in contrast to difference as a truth, is not a law of thought, but rather the opposite of it; secondly, that these laws contain more than is meant by them, to wit, this opposite, absolute difference itself.
 
 B. DIFFERENCE
 (a) Absolute Difference

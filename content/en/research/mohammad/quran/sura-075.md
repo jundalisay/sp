@@ -73,4 +73,3 @@ Where is the escape?
 <sup>38</sup> Then he became a clot. He created and proportioned? <sup>39</sup> and made of him the two sexes, the male and the female?
 
 <sup>40</sup> Is He not Able to revive the dead?
-

@@ -96,9 +96,10 @@ We used to indulge with those who indulge.
 
 Yet every one of them desires to be given scrolls unrolled.
 
+<sup>53</sup> No indeed! But they do not fear the Hereafter.
 
-53. No indeed! But they do not fear the Hereafter.
 
-54. Nevertheless, it is a reminder.
+<!-- 54. Nevertheless, it is a reminder.
 
 55. So whoever wills, shall remember it.
+ -->

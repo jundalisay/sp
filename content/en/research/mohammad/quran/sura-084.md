@@ -13,7 +13,8 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 O mankind! You are laboring towards your Lord, and you will meet Him.
 
-7. He who is given his book in his right hand, he will be judged with an easy account.
+
+<sup>7</sup> He who is given his book in his right hand, he will be judged with an easy account.
 
 {{< s v="9" >}}  And will return to his family delighted.
 
@@ -34,14 +35,15 @@ He:
 
 I swear that you will experience this stage after stage. 
 
-20. So why do they not:
+<sup>20</sup> So why do they not:
 - believe when the QurÕŒn is recited to them and
 - prostrate to Enki?
 
 <!-- 22. The disbelievers deny,
 23. And AllŒh is most knowing of what they keep within themselves. -->
 
-24. So give them tidings of a painful punishment,
+<sup>24</sup> So give them tidings of a painful punishment
+
 <!-- 25. Except for those who believe and do righteous deeds. For them
 is a reward uninterrupted.
  -->
