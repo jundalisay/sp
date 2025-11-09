@@ -8,30 +8,35 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 
 
-45. When you read the Quran, We place between you and those who do not believe in
-the Hereafter an invisible barrier.
+<sup>45</sup> When you read the Quran, We place between you and those who do not believe in the Hereafter an invisible barrier.
 
-46. And We drape veils over their hearts, preventing them from understanding it, and
-heaviness in their ears. And when you mention your Lord alone in the Quran, they turn
-their backs in aversion.
+<sup>46</sup> We drape veils over their hearts, preventing them from understanding it, and heaviness in their ears. And when you mention your Lord alone in the Quran, they turn their backs in aversion.
 
-47. We know well what they listen to, when they listen to you, as they conspire, when the
-wrongdoers say, “You only follow a man bewitched.”
+<sup>47</sup> We know well what they listen to, when they listen to you, as they conspire, when the wrongdoers say, “You only follow a man bewitched.”
 
-48. Note what they compared you to. They are lost, and unable to find a way.
+<sup>48</sup> Note what they compared you to. They are lost, and unable to find a way.
 
-49. And they say, “When we have become bones and fragments, shall we really be resurrected as a new creation?”
+<sup>49</sup> They say, “When we have become bones and fragments, shall we really be resurrected as a new creation?”
 
-50. Say, “Even if you become rocks or iron. some substance, which, in your minds, is even harder.” Then they will say, “Who will
-restore us?” Say, “The One who originated you the first time.” Then they will nod their heads at you, and say, “When will it be?” Say, “Perhaps it will be soon.”
+<sup>50</sup> Say:
 
-52. On the Day when He calls you, you will respond with His praise, and you will realize
-that you stayed only a little.
+“Even if you become rocks or iron. some substance, which, in your minds, is even harder.” 
 
-53. Tell My servants to say what is best. Satan sows discord among them. Satan is to man an open enemy.
+Then they will say:
 
-54. Your Lord knows you best. If He wills, He will have mercy on you; and if He wills, He
-will punish you. We did not send you as their advocate.
+“Who will restore us?”
+
+Say:
+
+“The One who originated you the first time.” Then they will nod their heads at you, and say, “When will it be?” 
+
+Say, “Perhaps it will be soon.”
+
+<sup>52</sup> On the Day when He calls you, you will respond with His praise, and you will realize that you stayed only a little.
+
+<sup>53</sup> Tell My servants to say what is best. Satan sows discord among them. Satan is to man an open enemy.
+
+<sup>54</sup> Your Lord knows you best. If He wills, He will have mercy on you; and if He wills, He will punish you. We did not send you as their advocate.
 
 55. Your Lord knows well everyone in the heavens and the earth. We have given some prophets advantage over others; and to David
 We gave the Psalms.

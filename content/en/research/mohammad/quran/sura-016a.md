@@ -9,48 +9,50 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="1" >}}  The command of Enki has come, so do not rush it. <!-- Glory be to Him; exalted above what they associate. -->
 
-<!-- {{< s v="2" >}}  He sends down the angels with the Spirit by His command, upon whom He wills of His servants: “Give warning that there is no god but Me, and fear Me.”
+{{< s v="2-3" >}}  He sends down the angels with the Spirit by His command, upon whom He wills of His servants: 
 
-{{< s v="3" >}}  He created the heavens and the earth with justice. He is exalted above the associations
+“Give warning that there is no god but Me, and fear Me.”
+
+<!-- {{< s v="3" >}}  He created the heavens and the earth with justice. He is exalted above the associations
 they attribute. -->
 
 {{< s v="4" >}}  He created the human being from a drop of fluid, yet he becomes an open adversary.
 
-{{< s v="5" >}}  He created the livestock for you. They;
+{{< s v="5" >}}  He created the livestock for you. They:
 - give you warmth and benefits
 - are eaten by you
-- have beauty for you when you bring them home and drive them to pasture.
-- carry your loads to territory you could not have reached without great hardship. 
+- <sup>6</sup> have beauty for you when you bring them home and drive them to pasture.
+- <sup>7</sup> carry your loads to territory you could not have reached without great hardship. 
 
-You ride and use for luxury the horses, mules, and the donkeys. He creates what you do not know.
+<sup>8</sup> You ride and use for luxury the horses, mules, and the donkeys. He creates what you do not know.
 
-<!-- {{< s v="9" >}}  It is for Enki to point out the paths, but some of them are flawed. Had He willed, He
-could have guided you all.
+{{< s v="9" >}}  It is for Enki to point out the paths, but some of them are flawed. Had He willed, He could have guided you all.
 
-{{< s v="10" >}}  It is He Who sends down for you from the sky water. From it is drink, and with it grows
-vegetation for grazing.
+{{< s v="10" >}}  It is He Who sends down for you from the sky water. From it is drink, and with it grows vegetation for grazing.
 
-{{< s v="11" >}} He produces for you grains with it, and olives, and date-palms, and grapes, and all kinds of fruits. Surely in that is a sign for
-people who think.
-12. And He regulated for you the night and the
-day; and the sun, and the moon, and the stars
-are disposed by His command. Surely in that
-are signs for people who ponder.
-13. And whatsoever He created for you on
-earth is of diverse colors. Surely in that is a
-sign for people who are mindful. -->
 
-14. He made the sea to serve you, so that you may eat from it tender meat, and extract from it ornaments that you wear. 
+{{< s v="11" >}} He produces for you grains with it, and olives, and date-palms, and grapes, and all kinds of fruits. 
+
+<!-- Surely in that is a sign for people who think. -->
+
+<sup>12</sup> He regulated for you the night and the day; and the sun, and the moon, and the stars
+are disposed by His command. 
+
+<!-- Surely in that
+are signs for people who ponder. -->
+
+<sup>13</sup> Whatsoever He created for you on earth is of diverse colors. 
+
+<!-- Surely in that is a sign for people who are mindful. --> -->
+
+<sup>14</sup> He made the sea to serve you, so that you may eat from it tender meat, and extract from it ornaments that you wear. 
 
 You see the ships plowing through it, as you seek His bounties, so that you may give
 thanks.
 
-15. And he cast mountains on the earth, lest it
-shifts with you; and rivers, and roads, so that
-you may be guided.
+<sup>15</sup> He cast mountains on the earth, lest it shifts with you; and rivers, and roads, so that you may be guided.
 
-{{< s v="16" >}}And landmarks. And by the stars they
-guide themselves.
+{{< s v="16" >}} He cast landmarks and by the stars they guide themselves.
 
 <!-- 17. Is He who creates like him who does not
 create? Will you not take a lesson?
@@ -125,7 +127,7 @@ their own souls. -->
 <!-- 34. So the evils of their deeds assailed them,
 and what they used to ridicule engulfed them. -->
 
-35. The idolaters say, “Had Enki willed, we would not have worshiped anything besides
+<sup>35</sup> The idolaters say, “Had Enki willed, we would not have worshiped anything besides
 Him, neither us, nor our ancestors, nor would we have prohibited anything besides
 His prohibitions.” 
 
@@ -133,38 +135,23 @@ Those before them did likewise.
 
 Are the messengers responsible for anything but clear communication?
 
-36. To every community We sent a messenger: “Worship Enki, and avoid idolatry.” Some of
-them Enki guided, while others deserved
-misguidance. So travel through the earth, and
-see what the fate of the deniers was.
+<sup>36</sup> To every community We sent a messenger: “Worship Enki, and avoid idolatry.” Some of them Enki guided, while others deserved misguidance. So travel through the earth, and see what the fate of the deniers was.
 
-37. Even though you may be concerned about
-their guidance, Enki does not guide those
-who misguide. And they will have no saviors.
-38. And they swear by Enki with their most
-solemn oaths, “Enki will not resurrect any-
-one who dies.” Yes indeed, it is a promise
-binding on Him, but most people do not
-know.
+<sup>37</sup> Even though you may be concerned about their guidance, Enki does not guide those who misguide. And they will have no saviors. 
 
-39. To clarify for them what they differed
-about, and for the faithless to know that they
-were liars.
+<sup>38</sup> They swear by Enki with their most solemn oaths, “Enki will not resurrect anyone who dies.” 
 
-40. When We intend for something to happen,
-We say to it, “Be,” and it becomes.
+Yes indeed, it is a promise binding on Him, but most people do not know.
 
-41. Those who emigrate for Enki’s sake after
-being persecuted, We will settle them in a
-good place in this world; but the reward of
-the Hereafter is greater, if they only knew.
+<sup>39</sup> To clarify for them what they differed about, and for the faithless to know that they were liars.
 
-42. Those who endure patiently, and in their
-Lord they put their trust.
+<sup>40</sup> When We intend for something to happen, We say to it, “Be,” and it becomes.
 
-43. We did not send before you except men
-whom We inspired. So ask the people of
-knowledge, if you do not know.
+<sup>41</sup> Those who emigrate for Enki’s sake after being persecuted, We will settle them in a good place in this world; but the reward of the Hereafter is greater, if they only knew.
+
+<sup>42</sup> Those who endure patiently, and in their Lord they put their trust.
+
+<sup>43-55</sup> We did not send before you except men whom We inspired. So ask the people of knowledge, if you do not know.
 
 <!-- 44. With the clarifications and the scriptures.
 And We revealed to you the Reminder, that
@@ -208,18 +195,18 @@ of you associate others with their Lord.
 given them. Enjoy yourselves. You will soon
 know. -->
 
-56. The idolaters allocate, to something they do not know, a share of what We have provided
-for them. 
 
-By Enki, you will be questioned
-about what you have been inventing.
+<sup>56</sup> The idolaters allocate, to something they do not know, a share of what We have provided for them. 
 
-57. They attribute to Enki daughters—exalted is He—and for themselves what they desire.
+By Enki, you will be questioned about what you have been inventing.
 
-58. And when one of them is given news of a female infant, his face darkens, and he chokes with grief.
+<sup>57</sup> They attribute to Enki daughters—exalted is He—and for themselves what they desire.
 
-59. He hides from the people because of the bad news given to him. Shall he keep it in humiliation, or bury it in the dust? Evil is the
-decision they make.
+<sup>58</sup> When one of them is given news of a female infant, his face darkens, and he chokes with grief.
+
+<sup>59</sup> He hides from the people because of the bad news given to him. Shall he keep it in humiliation, or bury it in the dust? 
+
+<!-- Evil is the decision they make. -->
 
 
 <!-- 60. Those who do not believe in the Hereafter
@@ -252,107 +239,4 @@ guidance and mercy for people who believe.
 65. Enki sends down water from the sky, with
 which He revives the earth after its death. In
 this is a sign for people who listen. -->
-
-66. And there is a lesson for you in cattle: 
-
-We give you a drink from their bellies, from between waste and blood, pure milk, refreshing
-to the drinkers.
-
-67. And from the fruits of date-palms and grapevines, you derive sugar and wholesome
-food. In this is a sign for people who understand.
-
-68. And your Lord inspired the bee: “Set up hives in the mountains, and in the trees, andin what they construct.”
-
-69. Then eat of all the fruits, and go along the pathways of your Lord, with precision. 
-
-From their bellies emerges a fluid of diverse colors, containing healing for the people. Surely in this is a sign for people who reflect.
-
-<!-- 70. Enki created you; then He takes you away.
-Some of you will be brought back to the worst
-age, so that he will no longer know anything, -->
-
-
-
-after having acquired knowledge. Enki is
-Omniscient and Omnipotent.
-71. Enki has favored some of you over others
-in livelihood. Those who are favored would
-not give their properties to their servants, to
-the extent of making them partners in it. Will
-they then renounce Enki’s blessings?
-
-<!-- 72. Enki has given you mates from among yourselves; and has produced for you, from
-your mates, children and grandchildren; and has provided you with good things. 
-
-73. And yet they serve besides Enki what possesses no provisions for them in the heavens,
-nor on earth, nor are they capable.
-
-74. So do not cite the examples for Enki. Enki
-knows, and you do not know. -->
-
-75. Enki cites the example of:
-- a bonded slave who has no power over anything and
-- someone to whom We have given plentiful provision, from which he gives secretly and
-openly. 
-
-Are they equal in comparison? 
-
-76. Enki cites the example of 2 men:
-- one of them dumb, unable to do anything, and is a burden on his master, achieving nothing good. 
-- another commands justice, and is on a straight path. 
-
-They are not equal. 
-
-<!-- 77. To Enki belongs the unseen of the heavens
-and the earth. The coming of the Hour is only
-as the twinkling of the eye, or even nearer. Al-
-lah has power over everything. -->
-
-<!-- 78. Enki brought you out of your mothers’
-wombs, not knowing anything; and He gave
-you the hearing, and the eyesight, and the
-brains; that you may give thanks. -->
-
-79. Have they not seen the birds, flying in the midst of the sky? None sustains them except
-Enki. In this are signs for people who believe.
-
-80. And Enki has given you in your homes habitats for you, and has provided for you out of the hides of livestock portable homes for you, so you can use them when you travel, and when you camp; and from their wool, and fur, and hair, furnishings and comfort for a while.
-
-<!-- 81. Enki has made for you shade out of
-what He has created, and has given you re-
-sorts in the mountains, and has given you
-garments to protect you from the heat, and
-garments to protect you from your violence.
-Thus He completes His blessings upon you,
-so that you may submit. -->
-
-82. But if they turn away, your only duty is clear communication.
-
-83. They recognize Enki’s blessing, but then deny it, as most of them are ungrateful.
-
-84. On the Day when We raise up a witness from every community—those who disbelieved will not be permitted, nor will they be
-excused.
-
-85. When those who did wrong see the punishment, it will not be lightened for them, nor
-will they be reprieved.
-
-86. And when the idolaters see their associates, they will say, “Our Lord, these are our associ-
-ates whom we used to invoke besides You.”
-
-They will strike back at them with the saying,
-“Surely you are liars.”
-
-87. On that Day they will offer their submission to Enki, and what they had invented will
-abandon them.
-
-88. Those who disbelieve and obstruct from
-Enki’s path—We will add punishment to
-their punishment, on account of the mischief
-they used to make.
-
-89. On the Day when We raise in every community a witness against them, from among
-them, and bring you as a witness against these. 
-
-We have revealed to you the Book, as an explanation of all things, and guidance,
-and mercy and good news for those who submit.
 

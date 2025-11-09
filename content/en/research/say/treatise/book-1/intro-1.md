@@ -5,6 +5,8 @@ title: "Statistics and Political Economy"
 weight: 2
 c: firebrick
 description: "Political economy, as in natural philosophy, and in every other study, systems have been formed before facts have been established; the place of the latter being supplied by purely gratuitous assertions"
+aliases:
+  /research/say/treatise/book-1/intro-1/
 ---
 
 <!-- ### The Production, Distribution, and Consumption of Wealth

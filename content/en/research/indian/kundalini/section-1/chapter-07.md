@@ -4,22 +4,20 @@ heading: "Chapter 7"
 date: 2025-10-16
 weight: 75
 description: ""
+aliases:
+  /research/indian/kundalini/secion-1/chapter-07/
 ---
 
 
+When the awakening of kundalini takes place it is important to have the correct diet, as food influences the mind and your nature. 
 
-When the awakening of kundalini takes place it is important to have the correct diet,
-as food influences the mind and your nature. At the time of awakening, certain
-physiological changes occur in the body, particularly in the digestive system, and the
-digestive process is frequently disturbed, or hunger vanishes completely. Therefore, a
-kundalini aspirant has to be very careful about his diet.
+At the time of awakening, certain physiological changes occur in the body, particularly in the digestive system, and the digestive process is frequently disturbed, or hunger vanishes completely. Therefore, a kundalini aspirant has to be very careful about his diet.
 
-Scientific observations have shown that the awakening of kundalini is generally
-accompanied by a state of nervous depression. The inner body temperature undergoes
-erratic changes and drops so much that it becomes much lower than the outer body
-temperature. Metabolism slows down and sometimes it even stops completely.
-Consumption of oxygen also falls. Therefore, when you are experiencing kundalini
-awakening your diet must be very light and easy to assimilate.
+Scientific observations have shown that the awakening of kundalini is generally accompanied by a state of nervous depression. 
+
+The inner body temperature undergoes erratic changes and drops so much that it becomes much lower than the outer body temperature. Metabolism slows down and sometimes it even stops completely. 
+
+Consumption of oxygen also falls. Therefore, when you are experiencing kundalini awakening your diet must be very light and easy to assimilate.
 
 The best diet for a kundalini yogi is boiled food. Crushed wheat, barley, lentils and
 dal are excellent foods, particularly when they are in a liquid form. Fats and greasy foods
@@ -149,3 +147,4 @@ merge into the ultimate state.
 For one who is serious about yoga and spiritual aspirations, diet is as important as
 yoga, but if you are only worried about your diet and are not practising yoga, then you
 are a fanatic.
+

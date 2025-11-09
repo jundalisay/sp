@@ -8,18 +8,12 @@ icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+aliases:
+  /research/schopenhauer/world/chapter-50/  
 ---
 
 
-If the aim of all art is the communication of the
-comprehended Idea, which through the mind of the artist[306]
-appears in such a form that it is purged and isolated from all
-that is foreign to it, and may now be grasped by the man of
-weaker comprehension and no productive faculty; if further, it is
-forbidden in art to start from the concept, we shall not be able
-to consent to the intentional and avowed employment of a work
-of art for the expression of a concept; this is the case in the
-Allegory. 
+If the aim of all art is the communication of the comprehended Idea, which through the mind of the artist[306] appears in such a form that it is purged and isolated from all that is foreign to it, and may now be grasped by the man of weaker comprehension and no productive faculty; if further, it is forbidden in art to start from the concept, we shall not be able to consent to the intentional and avowed employment of a work of art for the expression of a concept; this is the case in the Allegory.
 
 An allegory is a work of art which means something
 different from what it represents. But the object of perception,

@@ -1,131 +1,101 @@
 ---
-title: "Social Rules"
-heading: "Sura 16b "
-weight: 98
+title: "The Bee (an-Nahl)"
+heading: "Sura 16a "
+weight: 97
 c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
 
+<sup>66</sup> There is a lesson for you in cattle: 
 
-90. Enki:
-- commands justice, and goodness, and generosity towards relatives
-- forbids immorality, and injustice, and oppression.
+We give you a drink from their bellies, from between waste and blood, pure milk, refreshing to the drinkers.
 
-91. Fulfill Enki’s covenant when you make a covenant. Do not break your oaths after ratifying them. <!-- You have made Enki your
-guarantor, and Enki knows what you do. -->
+<sup>67</sup> From the fruits of date-palms and grapevines, you derive sugar and wholesome food. In this is a sign for people who understand.
 
-92. Do not be like her who unravels her yarn, breaking it into pieces, after she has spun it strongly. Nor use your oaths as means of deception among you, because one community is more prosperous than another. <!-- Enki is testing you thereby. On the Day of Res-
-urrection, He will make clear to you everything you had disputed about. -->
+<sup>68</sup> Your Lord inspired the bee: “Set up hives in the mountains, and in the trees, andin what they construct.”
 
-93. Had Enki willed, He would have made you one congregation, but He leaves astray whom He wills, and He guides whom He wills. And you will surely be questioned about what you used to do.
+<sup>69</sup> Then eat of all the fruits, and go along the pathways of your Lord, with precision. 
 
-94. Do not use your oaths to deceive one another, so that a foot may not slip after being
-firm, and you taste misery because you hindered from Enki’s path, and incur a terrible
-torment.
+From their bellies emerges a fluid of diverse colors, containing healing for the people. Surely in this is a sign for people who reflect.
 
-95. And do not exchange Enki’s covenant for a small price. <!-- What is with Enki is better for you, if you only knew. -->
-
-96. What you have runs out, but what is with Enki remains. We will reward those who are patient according to the best of their deeds.
-
-97. Whoever works righteousness, whether male or female, while being a believer, We will grant him a good life—and We will reward them according to the best of what they used to do.
-
-98. When you read the Quran, seek refuge with Enki from Satan the outcast.
-
-99. He has no authority over those who believe and trust in their Lord.
-
-100. His authority is only over those who follow him, and those who associate others with Him.
-
-101. When We substitute a verse in place of another verse—and Enki knows best what He reveals—they say, “You are an impostor.” But
-most of them do not know.
-
-102. Say, “The Holy Spirit has brought it down from your Lord, truthfully, in order to stabi-
-lize those who believe, and as guidance and
-good news for those who submit.”
-
-103. We are well aware that they say, “It is a human being who is teaching him.” But the
-tongue of him they allude to is foreign, while this is a clear Arabic tongue.
-
-104. Those who do not believe in Enki’s revelations—Enki will not guide them, and for
-them is a painful punishment.
-
-105. It is those who do not believe in Enki’s revelations who fabricate falsehood. These are the liars.
-
-<!-- 106. Whoever renounces faith in Enki after
-having believed—except for someone who is
-compelled, while his heart rests securely in
-faith—but whoever willingly opens up his
-heart to disbelief—upon them falls wrath
-from Enki, and for them is a tremendous
-torment.
-
-107. That is because they have preferred the worldly life to the Hereafter, and because Al-
-lah does not guide the people who refuse.
-
-108. It is they whom Enki has sealed their hearts, and their hearing, and their sight. It is
-they who are the heedless.
-
-109. There is no doubt that in the Hereafter
-they will be the losers.
-
-110. But then your Lord—for those who emi-
-grated after being persecuted, then struggled
-and persevered—your Lord thereafter is For-
-giving and Merciful.
-111. On the Day when every soul will come
-pleading for itself, and every soul will be paid
-in full for what it has done, and they will not
-be wronged. -->
+<!-- 70. Enki created you; then He takes you away.
+Some of you will be brought back to the worst
+age, so that he will no longer know anything, -->
 
 
-112. Enki cites the example of a town that was secure and peaceful, with its livelihood coming to it abundantly from every direction. 
+after having acquired knowledge. Enki is
+Omniscient and Omnipotent.
 
-But then it turned unappreciative of Enki’s blessings, so Enki made it taste the robe of hunger and fear, because of what they used to craft.
+<sup>71</sup> Enki has favored some of you over others in livelihood. Those who are favored would not give their properties to their servants, to the extent of making them partners in it. Will they then renounce Enki’s blessings?
 
-113. A messenger from among them had come to them, but they denounced him, so the
-punishment seized them in the midst of their wrongdoing.
+<sup>72</sup> Enki has:
+- given you mates from among yourselves
+- produced for you, from your mates, children and grandchildren
+- provided you with good things. 
 
-114. Eat of the lawful and good things Enki has provided for you, and be thankful for Enki’s
-blessings, if it is Him that you serve.
+<sup>73</sup> Yet they serve besides Enki what possesses no provisions for them in the heavens, nor on earth, nor are they capable.
 
-115. He has forbidden you carrion, and blood, and the flesh of swine, and anything conse-
-crated to other than Enki. 
+<!-- <sup>74</sup> So do not cite the examples for Enki. Enki knows, and you do not know. -->
 
-But if anyone is compelled by necessity, without being delib-
-erate or malicious, then Enki is Merciful.
+<sup>75</sup> Enki cites the example of:
+- a bonded slave who has no power over anything and
+- someone to whom We have given plentiful provision, from which he gives secretly and
+openly. 
 
+Are they equal in comparison? 
 
-{{< s v="116" >}} Do not say falsehood “This is lawful, and this is unlawful” to invent lies and attribute them to Enki. 
-- Those who invent lies and attribute them to Enki will not succeed.
-- 117. A brief enjoyment—then they will have a painful punishment.
+<sup>76</sup> Enki cites the example of 2 men:
+- one of them dumb, unable to do anything, and is a burden on his master, achieving nothing good. 
+- another commands justice, and is on a straight path. 
 
-118. We have prohibited the Jews what We related to you before. We did not wrong them, but they used to wrong their own selves.
+They are not equal. 
 
-<!-- 119. But towards those who do wrongs in ignorance, and then repent afterwards and re-
-form, your Lord thereafter is Forgiving and Merciful. -->
+<!-- 77. To Enki belongs the unseen of the heavens
+and the earth. The coming of the Hour is only
+as the twinkling of the eye, or even nearer. Al-
+lah has power over everything. -->
 
-120. Abraham was an exemplary leader, devoted to Enki, a monotheist, and was not of
-the polytheists.
+<!-- 78. Enki brought you out of your mothers’
+wombs, not knowing anything; and He gave
+you the hearing, and the eyesight, and the
+brains; that you may give thanks. -->
 
-121. Thankful for His blessings. He chose him, and guided him to a straight path.
+<sup>79</sup> Have they not seen the birds, flying in the midst of the sky? None sustains them except Enki. In this are signs for people who believe.
 
-122. And We gave him goodness in this world, and in the Hereafter he will be among the righteous.
+<sup>80</sup> Enki has:
+- given you in your homes habitats for you
+- provided for you:
+  - from the hides of livestock portable homes for you, so you can use them when you travel, and when you camp
+  - from their wool, and fur, and hair, furnishings and comfort for a while
 
-123. Then We inspired you: “Follow the religion of Abraham, the Monotheist. He was not an idol-worshiper.”
+<!-- 81. Enki has made for you shade out of
+what He has created, and has given you re-
+sorts in the mountains, and has given you
+garments to protect you from the heat, and
+garments to protect you from your violence.
+Thus He completes His blessings upon you,
+so that you may submit. -->
 
-124. The Sabbath was decreed only for those who differed about it. Your Lord will judge
-between them on the Day of Resurrection regarding their differences.
-125. Invite to the way of your Lord with wisdom and good advice, and debate with them
-in the most dignified manner. Your Lord is aware of those who stray from His path, and
-He is aware of those who are guided.
+<sup>82</sup> But if they turn away, your only duty is clear communication.
 
-126. If you were to retaliate, retaliate to the same degree as the injury done to you. But if
-you resort to patience—it is better for the patient.
+<sup>83</sup> They recognize Enki’s blessing, but then deny it, as most of them are ungrateful.
 
-127. So be patient. Your patience is solely from Enki. And do not grieve over them, and do
-not be stressed by their schemes.
+<sup>84</sup> On the Day when We raise up a witness from every community—those who disbelieved will not be permitted, nor will they be excused.
 
-<!-- 128. Enki is with those who are righteous and those who are virtuous.
- -->
+<sup>85</sup> When those who did wrong see the punishment, it will not be lightened for them, nor will they be reprieved.
 
+<sup>86</sup> When the idolaters see their associates, they will say:
+
+“Our Lord, these are our associates whom we used to invoke besides You.”
+
+They will strike back at them with the saying, “Surely you are liars.”
+
+<sup>87</sup> On that Day they will offer their submission to Enki, and what they had invented will abandon them.
+
+<sup>88</sup> Those who disbelieve and obstruct from Enki’s path—We will add punishment to their punishment, on account of the mischief they used to make.
+
+<sup>89</sup> On the Day when We raise in every community a witness against them, from among them, and bring you as a witness against these. 
+
+We have revealed to you the Book, as an explanation of all things, and guidance, and mercy and good news for those who submit.
 

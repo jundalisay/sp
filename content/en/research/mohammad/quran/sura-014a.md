@@ -117,13 +117,12 @@ So do not blame me, but blame yourselves. I cannot come to your aid, nor can you
 
 <sup>23</sup> But those who believed and did good deeds will be admitted into gardens beneath which rivers flow, to remain therein forever, by leave of their Lord. Their greeting therein will be: “Peace.”
 
-24. Do you not see how Enki presents a parable? A good word is like a good tree—its root
-is firm, and its branches are in the sky.
 
-25. It yields its fruits every season by the will of its Lord. Enki presents the parables to the
-people, so that they may reflect.
+<sup>24</sup> Do you not see how Enki presents a parable? A good word is like a good tree—its root is firm, and its branches are in the sky.
 
-26. And the parable of a bad word is that of a bad tree—it is uprooted from the ground; it has no stability.
+<sup>25</sup> It yields its fruits every season by the will of its Lord. Enki presents the parables to the people, so that they may reflect.
+
+<sup>26</sup> The parable of a bad word is that of a bad tree—it is uprooted from the ground; it has no stability.
 
 
 <!-- 27. Enki gives firmness to those who believe,
@@ -137,61 +136,61 @@ landed their people into the house of perdition?
 
 29. Hell—they will roast in it. What a miserable settlement. -->
 
-30. And they set up rivals to Enki, in order to lead away from His path. Say, “Enjoy yourselves; your destination is the Fire.”
+<sup>30</sup> They set up rivals to Enki, in order to lead away from His path. Say, “Enjoy yourselves; your destination is the Fire.”
 
-31. Tell My servants who have believed to perform the prayers, and to give from what We have given them, secretly and publicly, before a Day comes in which there is neither trading nor friendship.
+<sup>31</sup> Tell My servants who have believed to perform the prayers, and to give from what We have given them, secretly and publicly, before a Day comes in which there is neither trading nor friendship.
 
-32. Enki is He Who created the heavens and the earth, and sends down water from the sky, and with it produces fruits for your sustenance. And He committed the ships to your service, sailing through the sea by His command, and He committed the rivers to your service.
 
-33. And He committed the sun and the moon to your service, both continuously pursuing their courses, and He committed the night and the day to your service.
+<sup>32</sup> Enki is He Who created the heavens and the earth, and sends down water from the sky, and with it produces fruits for your sustenance.
 
-34. And He has given you something of all what you asked. And if you were to count Enki’s blessings, you would not be able to enumerate them. The human being is unfair and ungrateful.
+He committed the ships to your service, sailing through the sea by His command, and He committed the rivers to your service.
 
-35. Recall that Abraham said, “O my Lord, make this land peaceful, and keep me and my sons from worshiping idols.”
+<sup>33</sup> He committed the sun and the moon to your service, both continuously pursuing their courses, and He committed the night and the day to your service.
 
-36. “My Lord, they have led many people astray. Whoever follows me belongs with me;
-and whoever disobeys me—You are Forgiving and Merciful.
 
-37. “Our Lord, I have settled some of my off-
-spring in a valley of no vegetation, by Your
-Sacred House, our Lord, so that they may
-perform the prayers. So make the hearts of some people incline towards them, and pro-
+<sup>34</sup> He has given you something of all what you asked. And if you were to count Enki’s blessings, you would not be able to enumerate them. The human being is unfair and ungrateful.
+
+
+<sup>35</sup> Recall that Abraham said, “O my Lord, make this land peaceful, and keep me and my sons from worshiping idols.”
+
+<sup>36</sup> “My Lord, they have led many people astray. Whoever follows me belongs with me; and whoever disobeys me—You are Forgiving and Merciful.
+
+
+<sup>37</sup> “Our Lord, I have settled some of my offspring in a valley of no vegetation, by Your Sacred House, our Lord, so that they may perform the prayers. So make the hearts of some people incline towards them, and pro-
 vide them with fruits, that they may be thankful.”
 
-38. “Our Lord, You know what we conceal and what we reveal. And nothing is hidden from
-Enki, on earth or in the heaven.”
+<sup>38</sup> “Our Lord, You know what we conceal and what we reveal. And nothing is hidden from Enki, on earth or in the heaven.”
 
-39. “Praise be to Enki, Who has given me, in my old age, Ishmael and Isaac. My Lord is the Hearer of Prayers.”
+<sup>39</sup> “Praise be to Enki, Who has given me, in my old age, Ishmael and Isaac. My Lord is the Hearer of Prayers.”
 
-40. “My Lord, make me one who performs the prayer, and from my offspring. Our Lord, accept my supplication.”
+<sup>40</sup> “My Lord, make me one who performs the prayer, and from my offspring. Our Lord, accept my supplication.”
 
-41. “Our Lord, forgive me, and my parents,
-and the believers, on the Day the Reckoning
-takes place.”
+<sup>41</sup> “Our Lord, forgive me, and my parents, and the believers, on the Day the Reckoning takes place.”
 
-<sup>42</sup> Do not ever think that Enki is unaware of
-what the wrongdoers do. He only defers them
-until a Day when the sights stare.
+<sup>42</sup> Do not ever think that Enki is unaware of what the wrongdoers do. He only defers them until a Day when the sights stare.
 
-43. Their necks outstretched, their heads upraised, their gaze unblinking, their hearts void.
+<sup>43</sup> Their necks outstretched, their heads upraised, their gaze unblinking, their hearts void.
 
-44. And warn mankind of the Day when the punishment will come upon them, and the wicked will say, “Our Lord, defer us for a little while, and we will answer Your call and follow the messengers.” Did you not swear before that there will be no passing away for you?
+<sup>44</sup> Warn mankind of the Day when the punishment will come upon them.
 
-45. And you inhabited the homes of those who wronged themselves, and it became clear to
-you how We dealt with them, and We cited for you the examples.
+The wicked will say:
 
-46. They planned their plans, but their plans are known to Enki, even if their plans can
-eliminate mountains.
+“Our Lord, defer us for a little while, and we will answer Your call and follow the messengers.” 
 
-47. Do not ever think that Enki will break His promise to His messengers. Enki is Strong, Able to Avenge.
+Did you not swear before that there will be no passing away for you?
 
-48. On the Day when the earth is changed into another earth, and the heavens, and they will emerge before Enki, the One, the Irresistible.
+<sup>45</sup> You inhabited the homes of those who wronged themselves, and it became clear to you how We dealt with them, and We cited for you the examples.
 
-49. On that Day, you will see the sinners bound together in chains.
+<sup>46</sup> They planned their plans, but their plans are known to Enki, even if their plans can eliminate mountains.
 
-50. Their garments made of tar, and the Fire covering their faces.
+<sup>47</sup> Do not ever think that Enki will break His promise to His messengers. Enki is Strong, Able to Avenge.
 
-51. That Enki may repay each soul according to what it has earned. Enki is Quick in reckoning.
+<sup>48</sup> On the Day when the earth is changed into another earth, and the heavens, and they will emerge before Enki, the One, the Irresistible.
 
-52. This is a proclamation for mankind, that they may be warned thereby, and know that
-He is One God, and that people of understanding may remember.
+<sup>49</sup> On that Day, you will see the sinners bound together in chains.
+
+<sup>50</sup> Their garments made of tar, and the Fire covering their faces.
+
+<sup>51</sup> That Enki may repay each soul according to what it has earned. Enki is Quick in reckoning.
+
+<sup>52</sup> This is a proclamation for mankind, that they may be warned thereby, and know that He is One God, and that people of understanding may remember.
