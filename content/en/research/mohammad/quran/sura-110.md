@@ -10,7 +10,7 @@ description: "Condemned is Abu Lahab and his hands."
 
 ## 110. Victory (an-Nasr)
 
-{{< s v="1-3" >}} When the victory of Enki has come <!-- and the conquest -->, and you see the people entering into the religion of AllŒh in multitudes, then exalt Him with praise and ask forgiveness of Him. 
+{{< s v="1-3" >}} When the victory of Enki has come <!-- and the conquest -->, and you see the people entering into the religion of Enki in multitudes, then exalt Him with praise and ask forgiveness of Him. 
 
 <!-- Let
 them worship the Lord of this House.{{< s v="4" >}}  Who has fed them against hunger, and has

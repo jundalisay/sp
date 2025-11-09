@@ -35,7 +35,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 ## 108. Plenty (al-Kawthar)
 
-{{< s v="1-3" >}} We have granted you, O Muúammad, al-Kawthar. So pray to your Lord and sacrifice to Him alone. Your enemy is the one cut off.
+{{< s v="1-3" >}} We have granted you, O Muhammad, al-Kawthar. So pray to your Lord and sacrifice to Him alone. Your enemy is the one cut off.
 
 
 
@@ -43,7 +43,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="1-6" >}}  Say: 
 
-{{< l a="Muslims" >}}
+{{< l a="Mohammad" >}}
 "O disbelievers:
 - I do not worship what you worship.
 - You do not worship what I worship.

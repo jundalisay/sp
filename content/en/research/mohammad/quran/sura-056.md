@@ -28,9 +28,9 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 The immortalized youth will serve them with:
 - cups, pitchers, and sparkling drinks causing them neither headache nor intoxication
-- 20. fruits of their choice
-- 21. meat of birds that they may desire.
-- 22. lovely companions 23 like treasured pearls.
+- <sup>20</sup> fruits of their choice
+- <sup>21</sup> meat of birds that they may desire.
+- <sup>22</sup> lovely companions 23 like treasured pearls.
 
 <sup>24</sup> These are reward for what they used to do.
 

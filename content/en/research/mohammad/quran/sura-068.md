@@ -84,29 +84,29 @@ Did I not say to you, ‘if only you would glorify?’
 
 <sup>39</sup> Or do you have oaths from Us, binding until the Day of Resurrection, that you will have whatever you demand?
 
-40. Ask them, which of them will guarantee that.
+<sup>40</sup> Ask them, which of them will guarantee that.
 
-41. Do they have partners? Then let them produce their partners, if they are truthful.
+<sup>41</sup> Do they have partners? Then let them produce their partners, if they are truthful.
 
-42. On the Day when the Shin will be exposed. They will be called to bow down, but they will be unable.
+<sup>42</sup> On the Day when the Shin will be exposed. They will be called to bow down, but they will be unable.
 
-43. Their eyes subdued, shame will cover them. They were invited to bow down when they were sound.
+<sup>43</sup> Their eyes subdued, shame will cover them. They were invited to bow down when they were sound.
 
-44. So leave Me to those who reject this discourse. We will proceed against them gradually, from where they do not know.
+<sup>44</sup> So leave Me to those who reject this discourse. We will proceed against them gradually, from where they do not know.
  
-45. I will give them respite. My plan is firm.
+<sup>45</sup> I will give them respite. My plan is firm.
 
-46. Or do you ask them for a fee, so they are burdened with debt?
+<sup>46</sup> Or do you ask them for a fee, so they are burdened with debt?
 
-47. Or do they know the future, and so they write it down?
+<sup>47</sup> Or do they know the future, and so they write it down?
 
-48. So wait patiently for the Decision of your Lord, and do not be like the Fellow of the Fish who cried out in despair.
+<sup>48</sup> So wait patiently for the Decision of your Lord, and do not be like the Fellow of the Fish who cried out in despair.
 
-49. Were it not for his Lord’s favor that reached him, he would have been thrown into the wilderness, fully despised.
+<sup>49</sup> Were it not for his Lord’s favor that reached him, he would have been thrown into the wilderness, fully despised.
 
-50. But his Lord chose him, and made him one of the righteous.
+<sup>50</sup> But his Lord chose him, and made him one of the righteous.
 
-51. Those who disbelieve almost stab you with their glances when they hear the message and say “He [Prophet Mohammad] is crazy!”
+<sup>51</sup> Those who disbelieve almost stab you with their glances when they hear the message and say “He [Prophet Mohammad] is crazy!”
 
-52. But it is no less than a reminder to all the Worlds.
+<sup>52</sup> But it is no less than a reminder to all the Worlds.
 

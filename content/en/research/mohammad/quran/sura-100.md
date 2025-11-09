@@ -4,10 +4,11 @@ heading: "Sura 100-101 "
 weight: 254
 c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
+
 ---
 
 
-## 100. THE RACERS (al-’Adiyat)
+## 100. The Racers (al-’Adiyat)
 
 
 {{< s v="1-5" >}} By:
@@ -32,7 +33,7 @@ Then, on that Day, you will be questioned
 about the Bliss.
  -->
 
-## 101. THE SHOCKER (al-Qari’ah)
+## 101. The Shocker (al-Qari’ah)
 
 {{< s v="1-3" >}} The Striking Calamity is a Day when:
 - people will be dispersed like moths,
@@ -56,7 +57,7 @@ advised each other to truth and advised each other to patience.
 
 
 
-## 103. TIME (al-’Asr)
+## 103. Time (al-’Asr)
 
 {{< s v="1" >}}  By Time, {{< s v="2" >}} the human being is in loss, {{< s v="3" >}} except those who:
 - believe,
@@ -65,7 +66,7 @@ advised each other to truth and advised each other to patience.
 - recommend patience.
 
 
-## 104. THE BACKBITER (al-Humazah)
+## 104. The Backbiter (al-Humazah)
 
 {{< s v="1" >}} Woe to every slanderer and backbiter.
 
@@ -85,3 +86,5 @@ woe to those who pray.{{< s v="5" >}}  Those who are heedless of their prayers.
 closes in on them.{{< s v="9" >}}  In
 
  -->
+
+ 
