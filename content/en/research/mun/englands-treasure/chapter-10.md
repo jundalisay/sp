@@ -1,19 +1,11 @@
 ---
-heading: "Chapter 1"
-title: "The Qualities of a Perfect Foreign Trade Merchant"
+heading: "Chapters 10-11"
+title: "The Statute of Employments by Foreigners cannot Increase our Wealth"
 weight: 18
 description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
 c: "firebrick"
 contributors: ['Mun']
 ---
-
-
-+++
-title=  "The Statute of Employments by Foreigners cannot Increase our Wealth"
-heading=  "Chapter 10 and 11"
-
-description=  "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists."
-
 
 
 Keeping our money in the nation is just as useless as debasing our money because the causes of their preservation and production are the same in nature. The statute to allow free importation aims to employ foreign goods into our commodities. They say that the statute's intent is for encourage imports to be employed in our commodities which will then be exported at a higher value than imports. It might seem as a good policy to increase our wealth.
@@ -71,10 +63,9 @@ It is true that other Nations will sell more of our commodities than we consume 
 
 <!-- , then I affirm that the overplus must necessarily return unto us in treasure without the use of the Statute, which is therefore not onley fruitless but hurtful, as some other like restrictions are found to be when they are fully discovered. -->
 
-<br>
-<br>
 
-## Chapter 11=  Exporting our food and weapons for money will not increase our wealth
+
+## Chapter 11: Exporting our food and weapons for money will not increase our wealth
 
 The food and weapons for war are so precious in a nation. It should be restrained from being sold overseas or it should be charged a high price because Spain and other countries willingly buy such goods.
 

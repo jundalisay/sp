@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 15"
 title: "Some Excesses and evils in the Nation which decay not our Trade nor Treasure"
-weight: 28
+weight: 32
 description: "To Mun, interest rates increase along with economic growth"
 c: "firebrick"
 contributors: ['Mun']

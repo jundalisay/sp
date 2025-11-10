@@ -1,7 +1,7 @@
 ---
 title: "The Spanish Treasure cannot be kept from other Kingdoms by any Spanish prohibition"
 heading: "Chapter 5"
-weight: 8
+weight: 9
 c: "firebrick"
 description:  "The Spanish wars impoverish Spain through massive spending"
 contributors: ['Mun']
