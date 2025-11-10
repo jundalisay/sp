@@ -11,6 +11,7 @@ writer:
 icon: "Juan"
 aliases:
   /material/age-universe
+  /material/fallacies/tired-light/
 ---
 
 

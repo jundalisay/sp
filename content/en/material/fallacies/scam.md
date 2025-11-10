@@ -143,7 +143,23 @@ An observer at point A with a watch can determine the time values of events near
 {{< /q >}}
 
 
-In reality, time is subjective and not objective. The fallacy of objective or 'simultaneous' time is seen:
+In reality, time is subjective and not objective. What Physics is really measuring (mechanically or electromagnetically) is physical **CHANGE**. 
+
+The problem is change is qualitative and not quantitative, but Physics is all about quantities. And so to coerce qualitative change into taking a quantitive form, physicists convert "change" into "time" which is recorded in nunbers or quantities. 
+
+The crudify mental aethereal time into physical versions of the lower layers. 
+
+Layer | Time | Example
+--- | --- | ---
+Aethereal | Mental Time | Mental time flies fast when you're having fun
+Spatial | Time | Arrow of Time
+Radiant | Electromagnetic Time | Emissions from atomic clocks
+Convertible | Decay Time | Decay of Carbon 14 and Uranium
+Material | Contact Force Time | Swinging of pendulum
+
+{{< i s="/graphics/physics/times.jpg" a="Times" c="Time is the job of the Spatial Layer. The higher Aethereal Sublayers are timeless since they are beyond the cruder Spatial Layer" >}}
+
+The fallacy of objective or 'simultaneous' time is seen:
 - in jobs where older people are supposed to be more skilled than younger people
 - in healthcare where older people are supposed to have worse health than young people
 - in age ranges where old people are supposed to be earning higher than young people
@@ -158,11 +174,12 @@ We have not a direct intuition of the equality of 2 intervals of time. The perso
 
 ### The Precision of Light
 
-Of the 5 Elements, the fire element, as electromagnetism, is the most accurate because fire element particles are small yet have consistent properties.
+Of the 5 Elements, the fire element, as electromagnetism, is the most accurate because fire element particles are small yet have consistent properties. This demand for accuracy is a sign of the Negative Force, which leads to ['microscope' thinking](/material/principles/chapter-01b).
 
-This makes it the ideal standard for the simultaneity or objectivity of subjective time. 
 
-This fallacy is why physicists say that light "experiences" no time, as if light were alive!
+This makes Electromagnetism the ideal standard for the simultaneity or objectivity of subjective time. 
+
+This fallacy is why physicists say that light "experiences" no time, as if light were alive! 
 
 This is also why **Relativity works very well in measuring things** even if it throws away causation altogether. A stretched out light wave is far more precise and consistent than using a string of sand particles as a measure.
 

@@ -122,7 +122,7 @@ Consequently the all-pervading Transcendence is eternally situated in acts of sa
 Mind is higher than the senses; intelligence is still higher than the mind; and he [the soul] is even higher than the intelligence.
 
 <sup>43</sup> Thus knowing oneself to be transcendental to the material senses, mind and intelligence, O mighty-armed Arjuna, one should steady the mind by deliberate spiritual intelligence [Kṛṣṇa consciousness] and thus – by spiritual strength – conquer this insatiable enemy known as lust.
-
+{{< /l >}}
 
 
 
@@ -157,7 +157,6 @@ Free from desire, and thou shalt well perform
 
 <sup>10</sup> Prajapati said</sup>
 
-{{< q >}}
 In the beginning, when all men were made, And, with mankind, the sacrifice-- "Do this!
 Work! sacrifice! Increase and multiply With sacrifice! This shall be Kamaduk,
 Your 'Cow of Plenty,' giving back her milk Of all abundance. Worship the gods thereby;
