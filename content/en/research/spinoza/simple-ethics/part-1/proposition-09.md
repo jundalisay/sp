@@ -5,7 +5,7 @@ writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
 c: "indigo"
-icon: "/icons/spinoza.png"
+icon: "Spinoza"
 description: "Intellect, in function (actu) finite, or in function infinite, must comprehend the attributes of God and the modifications of God, and nothing else"
 ---
 
@@ -121,6 +121,3 @@ For inasmuch as his essence excludes all imperfection, and involves absolute per
 
 This, I think, will be evident to every moderately attentive reader.
 {{< /box >}}
-
-
-

@@ -5,7 +5,7 @@ writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
 c: "indigo"
-icon: "/icons/spinoza.png"
+icon: "Spinoza"
 description: "Whatsoever follows from any attribute of God, in so far as it is modified by a modification, which exists necessarily and as infinite"
 ---
 

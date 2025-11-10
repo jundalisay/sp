@@ -1,15 +1,16 @@
 ---
-title: "Propositions 1-6"
+heading: "Propositions 1-6"
+title: Thought, Extension, Modes
 description: Thought is an attribute of God, or God is a thinking thing.
-image: /covers/ethics.jpg
+c: "indigo"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 4
+weight: 6
+icon: "Spinoza"
 aliases:
   /research/spinoza/simple-ethics/propositions-1-10
 ---
-
 
 
 ### Proposition 1: Thought is an attribute of God, or God is a thinking thing. 

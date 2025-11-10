@@ -1,8 +1,8 @@
 ---
 heading: Chapter 4
 title: "Enumeration of the Categories"
-c: "indigo"
-weight: 4
+c: "royalblue"
+weight: 14
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

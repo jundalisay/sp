@@ -182,3 +182,7 @@ blockquote {
   color: mediumseagreen !important;
   border-left-color: seagreen !important;
 }
+
+code {
+        color: #757575 !important; 
+}

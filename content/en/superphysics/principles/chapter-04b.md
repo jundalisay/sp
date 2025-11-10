@@ -18,7 +18,7 @@ The previous section explained how the dimensions of space and time are caused b
 
 Cruder minds have a limited range and so can only perceive the basic dimensions.
 
-For example a dot that just can go forward and backward can only create a line. 
+For example, a dot that just can go forward and backward can only create a line. 
 
 But a dot that can go forward and backward and sideways can form a plane. 
 

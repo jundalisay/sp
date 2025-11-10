@@ -1,8 +1,8 @@
 ---
 heading: Chapter 13
 title: "Of things simultaneous"
-c: "indigo"
-weight: 4
+c: "royalblue"
+weight: 45
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -41,6 +41,3 @@ Hence those are called naturally simultaneous, which reciprocate, according to t
 But the one is by no means the cause of existence to the other, which is also the case with things that, derived from the same genus, have by division a mutual opposition.
 
 Those, however, are simply simultaneous whose generation is at the same time.
-
-
-

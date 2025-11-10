@@ -145,7 +145,9 @@ An observer at point A with a watch can determine the time values of events near
 
 In reality, time is subjective and not objective. What Physics is really measuring (mechanically or electromagnetically) is physical **CHANGE**. 
 
-The problem is change is qualitative and not quantitative, but Physics is all about quantities. And so to coerce qualitative change into taking a quantitive form, physicists convert "change" into "time" which is recorded in nunbers or quantities. 
+The problem is change is qualitative and not quantitative, but Physics is all about quantities. And so to coerce qualitative change into taking a quantitive form, physicists convert "change" into "time" which is recorded in numbers or quantities.
+
+We explain why change is qualitative [here](/superphysics/principles/chapter-04/).
 
 The crudify mental aethereal time into physical versions of the lower layers. 
 

@@ -1,16 +1,18 @@
 ---
-title: "Propositions 7-8"
+heading: "Propositions 7-8"
+title: "Modes of Thinking"
 description: The order and connection of ideas is the same as the order and connection of things.
-image: /covers/ethics.jpg
+c: "indigo"
+icon: "Spinoza"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 4
+weight: 9
 ---
 
 
 
-#### 7. The order and connection of ideas is the same as the order and connection of things.
+### 7. The order and connection of ideas is the same as the order and connection of things.
 
 Proof: This proposition is evident from Part 1, Ax. 4.
 
@@ -63,7 +65,7 @@ Wherefore of things as they are in themselves God is really the cause, inasmuch 
 
 
 
-#### 8. The ideas of particular things or modes  that do not exist are within the infinite idea of God
+### 8. The ideas of particular things or modes  that do not exist are within the infinite idea of God
 
 This is in the same way as the formal essences of particular things or modes are contained in God's attributes. 
 

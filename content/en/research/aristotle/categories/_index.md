@@ -1,6 +1,6 @@
 ---
 title: "Categories"
-c: "indigo"
+c: "royalblue"
 weight: 4
 writer:
   name: Aristotle

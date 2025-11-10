@@ -12,6 +12,38 @@ icon: "Juan"
 ---
 
 
+## Non-Locality from the Independence of the Spacetime Slices
+
+The slices are independent of each other, just as a node is its own thing and not an effect of the previous nodes. 
+
+The real mechanism that converts a wave into a node is the Negative Force, just as the mechanism that converts a node into a wave (by removing agitation in order to flatten Existence) is the Positive Force. 
+
+This is because nodes emerge from waves just as bubbles emerge from splashing water. In contrast, a smooth flow creates no bubbles. People who overthink have a lot of mental agitation. 
+
+
+The spacetime slices are usually related to each other just as the crest of a wave is related to its trough.
+
+Similarly, a universe is independent of other universes. 
+
+However, what happens in another universe has a relation to other universes and can affect others.  
+
+This independence leads to the concept of non-locality in Quantum Mechanics. 
+
+<!-- The relation leads to the colllapse  -->
+
+<!-- The 8 dimensions are based on the spacetime where ideas and experiences are generated. 
+
+This includes the sequence of perceptions. For example, in the Existential, Planar, and Spatial dimensions, the concept of time is just of one moment, as there is no change or gaps in perceptions yet.
+
+Linear time really begins in the Temporal dimension where changes take place. 
+
+Nonlinear time begins in the Lateral dimension where alternate realities take place. In that dimension, switching between
+realities is possible and time becomes less linear. 
+
+An example is a  dream wherein experiences, as scenes, can jump from on to the other randomly. 
+
+In the Multiversal dimension, multiple universes and therefore multiple spacetime exist.
+ -->
 
 The Wave-Nature of Reality means that one timespan or moment is connected to another timespan. 
 

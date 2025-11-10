@@ -2,6 +2,7 @@
 title: "Definitions"
 c: "indigo"
 description: "Body is a mode which expresses in a certain determinate manner the essence of God, in so far as he is considered as an extended thing"
+icon: "Spinoza"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza

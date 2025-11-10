@@ -67,3 +67,40 @@ This is why advanced souls might choose to incarnate in India which has a relati
 
 <!-- arises from  This  imposition of universal objectivity.  -->
 
+
+
+## Concepts that Superphysics Destroys
+
+The unification of metaphysical and physical perceptions leads to the removal of confused or redundant concepts that arise from materialist thinking locking itself out of metaphysics. 
+
+This locking out creates the need to create new words such as ontology, epistemology, etc which are unnecessary in the united paradigm. 
+
+1. Ontology 
+
+This means study of existence. This is already covered by philosophy. 
+
+Ontology was created in the 17th century in Europe because Germany was separating itself from the Catholic Church and so needed a new intellectual basis for its reasoning. 
+
+
+2. Epistemology 
+
+This means study of knowledge. This is already covered by philosophy. 
+
+Epistemology had to be created in the 19th century because metaphysics was separated from physics when natural philosophy was converted into science.
+
+
+3. Monopsony
+
+The word 'monopsony' was invented by Joan Robinson in 1933 as a response to monopolies in the US in the 1920s. 
+
+A monopsony is a market with a single buyer. An example is a farming system where there is only:
+- one contract buyer for all the crops or
+- one trader to buy all crops to be sold to the city
+
+Instead of monopsony, the proper word would be "monopoly buyer", just as 'monopoly' nowadays really is "monopoly seller".
+
+This is because in the 17th century, foreign trade was in barter.
+
+So a monopolist would be both a giver and taker at the same time. 
+
+

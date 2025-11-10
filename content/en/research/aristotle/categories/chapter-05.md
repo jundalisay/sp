@@ -1,8 +1,8 @@
 ---
 heading: Chapter 5
 title: "Substance"
-c: "indigo"
-weight: 4
+c: "royalblue"
+weight: 17
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

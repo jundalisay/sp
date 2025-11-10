@@ -1,8 +1,8 @@
 ---
 heading: Chapters 9-10
 title: "Action"
-c: "indigo"
-weight: 4
+c: "royalblue"
+weight: 38
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -11,31 +11,76 @@ description: ""
 
 
 
-### Chap. 9: Action, Passion, and the other categories of Position: When: Where: and Possession.
+## Chap. 9: Action, Passion, and the other categories of Position: When: Where: and Possession.
 
-1. Action and Passion admit contrariety and degree.Action and Passion admit contrariety, and the more and the less, for to make warm, is contrary to making cold; to be warm, contrary to the being cold, to be pleased, contrary to being grieved; so that they admit contrariety.
+
+1. Action and Passion admit contrariety and degree
+
+To make warm, is contrary to make cold.
+
+<!-- ; to be warm, contrary to the being cold, to be pleased, contrary to being grieved; so that they admit contrariety. -->
 
 They are also capable of the more and the less, for it is possible to heat, more and less, to be heated, more and less, and to be grieved, more and less; wherefore, to act, and to suffer, admit the more and less, and so much may be said of these. 
 
 But we have spoken of the being situated in our treatment of relatives,[54] to the effect that it is paronymously denominated, from positions: 
 
-2. Recapitulation of the other categories.as regards the other categories, when, where, and to have, nothing else is said of them, than what was mentioned at first, because they are evident; e.g. that "to have," signifies to be shod, to be armed; "where," as in the Lycæum, in the Forum, and the rest which are spoken of these. Of the proposed genera therefore, sufficient has been stated.
+2. Categories of Position: when, where, and to have
+
+"To have" signifies to be shod, to be armed
+
+"where," as in the Lycæum, in the Forum, and the rest which are spoken of these. 
+
+Of the proposed genera therefore, sufficient has been stated.
 
 
 
-### Chapter 10. Opposites
+## Chapter 10. Opposites
 
-1. Opposites are of four kinds.We must now speak of opposites, in how many ways opposition takes place. One thing then is said to be opposed to another in four ways, either as relative, or as contrary, or as privation and habit, or as affirmation and negation. Thus speaking summarily, each thing of this kind is opposed, relatively, as "the double" to "the half," contrarily, as "evil" to "good," privatively and habitually, as "blindness" and "sight," affirmatively and negatively, as "he sits," "he does not sit."
 
-1. Relative opposition.Whatever things then are relatively opposed, are said to be what they are with reference to opposites, or are in some manner referred to them, as "the double of the half," is said to be what it is, with reference to something else, for it is said to be the double of something; and "knowledge" is opposed relatively to the object of knowledge, and is said to be what it is, in reference to what may be known, and what may be known, is said to be what it is, in reference to an opposite, namely, "knowledge," for "the object of knowledge" is said to be so, to something, namely, to "knowledge."
+Opposites are of 4 kinds
 
-Things therefore relatively opposed are said to be, what they are, with reference to opposites, or in whatever manner, they are referrible to each other, 2. Contrary opposition.but those which are opposed as contraries, are by no means, said to be what they are, with reference to each other, but are said to be contrary to each other, for neither is "good" said to be the "good" of "evil," but the contrary of evil, nor is "white," denominated the "white "of "black," but its contrary, so that these oppositions differ from each other. Such contraries however, as are of that kind, that one of them must necessarily be in those things, in which it can naturally be, or of which it is predicated, these have nothing intermediate; but in the case of those, in which it is not necessary, that one should be inherent, there is something intermediate. For instance, health and disease may naturally subsist in the body of an animal, and it is necessary that one, should be therein, either disease, or health; the odd and even are also predicated of number, and one of the two, either the odd or the even, must necessarily be in number, yet there is nothing intermediate between these, neither between disease and health, nor between the odd and the even. Those contraries, again, have something intermediate, in which one of them need not be inherent, as black and white are naturally in body, but it is not necessary, that one of these, should be inherent in body, for every body, is not white or black. Vileness, also and worth, are predicated of man, and of many others, yet one of these, need not be in those things of which it is predicated, for not all things are either vile or worthy; at least, there is something intermediate, as between white and black, there is dark brown, and pale, and many other colours, but between vileness and worth, that, is intermediate, which is neither vile, nor worthy. In some instances, the intermediates have names, thus, the dark brown, and the pale, and such colours are media between white and black, but in other cases, it is not easy to assign a name to the intermediate, but the latter is defined, by the negation of either extreme, as, for example, whatever is neither good nor bad, nor just nor unjust.[56]
+1. Relative
+2. Contrary
+3. Lack and Recurrence
+<!-- privation and habit -->
+4. affirmation and negation. 
 
-3. Opposition of habit and privation.Privation, however,[57] and habit are predicated of something identical, as sight and blindness of the eye, and universally, in whatever the habit is naturally adapted to be produced, of such is either predicated. We say then, that each of the things capable of receiving habit is deprived of it, when it is not in that, wherein it might naturally be, and when it is adapted naturally to possess it; thus we say that a man is toothless, not because he has no teeth, and blind, not because he has no sight, but because he has them not, when he might naturally have them, for some persons from their birth, have neither sight nor teeth, yet they are neither called toothless nor blind. 1. Distinction in the meaning of habitual and privative opposition.To be deprived of, and to possess habit, then, are not privation and habit, for the sight is habit, but the privation is blindness, but to possess sight is not sight, nor to be blind, blindness, for blindness is a certain privation, but the being blind is to be deprived, and is not privation, for if blindness were the same as being blind, both might be predicated of the same person, but a man is said to be blind, yet he is never called blindness. To be deprived also, and to possess habit, appear to be similarly opposed, as privation and habit, since the mode of opposition is the same, for as blindness is opposed to sight, so likewise is the being blind, opposed to the possession of sight.[58]
+Thus speaking summarily, each thing of this kind is opposed, relatively, as "the double" to "the half," contrarily, as "evil" to "good," privatively and habitually, as "blindness" and "sight," affirmatively and negatively, as "he sits," "he does not sit."
 
-4. Opposition of affirmative and negative.Neither is that, which falls under affirmation and negation, affirmation and negation; for affirmation is an affirmative sentence, and negation a negative sentence, but nothing which falls under affirmation and negation is a sentence (but a thing). Still these are said to be mutually opposed, as affirmation and negation, since in them the mode of opposition is the same, for as affirmation is sometimes opposed to negation, for example, "he sits" to "he does not sit," so that thing which is under each is opposed, as "sitting" to "not sitting."
 
-5. Privation and habit not relatively opposed.But that privation and habit, are not opposed as relatives, is evident, since what a thing is, is not asserted of its opposite, for sight is not the sight of blindness, nor in any other way spoken in reference to it, so also blindness, cannot be called the blindness of sight, but blindness indeed is said to be the privation of sight, not the blindness of sight. Moreover, all relatives are referred to reciprocals, so that if blindness were relative, it would reciprocate with that to which it is referred, but it does not reciprocate, for sight is not said to be the sight of blindness.
+### Relative opposition
+
+Whatever things then are relatively opposed, are said to be what they are with reference to opposites, or are in some manner referred to them, as "the double of the half," is said to be what it is, with reference to something else, for it is said to be the double of something; and "knowledge" is opposed relatively to the object of knowledge, and is said to be what it is, in reference to what may be known, and what may be known, is said to be what it is, in reference to an opposite, namely, "knowledge," for "the object of knowledge" is said to be so, to something, namely, to "knowledge."
+
+Things therefore relatively opposed are said to be, what they are, with reference to opposites, or in whatever manner, they are referrible to each other
+
+### Contrary opposition
+
+Those which are opposed as contraries, are by no means, said to be what they are, with reference to each other, but are said to be contrary to each other, for neither is "good" said to be the "good" of "evil," but the contrary of evil, nor is "white," denominated the "white "of "black," but its contrary, so that these oppositions differ from each other. 
+
+Such contraries however, as are of that kind, that one of them must necessarily be in those things, in which it can naturally be, or of which it is predicated, these have nothing intermediate; but in the case of those, in which it is not necessary, that one should be inherent, there is something intermediate. 
+
+For instance, health and disease may naturally subsist in the body of an animal, and it is necessary that one, should be therein, either disease, or health; the odd and even are also predicated of number, and one of the two, either the odd or the even, must necessarily be in number, yet there is nothing intermediate between these, neither between disease and health, nor between the odd and the even.
+
+Those contraries, again, have something intermediate, in which one of them need not be inherent, as black and white are naturally in body, but it is not necessary, that one of these, should be inherent in body, for every body, is not white or black.
+
+Vileness, also and worth, are predicated of man, and of many others, yet one of these, need not be in those things of which it is predicated, for not all things are either vile or worthy; at least, there is something intermediate, as between white and black, there is dark brown, and pale, and many other colours, but between vileness and worth, that, is intermediate, which is neither vile, nor worthy. In some instances, the intermediates have names, thus, the dark brown, and the pale, and such colours are media between white and black, but in other cases, it is not easy to assign a name to the intermediate, but the latter is defined, by the negation of either extreme, as, for example, whatever is neither good nor bad, nor just nor unjust.[56]
+
+
+### Opposition of habit and privation
+
+Privation and habit are predicated of something identical, as sight and blindness of the eye, and universally, in whatever the habit is naturally adapted to be produced, of such is either predicated. 
+
+We say then, that each of the things capable of receiving habit is deprived of it, when it is not in that, wherein it might naturally be, and when it is adapted naturally to possess it; thus we say that a man is toothless, not because he has no teeth, and blind, not because he has no sight, but because he has them not, when he might naturally have them, for some persons from their birth, have neither sight nor teeth, yet they are neither called toothless nor blind. 1. Distinction in the meaning of habitual and privative opposition.To be deprived of, and to possess habit, then, are not privation and habit, for the sight is habit, but the privation is blindness, but to possess sight is not sight, nor to be blind, blindness, for blindness is a certain privation, but the being blind is to be deprived, and is not privation, for if blindness were the same as being blind, both might be predicated of the same person, but a man is said to be blind, yet he is never called blindness. To be deprived also, and to possess habit, appear to be similarly opposed, as privation and habit, since the mode of opposition is the same, for as blindness is opposed to sight, so likewise is the being blind, opposed to the possession of sight.[58]
+
+### Opposition of affirmative and negative
+
+Neither is that, which falls under affirmation and negation, affirmation and negation; for affirmation is an affirmative sentence, and negation a negative sentence, but nothing which falls under affirmation and negation is a sentence (but a thing). Still these are said to be mutually opposed, as affirmation and negation, since in them the mode of opposition is the same, for as affirmation is sometimes opposed to negation, for example, "he sits" to "he does not sit," so that thing which is under each is opposed, as "sitting" to "not sitting."
+
+
+5. Privation and habit not relatively opposed.
+
+But that privation and habit, are not opposed as relatives, is evident, since what a thing is, is not asserted of its opposite, for sight is not the sight of blindness, nor in any other way spoken in reference to it, so also blindness, cannot be called the blindness of sight, but blindness indeed is said to be the privation of sight, not the blindness of sight. Moreover, all relatives are referred to reciprocals, so that if blindness were relative, it would reciprocate with that to which it is referred, but it does not reciprocate, for sight is not said to be the sight of blindness.
 
 From these things, also, it is manifest that those which are predicated, (2). Nor contrarily.according to privation and habit, are not contrarily opposed, for of contraries which have no intermediate, one must always necessarily be inherent, wherein it is naturally adapted to be inherent, or of which it is predicated, but between these, there is no intermediate thing wherein it was necessary that the one should be in what was capable of receiving it, as in the case, of disease and health, in odd and the even number. Of those however between which there is an intermediate, it is never necessary that one should be inherent in every thing; for neither is it necessary that every thing capable of receiving it, should be white or black, or hot or cold, since there is no prevention to an intermediate being between them. Again, of these also there was a certain medium, of which it was not requisite that one should be in its recipient, unless where one is naturally inherent, as in fire to be hot, and in snow to be white: still in these, one, must of necessity be definitely inherent, and not in whatever way it may happen, for neither does it happen that fire is cold, nor that snow is black.[59] Wherefore it is not necessary that one of them should be in every thing capable of receiving it, but only in those wherein the one is naturally inherent, and in these, that which is definitely and not casually, one. In privation however, and habit, neither of the above-mentioned particulars is true, since it is not always necessary that one should be inherent in what is capable of receiving it, as what is not yet naturally adapted to have sight, 6. Nature of intermediates in respect to opposition.is neither said to be blind nor to have sight; wherefore these things will not be of such contraries as have nothing intermediate. But neither, on the other hand, will they be amongst those which have something intermediate, since it is necessary that at some time, one of them, should be inherent in every thing capable of receiving it: thus when a man is naturally fitted to have sight, then he will be said to be blind, or to have sight, and one of these, not definitely, but whichever may happen, since he need not necessarily be blind, nor see, but either, as it may happen. In respect nevertheless of contraries, which have an intermediate, it is by no means necessary that one, should be inherent in every thing, but in some things, and in these, one of them definitely, and neither casually, so that things which are opposed according to privation and habit, are evidently not in either of these ways opposed, as contraries.
 

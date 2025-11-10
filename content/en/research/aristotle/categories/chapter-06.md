@@ -1,8 +1,8 @@
 ---
 heading: Chapter 6
 title: "Quantity"
-c: "indigo"
-weight: 4
+c: "royalblue"
+weight: 24
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

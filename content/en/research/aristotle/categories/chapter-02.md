@@ -1,8 +1,8 @@
 ---
 heading: Chapters 2-3
 title: "The logical division of Things and their Attributes"
-c: "indigo"
-weight: 4
+c: "royalblue"
+weight: 8
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
