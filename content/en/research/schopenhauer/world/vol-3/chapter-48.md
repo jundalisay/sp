@@ -3,7 +3,8 @@ heading: Chapter 48
 title: "The Doctrine Of The Denial Of The Will To Live"
 description: ""
 date: 2025-10-05
-weight: 490
+weight: 206
+icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer

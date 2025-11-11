@@ -2,7 +2,8 @@
 heading: Chapter 33
 title: "Isolated Remarks On Natural Beauty"
 description: ""
-weight: 8
+weight: 74
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -11,21 +12,7 @@ writer:
 
 
 
-What contributes among other things to make the sight of a
-beautiful landscape so exceedingly delightful is the perfect truth
-and consistency of nature. Certainly nature does not follow
-here the guidance of logic in the connection of the grounds
-of knowledge, of antecedents and consequences, premisses and
-conclusions; but still it follows what is for it analogous to the
-law of causality in the visible connection of causes and effects.
-Every modification, even the slightest, which an object receives
-from its position, foreshortening, concealment, distance, light-
-ing, linear and atmospheric perspective, &c., is, through its effect
-upon the eye, unerringly given and accurately taken account of:
-the Indian proverb, “Every corn of rice casts its shadow,” finds
-here its confirmation. Therefore here everything shows itself
-so consistent, accurately regular, connected, and scrupulously
-right; here there are no evasions. 
+What contributes among other things to make the sight of a beautiful landscape so exceedingly delightful is the perfect truth and consistency of nature. Certainly nature does not follow here the guidance of logic in the connection of the grounds of knowledge, of antecedents and consequences, premisses and conclusions; but still it follows what is for it analogous to the law of causality in the visible connection of causes and effects. Every modification, even the slightest, which an object receives from its position, foreshortening, concealment, distance, light- ing, linear and atmospheric perspective, &c., is, through its effect upon the eye, unerringly given and accurately taken account of: the Indian proverb, “Every corn of rice casts its shadow,” finds here its confirmation. Therefore here everything shows itself so consistent, accurately regular, connected, and scrupulously right; here there are no evasions.
 
 If now we consider the sight
 of a beautiful view, merely as a brain-phenomenon, it is the only

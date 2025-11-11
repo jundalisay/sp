@@ -2,7 +2,8 @@
 heading: Chapter 41
 title: "Death and Its Relation To The Indestructibility Of Our True Nature"
 description: ""
-weight: 8
+weight: 120
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

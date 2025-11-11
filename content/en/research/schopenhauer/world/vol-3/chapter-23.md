@@ -3,6 +3,8 @@ heading: Chapter 23
 title: "The Objectification Of The Will In Unconscious Nature"
 description: ""
 date: 2025-10-05
+weight: 18
+icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer

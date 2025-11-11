@@ -2,7 +2,8 @@
 heading: Chapter 35
 title: "The Aesthetics Of Architecture"
 description: ""
-weight: 8
+weight: 82
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -14,14 +15,11 @@ writer:
 19 This chapter is connected with § 43 of the first volume.
 
 In accordance with the deduction given in the text of the pure
-æsthetics of architecture from the lowest grades of the objecti-
-fication of the will or of nature, the Ideas of which it seeks to
-bring to distinct perception, its one constant theme is support and
-burden, and its fundamental law is that no burden shall be with-
-out sufficient support, and no support without a suitable burden;
+æsthetics of architecture from the lowest grades of the objectification of the will or of nature, the Ideas of which it seeks to bring to distinct perception, its one constant theme is support and burden, and its fundamental law is that no burden shall be without sufficient support, and no support without a suitable burden;
 consequently that the relation of these two shall be exactly the
-fitting one. The purest example of the carrying out of this theme
-is the column and entablature. 
+fitting one. 
+
+The purest example of the carrying out of this theme is the column and entablature. 
 
 Therefore the order or columnar
 arrangement has become, as it were, the thorough bass of the

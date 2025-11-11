@@ -2,7 +2,8 @@
 heading: Chapter 45
 title: "The Assertion Of The Will To Live"
 description: ""
-weight: 8
+weight: 136
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

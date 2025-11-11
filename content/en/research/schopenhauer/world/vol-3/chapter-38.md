@@ -2,7 +2,8 @@
 heading: Chapter 38
 title: "History"
 description: ""
-weight: 8
+weight: 106
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -13,11 +14,9 @@ writer:
 
 23 This chapter is connected with § 51 of the first volume.
 
-In the passage of the first volume referred to below I have fully
-shown that more is achieved for our knowledge of mankind by
-poetry than by history, and why this is so; inasmuch as more
-real instruction was to be expected from the former than from
-the latter. Aristotle has also confessed this, for he says: “∫±π
+In the passage of the first volume referred to below I have fully shown that more is achieved for our knowledge of mankind by poetry than by history, and why this is so; inasmuch as more real instruction was to be expected from the former than from the latter. 
+
+Aristotle has also confessed this, for he says: “∫±π
 ∆πªø√ø∆…ƒμ¡øΩ ∫±π √¿ø≈¥±πøƒμ¡øΩ ¿øπ∑√π¬ 1√ƒø¡π±¬ μ√ƒπΩ” (et
 res magis philosophica, et melior poësis est quam historia24), De
 poët., c. 9. Yet, in order to cause no misunderstanding as to the
@@ -25,6 +24,13 @@ value of history, I wish here to express my thoughts about it.
 In every class and species of things the facts are innumerable,
 the individuals infinite in number, the variety of their differences
 unapproachable. 
+
+
+<!-- 24 Let me remark in passing that from this opposition of ¿øπ∑√π¬ and 1√ƒø¡π±
+the origin, and also the peculiar significance, of the first word comes out with
+more than ordinary distinctness; it signifies that which is made, invented, in
+opposition to what is discovered. -->
+
 
 At the first glance at them the curious mind
 becomes giddy; however much it investigates, it sees itself con-
@@ -34,23 +40,14 @@ these again under conceptions of species, whereby it opens the
 path to a knowledge of the general and the particular, which also
 comprehends the innumerable individuals, for it holds good of all
 without one being obliged to consider each particular for itself.
-Thus it promises satisfaction to the investigating mind. Then all[221]
-sciences place themselves together, and above the real world of
-individual things, as that which they have divided among them.
+Thus it promises satisfaction to the investigating mind. 
+
+Then all sciences place themselves together, and above the real world of individual things, as that which they have divided among them.
 Over them all, however, moves philosophy, as the most general,
 and therefore important, rational knowledge, which promises the
 conclusions for which the others have only prepared the way.
 History alone cannot properly enter into that series, since it
-cannot boast of the same advantage as the others, for it lacks the
-
-
-
-24 Let me remark in passing that from this opposition of ¿øπ∑√π¬ and 1√ƒø¡π±
-the origin, and also the peculiar significance, of the first word comes out with
-more than ordinary distinctness; it signifies that which is made, invented, in
-opposition to what is discovered.
-Chapter XXXVIII. On History. 217
-fundamental characteristic of science, the subordination of what
+cannot boast of the same advantage as the others, for it lacks the fundamental characteristic of science, the subordination of what
 is known, instead of which it can only present its co-ordination.
 Therefore there is no system of history, as there is of every other
 science. It is therefore certainly rational knowledge, but it is
@@ -89,12 +86,9 @@ facts. On this account in these sciences by a correct knowledge
 of the general we can determine with certainty the particular that
 arises. If, for example, I know the laws of the triangle in general,
 I can then also tell what must be the properties of the triangle laid
-before me; and what holds good of all mammals, for example,
-that they have double ventricles of the heart, exactly seven cer-
-vical vertebræ, lungs, diaphragm, bladder, five senses, &c., I can
+before me; and what holds good of all mammals, for example, that they have double ventricles of the heart, exactly seven cervical vertebræ, lungs, diaphragm, bladder, five senses, &c., I can
 also assert of the strange bat which has just been caught, before
-dissecting it. But not so in history, where the general is no objec-
-tive general of the conception, but merely a subjective general
+dissecting it. But not so in history, where the general is no objective general of the conception, but merely a subjective general
 of my knowledge, which can only be called general inasmuch
 as it is superficial. Therefore I may always know in general of
 the Thirty Years' War that it was a religious war, waged in the
@@ -260,9 +254,9 @@ difference of the special circumstances, of the costume and the
 customs, to see everywhere the same humanity. This identical
 element which is permanent through all change consists in the
 fundamental qualities of the human heart and head—many bad,
-few good. The motto of history in general should run: Eadem,
-Chapter XXXVIII. On History. 223
-sed aliter. If one has read Herodotus, then in a philosophical
+few good. The motto of history in general should run: Eadem, sed aliter. 
+
+If one has read Herodotus, then in a philosophical
 regard one has already studied history enough. For everything is
 already there that makes up the subsequent history of the world:
 the efforts, action, sufferings, and fate of the human race as it
@@ -278,10 +272,9 @@ look as if we wished to deny it all value if we did not show in
 what its value consists. Really, however, there remains for it,
 after this conquest by art and rejection by science, a quite special
 province, different from both, in which it exists most honourably.
+
 What reason is to the individual that is history to the human
-race. By virtue of reason, man is not, like the brute, limited to [228]
-the narrow, perceptible present, but also knows the incomparably
-more extended past, with which it is linked, and out of which
+race. By virtue of reason, man is not, like the brute, limited to the narrow, perceptible present, but also knows the incomparably more extended past, with which it is linked, and out of which
 it has proceeded; and only thus has he a proper understanding
 of the present itself, and can even draw inferences as to the
 future. The brute, on the other hand, whose knowledge, devoid
@@ -292,13 +285,13 @@ does not know its own history, is limited to the present of the
 now living generation, and therefore does not understand itself
 and its own present, because it cannot connect it with a past,
 and explain it from this; still less can it anticipate the future.
+
 Only through history does a nation become completely conscious
 of itself. Accordingly history is to be regarded as the rational
 consciousness of the human race, and is to the race what the
-reflected and connected consciousness is to the individual who
-224 The World as Will and Idea (Vol. 3 of 3)
-is conditioned by reason, a consciousness through the want of
+reflected and connected consciousness is to the individual who is conditioned by reason, a consciousness through the want of
 which the brute is confined to the narrow, perceptible present.
+
 Therefore every gap in history is like a gap in the recollective
 self-consciousness of a man; and in the presence of a monument
 of ancient times which has outlived the knowledge of itself, as,
@@ -328,11 +321,11 @@ and its consciousness into an innumerable number of ephemeral
 individuals, and so bids defiance to the ever hurrying time, in
 whose hand goes forgetfulness. As an attempt to accomplish
 this we must regard not only written, but also stone monuments,
-which in part are older than the former. For who will believe that
+which in part are older than the former. 
+
+For who will believe that
 those who, at incalculable cost, set in action the human powers
-of many thousands for many years in order to construct the
-Chapter XXXVIII. On History. 225
-pyramids, monoliths, rock tombs, obelisks, temples, and palaces
+of many thousands for many years in order to construct the pyramids, monoliths, rock tombs, obelisks, temples, and palaces
 which have already existed for thousands of years, could have
 had in view the short span of their own life, too short to let
 them see the finishing of the construction, or even the ostensible
@@ -353,7 +346,4 @@ shameful if they are destroyed or disfigured in order to serve low
 utilitarian ends. Written monuments have less to fear from the
 elements, but more to fear from barbarians, than stone ones; they
 accomplish far more. The Egyptians wished to combine the two,
-for they covered their stone monuments with hieroglyphics, nay,
-they added paintings in case the hieroglyphics should no longer
-be understood.
-
+for they covered their stone monuments with hieroglyphics, nay, they added paintings in case the hieroglyphics should no longer be understood.

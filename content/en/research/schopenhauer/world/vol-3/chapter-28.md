@@ -2,7 +2,8 @@
 heading: Chapter 28
 title: "Characterisation Of The Will To Live"
 description: ""
-weight: 8
+weight: 62
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

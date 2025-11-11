@@ -2,7 +2,8 @@
 heading: Chapter 27
 title: "Instinct And Mechanical Tendency"
 description: ""
-weight: 8
+weight: 58
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

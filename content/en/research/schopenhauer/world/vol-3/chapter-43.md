@@ -2,7 +2,8 @@
 heading: Chapter 43
 title: "Heredity"
 description: ""
-weight: 8
+weight: 130
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

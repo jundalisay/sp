@@ -2,7 +2,8 @@
 heading: Chapter 25
 title: "Transcendent Considerations Concerning The Will As Thing In Itself"
 description: ""
-weight: 8
+weight: 32
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

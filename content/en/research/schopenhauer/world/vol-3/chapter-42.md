@@ -2,7 +2,8 @@
 heading: Chapter 42
 title: "The Life Of The Species"
 description: ""
-weight: 8
+weight: 127
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

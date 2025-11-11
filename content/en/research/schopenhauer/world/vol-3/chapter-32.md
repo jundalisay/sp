@@ -2,7 +2,8 @@
 heading: Chapter 32
 title: "Madness"
 description: ""
-weight: 8
+weight: 72
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -15,14 +16,9 @@ writer:
 
 The health of the mind properly consists in perfect recollection.
 
-Of course this is not to be understood as meaning that our mem-
-ory preserves everything. For the past course of our life shrinks
-up in time, as the path of the wanderer looking back shrinks up in
-space: sometimes it is difficult for us to distinguish the particular
-years; the days have for the most part become unrecognisable.
-Really, however, only the exactly similar events, recurring an
-innumerable number of times, so that their images, as it were,
-conceal each other, ought so to run together in the memory that
+Of course this is not to be understood as meaning that our memory preserves everything. For the past course of our life shrinks up in time, as the path of the wanderer looking back shrinks up in space: sometimes it is difficult for us to distinguish the particular years; the days have for the most part become unrecognisable.
+
+Really, however, only the exactly similar events, recurring an innumerable number of times, so that their images, as it were, conceal each other, ought so to run together in the memory that
 they are individually unrecognisable; on the other hand, every
 event in any way peculiar or significant we must be able to find
 again in memory, if the intellect is normal, vigorous, and quite
@@ -110,13 +106,11 @@ in the case of madness which has resulted from the fright of
 some sudden horrible occurrence. Such patients cling, as it were,
 convulsively to the thought they have grasped, so that no other, or
 at least none opposed to it, can arise. In both processes, however,
-what is essential to madness remains the same, the impossibility
-168 The World as Will and Idea (Vol. 3 of 3)
-of a uniformly connected recollection, such as is the basis of
-our healthy and rational reflection. Perhaps the contrast of the
+what is essential to madness remains the same, the impossibility of a uniformly connected recollection, such as is the basis of our healthy and rational reflection. Perhaps the contrast of the
 ways in which they arise, set forth here, might, if applied with
 judgment, afford a sharp and profound principle of division of
 delusions proper.
+
 For the rest, I have only considered the physical origin of mad-
 ness, thus what is introduced by external, objective occasions.
 More frequently, however, it depends upon purely physical caus-
@@ -144,30 +138,24 @@ had gone out of his mind because his officer had addressed him
 as Er.16 In the case of decided physical disposition no occasion
 at all is required when this has come to maturity. 
 
-The madness
-which has sprung from purely psychical causes may, perhaps,
-by the violent perversion of the course of thought which has produced it, also introduce a kind of paralysis or other depravity
-of some part of the brain, which, if not soon done away with,
+The madness which has sprung from purely psychical causes may, perhaps,
+by the violent perversion of the course of thought which has produced it, also introduce a kind of paralysis or other depravity of some part of the brain, which, if not soon done away with,
 becomes permanent. Therefore madness is only curable at first,
 and not after a longer time.
 
 Pinel taught that there is a mania sine delirio, frenzy without
 insanity. This was controverted by Esquirol, and since then much
 has been said for and against it. The question can only be decided
-empirically. But if such a state really does occur, then it is to
-be explained from the fact that here the will periodically entirely
-withdraws itself from the government and guidance of the intel-
-lect, and consequently of motives, and thus it then appears as
+empirically. 
+
+But if such a state really does occur, then it is to be explained from the fact that here the will periodically entirely
+withdraws itself from the government and guidance of the intellect, and consequently of motives, and thus it then appears as
 a blind, impetuous, destructive force of nature, and accordingly
 manifests itself as the desire to annihilate everything that comes
 in its way. The will thus let loose is like the stream which has
-broken through the dam, the horse that has thrown his rider,
-or a clock out of which the regulating screws have been taken.
-Yet only the reason, thus reflective knowledge, is included in
-that suspension, not intuitive knowledge also; otherwise the will
-would remain entirely without guidance, and consequently the
-man would be immovable. But, on the contrary, the man in [172]
-a frenzy apprehends objects, for he breaks out upon them; thus
+broken through the dam, the horse that has thrown his rider, or a clock out of which the regulating screws have been taken.
+
+Yet only the reason, thus reflective knowledge, is included in that suspension, not intuitive knowledge also; otherwise the will would remain entirely without guidance, and consequently the man would be immovable. But, on the contrary, the man in a frenzy apprehends objects, for he breaks out upon them; thus
 he has also consciousness of his present action, and afterwards
 remembrance of it. But he is entirely without reflection, thus
 without any guidance of the reason, consequently quite incapable
@@ -176,4 +164,3 @@ future. When the attack is over, and the reason has regained its
 command, its function is correct, because here its proper activity
 has not been perverted or destroyed, but only the will has found
 the means to withdraw itself from it entirely for a while.
-

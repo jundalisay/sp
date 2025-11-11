@@ -2,7 +2,8 @@
 heading: Chapter 37
 title: "Ethics"
 description: ""
-weight: 8
+weight: 142
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

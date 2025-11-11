@@ -2,7 +2,8 @@
 heading: Chapter 44
 title: "The Metaphysics Of The Love Of The Sexes"
 description: ""
-weight: 8
+weight: 135
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

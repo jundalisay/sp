@@ -2,7 +2,8 @@
 heading: Chapter 40
 title: "Preface"
 description: ""
-weight: 8
+weight: 118
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

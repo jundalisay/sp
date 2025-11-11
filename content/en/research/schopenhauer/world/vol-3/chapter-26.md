@@ -2,7 +2,8 @@
 heading: Chapter 26
 title: "Teleology"
 description: ""
-weight: 8
+weight: 38
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
