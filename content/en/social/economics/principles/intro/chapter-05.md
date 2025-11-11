@@ -179,8 +179,8 @@ Law | Violation Results in
 --- | ---
 First Law | Overspending, Budget Deficit, Poverty Cycle, Unemployment
 Second Law | Valuation Errors, Bubbles, Overinvestment, Underinvestment
-Third Law | Inequality, Financial Crises, Illicit goods
-Fourth Law | Moral Hazard, Inflation, Recessions, Trade War
+Third Law | Inequality, Moral Hazard, Financial Crises, Illicit goods
+Fourth Law | Inflation, Recessions, Trade War, Crypto Scams
 
 
 

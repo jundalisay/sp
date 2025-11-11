@@ -79,3 +79,5 @@ Tell the Israelites: You have seen that I have spoken to you from heaven. <sup>2
 
 <sup>26</sup> Do not go up by steps to my altar, so that your nakedness is not exposed on it.
 {{< /l >}}
+
+
