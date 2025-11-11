@@ -14,23 +14,35 @@ writer:
 
 <!-- 6 This chapter is connected with § 29 of the first volume. -->
 
-Book 2 closed with the question as to the goal and aim of that will which had shown itself to be the inner nature of all things in the world. The following remarks may serve to supplement the answer to this question given there in general terms, for they lay down the character of the will as a whole.
+Book 2 closed with the question as to the goal and character of that will.
 
-Such a characterisation is possible because we have recognised as the inner nature of the world something thoroughly real and empirically given. On the other hand, the very name “world-soul,” by which many have denoted that inner being, gives instead of this a mere ens rationis; for “soul” signifies an individual unity of consciousness which clearly does not be- long to that nature, and in general, since the conception “soul” supposes knowing and willing in inseparable connection and yet independent of the animal organism, it is not to be justified, and therefore not to be used. The word should never be applied except in a metaphorical sense, for it is much more insidious than »≈«∑ or anima, which signify breath.
+Such a characterisation is possible because we have recognised as the inner nature of the world something thoroughly real and empirically given.
 
-Much more unsuitable, however, is the way in which so-called pantheists express themselves, whose whole philosophy consists chiefly in this, that they call the inner nature of the world, which is unknown to them, “God;” by which indeed they imagine they have achieved much. According to this, then, the world would be a theophany. But let one only look at it: this world of constantly needy creatures, who continue for a time only by [106] devouring one another, fulfil their existence in anxiety and want, and often suffer terrible miseries, till at last they fall into the arms of death; whoever distinctly looks upon this will allow that Aristotle was right in saying: “! ∆≈√π¬ ¥±πøºøΩπ±, ±ªªΩ ø≈ ∏μπ± μ√ƒπ” (Natura dæmonia est, non divina), De divinat., c. 2, p. 463;
+I call that inner being as the “world-soul”.
 
-nay, he will be obliged to confess that a God who could think of
+ <!-- by which many have denoted that inner being, gives instead of this a mere ens rationis; for  -->
+
+“Soul” signifies an individual unity of consciousness which does not belong to that nature.
+
+The conception “soul” supposes knowing and willing in inseparable connection and yet independent of the animal organism, it is not to be justified, and therefore not to be used.
+
+The word should never be applied except in a metaphorical sense, for it is much more insidious than »≈«∑ or anima, which signify breath.
+
+Much more unsuitable, however, is the way in which so-called pantheists express themselves, whose whole philosophy consists chiefly in this, that they call the inner nature of the world, which is unknown to them, “God;” by which indeed they imagine they have achieved much.
+
+According to this, then, the world would be a theophany. But let one only look at it: this world of constantly needy creatures, who continue for a time only by [106] devouring one another, fulfil their existence in anxiety and want, and often suffer terrible miseries, till at last they fall into the arms of death; whoever distinctly looks upon this will allow that Aristotle was right in saying: “! ∆≈√π¬ ¥±πøºøΩπ±, ±ªªΩ ø≈ ∏μπ± μ√ƒπ” (Natura dæmonia est, non divina), De divinat., c. 2, p. 463;
+
+He will be obliged to confess that a God who could think of
 changing Himself into such a world as this must certainly have
 been tormented by the devil. I know well that the pretended
 philosophers of this century follow Spinoza in this, and think
 themselves thereby justified. But Spinoza had special reasons
 for thus naming his one substance, in order, namely, to preserve
-at least the word, although not the thing. The stake of Giordano
-Bruno and of Vanini was still fresh in the memory; they also
-had been sacrificed to that God for whose honour incomparably
-more human sacrifices have bled than on the altars of all heathen
-gods of both hemispheres together. If, then, Spinoza calls the
+at least the word, although not the thing. 
+
+The stake of Giordano Bruno and of Vanini was still fresh in the memory/
+
+They also had been sacrificed to that God for whose honour incomparably more human sacrifices have bled than on the altars of all heathen gods of both hemispheres together. If, then, Spinoza calls the
 world God, it is exactly the same thing as when Rousseau in the
 “Contrat social,” constantly and throughout denotes the people
 by the word le souverain; we might also compare it with this, that
@@ -41,8 +53,9 @@ one other ground for the nomenclature we are speaking of, but
 it is no more substantial. In their philosophising they all start,
 not from the world or our consciousness of it, but from God, as
 something given and known; He is not their quæsitum, but their
-datum. If they were boys I would then explain to them that this
-is a petitio principii, but they know this as well as I do. But since
+datum. 
+
+If they were boys I would then explain to them that this is a petitio principii, but they know this as well as I do. But since
 Kant has shown that the path of the earlier dogmatism, which
 proceeded honestly, the path from the world to a God, does not
 lead there, these gentlemen now imagine they have found a fine
@@ -95,11 +108,7 @@ of the struggle of the whole phenomenon is more easily grasped.
 The variety of the organisations, the ingenuity of the means,
 whereby each is adapted to its element and its prey contrasts here
 distinctly with the want of any lasting final aim; instead of which
-there presents itself only momentary comfort, fleeting pleasure
-112 The World as Will and Idea (Vol. 3 of 3)
-conditioned by wants, much and long suffering, constant strife,
-bellum omnium, each one both a hunter and hunted, pressure,
-want, need, and anxiety, shrieking and howling; and this goes
+there presents itself only momentary comfort, fleeting pleasure conditioned by wants, much and long suffering, constant strife, bellum omnium, each one both a hunter and hunted, pressure, want, need, and anxiety, shrieking and howling; and this goes
 on in secula seculorum, or till once again the crust of the planet
 breaks. Yunghahn relates that he saw in Java a plain far as the
 eye could reach entirely covered with skeletons, and took it for
@@ -111,10 +120,13 @@ their united strength lay them on their backs, strip off their lower
 armour, that is, the small shell of the stomach, and so devour
 them alive. But often then a tiger pounces upon the dogs. Now
 all this misery repeats itself thousands and thousands of times,
-year out, year in. For this, then, these turtles are born. For
-whose guilt must they suffer this torment? Wherefore the whole
+year out, year in. For this, then, these turtles are born. 
+
+For whose guilt must they suffer this torment? Wherefore the whole
 scene of horror? To this the only answer is: it is thus that the
-la présence d'un homme. Notre voyageur, qui était armé, aurait donc prevenir
+la présence d'un homme. 
+
+<!-- Notre voyageur, qui était armé, aurait donc prevenir
 en aide à l'infortuné rongeur en tuant le serpent. Mais la science l'emporta
 sur la pitié, et il voulut voir quelle issue aurait le drame. Le dénoûment fut
 tragique. L'écureuil ne tarda point à pousser un cri plaintif qui, pour tous
@@ -130,7 +142,8 @@ démesurément pour le recevoir. Autant la couleuvre avait été inerte jusque l
 autant elle devint active dès qu'elle fut en possession de sa proie. Déroulant ses
 anneaux et prenant sa course de bas en haut avec une agilité inconcevable, sa
 reptation la porta en un clin d'œil au sommet de l'arbre, où elle alla sans doute
-digérer et dormir.”
+digérer et dormir.” -->
+
 In this example we see what spirit animates nature, for it reveals itself in
 it, and how very true is the saying of Aristotle quoted above (p. 106). This
 story is not only important with regard to fascination, but also as an argument
@@ -186,10 +199,10 @@ In peace industry and trade are active, inventions work miracles, seas are navig
 
 In this evident disproportion between the trouble and the reward, the will to live appears to us from this point of view, if taken objectively, as a fool, or subjectively, as a delusion, seized de Juillet, et probablement l'écureuil avait en haut ses petits, et dans le bas le magasin à fruits.
 
-Bientôt il fut comme saisi d'effroi, ces mouvemens devinrent
+<!-- Bientôt il fut comme saisi d'effroi, ces mouvemens devinrent
 désordonnés, on eut dit qu'il cherchait toujours à mettre un obstacle entre lui
 et certaines parties de l'arbre: puis il se tapit et resta immobile entre deux
-branches. Le voyageur eut le sentiment d'un danger pour l'innocente bête, mais  by which everything living works with the utmost exertion of its strength for something that is of no value. 
+branches. Le voyageur eut le sentiment d'un danger pour l'innocente bête, mais  by which everything living works with the utmost exertion of its strength for something that is of no value.  -->
 
 But when we consider it more closely, we shall find here also that it is rather a blind pressure, a tendency entirely without ground or motive. The law of motivation, as was shown in § 29 of the first volume, only extends to the particular actions, not to willing as a whole and in general. It depends upon this, that if we conceive of the human race and its action as a whole and universally, it does not present itself to us, as when we contemplate the particular actions, as a play of puppets who are pulled after the ordinary manner by threads outside them; but from this point of view, as puppets which are set in motion by internal clockwork. For if, as we have done above, one compares the ceaseless, serious, and laborious striving of men with what they gain by it, nay, even with what they ever can gain, the disproportion we have pointed out becomes apparent, for one recognises that that which is to be gained, taken as the motive-power, is entirely insufficient for the explanation of that movement and that ceaseless striving. What, then, is a short postponement of death, a slight easing of misery or deferment of pain, a momentary stilling of desire, compared with such an abundant and certain victory over them all as death? What could such advantages accomplish taken as actual moving causes of a human race, innumerable because constantly renewed, which unceasingly moves, strives, struggles, grieves, writhes, and performs the whole tragi-comedy of the [116] history of the world, nay, what says more than all, perseveres in such a mock-existence as long as each one possibly can? Clearly this is all inexplicable if we seek the moving causes outside the figures and conceive the human race as striving, in consequence of rational reflection, or something analogous to this (as moving threads), after those good things held out to it, the attainment of which would be a sufficient reward for its ceaseless cares and troubles. The matter being taken thus, every one would rather have long ago said, “Le jeu ne vaut pas la chandelle,” and have gone out. But, on the contrary, every one guards and defends his life, like a precious pledge intrusted to him under heavy responsibility, under infinite cares and abundant misery, even under which life is tolerable. The wherefore and the why, the reward for this, certainly he does not see; but he has accepted the worth of that pledge without seeing it, upon trust and faith, and does not know what it consists in. Hence I have said that these puppets are not pulled from without, but each bears in itself the clockwork from which its movements result. This is the will to live, manifesting itself as an untiring machine, an irrational tendency, which has not its sufficient reason in the external world. It holds the individuals firmly upon the scene, and is the primum mobile of their movements; while the external objects, the motives, only determine their direction in the particular case; otherwise the cause would not be at all suitable to the effect. For, as every manifestation of a force of nature has a cause, but the force of nature itself none, so every particular act of will has a motive, but the will in general has none: indeed at bottom these two are one and the same. The will, as that which is metaphysical, is everywhere the boundary-stone of every investigation, beyond which it cannot go. From the original and unconditioned nature of the will, which has been proved, it is explicable that man loves beyond everything else an existence full of misery, trouble, pain,[117] and anxiety, and, again, full of ennui, which, if he considered and weighed it purely objectively, he would certainly abhor, and fears above all things the end of it, which is yet for him the one thing certain.8 Accordingly we often see a miserable figure, deformed and shrunk with age, want, and disease, implore our help from the bottom of his heart for the prolongation of an existence, the end of which would necessarily appear altogether desirable if it were an objective judgment that determined here.
 

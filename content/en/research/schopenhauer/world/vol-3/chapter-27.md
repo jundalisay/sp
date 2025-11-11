@@ -12,24 +12,24 @@ writer:
 
 
 
-It is as if nature had wished, in the mechanical tendencies of
-animals, to give the investigator an illustrative commentary upon
-her works, according to final causes and the admirable design
-of her organised productions which is thereby introduced. For
-these mechanical tendencies show most clearly that creatures can
-work with the greatest decision and definiteness towards an end
-which they do not know, nay, of which they have no idea. Such,
-for instance, is the bird's nest, the spider's web, the ant-lion's
-pitfall, the ingenious bee-hive, the marvellous termite dwelling,
-&c., at least for those individual animals that carry them out for
-the first time; for neither the form of the perfected work nor the
-use of it can be known to them. Precisely so, however, does
-organising nature work; and therefore in the preceding chapter
-I gave the paradoxical explanation of the final cause, that it is
-a motive which acts without being known. And as in working
-from mechanical tendency that which is active is evidently and
-confessedly the will, so is it also really the will which is active in
-the working of organising nature.
+<!-- It is as if nature had wished, in the mechanical tendencies of animals, to give the investigator an illustrative commentary upon her works, according to final causes and the admirable design of her organised productions which is thereby ntroduced.  -->
+
+The mechanical tendencies of animals show most clearly that creatures can work with the greatest decision and definiteness towards an end which they do not know or have no idea of. 
+
+Examples are in:
+- the bird's nest
+- the spider's web
+- the ant-lion's pitfall
+- the ingenious bee-hive
+- the marvellous termite dwelling
+
+Such animals carry them out for the first time without knowing the form of the perfected work.
+
+Nature organises in that way.
+
+That is why in the preceding chapter I gave the paradoxical explanation of the final cause -- it is a motive which acts without being known. 
+
+And as in working from mechanical tendency that which is active is evidently and confessedly the will, so is it also really the will which is active in the working of organising nature.
 
 One might say, the will of animal creatures is set in motion
 in two different ways: either by motivation or by instinct; thus

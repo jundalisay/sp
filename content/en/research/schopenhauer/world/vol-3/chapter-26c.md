@@ -1,6 +1,6 @@
 ---
 heading: Chapter 26c
-title: "Teleology"
+title: "The final cause"
 description: ""
 weight: 48
 icon: Schopenhauer
@@ -18,8 +18,9 @@ state of the nervous system which occurs in the last period of
 consumption. From the same final cause is to be explained the
 analogous phenomenon that (according to Oken, Die Zeugung,
 p. 65) flies poisoned with arsenic still couple, and die in the act
-of copulation. The final cause of the pubes in both sexes, and
-of the Mons Veneris in the female, is that even in the case of
+of copulation. 
+
+The final cause of the pubes in both sexes, and of the Mons Veneris in the female, is that even in the case of
 very thin subjects the Ossa pubis shall not be felt, which might
 excite antipathy; the efficient cause, on the other hand, is to be
 sought in the fact that wherever the mucous membrane passes

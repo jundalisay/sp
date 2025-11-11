@@ -30,8 +30,7 @@ which changes its course. The will does not then transcend the
 individual, but is abolished in it. Yet this can only take place
 by means of the individual doing painful violence to itself. 
 
-If,
-however, it does take place, then the freedom from care and
+If, however, it does take place, then the freedom from care and
 the serenity of the purely individual existence is restored to the
 consciousness, and indeed in a higher degree. On the other hand,
 to the satisfaction of that most vehement of all impulses and
@@ -78,8 +77,7 @@ fill the scene. It is the theme of Æschylus.
 But now the act through which the will asserts itself and man
 arises is one of which all are, in their inmost being, ashamed,
 which they therefore carefully conceal; nay, if they are caught in
-it, are terrified as if they had been taken in a crime. It is an action of which in cold reflection one generally thinks with dislike, and
-in a lofty mood with loathing. Reflections which in this regard
+it, are terrified as if they had been taken in a crime. It is an action of which in cold reflection one generally thinks with dislike, and in a lofty mood with loathing. Reflections which in this regard
 approach the matter more closely are offered by Montaigne in
 the fifth chapter of the third book, under the marginal heading:
 “Ce que c'est que l'amour.” A peculiar sadness and repentance
@@ -195,8 +193,3 @@ bring the latter to consciousness in a mythical form. We have
 consequently no ground for assuming that a still more highly
 developed objectification of the will is ever reached, anywhere;
 for it has already reached its turning-point here.
-
-
-41 This chapter is connected with §§ 56-59 of the first volume. Also chapters
-11 and 12 of the second volume of the “Parerga and Paralipomena” should be
-compared with it.

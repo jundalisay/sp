@@ -1,6 +1,6 @@
 ---
 heading: Chapter 26b
-title: "Teleology"
+title: "Evolution"
 description: ""
 weight: 45
 icon: Schopenhauer
@@ -11,16 +11,21 @@ writer:
 ---
 
 
-Individual real exceptions to this universal law of design in
-organised nature have indeed been discovered, and with great
+Individual real exceptions to this universal law of design in organised nature have been discovered.
+
+<!-- , and with great
 surprise; but in these cases that exceptio firmat regulam applies,
-since they can be accounted for upon other grounds. Such, for
-example, is the fact that the tadpoles of the pipa toad have tails
-and gills, although, unlike all other tadpoles, they do not swim,
-but await their metamorphosis on the back of the mother; that
-the male kangaroo has the marsupial bones which in the female
-carry the pouch; that male mammals have breasts; that the Mus
-typhlus, a rat, has eyes, although very small ones, without any
+since they can be accounted for upon other grounds. Such,  -->
+
+For example:
+- The tadpoles of the pipa toad have tails and gills although they do not swim.
+
+<!-- but await their metamorphosis on the back of the mother; that -->
+
+
+The male kangaroo has the marsupial bones which in the female carry the pouch; that male mammals have breasts; 
+
+The Mus typhlus, a rat, has eyes, although very small ones, without any
 opening for them in the outer skin, which thus covers them,
 clothed with hair; and that the moles of the Apennines, and also
 two fishes—Murena cœcilia and Gastrobrauchus cœcus—are in

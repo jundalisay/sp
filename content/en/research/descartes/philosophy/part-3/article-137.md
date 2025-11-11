@@ -84,3 +84,4 @@ He says he saw a comet from one of the stars which are in the thigh of the Dog. 
 - a defect of his eyes
 
 This is because he says that it was less conspicuous when he was focusing his eyes on it than when he was looking away.
+
