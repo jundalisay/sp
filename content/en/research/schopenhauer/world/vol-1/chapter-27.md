@@ -1,6 +1,6 @@
 ---
 heading: Chapter 27
-title: "The thing-in-itself"
+title: "Etiology"
 date: 2025-09-20
 description: ""
 weight: 84
@@ -11,21 +11,18 @@ writer:
 ---
 
 
-If, from the foregoing consideration of the forces of
-nature and their phenomena, we have come to see clearly how
+If, from the foregoing consideration of the forces of nature and their phenomena, we have come to see clearly how
 far an explanation from causes can go, and where it must stop if
 it is not to degenerate into the vain attempt to reduce the content
 of all phenomena to their mere form, in which case there would
 ultimately remain nothing but form, we shall be able to settle in
 general terms what is to be demanded of etiology as a whole.
-It must seek out the causes of all phenomena in nature, i.e., the
-circumstances under which they invariably appear. Then it must
-refer the multitude of phenomena which have various forms in
-various circumstances to what is active in every phenomenon, and
-is presupposed in the cause,—original forces of nature. It must
-correctly distinguish between a difference of the phenomenon
-which arises from a difference of the force, and one which results
-merely from a difference of the circumstances under which the
+
+Etiology must seek out the causes of all phenomena in nature, i.e., the circumstances under which they invariably appear. 
+
+Then it must refer the multitude of phenomena which have various forms in various circumstances to what is active in every phenomenon, and is presupposed in the cause,—original forces of nature. 
+
+It must correctly distinguish between a difference of the phenomenon which arises from a difference of the force, and one which results merely from a difference of the circumstances under which the
 force expresses itself; and with equal care it must guard against
 taking the expressions of one and the same force under different
 circumstances for the manifestations of different forces, and
@@ -154,9 +151,7 @@ apparent at the 306th and following pages of that work. It is well
 known that all these opinions, that have been so often refuted,
 have reappeared quite recently with renewed confidence. 
 
-If
-we carefully examine the foundation of these views, we shall
-find that they ultimately involve the presupposition that the organism is merely an aggregate of phenomena of physical,
+These views ultimately involve the presupposition that the organism is merely an aggregate of phenomena of physical,
 chemical, and mechanical forces, which have come together
 here by chance, and produced the organism as a freak of nature
 without further significance. The organism of an animal or of a
@@ -164,7 +159,9 @@ human being would therefore be, if considered philosophically,
 not the exhibition of a special Idea, that is, not itself immediate
 objectivity of the will at a definite higher grade, but in it would
 appear only those Ideas which objectify the will in electricity,
-in chemism, and in mechanism. Thus the organism would be
+in chemism, and in mechanism. 
+
+Thus the organism would be
 as fortuitously constructed by the concurrence of these forces as
 the forms of men and beasts in clouds and stalactites, and would
 therefore in itself be no more interesting than they are. However,
@@ -193,8 +190,7 @@ and therefore a mere freak of nature, in which no special Idea
 appeared, i.e., the will did not directly reveal itself in it in a higher and specific grade, but just as in the phenomena of unorganised
 nature and by chance in this form. 
 
-The schoolmen, who certainly
-would not have allowed such a doctrine, would rightly have
+The schoolmen, who certainly would not have allowed such a doctrine, would rightly have
 said that it was a complete denial of the forma substantialis,
 and a degradation of it to the forma accidentalis. For the forma
 substantialis of Aristotle denotes exactly what I call the grade
@@ -203,8 +199,7 @@ is not to be overlooked that in all Ideas, that is, in all forces of
 unorganised, and all forms of organised nature, it is one and the
 same will that reveals itself, that is to say, which enters the form
 of the idea and passes into objectivity. Its unity must therefore
-be also recognisable through an inner relationship between all its phenomena. Now this reveals itself in the higher grades of
-the objectification of will, where the whole phenomenon is more
+be also recognisable through an inner relationship between all its phenomena. Now this reveals itself in the higher grades of the objectification of will, where the whole phenomenon is more
 distinct, thus in the vegetable and animal kingdoms, through
 the universally prevailing analogy of all forms, the fundamental
 type which recurs in all phenomena. This has, therefore, become
@@ -213,8 +208,7 @@ was originated by the French in this century, and it is most
 completely established in comparative anatomy as l'unité de
 plan, l'uniformité de l'élément anatomique. 
 
-To discover this
-fundamental type has been the chief concern, or at any rate
+To  discover this fundamental type has been the chief concern, or at any rate
 the praiseworthy endeavour, of the natural philosophers of the
 school of Schelling, who have in this respect considerable merit,
 although in many cases their hunt after analogies in nature
@@ -582,15 +576,12 @@ confined to what is immediately present, does not suffice. That [198]
 complicated, many-sided, imaginative being, man, with his many
 needs, and exposed as he is to innumerable dangers, must, in
 order to exist, be lighted by a double knowledge; a higher power,
-as it were, of perceptive knowledge must be given him, and
-210 The World As Will And Idea (Vol. 1 of 3)
-also reason, as the faculty of framing abstract conceptions. With
+as it were, of perceptive knowledge must be given him, and also reason, as the faculty of framing abstract conceptions. With
 this there has appeared reflection, surveying the future and the
 past, and, as a consequence, deliberation, care, the power of
 premeditated action independent of the present, and finally, the
 full and distinct consciousness of one's own deliberate volition
-as such. Now if with mere knowledge of perception there
-arose the possibility of illusion and deception, by which the
+as such. Now if with mere knowledge of perception there arose the possibility of illusion and deception, by which the
 previous infallibility of the blind striving of will was done away
 with, so that mechanical and other instincts, as expressions of
 unconscious will, had to lend their help in the midst of those that

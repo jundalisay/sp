@@ -1,6 +1,6 @@
 ---
 heading: Chapter 28
-title: "The diversity of Ideas"
+title: "The Diversity of Ideas"
 date: 2025-09-20
 description: ""
 weight: 88
@@ -11,15 +11,13 @@ writer:
 ---
 
 
-We have considered the great multiplicity and diversity
-of the phenomena in which the will objectifies itself, and we have
+We have considered the great multiplicity and diversity of the phenomena in which the will objectifies itself, and we have
 seen their endless and implacable strife with each other. 
 
 Yet the will itself, as thing-in-itself, is by no means included in that multiplicity
 and change. 
 
-The diversity of the (Platonic) Ideas, i.e., grades
-of objectification, the multitude of individuals in which each of
+The diversity of the (Platonic) Ideas, i.e., grades of objectification, the multitude of individuals in which each of
 these expresses itself, the struggle of forms for matter,—all this
 does not concern it, but is only the manner of its objectification,
 and only through this has an indirect relation to it, by virtue
@@ -31,9 +29,9 @@ or throng after each other as events, only one will manifests
 itself, of which everything is the visibility, the objectivity, and
 which remains unmoved in the midst of this change; it alone
 is thing-in-itself; all objects are manifestations, or, to speak the
-language of Kant, phenomena. Although in man, as (Platonic)
-Idea, the will finds its clearest and fullest objectification, yet man alone could not express its being. In order to manifest the full
-significance of the will, the Idea of man would need to appear,
+language of Kant, phenomena. 
+
+Although in man, as (Platonic) Idea, the will finds its clearest and fullest objectification, yet man alone could not express its being. In order to manifest the full significance of the will, the Idea of man would need to appear,
 not alone and sundered from everything else, but accompanied
 by the whole series of grades, down through all the forms of
 animals, through the vegetable kingdom to unorganised nature.
@@ -72,6 +70,7 @@ results from the fact that the will must live on itself, for there
 First Aspect. The Objectification Of The Will. 213
 exists nothing beside it, and it is a hungry will. Hence arise eager
 pursuit, anxiety, and suffering.
+
 It is only the knowledge of the unity of will as thing-in-itself,
 in the endless diversity and multiplicity of the phenomena,
 that can afford us the true explanation of that wonderful,
@@ -85,6 +84,7 @@ considering, we shall obtain a true and sufficient insight into
 the inner nature and meaning of the undeniable teleology of all
 organised productions of nature, which, indeed, we presupposed
 a priori, when considering and investigating them.
+
 This teleology is of a twofold description; sometimes an inner
 teleology, that is, an agreement of all the parts of a particular
 organism, so ordered that the sustenance of the individual and the
@@ -104,18 +104,17 @@ that the will is indivisible and is present as a whole in every
 manifestation, although the grades of its objectification, the
 (Platonic) Ideas, are very different from each other. 
 
-We may,
-for the sake of simplicity, regard these different Ideas as in themselves individual and simple acts of the will, in which it
-expresses its nature more or less. Individuals, however, are again
+We may, for the sake of simplicity, regard these different Ideas as in themselves individual and simple acts of the will, in which it expresses its nature more or less. Individuals, however, are again
 manifestations of the Ideas, thus of these acts, in time, space,
-and multiplicity. Now, in the lowest grades of objectivity, such
+and multiplicity. 
+
+Now, in the lowest grades of objectivity, such
 an act (or an Idea) retains its unity in the manifestation; while,
 in order to appear in higher grades, it requires a whole series
 of conditions and developments in time, which only collectively
 express its nature completely. 
 
-Thus, for example the Idea that
-reveals itself in any general force of nature has always one single
+Thus, for example the Idea that reveals itself in any general force of nature has always one single
 expression, although it presents itself differently according to the
 external relations that are present: otherwise its identity could
 not be proved, for this is done by abstracting the diversity that
@@ -148,7 +147,9 @@ of the manifestation the intelligible character, according to the
 expression of Kant, who shows his undying merit especially in
 establishing this distinction and explaining the relation between
 freedom and necessity, i.e., between the will as thing-in-itself
-and its manifestations in time.38 Thus the intelligible character
+and its manifestations in time.38 
+
+Thus the intelligible character
 coincides with the Idea, or, more accurately, with the original
 act of will which reveals itself in it. So far then, not only the
 empirical character of every man, but also that of every species of
@@ -193,7 +194,9 @@ or on moorland. Besides this, however, every plant expresses
 the special will of its species, and says something that cannot
 be uttered in any other tongue. But we must now apply what
 has been said to the teleological consideration of the organism,
-so far as it concerns its inner design. If in unorganised nature
+so far as it concerns its inner design. 
+
+If in unorganised nature
 the Idea, which is everywhere to be regarded as a single act of
 will, reveals itself also in a single manifestation which is always
 the same, and thus one may say that here the empirical character
@@ -220,7 +223,9 @@ other, by means of which the unity of the Idea is re-established
 in the manifestation. In accordance with this, we now recognise
 these different parts and functions of the organism as related
 to each other reciprocally as means and end, but the organism
-itself as the final end of all. Consequently, neither the breaking
+itself as the final end of all.
+
+Consequently, neither the breaking
 up of the Idea, which in itself is simple, into the multiplicity of
 the parts and conditions of the organism, on the one hand, nor,
 on the other hand, the re-establishment of its unity through the
@@ -300,7 +305,9 @@ as the outward influence may be, the empirical character which
 expresses itself in the course of life must yet, whatever form
 it takes, accurately objectify the intelligible character, for the
 latter adapts its objectification to the given material of actual
-circumstances. We have now to assume something analogous
+circumstances. 
+
+We have now to assume something analogous
 to the influence of outward circumstances upon the life that is [208]
 determined in essential matters by the character, if we desire to
 understand how the will, in the original act of its objectification,
@@ -324,11 +331,12 @@ also in some way protected, to a certain extent, against its natural
 enemy: the eye is adapted to the light and its refrangibility, the
 lungs and the blood to the air, the air-bladder of fish to water,
 the eye of the seal to the change of the medium in which it must
-see, the water-pouch in the stomach of the camel to the drought of the African deserts, the sail of the nautilus to the wind that is
-to drive its little bark, and so on down to the most special and
+see, the water-pouch in the stomach of the camel to the drought of the African deserts, the sail of the nautilus to the wind that is to drive its little bark, and so on down to the most special and
 astonishing outward adaptations.40 We must abstract however
 here from all temporal relations, for these can only concern the
-manifestation of the Idea, not the Idea itself. Accordingly this
+manifestation of the Idea, not the Idea itself. 
+
+Accordingly this
 kind of explanation must also be used retrospectively, and we
 must not merely admit that every species accommodated itself
 to the given environment, but also that this environment itself,

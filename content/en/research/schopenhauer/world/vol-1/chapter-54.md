@@ -12,14 +12,9 @@ writer:
 
 
 
-The first three books will, it is hoped, have conveyed
-the distinct and certain knowledge that the world as idea is the
-complete mirror of the will, in which it knows itself in ascending grades of distinctness and completeness, the highest of which [354]
-is man, whose nature, however, receives its complete expression
-only through the whole connected series of his actions. The
-self-conscious connection of these actions is made possible by
-reason, which enables a man constantly to survey the whole in
-the abstract.
+The first three books will, it is hoped, have conveyed the distinct and certain knowledge that the world as idea is the complete mirror of the will, in which it knows itself in ascending grades of distinctness and completeness, the highest of which is man, whose nature, however, receives its complete expression only through the whole connected series of his actions. 
+
+The self-conscious connection of these actions is made possible by reason, which enables a man constantly to survey the whole in the abstract.
 
 The will, which, considered purely in itself, is without
 knowledge, and is merely a blind incessant impulse, as we
@@ -27,8 +22,9 @@ see it appear in unorganised and vegetable nature and their
 laws, and also in the vegetative part of our own life, receives
 through the addition of the world as idea, which is developed in
 subjection to it, the knowledge of its own willing and of what it
-is that it wills. And this is nothing else than the world as idea,
-life, precisely as it exists. Therefore we called the phenomenal
+is that it wills.
+
+This is nothing else than the world as idea, life, precisely as it exists. Therefore we called the phenomenal
 world the mirror of the will, its objectivity. And since what
 the will wills is always life, just because life is nothing but the
 representation of that willing for the idea, it is all one and a mere
@@ -48,11 +44,12 @@ exists only for the knowledge which is bound to the principle
 of sufficient reason, to the principio individuationis. Certainly,
 for this kind of knowledge, the individual receives his life as a
 gift, rises out of nothing, then suffers the loss of this gift through
-death, and returns again to nothing. But we desire to consider
-life philosophically, i.e., according to its Ideas, and in this sphere we shall find that neither the will, the thing-in-itself in
-all phenomena, nor the subject of knowing, that which perceives
-all phenomena, is affected at all by birth or by death. Birth and
-death belong merely to the phenomenon of will, thus to life; and
+death, and returns again to nothing. 
+
+But we desire to consider life philosophically, i.e., according to its Ideas, and in this sphere we shall find that neither the will, the thing-in-itself in all phenomena, nor the subject of knowing, that which perceives
+all phenomena, is affected at all by birth or by death. 
+
+Birth and death belong merely to the phenomenon of will, thus to life; and
 it is essential to this to exhibit itself in individuals which come
 into being and pass away, as fleeting phenomena appearing in
 the form of time—phenomena of that which in itself knows no

@@ -11,30 +11,19 @@ writer:
 ---
 
 
-First, however, the following very essential remark. I
+<!-- First, however, the following very essential remark. I
 hope that in the preceding book I have succeeded in producing
-the conviction that what is called in the Kantian philosophy the
-thing-in-itself, and appears there as so significant, and yet so
-obscure and paradoxical a doctrine, and especially on account
-of the manner in which Kant introduced it as an inference from
-the caused to the cause, was considered a stumbling-stone, and,
-in fact, the weak side of his philosophy,—that this, I say, if it is
-reached by the entirely different way by which we have arrived
-at it, is nothing but the will when the sphere of that conception
-is extended and defined in the way I have shown. 
+the conviction that what is called in  -->
 
-I hope,
-further, that after what has been said there will be no hesitation in
-recognising the definite grades of the objectification of the will,
-which is the inner reality of the world, to be what Plato called the
-eternal Ideas or unchangeable forms (μπ¥∆); a doctrine which is regarded as the principal, but at the same time the most obscure
-and paradoxical dogma of his system, and has been the subject
-of reflection and controversy of ridicule and of reverence to so
-many and such differently endowed minds in the course of many
-centuries.
+In the Kantian philosophy, the thing-in-itself appears so significant, and yet so obscure and paradoxical a doctrine.
 
-If now the will is for us the thing-in-itself, and the Idea is
-the immediate objectivity of that will at a definite grade, we
+Kant introduced it as an inference from the caused to the cause, was considered a stumbling-stone, and, in fact, the weak side of his philosophy.
+
+If the thing-in-itself is reached by the entirely different way by which we have arrived at it, is nothing but the will when the sphere of that conception is extended and defined in the way I have shown. 
+
+There will be no hesitation in recognising the definite grades of the objectification of the will, which is the inner reality of the world, to be what Plato called the eternal Ideas or unchangeable forms (μπ¥∆); a doctrine which is regarded as the principal, but at the same time the most obscure and paradoxical dogma of his system, and has been the subject of reflection and controversy of ridicule and of reverence to so many and such differently endowed minds in the course of  any centuries.
+
+If now the will is for us the thing-in-itself, and the Idea is the immediate objectivity of that will at a definite grade, we
 find that Kant's thing-in-itself, and Plato's Idea, which to him
 is the only øΩƒ…¬ øΩ, these two great obscure paradoxes of the
 two greatest philosophers of the West are not indeed identical,

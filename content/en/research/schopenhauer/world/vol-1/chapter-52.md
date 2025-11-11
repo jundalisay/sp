@@ -8,6 +8,8 @@ icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+aliases:
+  /research/schopenhauer/world/vol-1/chapter-52  
 ---
 
 

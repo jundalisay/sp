@@ -14,17 +14,13 @@ writer:
 Book 2 wrote that in the whole of nature, at all the grades of the objectification of
 will, there was a necessary and constant conflict between the
 individuals of all species; and in this way was expressed the
-inner contradiction of the will to live with itself. At the highest
-grade of the objectification, this phenomenon, like all others,
-will exhibit itself with greater distinctness, and will therefore be
-more easily explained. With this aim we shall next attempt to
-trace the source of egoism as the starting-point of all conflict.
-We have called time and space the principium individuationis,
-because only through them and in them is multiplicity of the
-homogeneous possible. 
+inner contradiction of the will to live with itself. 
 
-They are the essential forms of natural
-knowledge, i.e., knowledge springing from the will. Therefore the
+At the highest grade of the objectification, this phenomenon, like all others, will exhibit itself with greater distinctness, and will therefore be more easily explained. With this aim we shall next attempt to trace the source of egoism as the starting-point of all conflict. 
+
+We have called time and space the principium individuationis, because only through them and in them is multiplicity of the homogeneous possible. 
+
+They are the essential forms of natural knowledge, i.e., knowledge springing from the will. Therefore the
 will everywhere manifests itself in the multiplicity of individuals.
 But this multiplicity does not concern the will as thing-in-itself,
 but only its phenomena. The will itself is present, whole and

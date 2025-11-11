@@ -2,7 +2,7 @@
 heading: Chapter 53
 title: "Action"
 date: 2025-09-20
-description: ""
+description: "This Book is the most serious for it relates to the action of men."
 weight: 160
 icon: Schopenhauer
 writer:
@@ -11,16 +11,13 @@ writer:
 ---
 
 
-
-Fourth Book. The World As Will.
+<!-- Fourth Book. The World As Will.
 Second Aspect. The Assertion And Denial
 Of The Will To Live, When
 Self-Consciousness Has Been Attained.
 Tempore quo cognitio simul advenit, amor e medio
 supersurrexit.—Oupnek'hat,
-Studio Anquetil Duperron, vol. ii. p. 216.
-
-
+Studio Anquetil Duperron, vol. ii. p. 216. -->
 
 This Book is the most serious for it relates to the action of men.
 

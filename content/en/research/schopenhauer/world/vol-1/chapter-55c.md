@@ -1,6 +1,6 @@
 ---
 heading: Chapter 55c
-title: "What is Genius?"
+title: "The Empirical freedom of the will"
 date: 2025-09-20
 description: ""
 weight: 178
@@ -33,8 +33,7 @@ all this is a reversal of the true relation. Will is first and original;
 knowledge is merely added to it as an instrument belonging to
 the phenomenon of will. 
 
-Therefore every man is what he is
-through his will, and his character is original, for willing is the
+Therefore every man is what he is through his will, and his character is original, for willing is the
 basis of his nature. Through the knowledge which is added to it
 he comes to know in the course of experience what he is, i.e., he
 learns his character. Thus he knows himself in consequence of 

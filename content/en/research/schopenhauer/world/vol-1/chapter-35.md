@@ -17,9 +17,7 @@ In order to gain a deeper insight into the nature of the world, we should distin
 
 We shall then agree with Plato when he attributes[235] actual being only to the Ideas, and allows only an illusive, dream- like existence to things in space and time, the real world for the individual. Then we shall understand how one and the same Idea reveals itself in so many phenomena, and presents its nature only bit by bit to the individual, one side after another.
 
-Then we
-shall also distinguish the Idea itself from the way in which its
-manifestation appears in the observation of the individual, and
+Then we shall also distinguish the Idea itself from the way in which its manifestation appears in the observation of the individual, and
 recognise the former as essential and the latter as unessential.
 Let us consider this with the help of examples taken from the
 most insignificant things, and also from the greatest. 

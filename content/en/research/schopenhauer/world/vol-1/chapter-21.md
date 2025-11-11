@@ -26,9 +26,9 @@ find that of itself it affords him the key to the knowledge of the
 inmost being of the whole of nature; for he now transfers it to
 all those phenomena which are not given to him, like his own
 phenomenal existence, both in direct and indirect knowledge,
-but only in the latter, thus merely one-sidedly as idea alone. He
-will recognise this will of which we are speaking not only in
-those phenomenal existences which exactly resemble his own,
+but only in the latter, thus merely one-sidedly as idea alone. 
+
+He will recognise this will of which we are speaking not only in those phenomenal existences which exactly resemble his own,
 in men and animals as their inmost nature, but the course of
 reflection will lead him to recognise the force which germinates
 and vegetates in the plant, and indeed the force through which the
