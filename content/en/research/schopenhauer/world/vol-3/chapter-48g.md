@@ -1,3 +1,15 @@
+---
+heading: Chapter 47c
+title: "Christian Sects"
+description: ""
+weight: 260
+icon: Schopenhauer
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
+
 
 
 The church-dance, also, which follows the sermon is accompanied by the singing of the rest. It is a lively dance, performed in

@@ -1,19 +1,38 @@
+---
+heading: Chapter 47c
+title: "Mysticism"
+description: ""
+weight: 236
+icon: Schopenhauer
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 
-In agreement with all these considerations, and also with what is proved in the second book as to the origin of knowledge in
-the will, the assertion of which it reflects in fulfilling the sole function of knowledge, that of being serviceable to the ends of the will, while true salvation lies in its denial, we see all religions at their highest point pass over into mysticism and mysteries, i.e., into darkness and veiled obscurity, which for knowledge signify merely an empty spot, the point where knowledge necessarily ceases; therefore for thought this can only be expressed by negations, but for sense perception it is indicated by symbolical signs; in temples by dim light and silence; in Brahmanism by the required suspension of all thought and perception for the sake of sinking oneself profoundly in the grounds of one's own
-being, mentally pronouncing the mysterious Oum.
+Book 2 put:
+- the origin of knowledge in the will
+- the sole function of knowledge is to be serviceable to the ends of the will
+
+True salvation lies in the denial of the will.
+
+All religions at their highest point pass over into mysticism and mysteries, i.e., into darkness and veiled obscurity where  knowledge ceases.
+
+Therefore, for thought this can only be expressed by negations.
+
+But for sense perception, it is indicated by symbolical signs.
+
+In temples by dim light and silence; in Brahmanism by the required suspension of all thought and perception for the sake of sinking oneself profoundly in the grounds of one's own being, mentally pronouncing the mysterious Oum.
 
 <!-- 48 If we keep in view the essential immanence of our knowledge and of all knowledge, which arises from the fact that it is a secondary thing which has only appeared for the ends of the will, it then becomes explicable to us that all mystics of all religions ultimately attain to a kind of ecstasy, in which all and every knowledge, with its whole fundamental form, object and subject, in the widest sense is every guidance to the immediate consciousness of that to which neither perception nor conception, thus in general no knowledge extends. -->
 
-The mystic is thus opposed to the philosopher by the fact that he begins from within,
-while the philosopher begins from without. The mystic starts
-from his inner, positive, individual experience, in which he finds
-himself to be the eternal and only being, &c. But nothing of
-this is communicable except the assertions which one has to
-accept upon his word; consequently he cannot convince. The
-philosopher, on the other hand, starts from what is common to
+The mystic is thus opposed to the philosopher by the fact that he begins from within, while the philosopher begins from without. 
+
+The mystic starts from his inner, positive, individual experience, in which he finds himself to be the eternal and only being, &c. 
+
+But nothing of this is communicable except the assertions which one has to accept upon his word; consequently he cannot convince. The philosopher, on the other hand, starts from what is common to
 all, from the objective phenomenon which lies before all, and
 from the facts of consciousness as they are present in all. 
 
@@ -73,12 +92,11 @@ and another translated into German, and in many other works.
 The Sufis are the Gnostics of Islam. Hence Sadi denotes them
 by a word which may be translated “full of insight.” Theism,
 calculated with reference to the capacity of the multitude, places
-the source of existence without us, as an object. All mysticism,
-and so also Sufism, according to the various degrees of its ini-
-tiation, draws it gradually back within us, as the subject, and
-the adept recognises at last with wonder and delight that he is
-421
-it himself. This procedure, common to all mysticism, we find
+the source of existence without us, as an object. 
+
+All mysticism,
+and so also Sufism, according to the various degrees of its initiation, draws it gradually back within us, as the subject, and
+the adept recognises at last with wonder and delight that he is it himself. This procedure, common to all mysticism, we find
 not only expressed by Meister Eckhard, the father of German
 mysticism, in the form of a precept for the perfect ascetic, “that
 he seek not God outside himself” (Eckhard's works, edited by

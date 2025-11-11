@@ -1,10 +1,19 @@
+---
+heading: Chapter 48f
+title: "Judaism"
+description: ""
+weight: 256
+icon: Schopenhauer
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 
-In truth, Judaism, with its ¿±Ωƒ± ∫±ª± ªπ±Ω, is not related to
-Christianity as regards its spirit and ethical tendency, but Brah-
-manism and Buddhism are. But the spirit and ethical tendency
-are what is essential in a religion, not the myths in which these
+Judaism, with its ¿±Ωƒ± ∫±ª± ªπ±Ω, is not related to Christianity as regards its spirit and ethical tendency, but Brah-
+manism and Buddhism are. But the spirit and ethical tendency are what is essential in a religion, not the myths in which these
 are clothed.
 
 I therefore cannot give up the belief that the doctrines of Christianity can in some way be derived from these primitive

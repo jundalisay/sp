@@ -3,7 +3,7 @@ heading: Chapter 49
 title: "The Way Of Salvation"
 description: ""
 date: 2025-10-05
-weight: 216
+weight: 271
 icon: Schopenhauer
 writer:
   name: Schopenhauer

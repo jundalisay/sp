@@ -1,3 +1,14 @@
+---
+heading: Chapter 47c
+title: "Justice and Rewards"
+description: ""
+weight: 232
+icon: Schopenhauer
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 
@@ -9,10 +20,10 @@ simply by the perfect exercise of the moral virtues, asceticism
 in the narrowest sense, thus the surrender of all possessions, the
 intentional seeking out of what is disagreeable and repulsive,
 self-mortification, fasts, the hair shirt, and the scourge—all this
-is rejected by many, and perhaps rightly, as superfluous. Justice
-itself is the hair shirt that constantly harasses its owner and the
-414 The World as Will and Idea (Vol. 3 of 3)
-charity that gives away what is needed, provides constant fasts.45
+is rejected by many, and perhaps rightly, as superfluous. 
+
+Justice itself is the hair shirt that constantly harasses its owner and the charity that gives away what is needed, provides constant fasts.45
+
 Just on this account Buddhism is free from all strict and excessive
 asceticism, which plays a large part in Brahmanism, thus from
 intentional self-mortification. It rests satisfied with the celibacy,

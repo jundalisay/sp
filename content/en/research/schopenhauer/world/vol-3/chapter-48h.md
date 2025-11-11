@@ -1,16 +1,25 @@
+---
+heading: Chapter 48h
+title: "Abbe Rance"
+description: ""
+weight: 262
+icon: Schopenhauer
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 
 
 
-
-
-We can arrive at a comprehension of what goes on in
-the heart of a man, in the case of an elevation of this kind and
+We can arrive at a comprehension of what goes on in the heart of a man, in the case of an elevation of this kind and
 the accompanying purifying process, by considering what every
 emotional man experiences on beholding a tragedy, which is
-of kindred nature to this. In the third and fourth acts perhaps
-such a man is distressed and disturbed by the ever more clouded
+of kindred nature to this. 
+
+In the third and fourth acts perhaps such a man is distressed and disturbed by the ever more clouded
 and threatened happiness of the hero; but when, in the fifth act,
 this happiness is entirely wrecked and shattered, he experiences
 a certain elevation of the soul, which affords him an infinitely

@@ -1,10 +1,21 @@
+---
+heading: Chapter 46c
+title: "The Greeks and Romans"
+description: ""
+weight: 210
+icon: Schopenhauer
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 
 
-This world is so arranged as to be able to maintain itself with great
-difficulty; but if it were a little worse, it could no longer maintain
-itself. Consequently a worse world, since it could not continue
+This world is so arranged as to be able to maintain itself with great difficulty; but if it were a little worse, it could no longer maintain itself. 
+
+Consequently a worse world, since it could not continue
 to exist, is absolutely impossible: thus this world itself is the
 worst of all possible worlds. For not only if the planets were
 to run their heads together, but even if any one of the actually
@@ -18,7 +29,9 @@ also can continue and go on. We will hope that, although Newton
 was of an opposite opinion, they have not miscalculated, and
 consequently that the mechanical perpetual motion realised in
 such a planetary system will not also, like the rest, ultimately
-come to a standstill. Again, under the firm crust of the planet dwell the powerful forces of nature which, as soon as some
+come to a standstill. 
+
+Again, under the firm crust of the planet dwell the powerful forces of nature which, as soon as some
 accident affords them free play, must necessarily destroy that
 crust, with everything living upon it, as has already taken place
 at least three times upon our planet, and will probably take place
@@ -33,10 +46,8 @@ received just barely so much in the way of organs and powers as
 enables them to procure with the greatest exertion sustenance for
 their own lives and food for their offspring; therefore if a brute
 loses a limb, or even the full use of one, it must generally perish.
-Even of the human race, powerful as are the weapons it pos-
-sesses in understanding and reason, nine-tenths live in constant
-386 The World as Will and Idea (Vol. 3 of 3)
-conflict with want, always balancing themselves with difficulty
+
+Even of the human race, powerful as are the weapons it possesses in understanding and reason, nine-tenths live in constant conflict with want, always balancing themselves with difficulty
 and effort upon the brink of destruction. Thus throughout, as for
 the continuance of the whole, so also for that of each individual
 being the conditions are barely and scantily given, but nothing
@@ -54,8 +65,7 @@ possible, and which consequently were somewhat worse than[397]
 the worst of possible worlds.
 
 Optimism is at bottom the unmerited self-praise of the real
-originator of the world, the will to live, which views itself complacently in its works; and accordingly it is not only a false,
-but also a pernicious doctrine. For it presents life to us as a
+originator of the world, the will to live, which views itself complacently in its works; and accordingly it is not only a false, but also a pernicious doctrine. For it presents life to us as a
 desirable condition, and the happiness of man as the end of it.
 Starting from this, every one then believes that he has the most
 just claim to happiness and pleasure; and if, as is wont to happen,
@@ -69,8 +79,7 @@ is represented as a valley of tears, life as a process of purifying
 or refining, and the symbol of Christianity is an instrument of
 torture. Therefore, when Leibnitz, Shaftesbury, Bolingbroke,
 and Pope brought forward optimism, the general offence which
-it gave depended principally upon the fact that optimism is irreconcilable with Christianity; as Voltaire states and explains in
-the preface to his excellent poem, “Le désastre de Lisbonne,” which is also expressly directed against optimism. This great
+it gave depended principally upon the fact that optimism is irreconcilable with Christianity; as Voltaire states and explains in the preface to his excellent poem, “Le désastre de Lisbonne,” which is also expressly directed against optimism. This great
 man, whom I so gladly praise, in opposition to the abuse of venal
 German ink-slingers, is placed decidedly higher than Rousseau
 by the insight to which he attained in three respects, and which
@@ -142,37 +151,45 @@ mors. Etymologicum magnum, voce íπø¬; also Eustath. ad Iliad.,
 i. p. 31.)
 
 The beautiful lines of the “Theogony” are famous:—
-“ë¡«∑Ω ºμΩ º∑ ∆≈Ω±π μ¿π«∏øΩπøπ√πΩ ±¡π√ƒøΩ,
+
+<!-- “ë¡«∑Ω ºμΩ º∑ ∆≈Ω±π μ¿π«∏øΩπøπ√πΩ ±¡π√ƒøΩ,
 ú∑¥Ω μπ√π¥μπΩ ±≈≥±¬ øæμø¬ !μªπø≈;
 ¶≈Ωƒ± ¥Ω A¿…¬ …∫π√ƒ± ¿≈ª±¬ ë ¥±ø ¿μ¡∑√±π,
 ö±π ∫μπ√∏±π ¿øªª∑Ω ≥∑Ω μ¿±º∑√±ºμΩøΩ.”
 (Optima sors homini natum non esse, nec unquam.
 Adspexisse diem, flammiferumque jubar.
 Altera jam genitum demitti protinus Orco,
-Et pressum multa mergere corpus humo.)
-[400]
-Sophocles, in “Œdipus Colonus” (1225), has the following
-abbreviation of the same:—
-“ú∑ ∆≈Ω±π ƒøΩ ¿±Ωƒ± Ωπ∫±
+Et pressum multa mergere corpus humo.) -->
+
+
+Sophocles, in “Œdipus Colonus” (1225), has the following abbreviation of the same:
+
+<!-- “ú∑ ∆≈Ω±π ƒøΩ ¿±Ωƒ± Ωπ∫±
 ªø≥øΩ; ƒø ¥Ω μ¿μπ ∆±Ω√,
 ≤∑Ω±π ∫μπ∏μΩ, A∏μΩ ¿μ¡ !∫μπ,
 ¿øª≈ ¥μ≈ƒμ¡øΩ, a¬ ƒ±«π√ƒ±.”
 (Natum non esse sortes vincit alias omnes: proxima autem
 est, ubi quis in lucem editus fuerit, eodem redire, unde venit,
-quam ocissime.)
-Euripides says:—
-“†±¬ ¥Ωø¥≈Ω∑¡ø¬ ≤πø¬ ±Ω∏¡…¿…Ω,
+quam ocissime.) -->
+
+Euripides says:
+
+<!-- “†±¬ ¥Ωø¥≈Ω∑¡ø¬ ≤πø¬ ±Ω∏¡…¿…Ω,
 öΩø≈∫ μ√ƒπ ¿øΩ…Ω ±Ω±¿±≈√π¬.”
 (Omnis hominum vita est plena dolore,
 Nec datur laborum remissio.)
-390 The World as Will and Idea (Vol. 3 of 3)
-—HIPPOL, 189.
+
+
+—HIPPOL, 189. -->
+
 And Homer already said:—
-“ü≈ ºμΩ ≥±¡ ƒπ μ√ƒπΩ ø ∂≈¡…ƒμ¡øΩ ±Ω¥¡ø¬
+
+<!-- “ü≈ ºμΩ ≥±¡ ƒπ μ√ƒπΩ ø ∂≈¡…ƒμ¡øΩ ±Ω¥¡ø¬
 †±Ωƒ…Ω, A√√± ¥μ ≥±π±Ω μ¿π ¿Ωμμπ ƒμ ∫±π ¡¿μπ.”
 (Non enim quidquam alicubi est calamitosius homine
 Omnium, quotquot super terram spirantque et moventur.)
-—II. xvii. 446.
+—II. xvii. 446. -->
+
 Even Pliny says: “Quapropter hoc primum quisque in remediis
 animi sui habeat, ex omnibus bonis, quæ homini natura tribuit,
 nullum melius esse tempestiva morte” (Hist. Nat. 28, 2).
@@ -205,4 +222,3 @@ wretchedness of this existence; he presents it upon every page of
 his works, yet in such a multiplicity of forms and applications,
 with such wealth of imagery that he never wearies us, but, on the
 contrary, is throughout entertaining and exciting.
-

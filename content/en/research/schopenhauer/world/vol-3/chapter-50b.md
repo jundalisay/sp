@@ -1,14 +1,15 @@
 ---
-heading: Chapter 50
+heading: Chapter 50b
 title: "Retrospect and More General View"
 description: ""
 date: 2025-10-05
-weight: 230
+weight: 290
 icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
 ---
+
 
 
 Because of the Kantian criticism of speculative theology, the German philosophers threw themselves back on Spinoza.

@@ -1,3 +1,14 @@
+---
+heading: Chapter 48e
+title: "The Christian View"
+description: ""
+weight: 252
+icon: Schopenhauer
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 

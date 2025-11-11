@@ -3,7 +3,7 @@ heading: Chapter 48
 title: "The Doctrine Of The Denial Of The Will To Live"
 description: ""
 date: 2025-10-05
-weight: 206
+weight: 226
 icon: Schopenhauer
 writer:
   name: Schopenhauer
@@ -12,9 +12,7 @@ writer:
 
 
 
-44 This chapter is connected with § 68 of the first volume. Chapter 14 of the
-second volume of the Parerga should also be compared with it.
-
+44 This chapter is connected with § 68 of the first volume. Chapter 14 of the second volume of the Parerga should also be compared with it.
 
 Man has his existence and being either with his will, i.e., his consent, or without this; in the latter case an existence so embittered by manifold and insupportable sufferings would be a flagrant injustice. The ancients, especially the Stoics, also the Peripatetics and Academics, strove in vain to prove that virtue sufficed to make life happy. Experience cried out loudly against it. What really lay at the foundation of the efforts of these philosophers, although they were not distinctly conscious of it, was the assumed justice of the thing; whoever was without guilt ought to be free from suffering, thus happy.
 

@@ -2,7 +2,7 @@
 heading: Chapter 45
 title: "The Assertion Of The Will To Live"
 description: ""
-weight: 136
+weight: 196
 icon: Schopenhauer
 date: 2025-10-05
 writer:
@@ -12,10 +12,10 @@ writer:
 
 
 
-40 This chapter is connected with § 60 of the first volume.
+This chapter is connected with § 60 of the first volume.
 
-If the will to live exhibited itself merely as an impulse to self-preservation, this would only be an assertion of the individual
-phenomenon for the span of time of its natural duration. 
+
+If the will to live exhibited itself merely as an impulse to self-preservation, this would only be an assertion of the individual phenomenon for the span of time of its natural duration. 
 
 The cares and troubles of such a life would not be great, and consequently existence would be easy and serene. Since, on the
 contrary, the will wills life absolutely and for all time, it exhibits

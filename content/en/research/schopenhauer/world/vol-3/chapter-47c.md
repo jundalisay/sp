@@ -1,8 +1,8 @@
 ---
 heading: Chapter 47c
-title: "Ethics"
+title: "Sympathies"
 description: ""
-weight: 142
+weight: 222
 icon: Schopenhauer
 date: 2025-10-05
 writer:
@@ -107,10 +107,7 @@ of the punishment, along with the magnitude of the injury to be
 guarded against, we have to consider the strength of the motives
 which impel to the forbidden action. Quite a different standard
 of punishment would be established if expiation, retribution, jus
-talionis, were its true ground. But the criminal code ought to be
-404 The World as Will and Idea (Vol. 3 of 3)
-nothing but a register of counter-motives for possible criminal
-actions: therefore each of these motives must decidedly outweigh
+talionis, were its true ground. But the criminal code ought to be nothing but a register of counter-motives for possible criminal actions: therefore each of these motives must decidedly outweigh
 the motives which lead to these actions, and indeed so much the
 more the greater the evil is which would arise from the action
 to be guarded against, the stronger the temptation to it, and the
@@ -164,6 +161,7 @@ the first volume of the Parerga “On the Appearance of Intention [416]
 in the Fate of Individuals” I have set forth my thoughts upon this
 mysterious guidance of things, a guidance which indeed can only
 be conceived symbolically.
+
 In § 14 of my prize essay on the foundation of morals there
 will be found an exposition of egoism, as regards its nature; and
 the following attempt to discover its root may be looked upon
@@ -211,11 +209,11 @@ or at least as good as nothing. Hence upon this depends the great
 difference between what each one necessarily is in his own eyes
 and what he is in the eyes of others, consequently the egoism
 with which every one reproaches every one else.
+
 In consequence of this egoism our fundamental error of all is
 this, that with reference to each other we are reciprocally not I.
 
-On the other hand, to be just, noble, and benevolent is nothing else than to translate my metaphysics into actions. To say that
-time and space are mere forms of our knowledge, not conditions
+On the other hand, to be just, noble, and benevolent is nothing else than to translate my metaphysics into actions. To say that time and space are mere forms of our knowledge, not conditions
 of things in themselves, is the same as to say that the doctrine of
 metempsychosis, “Thou shalt one day be born as him whom thou
 now injurest, and in thy turn shalt suffer like injury,” is identical
@@ -268,8 +266,9 @@ the future, thus by a kind of omnipresence.
 Upon this metaphysical identity of the will, as the thing in
 itself, in the infinite multiplicity of its phenomena, three principal
 phenomena depend, which may be included under the common
-name of sympathies: (1) sympathy proper, which, as I have
-shown, is the basis of justice and benevolence, caritas; (2) sexual
+name of sympathies: 
+
+1. sympathy proper, which, as I have shown, is the basis of justice and benevolence, caritas; (2) sexual
 love, with capricious selection, amor, which is the life of the
 species, that asserts its precedence over that of the individual; (3)
 magic, to which animal magnetism and sympathetic cures also
@@ -279,4 +278,3 @@ physical multiplicity of its phenomena, whereby a connection
 shows itself which is entirely different from that brought about
 by means of the forms of the phenomenon which we comprehend
 under the principle of sufficient reason.
-

@@ -1,8 +1,8 @@
 ---
-heading: Chapter 37
+heading: Chapter 47
 title: "Ethics"
 description: ""
-weight: 142
+weight: 214
 icon: Schopenhauer
 date: 2025-10-05
 writer:
@@ -12,11 +12,9 @@ writer:
 
 
 
-43 This chapter is connected with §§ 55, 62, 67 of the first volume.
+This chapter is connected with §§ 55, 62, 67 of the first volume.
 
-
-Here is the great gap which occurs in these supplements, on
-account of the circumstance that I have already dealt with moral
+Here is the great gap which occurs in these supplements, on account of the circumstance that I have already dealt with moral
 philosophy in the narrower sense in the two prize essays published
 under the title, “Die Grundprobleme der Ethik,” an acquaintance
 with which is assumed, as I have said, in order to avoid useless

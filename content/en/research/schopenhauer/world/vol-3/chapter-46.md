@@ -2,7 +2,7 @@
 heading: Chapter 45
 title: "The Vanity And Suffering Of Life"
 description: ""
-weight: 140
+weight: 200
 icon: Schopenhauer
 date: 2025-10-05
 writer:

@@ -1,8 +1,8 @@
 ---
 heading: Chapter 48d
-title: "Ethics"
+title: "Asceticism"
 description: ""
-weight: 142
+weight: 242
 icon: Schopenhauer
 date: 2025-10-05
 writer:
@@ -158,6 +158,4 @@ those, however, who do not wish to go back to the authorities
 themselves I recommend two works for the purpose of removing
 any kind of doubt as to the tendency of Christianity we are speak-
 ing about: Carové, “Ueber das Cölibatgesetz,” 1832, and Lind,
-“De cœlibatu Christianorum per tria priora secula,” Havniœ,
-1839. 
-
+“De cœlibatu Christianorum per tria priora secula,” Havniœ, 1839. 

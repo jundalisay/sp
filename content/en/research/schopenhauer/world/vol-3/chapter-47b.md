@@ -2,7 +2,7 @@
 heading: Chapter 47b
 title: "Ethics"
 description: ""
-weight: 142
+weight: 216
 icon: Schopenhauer
 date: 2025-10-05
 writer:

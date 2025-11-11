@@ -1,6 +1,18 @@
+---
+heading: Chapter 46b
+title: "Men Dealing with Men"
+description: ""
+weight: 205
+icon: Schopenhauer
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
-In general, however, the conduct of men towards each other is characterised as a rule by injustice, extreme unfairness, hardness, nay, cruelty: an opposite course of conduct appears only as an exception. 
+
+The conduct of men towards each other is characterised as a rule by injustice, extreme unfairness, hardness, nay, cruelty: an opposite course of conduct appears only as an exception. 
 
 Upon this depends the necessity of the State and legislation, and upon none of your false pretences. But in all cases which do not lie within the reach of the law, that regardlessness of his like, peculiar to man, shows itself at once; a regardlessness which springs from his boundless egoism, and sometimes also from wickedness. 
 
