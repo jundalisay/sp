@@ -8,24 +8,11 @@ writer:
 ---
 
 
-It is not the object of my writings to repeat what has been said
-by others, and therefore I only make here some special remarks
-of my own on the subject of the senses.
+The senses are merely the channels through which the brain receives from without (in the form of sensations) the materials which it works up into ideas of perception. 
 
-The senses are merely the channels through which the brain
-receives from without (in the form of sensations) the materials
-which it works up into ideas of perception. Those sensations
-which principally serve for the objective comprehension of the
-external world must in themselves be neither agreeable nor
-disagreeable. This really means that they must leave the will
-entirely unaffected. Otherwise the sensation itself would attract
-our attention, and we would remain at the effect instead of passing
-to the cause, which is what is aimed at here. 
+Those sensations which principally serve for the objective comprehension of the external world must in themselves be neither agreeable nor disagreeable. This really means that they must leave the will entirely unaffected. Otherwise the sensation itself would attract our attention, and we would remain at the effect instead of passing to the cause, which is what is aimed at here. 
 
-For it would bring
-with it that marked superiority, as regards our consideration,
-which the will always has over the mere idea, to which we only
-turn when the will is silent. Therefore colours and sounds are
+For it would bring with it that marked superiority, as regards our consideration, which the will always has over the mere idea, to which we only turn when the will is silent. Therefore colours and sounds are
 in themselves, and so long as their impression does not pass the
 normal degree, neither painful nor pleasurable sensations, but
 appear with the indifference that fits them to be the material of

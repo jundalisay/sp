@@ -12,11 +12,17 @@ writer:
 
 
 
-The aim of plastic and pictorial art to poetry is the revelation of the Ideas, the grades of the objectification of will, and the communication of them to the hearer with the distinctness and
-vividness with which the poetical sense comprehends them. 
+The aim of plastic and pictorial art to poetry is:
+- the revelation of the Ideas
+- the grades of the objectification of will
+- the communication of them to the hearer
 
-Ideas are essentially perceptible; if, therefore, in poetry only abstract
-conceptions are directly communicated through words, it is yet
+<!--  with the distinctness and
+vividness with which the poetical sense comprehends them.  -->
+
+Ideas are essentially perceptible.
+
+If, therefore, in poetry only abstract conceptions are directly communicated through words, it is yet
 clearly the intention to make the hearer perceive the Ideas of
 life in the representatives of these conceptions, and this can only
 take place through the assistance of his own imagination. 

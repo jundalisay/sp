@@ -3,7 +3,7 @@ heading: Chapter 50
 title: "Symbolism"
 date: 2025-09-20
 description: ""
-weight: 156
+weight: 153
 icon: Schopenhauer
 writer:
   name: Schopenhauer

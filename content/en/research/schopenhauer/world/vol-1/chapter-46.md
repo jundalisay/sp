@@ -91,7 +91,9 @@ things perceptibly. Therefore Virgil makes Laocoon cry out [295]
 like the bellowing of an ox that has broken loose after being
 struck by the axe; and Homer (Il. xx. 48-53) makes Mars and
 Minerva shriek horribly, without derogating from their divine
-dignity or beauty. The same with acting; Laocoon on the stage
+dignity or beauty.
+
+The same with acting; Laocoon on the stage
 would certainly have to shriek. Sophocles makes Philoctetus
 cry out, and, on the ancient stage at any rate, he must actually
 have done so. As a case in point, I remember having seen in
@@ -116,5 +118,3 @@ of pain; this he has done in the most perfect manner, as is ably
 described by Winckelmann (Works, vol. vi. p. 104), whose
 admirable account thus retains its full value and truth, as soon as
 we abstract from the stoical view which underlies it.
-
-
