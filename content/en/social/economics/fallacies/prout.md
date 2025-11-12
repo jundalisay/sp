@@ -44,13 +44,22 @@ Instead of controls, Chavez & Maduro should have invited more investment:
 
 
 {{< q a="PR Sarkar" >}}
-If production is increased through investment in developmental programmes instead, the purchasing capacity of the people can be increased.. In pure economic terms developmental programmes are those programmes which directly increase national wealth
+If production is increased through **investment in developmental programmes** instead, the purchasing capacity of the people can be increased.. In pure economic terms developmental programmes are those programmes which directly increase national wealth
 {{< /q >}}
 
 
 Unfortunately, PR Sarkar never elaborated on the technical aspects of how to increase purchasing power and so it has remained abstract. 
 
-So the tendency of shallow humans is to give welfare for free. 
+He correctly points out that **investment** is needed, something that capitalists are very much experts on. 
+- This is in contrast to the tendency of shallow humans to give welfare for free as a means of social upliftment
 
 If PR Sarkar elaborated on its technical aspects, then PROUT would have instead advocated 'national wealth investment' alongside minimum requirements. 
+
+Currently, China has such public investments in welfare through its state run infrastructure and services with work via state capitalism. 
+- Sarkar calls these state run organizatios as "key industries"
+
+So the natural system of economy was already discovered by Chinese socialism, which also pushes for cooperatives and single-party control where the Communist Party is the *sadvipra* party.
+
+This makes Prout much less relevant as an economic solution when we compare the povery in Venezuela and the wealth in China, both of which are socialist.
+
 
