@@ -20,6 +20,9 @@ The Materialist View is Negative | Positive, Negative, Microscope Thinking, Mate
 {{< /b >}}
 
 
+
+## Objective Versus Subjective
+
 The current prevailing belief among humans, which is the cause of so many problems, is that material phenomena is the cause of mental phenomena. 
 
 This is best explained by Karl Marx.
@@ -36,7 +39,10 @@ We call this the materialist perspective, as the opposite of the spiritual which
 
 - The materialist is rigidly objective. He wants everyone to adhere to a strict and precise system just as Physics is very strict and precise. 
 - The spiritual or natural is flexibly subjective. He wants everyone to be themselves and adjust to each other's quirks just as how plants and animals must adapt to each other and to the changing weather. 
-
+- The natural universe is infinite and subjective
+  - It is the freedom given by the Positive Force that leads to this expansion and flexibility
+- The artificial universe is limited and objective
+  - It is the limitation given by the Negative Force that leads to this objectivity and pointedness
 
 
 ## The Materialist Mentality

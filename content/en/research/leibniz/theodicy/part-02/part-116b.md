@@ -5,12 +5,11 @@ title: "Bayle's Maxims 5-8"
 description: A maleficent being can heap magnificent gifts upon his enemies, when he knows that they will make thereof a use that will destroy them
 author: Leibniz
 c: "firebrick"
-weight: 4
+weight: 12
 ---
 
 
-
-120. 
+<sup>120</sup> 
 
 ## Maxim 5: 'A maleficent being is very capable of heaping magnificent gifts upon his enemies, when he knows that they will make thereof a use that will destroy them.'
 
@@ -20,20 +19,46 @@ Therefore if he gives them free will he combines with it the art of using it alw
 
 That is the more manifest, as free will is a grace which he has given them of his own choice and without their asking for it; so that he would be more answerable for the unhappiness it would bring upon them than if he had only granted it in response to their importunate prayers.'
 
-What was said at the end of the remark on the preceding maxim ought to be repeated here, and is sufficient to counter the present maxim. Moreover, the author is still presupposing that false maxim advanced as the third, stating that the happiness of rational creatures is the sole aim of God. If that were so, perhaps neither sin nor unhappiness would ever occur, even by concomitance. God would have chosen a sequence of possibles where all these evils would be excluded. But God would fail in what is due to the universe, that is, in what he owes to himself. If there were only spirits they would be without the required connexion, without the order of time and place.
+What was said at the end of the remark on the preceding maxim ought to be repeated here, and is sufficient to counter the present maxim. 
 
-This order demands matter, movement and its laws; to adjust these to spirits in the best possible way means to return to our world. When one looks at things only in the mass, one imagines to be practicable a thousand things that cannot properly take place. To wish that God should not give free will to rational creatures is to wish that there be none of these creatures; and to wish that God should prevent them from misusing it is to wish that there be none but these creatures alone, together with what was made for them only. If God had none but these creatures in view, he would doubtless prevent them from destroying themselves. 
+Moreover, the author is still presupposing that false maxim advanced as the third, stating that the happiness of rational creatures is the sole aim of God. If that were so, perhaps neither sin nor unhappiness would ever occur, even by concomitance. 
 
-One may say in a sense, however, that God has given to these creatures the art of always making good use of their free will, for the natural light of reason is this art. But it would be necessary always to have the will to do good, and often creatures lack the means of giving themselves the will they ought to have; often they even lack the will to use those means which indirectly give a good will. Of this I have already spoken more than once. This fault must be admitted, and one must even acknowledge that God would perhaps have been able to exempt creatures from that fault, since there is nothing to prevent, so it seems, the existence of some whose nature it would be always to have good will. But I reply that it is not necessary, and that it was not feasible [193]for all rational creatures to have so great a perfection, and such as would bring them so close to the Divinity. It may even be that that can only be made possible by a special divine grace. But in this case, would it be proper for God to grant it to all, that is, always to act miraculously in respect of all rational creatures? Nothing would be less rational than these perpetual miracles. There are degrees among creatures: the general order requires it. And it appears quite consistent with the order of divine government that the great privilege of strengthening in the good should be granted more easily to those who had a good will when they were in a more imperfect state, in the state of struggle and of pilgrimage, in Ecclesia militante, in statu viatorum. The good angels themselves were not created incapable of sin. Nevertheless I would not dare to assert that there are no blessed creatures born, or such as are sinless and holy by their nature. There are perhaps people who give this privilege to the Blessed Virgin, since, moreover, the Roman Church to-day places her above the angels. But it suffices us that the universe is very great and very varied: to wish to limit it is to have little knowledge thereof. 'But', M. Bayle goes on, 'God has given free will to creatures capable of sinning, without their having asked him for this grace. And he who gave such a gift would be more answerable for the unhappiness that it brought upon those who made use of it, than if he had granted it only in response to their importunate prayers.' But importunity in prayers makes no difference to God; he knows better than we what we need, and he only grants what serves the interest of the whole. It seems that M. Bayle here makes free will consist in the faculty for sinning; yet he acknowledges elsewhere that God and the Saints are free, without having this faculty. However that may be, I have already shown fully that God, doing what his wisdom and his goodness combined ordain, is not answerable for the evil that he permits. Even men, when they do their duty, are not answerable for consequences, whether they foresee them or not.
+God would have chosen a sequence of possibles where all these evils would be excluded. But God would fail in what is due to the universe, that is, in what he owes to himself. If there were only spirits they would be without the required connexion, without the order of time and place.
 
-121. VI. 'It is as sure a means of taking a man's life to give him a silk cord that one knows certainly he will make use of freely to strangle himself, as to plant a few dagger thrusts in his body. One desires his death not less when one makes use of the first way, than when one employs the second: it even seems as though one desires it with a more malicious intention, since one tends to leave to him the whole trouble and the whole blame of his destruction.'
+This order demands matter, movement and its laws; to adjust these to spirits in the best possible way means to return to our world. When one looks at things only in the mass, one imagines to be practicable a thousand things that cannot properly take place. 
 
+To wish that God should not give free will to rational creatures is to wish that there be none of these creatures; and to wish that God should prevent them from misusing it is to wish that there be none but these creatures alone, together with what was made for them only. If God had none but these creatures in view, he would doubtless prevent them from destroying themselves. 
+
+One may say in a sense, however, that God has given to these creatures the art of always making good use of their free will, for the natural light of reason is this art. 
+
+But it would be necessary always to have the will to do good, and often creatures lack the means of giving themselves the will they ought to have; often they even lack the will to use those means which indirectly give a good will. 
+
+Of this I have already spoken more than once. This fault must be admitted, and one must even acknowledge that God would perhaps have been able to exempt creatures from that fault, since there is nothing to prevent, so it seems, the existence of some whose nature it would be always to have good will. But I reply that it is not necessary, and that it was not feasible for all rational creatures to have so great a perfection, and such as would bring them so close to the Divinity. 
+
+It may even be that that can only be made possible by a special divine grace. But in this case, would it be proper for God to grant it to all, that is, always to act miraculously in respect of all rational creatures? Nothing would be less rational than these perpetual miracles. There are degrees among creatures: the general order requires it. 
+
+It appears quite consistent with the order of divine government that the great privilege of strengthening in the good should be granted more easily to those who had a good will when they were in a more imperfect state, in the state of struggle and of pilgrimage, in Ecclesia militante, in statu viatorum. The good angels themselves were not created incapable of sin. 
+
+Nevertheless I would not dare to assert that there are no blessed creatures born, or such as are sinless and holy by their nature. There are perhaps people who give this privilege to the Blessed Virgin, since, moreover, the Roman Church to-day places her above the angels. 
+
+But it suffices us that the universe is very great and very varied: to wish to limit it is to have little knowledge thereof. 'But', M. Bayle goes on, 'God has given free will to creatures capable of sinning, without their having asked him for this grace.
+
+He who gave such a gift would be more answerable for the unhappiness that it brought upon those who made use of it, than if he had granted it only in response to their importunate prayers.' But importunity in prayers makes no difference to God; he knows better than we what we need, and he only grants what serves the interest of the whole. 
+
+It seems that M. Bayle here makes free will consist in the faculty for sinning; yet he acknowledges elsewhere that God and the Saints are free, without having this faculty. However that may be, I have already shown fully that God, doing what his wisdom and his goodness combined ordain, is not answerable for the evil that he permits. Even men, when they do their duty, are not answerable for consequences, whether they foresee them or not.
+
+
+<sup>121</sup> VI. 'It is as sure a means of taking a man's life to give him a silk cord that one knows certainly he will make use of freely to strangle himself, as to plant a few dagger thrusts in his body.
+
+One desires his death not less when one makes use of the first way, than when one employs the second: it even seems as though one desires it with a more malicious intention, since one tends to leave to him the whole trouble and the whole blame of his destruction.'
 
 Those who write treatises on Duties (De Officiis) as, for instance, Cicero, St. Ambrose, Grotius, Opalenius, Sharrok, Rachelius, Pufendorf, as well as the Casuists, teach that there are cases where one is not obliged to return to its owner a thing deposited: for example, one will not give back a dagger when one knows that he who has deposited it is about to stab someone.
 
 Let us pretend that I have in my hands the fatal draught that Meleager's mother will make use of to kill him; the magic javelin that Cephalus will unwittingly employ to kill his Procris; the horses of Theseus that will tear to pieces Hippolytus, his son: these things are demanded back from me, and I am right in refusing them, knowing the use that will be made of them.
 
-But how will it be if a competent judge orders me to restore them, when I cannot prove to him what I know of the evil consequences that restitution will have, Apollo perchance having given to me, as to Cassandra, the gift of prophecy under the condition that I shall not be believed? I should then be compelled to make restitution, having no alternative other than my own destruction: thus I cannot escape from contributing towards the evil. Another comparison: Jupiter promises Semele, the Sun Phaeton, Cupid Psyche to grant whatever favour the other shall ask. They swear by the Styx,
+But how will it be if a competent judge orders me to restore them, when I cannot prove to him what I know of the evil consequences that restitution will have, Apollo perchance having given to me, as to Cassandra, the gift of prophecy under the condition that I shall not be believed?
+
+I should then be compelled to make restitution, having no alternative other than my own destruction: thus I cannot escape from contributing towards the evil. Another comparison: Jupiter promises Semele, the Sun Phaeton, Cupid Psyche to grant whatever favour the other shall ask. They swear by the Styx,
 
 Di cujus jurare timent et fallere Numen.
 
@@ -53,7 +78,7 @@ Si mala sustulerat, non erat ille bonus.
 
 One would need to have a bent towards perversity to say after this that it is more malicious to leave to someone the whole trouble and the whole blame of his destruction. When God does leave it to a man, it has belonged to him since before his existence; it was already in the idea of him as still merely possible, before the decree of God which makes him to exist. Can one, then, leave it or give it to another? There is the whole matter.
 
-122.
+<sup>122</sup>
 
 ## Maxim 7: 'A true benefactor gives promptly, and does not wait to give until those he loves have suffered long miseries from the privation of what he could have imparted to them at first very easily, and without causing any inconvenience to himself.'
 
@@ -70,8 +95,6 @@ If he showers riches and honours, it is not to the end that those who have enjoy
 Μεγαλα διδωσιν ευτυχηματ', αλλ' ‛ινα
 
 τας συμφορας λαβωσιν επιφανεστερας.
-
-[196]
 
 Id est: Veluti si quis alicui aliquid det, ut (postea) hoc (ipsi) erepto (ipsum) afficiat dolore. Unde etiam illud est dictum:
 
@@ -91,8 +114,8 @@ That would be trifling with God in perpetual anthropomorphisms, representing him
 
 God is not lacking therein, he could do the good that we would desire; he even wishes it, taking it separately, but he must not do it in preference to other greater goods which are opposed to it. Moreover, one has no cause to complain of the fact that usually one [197]attains salvation only through many sufferings, and by bearing the cross of Jesus Christ. These evils serve to make the elect imitators of their master, and to increase their happiness.
 
-123. 
 
+<sup>123</sup>
 
 ## Maxim 8: 'The greatest and the most substantial glory that he who is the master of others can gain is to maintain amongst them virtue, order, peace, contentment of mind. The glory that he would derive from their unhappiness can be nothing but a false glory.'
 

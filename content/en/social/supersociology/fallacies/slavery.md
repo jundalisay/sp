@@ -38,18 +38,19 @@ Not all countries practiced slavery. Persia and some native tribes were known to
 
 So from a slavery perspective, Iran is the good guy, not the West. 
 
-The West abolished slavery simply because they went full steam ahead with paper wealth, inventing stock corporations, paper bank notes, and cash accounts, which they learned from the Jews. 
 
-Whereas the Ming learned of the evils of paper wealth and so they abolished it. 
+## The West Merely Replaced Labor Slavery with Money Slavery
 
-So the Britain abolished slavery to impose the slavery to money and businessmen as the commercial system. 
+The West abolished slavery simply because they went full steam ahead with paper wealth, inventing stock corporations, paper bank notes, and cash accounts, which they learned from the Jews.
 
-Money slavery creates much more wealth as it is scalable and because money can be amassed, but slaves need to be fed.
+Whereas Ming China learned of the evils of paper wealth and so they abolished it. 
 
-It also enslaves Nature which is why the world is so polluted and global warming is causing so many natural disasters. 
+So the British abolished traditional slavery to impose the slavery to money and businessmen as the commercial system. 
+
+Money-slavery creates much more wealth as it is scalable and because money can be amassed, whereas traditional slaves need to be fed and housed.
+
+However, it also enslaves Nature which is why the world is so polluted and global warming is causing so many natural disasters. 
 
 The West merely replaced one slavery with another. 
 
 The solution is to abolish even Western money slavery and replace it with moral servitude for those who have problems repaying debts or giving back value for the value they obtained. This is what our moneyless system is working on. 
-
-
