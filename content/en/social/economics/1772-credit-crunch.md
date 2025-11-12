@@ -2,13 +2,14 @@
 title: "The 1772 Credit Crunch"
 heading: "How it is Similar to the 2008 Financial Crisis"
 date: 2020-07-02
-image: "/photos/econ/crash.jpg"
+image: "/photos/econ/banknote.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# icon: "Supereconomics"
+icon: "Juan"
 ---
+
 
 
 In 1772, a credit crisis originating in London hit and spread over Europe and affected the American colonies.
@@ -17,7 +18,7 @@ The cause was the creation and over-circulation of bounced checks then known as 
 
 The end result was a loss of capital, creating a credit crunch, which led to an economic downturn hitting Europe and too-big-to-fail companies. One of them was the East India Company which had to be bailed out with taxpayer money, specifically from the tea trade.
 
-{{< img src="https://socioecons.files.wordpress.com/2014/07/banknote.jpg" cap="According to Montesquieu, the Jews invented paper bills after they were expelled from France, so that they could use it to access their wealth which remained stuck in France" >}}
+{{< i s="/photos/econ/banknote.jpg" c="According to Montesquieu, the Jews invented paper bills after they were expelled from France, so that they could use it to access their wealth which remained stuck in France" >}}
 
 
 Sound familiar? This is because the Credit Crisis of 1772 was essentially the same as the Credit Crunch of 2008 and even similar to the 1997 Asian Financial Crisis. 
@@ -31,14 +32,16 @@ Paper or Tool Used | Checks Or Bills Of Exchange, Backed By Estate | Hot Money |
 Immediate Losses | ￡3m Wiped Out | $9b ASEAN GDP, $170b South Korea GDP Decline | $300b Wiped Out 
 Cause | Speculators Who Wanted To Get Rich Quick | Local And Foreign Speculators, Such As Forex Traders | Bankers Who Wanted To Get Rich Quick
 Solution | 1773 Tea Act | IMF Bailout | Troubled Asset Relief Program And QE
-Immediate Effect | The American Colonies Revolt | Toppled Governments in ASEAN, Riots Against Chinese Occupy Wall Street
+Immediate Effect | The American Colonies Revolt | Toppled Governments in ASEAN, Riots Against Chinese Occupy Wall Street | Update Nov 2025: Arab Spring, Rise of Tech Startups and Chinese Globalization to use easy money
 
 
 The 1773 Tea Act was used to bail out the East India Company, IMF loans were used to bailout the Asian banking system, and the TARP was used to bail out the investment banks. These solutions addressed the effect and not the cause of the crisis which were the big companies, or what Adam Smith calledprojectors.
 
+
 {{< q a="Adam Smith" >}}
-<p>The debtors of such a bank..were likely..chimerical projectors, the drawers and re-drawers of circulating bills of exchange, who would employ the money in extravagant undertakings..</p>
+The debtors of such a bank..were likely..chimerical projectors, the drawers and re-drawers of circulating bills of exchange, who would employ the money in extravagant undertakings..
 {{< /q >}}
+
 
 The projectors of 1772 were the mercantile companies involved in the commodities trade. The projectors of 1997 were speculators such as George Soros involved in the forex trade, while the projectors of 2008 were the investment banks involved in the housing trade.
 
@@ -55,11 +58,13 @@ The QE solution is bit unique because it is arbitrary.
 
 Unlike the 1773 Tea Act which took money from the colonies and the IMF bailouts which come from its member countries, the money from QE is just created arbitrarily. While the sourcing of funds for the first two are felt immediately by the suppliers of those funds, the effects of QE have a long delay. 
 
-The pain from the Tea Act and IMF bailouts created instant protests, but the pain from QE will be felt by the later generations -- those who did not cause the problem. An easy proof is Japan which has been doing QE since the 90s and now has a huge public debt for little gain.
+The pain from the Tea Act and IMF bailouts created instant protests, but the pain from QE will be felt by the later generations -- those who did not cause the problem.
+
+An easy proof is Japan which has been doing QE since the 90s and now has a huge public debt for little gain.
 
 
 {{< q a="Adam Smith" >}}
-<p>Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.</p>
+Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 {{< /q >}}
 
 
@@ -69,6 +74,10 @@ The QE of the US, like Japan, also has created a huge public debt without raisin
 - The one between dealers and consumers. In Economics, this is M0 to M2, best represented by M1
 
 ![Money supply](https://sorasystem.sirv.com/graphics/m1m3djia.jpg)
+
+
+
+## Hijacked By Profit Maximization
 
 QE gives money to the banking system in order to mobilize productive labor, as a consequence of Keynes' idea of liquidity preference. 
 
@@ -81,6 +90,7 @@ However, because of the doctrine of profit maximization, this money is used inst
 Inflation is also not so much affected because the Consumer Price Index (CPI) is based on things bought by ordinary people. The purchases of factories, businesses, and blue-chip stocks are not included in the CPI's "basket of goods". 
 
 This lack of inflation and employment then prompts central bankers to further increase M3, leading to more inequality through wage-earning working for free without them knowing it. This then results with the dealers having so much more economic power, through their abstract treasure, than consumers.
+
 
 
 ## Updated July 2020: Same Oppression, Same Riots
@@ -97,3 +107,25 @@ Sooner or later, the inequality becomes unbearable and people begin to riot and 
 The recurrence of financial crises is rooted in the profit maximization doctrine, which is a moral issue at its core. This is why the solution to a banker's crisis can never be ultimately solved by the banker nor by any monetary policy. 
 
 Instead, it is solved by fiscal and regulatory policies such as anti-trust and structural reform. In afuture post, we shall explain the proper solution to financial crises, as explained by Adam Smith, a moral philosopher.
+
+
+## Updated Nov 2025: Globalization as the Effect of the 2008 Financial Crisis
+
+After looking back at the patterns created by the Financial Crisis and QE, we can say that it led to the following:
+
+1. Arab Spring and ISIS
+
+Many Arab countries are run by dictators who use sovereign wealth funds. The Financial Crisis reduced the sovereign wealth which funded their armies and social services. This led to uprisings and military action by ISIS and Al Qaeda.
+
+2. Chinese Globalization and Trillion Dollar Companies
+
+The QE money was supposed to spur the US economy. But capitalists used it to circulate within the corporate system which led to:
+- tech companies like Apple being a trillion dollar company by August 2018 (QE ended on October 2014)
+- the rise of Elon Musk: Tesla IPO 2010, DeepMind 2010, Open Ai 2015
+- China's globalization: Chinese GDP had a massive jump in 2010. This led to the Belt-Road policy
+
+3. Tech Startups
+
+The mantra of Profit maximization is "buy low, sell high". So the QE money goes to buying cheap startups that can be sold for a high prices via IPOs. This is best seen in Wework which began in 2010 which was absurdly valued at $47 billion. 
+
+

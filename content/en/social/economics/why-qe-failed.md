@@ -1,8 +1,9 @@
 ---
 title: "Why Quantitative Easing Failed"
-heading: "Keynes Liquidity Preference Mistake and Our Alternative GR Model"
+heading: "The Profit Motive Hijacked It"
+# Keynes Liquidity Preference Mistake and Our Alternative GR Model"
 date: 2020-09-24
-a: "Keynes"
+a: "John Maynard Keynes"
 c: "firebrick"
 description: "QE failed because profit maximization prevents money from going to not-so-profitable activities and employment even if it would energize the economy"
 writer:
@@ -13,18 +14,21 @@ toc: false
 ---
 
 
-Japan launched Quantitative Easing (QE)  as part of Abenomics which was announced in 2012, just as the US launched theirs after the 2008 Financial Crisis. Both actions failed to drive economic growth* for both countries and merely resulted in additional public debt.
 
-{{< n n="*The growth in the US really came from Trump's fiscal reforms and trade war" >}}
+Japan launched Quantitative Easing (QE)  as part of Abenomics which was announced in 2012, just as the US launched theirs after the 2008 Financial Crisis. Both actions failed to drive economic growth for both countries and merely resulted in additional public debt.
 
-
+<!-- n n="*The growth in the US really came from Trump's fiscal reforms and trade war" -->
 
 To explain why QE was used and why it failed, we need to go back to 1913.
 
+
+## Open Market Operations
+
 In that year, the Federal Reserve (Fed) was established in the US to provide stability after the Panic of 1907. By the early 1920's, it had overstepped this function and had gone into open market operations and allowed banks to rediscount loans. 
 
-From providing stability, **the Fed went for promoting growth**--this is the first subtle mistake. **The job of growing the economy is done by commercial banking** (the "retailer" of money). **It is not done by central banking** (the "wholesaler" of money).*
+From providing stability, **the Fed went for promoting growth**--this is the first subtle mistake. 
 
+**The job of growing the economy is done by commercial banking** as the "retailer" of money. **It is not done by central banking** or the "wholesaler" of money.*
 
 
 {{< n n="*This will be the same reason why Modern Monetary Theory will fail – because the government only controls the wholesale of money and not its retail" >}}
@@ -40,25 +44,30 @@ The circulation of every country is divided into 2 branches:
 
 Such operations filled the economy with "wholesale" money which then led to the second mistake -- **commercial banks enabling buying on margin**. This filled the economy with "retail" money which fueled speculation, finally leading to the 1929 Crash. 
 
-Thus, it took two ingredients to cook up a money-crisis: 
+Thus, it took 2 ingredients to cook up a money-crisis: 
 
-1. The mistake of the central bank
-2. The mistake of the commercial and investment banking system
+1. The mistake of the central bank pumping wholesale money
+2. The mistake of the commercial and investment banking system using that wholesale money through buying on margin
 
 
 ## The Ayr Bank and the Credit Crisis of 1772
 
-These two mistakes are similar to the ones that happened after the creation of the Ayr Bank in Britain that led to the 1772 Credit Crisis. 
+These 2 mistakes are similar to the ones that came from the creation of the Ayr Bank in Britain that led to the 1772 Credit Crisis. 
 
-That bank was created in order to grow the economy by lending a lot of paper money* as bank notes, a relatively new invention back then. A lot of people really did borrow, to the point that the bank went out of business by 1772. 
-
-But unlike the 1929 crash that led to the Depression, the one in 1772 resolved itself naturally, with the Americans leaving Britain. This is similar to a potential Grexit as a consequence of the Greek Debt Crisis after 2008. 
-
-
-{{< img src="https://socioecons.files.wordpress.com/2014/07/banknote.jpg" alt="banknote" cap="According to Montesquieu, the Jews invented paper bills after they were expelled from France, so that they could use it to access their wealth which remained stuck in France" >}}
+That bank was created in order to grow the economy by lending a lot of paper money* as bank notes, a relatively new invention back then.
+- A lot of people really did borrow, to the point that the bank went out of business by 1772. 
+- Ayr Bank was like a unified central and commercial bank that did both wholesale and retail
 
 
-So what did 1772 do right to avoid the crisis experienced by 1929?
+But unlike the 1929 crash that led to the Depression, the one in 1772 resolved itself naturally, with the Americans leaving Britain.
+- This is similar to a potential Grexit as a consequence of the Greek Debt Crisis after 2008. 
+
+
+{{< i s="/photos/econ/banknote.jpg" a="banknote" c="According to Montesquieu, the Jews invented paper bills after they were expelled from France, so that they could use it to access their wealth which remained stuck in France" >}}
+
+
+
+So what did 1772 do right to avoid the large crisis experienced by 1929?
 
 
 ## 1772 Had No Profit Maximization 
@@ -68,16 +77,17 @@ The main difference was that the doctrine of profit maximization did not exist b
 
 It was only formalized in the 1870's* through the marginal revolution or Marginalism and subsequently taught by Alfred Marshall, a British economist. His work was then carried by Keynes, another British economist, who cites Marshall's work heavily. We can say that Keynes was a Marginalist too, aside from being anti-classical.
 
-{{< n n="*This is proven by Henry George's <i>Progress and Poverty</i> which talks about [the recession of 1879](https://www.henrygeorge.org/pchp22.htm) which was caused by land speculation. This caused him to absurdly advocate a single land tax to prevent such a recession. This is similar to Piketty advocating a wealth tax. Both of them fail to see that taxes are decided by accountants and accountants can get creative in order to bypass such fiscal policies. Superphysics advocates structural reform and overhaul that goes beyond the scope of accounting." >}}
+
+{{< n n="*This is proven by Henry George's <i>Progress and Poverty</i> which talks about [the recession of 1879](https://www.henrygeorge.org/pchp22.htm) which was caused by land speculation. This caused him to absurdly advocate a single land tax to prevent such a recession. This is similar to Piketty advocating a wealth tax. Both of them fail to see that taxes are decided by accountants and accountants can get creative in order to bypass such fiscal policies. Superphysics advocates structural reform as a Usufruct Economy and an overhaul that goes beyond the scope of accounting." >}}
 
 
 
 The main difference between Keynes and Marshall was, while Marshall valued real productivity as the cause of wealth, Keynes valued money as 'liquidity preference':
 
-{{< q a="John-Maynard-Keynes" >}}
+{{< q a="John Maynard Keynes" c="The General Theory of the Rate of Interest, Chapter 13" >}}
 The psychological time-preferences of an individual need two sets of decisions.. the "propensity to consume".. and his liquidity preference: How long does he intend to have his money savings and not spend it? The mistake of previous theories on the rate of interest is to neglect the liquidity preference. This neglect is what we are repairing. The ratio ofthe amount of moneyand the liquidity-preference determines the actual rate of interest in given circumstances.
-<cite>Chapter 13. The General Theory of the Rate of Interest</cite>
 {{< /q >}}
+
 
 
 The difference between 1772 and 1929 is that **the latter had profit maximization being taught to everyone**. This led to a widespread accumulation of money which will only be spent **IF** there are profits to be made. 
@@ -93,6 +103,36 @@ With a lot of idle money in the economy, speculators see this as an opportunity 
 - the current rise in Bitcoin and crypto-bubbles
 
 <!-- Instead of being spent to create jobs, the money was used instead for profitable speculation* into assets such as land and the stock market, leading to the 1929 Crash. -->
+
+
+
+## Profit Maximization Hijacked QE in the US
+
+The US tried to solve the decline from the 2008 Financial Crisis with QE wholesale money that was supposed to fill retail money.
+
+Program | Estimated Total Purchase Amount | Assets Purchased | Notes  
+--- | --- | --- | --- 
+QE1 Nov 2008 – Mar 2010 | $1.75−$2.1 Trillion | Mortgage-Backed Securities (MBSs), Treasury notes, agency debt | Focus on the housing market through MBS purchases
+QE2 Nov 2010 – Jun 2011 | $600 Billion | Primarily long-term Treasury securities | For lowering long-term interest rates
+QE3 Sep 2012 – Oct 2014 | $1.7 Trillion | MBSs ($40B/month) and Treasuries ($45B/month, later increased) | 
+
+<!-- was initially an open-ended program (""QE-Infinity"") with no specified total amount or end date. -->
+
+<!-- QE4 (Pandemic-Era),Mar 2020 – Mar 2022,∼$4.7 Trillion,"Treasuries and MBSs (initially unlimited, later fixed at $80B and $40B per month, respectively).",The largest QE program; it more than doubled the Fed's balance sheet from $4.2 trillion to ∼$8.9 trillion. -->
+
+
+
+
+But instead of driving US growth, the wholesale money merely circulated between stock corporations instead of going down to the real economy as employment. 
+
+This led to:
+- trillion dollar companies
+- absurd startup valuations such as WeWork being valued at $47 billion
+
+
+{{< i s="/graphics/econ/stocks.jpg" a="Stocks" >}}
+
+
 
 
 ## Classical Economics was Wiser
