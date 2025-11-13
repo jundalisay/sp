@@ -9,7 +9,7 @@ icon: "Montesquieu"
 ---
 
 
-### Chapter 13: The Behaviour of the Chinese
+## Chapter 13: The Behaviour of the Chinese
 
 China is the place where the customs of the country can never be changed.
 
@@ -21,7 +21,7 @@ A man of letters may be known by his easy address.15
 These things being once taught by precept, and inculcated by grave doctors, become fixed, like the principles of morality, and are never changed.
 
 
-### Chapter 14: The natural means to change the Manners and Customs of a Nation
+## Chapter 14: The natural means to change the Manners and Customs of a Nation
 
 The laws were the particular and precise institutions of a legislator, and manners and customs the institutions of a nation in general.
 
@@ -42,12 +42,12 @@ Nations are in general very tenacious of their customs; to take them away by vio
 All punishment which is not derived from necessity is tyrannical. The law is not a mere act of power; things in their own nature indifferent are not within its province.
 
 
-### Chapter 15: The Influence of domestic Government on the political
+## Chapter 15: The Influence of domestic Government on the political
 
 This alteration in the manners of women will doubtless have a great influence on the government of Muscovy. One naturally follows the other: the despotic power of the prince is connected with the servitude of women; the liberty of women with the spirit of monarchy.
 
 
-### Chapter 16: How some Legislators have confounded the Principles which govern Mankind. 
+## Chapter 16: How some Legislators have confounded the Principles which govern Mankind. 
 
 Manners and customs are those habits which are not established by legislators, either because they were not able or were not willing to establish them.
 
@@ -59,10 +59,15 @@ We ought not to be surprised that the legislators of China and Sparta should con
 
 The principal object which the legislators of China had in view was to make their subjects live in peace and tranquillity. They would have people filled with a veneration for one another, that each should be every moment sensible of his dependence on society, and of the obligations he owed to his fellow-citizens. They therefore gave rules of the most extensive civility.
 
-Thus the inhabitants of the villages of China17 practise amongst themselves the same ceremonies as those observed by persons of an exalted station; a very proper method of inspiring mild and gentle dispositions, of maintaining peace and good order, and of banishing all the vices which spring from an asperity of temper. In effect, would not the freeing them from the rules of civility be to search out a method for them to indulge their own humours?
+Thus the inhabitants of the villages of China17 practise amongst themselves the same ceremonies as those observed by persons of an exalted station.
+
+A very proper method of inspiring mild and gentle dispositions, of maintaining peace and good order, and of banishing all the vices which spring from an asperity of temper.
+
+In effect, would not the freeing them from the rules of civility be to search out a method for them to indulge their own humours?
 
 Civility is in this respect of more value than politeness. Politeness flatters the vices of others, and civility prevents ours from being brought to light. It is a barrier which men have placed within themselves to prevent the corruption of each other.
 
 The institutions of Lycurgus were severe and had no regard to civility.
 
 In forming the external behaviour he had a view to that warlike spirit with which he would fain inspire his people. A people who were in a continual state of discipline and instruction, and who were endued with equal simplicity and rigour, atoned by their virtues for their want of complaisance.
+

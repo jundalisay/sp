@@ -45,13 +45,17 @@ Such was the knowledge they had of the coasts of Africa in Strabo’s time, that
 
 But after the death of Augustus, the Romans found the two capes Raptum and Passum.
 
-Ptolemy the geographer flourished under Adrian and Antoninus Pius. The author of the Periplus of the Red sea, whoever he was, lived a little after.  Yet the former limits known Africa to cape Prassum,  which is in about the 14th degree of south latitude; while the author of the Periplus confines it to cape Raptum, which is nearly in the 10th degree of the same latitude. 
+Ptolemy the geographer flourished under Adrian and Antoninus Pius. The author of the Periplus of the Red sea, whoever he was, lived a little after.
+
+Yet the former limits known Africa to cape Prassum,  which is in about the 14th degree of south latitude; while the author of the Periplus confines it to cape Raptum, which is nearly in the 10th degree of the same latitude. 
 
 In all likelihood, the latter took his limit from a place then frequented, and Ptolemy his from a place with which there was no longer any communication.
 
 What confirms me in this notion is, that the people about cape Prassum  were anthropophagi. Ptolemy notices many places between the port or emporium Aromatum  and cape Raptum,  but leaves an entire blank between the capes Raptum  and Prassum.
 
-The great profits of the East-India trade must have occasioned a neglect of that of Africa. In fine, the Romans never had any settled navigation; they had discovered these several ports by land expeditions, and by means of ships driven on that coast; and, as at present, we are well acquainted with the maritime parts of Africa, but know very little of the inland country;
+The great profits of the East-India trade must have occasioned a neglect of that of Africa. In fine, the Romans never had any settled navigation.
+
+They had discovered these several ports by land expeditions, and by means of ships driven on that coast; and, as at present, we are well acquainted with the maritime parts of Africa, but know very little of the inland country;
 
 The ancients, on the contrary, had a very good knowledge of the inland parts, but were almost strangers to the coasts.
 

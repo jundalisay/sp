@@ -13,11 +13,12 @@ icon: "Montesquieu"
 THE Romans erected a vast empire in Europe, Asia, and Africa.
 
 The weakness of the people and the tyranny of their laws united this immense body. The Roman policy was then to avoid all communication with those nations whom they had not subdued. The fear of carrying to them the art of conquering, made them neglect the art of enriching themselves.
+
 They made laws to hinder all commerce with barbarians.
 
 Valens and Gratian said “Let nobody send wine, oil, or other liquors to the barbarians, though it be only for them to taste." 
 
-Gratian, Valentinian, and Theodosius adds= "Let no one carry gold to them. If they have any, let our subjects deprive them of it by stratagem.”
+Gratian, Valentinian, and Theodosius adds: "Let no one carry gold to them. If they have any, let our subjects deprive them of it by stratagem.”
 
 The exportation of iron was prohibited on pain of death.
 
@@ -114,4 +115,3 @@ The principal branch of its inland trade was the wheat brought to Rome for the s
 But this was rather a political affair than a point of commerce.
 
 On this account the sailors were favoured with some privileges, because the safety of the empire depended on their vigilance.
-

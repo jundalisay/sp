@@ -14,13 +14,18 @@ THE first Greeks were all pirates.
 
 Minos was a pirate who enjoyed the empire of his own isle. But when the Greeks became a great people, the Athenians obtained the real dominion of the sea; because this trading and victorious nation gave laws to the most potent monarch of that time; and humbled the maritime powers of Syria, of the isle of Cyprus, and Phœnicia.
 
-Xenophon says “Athens rules the sea. But the country of Attica is joined to the continent and so it is ravaged by enemies when the Athenians are engaged in distant expeditions. Their leaders secure their wealth by sending it to some island. Their people have no lands but have no uneasiness as they enjoyed the empire of the sea. They would be able to annoy others, and at the same time be out of all danger of being annoyed.”
+Xenophon says:
+
+{{< q a="Xenophon" >}}
+Athens rules the sea. But the country of Attica is joined to the continent and so it is ravaged by enemies when the Athenians are engaged in distant expeditions. Their leaders secure their wealth by sending it to some island. Their people have no lands but have no uneasiness as they enjoyed the empire of the sea. They would be able to annoy others, and at the same time be out of all danger of being annoyed.
+{{< /q >}}
+
 
 One would imagine, that Xenophon was speaking of England.
 
-The Athenians had heads were filled with ambitious projects;
+The Athenians had heads were filled with ambitious projects.
 
-the Athenians, who augmented their jealousy, instead of increasing their influence; who were more attentive to extend their maritime empire than to enjoy it; whose political government was such, that the common people distributed the public revenues amongst themselves, while the rich were in a state of oppression.
+The Athenians, who augmented their jealousy, instead of increasing their influence; who were more attentive to extend their maritime empire than to enjoy it; whose political government was such, that the common people distributed the public revenues amongst themselves, while the rich were in a state of oppression.
 
 <!-- The  did not carry on so extensive a commerce as might be expected from the produce of their  -->
 
@@ -75,4 +80,7 @@ Did she navigate towards the sea of Pontus, the coast of Asia Minor, or that of 
 Her cities increased in prosperity, in proportion as they happened to have new people in their neighbourhood.
 And what was extremely beautiful, she was surrounded on every side with a prodigious number of islands, drawn, as it were, in a line of circumvallation.
 
-What a source of prosperity must Greece have found in those games, with which she entertained, in some measure, the whole globe; in those temples, to which all the kings of the earth sent their offerings; in those festivals, at which such a concourse of people used to assemble from all parts; in those oracles, to which the attention of all mankind was directed; and, in short, in that exquisite taste for the polite arts, which she carried to such a height, that to expect ever to surpass her, would be only betraying our ignorance.
+What a source of prosperity must Greece have found in those games, with which she entertained, in some measure, the whole globe.
+
+In those temples, to which all the kings of the earth sent their offerings; in those festivals, at which such a concourse of people used to assemble from all parts; in those oracles, to which the attention of all mankind was directed; and, in short, in that exquisite taste for the polite arts, which she carried to such a height, that to expect ever to surpass her, would be only betraying our ignorance.
+

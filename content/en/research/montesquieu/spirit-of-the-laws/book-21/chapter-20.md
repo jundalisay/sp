@@ -28,7 +28,11 @@ This also happened in other countries. In those times they did by violence, what
 
 In France, the Jews were slaves in mortmain, and the lords were their successors. Mr. Brussels mentions an agreement in 1206 between the king and the Thibaut Count of Champagne. It decreed that the Jews of the one should not lend in the lands of the other. 
 
-In the end, a ridiculous custom was introduced of confiscating the effects of those Jews who embraced Christianity. This custom is known only because an edict at Baville on April 4, 1392 suppressed such custom. It gave the most trifling reason that it was proper to try them instead, in order to be sure that they had entirely shaken off the devil. But this confiscation was a kind of the right of amortisation to repay the lords for the taxes which were lifted when the Jews embraced Christianity.
+In the end, a ridiculous custom was introduced of confiscating the effects of those Jews who embraced Christianity. This custom is known only because an edict at Baville on April 4, 1392 suppressed such custom.
+
+It gave the most trifling reason that it was proper to try them instead, in order to be sure that they had entirely shaken off the devil.
+
+But this confiscation was a kind of the right of amortisation to repay the lords for the taxes which were lifted when the Jews embraced Christianity.
 
 Back then, men were regarded as property like lands. The Jews have been sported with from one age to another.
 - At one time, their effects were confiscated when they were willing to become Christians.
@@ -46,6 +50,8 @@ The richest merchant could now convey imperceptibly wherever he pleased through 
 
 The theologians were obliged to limit their principles. They previously connected commerce with knavery. Now it re-entered the bosom of probity. Thus, the theologians destroyed commerce, while the avarice of princes led to cheques which put commerce out of their power.
 
-From this time, princes were required to govern with far more prudence because great exertions of authority became impolitic. Experience taught that only the goodness and lenity of a government can make commerce flourish. We begin to be cured of Machiavelism, and recover from it every day. More moderation became necessary in the councils of princes. What before was a master-stroke in politics, would now be the greatest imprudence.
+From this time, princes were required to govern with far more prudence because great exertions of authority became impolitic. 
+
+Experience taught that only the goodness and lenity of a government can make commerce flourish. We begin to be cured of Machiavelism, and recover from it every day. More moderation became necessary in the councils of princes. What before was a master-stroke in politics, would now be the greatest imprudence.
 
 It is good when human interest prompts them to be humane and virtuous even if their passions prompt them to be wicked.

@@ -9,7 +9,7 @@ icon: "Montesquieu"
 ---
 
 
-### Chapter 2: People's Minds should be prepared for the Reception of the best Laws. 
+## Chapter 2: People's Minds should be prepared for the Reception of the best Laws. 
 
 The tribunal of Varus was the most insupportable to the Germans.
 
@@ -28,7 +28,7 @@ Baibi, a Venetian, being at Pegu, was introduced to the king.6
 When the monarch was informed that they had no king at Venice, he burst into such a fit of laughter that he was seized with a cough, and with difficulty could speak to his courtiers. What legislator could propose a popular government to a people like this?
 
 
-### Chapter 3: Tyranny
+## Chapter 3: Tyranny
 
 There are 2 sorts of tyranny:
 
@@ -49,7 +49,7 @@ The old Romans were averse to a king, because they could not suffer any man to e
 
 The same writer informs us that the Romans were exasperated against Augustus for making certain laws which were too severe; but as soon as he had recalled Pylades the comedian, whom the jarring of different factions had driven out of the city, the discontent ceased. A people of this stamp have a more lively sense of tyranny when a player is banished than when they are deprived of their laws.
 
-### Chapter 4: The general Spirit of Mankind
+## Chapter 4: The general Spirit of Mankind
 
 Mankind are influenced by various causes:
 
@@ -63,10 +63,12 @@ Mankind are influenced by various causes:
 
 These form a general spirit of nations.
 
-In proportion as, in every country, any one of these causes acts with more force, the others in the same degree are weakened. Nature and the climate rule almost alone over the savages; customs govern the Chinese; the laws tyrannise in Japan; morals had formerly all their influence at Sparta; maxims of government, and the ancient simplicity of manners, once prevailed at Rome.
+In proportion as, in every country, any one of these causes acts with more force, the others in the same degree are weakened. Nature and the climate rule almost alone over the savages; customs govern the Chinese.
+
+The laws tyrannise in Japan; morals had formerly all their influence at Sparta; maxims of government, and the ancient simplicity of manners, once prevailed at Rome.
 
 
-### Chapter 5: How far we should be attentive lest the general Spirit of a Nation be changed. 
+## Chapter 5: How far we should be attentive lest the general Spirit of a Nation be changed. 
 
 
 No one wouuld restrain a people's manners with laws if those people were:
