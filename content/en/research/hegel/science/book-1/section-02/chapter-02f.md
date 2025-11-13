@@ -10,9 +10,7 @@ c: "steelblue"
 
 
 
-§ 608
-
-My previous Remark considered:
+<sup>608</sup> My previous Remark considered:
 - the specific nature of the infinitesimal used in the differential calculus
 - the basis of its introduction into the calculus
 
@@ -20,7 +18,9 @@ Both are abstract determinations and therefore in themselves also easy.
 
 The application, however, presents greater but interesting difficulties.
 
-The elements of this concrete side are to be the object of this Remark. The whole method of the differential calculus is complete in the proposition that dxn = nx(n - 1)dx, or (f(x + i) - fx)/i = P, that is, is equal to the coefficient of the first term of the binomial x + d, or x + 1, developed according to the powers of dx or i. 
+The elements of this concrete side are to be the object of this Remark. 
+
+The whole method of the differential calculus is complete in the proposition that dxn = nx(n - 1)dx, or (f(x + i) - fx)/i = P, that is, is equal to the coefficient of the first term of the binomial x + d, or x + 1, developed according to the powers of dx or i. 
 
 There is no need to learn anything further: the development of the next forms, of the differential of a product, of an exponential magnitude and so on, follows mechanically; in little time, in half an hour perhaps — for with the finding of the differential the converse the finding of the original function from the differential, or integration, is also given — one can be in possession of the whole theory.
 
@@ -29,9 +29,7 @@ What takes longer is simply the effort to understand, to make intelligible, how 
 If all that were required were only this coefficient, then with its determination all that concerns the theory would, as we have said, be settled and done with in less than half an hour and the omission of the further terms of the series (with the determination of the first function, the determination of the second, third, etc., is also accomplished) far from causing any difficulty, would not come into question since they are completely irrelevant.
 
 
-§ 609
-
-We may begin by remarking that the method of the differential calculus shows on the face of it that it was not invented and constructed for its own sake. Not only was it not invented for its own sake as another mode of analytical procedure; on the contrary, the arbitrary omission of terms arising from the expansion of a function is absolutely contrary to all mathematical principles, it being arbitrary in the sense that the whole of this development is nevertheless assumed to belong completely to the matter in hand, this being regarded as the difference between the developed function of a variable (after this has been given the form of a binomial) and the original function. The need for such a mode of procedure and the lack of any internal justification at once suggest that the origin and foundation must lie elsewhere. It happens in other sciences too, that what is placed at the beginning of a science as its elements and from which the principles of the science are supposed to be derived is not self-evident, and that it is rather in the sequel that the raison d'étre and proof of those elements is to be found. The course of events in the history of the differential calculus makes it plain that the matter had its origin mainly in the various so-called tangential methods, in what could be considered ingenious devices; it was only later that mathematicians reflected on the nature of the method after it had been extended to other objects, and reduced it to abstract formulae which they then also attempted to raise to the status of principle.
+<sup>609</sup> We may begin by remarking that the method of the differential calculus shows on the face of it that it was not invented and constructed for its own sake. Not only was it not invented for its own sake as another mode of analytical procedure; on the contrary, the arbitrary omission of terms arising from the expansion of a function is absolutely contrary to all mathematical principles, it being arbitrary in the sense that the whole of this development is nevertheless assumed to belong completely to the matter in hand, this being regarded as the difference between the developed function of a variable (after this has been given the form of a binomial) and the original function. The need for such a mode of procedure and the lack of any internal justification at once suggest that the origin and foundation must lie elsewhere. It happens in other sciences too, that what is placed at the beginning of a science as its elements and from which the principles of the science are supposed to be derived is not self-evident, and that it is rather in the sequel that the raison d'étre and proof of those elements is to be found. The course of events in the history of the differential calculus makes it plain that the matter had its origin mainly in the various so-called tangential methods, in what could be considered ingenious devices; it was only later that mathematicians reflected on the nature of the method after it had been extended to other objects, and reduced it to abstract formulae which they then also attempted to raise to the status of principle.
 
 § 610
 

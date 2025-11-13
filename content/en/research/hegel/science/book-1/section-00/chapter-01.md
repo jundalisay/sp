@@ -13,7 +13,7 @@ Highlighted text is Lenin's underlining. The ® access his annotations.
 
 {{< s v="88" >}}
 
-Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy. 
+<!-- Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy.  -->
 
 What philosophy begins with must be either mediated or immediate. It can be neither the one nor the other.
 
