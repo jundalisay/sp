@@ -3,12 +3,12 @@ title: "Federal Trade Commission"
 date: 2024-11-01
 description: "America’s antitrust laws are over a century old"
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Adam Candeub"
 ---
 
 
-## MISSION/OVERVIEW
+## Mission/Overview
 
 America’s antitrust laws are over a century old. 
 

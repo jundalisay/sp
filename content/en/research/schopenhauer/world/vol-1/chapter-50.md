@@ -3,38 +3,40 @@ heading: Chapter 50
 title: "Symbolism"
 date: 2025-09-20
 description: ""
-weight: 156
+weight: 153
 icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+aliases:
+  /research/schopenhauer/world/chapter-50
 ---
 
 
-If the aim of all art is the communication of the
-comprehended Idea, which through the mind of the artist[306]
-appears in such a form that it is purged and isolated from all
-that is foreign to it, and may now be grasped by the man of
-weaker comprehension and no productive faculty; if further, it is
-forbidden in art to start from the concept, we shall not be able
-to consent to the intentional and avowed employment of a work
-of art for the expression of a concept; this is the case in the
-Allegory. 
+Art cannot be used to express a concept if it is forbidden to start from concept. 
 
-An allegory is a work of art which means something
-different from what it represents. But the object of perception,
-and consequently also the Idea, expresses itself directly and
-completely, and does not require the medium of something else
-which implies or indicates it. Thus, that which in this way
-is indicated and represented by something entirely different,
+<!-- if The aim of art is to communicate the artist's Idea to a man of weaker comprehension.
+, which through the mind of the artist appears in such a form that it is purged and isolated from all that is foreign to it, and may now be grasped by the man of weaker comprehension and no productive faculty; if further, it is forbidden in art to start from the concept, we shall not be able to consent to the intentional and avowed employment of a work of art for the expression of a concept;  -->
+
+This is the case in the Allegory.
+
+An allegory is a work of art which means something different from what it represents.
+
+But the object of perception, and consequently also the Idea, expresses itself directly and completely, and does not require the medium of something else which implies or indicates it.
+
+Thus, that which in this way is indicated and represented by something entirely different,
 because it cannot itself be made object of perception, is always a
-concept. Therefore through the allegory a conception has always
+concept. 
+
+Therefore through the allegory a conception has always
 to be signified, and consequently the mind of the beholder has to
 be drawn away from the expressed perceptible idea to one which
 is entirely different, abstract and not perceptible, and which lies
 quite outside the work of art. The picture or statue is intended
 to accomplish here what is accomplished far more fully by a
-book. Now, what we hold is the end of art, representation of
+book.
+
+What we hold is the end of art, representation of
 a perceivable, comprehensible Idea, is not here the end. No
 great completeness in the work of art is demanded for what is
 aimed at here. It is only necessary that we should see what the
@@ -67,7 +69,9 @@ motive, and is really impossible. If then an allegorical picture
 has artistic value, it is quite separate from and independent of
 what it accomplishes as allegory. Such a work of art serves two
 ends at once, the expression of a conception and the expression
-of an Idea. Only the latter can be an end of art; the other is a
+of an Idea.
+
+Only the latter can be an end of art; the other is a
 foreign end, the trifling amusement of making a picture also do
 service as a legend, as a hieroglyphic, invented for the pleasure
 of those to whom the true nature of art can never appeal. It is the
@@ -138,6 +142,7 @@ to poetical allegory, of which we shall have more to say later.
 Greek sculpture devotes itself to the perception, and therefore it
 is æsthetical; Indian sculpture devotes itself to the conception,
 and therefore it is merely symbolical.
+
 This conclusion in regard to allegory, which is founded on our
 consideration of the nature of art and quite consistent with it, is
 directly opposed to the opinion of Winckelmann, who, far from
@@ -149,14 +154,12 @@ things.” We leave it to every one to adhere to whichever view
 he pleases. Only the truth became very clear to me from these
 and similar views of Winckelmann connected with his peculiar
 metaphysic of the beautiful, that one may have the greatest
-susceptibility for artistic beauty, and the soundest judgment in [310]
-314 The World As Will And Idea (Vol. 1 of 3)
-regard to it, without being able to give an abstract and strictly
-philosophical justification of the nature of the beautiful; just as
+susceptibility for artistic beauty, and the soundest judgment in regard to it, without being able to give an abstract and strictly philosophical justification of the nature of the beautiful; just as
 one may be very noble and virtuous, and may have a tender
 conscience, which decides with perfect accuracy in particular
 cases, without on that account being in a position to investigate
 and explain in the abstract the ethical significance of action.
+
 Allegory has an entirely different relation to poetry from that
 which it has to plastic and pictorial art, and although it is to
 be rejected in the latter, it is not only permissible, but very
@@ -170,7 +173,9 @@ of the hearer. If in plastic and pictorial art we are led from
 what is immediately given to something else, this must always
 be a conception, because here only the abstract cannot be given
 directly; but a conception must never be the source, and its
-communication must never be the end of a work of art. In poetry,
+communication must never be the end of a work of art. 
+
+In poetry,
 on the contrary, the conception is the material, the immediately
 given, and therefore we may very well leave it, in order to
 call up perceptions which are quite different, and in which the
@@ -180,13 +185,13 @@ itself and directly, quite incapable of being perceived; and then
 it is often made perceptible by means of some example which
 is subsumed under it. This takes place in every trope, every
 metaphor, simile, parable, and allegory, all of which differ only
-in the length and completeness of their expression. Therefore,
+in the length and completeness of their expression.
+
+Therefore,
 in the arts which employ language as their medium, similes and
 allegories are of striking effect. How beautifully Cervantes[311]
 says of sleep in order to express the fact that it frees us from
-all spiritual and bodily suffering, “It is a mantle that covers
-315
-all mankind.” How beautifully Kleist expresses allegorically the
+all spiritual and bodily suffering, “It is a mantle that covers all mankind.” How beautifully Kleist expresses allegorically the
 thought that philosophers and men of science enlighten mankind,
 in the line, “Those whose midnight lamp lights the world.” How
 strongly and sensuously Homer describes the harmful Ate when
@@ -196,8 +201,9 @@ we are struck by Menenius Agrippa's fable of the belly and the
 limbs, addressed to the people of Rome when they seceded.
 How beautifully Plato's figure of the Cave, at the beginning of
 the seventh book of the “Republic” to which we have already
-referred, expresses a very abstract philosophical dogma. The
-fable of Persephone is also to be regarded as a deeply significant
+referred, expresses a very abstract philosophical dogma. 
+
+The fable of Persephone is also to be regarded as a deeply significant
 allegory of philosophical tendency, for she became subject to the
 nether world by tasting a pomegranate. This becomes peculiarly
 enlightening from Goethe's treatment of the fable, as an episode
@@ -226,6 +232,7 @@ that beautiful allegorical vignette of Lavater's, which must be so
 heartening to every defender of truth: a hand holding a light is
 stung by a wasp, while gnats are burning themselves in the flame
 above; underneath is the motto:
+
 “And although it singes the wings of the gnats,
 Destroys their heads and all their little brains,
 Light is still light;
@@ -235,6 +242,7 @@ To this class also belongs the gravestone with the burnt-out,
 smoking candle, and the inscription—
 “When it is out, it becomes clear
 Whether the candle was tallow or wax.”
+
 Finally, of this kind is an old German genealogical tree,
 in which the last representative of a very ancient family thus
 expresses his determination to live his life to the end in abstinence
@@ -250,11 +258,10 @@ importance, and no more is demanded of it than that it shall
 represent the thing so that we can recognise it. But in poetry, as
 in plastic art, the allegory passes into the symbol if there is merely
 an arbitrary connection between what it presented to perception[313]
-and the abstract significance of it. For as all symbolism rests,
-at bottom, on an agreement, the symbol has this among other
-317
-disadvantages, that in time its meaning is forgotten, and then it is
-dumb. Who would guess why the fish is a symbol of Christianity
+and the abstract significance of it. 
+
+For as all symbolism rests,
+at bottom, on an agreement, the symbol has this among other disadvantages, that in time its meaning is forgotten, and then it is dumb. Who would guess why the fish is a symbol of Christianity
 if he did not know? Only a Champollion; for it is entirely
 a phonetic hieroglyphic. Therefore, as a poetical allegory, the
 Revelation of John stands much in the same position as the reliefs

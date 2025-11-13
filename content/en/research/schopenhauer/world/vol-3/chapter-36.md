@@ -2,7 +2,8 @@
 heading: Chapter 36
 title: "Isolated Remarks On The Æsthetics Of The Plastic And Pictorial Arts."
 description: ""
-weight: 8
+weight: 87
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -14,29 +15,16 @@ writer:
 20 This chapter is connected with §§ 44-50 of the first volume.
 
 
-In sculpture beauty and grace are the principal things; but in
-painting expression, passion, and character predominate; there-
-fore just so much of the claims of beauty must be neglected.
-For a perfect beauty of all forms, such as sculpture demands,
-would detract from the characteristic and weary by monotony.
-Accordingly painting may also present ugly faces and emaciated
-figures; sculpture, on the other hand, demands beauty, although
-not always perfect, but, throughout, strength and fulness of the
-figures. Consequently a thin Christ upon the Cross, a dying
-St. Jerome, wasted by age and disease, like the masterpiece
+In sculpture beauty and grace are the principal things; but in painting expression, passion, and character predominate; therefore just so much of the claims of beauty must be neglected. 
+
+For a perfect beauty of all forms, such as sculpture demands, would detract from the characteristic and weary by monotony.
+Accordingly painting may also present ugly faces and emaciated figures; sculpture, on the other hand, demands beauty, although not always perfect, but, throughout, strength and fulness of the figures. Consequently a thin Christ upon the Cross, a dying St. Jerome, wasted by age and disease, like the masterpiece
 of Domenichino, is a proper subject for painting; while, on the
-contrary, the marble figure by Donatello, in the gallery at Flo-
-rence, of John the Baptist, reduced to skin and bone by fasting,
-has, in spite of the masterly execution, a repulsive effect. From
-this point of view sculpture seems suitable for the affirmation,
-painting for the negation, of the will to live, and from this it may
-be explained why sculpture was the art of the ancients, while
-painting has been the art of the Christian era.
-In connection with the exposition given in § 45 of the first
-volume, that the discovery, recognition, and retention of the type
-of human beauty depends to a certain extent upon an anticipation
-of it, and therefore in part has an a priori foundation, I find[194]
-that I have yet to bring out clearly the fact that this anticipation
+contrary, the marble figure by Donatello, in the gallery at Florence, of John the Baptist, reduced to skin and bone by fasting, has, in spite of the masterly execution, a repulsive effect. 
+
+From  this point of view sculpture seems suitable for the affirmation, painting for the negation, of the will to live, and from this it may be explained why sculpture was the art of the ancients, while painting has been the art of the Christian era. 
+
+In connection with the exposition given in § 45 of the first volume, that the discovery, recognition, and retention of the type of human beauty depends to a certain extent upon an anticipation of it, and therefore in part has an a priori foundation, I find that I have yet to bring out clearly the fact that this anticipation
 nevertheless requires experience, by which it may be stirred up;
 analogous to the instinct of the brutes, which, although guiding
 the action a priori, yet requires determination by motives in the

@@ -3,6 +3,8 @@ heading: Chapter 23c
 title: "Retrospect and More General View"
 description: ""
 date: 2025-10-05
+weight: 24
+icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer

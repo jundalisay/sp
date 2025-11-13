@@ -1,135 +1,133 @@
 ---
-heading: Section 1
-title: The Historical Status of Philosophy
-description: The subject of philosophy is the actual knowledge of what truly is.
+heading: Section 1d
+title: Representation and Thought
+description: The fundamental connection between religion and philosophy is the nature of spirit itself..
 c: "steelblue"
 author: Hegel
 icon: "Hegel"
-weight: 10
+weight: 14
 ---
 
 
-C. GENERAL DIVISION OF THE HISTORY OF PHILOSOPHY
 
-II. The Beginning of the History of Philosophy
+The form of philosophy differs from the form of religion.
 
-Where does the history of philosophy begin?
+The fundamental connection between religion and philosophy is the nature of spirit itself.
 
-<!-- The answer to this question is already contained immediately in what has preceded.  -->
+1. With regard to spirit the point of departure must be [the realization] that spirit is in manifesting itself
 
-The history of philosophy begins where:
-- thought in its freedom comes into existence
-- thought cuts itself loose from its immersion in and unity with nature, constitutes itself for itself
-- thinking goes into itself and remains with itself.
+It is this one substantial identity, but at the same time, in manifesting itself it is differentiated within itself. 
 
-From the historical point of view, this emergence of spirit is intimately connected with the flowering of political liberty.
+This is where its subjective, finite consciousness comes in. (That which has its limit in another, be cause at its limit the other begins, is finite; and this is true only where there is a determination, a difference.) Spirit, however, remains free; it remains with itself in being manifested, with the result that it is not disturbed by reason of the difference. To spirit, that which is differentiated is transparent; it is something clear, not something obscure. To put it another way, for spirit there is nothing determinate in the sense that determination means difference. Now, when there is talk of a limit to spirit, from one point of view this is correct; man is limited, dependent, finite – except insofar as he is spirit. Finitude has to do with the other modes of his existence.
 
-Political liberty, liberty within the state, begins where the individual feels himself to be an individual, where the subject knows himself in a universal manner, or where the consciousness of personality, of having in oneself infinite value, comes into the open – because I posit myself for myself and have value simply for myself. 
+To the extent that, even though he is spirit, his attitude is spirit less, he is involved with external things; but when he is spirit and truly spirit he is unlimited. The limits of reason are only the limits of this subject’s reason; but when man’s attitude is genuinely rational he is without limits, infinite. (Of course, infinity is not to be taken in the abstract sense, as a concept of understanding.) Because spirit is infinite it continues to be spirit in all its relationships, expressions, manifestations. 
 
-Herein is contained, too, free thinking of the object, the absolute, the essential universal object. To think means to put something into the form of universality. 
+The difference between universal, substantial spirit and merely subjective spirit is a difference for spirit itself. Both spirit as object and the content of spirit must be at the same time immanent in subjective spirit; and this can be only when the immanence is spiritual, not natural or immediate. This is the fundamental characteristic of Christianity, which sees man illuminated by grace, by the Holy Spirit (who is essential Spirit). Then it is that the spirit is immanent in man, is, thus, his own spirit.
 
-To think oneself, then, means to give oneself the determination of universality, to know oneself as universal – to know that I am a universal, an infinite – i.e., to know oneself as a free being relating oneself to oneself. That is precisely where the moment of practical political freedom comes in. 
+A living spirit such as this is, is, so to speak, phosphorus, the volatile, flammable material which can be ignited both from without and from within. It is ignited from without, for example, when man is taught the content of religion, when his emotions and imagination (Vorstellung) are aroused by such a teaching, or when he accepts it on authority. When his attitude is spiritual, he is on the contrary inflamed from within himself; because he looks for the content of religion within himself, it is from out of himself that he manifests it. Then he is his most intimate self.
 
-Philosophical thinking is immediately connected with this sort of thing because it, too, appears as thought of the universal object. 
+2. To go further, we must speak of the way in which spirit is objective to itself, of what it is for it to be for itself. 
 
-Thought is determined as something universal. This means:
+The form in which it is present can vary; thus it can assume a variety of forms. From these diverse ways of appearing (Gestaltungsweisen) comes the diversity of forms of spirit and, thus, the difference between philosophy and religion.
 
-- (a) it makes of the universal its object or of the objective something universal. 
+In religion, spirit has its own peculiar form, which can be sensible, e.g., in the form of art, when art pictures divinity, or in poetry, where likewise the sensible representation constitutes the essence of the being-present. 
 
-It determines the individuality of natural things, the way they are in sensible consciousness, as a universal, a thought, an objective thought. There we have the objective, but as thought. 
+In general we can say that this way of manifesting spirit is representation. It is true, of course, that in religious representation thinking, too, is to some extent involved, but the representation contains thought in such a way that the latter is mingled with an ordinary external content. By the same token, law and morality too are, as it is said, suprasensible, but my representation of them takes its origin from custom, from legal prescriptions (Bestimmungen) which are already there, or from feeling. 
 
-- (b) Added to this is the second determination: I recognize this universal, thought knows that the universal happens. 
+With regard to philosophy, then, the difference is that in it the same content is grasped, but the form is that of thinking. In religion there are 2 moments:
 
-This more precise relation of recognition and of knowledge to the universal enters in only to the extent that the objective in question continues to be for me the objective and that I continue to grasp myself for myself. 
+1. There is an objective form or determination of consciousness, whereby essential Spirit, the absolute, is present as external to subjective spirit, i.e., as its object, and is represented as historical or as an artistic image, separated in time and space
 
-Insofar as I think the objective, it is mine; and even though it is my thinking, it counts for me as the absolutely universal. Insofar as it is present as objective, I have thought myself in it; I myself am contained in this infinite and at the same time. I am conscious of this. Thus, I retain the standpoint of objectivity and at the same time that of knowing, and I maintain the latter standpoint. 
+2. There is the character or stage of devotion, of intimacy, wherein the separation is removed, the gap is bridged, wherein Spirit and object are one, and the individual is filled with the Spirit. 
 
-That, in general, is the connection between political freedom and the emergence of freedom of thought.
+Philosophy and religion have the same object, the same content, the same goal. But, what are in religion two stages, two modes of objectivity, i.e., art, faith and then devotion, are in philosophy united into one; for thought is 
+
+- (a) from the point of view of the first character objective and has the form of an object
+
+- (b) it has also lost the form of objectivity, such that in thinking, content and form are posited as unified. 
+
+To the extent that what I think – i.e., the content of thinking – is in the form of thought, it no longer stands over against me.
+
+In religion and philosophy:
+- there is one substantial content
+- only the manner of manifesting it in each is different and even contradictory
+
+This is because the content is represented as essentially linked to the image.
+
+The different manner of presentation which characterizes religion is not to be taken literally. 
+
+Thus, it is said: God generated His Son.
+
+The divine Spirit’s self-knowledge, His making Himself into an object, is here called generating His Son. 
+
+In the Son the Father knows Himself, because the Son is of the same nature as He.
+
+This relationship, however, is taken from vital nature, not from the spiritual; its expression is characteristic of representation. 
+
+It is said, of course, that the relationship is not to be taken literally; but it is simply left at that. 
+
+So too, when the mythologies speak of the wars of the gods, it is admitted that this sort of thing is being said partly of spiritual and partly too of natural forces.
+
+Because they are opposed to each other they are in, this way imaginatively represented.
 
 
-Philosophy, then, makes its appearance in history when free political institutions exist, such as in the Orient. 
+3. It is natural that these diverse forms, as for the first time they appear in a determinate way, and are aware of the differences which separate them, should be inimical to each other; it is, in fact, inevitable. 
 
-In the Oriental world, however, there is no proper philosophy. Spirit does arise in the Orient, but conditions are such that the subject, the individuality, is not a person, but is determined as being swallowed up in the objective. 
+Thought, after an, first makes its appearance as abstract, i.e., as formally incomplete. 
 
-There the substantial relation is dominant.
+The same is true of religion, since initial immediate religious consciousness, even though it is consciousness of spirit, of that which is in and for itself, still involves a sensible form and sensible attributes, i.e., it too is abstract. Thereafter thinking becomes more concrete, penetrates more profoundly into itself, and brings to consciousness the concept of spirit as such. 
 
-There substance is represented partly as suprasensible, as thought, partly as more on the side of the material. 
+Thus aware of itself, it is no longer inseparable from its abstract determination. 
 
-The relation which the individual or the particular has, then, is simply that of being a negative over against the substantial. 
+The concept of concrete spirit is its own self-conception, or it involves an essential conception of itself, having determination in itself (determination being what is counted as belonging to understanding, to the essence of appearance). 
 
-The highest which such an individual can achieve is eternal blessedness, which consists in being simply submerged in this substance, in abdicating consciousness, and thus being annihilated as subject, with a consequent destruction of the difference between substance and subject. 
+Within itself abstract understanding denies all determination and, thus, with regard to God retains what is left, which is no more than His abstract designation as supreme being. On the contrary, the concrete concept has nothing to do with such a caput mortuum; its object is concrete, active, self-determining, living spirit. 
 
-The supreme relationship, then, is unconsciousness. 
+Subsequently, therefore, concrete spirit recognizes in religion the concrete, determinateness in general, not the sensible but the essential. 
 
-In the Orient, individuals have not attained this blessedness. They exist still in an earthly way. They are excluded from the unity of the substantial and the individual. 
+The Jewish God, for example, God the Father, is abstract. In a later stage of its development spirit recognizes what is essential in that. 
 
-The relation they have is that of being determined as without spirit, without substance and – as regards political freedom – without rights. 
+The concrete, however, is not merely God as such, but rather God determining Himself, positing another than Himself, and yet as Spirit He does not leave the other simply another but is with Himself in this other. Only this latter is the complete divine Spirit. 
 
-Will in this case is not substantial.
-- It is only determined by the arbitrariness and contingency of nature (e.g., by the caste system). 
-- It is a being without inner consciousness.
+What is concrete in religion, however, can be known and recognized only in the concept which is itself concrete. Therein lies the possibility of reconciling religion and philosophy, when abstract understanding struggles against the former.
 
-That is the fundamental situation of the Oriental character. 
+The historical progress of this opposition is approximately the following. Thinking takes its start at first within religion’s representations and subsequently parallels them, with the result that the opposition is not yet conscious. 
 
-What is affirmative is simply substance. The individual is without substance, and is accidental. 
+Later, however, when thinking is strengthened and relies on itself, it declares its opposition to the form of religion and will not recognize its own concept therein, seeking as it does only itself. 
 
-Political liberty, rights, moral freedom, pure consciousness, thinking – all are absent. 
+This fight against the form of religion took place early in the history of the Greek world. In as early a case as Xenophanes’ we see a philosopher most vigorously combating the representations of Greek popular religion; and later we see the opposition stiffen, as philosophers arose who expressly denied the gods and hence the ,divine character of the popular religion. Socrates was charged with having introduced new gods.
 
-If these are to come about, it is necessary that the subject, too, posit himself as consciousness over against the substance and be recognized for what he is. 
+His daimonion and the overall principle of his system were contrary to the form of Greek religion and of customary morality. 
 
-But, in the Oriental character the subject does not count as thus knowing himself. 
+Still, he held on to the practices of his religion, and we know that as he was dying he ordered that a cock be sacrificed to Aesculapius.
 
-The subject is not there for himself and he has in his own self-consciousness no value for himself. 
+It was only very late that the Neoplatonists recognized the universal content of the popular religion, which had been either expressly attacked or put aside by the philosophers. We see not only that the Neoplatonists gave to mythological representations a meaning proper to thought but that they also employed these representations as a sort of imaginative language for their own system.
 
-The Oriental subject can be great, noble, sublime. But he is without rights. What he creates himself is determined either by nature or by arbitrariness.
+The path which this opposition follows in the Christian religion is quite similar. At first thinking is dependent, unfree, tied to the religious form. Thus it is with the Church Fathers. With them, thinking develops the elements of Christian doctrine. (The latter becomes a system only in the hands of the Church Fathers who were also philosophers. The developed aspect of ecclesiastical faith emerged in a special way in Luther’s time. At that time and frequently thereafter in more recent times there was a desire to effect a return of Christian religion to its primitive form. This sort of thing has, it is true, a good sense, in that men were concerned with what is authentic and original in Christian teaching, something which was particularly necessary at the time of the Reformation. Nevertheless, it also involves the incorrect notion that the elements should not be developed.) The first step, then, was that thinking expanded the teaching and developed it into a system; subsequently the doctrine was fixed and made into an absolute presupposition for thinking. First, then, comes the development of doctrine; secondly comes its fixation. Only after that does the opposition of believing and thinking, of immediate doctrinal certitude and so-called reason, enter in. Thinking reached the point where it relied only on itself; the first thing the young eagle of reason did was to soar as a bird of prey to the sun of truth, from there to declare war on religion. Then, however, once more justice is done to the religious content also, in that thinking finds its completion in the concrete concept of spirit and enters into a polemic against abstract understanding.
 
- <!-- still what characterizes him chiefly is that as an individual he is  -->
+Religion, then, has a content common to itself and to philosophy; it differs from philosophy only in its form. Thus, all that is required for philosophy is that the form of the concept be so far perfected as to be able to comprise the content of religion. This content is primarily what have been called the mysteries of religion, which is to say, the speculative element in religion. Under that heading is understood first of all something mysterious, something which must remain secret and is not to be made known. It is true, of course, that by their nature, i.e., precisely as a speculative content, mysteries are something mysterious for understanding; not, however, for reason. They are, in fact, precisely the rational element, in the sense of being speculative, i.e., in the sense of the concrete concept. Philosophy is opposed to rationalism, particularly in contemporary theology. Rationalism, it is true, is always talking about reason, but what it is really talking about is merely dry, abstract understanding. Nothing in it. is recognizable as reason, except the moment of self-thinking; but even that is a completely abstract thinking. This sort of rationalism is opposed to philosophy both in its content and in its form. From the point of view of content: it has made heaven empty – reduced the divine to a caput mortuum, and everything else to mere finite entities in space and time. Even from the point of view of form it is contrary to philosophy; for the form of this rationalism is argumentation (Rasonnieren), unfree argumentation, and it declares its opposition to philosophy in particular, in order to be able to continue this sort of argumentation forever. That is no philosophizing, no genuine conceptual thinking (Begreifen). Within religion the opposition to rationalism comes from supranaturalism, and this latter is in regard to true content like philosophy and in agreement with it, but different as regards form; for in supranaturalism the spirit is entirely absent, it has become wooden and accepts only positive authority for its corroboration and justification. The Scholastics, on the contrary, were not this sort of supranaturalists; in their thinking they put the dogma of the Church into the form of concept.
 
-The Oriental's arbitrariness of character includes: 
-- nobility
-- sublimity
-- the utmost magnanimity of attitude
+As a thinking of this content in the form of concept, over against the representation which is proper to religion, philosophy has the advantage of understanding both. It understands religion and can accord it a justification; it understands rationalism and supranaturalism. too; and it also understands itself. The converse, however, is not true; religion as such, because its point of view is that of the representation, recognizes itself only in representation, and not in philosophy, i.e., not in concepts, not in universal thought-determinations. Often enough no injustice is being done to a philosophy when the complaint is made that it is opposed to religion; frequently, however, the complaint is also unjustified, namely, when the complaint is made from the religious point of view, simply because religion does not understand philosophy.
 
-<!-- and by the same token contingent.  -->
+Philosophy, then, is not contrary to religion; it grasps the latter in concept. For the absolute Idea, however, for absolute Spirit there must be the form of religion, for religion is the form proper to consciousness of the true, the way it is for all men. The structure of religion is (1) sense perception. and (2) mingling with the latter the form of the universal, i.e., reflection, thinking, but still, abstract thinking, which still contains much that is external. Thereafter a ‘transition is made to the concrete structuring of thoughts, there is speculation on the true, which is then in consciousness according to its true form. Nevertheless, the speculative element which enters into the structuring at this point is not the externally universal form of thinking which is common for all men; and so the consciousness of that which is in itself true must have the religious form.
 
-Missing are such things as rights and moral standards, which consist in objective and positive determinations to be:
-- respected by all
-- valid for all
-- in which all are accorded recognition. 
+This is the general justification of the religious form [of spirit’s manifestation].
 
-When the Oriental acts, he has the advantage of complete independence because for him there is nothing fixed and determined.
+Up to this point we have given an account of the difference between philosophy and religion. With regard, however, to what we want to treat of in the history of philosophy there are a few further remarks to make in connection with – and partly as a consequence of – what has already been said.
 
-The freer and more undetermined his substance is, the more arbitrary and independent is he. 
+3. The Kinds of Religious Contents which Are to be Eliminated from Philosophical Consideration
+a. The first remark concerns the simply (uberhaupt) mythological. It is said that mythology contains philosophical affirmations, and, it is also said, since in general religious forms of expression involve philosophical affirmations, philosophy must concern itself with such forms of expression. (i) In this regard the work of my friend Creuzer is well known; therein in a distinctively philosophical way he treated mythology and in general the religious representations, expressions, and usages of ancient peoples, showing what was rational in them. Now this method of treatment is attacked by others as an incorrect and unhistorical procedure. The objection is that it is not an historical fact that such philosophical affirmations are contained therein. Included in the mythological are also the mystery religions of the ancients, and in them we are presented with perhaps more philosophical affirmations than in mythology. That objection has already been taken care of by what was said earlier. It is clear enough that in mythology and in the mystery religions of the ancients such thoughts are to be found, since religions and, by the same token, the mythological elements in them are products of man, wherein he has bequeathed to posterity (niedergelegt hat) what to him was supreme and most profound – his consciousness of what the true is. Consequently there is no question that in the forms of mythology are contained reason, universal notions and determinations, and hence philosophical affirmations also. Now, when Creuzer is faulted for introducing such thoughts where they are not really present, for allegorizing, it is important to note that Creuzer shares with the Neoplatonists the tendency to seek philosophical affirmations in the mythological. That does not, however, mean injecting such elements; they are actually there. This sort of consideration, then, is rational and is to be raised to the absolute level. The religions and mythologies which peoples have developed are products of reason becoming conscious of itself.. No matter how naive or nonsensical they may seem, they still contain the rational moment; instinctive rationality is fundamental to them. The method employed by Creuzer and the Neoplatonists, then, is to be recognized as in itself the true and essential method.
 
-A free substance such as this no more has the character of an objectivity which is valid for all universally than it has freedom.
+Because, however, the mythological is the sensible, contingent presentation of the concept, what has been thought about it or developed out of it always continues to be bound to its external form. But the sensible is not the genuine element in which thought or concept can be presented.
 
-What we call rights, moral standards, the state, are there present in a natural, substantial, patriarchal way, i.e., without subjective freedom. 
+This sort of presentation, then, is always inadequate to the concept. The sensible form must always be described from many sides, e.g., from those of history, of nature, and of art.
 
-The kind of morality which we call conscience is also nonexistent there. 
+It involves so much by way of contingent addition, which makes it fail to correspond exactly with the concept and, in fact, to contradict the intrinsic concept. Nevertheless the Neoplatonists did achieve a new recognition of their own philosophy under the sensible image proper to mythology, and they employed such images as forms for the expression of their own concepts. It is natural to assume that in the explanation of those images, even when they are connected with an intrinsic concept, a good deal of error gets in, especially when it comes down to details, to the multitude of usages, activities, utensils, vestments, ritual sacrifices, etc.
 
-Instead, there is a petrified natural order which permits what is worst to exist side by side with supreme nobility. 
+Therein can be found something analogous to thought, a relationship to thought; but this simply shows how separate from each other are the image and its significance and how much contingency and arbitrariness can intervene and obscure the issue. Still, there is rationality here, and it must be taken into consideration. 
 
-The situation is such that in it supreme arbitrariness holds the highest place.
+It is to be excluded, however, from our examination of the history of philosophy, for in philosophy we have nothing to do with such vague philosophical affirmations – i.e., with general ways of representing the true – or with thoughts which are merely contained in some presentation or other or lie hidden and undeveloped under some sensible image. 
 
-Consequently, philosophical knowledge is not to be looked for in the Orient, since it is proper to philosophical knowledge to be conscious of, to know, the substance, i.e., the universal insofar as I think it, develop it within me, determine it, in such a way that in the substance I have my own determinations and am also contained subjectively or affirmatively.
+We are concerned with thoughts which are externalized and only to the extent to which they are externalized – to the extent, then, that the sort of content proper to religion has appeared, been manifested, and come to consciousness. The difference is enormous. 
 
-In this way the determinations in question are not merely subjective, not merely opinions, but just as they are my thoughts so too are they thoughts of what is, objective; they are substantial thoughts.
-
-Oriental philosophy thus is to be excluded from the history of philosophy. 
-
-<!-- Still, in the overall treatment, I shall, nevertheless, say a few words about it, particularly the Indian and the Chinese. Previously I have ignored Oriental thought, but recently it has become possible to pass judgment in its regard.  -->
-
-Formerly, it was customary to acclaim Indian wisdom and even to make a great fuss about it, without anyone knowing exactly why. 
-- Indian philosophy is now revealed to be of general vague character. 
-
-<!-- Only now do we have more precise information, which corresponds naturally to its somewhat general character. It is not enough, however, simply to contrast the universal concept with the former sort of vague conjecture; we must now, wherever possible, proceed historically. -->
-
-Thus, proer philosophy has its beginning only in the West. 
-- There the spirit is submerged in itself.
-- It immerses itself in itself
-- It posits itself as free
-- It is free for itself. 
-
-Only under such conditions can philosophy exist. Only in the West do we find free political institutions. 
-
-The happiness and the infinity which characterize the individual in the West are determined in such a way that within the substantial the subject holds its own, is not demeaned, does not appear as a slave, destined for annihilation in its dependence on the substance.
+In a child, too, reason is present, but only as a capacity. In the history of philosophy, however, we are concerned with reason only insofar as it has been articulated in the form of thought. The philosophical affirmations which are contained only implicite in religion, then, do not concern us.

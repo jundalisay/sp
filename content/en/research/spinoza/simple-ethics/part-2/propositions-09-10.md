@@ -1,15 +1,17 @@
 ---
-title: "Propositions 9-10"
+title: "Substance"
+heading: "Propositions 9-10"
 description: The idea of an existing individual thing is caused by God.
-image: /covers/ethics.jpg
+c: "indigo"
+icon: "Spinoza"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 4
+weight: 14
 ---
 
 
-#### 9. The idea of an existing individual thing is caused by God, not as he is infinite, but as he is the ultimate cause of its cause
+### 9. The idea of an existing individual thing is caused by God, not as he is infinite, but as he is the ultimate cause of its cause
 
 <!-- affected by another idea of a thing actually existing, of which he is the cause, as he is affected by a third idea, and so on to infinity. -->
 
@@ -36,7 +38,7 @@ But (by Prop. 7 of this part) the order and connection of ideas is the same as t
 Therefore, the knowledge of that which takes place in any individual object will be in God, in so far only as he has the idea of that object. Q.E.D.
 
 
-#### 10. The form of substance does not appertain to the essence of man. In other words, substance does not constitute the actual form of man.
+### 10. The form of substance does not appertain to the essence of man. In other words, substance does not constitute the actual form of man.
 
 Proof: The being of substance involves necessary existence (Part 1, Prop. 7).
 
@@ -97,4 +99,3 @@ Individual things cannot exist or be conceived without God.
 Yet God does not appertain to their essence.
 
 I said that "I considered as belonging to the essence of a thing that, which being given, the thing is necessarily given also, and which being removed, the thing is necessarily removed also. or that without which the thing, and which itself without the thing can neither be nor be conceived." (2. Def. 2)
-

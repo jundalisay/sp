@@ -1,8 +1,9 @@
 ---
 heading: Chapter 40
-title: "Preface"
+title: "The 2 Fundamental Problems of Ethics"
 description: ""
-weight: 8
+weight: 118
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -11,13 +12,19 @@ writer:
 
 
 
-The supplements to this fourth book would be very considerable
+<!-- The supplements to this fourth book would be very considerable
 if it were not that two of its principal subjects which stand
-specially in need of being supplemented—the freedom of the
-will and the foundation of ethics—have, on the occasion of prize
-questions being set by two Scandinavian Academies, been fully
-worked out by me in the form of a monograph, which was laid
-before the public in the year 1841 under the title, “The 2 Fundamental Problems of Ethics.” Accordingly I assume an acquaintance on the part of my readers with the work which has just
+specially in need of being supplemented— -->
+
+
+Two Scandinavian Academies have asked prize questions on:
+
+- the freedom of the will
+- the foundation of ethics
+
+I have answered this in 1841 in my “The 2 Fundamental Problems of Ethics.”
+
+I assume an acquaintance on the part of my readers with the work which has just
 been mentioned, just as unconditionally as in the supplements to
 the second book I have assumed it with regard to the work “On
 the Will in Nature.” 

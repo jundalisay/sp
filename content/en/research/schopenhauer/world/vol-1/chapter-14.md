@@ -1,6 +1,6 @@
 ---
 heading: Chapter 14
-title: "Abstract rational knowledge"
+title: "The Processes of Knowledge"
 date: 2025-09-20
 description: ""
 weight: 44
@@ -9,7 +9,6 @@ writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
 ---
-
 
 
 
@@ -41,8 +40,7 @@ knowledge. All rational knowledge, that is, knowledge that has
 been raised to consciousness in the abstract, is related to science
 strictly so called, as a fragment to the whole. 
 
-Every one has gained
-a rational knowledge of many different things through experience,
+Every one has gained a rational knowledge of many different things through experience,
 through consideration of the individual objects presented to him,
 but only he who sets himself the task of acquiring a complete
 knowledge in the abstract of a particular class of objects, strives
@@ -97,8 +95,7 @@ in it consists merely in the survey of the principal periods, from
 which, however, the particular events cannot be deduced, and are
 only subordinated to them according to time, but according to the
 concept are co-ordinate with them. Therefore, history, strictly
-speaking, is certainly rational knowledge, but is not science. In mathematics, according to Euclid's treatment, the axioms alone
-are indemonstrable first principles, and all demonstrations are
+speaking, is certainly rational knowledge, but is not science. In mathematics, according to Euclid's treatment, the axioms alone are indemonstrable first principles, and all demonstrations are
 in gradation strictly subordinated to them. But this method
 of treatment is not essential to mathematics, and in fact each
 proposition introduces quite a new space construction, which in

@@ -10,225 +10,41 @@ writer:
 
 
 
-4. The intellect becomes tired; the will is never tired. After
-sustained work with the head we feel the tiredness of the brain,
-just like that of the arm after sustained bodily work. All knowing
-is accompanied with effort; willing, on the contrary, is our very
-nature, whose manifestations take place without any weariness
-and entirely of their own accord. Therefore, if our will is strongly
-excited, as in all emotions, thus in anger, fear, desire, grief,
-&c., and we are now called upon to know, perhaps with the
-view of correcting the motives of that emotion, the violence
-which we must do ourselves for this purpose is evidence of the
-transition from the original natural activity proper to ourselves to the derived, indirect, and forced activity. For the will alone is ±ÅÄ¿1⁄4±Ä¿Â, and therefore ±o±1⁄4±Ä¿Â o±1 ±3·Á±Ä¿Â ·1⁄4±Ä± À±1⁄2Ä±
-(lassitudinis et senii expers in sempiternum). It alone is active
-without being called upon, and therefore often too early and too
-much, and it knows no weariness. Infants who scarcely show
-the first weak trace of intelligence are already full of self-will:
-through unlimited, aimless roaring and shrieking they show the
-pressure of will with which they swell, while their willing has yet
-no object, i.e., they will without knowing what they will. What
-Cabanis has observed is also in point here: “Toutes ces passions,
-qui se succèdent d'une mannière si rapide, et se peignent avec
-tant de naïveté, sur le visage mobile des enfants. Tandis que les
-faibles muscles de leurs bras et de leurs jambes savent encore
-a peine former quelque mouvemens indécis, les muscles de la
-face expriment déjà par des mouvemens distincts presque toute
-la suite des affections générales propres a la nature humaine:
-et l'observateur attentif reconnait facilement dans ce tableau les
-traits caractéristiques de l'homme futur” (Rapports du Physique
-et Moral, vol. i. p. 123). 
+4. The intellect becomes tired but the will is never tired.
 
-The intellect, on the contrary, develops
-slowly, following the completion of the brain and the maturity
-of the whole organism, which are its conditions, just because it
-is merely a somatic function. It is because the brain attains its
-full size in the seventh year that from that time forward children
-become so remarkably intelligent, inquisitive, and reasonable.
-But then comes puberty; to a certain extent it affords a support
-to the brain, or a resounding-board, and raises the intellect at
-once by a large step, as it were by an octave, corresponding to
-the lowering of the voice by that amount. But at once the animal
-desires and passions that now appear resist the reasonableness
-that has hitherto prevailed and to which they have been added.
-Further evidence is given of the indefatigable nature of the will
-by the fault which is, more or less, peculiar to all men by nature,
-and is only overcome by education—precipitation. It consists
-in this, that the will hurries to its work before the time. This413
-work is the purely active and executive part, which ought only to
-begin when the explorative and deliberative part, thus the work
-of knowing, has been completely and thoroughly carried out. But
-this time is seldom waited for. Scarcely are a few data concerning
-the circumstances before us, or the event that has occurred, or the
-opinion of others conveyed to us, superficially comprehended
-and hastily gathered together by knowledge, than from the depths
-of our being the will, always ready and never weary, comes forth
-unasked, and shows itself as terror, fear, hope, joy, desire, envy,
-grief, zeal, anger, or courage, and leads to rash words and deeds,
-which are generally followed by repentance when time has taught
-us that the hegemonicon, the intellect, has not been able to finish
-half its work of comprehending the circumstances, reflecting on
-their connection, and deciding what is prudent, because the will
-did not wait for it, but sprang forward long before its time with
-“Now it is my turn!” and at once began the active work, without
-the intellect being able to resist, as it is a mere slave and bondman
-of the will, and not, like it, ±ÅÄ¿1⁄4±Ä¿Â, nor active from its own
-power and its own impulse; therefore it is easily pushed aside
-and silenced by a nod of the will, while on its part it is scarcely
-able, with the greatest efforts, to bring the will even to a brief
-pause, in order to speak. This is why the people are so rare,
-and are found almost only among Spaniards, Turks, and perhaps
-Englishmen, who even under circumstances of provocation keep
-the head uppermost, imperturbably proceed to comprehend and
-investigate the state of affairs, and when others would already be
-beside themselves, con mucho sosiego, still ask further questions,
-which is something quite different from the indifference founded
-upon apathy and stupidity of many Germans and Dutchmen.
-Iffland used to give an excellent representation of this admirable
-quality, as Hetmann of the Cossacks, in Benjowski, when the
-conspirators have enticed him into their tent and hold a rifle to
-his head, with the warning that they will fire it if he utters a
-cry, Iffland blew into the mouth of the rifle to try whether it was loaded. 
+After sustained work with the head we feel the tiredness of the brain, just like that of the arm after sustained bodily work. All knowing is accompanied with effort; willing, on the contrary, is our very nature, whose manifestations take place without any weariness and entirely of their own accord. Therefore, if our will is strongly excited, as in all emotions, thus in anger, fear, desire, grief, &c., and we are now called upon to know, perhaps with the view of correcting the motives of that emotion, the violence which we must do ourselves for this purpose is evidence of the transition from the original natural activity proper to ourselves to the derived, indirect, and forced activity. For the will alone is ±ÅÄ¿1⁄4±Ä¿Â, and therefore (lassitudinis et senii expers in sempiternum). 
 
-Of ten things that annoy us, nine would not be able
-to do so if we understood them thoroughly in their causes, and
-therefore knew their necessity and true nature; but we would do
-this much oftener if we made them the object of reflection before
-making them the object of wrath and indignation. For what bridle
-and bit are to an unmanageable horse the intellect is for the will in
-man; by this bridle it must be controlled by means of instruction,
-exhortation, culture, &c., for in itself it is as wild and impetuous
-an impulse as the force that appears in the descending waterfall,
-nay, as we know, it is at bottom identical with this. In the height
-of anger, in intoxication, in despair, it has taken the bit between
-its teeth, has run away, and follows its original nature. In the
-Mania sine delirio it has lost bridle and bit altogether, and shows
-now most distinctly its original nature, and that the intellect is as
-different from it as the bridle from the horse. In this condition it
-may also be compared to a clock which, when a certain screw is
-taken away, runs down without stopping.
+It alone is active without being called upon, and therefore often too early and too much, and it knows no weariness. Infants who scarcely show the first weak trace of intelligence are already full of self-will: through unlimited, aimless roaring and shrieking they show the pressure of will with which they swell, while their willing has yet no object, i.e., they will without knowing what they will. What Cabanis has observed is also in point here: “Toutes ces passions, qui se succèdent d'une mannière si rapide, et se peignent avec tant de naïveté, sur le visage mobile des enfants. Tandis que les faibles muscles de leurs bras et de leurs jambes savent encore a peine former quelque mouvemens indécis, les muscles de la face expriment déjà par des mouvemens distincts presque toute la suite des affections générales propres a la nature humaine: et l'observateur attentif reconnait facilement dans ce tableau les traits caractéristiques de l'homme futur” (Rapports du Physique et Moral, vol. i. p. 123).
 
-Thus this consideration also shows us the will as that which
-is original, and therefore metaphysical; the intellect, on the
-other hand, as something subordinate and physical. For as such
-the latter is, like everything physical, subject to vis inertiæ,
-consequently only active if it is set agoing by something else,
-the will, which rules it, manages it, rouses it to effort, in short,
-imparts to it the activity which does not originally reside in it.
-Therefore it willingly rests whenever it is permitted to do so,
-often declares itself lazy and disinclined to activity; through
-continued effort it becomes weary to the point of complete
-stupefaction, is exhausted, like the voltaic pile, through repeated
-shocks. Hence all continuous mental work demands pauses and
-rest, otherwise stupidity and incapacity ensue, at first of course
-only temporarily; but if this rest is persistently denied to the
-intellect it will become excessively and continuously fatigued,
-and the consequence is a permanent deterioration of it, which in
-an old man may pass into complete incapacity, into childishness,415
-imbecility, and madness. It is not to be attributed to age in and
-for itself, but to long-continued tyrannical over-exertion of the
-intellect or brain, if this misfortune appears in the last years of life.
-This is the explanation of the fact that Swift became mad, Kant
-became childish, Walter Scott, and also Wordsworth, Southey,
-and many minorum gentium, became dull and incapable. Goethe
-remained to the end clear, strong, and active-minded, because
-he, who was always a man of the world and a courtier, never
-carried on his mental occupations with self-compulsion. The
-same holds good of Wieland and of Kuebel, who lived to the
-age of ninety-one, and also of Voltaire. Now all this proves
-how very subordinate and physical and what a mere tool the
-intellect is. Just on this account it requires, during almost a third
-part of its lifetime, the entire suspension of its activity in sleep,
-i.e., the rest of the brain, of which it is the mere function, and
-which therefore just as truly precedes it as the stomach precedes
-digestion, or as a body precedes its impulsion, and with which
-in old age it flags and decays. The will, on the contrary, as the
-thing in itself, is never lazy, is absolutely untiring, its activity is
-its essence, it never ceases willing, and when, during deep sleep,
-it is forsaken of the intellect, and therefore cannot act outwardly
-in accordance with motives, it is active as the vital force, cares
-the more uninterruptedly for the inner economy of the organism,
-and as vis naturæ medicatrix sets in order again the irregularities
-that have crept into it. For it is not, like the intellect, a function
-of the body; but the body is its function; therefore it is, ordine
-rerum, prior to the body, as its metaphysical substratum, as the
-in-itself of its phenomenal appearance. It shares its unwearying
-nature, for the time that life lasts, with the heart, that primum
-mobile of the organism, which has therefore become its symbol
-and synonym. Moreover, it does not disappear in the old man,
-but still continues to will what it has willed, and indeed becomes
-firmer, more inflexible, than it was in youth, more implacable,
-self-willed, and unmanageable, because the intellect has become less susceptible: therefore in old age the man can perhaps only
-be matched by taking advantage of the weakness of his intellect.
+The intellect, on the contrary, develops slowly, following the completion of the brain and the maturity of the whole organism, which are its conditions, just because it is merely a somatic function. It is because the brain attains its full size in the seventh year that from that time forward children become so remarkably intelligent, inquisitive, and reasonable. But then comes puberty; to a certain extent it affords a support to the brain, or a resounding-board, and raises the intellect at once by a large step, as it were by an octave, corresponding to the lowering of the voice by that amount. But at once the animal desires and passions that now appear resist the reasonableness that has hitherto prevailed and to which they have been added. Further evidence is given of the indefatigable nature of the will by the fault which is, more or less, peculiar to all men by nature, and is only overcome by education—precipitation.
 
-Moreover, the prevailing weakness and imperfection of the
-intellect, as it is shown in the want of judgment, narrow-
-mindedness, perversity, and folly of the great majority of men,
-would be quite inexplicable if the intellect were not subordinate,
-adventitious, and merely instrumental, but the immediate and
-original nature of the so-called soul, or in general of the inner
-man: as all philosophers have hitherto assumed it to be. For
-how could the original nature in its immediate and peculiar
-function so constantly err and fail? The truly original in human
-consciousness, the willing, always goes on with perfect success;
-every being wills unceasingly, capably, and decidedly. To regard
-the immorality in the will as an imperfection of it would be a
-fundamentally false point of view. For morality has rather a
-source which really lies above nature, and therefore its utterances
-are in contradiction with it. Therefore morality is in direct
-opposition to the natural will, which in itself is completely
-egoistic; indeed the pursuit of the path of morality leads to the
-abolition of the will. On this subject I refer to our fourth book
-and to my prize essay, “Ueber das Fundament der Moral.”
-5. That the will is what is real and essential in man, and the
-intellect only subordinate, conditioned, and produced, is also to
-be seen in the fact that the latter can carry on its function with
-perfect purity and correctness only so long as the will is silent
-and pauses. On the other hand, the function of the intellect
-is disturbed by every observable excitement of the will, and
-its result is falsified by the intermixture of the latter; but the
-converse does not hold, that the intellect should in the same way
-be a hindrance to the will. Thus the moon cannot shine when the
-sun is in the heavens, but when the moon is in the heavens it does
-not prevent the sun from shining.
-A great fright often deprives us of our senses to such an
-extent that we are petrified, or else do the most absurd things;417
-for example, when fire has broken out run right into the flames.
-Anger makes us no longer know what we do, still less what
-we say. Zeal, therefore called blind, makes us incapable of
-weighing the arguments of others, or even of seeking out and
-setting in order our own. Joy makes us inconsiderate, reckless,
-and foolhardy, and desire acts almost in the same way. Fear
-prevents us from seeing and laying hold of the resources that
-are still present, and often lie close beside us. Therefore for
-overcoming sudden dangers, and also for fighting with opponents
-and enemies, the most essential qualifications are coolness and
-presence of mind. The former consists in the silence of the
-will so that the intellect can act; the latter in the undisturbed
-activity of the intellect under the pressure of events acting on
-the will; therefore the former is the condition of the latter, and
-the two are nearly related; they are seldom to be found, and
-always only in a limited degree. But they are of inestimable
-advantage, because they permit the use of the intellect just at
-those times when we stand most in need of it, and therefore confer
-decided superiority. He who is without them only knows what
-he should have done or said when the opportunity has passed.
-It is very appropriately said of him who is violently moved,
-i.e., whose will is so strongly excited that it destroys the purity
-of the function of the intellect, he is disarmed; for the correct
-knowledge of the circumstances and relations is our defence and
-weapon in the conflict with things and with men. In this sense
-Balthazar Gracian says: “Es la passion enemiga declarada de la
-cordura” (Passion is the declared enemy of prudence). If now
-the intellect were not something completely different from the
-will, but, as has been hitherto supposed, knowing and willing
-had the same root, and were equally original functions of an
-absolutely simple nature, then with the rousing and heightening
-of the will, in which the emotion consists, the intellect would
-necessarily also be heightened; but, as we have seen, it is
-rather hindered and depressed by this; whence the ancients called emotion animi perturbatio. The intellect is really like the reflecting surface of water, but the water itself is like the will,
-whose disturbance therefore at once destroys the clearness of
-that mirror and the distinctness of its images. 
+It consists in this, that the will hurries to its work before the time. This work is the purely active and executive part, which ought only to begin when the explorative and deliberative part, thus the work of knowing, has been completely and thoroughly carried out. 
+
+But this time is seldom waited for. Scarcely are a few data concerning the circumstances before us, or the event that has occurred, or the opinion of others conveyed to us, superficially comprehended and hastily gathered together by knowledge, than from the depths of our being the will, always ready and never weary, comes forth unasked, and shows itself as terror, fear, hope, joy, desire, envy, grief, zeal, anger, or courage, and leads to rash words and deeds, which are generally followed by repentance when time has taught us that the hegemonicon, the intellect, has not been able to finish half its work of comprehending the circumstances, reflecting on their connection, and deciding what is prudent, because the will did not wait for it, but sprang forward long before its time with “Now it is my turn!” and at once began the active work, without the intellect being able to resist, as it is a mere slave and bondman of the will, and not, like it, ±ÅÄ¿1⁄4±Ä¿Â, nor active from its own power and its own impulse; therefore it is easily pushed aside and silenced by a nod of the will, while on its part it is scarcely able, with the greatest efforts, to bring the will even to a brief pause, in order to speak.
+
+This is why the people are so rare, and are found almost only among Spaniards, Turks, and perhaps Englishmen, who even under circumstances of provocation keep the head uppermost, imperturbably proceed to comprehend and investigate the state of affairs, and when others would already be beside themselves, con mucho sosiego, still ask further questions, which is something quite different from the indifference founded upon apathy and stupidity of many Germans and Dutchmen.
+
+Iffland used to give an excellent representation of this admirable quality, as Hetmann of the Cossacks, in Benjowski, when the conspirators have enticed him into their tent and hold a rifle to his head, with the warning that they will fire it if he utters a cry, Iffland blew into the mouth of the rifle to try whether it was loaded. 
+
+Of ten things that annoy us, nine would not be able to do so if we understood them thoroughly in their causes, and therefore knew their necessity and true nature; but we would do this much oftener if we made them the object of reflection before making them the object of wrath and indignation. For what bridle and bit are to an unmanageable horse the intellect is for the will in man; by this bridle it must be controlled by means of instruction, exhortation, culture, &c., for in itself it is as wild and impetuous an impulse as the force that appears in the descending waterfall, nay, as we know, it is at bottom identical with this. In the height of anger, in intoxication, in despair, it has taken the bit between its teeth, has run away, and follows its original nature. In the Mania sine delirio it has lost bridle and bit altogether, and shows now most distinctly its original nature, and that the intellect is as different from it as the bridle from the horse. In this condition it may also be compared to a clock which, when a certain screw is taken away, runs down without stopping.
+
+Thus this consideration also shows us the will as that which is original, and therefore metaphysical; the intellect, on the other hand, as something subordinate and physical. For as such the latter is, like everything physical, subject to vis inertiæ, consequently only active if it is set agoing by something else, the will, which rules it, manages it, rouses it to effort, in short, imparts to it the activity which does not originally reside in it. Therefore it willingly rests whenever it is permitted to do so, often declares itself lazy and disinclined to activity; through continued effort it becomes weary to the point of complete stupefaction, is exhausted, like the voltaic pile, through repeated shocks. Hence all continuous mental work demands pauses and rest, otherwise stupidity and incapacity ensue, at first of course only temporarily; but if this rest is persistently denied to the intellect it will become excessively and continuously fatigued, and the consequence is a permanent deterioration of it, which in an old man may pass into complete incapacity, into childishness,415 imbecility, and madness. 
+
+It is not to be attributed to age in and for itself, but to long-continued tyrannical over-exertion of the intellect or brain, if this misfortune appears in the last years of life. This is the explanation of the fact that Swift became mad, Kant became childish, Walter Scott, and also Wordsworth, Southey, and many minorum gentium, became dull and incapable. Goethe remained to the end clear, strong, and active-minded, because he, who was always a man of the world and a courtier, never carried on his mental occupations with self-compulsion. The same holds good of Wieland and of Kuebel, who lived to the age of ninety-one, and also of Voltaire. Now all this proves how very subordinate and physical and what a mere tool the intellect is.
+
+Just on this account it requires, during almost a third part of its lifetime, the entire suspension of its activity in sleep, i.e., the rest of the brain, of which it is the mere function, and which therefore just as truly precedes it as the stomach precedes digestion, or as a body precedes its impulsion, and with which in old age it flags and decays. The will, on the contrary, as the thing in itself, is never lazy, is absolutely untiring, its activity is its essence, it never ceases willing, and when, during deep sleep, it is forsaken of the intellect, and therefore cannot act outwardly in accordance with motives, it is active as the vital force, cares the more uninterruptedly for the inner economy of the organism, and as vis naturæ medicatrix sets in order again the irregularities that have crept into it. For it is not, like the intellect, a function of the body; but the body is its function; therefore it is, ordine rerum, prior to the body, as its metaphysical substratum, as the in-itself of its phenomenal appearance. It shares its unwearying nature, for the time that life lasts, with the heart, that primum mobile of the organism, which has therefore become its symbol and synonym. Moreover, it does not disappear in the old man, but still continues to will what it has willed, and indeed becomes firmer, more inflexible, than it was in youth, more implacable, self-willed, and unmanageable, because the intellect has become less susceptible: therefore in old age the man can perhaps only be matched by taking advantage of the weakness of his intellect.
+
+Moreover, the prevailing weakness and imperfection of the intellect, as it is shown in the want of judgment, narrow- mindedness, perversity, and folly of the great majority of men, would be quite inexplicable if the intellect were not subordinate, adventitious, and merely instrumental, but the immediate and original nature of the so-called soul, or in general of the inner man: as all philosophers have hitherto assumed it to be. For how could the original nature in its immediate and peculiar function so constantly err and fail? The truly original in human consciousness, the willing, always goes on with perfect success; every being wills unceasingly, capably, and decidedly. To regard the immorality in the will as an imperfection of it would be a fundamentally false point of view. For morality has rather a source which really lies above nature, and therefore its utterances are in contradiction with it. Therefore morality is in direct opposition to the natural will, which in itself is completely egoistic; indeed the pursuit of the path of morality leads to the abolition of the will. On this subject I refer to our fourth book and to my prize essay, “Ueber das Fundament der Moral.”
+
+5. That the will is what is real and essential in man, and the intellect only subordinate, conditioned, and produced, is also to be seen in the fact that the latter can carry on its function with perfect purity and correctness only so long as the will is silent and pauses. On the other hand, the function of the intellect is disturbed by every observable excitement of the will, and its result is falsified by the intermixture of the latter; but the converse does not hold, that the intellect should in the same way be a hindrance to the will. Thus the moon cannot shine when the sun is in the heavens, but when the moon is in the heavens it does not prevent the sun from shining.
+
+A great fright often deprives us of our senses to such an extent that we are petrified, or else do the most absurd things;417 for example, when fire has broken out run right into the flames. Anger makes us no longer know what we do, still less what we say. Zeal, therefore called blind, makes us incapable of weighing the arguments of others, or even of seeking out and setting in order our own. Joy makes us inconsiderate, reckless, and foolhardy, and desire acts almost in the same way. 
+
+Fear prevents us from seeing and laying hold of the resources that are still present, and often lie close beside us. Therefore for overcoming sudden dangers, and also for fighting with opponents and enemies, the most essential qualifications are coolness and presence of mind. The former consists in the silence of the will so that the intellect can act; the latter in the undisturbed activity of the intellect under the pressure of events acting on the will; therefore the former is the condition of the latter, and the two are nearly related; they are seldom to be found, and always only in a limited degree. 
+
+But they are of inestimable advantage, because they permit the use of the intellect just at those times when we stand most in need of it, and therefore confer decided superiority. He who is without them only knows what he should have done or said when the opportunity has passed. It is very appropriately said of him who is violently moved, i.e., whose will is so strongly excited that it destroys the purity of the function of the intellect, he is disarmed; for the correct knowledge of the circumstances and relations is our defence and weapon in the conflict with things and with men. 
+
+In this sense Balthazar Gracian says: “Es la passion enemiga declarada de la cordura” (Passion is the declared enemy of prudence). If now the intellect were not something completely different from the will, but, as has been hitherto supposed, knowing and willing had the same root, and were equally original functions of an absolutely simple nature, then with the rousing and heightening of the will, in which the emotion consists, the intellect would necessarily also be heightened; but, as we have seen, it is rather hindered and depressed by this; whence the ancients called emotion animi perturbatio. The intellect is really like the reflecting surface of water, but the water itself is like the will, whose disturbance therefore at once destroys the clearness of that mirror and the distinctness of its images.
 
 The organism is
 the will itself, is embodied will, i.e., will objectively perceived

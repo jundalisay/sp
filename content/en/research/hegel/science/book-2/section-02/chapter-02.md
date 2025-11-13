@@ -16,7 +16,9 @@ The absolute is the unity of inner and outer as initial, implicit unity.
 
 The exposition appeared as external reflection which, on its side, has the immediate before it as something already given, but is at the same time the movement and relation of this to the absolute, and as such movement leads it back into the absolute and determines it as a mere 'way and manner'.
 
-But this 'way and manner' is the determination of the absolute itself, namely, its initial identity or its merely implicit unity. And through this reflection, too, not only is that initial in-itself posited as essenceless determination but, since the reflection is negative self-relation, it is through this alone that the in-itself becomes this mode. 
+But this 'way and manner' is the determination of the absolute itself, namely, its initial identity or its merely implicit unity. 
+
+Through this reflection, too, not only is that initial in-itself posited as essenceless determination but, since the reflection is negative self-relation, it is through this alone that the in-itself becomes this mode. 
 
 This reflection, as sublating itself in its determinations and in general as the self-returning movement, is first truly absolute identity and at the same time is the determining of the absolute or its modality. The mode is therefore the externality of the absolute, but equally only as the reflection of the absolute into itself; or it is the absolute's own manifestation, so that this manifestation is its reflection-into-self and therefore its being-in-and-for-itself.
 
@@ -141,3 +143,4 @@ This their simple identity is particularity, which contains in immediate unity t
 These 3 totalities are, therefore, one and the same reflection, which, as negative self-relation, differentiates itself into these two, but into a perfectly transparent difference, namely, into a determinate simplicity or simple determinateness which is their one and the same identity.
 
 This is the Notion, the realm of subjectivity or of freedom.
+

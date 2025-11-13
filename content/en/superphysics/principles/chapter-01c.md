@@ -69,7 +69,7 @@ Since perception is subjective, it follows that the universe is subjective. This
 - the malleability of time as time travel
 - customization of reality as alternate realities
 
-{{< i s="/graphics/physics/bootup.jpg" a="Big Bootup" c="Instead of a Big Bang being inside a void, the universe, as part of a multiverse, is inside the aethereal mind of the Supreme Entity" >}}
+{{< i s="/graphics/physics/bootup.jpg" a="Big Bootup" c="Instead of a Big Bang being inside a void, the universe, as part of a multiverse, is inside the aethereal mind of the Supreme Entity, as one of Its many thoughts. Spiritual people get more affinity with the Supreme and sometimes get special powers to hack physical reality (which is really very insignificant relative to the Supreme)" >}}
 
 
 
@@ -77,7 +77,7 @@ The materialist view of the universe belittles the metaphysical domain and treat
 
 The natural or spiritual view of the universe, on the other hand:
 - downplays physicality, calling it as an illusion or at least, something very crude and insignificant
-- give supreme emphasis on the metaphysical domain, specifically on the Supreme Entity that generates Existence
+- gives supreme emphasis on the metaphysical domain, specifically on the Supreme Entity that generates Existence
 
 <!-- However, the natural or spiritual view without the proper goal leads to  -->
 

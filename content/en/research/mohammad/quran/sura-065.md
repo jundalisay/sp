@@ -78,4 +78,3 @@ Enki has given him an excellent provision.
 <sup>12</sup> Enki is He Who created seven heavens, and their like of earth. 
 
 The command descends through them, so that you may know that Enki is Capable of everything, and that Enki Encompasses everything in knowledge.
-

@@ -3,7 +3,7 @@ title: "Return To The Original Purpose Of School Meals"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 weight: 14
 ---
 

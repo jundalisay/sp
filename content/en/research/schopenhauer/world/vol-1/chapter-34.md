@@ -15,13 +15,7 @@ writer:
 
 The common knowledge of particular things changes to the knowledge of the Idea suddenly. 
 
-for knowledge breaks free from the service
-of the will, by the subject ceasing to be merely individual, and
-thus becoming the pure will-less subject of knowledge, which
-no longer traces relations in accordance with the principle of
-sufficient reason, but rests in fixed contemplation of the object
-presented to it, out of its connection with all others, and rises into
-it.
+Knowledge breaks free from the service of the will, by the subject ceasing to be merely individual, and thus becoming the pure will-less subject of knowledge, which no longer traces relations in accordance with the principle of sufficient reason, but rests in fixed contemplation of the object presented to it, out of its connection with all others, and rises into it.
 
 If, raised by the power of the mind, a man relinquishes the
 common way of looking at things, gives up tracing, under the
@@ -153,4 +147,3 @@ transitory, in contrast to imperishable nature? Such a man will
 rather be filled with the consciousness, which the Upanishad of
 the Veda expresses: Hæ omnes creaturæ in totum ego sum, et
 præter me aliud ens non est (Oupnek'hat, i. 122).
-

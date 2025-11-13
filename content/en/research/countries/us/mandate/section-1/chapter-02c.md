@@ -5,7 +5,7 @@ description: ""
 c: "firebrick"
 heading: Chapter 2c
 weight: 18
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 

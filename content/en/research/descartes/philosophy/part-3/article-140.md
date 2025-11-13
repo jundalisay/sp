@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-<!-- #### 140. The principle of the motion of a Planet
+<!-- ## 140. The principle of the motion of a Planet
 
 
 Let us assume that star `N` has less agitation, or less solidity, than the air-aether globules which are towards the circumference of our heavens, but still somewhat more than some of those which are towards the Sun.
@@ -29,7 +29,7 @@ Therefore, it would have more force to move away from the center around which it
 But if it were to move further away from the Sun, it would encounter celestial globules that are somewhat less swiftly moved, and therefore which would decrease its agitation; and slightly smaller, and therefore which would have the force of repelling it towards the Sun.
 
 
-#### 141. The causes of errors: First. 
+## 141. The causes of errors: First. 
 
 But the other causes which somewhat propel the Planet here or there, librated around the Sun, are: 
 
@@ -39,17 +39,17 @@ For it is necessary that where this space is wider, the matter of the heavens sh
 
 
 
-#### 142. Second. Secondly, the fire-aether flows from certain neighbouring vortices towards the center of the first heaven.
+## 142. Second. Secondly, the fire-aether flows from certain neighbouring vortices towards the center of the first heaven.
 
 From there, it reflows to certain others. It may be able to move in different ways both the air-aether globules and the Planet librated between them.
 
 
-#### 143. Third. Thirdly, the passages which are in the body of this Planet may be more apt to receive the striated particles, and others of the fire-aether which come from certain parts of the heavens, than to receive the rest
+## 143. Third. Thirdly, the passages which are in the body of this Planet may be more apt to receive the striated particles, and others of the fire-aether which come from certain parts of the heavens, than to receive the rest
 
 whence it comes about, that the openings of these passages, which we said above are formed around the poles of the stars involving spots, are turned rather towards those parts of the heavens, than towards the others.
 
 
-#### 144. Fourth.
+## 144. Fourth.
 
 Fourthly, there may have been some motions in that planet before, which persist in it for a very long time, even though other causes oppose them. 
 
@@ -58,7 +58,7 @@ For as we see a top, from the mere fact that it is once spun by a child, acquire
 because the time span of five or six thousand years, during which the world has stood, is much shorter compared to the size of a planet, than the time of one minute of an hour compared to the size of a small top.
 
 
-#### 145. Fifth.
+## 145. Fifth.
 
 Finally, fifthly, that the force of thus persevering in its motion is much stronger and more constant in the planet than in the celestial matter surrounding it; and also stronger in a large planet than in a smaller one.
 
@@ -69,7 +69,7 @@ Hence it follows that a planet never moves as quickly as the celestial globules 
 Hence, it also follows that when the motion of these celestial globules is accelerated, slowed down, or bent, the motion of the planet moving among them is not accelerated, slowed down, or bent as much, nor as quickly.
  -->
 
-#### 140. The principle of the motion of a Planet
+## 140. The principle of the motion of a Planet
 
 Let us assume that the `Star N` has:
 - less agitation, or has less solidity than the air-aether globules near the edge of our solar system.
@@ -102,7 +102,7 @@ But if it were to recede more from the Sun, it would encounter slower air-aether
 Being slightly smaller, they have the force to repel it towards the Sun.
 
 
-#### 141. Causes on which its errors depend
+## 141. Causes on which its errors depend
 
 Other causes which somewhat propel the Planet around the Sun here and there are: 
 
@@ -113,7 +113,7 @@ Other causes which somewhat propel the Planet around the Sun here and there are:
 Where this space is wider, the air-aether must flow more slowly than where it is narrower.
 
 
-#### 142. 2nd Cause
+## 142. 2nd Cause
 
 <!-- heaven -->
 2. The fire-aether flows from some neighboring vortices towards the center of the current Vortex.
@@ -123,7 +123,7 @@ From there, it flows back to the other vortices. It can move both the air-aether
 
 
 
-#### 143. Third. 
+## 143. Third. 
 
 3. The passages within the body of this Planet might be more suitable for receiving the striated particles and the other fire-aether particles coming from certain parts of outer space, than for receiving others.
 
@@ -132,7 +132,7 @@ From there, it flows back to the other vortices. It can move both the air-aether
 The openings of these passages form around the poles of the spots of the stars. These are turned towards those parts of outer space rather than towards others.
 
 
-#### 144. Fourth
+## 144. Fourth
 
 4. The planet might already have some motions which persist in it for a very long time even if other causes oppose them. 
 
@@ -145,7 +145,7 @@ Similarly, a Planet's intial motion when it was first made from the beginning of
 <!-- This is because the galaxy might be 5-6,000 years old. Compared with the size of a Planet, this period is much shorter than the time of one minute's hour, when compared with the mass of a small whirlwind. -->
 
 
-#### 145. Fifth
+## 145. Fifth
 
 The force of persevering in its motion is much stronger and more constant in a Planet than in the air-aether surrounding it.
 <!-- celestial matter -->

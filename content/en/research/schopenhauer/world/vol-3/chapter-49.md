@@ -3,7 +3,8 @@ heading: Chapter 49
 title: "The Way Of Salvation"
 description: ""
 date: 2025-10-05
-weight: 490
+weight: 271
+icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer

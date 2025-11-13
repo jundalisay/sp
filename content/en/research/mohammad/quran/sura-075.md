@@ -18,13 +18,13 @@ Does man think that We will not reassemble his bones?
 {{< s v="5" >}}  But man wants to deny what is ahead of him.
 
 {{< r a="Man" >}}
-6. When is the Day of Resurrection?
+<sup>6</sup> When is the Day of Resurrection?
 {{< /r >}}
 
 
-7. When vision is dazzled.
+<sup>7</sup> When vision is dazzled.
 
-8. And the moon is eclipsed.
+<sup>8</sup> The moon is eclipsed.
 
 The sun and the moon are joined together. {{< s v="10" >}}  On that Day, man will say:
 
@@ -34,44 +34,42 @@ Where is the escape?
 
 {{< s v="11" >}}  None! There is no refuge.
 
-12. To your Lord on that Day is the settlement.
+<sup>12</sup> To your Lord on that Day is the settlement.
 
+<sup>13</sup> On that Day man will be informed of everything he put forward, and everything he left behind.
 
-13. On that Day man will be informed of everything he put forward, and everything he left behind.
-
-14. Man will be evidence against himself 15. even as he presents his excuses.
+<sup>14</sup> Man will be evidence against himself <sup>15</sup> even as he presents his excuses.
 
 {{< s v="16" >}} Do not wag your tongue with it, to hurry on with it.
 
-17. Upon Us is its collection and its recitation. 18. Then, when We have recited it, follow its recitation.
+<sup>17</sup> Upon Us is its collection and its recitation. <sup>18</sup> Then, when We have recited it, follow its recitation.
 
-19. Then upon Us is its explanation.
+<sup>19</sup> Then upon Us is its explanation.
 
-20. Alas, you love the fleeting life 21. and disregard the Hereafter.
+<sup>20</sup> Alas, you love the fleeting life <sup>21</sup> and disregard the Hereafter.
 
-22. Faces on that Day will be radiant 23. looking towards their Lord.
+<sup>22</sup> Faces on that Day will be radiant <sup>23</sup> looking towards their Lord.
 
-24. Faces on that Day will be gloomy 25. realizing that a back-breaker has befallen them 26. when it has reached the breastbones.
+<sup>24</sup> Faces on that Day will be gloomy 25. realizing that a back-breaker has befallen them 26. when it has reached the breastbones.
 
-27. And it is said, “Who is the healer?”
+<sup>27</sup> And it is said, “Who is the healer?”
 
-28. And He realizes that it is the parting.
+<sup>28</sup> And He realizes that it is the parting.
 
-29. And leg is entwined with leg.
+<sup>29</sup> And leg is entwined with leg.
 
-30. To your Lord on that Day is the drive.
+<sup>30</sup> To your Lord on that Day is the drive.
 
-31. He neither believed nor prayed.
+<sup>31</sup> He neither believed nor prayed.
 
-32. But he denied and turned away.
+<sup>32</sup> But he denied and turned away.
 
-33. Then he went to his family, full of pride.
+<sup>33</sup> Then he went to his family, full of pride.
 
-36. Does man think that he will be left without purpose?
+<sup>36</sup> Does man think that he will be left without purpose?
 
-37. Was he not a drop of ejaculated semen?
+<sup>37</sup> Was he not a drop of ejaculated semen?
 
-38. Then he became a clot. And He created and proportioned? 39. and made of him the two sexes, the male and the female?
+<sup>38</sup> Then he became a clot. He created and proportioned? <sup>39</sup> and made of him the two sexes, the male and the female?
 
-40. Is He not Able to revive the dead?
-
+<sup>40</sup> Is He not Able to revive the dead?

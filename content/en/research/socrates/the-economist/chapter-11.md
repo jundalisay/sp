@@ -15,9 +15,7 @@ icon: "/icons/Xenophon.jpg"
 I thanked Ischomachus for what he had told me on the occupations of his wife. 
 
 {{< l a="Socrates" >}}
-The facts you mention reflect the greatest credit on both wife and husband. 
-
-Can you describe<!--  to me --> your work and business? 
+The facts you mention reflect the greatest credit on both wife and husband. Can you describe your work and business? 
 
 <!-- In doing so you will have the pleasure of narrating the reason of your fame. And I, for my part, when I have heard from end to end the story of a beautiful and good man's works, if only my wits suffice and I have understood it, shall be much indebted.  -->
 {{< /l >}}
@@ -30,9 +28,8 @@ I will be very glad <!-- give me the greatest pleasure --> to <!-- recount to --
 
 
 {{< l a="Socrates" >}}
-The idea of my reforming you! 
-
-How could I <!-- with any show of justice --> hope to reform you, the perfect model of a beautiful, good man? I am but an empty babbler who is poor?  <!-- , and measurer of the air, who have to bear besides that most senseless imputation of being poor—an imputation which, I assure you, Ischomachus, would have reduced me to the veriest despair, except that the other day I chanced to come across the horse of Nicias, the foreigner?  -->
+<!-- The idea of my reforming you!  -->
+How could I <!-- with any show of justice --> hope to reform you, the perfect model of a beautiful, good man? I am but an empty babbler who is poor.  <!-- , and measurer of the air, who have to bear besides that most senseless imputation of being poor—an imputation which, I assure you, Ischomachus, would have reduced me to the veriest despair, except that the other day I chanced to come across the horse of Nicias, the foreigner?  -->
 {{< /l >}}
 
 A crowd started to gather. <!-- stare and --> I listened to a story from someone who mentioned about the horse of Nicias, the foreigner. <!--  some one had to tell about the animal. So then I stepped up boldly to the groom and asked him, --> I asked that person:

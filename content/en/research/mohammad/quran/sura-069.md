@@ -20,6 +20,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 {{< s v="9" >}} Then Pharaoh came, and those before him, and the Overturned Cities steeped in sin. 
 
 {{< s v="10" >}} They disobeyed the messenger of their Lord, so He seized them with an overpowering grip.
+
 {{< s v="11-12" >}}  When the waters overflowed, We carried you in the cruising ship to remind you and make you remember it.
 
 {{< s v="13-17" >}}
@@ -67,3 +68,5 @@ He does not have any friend here today.
 - It is a revelation from the Lord of the Worlds.
 - If the Prophet Muhammad had made up some false statements about Us, We would have cut his from the aorta causing immediate death. 
 - The Quran is a reminder for the righteous.  
+
+

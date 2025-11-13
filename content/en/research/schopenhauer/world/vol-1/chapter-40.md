@@ -1,8 +1,8 @@
 ---
 heading: Chapter 40
-title: "What is æsthetic pleasure?"
+title: "The charming or attractive"
 date: 2025-09-20
-description: ""
+description: "The charming or attractive, on the contrary, draws the beholder away from the pure contemplation which is demanded by all apprehension of the beautiful"
 weight: 124
 icon: Schopenhauer
 writer:
@@ -11,9 +11,13 @@ writer:
 ---
 
 
-Opposites throw light upon each other, and therefore the remark may be in place here, that the proper opposite of the sublime is something which would not at the first glance be recognised, as such: the charming or attractive.
+Opposites throw light upon each other.
 
-By this, however, I understand, that which excites the will by presenting to it directly its fulfilment, its satisfaction. We saw that the feeling of the sublime arises from the fact, that something entirely unfavourable to the will, becomes the object of pure contemplation, so that such contemplation can only be maintained by persistently turning away from the will, and transcending its interests; this constitutes the sublimity of the character. 
+Therefore, the proper opposite of the sublime is something which would not at the first glance be recognised, as such: the charming or attractive.
+
+This excites the will by presenting to it directly its fulfilment, its satisfaction. 
+
+The feeling of the sublime arises from the fact that something entirely unfavourable to the will, becomes the object of pure contemplation, so that such contemplation can only be maintained by persistently turning away from the will, and transcending its interests; this constitutes the sublimity of the character. 
 
 The charming or attractive, on the contrary, draws the beholder away from the pure contemplation which is demanded by all apprehension of the beautiful, because it necessarily excites this will, by objects which directly appeal to it, and thus he no longer remains pure subject of knowing, but becomes the needy and dependent subject of will.
 
@@ -26,3 +30,4 @@ Painted fruit is yet admissible, because we may regard it as the further develop
 This mistake corresponds exactly to that which we have just censured in the Dutch paintings. The ancients are almost always free from this fault in their representations of beauty and complete nakedness of form, because the artist himself created them in a purely objective spirit, filled with ideal beauty, not in the spirit of subjective, and base sensuality. The charming is thus everywhere to be avoided in art.
 
 There is also a negative species of the charming or exciting which is even more reprehensible than the positive form which has been discussed; this is the disgusting or the loathsome. It arouses the will of the beholder, just as what is properly speaking charming, and therefore disturbs pure æsthetic contemplation. But it is an active aversion and opposition which is excited by it; it arouses the will by presenting to it objects which it abhors. Therefore it has always been recognised that it is altogether [270] inadmissible in art, where even what is ugly, when it is not disgusting, is allowable in its proper place, as we shall see later.
+

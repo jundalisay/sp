@@ -1,5 +1,5 @@
 ---
-heading: Chapter 3c
+heading: Chapter 3d
 title: "Remark: The Kantian Construction of Matter"
 weight: 18
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"

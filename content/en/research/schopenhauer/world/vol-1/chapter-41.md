@@ -1,6 +1,6 @@
 ---
 heading: Chapter 41
-title: "What is æsthetic pleasure?"
+title: "The Beautiful Versus the Sublime"
 date: 2025-09-20
 description: ""
 weight: 128
@@ -12,9 +12,13 @@ writer:
 
 
 
-The course of the discussion has made it necessary to insert at this point the treatment of the sublime, though we have only half done with the beautiful, as we have considered its subjective side only. 
+<!-- The course of the discussion has made it necessary to insert at this point the treatment of the sublime, though we have only half done with the beautiful, as we have considered its subjective side only. 
 
-For it was merely a special modification of this subjective side that distinguished the beautiful from the sublime. This difference was found to depend upon whether the state of pure will-less knowing, which is presupposed and demanded by all æsthetic contemplation, was reached without opposition, by the mere disappearance of the will from consciousness, because the object invited and drew us towards it; or whether it was only attained through the free, conscious transcending of the will, to which the object contemplated had an unfavourable and even hostile relation, which would destroy contemplation altogether, if we were to give ourselves up to it. This is the distinction between the beautiful and the sublime. In the object they are not essentially different, for in every case the object of æsthetical contemplation is not the individual thing, but the Idea in it which is striving to reveal itself; that is to say, adequate objectivity of will at a particular grade. Its necessary correlative, independent, like itself of the principle of sufficient reason, is the pure subject of knowing; just as the correlative of the particular thing is the knowing individual, both of which lie within the province of the principle of sufficient reason.
+For it was merely  -->
+
+A special modification of the subjective side distinguished the beautiful from the sublime. 
+
+This difference depends on whether the state of pure will-less knowing, which is presupposed and demanded by all æsthetic contemplation, was reached without opposition, by the mere disappearance of the will from consciousness, because the object invited and drew us towards it; or whether it was only attained through the free, conscious transcending of the will, to which the object contemplated had an unfavourable and even hostile relation, which would destroy contemplation altogether, if we were to give ourselves up to it. This is the distinction between the beautiful and the sublime. In the object they are not essentially different, for in every case the object of æsthetical contemplation is not the individual thing, but the Idea in it which is striving to reveal itself; that is to say, adequate objectivity of will at a particular grade. Its necessary correlative, independent, like itself of the principle of sufficient reason, is the pure subject of knowing; just as the correlative of the particular thing is the knowing individual, both of which lie within the province of the principle of sufficient reason.
 
 
 When we say that a thing is beautiful, we thereby assert that it is an object of our æsthetic contemplation, and this has a double meaning; on the one hand it means that the sight of the thing makes us objective, that is to say, that in contemplating it we are no longer conscious of ourselves as individuals, but as pure will- less subjects of knowledge; and on the other hand it means that we recognise in the object, not the particular thing, but an Idea;[271] and this can only happen, so far as our contemplation of it is not subordinated to the principle of sufficient reason, does not follow the relation of the object to anything outside it (which is always ultimately connected with relations to our own will), but rests in the object itself. 
@@ -37,9 +41,16 @@ To the careful observer they present themselves here also, and even bad building
 
 We shall return immediately, when we treat of architecture, to the Idea of the material. Our view, then, cannot be reconciled with that of Plato if he is of opinion that a table or a chair express the Idea of a table or a chair (De Rep., x., pp. 284, 285, et Parmen., p. 79, ed. Bip.), but we say that they express the Ideas which are already expressed in their mere material as such. According to Aristotle (Metap. xi., chap. 3), however, Plato himself only maintained Ideas of natural objects: A †ª±ƒ…Ω μ∆∑, Aƒπ μπ¥∑ μ√ƒπΩ A¿ø√± ∆≈√μπ (Plato dixit, quod ideæ eorum sunt, quæ natura sunt), and in chap. 5 he says that, according to the Platonists, there are no Ideas of house and ring.
 
-In any case, Plato's earliest disciples, as Alcinous informs us (Introductio in Platonicam Philosophiam, [274] chap. 9), denied that there were any ideas of manufactured articles. He says: I¡π∂øΩƒ±π ¥μ ƒ∑Ω π¥μ±Ω, ¿±¡±¥μπ≥º± ƒ…Ω ∫±ƒ± ∆≈√πΩ ±π…ΩπøΩ. ü≈ƒμ ≥±¡ ƒøπ¬ ¿ªμπ√ƒøπ¬ ƒ…Ω ±¿ø †ª±ƒ…Ωø¬ ±¡μ√∫μπ, ƒ…Ω ƒμ«Ωπ∫…Ω μπΩ±π π¥μ±¬, ø1øΩ ±√¿π¥ø¬ ∑ ª≈¡±¬, ø≈ƒμ º∑Ω ƒ…Ω ¿±¡± ∆≈√πΩ, ø1øΩ ¿≈¡μƒø≈ ∫±π «øªμ¡±¬, ø≈ƒμ ƒ…Ω ∫±ƒ± ºμ¡ø¬, ø1øΩ £…∫¡±ƒø≈¬ ∫±π †ª±ƒ…Ωø¬, ±ªªΩ ø≈ƒμ ƒ…Ω μ≈ƒμª…Ω ƒπΩø¬, ø1øΩ ¡≈¿ø≈ ∫±π ∫±¡∆ø≈¬, ø≈ƒμ ƒ…Ω ¿¡ø¬ ƒπ, ø1øΩ ºμπ∂øΩø¬ ∫±π Q¿μ¡μ«øΩƒø¬; μπΩ±π ≥±¡ ƒ±¬ π¥μ±¬ Ωø∑√μπ¬ ∏μø≈ ±π…Ωπø≈¬ ƒμ ∫±π ±≈ƒøƒμªμπ¬ (Definiunt autem IDEAM exemplar æternum eorum, quæ secundum naturam existunt.
+In any case, Plato's earliest disciples, as Alcinous informs us (Introductio in Platonicam Philosophiam, [274] chap. 9), denied that there were any ideas of manufactured articles. He says: 
 
-Nam plurimis ex iis, qui Platonem secuti sunt, minime placuit, arte factorum ideas esse, ut clypei atque lyræ; neque rursus eorum, quæ prætor naturam, ut febris et choleræ, neque particularium, ceu Socratis et Platonis; neque etiam rerum vilium, veluti sordium et festucæ; neque relationum, ut majoris et excedentis: esse namque ideas intellectiones dei æternas, ac seipsis perfectas). We may take this opportunity of mentioning another point in which our doctrine of Ideas differs very much from that of Plato. 
+...
+
+<!-- I¡π∂øΩƒ±π ¥μ ƒ∑Ω π¥μ±Ω, ¿±¡±¥μπ≥º± ƒ…Ω ∫±ƒ± ∆≈√πΩ ±π…ΩπøΩ. ü≈ƒμ ≥±¡ ƒøπ¬ ¿ªμπ√ƒøπ¬ ƒ…Ω ±¿ø †ª±ƒ…Ωø¬ ±¡μ√∫μπ, ƒ…Ω ƒμ«Ωπ∫…Ω μπΩ±π π¥μ±¬, ø1øΩ ±√¿π¥ø¬ ∑ ª≈¡±¬, ø≈ƒμ º∑Ω ƒ…Ω ¿±¡± ∆≈√πΩ, ø1øΩ ¿≈¡μƒø≈ ∫±π «øªμ¡±¬, ø≈ƒμ ƒ…Ω ∫±ƒ± ºμ¡ø¬, ø1øΩ £…∫¡±ƒø≈¬ ∫±π †ª±ƒ…Ωø¬, ±ªªΩ ø≈ƒμ ƒ…Ω μ≈ƒμª…Ω ƒπΩø¬, ø1øΩ ¡≈¿ø≈ ∫±π ∫±¡∆ø≈¬, ø≈ƒμ ƒ…Ω ¿¡ø¬ ƒπ, ø1øΩ ºμπ∂øΩø¬ ∫±π Q¿μ¡μ«øΩƒø¬; μπΩ±π ≥±¡ ƒ±¬ π¥μ±¬ Ωø∑√μπ¬ ∏μø≈ ±π…Ωπø≈¬ ƒμ ∫±π ±≈ƒøƒμªμπ¬ (Definiunt autem IDEAM exemplar æternum eorum, quæ secundum naturam existunt.
+
+Nam plurimis ex iis, qui Platonem secuti sunt, minime placuit, arte factorum ideas esse, ut clypei atque lyræ; neque rursus eorum, quæ prætor naturam, ut febris et choleræ, neque particularium, ceu Socratis et Platonis; neque etiam rerum vilium, veluti sordium et festucæ; neque relationum, ut majoris et excedentis: esse namque ideas intellectiones dei æternas, ac seipsis perfectas). 
+ -->
+
+We may take this opportunity of mentioning another point in which our doctrine of Ideas differs very much from that of Plato. 
 
 He teaches (De Rep., x., p. 288) that the object which art tries to express, the ideal of painting and poetry, is not the Idea but the particular thing. Our whole exposition hitherto has maintained exactly the opposite, and Plato's opinion is the less likely to lead us astray, inasmuch as it is the source of one of the greatest and best known errors of this great man, his depreciation and rejection of art, and especially poetry; he directly connects his false judgment in reference to this with the passage quoted.
 

@@ -12,27 +12,23 @@ description: "The People of the Trench were destroyed"
 
 {{< s v="4" >}}  The People of the Trench were destroyed
 
-{{< s v="5" >}}  The fire supplied with fuel while they sat around it.
+{{< s v="5" >}}  The fire supplied with fuel while they sat around it and <sup>7</sup> were witnessing what they did to the believers.
 
-7. And were witnessing what they did to the believers.
-
-8. They begrudged them only because they believed in Enki the Almighty {{< s v="9" >}} to Whom belongs the sovereignty of the heavens and the earth. 
+<sup>8</sup> They begrudged them only because they believed in Enki the Almighty {{< s v="9" >}} to Whom belongs the sovereignty of the heavens and the earth. 
 
 {{< s v="10" >}} Those who tempt the believers the punishments of Hell and of Burning are for them. 
 
 {{< s v="11" >}}  Those who believe and do righteous deeds will have Gardens beneath which rivers flow. That is the great triumph.
 
-12. The onslaught of your Lord is severe.
+<sup>12</sup> The onslaught of your Lord is severe.
 
-13-16. He begins and repeats.
+<sup>13-16</sup> He begins and repeats.
 
-17-18. Have you heard of you the story of the legions Of Pharaoh and Thamood?
+<sup>17-18</sup> Have you heard of you the story of the legions Of Pharaoh and Thamood?
 
-19. Those who disbelieve are in denial and Enki encloses them from beyond.
+<sup>19</sup> Those who disbelieve are in denial and Enki encloses them from beyond.
 
-21. In fact, it is a Glorious Quran 22. in a Preserved Tablet.
-
-
+<sup>21</sup> In fact, it is a Glorious Quran 22. in a Preserved Tablet.
 
 <!-- 23. But
 whoever turns away and disbelieves.

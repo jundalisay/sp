@@ -3,7 +3,7 @@ title: "Department Of Energy And Related Commissions"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 weight: 36
 author: "Bernard L. McNamee"
 ---

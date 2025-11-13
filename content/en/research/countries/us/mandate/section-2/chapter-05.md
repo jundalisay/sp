@@ -4,7 +4,7 @@ date: 2024-11-01
 description: ""
 author: "Ken Cuccinelli"
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 

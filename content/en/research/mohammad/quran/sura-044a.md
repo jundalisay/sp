@@ -21,7 +21,10 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="10" >}} So watch out for the Day when the sky produces a visible smoke. {{< s v="11" >}}  Enveloping mankind; this is a painful punishment.
 
-<sup>12.</sup> “Our Lord, lift the torment from us, we are believers.”
+
+{{< r a="Disbelievers" >}}
+<sup>12</sup> Our Lord, lift the torment from us, we are believers.
+{{< /r >}}
 
 <sup>13.</sup> But how can they be reminded? An enlightening messenger has already come to them.
 
@@ -29,23 +32,29 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <sup>15.</sup> We will ease the punishment a little, but you will revert.
 
-{{< s v="16" >}}The Day when We launch the Great Assault—We will avenge.
+{{< s v="16" >}} The Day when We launch the Great Assault—We will avenge.
 
 <sup>17.</sup> Before them We tested the people of Pharaoh; a noble messenger came to them.
 
-<sup>18</sup> Saying, “Hand over Enki’s servants to me. I am an honest messenger to you.”
+<sup>18</sup> Saying:
 
-<sup>19</sup> and “Do not exalt yourselves above Enki. I come to you with clear authority.
+{{< r a="Moses" >}}
+Hand over Enki’s servants to me. I am an honest messenger to you. <sup>19</sup> Do not exalt yourselves above Enki. I come to you with clear authority. <sup>20</sup> I have taken refuge in my Lord and your Lord, lest you stone me. <sup>21</sup> But if you do not believe in me, keep away from me.”
+{{< /r >}}
 
-<sup>20</sup> I have taken refuge in my Lord and your Lord, lest you stone me.
 
-<sup>21</sup> But if you do not believe in me, keep away from me.”
+<sup>22</sup> He appealed to his Lord: 
 
-<sup>22</sup> He appealed to his Lord: “These are a sinful people.”
+{{< r a="Moses" >}}
+These are a sinful people.
+{{< /r >}}
 
-<sup>23</sup> “Set out with My servants by night—you will be followed.
 
-<sup>24</sup> And cross the sea quickly; they are an army to be drowned.”
+{{< l a="Enki" >}}
+<sup>23</sup> Set out with My servants by night—you will be followed <sup>24</sup> and cross the sea quickly; they are an army to be drowned.
+{{< /l >}}
+
+
 
 <sup>25.</sup> How many gardens and fountains did they leave behind? <sup>26.</sup> And plantations, and splendid buildings. <sup>27.</sup> And comforts they used to enjoy.
 
@@ -61,44 +70,43 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <sup>33.</sup> We gave them many signs, in which was an obvious test.
 
-<sup>34.</sup> These people say. “There is nothing but our first death, and
-we will not be resurrected.
+<sup>34.</sup> These people say:
 
-<sup>36.</sup> Bring back our ancestors, if you are truthful.”
+<sup>35</sup> “There is nothing but our first death, and we will not be resurrected. <sup>36</sup> Bring back our ancestors, if you are truthful.”
 
 <sup>37.</sup> Are they better, or the people of Tubba and those before them? We annihilated them.
 
-<sup>38.</sup> We did not create the heavens and the earth and what is between them to play.
+<sup>38</sup> We did not create the heavens and the earth and what is between them to play.
 
+<sup>39</sup> We created them only for a specific purpose, but most of them do not know.
 
-<sup>35.</sup> We created them only for a specific purpose, but most of them do not know.
+<sup>40</sup> The Day of Sorting Out is the appointed time for them all.
 
-<sup>40.</sup> The Day of Sorting Out is the appointed time for them all.
+<sup>41</sup> The Day when no friend will avail a friend in any way, and they will not be helped.
 
-<sup>41.</sup> The Day when no friend will avail a friend in any way, and they will not be helped.
-
-<sup>42.</sup> Except for him upon whom Enki has mercy. He is the Mighty, the Merciful.
+<sup>42</sup> Except for him upon whom Enki has mercy. He is the Mighty, the Merciful.
 
 <sup>43</sup> The Tree of Bitterness.
 
 <sup>44</sup> The food of the sinner.
 
-<!-- 45. Like molten lead; boiling inside the bellies.
-46. Like the boiling of seething water.
-Seize him and drag him into the midst of
-Hell!
-48. Then pour over his head the suffering of the Inferno! -->
+<sup>45</sup> Like molten lead boiling inside the bellies.
 
-49. Taste!
-50. This
-You who were powerful and noble.
-is what you used to doubt.
-the righteous, they will be in a secure
+<sup>46</sup> Like the boiling of seething water.
 
-51. As for place.
-52. Amidst
+<sup>47</sup> Seize him and drag him into the midst of Hell!
 
-<sup>53</sup> Dressed gardens and springs. in silk and brocade, facing one another.
+<sup>48</sup> Then pour over his head the suffering of the Inferno!
+
+<sup>49</sup> Taste! You who were powerful and noble.
+
+<sup>50</sup> This is what you used to doubt.
+
+<sup>51</sup> As for the righteous, they will be in a secure place.
+
+<sup>52</sup> Amidst gardens and springs.
+
+<sup>53</sup> Dressed in silk and brocade, facing one another.
 
 <sup>54</sup> So it is, and We will wed them to lovely companions.
 
@@ -112,4 +120,3 @@ the torment of Hell.
 <sup>58</sup> We made it easy in your language, so that they may remember.
 
 <sup>59</sup> So wait and watch. They too are waiting and watching.
-

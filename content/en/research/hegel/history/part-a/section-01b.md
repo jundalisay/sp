@@ -10,7 +10,7 @@ weight: 8
 The first point was that thought, free thought, is in itself essentially concrete. This implies that it is alive, that it moves of itself.
 
 
-2. Idea as Development
+### 2. Idea as Development
 
 The infinite nature of spirit is its own process in itself. It does not rest. It is essentially productive and exists by producing. 
 

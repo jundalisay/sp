@@ -9,7 +9,10 @@ description: "Here is a table for the four classifications of Exchangeable value
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /four-laws  
 ---
+
 
 
 Supereconomics classifies value into buyer-seller, and personal-societal, leading to 4 kinds of value.
@@ -39,7 +42,20 @@ Economics | Personal | Society
 Subjective and Variable | **Nominal Price** (value in currency) | **Market Price** (value to the buyer)
 
 
-We can now summarize and organize our 4 prices into a pattern:
+
+
+
+## Integrating Personal and Societal 
+
+Superphysics views a society as a metaphysical organism or oversoul that is made up of individual souls, just as a soul is a metaphysical organism made up of many selves. 
+
+{{< q a="David Hume" >}}
+I can only compare the soul to a republic with several members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic in the incessant changes of its parts. The same republic may change its members, laws, and constitutions.  
+{{< /q >}}
+
+Supereconomics (Economic Superphysics) uses this to integrate the personal soul, as one's gives-and-takes, with the social soul, as the gives-and-takes of the economic system. 
+
+This lets us summarize and organize our 4 prices into a pattern:
 
 Law | Price | Purpose
 --- | --- | ---
@@ -48,6 +64,9 @@ Law | Price | Purpose
 3 | Natural | Balance - prevents the crashes that leads to a recurrence of lack
 4 | Market | Diffusion - spreads quality and quantity to address the lack
 
+{{< i s="/graphics/econ/law4th.jpg" a="Prices" >}}
+
+
 Law | Definition
 --- | --- 
 1 | Every thing in the universe has an existential value, otherwise it would not exist
@@ -55,8 +74,10 @@ Law | Definition
 3 | Natural | Balance - prevents the crashes that leads to a recurrence of lack
 4 | Market | Diffusion - spreads quality and quantity to address the lack
 
+{{< youtube sDTrScP67yI >}}
 
-We find that it exactky matches the Law of Social Cycles of Supersociology:
+
+We find that it exactly matches the Law of Social Cycles of Supersociology:
 
 Cycle | Price
 --- | --- 
@@ -64,6 +85,9 @@ Worker | Nominal
 Warrior | Real 
 Thinker | Natural
 Trader | Market  
+
+
+## The Four Laws of Value
 
 From here, we can connect Supereconomics with Supersociology by making them the Four Laws of Value. 
 
@@ -98,21 +122,19 @@ Supereconomics Law | Physics Thermodynamics Law
 <!-- - The 2nd and 1st law of thermodynamics refer to the external aspects of waves just as the Market and Real Price are objective 
 - The 3rd and 0th laws refer to the internal aspects just as the Nominal and Market Price are subjective -->
 
-{{< i s="/graphics/econ/law4th.jpg" a="Prices" >}}
 
+## How We Got the Four Laws from Adam Smith
 
-## How we Got the Four Laws from Adam Smith
-
-We got the Four Laws by noticing a pattern in the maxims of Adam Smith in the Wealth of Nations. 
-
-We distilled the maxims into four factors as:
+We got the Four Laws by noticing a pattern in the maxims of Adam Smith in *The Wealth of Nations* which we distilled the maxims into 4 factors as:
 
 1. Demand
 2. Capital
 3. Supply
 4. Trade
 
-We then compared these with the Four laws of Thermodynamics to fine-tune and harmonize the Four Laws of Supereconomics with that of thermodynamics of Physics, and the Four Cycles of Supersociology.  
+We then compared these with the Four laws of Thermodynamics to fine-tune and harmonize the Four Laws of Supereconomics with:
+- The Four Laws of thermodynamics of Physics
+- The Four Cycles of Supersociology (which historically was the Hindu varna system)
 
 {{< q a="Adam Smith" c="Wealth of Nations Book 4, Chapter 2, Paragraphs 3-9" >}}
 The general industry of..society never can exceed what the capital of..society can employ (Law 2)… Every individual.. necessarily endeavours.. that his produce be of the greatest.. value (Law 2)… or to exchange for the greatest quantity either of money or of other goods (Law 4).  The annual revenue of society..is the same thing with that exchangeable value (Law 4).
@@ -133,6 +155,34 @@ When we compute the quantity of industry.. we must always have regard to.. provi
 {{< q a="Adam Smith" c="Wealth of Nations Book 2, Chapter 2, Paragraph 60" >}}
 If the paper money never exceeds this value.. it can never exceed  what the circulation of the country can.. absorb and employ (Law 3).
 {{< /q >}}
+
+
+## So What's the Four Laws of Value
+
+The Four Laws of Value, like the other laws of Physics and Supersociology, arise from the wave-nature of the universe that flows in a certain way. 
+- This flow is called the Tao in Taoism
+- This "certainess" is called the Dharma in Hinduism
+
+Going against the flow leads to problems. And so the Four Laws prevents or solves economic problems or problems that involve exchangeable value.  
+
+A common personal problem is budgeting -- people have no money to buy what they need or want. 
+
+Supereconomics uses the Fourth Law as fair exchange, with or without money, to reestablish a barter-credit system where people pay in their own goods or services by finding other people who would want their goods or services. 
+
+This requires people to value, and assign a value, to the work of other people and then trade for them by their own agreements, even without money. 
+
+The Four Laws extend to all economic phenomena (and problems). This makes it a tool for policy-making, whether for the personal, national, or global economy. 
+
+For example, violations of the Four Laws lead to economic problems and crises:
+
+Law | Violation Results in
+--- | ---
+First Law | Overspending, Budget Deficit, Poverty Cycle, Unemployment
+Second Law | Valuation Errors, Bubbles, Overinvestment, Underinvestment
+Third Law | Inequality, Moral Hazard, Financial Crises, Illicit goods
+Fourth Law | Inflation, Recessions, Trade War, Crypto Scams
+
+
 
 
 <!--  we can see how the four laws of value are the reverse of the laws of thermodynamics. For example:

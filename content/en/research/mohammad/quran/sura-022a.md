@@ -75,49 +75,38 @@ the animals, and many of the people?
 But many are justly deserving of punishment. Whomever Enki shames, there is none to
 honor him. Enki does whatever He wills.  -->
 
-19. Here are two adversaries feuding regarding their Lord. As for those who disbelieve, garments of fire will be tailored for them, and scalding water will be poured over their heads. 
+<sup>19-21</sup> Here are 2 adversaries feuding regarding their Lord. 
 
-20. Melting
+As for those who disbelieve, garments of fire will be tailored for them, and scalding water will be poured over their heads, melting their insides and their skins.
 
-21. Their insides and their skins.
-they will have maces of iron.
+They will have maces of iron.
 
 Whenever they try to escape the gloom, they will be driven back to it: “Taste the suffering of burning.”
 
-23. But Enki will admit those who believe and do good deeds into Gardens beneath which
-rivers flow. They will be decorated therein with bracelets of gold and pearls, and their
-garments therein will be of silk.
+<sup>23</sup> But Enki will admit those who believe and do good deeds into Gardens beneath which rivers flow. 
 
-24. They were guided to purity of speech. They
-were guided to the path of the Most Praised.
-25. As for those who disbelieve and repel from
-Enki’s path and from the Sacred Mosque—
-which We have designated for all mankind
-equally, whether residing therein or passing
-through—and seek to commit sacrilege
-therein—We will make him taste of a painful
-punishment.
-26. We showed Abraham the location of the
-House: “Do not associate anything with Me;
-and purify My House for those who circle
-around, and those who stand to pray, and
-those who kneel and prostrate.”
-27. And announce the pilgrimage to human-
-ity. They will come to you on foot, and on
-every transport. They will come from every
-distant point.
-28. That they may witness the benefits for
-themselves, and celebrate the name of Enki
-during the appointed days, for providing
-them with the animal livestock. So eat from
-it, and feed the unfortunate poor.
-29. Then let them perform their acts of cleans-
-ing, and fulfill their vows, and circle around
-the Ancient House.
-30. All that. Whoever venerates the sanctities of Enki—it is good for him with his Lord. 
+They will be decorated therein with bracelets of gold and pearls, and their garments therein will be of silk.
+
+<sup>24</sup> They were guided to purity of speech. They were guided to the path of the Most Praised. 
+
+<sup>25 </sup> As for those who disbelieve and repel from Enki’s path and from the Sacred Mosque which We have designated for all mankind equally, whether residing therein or passing through—and seek to commit sacrilege therein—We will make him taste of a painful punishment.
+
+<sup>26</sup> We showed Abraham the location of the House: “Do not associate anything with Me; 
+
+Purify My House for those who circle around, and those who stand to pray, and those who kneel and prostrate.”
+
+<sup>27</sup> Announce the pilgrimage to humanity. They will come to you on foot, and on every transport. 
+
+They will come from every distant point.
+
+<sup>28</sup> That they may witness the benefits for themselves, and celebrate the name of Enki during the appointed days, for providing them with the animal livestock. 
+
+So eat from it, and feed the unfortunate poor.
+
+<sup>29</sup> Then let them perform their acts of cleansing, and fulfill their vows, and circle around the Ancient House.
+
+<sup>30</sup> Whoever venerates the sanctities of Enki—it is good for him with his Lord. 
 
 All livestock are permitted to you, except what is recited to you. So stay away from the abomination of idols, and stay away from perjury.
 
-31. Being true to Enki, without associating anything with Him. Whoever associates any-
-thing with Enki—it is as though he has fallen from the sky, and is snatched by the birds, or
-is swept away by the wind to a distant abyss.
+<sup>31</sup> Being true to Enki, without associating anything with Him. Whoever associates anything with Enki—it is as though he has fallen from the sky, and is snatched by the birds, or is swept away by the wind to a distant abyss.

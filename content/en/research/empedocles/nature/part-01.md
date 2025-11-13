@@ -18,12 +18,12 @@ From William Ellery Leonard's
 
 To his friend.
 
-1. Hear thou, Pausanias, son of wise Anchitus!
+<sup>1</sup> Hear thou, Pausanias, son of wise Anchitus!
 
 
 ## The Limitations of Knowledge
 
-2. The ways of knowing lie scattered through their narrow members.  
+<sup>2</sup> The ways of knowing lie scattered through their narrow members.  
 
 Many vile surprises blunts the soul and the keen desire. 
 
@@ -37,9 +37,9 @@ But never shall these things be seen nor heard by men, nor seized by mind.
 
 Since you here now are withdrawn apart, you shall learn no more than what a mortal range of knowledge may span.
 
-3. Shelter these teachings in your own mute breast.
+<sup>3</sup> Shelter these teachings in your own mute breast.
 
-4. But turn their madness, Gods! from tongue of mine, and drain through holy lips the well-spring clear!
+<sup>4</sup> But turn their madness, Gods! from tongue of mine, and drain through holy lips the well-spring clear!
 
 And many-wooed, O white-armed Maiden-Muse,
 
@@ -62,7 +62,7 @@ Nor check the proof of all thy members aught:
 Note by all ways each thing as 'tis revealed.
 
 
-5. Yea, but the base distrust the High and Strong.
+<sup>5</sup> Yea, but the base distrust the High and Strong.
 
 Yet know the pledges that our Muse will urge,
 
@@ -71,22 +71,22 @@ When once her words be sifted through thy soul.
 
 ## The Elements
   
-6. First the fourfold root of all things hear!—
+<sup>6</sup> First the fourfold root of all things hear!—
 
 White gleaming Zeus, life-bringing Here, Dis,
 
 And Nestis whose tears bedew mortality.
 
-7. The uncreated elements.
+<sup>7</sup> The uncreated elements.
 
 
 ## Birth and Death
 
-8. There is no birth of all things mortal, nor end in ruinous death. 
+<sup>8</sup> There is no birth of all things mortal, nor end in ruinous death. 
 
 But mingling only and interchange of mixed there is, and birth is but its name with men.
 
-9. But when in man, wild beast, or bird, or bush, these elements commingle and arrive
+<sup>9</sup> But when in man, wild beast, or bird, or bush, these elements commingle and arrive
 
 The realms of light, the thoughtless deem it "birth";
 

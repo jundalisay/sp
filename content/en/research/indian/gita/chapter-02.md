@@ -46,6 +46,8 @@ Seeing Arjuna full of compassion yet depressed, his eyes full of tears, Madhusū
 
 <!-- O descendant of India, at that time Kṛṣṇa, smiling,  -->
 
+
+{{< l a="Krishna" >}}
 [smiling]  <sup>11</sup> <!-- While speaking learned words, you are mourning for what is not worthy of grief.  --> Those who are wise lament neither for the living nor for the dead.
 
 <sup>12</sup> We exist forever.
@@ -118,8 +120,11 @@ They have come to this conclusion by studying the nature of both.
 <sup>41</sup> Those who are on this path are resolute in purpose, and their aim is one. O beloved child of the Kurus, the intelligence of those who are irresolute is many-branched.
 
 <sup>42-43</sup> Men of small knowledge are very much attached to the flowery words of the Vedas, which recommend various fruitive activities for elevation to heavenly planets, resultant good birth, power, and so forth. Being desirous of sense gratification and opulent life, they say that there is nothing more than this.
-TEXT 44: In the minds of those who are too attached to sense enjoyment and material opulence, and who are bewildered by such things, the resolute determination for devotional service to the Supreme Lord does not take place.
-TEXT 45: The Vedas deal mainly with the subject of the three modes of material nature. O Arjuna, become transcendental to these three modes. Be free from all dualities and from all anxieties for gain and safety, and be established in the self.
+
+
+<sup>44</sup> In the minds of those who are too attached to sense enjoyment and material opulence, and who are bewildered by such things, the resolute determination for devotional service to the Supreme Lord does not take place.
+
+<sup>45</sup> The Vedas deal mainly with the subject of the three modes of material nature. O Arjuna, become transcendental to these three modes. Be free from all dualities and from all anxieties for gain and safety, and be established in the self.
 
 <sup>46</sup> All purposes served by a small well can at once be served by a great reservoir of water. Similarly, all the purposes of the Vedas can be served to one who knows the purpose behind them.
 
@@ -136,4 +141,4 @@ TEXT 45: The Vedas deal mainly with the subject of the three modes of material n
 <sup>52</sup> When your intelligence has passed out of the dense forest of delusion, you shall become indifferent to all that has been heard and all that is to be heard.
 
 <sup>53</sup> When your mind is no longer disturbed by the flowery language of the Vedas, and when it remains fixed in the trance of self-realization, then you will have attained the divine consciousness.
-
+{{< /l >}}

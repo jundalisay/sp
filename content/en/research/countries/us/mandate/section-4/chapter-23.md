@@ -4,7 +4,7 @@ date: 2024-11-01
 description: ""
 author: "VVeronique de Rugy"
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 22d
 weight: 44
 ---
@@ -27,7 +27,7 @@ Since then, very little has changed. EXIM operates in effect as a protectionist 
 The Bank should be abolished.
 
 
-## BACKGROUND
+## Background
 
 The Export–Import Bank was created in 1934 as an export credit agency (ECA) to finance trade with the Soviet Union. It was reorganized as an independent government agency in 1945. President Franklin Roosevelt’s Executive Order 6581 gave it “the power to aid in financing and to facilitate exports and imports and the exchange of commodities between the United States and other Nations or the agencies and nationals thereof” to create jobs in the United States.2 EXIM has four main tools with which to pursue these goals: loan guarantees, working capital guarantees, direct loans, and export-credit insurance. Importantly, for four years starting at the end of 2015, the Bank became incapacitated. Lacking a quorum for its board of directors, it could not extend financing that exceeded $10 million per project. That put an end to about 85 percent of the Bank’s financing obligations. As the numbers below show, the Bank hasn’t yet recovered from that long interruption.
 
@@ -62,36 +62,14 @@ that export credit subsidies merely redistribute exporting opportunities to subs
 dized firms instead of increasing the net number of exports—something that also
 slows economic growth.14
 
-Even more telling is the performance of the U.S. economy and American exports
-during the four years when EXIM lacked a board quorum (2015–2019) and was
-barred from finalizing deals in excess of $10 million. During that time, EXIM autho-
-rizations fell from $21 billion in FY 2014 to $3.6 billion in FY 2018 (adjusted for
-inflation).15 However, also during that time, regular big-ticket EXIM beneficiaries
-continued to benefit from their easy access to capital markets and still had the
-ability to finance their export activities.
+Even more telling is the performance of the U.S. economy and American exports during the four years when EXIM lacked a board quorum (2015–2019) and was barred from finalizing deals in excess of $10 million. During that time, EXIM autho- rizations fell from $21 billion in FY 2014 to $3.6 billion in FY 2018 (adjusted for inflation).15 However, also during that time, regular big-ticket EXIM beneficiaries continued to benefit from their easy access to capital markets and still had the ability to finance their export activities.
 
-Further, U.S. exports were utterly unaffected by the reductions in the Bank’s
-activities.16 U.S. unemployment fell to a level not seen in half a century, but exports
-soared with financing provided by commercial lenders. The only negative eco-
-nomic impact from EXIM’s lack of a board quorum was its effect on the Bank
-itself. This contradicts EXIM’s claim that its activities are crucial for the success
-of U.S. exporters and economic growth. Instead, it shows that economic growth
-is the best booster of U.S. exports and job creation and that it does not depend on
-EXIM subsidies.
+Further, U.S. exports were utterly unaffected by the reductions in the Bank’s activities.16 U.S. unemployment fell to a level not seen in half a century, but exports soared with financing provided by commercial lenders. The only negative eco- nomic impact from EXIM’s lack of a board quorum was its effect on the Bank itself. This contradicts EXIM’s claim that its activities are crucial for the success of U.S. exporters and economic growth. Instead, it shows that economic growth is the best booster of U.S. exports and job creation and that it does not depend on EXIM subsidies.
 
-Subsidy-boosted exports do not boost economic growth. EXIM’s primary
-reason for existing is to increase exports, as if more exports themselves represent
-more jobs and economic growth. Recent expressions of this fallacious belief can be
-found in a book by former EXIM President Fred Hochberg. According to Hochberg,
-“We know that trade, and exports in particular, can have a big impact on jobs.”17
-While this is a common misconception about exports, it is one worth correcting.
-As trade economists know, exports are a cost to the economy: They subtract from
-GDP. Imports, on the other hand, add to GDP. If the U.S. could acquire all of the
-imports that it currently gets without exporting anything in exchange, that would
-be the best of all worlds. Unfortunately, one reason that foreigners are so eager﻿
+Subsidy-boosted exports do not boost economic growth. EXIM’s primary reason for existing is to increase exports, as if more exports themselves represent more jobs and economic growth. Recent expressions of this fallacious belief can be found in a book by former EXIM President Fred Hochberg. According to Hochberg, “We know that trade, and exports in particular, can have a big impact on jobs.”17 While this is a common misconception about exports, it is one worth correcting. As trade economists know, exports are a cost to the economy: 
 
-to sell us their goods is that they want our dollars to buy our debt, invest in the
-country, and buy our exports. That is why exports drop when overall imports drop.
+They subtract from GDP. Imports, on the other hand, add to GDP. If the U.S. could acquire all of the imports that it currently gets without exporting anything in exchange, that would be the best of all worlds. Unfortunately, one reason that foreigners are so eager to sell us their goods is that they want our dollars to buy our debt, invest in the country, and buy our exports. That is why exports drop when overall imports drop.
+
 Exports promote U.S. economic growth only if the value of the resources used to
 produce them is less than the value of what we receive as imports in exchange for
 those exports. By subsidizing American exports, EXIM causes too many resources
@@ -117,20 +95,7 @@ to intervene in cases “where such support is necessary to level the competitiv
 playing field for U.S. exporters due to financing provided by foreign governments
 to their exporters.”18
 
-As a result, EXIM for years has been focused primarily on what other countries’
-ECAs are doing and how much financing they are providing.19 A reading of any of
-EXIM’s Competitiveness Reports shows that the Bank frames the “competitive-
-ness” of the U.S. economy and exporters in extremely narrow terms—specifically,
-as the amount of business that foreign ECAs are doing relative to EXIM.
-The report for 2020 features striking evidence of this mindset. For instance,
-lamenting the “nearly four-year hiatus” during which the Bank lacked a board
-quorum to approve large deals, EXIM’s leadership maintains that these years
-“severely hindered EXIM’s ability to support the competitiveness of U.S. export-
-ers.” During that time, foreign ECAs “fundamentally evolved their philosophy and
-substantively expanded their roles,” and “the United States must work hard to keep
-pace.” The Bank goes on to promise that it will “re-emerge from the years of being
-out of the long-term export finance business and restore its standing as one of the
-world’s most competitive ECAs.”20
+As a result, EXIM for years has been focused primarily on what other countries’ ECAs are doing and how much financing they are providing.19 A reading of any of EXIM’s Competitiveness Reports shows that the Bank frames the “competitive- ness” of the U.S. economy and exporters in extremely narrow terms—specifically, as the amount of business that foreign ECAs are doing relative to EXIM. The report for 2020 features striking evidence of this mindset. For instance, lamenting the “nearly four-year hiatus” during which the Bank lacked a board quorum to approve large deals, EXIM’s leadership maintains that these years “severely hindered EXIM’s ability to support the competitiveness of U.S. export- ers.” During that time, foreign ECAs “fundamentally evolved their philosophy and substantively expanded their roles,” and “the United States must work hard to keep pace.” The Bank goes on to promise that it will “re-emerge from the years of being out of the long-term export finance business and restore its standing as one of the world’s most competitive ECAs.”20
 
 In other words, EXIM bureaucrats appear to believe that economic growth
 and jobs result not from a favorable tax and regulatory environment, but from a
@@ -201,7 +166,7 @@ the safe stewardship of taxpayer funds and responsible management of EXIM’s
 vast portfolio.27
 
 
-## FAILING TO MEET THE CHINA CHALLENGE
+## Failing To Meet The China Challenge
 
 These days, to get whatever expansion of government one wants or to jus- tify a new government activity, one has only to declare that more government intervention is needed to help fight China. President Trump used this argument to secure reauthorization of EXIM in 2019. Today, President Biden argues that the Bank could be a powerful weapon in the government’s geoeconomic arsenal against China.
 
@@ -227,7 +192,7 @@ serving the clients it has been serving for decades. That has not happened, and 
 will not happen.
 
 
-## CONCLUSION
+## Conclusion
 
 The Export–Import Bank should be abolished because it wastes taxpayer money,
 adversely affects American businesses, and does not promote economic growth has been making its most important investments. Instead, its obsession with other ECAs has caused EXIM to direct the vast majority of its funding to large foreign

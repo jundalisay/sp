@@ -3,6 +3,8 @@ heading: Chapter 24
 title: "Matter"
 description: ""
 date: 2025-10-05
+weight: 28
+icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer

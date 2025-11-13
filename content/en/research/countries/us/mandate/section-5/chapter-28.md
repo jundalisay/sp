@@ -1,37 +1,27 @@
 ---
-title: "FEDERAL COMMUNICATIONS COMMISSION"
+title: "Federal Communications Commission"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Brendan Carr"
 ---
 
 
-## MISSION STATEMENT 
+## Mission Statement 
 
-The FCC is an independent regulatory agency that has jurisdiction over inter-
-state and international communications by radio, television, wire, satellite, and
-cable.1 Five Commissioners are appointed by the President and confirmed by the
-Senate for fixed five-year terms.2 The FCC does not have any other presidentially
-appointed, Senate-confirmed officials. Ordinarily, the five-member FCC is divided
-politically three to two with a majority of Commissioners from the same political
-party as the President. The Commissioners’ terms are staggered so that every year
-at the end of June, one Commissioner’s term expires.3 However, a Commissioner
-can continue to serve until the end of the next session of Congress (or up to 1.5
-years beyond the expiration of the term) if no replacement is confirmed after his
-or her term ends.4
+The FCC is an independent regulatory agency that has jurisdiction over interstate and international communications by radio, television, wire, satellite, and cable.1 
 
-By law, only a bare majority of Commissioners can be from the same politi-
-cal party (no more than three when there are five members).5 By tradition, the
-Chairperson resigns when a new President of a different political party is sworn
+Five Commissioners are appointed by the President and confirmed by the Senate for fixed five-year terms.2 The FCC does not have any other presidentially appointed, Senate-confirmed officials. 
 
-The FCC should promote freedom of speech, unleash economic opportunity,
-ensure that every American has a fair shot at next-generation connectivity, and
-enable the private sector to create good-paying jobs through pro-growth reforms
-that support a diversity of viewpoints, ensure secure and competitive communi-
-cations networks, modernize outdated infrastructure rules, and represent good
-stewardship of taxpayer dollars.﻿
+Ordinarily, the five-member FCC is divided politically three to two with a majority of Commissioners from the same political party as the President. 
+
+The Commissioners’ terms are staggered so that every year at the end of June, one Commissioner’s term expires.3 However, a Commissioner can continue to serve until the end of the next session of Congress (or up to 1.5 years beyond the expiration of the term) if no replacement is confirmed after his or her term ends.4
+
+By law, only a bare majority of Commissioners can be from the same political party (no more than three when there are five members).5 By tradition, the Chairperson resigns when a new President of a different political party is sworn
+
+The FCC should promote freedom of speech, unleash economic opportunity, ensure that every American has a fair shot at next-generation connectivity, and enable the private sector to create good-paying jobs through pro-growth reforms
+that support a diversity of viewpoints, ensure secure and competitive communications networks, modernize outdated infrastructure rules, and represent good stewardship of taxpayer dollars.﻿
 
 into office—though this is not required by law. By resigning, the exiting Commis-
 sioner enables the President to nominate someone from his own political party

@@ -65,13 +65,16 @@ They all rejected the messengers, so My threat came true.
 <sup>23</sup> His escort will say:
 
 {{< r a="Escort" >}}
-This is what I have ready with me. <sup>24</sup> Throw into Hell every stubborn disbeliever. <sup>25</sup> Preventer of good, aggressor, doubter. Who fabricated another god with Enki. Toss him into the intense agony. Our Lord, I did not make him rebel, but he was far astray.”
-
-28 Do not feud in My presence—I had warned you in advance. 29 The decree from Me will not be changed, and I am not unjust to the servants.
+This is what I have ready with me. <sup>24</sup> Throw into Hell every stubborn disbeliever, <sup>25</sup> preventer of good, aggressor, doubter who fabricated another god with Enki. Toss him into the intense agony. Our Lord, I did not make him rebel, but he was far astray.”
 {{< /r >}}
 
+<sup>26</sup> We are fully aware of what they say. You are not a dictator over them. So remind by the Quran whoever fears My warning.
 
-30. On the Day when We will say to Hell:
+<sup>28</sup> Do not feud in My presence—I had warned you in advance. 
+
+<sup>29</sup> The decree from Me will not be changed, and I am not unjust to the servants.
+
+<sup>30</sup> On the Day when We will say to Hell:
 
 {{< l a="Enki Agents" >}}
 Are you full?
@@ -81,28 +84,29 @@ Are you full?
 Are there any more?
 {{< /r >}}
 
-31. Paradise will be brought closer to the pious, not far away.
+<sup>31</sup> Paradise will be brought closer to the pious, not far away.
 
-32. “This is what you were promised—for every careful penitent. 33. Who inwardly feared the Most Gracious, and came with a repentant heart. 34. Enter it in peace. This is the Day of Eternity.”
+<sup>32</sup> “This is what you were promised—for every careful penitent <sup>33</sup> who inwardly feared the Most Gracious, and came with a repentant heart. 
 
-35. Therein they will have whatever they desire—and We have even more.
+<sup>34</sup> Enter it in peace. This is the Day of Eternity.”
 
-36. How many generations before them, who were more powerful than they, did We destroy? They explored the lands—was there any escape?
 
-37. In that is a reminder for whoever possesses a heart, or cares to listen and witness.
+<sup>35</sup> Therein they will have whatever they desire—and We have even more.
 
-38. We created the heavens and the earth and what is between them in six days, and no fatigue touched Us.
+<sup>36</sup> How many generations before them, who were more powerful than they, did We destroy? They explored the lands—was there any escape?
 
-39. So endure what they say, and proclaim the praises of your Lord before the rising of the sun, and before sunset.
+<sup>37</sup> In that is a reminder for whoever possesses a heart, or cares to listen and witness.
 
-40. And glorify Him during the night, and at the end of devotions.
+<sup>38</sup> We created the heavens and the earth and what is between them in six days, and no fatigue touched Us.
 
-41. And listen for the Day when the caller calls from a nearby place.
+<sup>39</sup> So endure what they say, and proclaim the praises of your Lord before the rising of the sun, and before sunset.
 
-42. The Day when they will hear the Shout in all truth. That is the Day of Emergence.
+<sup>40</sup> Glorify Him during the night, and at the end of devotions.
 
-43. It is We who control life and death, and to Us is the destination.
+<sup>41</sup> Listen for the Day when the caller calls from a nearby place.
 
-44. The Day when the earth will crack for them at once. That is an easy gathering for Us.
+<sup>42</sup> The Day when they will hear the Shout in all truth. That is the Day of Emergence.
 
-26. We are fully aware of what they say. You are not a dictator over them. So remind by the Quran whoever fears My warning.
+<sup>43</sup> It is We who control life and death, and to Us is the destination.
+
+<sup>44</sup> The Day when the earth will crack for them at once. That is an easy gathering for Us.

@@ -202,4 +202,3 @@ In studying such transformations, we must always distinguish between:
 In short, ideological forms in which men become conscious of this conflict and fight it out. 
 
 Just as one does not judge an individual by what he thinks about himself, so one cannot judge such a period of transformation by its consciousness, but, on the contrary, this consciousness must be explained from the contradictions of material life, from the conflict existing between the social forces of production and the relations of production." [Marx (1968b), pp.181-82. Bold emphasis added.]
-

@@ -1,19 +1,15 @@
+---
+title:  "Conclusion on Foreign Trade"
+heading:  "Chapter 21"
+date:  2020-01-18
+weight: 39
+c: "firebrick"
+description:  "According to Mun, exporting local currency to facilitate foreign trade increases national wealth"
+---
 
 
-+++
-title=  "Conclusion on Foreign Trade"
-heading=  "Chapter 21"
-date=  2020-01-13
-image=  "/covers/treasure.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/guinea.jpg"
-description=  "According to Mun, exporting local currency to facilitate foreign trade increases national wealth"
-linkb=  "/research/mun/englands-treasure/chapter-20"
-linkbtext=  "Chapter 2"
-linkf=  "/research/mun/englands-treasure"
-linkftext=  "Index"
-+++
 
-As a summary, the rule in our forraign trade is that= 
+As a summary, the rule in our forraign trade is that:
 - our coin is undervalued in the foreign exchange in a country where our exports are less than the value of our imports from that country
 - our coin is overvalued in the foreign exchange in a country where our exports are more than the value of our imports from that country
 

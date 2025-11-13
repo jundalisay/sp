@@ -1,8 +1,8 @@
 ---
 heading: Chapter 46
-title: "Aesthetic impression"
+title: "Laocoon"
 date: 2025-09-20
-description: ""
+description: "Laocoon, in the celebrated group, does not cry out."
 weight: 144
 icon: Schopenhauer
 writer:
@@ -14,8 +14,7 @@ writer:
 
 Laocoon, in the celebrated group, does not cry out.
 
-The universal and ever-renewed surprise at this
-must be occasioned by the fact that any of us would cry out if we
+The universal and ever-renewed surprise at this must be occasioned by the fact that any of us would cry out if we
 were in his place. And nature demands that it should be so; for in
 the case of the acutest physical pain, and the sudden seizure by
 the greatest bodily fear, all reflection, that might have inculcated
@@ -30,9 +29,9 @@ utterance of it. Winckelmann therefore sees in him “the tried
 spirit of a great man, who writhes in agony, and yet seeks to
 suppress the utterance of his feeling, and to lock it up in himself.
 He does not break forth into loud cries, as in Virgil, but only
-anxious sighs escape him,” &c. (Works, vol. vii. p. 98, and at
-298 The World As Will And Idea (Vol. 1 of 3)
-greater length in vol. vi. p. 104). Now Lessing criticised this
+anxious sighs escape him,” &c. (Works, vol. vii. p. 98, and at greater length in vol. vi. p. 104).
+
+Now Lessing criticised this
 opinion of Winckelmann's in his Laocoon, and improved it in the
 way mentioned above. In place of the psychological he gave the
 purely æsthetic reason that beauty, the principle of ancient art,
@@ -57,17 +56,14 @@ should resort to psychological and physiological arguments, to
 explain a matter the reason of which lies so near at hand, and is
 obvious at once to the unprejudiced; and especially I wonder that
 Lessing, who came so near the true explanation, should yet have
-entirely missed the real point.[294]
-Before all psychological and physiological inquiries as to
-whether Laocoon would cry out in his position or not (and I
-certainly affirm that he would), it must be decided as regards
+entirely missed the real point.
+
+Before all psychological and physiological inquiries as to whether Laocoon would cry out in his position or not (and I certainly affirm that he would), it must be decided as regards
 the group in question, that crying out ought not to be expressed
 in it, for the simple reason that its expression lies quite outside
 the province of sculpture. A shrieking Laocoon could not be
 produced in marble, but only a figure with the mouth open
-vainly endeavouring to shriek; a Laocoon whose voice has stuck
-299
-in his throat, vox faucibus haesit. The essence of shrieking,
+vainly endeavouring to shriek; a Laocoon whose voice has stuck in his throat, vox faucibus haesit. The essence of shrieking,
 and consequently its effect upon the onlooker, lies entirely in
 sound; not in the distortion of the mouth. This phenomenon,
 which necessarily accompanies shrieking, derives motive and
@@ -95,7 +91,9 @@ things perceptibly. Therefore Virgil makes Laocoon cry out [295]
 like the bellowing of an ox that has broken loose after being
 struck by the axe; and Homer (Il. xx. 48-53) makes Mars and
 Minerva shriek horribly, without derogating from their divine
-dignity or beauty. The same with acting; Laocoon on the stage
+dignity or beauty.
+
+The same with acting; Laocoon on the stage
 would certainly have to shriek. Sophocles makes Philoctetus
 cry out, and, on the ancient stage at any rate, he must actually
 have done so. As a case in point, I remember having seen in
@@ -120,5 +118,3 @@ of pain; this he has done in the most perfect manner, as is ably
 described by Winckelmann (Works, vol. vi. p. 104), whose
 admirable account thus retains its full value and truth, as soon as
 we abstract from the stoical view which underlies it.
-
-

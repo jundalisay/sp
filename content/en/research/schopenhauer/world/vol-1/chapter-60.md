@@ -1,6 +1,6 @@
 ---
 heading: Chapter 60
-title: "The World As Idea"
+title: "Assertion of the Will"
 date: 2025-09-20
 description: ""
 weight: 200
@@ -13,14 +13,14 @@ writer:
 
 
 We have now completed the two expositions it was
-necessary to insert; the exposition of the freedom of the will
-in itself together with the necessity of its phenomenon, and the
-exposition of its lot in the world which reflects its own nature,
-and upon the knowledge of which it has to assert or deny itself.
-Therefore we can now proceed to bring out more clearly the
-nature of this assertion and denial itself, which was referred to
-and explained in a merely general way above. This we shall do
-by exhibiting the conduct in which alone it finds its expression,
+necessary to insert; 
+
+The exposition of the freedom of the will in itself together with the necessity of its phenomenon, and the exposition of its lot in the world which reflects its own nature, and upon the knowledge of which it has to assert or deny itself. 
+
+Therefore we can now proceed to bring out more clearly the nature of this assertion and denial itself, which was referred to
+and explained in a merely general way above. 
+
+This we shall do by exhibiting the conduct in which alone it finds its expression,
 and considering it in its inner significance.
 
 The assertion of the will is the continuous willing itself,

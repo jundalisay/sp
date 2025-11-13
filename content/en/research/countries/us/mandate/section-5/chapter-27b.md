@@ -3,7 +3,7 @@ title: "Financial Regulatory Agencies Securities And Exchange Commission And Rel
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "David R. Burton"
 ---
 

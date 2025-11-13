@@ -2,7 +2,8 @@
 heading: Chapter 39
 title: "The Metaphysics Of Music"
 description: ""
-weight: 8
+weight: 116
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3e"
+heading: "Chapter 3f"
 title: "The Cycle of Creation"
 date: 2024-06-02
 weight: 140

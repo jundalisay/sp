@@ -5,7 +5,7 @@ writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
 c: "indigo"
-icon: "/icons/spinoza.png"
+icon: "Spinoza"
 description: "Substance is by nature prior to its modifications"
 ---
 

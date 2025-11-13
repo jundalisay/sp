@@ -2,7 +2,8 @@
 heading: Chapter 25
 title: "Transcendent Considerations Concerning The Will As Thing In Itself"
 description: ""
-weight: 8
+weight: 32
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -10,7 +11,21 @@ writer:
 ---
 
 
-Even the merely empirical consideration of nature recognises a constant transition from the simplest and most necessary manifestation of a universal force of nature up to the life and consciousness of man himself, through gentle gradations, and with only relative, and for the most part fluctuating, limits. Reflection, following this view, and penetrating somewhat more deeply into it, will soon be led to the conviction that in all these phenomena, the inner nature, that which manifests itself, that which appears, is one and the same, which comes forth ever more distinctly; and accordingly that what exhibits itself in a million forms of infinite diversity, and so carries on the most varied and the strangest play without beginning or end, this is one being which is so closely disguised behind all these masks that it does not even recognise itself, and therefore often treats itself roughly. Thus the great doctrine of the Ω ∫±π ¿±Ω early appeared both in the east and in the west, and, in spite of all contradiction, has asserted itself, or at least constantly revived. We, however, have now entered even deeper into the secret, since by what has already been said we have been led to the insight that when in any phenomenon a knowing consciousness is added to that inner being which lies at the foundation of all phenomena, a consciousness which when directed inwardly becomes self-consciousness, then that inner being presents itself to this self-consciousness as that which is so familiar and so mysterious, and is denoted by the word will. [066] Accordingly we have called that universal fundamental nature of all phenomena the will, after that manifestation in which it unveils itself to us most fully; and by this word nothing is further from our intention than to denote an unknown x; but, on the contrary, we denote that which at least on one side is infinitely better known and more intimate than anything else.
+Even the merely empirical consideration of nature recognises a constant transition from the simplest and most necessary manifestation of a universal force of nature up to human consciousness.
+
+This is done:
+- through gentle gradations
+- with only relative and fluctuating limits
+
+Reflection penetrates more deeply into it.
+
+It will soon be led to the conviction that in all these phenomena, the inner nature, that which manifests itself, that which appears, is one and the same, which comes forth ever more distinctly.
+
+Accordingly that what exhibits itself in a million forms of infinite diversity, and so carries on the most varied and the strangest play without beginning or end, this is one being which is so closely disguised behind all these masks that it does not even recognise itself, and therefore often treats itself roughly.
+
+Thus, the great doctrine of the Ω ∫±π ¿±Ω early appeared both in the east and in the west, and, in spite of all contradiction, has asserted itself, or at least constantly revived. 
+
+We, however, have now entered even deeper into the secret, since by what has already been said we have been led to the insight that when in any phenomenon a knowing consciousness is added to that inner being which lies at the foundation of all phenomena, a consciousness which when directed inwardly becomes self-consciousness, then that inner being presents itself to this self-consciousness as that which is so familiar and so mysterious, and is denoted by the word will. [066] Accordingly we have called that universal fundamental nature of all phenomena the will, after that manifestation in which it unveils itself to us most fully; and by this word nothing is further from our intention than to denote an unknown x; but, on the contrary, we denote that which at least on one side is infinitely better known and more intimate than anything else.
 
 Let us now call to mind a truth, the fullest and most thorough
 proof of which will be found in my prize essay on the freedom

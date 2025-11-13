@@ -12,30 +12,25 @@ writer:
 
 
 
-The great problem of historical painting and sculpture
-is to express directly and for perception the Idea in which
-the will reaches the highest grade of its objectification. The
-objective side of the pleasure afforded by the beautiful is here
-always predominant, and the subjective side has retired into[285]
-the background. It is further to be observed that at the next
-grade below this, animal painting, the characteristic is entirely
-one with the beautiful; the most characteristic lion, wolf, horse,
-sheep, or ox, was always the most beautiful also. The reason of
-this is that animals have only the character of their species, no
-individual character. In the representation of men the character of
-the species is separated from that of the individual; the former is
-now called beauty (entirely in the objective sense), but the latter
-retains the name, character, or expression, and the new difficulty
-arises of representing both, at once and completely, in the same
-individual.
+The great problem of historical painting and sculpture is to express directly and for perception the Idea objectified by the will. 
 
-Human beauty is an objective expression, which means the
-fullest objectification of will at the highest grade at which it
+The objective side of the pleasure afforded by the beautiful is here always predominant.
+
+The subjective side has retired into the background.
+
+At the next grade below this, animal painting, the characteristic is entirely one with the beautiful; the most characteristic lion, wolf, horse, sheep, or ox, was always the most beautiful also. 
+
+This is because animals have no individual character. They only have the character of their species.
+
+In the representation of men, the character of the species is separated from that of the individual.
+
+The former is now called beauty (entirely in the objective sense), but the latter retains the name, character, or expression, and the new difficulty arises of representing both, at once and completely, in the same individual.
+
+Human beauty is an objective expression, which means the fullest objectification of will at the highest grade at which it
 is knowable, the Idea of man in general, completely expressed
-in the sensible form. But however much the objective side
-of the beautiful appears here, the subjective side still always
-accompanies it. And just because no object transports us so
-quickly into pure æsthetic contemplation, as the most beautiful
+in the sensible form. 
+
+But however much the objective side of the beautiful appears here, the subjective side still always accompanies it. And just because no object transports us so quickly into pure æsthetic contemplation, as the most beautiful
 human countenance and form, at the sight of which we are
 instantly filled with unspeakable satisfaction, and raised above
 ourselves and all that troubles us; this is only possible because
@@ -116,18 +111,11 @@ and completes what is given a posteriori through nature. The
 possibility of such an anticipation of the beautiful a priori in the
 artist, and of its recognition a posteriori by the critic, lies in the
 fact that the artist and the critic are themselves the “in-itself” of
-nature, the will which objectifies itself. For, as Empedocles said,[288]
-293
-like can only be known by like: only nature can understand itself:
-only nature can fathom itself: but only spirit also can understand
-spirit.54
-The opinion, which is absurd, although expressed by the
-Socrates of Xenophon (Stobæi Floril, vol. ii. p. 384) that
-the Greeks discovered the established ideal of human beauty
-empirically, by collecting particular beautiful parts, uncovering
-and noting here a knee, there an arm, has an exact parallel in
-the art of poetry. The view is entertained, that Shakespeare, for
-example, observed, and then gave forth from his own experience
+nature, the will which objectifies itself. For, as Empedocles said, like can only be known by like: only nature can understand itself: only nature can fathom itself: but only spirit also can understand spirit.
+
+The opinion, which is absurd, although expressed by the Socrates of Xenophon (Stobæi Floril, vol. ii. p. 384) that the Greeks discovered the established ideal of human beauty empirically, by collecting particular beautiful parts, uncovering and noting here a knee, there an arm, has an exact parallel in the art of poetry. 
+
+The view is entertained, that Shakespeare, for example, observed, and then gave forth from his own experience
 of life, the innumerable variety of the characters in his dramas, so
 true, so sustained, so profoundly worked out. The impossibility
 and absurdity of such an assumption need not be dwelt upon. It
@@ -138,38 +126,38 @@ of a prophetic anticipation of the beautiful; yet both require
 experience as a pattern or model, for thus alone can that which is
 dimly known a priori be called into clear consciousness, and an
 intelligent representation of it becomes possible.
-Human beauty was explained above as the fullest
-objectification of will at the highest grade at which it is
-knowable. It expresses itself through the form; and this lies
-in space alone, and has no necessary connection with time, as,
-for example, motion has. Thus far then we may say: the adequate
+
+Human beauty expresses itself through the form which lies in space alone.
+
+It has no necessary connection with time, as, for example, motion has. Thus far then we may say: the adequate
 objectification of will through a merely spatial phenomenon is
-beauty, in the objective sense. A plant is nothing but such a merely
-spatial phenomenon of will; for no motion, and consequently no [289]
-54 The last sentence is the German of the il n'y a que l'esprit qui sente l'esprit,
+beauty, in the objective sense. 
+
+
+
+<!-- 54 The last sentence is the German of the il n'y a que l'esprit qui sente l'esprit,
 of Helvetius. In the first edition there was no occasion to point this out, but
 since then the age has become so degraded and ignorant through the stupefying
 influence of the Hegelian sophistry, that some might quite likely say that an
 antithesis was intended here between “spirit and nature.” I am therefore obliged
-to guard myself in express terms against the suspicion of such vulgar sophisms.
-294 The World As Will And Idea (Vol. 1 of 3)
-relation to time (regarded apart from its development), belongs
-to the expression of its nature; its mere form expresses its whole
+to guard myself in express terms against the suspicion of such vulgar sophisms. -->
+
+A plant is nothing but such a merely spatial phenomenon of will; for no motion, and consequently no relation to time (regarded apart from its development), belongs to the expression of its nature; its mere form expresses its whole
 being and displays it openly. But brutes and men require, further,
 for the full revelation of the will which is manifested in them,
 a series of actions, and thus the manifestation in them takes on
 a direct relation to time. All this has already been explained in
 the preceding book; it is related to what we are considering at
-present in the following way. As the merely spatial manifestation
-of will can objectify it fully or defectively at each definite
-grade,—and it is this which constitutes beauty or ugliness,—so
-the temporal objectification of will, i.e., the action, and indeed
+present in the following way. 
+
+As the merely spatial manifestation of will can objectify it fully or defectively at each definite grade,—and it is this which constitutes beauty or ugliness,—so the temporal objectification of will, i.e., the action, and indeed
 the direct action, the movement, may correspond to the will,
 which objectifies itself in it, purely and fully without foreign
 admixture, without superfluity, without defect, only expressing
 exactly the act of will determined in each case;—or the converse
-of all this may occur. In the first case the movement is made
-with grace, in the second case without it. Thus as beauty is
+of all this may occur. 
+
+In the first case the movement is made with grace, in the second case without it. Thus as beauty is
 the adequate representation of will generally, through its merely
 spatial manifestation; grace is the adequate representation of will
 through its temporal manifestation, that is to say, the perfectly
@@ -184,18 +172,16 @@ beauty and grace. Grace consists, according to what has been
 said, in every movement being performed, and every position
 assumed, in the easiest, most appropriate and convenient way,
 and therefore being the pure, adequate expression of its intention,
-or of the act of will, without any superfluity, which exhibits itself[290]
-as aimless, meaningless bustle, or as wooden stiffness. Grace
-presupposes as its condition a true proportion of all the limbs,
-295
-and a symmetrical, harmonious figure; for complete ease and
+or of the act of will, without any superfluity, which exhibits itself as aimless, meaningless bustle, or as wooden stiffness. 
+
+Grace presupposes as its condition a true proportion of all the limbs, and a symmetrical, harmonious figure; for complete ease and
 evident appropriateness of all positions and movements are only
 possible by means of these. Grace is therefore never without
 a certain degree of beauty of person. The two, complete and
 united, are the most distinct manifestation of will at the highest
 grade of its objectification.
-It was mentioned above that in order rightly to portray man, it
-is necessary to separate the character of the species from that of
+
+In order rightly to portray man, it is necessary to separate the character of the species from that of
 the individual, so that to a certain extent every man expresses an
 Idea peculiar to himself, as was said in the last book. Therefore
 the arts whose aim is the representation of the Idea of man, have
@@ -212,19 +198,17 @@ of humanity generally (the objectifying of which it assists in its
 own way) must be comprehended and expressed with special
 prominence. Apart from this the representation is a portrait, a
 copy of the individual as such, with all his accidental qualities.
-And even the portrait ought to be, as Winckelmann says, the
-ideal of the individual.
+
+Even the portrait ought to be, as Winckelmann says, the ideal of the individual.
+
 That character which is to be ideally comprehended, as the
 prominence of a special side of the Idea of humanity, expresses
 itself visibly, partly through permanent physiognomy and bodily
-form, partly through passing emotion and passion, the reciprocal [291]
-modification of knowing and willing by each other, which is
-all exhibited in the mien and movements. Since the individual
-always belongs to humanity, and, on the other hand, humanity
-always reveals itself in the individual with what is indeed peculiar
-296 The World As Will And Idea (Vol. 1 of 3)
-ideal significance, beauty must not be destroyed by character nor
-character by beauty. For if the character of the species is
+form, partly through passing emotion and passion, the reciprocal modification of knowing and willing by each other, which is
+all exhibited in the mien and movements. Since the individual always belongs to humanity, and, on the other hand, humanity
+always reveals itself in the individual with what is indeed peculiar ideal significance, beauty must not be destroyed by character nor character by beauty.
+
+For if the character of the species is
 annulled by that of the individual, the result is caricature; and
 if the character of the individual is annulled by that of the
 species, the result is an absence of meaning. Therefore the
@@ -274,4 +258,3 @@ on the subject. I may therefore be allowed to express my views
 about it in passing, although so special a discussion does not
 properly belong to the scheme of this work, which is throughout
 concerned with what is general.
-

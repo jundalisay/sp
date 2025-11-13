@@ -3,13 +3,15 @@ heading: Chapter 22
 title: "Objective View of the Intellect"
 description: ""
 date: 2025-10-05
+weight: 6
+icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
 ---
 
 
-1 This chapter is connected with the last half of § 27 of the first volume.
+<!-- 1 This chapter is connected with the last half of § 27 of the first volume. -->
 
 
 There are 2 different ways of regarding the intellect:
@@ -78,11 +80,9 @@ unsearchable in its perfection, is really only a certain movement
 or affection of the pulpy matter in the skull. We then ask in
 astonishment: what is this brain whose function produces such
 a phenomenon of all phenomena? What is the matter which can
-be refined and potentiated to such a pulp that the stimulation of a few of its particles becomes the conditional supporter of the
-existence of an objective world? The fear of such questions led
-to the hypothesis of the simple substance of an immaterial soul,
-which merely dwelt in the brain. We say boldly: this pulp also,
-like every vegetable or animal part, is an organic structure, like
+be refined and potentiated to such a pulp that the stimulation of a few of its particles becomes the conditional supporter of the existence of an objective world? 
+
+The fear of such questions led to the hypothesis of the simple substance of an immaterial soul, which merely dwelt in the brain. We say boldly: this pulp also, like every vegetable or animal part, is an organic structure, like
 all its poorer relations in the inferior accommodation of the heads
 of our irrational brethren, down to the lowest, which scarcely
 apprehends at all; yet that organic pulp is the last product of
@@ -128,16 +128,9 @@ the different,” than as Empedocles said, “Only the like is known
 by the like,” which was a very indefinite and ambiguous propo-
 sition; although points of view may certainly also be conceived
 from which it is true; as, for instance, we may observe in passing
-that of Helvetius when he says so beautifully and happily: “Il n'y
-a que l'esprit qui sente l'esprit: c'est une corde qui ne frémit qu'à
-l'unison,” which corresponds with Xenophon's “√ø∆øΩ μπΩ±π ¥μπ
-ƒøΩ μ¿π≥Ω…√øºμΩøΩ ƒøΩ √ø∆øΩ” (sapientem esse opportet eum,
-qui sapientem agniturus sit), and is a great sorrow. But now,
-again, from the other side we know that multiplicity of similars
-only becomes possible through time and space; thus through the
-forms of our knowledge. Space first arises in that the knowing
-subject sees externally; it is the manner in which the subject com-
-prehends something as different from itself. But we also saw [009]
+that of Helvetius when he says so beautifully and happily: 
+
+“Il n'y a que l'esprit qui sente l'esprit: c'est une corde qui ne frémit qu'à l'unison,” which corresponds with Xenophon's “√ø∆øΩ μπΩ±π ¥μπ ƒøΩ μ¿π≥Ω…√øºμΩøΩ ƒøΩ √ø∆øΩ” (sapientem esse opportet eum, qui sapientem agniturus sit), and is a great sorrow. 
+
+But now, again, from the other side we know that multiplicity of similars only becomes possible through time and space; thus through the forms of our knowledge. Space first arises in that the knowing subject sees externally; it is the manner in which the subject comprehends something as different from itself. But we also saw [009]
 knowledge in general conditioned by multiplicity and difference.
-
-

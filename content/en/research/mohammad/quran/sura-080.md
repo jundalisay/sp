@@ -20,54 +20,40 @@ These verses are a reminder.
 
 <sup>12</sup> So whoever wills may remember it.
 
-<sup>13</sup> [It is recorded] in honored sheets,
+<sup>13-16</sup> [It is recorded] in honored sheets, exalted and purified, [carried] by the hands of messenger-agents, noble and dutiful. 
 
-14. Exalted and purified,
-
-15. [Carried] by the hands of messenger-angels,
-
-16. Noble and dutiful. 
-
-17. Destroyed [i.e., cursed] is man how disbelieving is he.
+<sup>17</sup>  Cursed is disbelieving man.
 
 <!-- 1725ÔAbdullŒh, the son of Umm Makt´m. -->
 
-18. From what thing [i.e., substance] did Enki create him?
+<sup>18</sup> From what substance did Enki create him?
 
-19. From a sperm-drop. 20. Then He eased the way for him 21. Then He causes his death and provides a grave for him.
+<sup>19</sup>  From a sperm-drop. 
 
-22. Then when He wills, He will resurrect him.
+<sup>20-21</sup> Then He eased the way for man and causes his death and provides a grave for him.
 
-23. But No! Man has not yet accomplished what Enki commanded him.
+<sup>22</sup> Then when He wills, He will resurrect him.
 
-24. Then let mankind look at his food
+<sup>23</sup> But No! Man has not yet accomplished what Enki commanded him.
 
-25. How We poured down water in torrents,
+<sup>24</sup> Then let mankind look at his food
 
-26. Then We broke open the earth
+<sup>25</sup> How We poured down water in torrents,
 
-27. And caused grain to grow
+<sup>26</sup> Then We broke open the earth and caused:
+- <sup>27</sup> grain to grow
+- <sup>28</sup> grapes and herbage
+- <sup>29</sup>  olive and palm trees
+- <sup>30</sup> gardens of dense shrubbery
+- <sup>31</sup> fruit and grass
+- <sup>32</sup> as enjoyment for you and your grazing livestock.
 
-28. And grapes and herbage
+<sup>33-36</sup> But when there comes the Deafening Blast, man will flee from his brother, mother and father, his consort and his children
 
-29. And olive and palm trees
+<sup>37</sup> For every man, on that Day, will be a matter adequate for him.
 
-30. And gardens of dense shrubbery
+<sup>38-39</sup> Some faces, that Day, will be bright, laughing, rejoicing at good news.
 
-31. And fruit and grass
+<sup>40-41</sup> Other faces, that Day, will have on them dust, covered by blackness
 
-32. As enjoyment for you and your grazing livestock.
-
-33-36. But when there comes the Deafening Blast, 34. man will flee from his brother, mother and father, his consort and his children
-
-37. For every man, on that Day, will be a matter adequate for him.
-
-38. [Some] faces, that Day, will be bright
-
-39. Laughing, rejoicing at good news.
-
-40. And [other] faces, that Day, will have upon them dust.
-
-41. Blackness will cover them.
-
-42. Those are the disbelievers, the wicked ones.
+<sup>42</sup> Those are the disbelievers, the wicked ones.

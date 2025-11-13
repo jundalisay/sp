@@ -3,7 +3,7 @@ title: "Dealing with Disruption"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 
@@ -168,14 +168,10 @@ performance, but it does keep American-made washing machines out of an import-
 ant foreign market. A mutual recognition policy would circumvent the problem.
 
 
-Given the recent interest in increased antitrust enforcement, conservatives
-should embrace policies like mutual recognition that have the double benefit of
-increasing market competition while decreasing government’s regulatory footprint.
+Given the recent interest in increased antitrust enforcement, conservatives should embrace policies like mutual recognition that have the double benefit of increasing market competition while decreasing government’s regulatory footprint.
+
 The U.S. should enact mutual recognition agreements for a wide variety goods
 with the United Kingdom, European Union, Japan, South Korea, Australia, and
-other governments with high standards comparable to our own. This would have
-especially large benefits for pharmaceuticals, because America’s FDA drug approval
-process is both slower and more expensive than those of other countries with-
-out being any safer. Americans would gain access to more and lower-cost medical treatments, and American pharmaceutical companies could defray development costs and innovate faster by gaining access to more markets, all while cutting prices.
+other governments with high standards comparable to our own. 
 
-
+This would have especially large benefits for pharmaceuticals, because America’s FDA drug approval process is both slower and more expensive than those of other countries without being any safer. Americans would gain access to more and lower-cost medical treatments, and American pharmaceutical companies could defray development costs and innovate faster by gaining access to more markets, all while cutting prices.

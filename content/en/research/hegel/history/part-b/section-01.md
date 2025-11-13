@@ -9,23 +9,26 @@ weight: 4
 ---
 
 
-
-B. RELATION OF THE HISTORY OF PHILOSOPHY TO THE REST OF SPIRIT’s MANIFESTATIONS
+### B. Relation Of The History Of Philosophy To The Rest Of Spirit’S Manifestations
 
 The history of philosophy is not independent (fur sich) but is connected with history in general, with external history as well as with the history of religion, etc. 
 
-It is natural, then, that we should recall the principal. moments of political history, the character of the time and the overall situation of the people, wherein philosophy comes info being. In addition, however, the connection with general history is internal, i.e., essential and necessary, not merely external; nor is it merely a question of one being simultaneous with the other (simultaneity is no relationship at all).
+It is natural, then, that we should recall the principal. moments of political history, the character of the time and the overall situation of the people, wherein philosophy comes info being. 
+
+In addition, however, the connection with general history is internal, i.e., essential and necessary, not merely external; nor is it merely a question of one being simultaneous with the other (simultaneity is no relationship at all).
 
 There are, then, two aspects we must take into consideration: first, the properly historical aspect of the relationship, and, secondly, the factual connection, i.e., the connection of philosophy itself with religion and with the other sciences which are related to it. 
 
 These 2 aspects are to be looked at more in detail, in order to distinguish more precisely the concept which characterizes philosophy.
 
 
-I. The Historical Status of Philosophy
+## I. The Historical Status of Philosophy
 
 1. With regard to the historical status of philosophy the first thing to be taken into account is the general relationship which the philosophy of an era has with the rest of the manifestations which characterize the same era.
 
-It is customarily said that the political situation, religion, mythology, etc., are to be taken account of in the history of philosophy, because they have greatly influenced the philosophy of an era, and, in its turn, philosophy has had a great influence on them. If, however, one is to be content with categories such as “great influence,” the effect of one on the other, etc., all one has to do is to show an external connection, i.e., the point of view implies that each is for itself, one independent of the other. 
+It is customarily said that the political situation, religion, mythology, etc., are to be taken account of in the history of philosophy, because they have greatly influenced the philosophy of an era, and, in its turn, philosophy has had a great influence on them.
+
+If, however, one is to be content with categories such as “great influence,” the effect of one on the other, etc., all one has to do is to show an external connection, i.e., the point of view implies that each is for itself, one independent of the other. 
 
 Here, however, we must take an entirely different view of this relationship: the essential category is unity, the inner connection of these diverse manifestations. We must be convinced that there is only one spirit, one principle which manifests itself just as much in the political situation as in religion, art, morality, social relations, commerce, and industry – in such a way that these diverse forms are but branches of one main trunk. This is the main point of view. 
 
@@ -33,7 +36,9 @@ The spirit is only one, it is the one substantial spirit of one period, one peop
 
 It is not to be imagined that politics, civil constitutions, religions, etc., constitute the root or the cause of philosophy, nor that conversely the latter is the foundation of the former. 
 
-In all of these moments there is one character, which is the foundation of all and penetrates all. No matter how diverse the different aspects are, there is nothing contradictory in this. No one of them contains anything heterogeneous to the foundation, however much they may seem to be mutually contradictory. They are simply shoots coming from the same root; and philosophy is one of them.
+In all of these moments there is one character, which is the foundation of all and penetrates all. No matter how diverse the different aspects are, there is nothing contradictory in this. 
+
+No one of them contains anything heterogeneous to the foundation, however much they may seem to be mutually contradictory. They are simply shoots coming from the same root; and philosophy is one of them.
 
 
 2. Philosophy, then, is one aspect of the total manifestation of spirit – consciousness of spirit being its supreme flowering, since its effort is to know what spirit is. 

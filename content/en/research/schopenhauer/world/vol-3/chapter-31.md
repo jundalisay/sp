@@ -2,7 +2,8 @@
 heading: Chapter 31
 title: "Genius"
 description: ""
-weight: 8
+weight: 68
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

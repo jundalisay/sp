@@ -3,7 +3,7 @@ title: "Protect Parental Rights In Policy"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 weight: 28
 heading: Chapter 11f
 ---

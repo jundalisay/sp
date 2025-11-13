@@ -13,22 +13,15 @@ writer:
 
 Temporal justice, which has its seat in the state, is requiting and punishing.
 
-This only becomes justice through a reference to the future. For
-without this reference all punishing and requiting would be an
-outrage without justification, and indeed merely the addition of
-another evil to that which has already occurred, without meaning
-or significance. But it is quite otherwise with eternal justice,
-which was referred to before, and which rules not the state but the
-world, is not dependent upon human institutions, is not subject
-to chance and deception, is not uncertain, wavering, and erring,
-but infallible, fixed, and sure. 
+This only becomes justice through a reference to the future. 
 
-The conception of requital implies
-that of time; therefore eternal justice cannot be requital. Thus
-it cannot, like temporal justice, admit of respite and delay, and
-require time in order to triumph, equalising the evil deed by the
-evil consequences only by means of time. The punishment must
-here be so bound up with the offence that both are one.
+Without this reference, all punishing and requiting would be an outrage without justification, and indeed merely the addition of another evil to that which has already occurred, without meaning or significance.
+
+But it is quite otherwise with eternal justice, which was referred to before, and which rules not the state but the world, is not dependent upon human institutions, is not subject to chance and deception, is not uncertain, wavering, and erring, but infallible, fixed, and sure. 
+
+The conception of requital implies that of time; therefore eternal justice cannot be requital. Thus it cannot, like temporal justice, admit of respite and delay, and require time in order to triumph, equalising the evil deed by the evil consequences only by means of time. 
+
+The punishment must here be so bound up with the offence that both are one.
 
 <!-- îø∫μπƒμ ¿∑¥≥Ω ƒΩ ±¥π∫∑º±ƒΩ μπ¬ ∏μø≈¬
 †ƒμ¡øπ√π, ∫¿μπƒΩ μΩ îπø¬ ¥μªƒø≈ ¿ƒ≈«±π¬

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 33
-title: "The thing-in-itself"
+title: "Knowledge"
 date: 2025-09-20
 description: ""
 weight: 100

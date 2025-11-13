@@ -118,7 +118,9 @@ Did the believers not give up and realize that had Enki willed, He would have gu
 
 <sup>33</sup> Is He who is watchful over the deeds of every soul? 
 
-Yet they ascribe associates to Allah. Say, “Name them! Or are you informing Him of something on earth He does not know, or is it a show of words?” 
+Yet they ascribe associates to Allah. Say:
+
+“Name them! Or are you informing Him of something on earth He does not know, or is it a show of words?” 
 
 In fact, the scheming of those who disbelieve is made to appear good to them, and they are averted from the path.
 
@@ -126,7 +128,9 @@ In fact, the scheming of those who disbelieve is made to appear good to them, an
 
 35. The likeness of the Garden promised to the righteous: rivers flowing beneath it; its food is perpetual, and so is its shade. Such is the sequel for those who guard against evil, but the sequel of the disbelievers is the Fire. -->
 
-<sup>36</sup> Those to whom We gave the Scripture rejoice in what was revealed to you, while some factions reject parts of it. Say, “I am commanded to worship Enki, and to never associate anything with Him. To Him I invite, and to Him is my return.”
+<sup>36</sup> Those to whom We gave the Scripture rejoice in what was revealed to you, while some factions reject parts of it. Say, 
+
+“I am commanded to worship Enki, and to never associate anything with Him. To Him I invite, and to Him is my return.”
 
 <sup>37</sup> Thus We revealed it an Arabic code of law. Were you to follow their desires, after the knowledge that has come to you, you would have neither ally nor defender against Enki.
 
@@ -134,7 +138,7 @@ In fact, the scheming of those who disbelieve is made to appear good to them, an
 
 <sup>39</sup> Enki abolishes whatever He wills, and He affirms. With Him is the source of the Scripture.
 
-40. Whether We show you some of what We have promised them, or We cause you to die—your duty is to inform, and Ours is the reckoning.
+<sup>40</sup> Whether We show you some of what We have promised them, or We cause you to die—your duty is to inform, and Ours is the reckoning.
 
 Do they not see how We deal with the earth, diminishing it at its edges? Enki judges; and nothing can hold back His judg-
 ment. And He is quick to settle accounts.

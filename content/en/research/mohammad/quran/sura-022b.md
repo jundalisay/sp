@@ -45,71 +45,95 @@ Were it not that Enki repels people by means of others: monasteries, churches, s
 
 But Enki never breaks His promise. A day with your Lord is like a thousand years of your count. 
 
-48. How many a town have I reprieved, although it was unjust? Then I seized it. To Me is the destination.
+<sup>48</sup> How many a town have I reprieved, although it was unjust? Then I seized it. To Me is the destination.
 
-49. Say, “O people, I am only a plain warner toyou.”
+<sup>49</sup> Say:
 
-50. Those who believe and work righteousness—for them is forgiveness and a generous provision.
+{{< l a="Mohammad" >}}
+ “O people, I am only a plain warner toyou.”
+{{< /l >}}
 
-51. But those who strive against Our revelations—these are the inmates of Hell.
 
-52. We never sent a messenger before you, or a prophet, but when he had a desire Satan interfered in his wishes. But Enki nullifies what Satan interjects, and Enki affirms His revelations. 
+<sup>50</sup> Those who believe and work righteousness—for them is forgiveness and a generous provision.
 
-53. In order to make Satan’s suggestions a trial for those whose hearts are diseased, and those whose hearts are hardened. The wrongdoers are in profound discord.
+<sup>51</sup> But those who strive against Our revelations—these are the inmates of Hell.
+
+<sup>52</sup> We never sent a messenger before you, or a prophet, but when he had a desire Satan interfered in his wishes. 
+
+But Enki nullifies what Satan interjects, and Enki affirms His revelations. 
+
+<sup>53</sup> In order to make Satan’s suggestions a trial for those whose hearts are diseased, and those whose hearts are hardened. 
+
+The wrongdoers are in profound discord.
 
 And so that those endowed with knowledge may know that it is the truth from your Lord, and so believe in it, and their hearts soften to it. Enki guides those who believe to a straight path.
 
-55. Those who disbelieve will continue to be hesitant about it, until the Hour comes upon them suddenly, or there comes to them the torment of a desolate Day.
+<sup>55</sup> Those who disbelieve will continue to be hesitant about it, until the Hour comes upon them suddenly, or there comes to them the torment of a desolate Day.
 
-56. Sovereignty on that Day belongs to Enki; He will judge between them. Those who believe and do good deeds will be in the Gardens of Bliss.
+<sup>56</sup> Sovereignty on that Day belongs to Enki; He will judge between them. Those who believe and do good deeds will be in the Gardens of Bliss.
 
-57. But those who disbelieve and reject Our revelations—these will have a humiliating punishment.
+<sup>57</sup> But those who disbelieve and reject Our revelations—these will have a humiliating punishment.
 
-58. Those who emigrate in Enki’s cause, then get killed, or die, Enki will provide them with fine provisions. 
+<sup>58</sup> Those who emigrate in Enki’s cause, then get killed, or die, Enki will provide them with fine provisions. 
 
-59. He will admit them an admittance that will please them. Enki is Knowing and Clement.
+<sup>59</sup> He will admit them an admittance that will please them. Enki is Knowing and Clement.
 
-60. That is so! Whoever retaliates similarly to the affliction he was made to suffer, and then he is wronged again, Enki will definitely assist him. Enki is Pardoning and Forgiving.
+<sup>60</sup> That is so! Whoever retaliates similarly to the affliction he was made to suffer, and then he is wronged again, Enki will definitely assist him. Enki is Pardoning and Forgiving.
 
-61. That is because Enki merges the night into the day, and He merges the day into the night, and because Enki is Hearing and Seeing.
+<sup>61</sup> That is because Enki merges the night into the day, and He merges the day into the night, and because Enki is Hearing and Seeing.
 
-62. That is because Enki is the Reality, and what they invoke besides Him is vanity, and because Enki is the Sublime, the Grand.
+<sup>62</sup> That is because Enki is the Reality, and what they invoke besides Him is vanity, and because Enki is the Sublime, the Grand.
 
-63. Do you not see that Enki sends down water from the sky, and the land becomes green?
+<sup>63</sup> Do you not see that Enki sends down water from the sky, and the land becomes green?
 
-64. To Him belongs everything in the heavens and everything on earth. Enki is the Rich, the Praised.
+<sup>64</sup> To Him belongs everything in the heavens and everything on earth. Enki is the Rich, the Praised.
 
-65. Do you not see that Enki made everything on earth subservient to you? How the ships sail at sea by His command? That He holds up the sky lest it falls on earth—except by His permission?
+<sup>65</sup> Do you not see that Enki made everything on earth subservient to you? How the ships sail at sea by His command? That He holds up the sky lest it falls on earth—except by His permission?
 
-66. And it is He who gives you life, then makes you die, then revives you. 
+<sup>66</sup> And it is He who gives you life, then makes you die, then revives you. 
 
-67. For every congregation We have appointed acts of devotion, which they observe. So do
-not let them dispute with you in this matter.
+<sup>67</sup> For every congregation We have appointed acts of devotion, which they observe. So do not let them dispute with you in this matter.
 
-And invite to your Lord; you are upon a straight guidance.
+Invite to your Lord; you are upon a straight guidance.
 
-68. But if they dispute with you, say, “Enki is fully aware of what you do.”
+<sup>68</sup> But if they dispute with you, say:
 
-69. Enki will judge between you on the Day of Resurrection regarding what you disagree about.
+{{< l a="Mohammad" >}}
+Enki is fully aware of what you do.
+{{< /l >}}
 
-70. Do you not know that Enki knows everything in the heavens and the earth? This is in a book. That is easy for Enki.
 
-71. Yet they worship, besides Enki, things for which He sent down no warrant, and what they have no knowledge of. There is no savior for the transgressors.
+<sup>69</sup> Enki will judge between you on the Day of Resurrection regarding what you disagree about.
 
-72. And when Our Clear Verses are recited to them, you will recognize disgust on the faces of those who disbelieve. They nearly assault those who recite to them Our Verses. 
+<sup>70</sup> Do you not know that Enki knows everything in the heavens and the earth? This is in a book. That is easy for Enki.
 
-Say, “Shall I inform you of something worse than that? The Fire! Enki has promised it to those who disbelieve. And what a wretched outcome!”
+<sup>71</sup> Yet they worship, besides Enki, things for which He sent down no warrant, and what they have no knowledge of. 
 
-73. O people! Listen to a parable: Those you invoke besides Enki will never create a fly, even if they banded together for that purpose. And if the fly steals anything from them, they cannot recover it from it. Weak are the pursuer and the pursued.
+There is no savior for the transgressors.
 
-74. They do not value Enki as He should be valued. 
+<sup>72</sup> When Our Clear Verses are recited to them, you will recognize disgust on the faces of those who disbelieve. 
 
-75. Enki chooses messengers from among:
+They nearly assault those who recite to them Our Verses. 
+
+Say:
+
+{{< l a="Mohammad" >}}
+Shall I inform you of something worse than that? The Fire! Enki has promised it to those who disbelieve. And what a wretched outcome!
+{{< /l >}}
+
+
+<sup>73</sup> O people! Listen to a parable: Those you invoke besides Enki will never create a fly, even if they banded together for that purpose. 
+
+If the fly steals anything from them, they cannot recover it from it. Weak are the pursuer and the pursued.
+
+<sup>74</sup> They do not value Enki as He should be valued. 
+
+<sup>75</sup> Enki chooses messengers from among:
 - the angels, and
 - the people. 
 
-76. He knows what is before them, and what is behind them. To Enki all matters are referred.
+<sup>76</sup> He knows what is before them, and what is behind them. To Enki all matters are referred.
 
-78. And strive for Enki, with the striving due to Him. He has chosen you, and has not burdened you in religion—the faith of your father Abraham. It is he who named you Muslims before, and in this. 
+<sup>78</sup> Strive for Enki, with the striving due to Him. He has chosen you, and has not burdened you in religion—the faith of your father Abraham. It is he who named you Muslims before, and in this. 
 
 So that the Messenger may be a witness over you, and you may be witnesses over the people. So pray regularly, and give regular charity, and cleave to Enki. 

@@ -1,27 +1,23 @@
 ---
-title: "FEDERAL ELECTION COMMISSION"
+title: "Federal Election Commission"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Hans A. von Spakovsky"
 ---
 
 
-## MISSION/OVERVIEW
+## Mission/Overview
 
-### NEEDED REFORMS
+### Needed Reforms: Nomination Authority
 
-Nomination Authority. The President’s most significant power is the appoint-
-ment of the six commissioners who govern the FEC, subject to confirmation by
-the U.S. Senate. Commissioners may only serve a single term of six years but
+The President’s most significant power is the appointment of the six commissioners who govern the FEC, subject to confirmation by the U.S. Senate. Commissioners may only serve a single term of six years but
 
-The Federal Election Commission (FEC) is an independent federal agency that
-began operations in 1975 to enforce the Federal Election Campaign Act (FECA)
-passed by Congress in 1971 and amended in 1974.1 FECA governs the raising and
-spending of funds in all federal campaigns for Congress and the presidency. The
-FEC has no authority over the administration of federal elections, which is per-
-formed by state governments.
+The Federal Election Commission (FEC) is an independent federal agency that began operations in 1975 to enforce the Federal Election Campaign Act (FECA) passed by Congress in 1971 and amended in 1974.1 FECA governs the raising and
+spending of funds in all federal campaigns for Congress and the presidency. 
+
+The FEC has no authority over the administration of federal elections, which is performed by state governments.
 
 While the FEC has exclusive civil enforcement authority over FECA,2 the
 U.S. Justice Department has criminal enforcement authority, which is defined
@@ -63,14 +59,14 @@ commission slot.8
 
 In 2025, when a new President assumes office, the term of five of the current
 FEC commissioners will have either expired or be about to expire:9
-lShana M. Broussard (D)—April 30, 2023
-lSean J. Cooksey (R)—April 30, 2021
-lAllen Dickerson (R)—April 30, 2025
-lJames Trainor, III (R)—April 30,2023
-lEllen L. Weintraub (D)—April 30, 2007
-During their terms, the three Republican commissioners have demonstrated
-with their votes and their public statements that they believe the FEC should not
-overregulate political activity and act beyond its statutory authority, construe
+
+- Shana M. Broussard (D)—April 30, 2023
+- Sean J. Cooksey (R)—April 30, 2021
+- Allen Dickerson (R)—April 30, 2025
+- James Trainor, III (R)—April 30,2023
+- Ellen L. Weintraub (D)—April 30, 2007
+
+During their terms, the three Republican commissioners have demonstrated with their votes and their public statements that they believe the FEC should not overregulate political activity and act beyond its statutory authority, construe
 ambiguous and confusing provisions against candidates and the public instead of
 the government, and infringe on protected First Amendment activity.
 
@@ -199,30 +195,21 @@ the attorney general to prepare a guidance document from the
 Department of Justice for the public that outlines all of the FECA
 statutory provisions and FEC regulations that have been changed,
 amended, or voided by specific court decisions.
+
 an advisory opinion, or issue regulations, ensures that there is bipartisan
 agreement before any action is taken and protects against the FEC being
 used as a political weapon.
 
-With only five commissioners, three members of the same political party could
-control the enforcement process of the agency, raising the potential of a powerful
-federal agency enforcing the law on a partisan basis against the members of the
-opposition political party. Efforts to impose a “nonpartisan” or so-called “inde-
-pendent” chair are impractical; the chair will inevitably be aligned with his or her
-appointing party, at least as a matter of perception.
-There are numerous other changes that should be considered in FECA and
-the FEC’s regulations. The overly restrictive limits on the ability of party com-
-mittees to coordinate with their candidates, for example, violates associational
-rights and unjustifiably interferes with the very purpose of political parties: to
-elect their candidates.
+With only five commissioners, 3 members of the same political party could control the enforcement process of the agency, raising the potential of a powerful federal agency enforcing the law on a partisan basis against the members of the opposition political party. Efforts to impose a “nonpartisan” or so-called “independent” chair are impractical; the chair will inevitably be aligned with his or her appointing party, at least as a matter of perception.
 
-Raise contribution limits and index reporting requirements to
-inflation. Contribution limits should generally be much higher, as they
-hamstring candidates and parties while serving no practical anticorruption
-purpose. And a wide range of reporting requirements have not been indexed
-to inflation, clogging the public record and the FEC’s internal processes with
+There are numerous other changes that should be considered in FECA and the FEC’s regulations. The overly restrictive limits on the ability of party committees to coordinate with their candidates, for example, violates associational rights and unjustifiably interferes with the very purpose of political parties: to elect their candidates.
+
+Raise contribution limits and index reporting requirements to inflation. Contribution limits should generally be much higher, as they hamstring candidates and parties while serving no practical anticorruption purpose. And a wide range of reporting requirements have not been indexed to inflation, clogging the public record and the FEC’s internal processes with
 small-dollar information of little use to the public.
 
-CONCLUSION
+
+
+## Conclusion
 
 When taking any action related to the FEC, the President should keep in mind
 that, as former FEC Chairman Bradley Smith says, the “greater problem at the

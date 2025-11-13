@@ -83,7 +83,11 @@ Your coming has been fruitful, Heart of Heaven; and you, Huracán*, and you, Chi
 
 {{< n n="These are the suppliers of the genetic material for plants and animals for Earth" >}}
 
-"Our work, our creation shall be finished," they answered.
+
+{{< r a="Huracan" >}}
+Our work, our creation shall be finished
+{{< /r >}}
+
 
 First the earth was formed, the mountains and the valleys. 
 

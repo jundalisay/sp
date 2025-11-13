@@ -1,11 +1,12 @@
 ---
-title: "Propositions 11-13"
-weight: 6
+title: "The Object of the Idea"
+heading: Propositions 11-13
+weight: 16
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
 c: "indigo"
-icon: "/icons/spinoza.png"
+icon: "Spinoza"
 description: "The first element, which constitutes the actual being of the human mind, is the idea of some particular thing actually existing"
 ---
 

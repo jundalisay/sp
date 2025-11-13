@@ -2,7 +2,7 @@
 heading: Chapter 11c
 title: The Occult
 date: "2019-07-21"
-weight: 52
+weight: 725
 image: /photos/psych/meditate.jpg
 description: "Consciousness is the perception of ideas and feelings"
 writer:
@@ -15,7 +15,6 @@ icon: "Juan"
 "Occult" comes from the Latin word occultus, meaning "hidden", "secret", or "concealed".
 
 The concealement is done by the Negative Force which creates the illusion of separate existences.
-
 
 This will discuss the harnessing of the upper chakras.
 

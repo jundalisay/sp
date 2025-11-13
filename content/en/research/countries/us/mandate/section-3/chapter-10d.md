@@ -3,7 +3,7 @@ title: "Reduce the premium subsidy rate for crop insurance"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 weight: 12
 author: "Daren Bakst"
 ---

@@ -1,18 +1,14 @@
+---
+title:  "How to enrich our Country By Increasing Sales"
+heading:  "Chapters 2-3"
+date:  2020-01-18
+weight: 4
+c: "firebrick"
+description:  "Mun advocates export-driven economic growth 'to sell more than we buy of theirs in value'"
+---
 
 
-+++
-title=  "How to enrich our Country"
-heading=  "Chapters 2 and 3 "
-date=  2020-01-30
-image=  "/covers/treasure.jpg"
-description=  "Mun advocates export-driven economic growth 'to sell more than we buy of theirs in value'"
-linkb=  "/research/mun/englands-treasure/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/mun/englands-treasure/chapter-4"
-linkftext=  "Chapter 4"
-+++
-
-## Chap 2=  How to enrich our Country and Increase our Wealth
+## Chapter 2: How to enrich our Country and Increase our Wealth
 
 A Kingdom might be enriched by gifts received, or by government-to-government transactions. Yet these are things uncertaim and of small consideration when they happen.
 
@@ -36,7 +32,7 @@ I will thereby show that all the other means commonly supposed to enrich the nat
 
 ## Chapter 3: How to Increase our sales and reduce our purchases [Supply and Demand Curve]
 
-In our sales overseas, we must think of our neighbours' necessities, so that we can= 
+In our sales overseas, we must think of our neighbours' necessities, so that we can:
 - make as much of the goods they want that are unavailable anywhere else
 - sell them dear as long as the high price does not reduce our sales.
 

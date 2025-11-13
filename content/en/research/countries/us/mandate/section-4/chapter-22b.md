@@ -1,9 +1,9 @@
 ---
-title: "TAX POLICY"
+title: "Tax Policy"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 22b
 weight: 30
 ---
@@ -18,7 +18,7 @@ Tax reform should improve incentives to work, save, and invest by:
 Tax compliance costs will decline precipitously if the tax system is substantially simplified.15 The Treasury Department should also promote tax competition rather than supporting an international tax cartel.
 
 
-### Principles of Good Tax Policy. 
+## Principles of Good Tax Policy
 
 1. The tax system should raise the revenue necessary to fund a limited government.
 
@@ -31,9 +31,11 @@ It should raise this revenue such that it:
 
 2. The tax system should minimize its adverse impact on the family and the core institutions of civil society.
 
-3.. The tax system should be applied consistently—with special privileges for none—and respect taxpayer due process and privacy rights.
+3. The tax system should be applied consistently—with special privileges for none—and respect taxpayer due process and privacy rights.
 
-The current tax system is inconsistent with these principles and needs to be reformed to promote prosperity, reduce compliance costs, and improve fairness.  The incoming Administration should promote immediate intermediate reforms to the existing system. It should then pursue fundamental tax reform.
+The current tax system is inconsistent with these principles and needs to be reformed to promote prosperity, reduce compliance costs, and improve fairness.  
+
+The incoming Administration should promote immediate intermediate reforms to the existing system. It should then pursue fundamental tax reform.
 
 
 ### Intermediate Tax Reform.
@@ -90,16 +92,10 @@ to create a global tax cartel to quash tax competition and to increase the tax b
 globally. The U.S. should not outsource its tax policy to international organizations.
 Organization for Economic Co-operation and Development.
 
-The Organization for Economic Co-operation and Development (OECD), in conjunction with
-the European Union, has long tried to end financial privacy and impose regulations
-on countries with low (or no) income taxes. In fact, on tax, environmental, corpo-
-rate governance and employment issues, the OECD has become little more than
-a taxpayer-funded left-wing think tank and lobbying organization.32 The United
-States provides about one-fifth of OECD’s funding.33 The U.S. should end its finan-
-cial support and withdraw from the OECD.
+The Organization for Economic Co-operation and Development (OECD), in conjunction with the European Union, has long tried to end financial privacy and impose regulations on countries with low (or no) income taxes. In fact, on tax, environmental, corpo- rate governance and employment issues, the OECD has become little more than a taxpayer-funded left-wing think tank and lobbying organization.32 The United States provides about one-fifth of OECD’s funding.33 The U.S. should end its finan- cial support and withdraw from the OECD.
 
 
-### TAX ADMINISTRATION
+### Tax Administration
 
 The Internal Revenue Service is a poorly managed, utterly unresponsive and
 increasingly politicized agency, and has been for at least two decades. It is time for
@@ -126,42 +122,18 @@ for all affected payees, as well as provide additional information.35 This massi
 increase in the scope and breadth of information reporting should be unequivo-
 cally opposed.
 
-Management. The IRS has approximately 81,000 employees.36 Of those, only
-two are presidential appointments—the Commissioner and the Chief Counsel.37
-As a practical matter, it is impossible for these two officials to overcome bureau-
-cratic inertia and to implement policy changes that the IRS bureaucracy wants to
-impede. That is why, notwithstanding decades of sound and fury, almost nothing
-has changed at the IRS.
+### Management
 
-For the IRS to change and become more accountable, more transparent, and
-better managed, there is a need to increase the number of Presidential appoint-
-ments subject to Senate confirmation, and not subject to Senate confirmation, at
-the IRS. At the very least, Congress should ensure that the Deputy Commissioner
-for Services and Enforcement, the Deputy Commissioner for Operations Support,
-the National Taxpayer Advocate, the Commissioner of the Wage and Investment
-Division, the Commissioner of the Large Business and International Division,
-the Commissioner of the Small Business Self-Employed Division, and the Com-
-missioner of the Tax Exempt and Government Entities Division are presidential
-appointees.38
+The IRS has approximately 81,000 employees.36 Of those, only two are presidential appointments—the Commissioner and the Chief Counsel.37 As a practical matter, it is impossible for these two officials to overcome bureau- cratic inertia and to implement policy changes that the IRS bureaucracy wants to impede. That is why, notwithstanding decades of sound and fury, almost nothing has changed at the IRS.
 
-Information Technology. Despite the investment of billions of dollars for at
-least two decades, IRS information technology (IT) systems remain deficient.39
-The IRS inadequately protects taxpayer information, its IT systems do not ade-
-quately support operations or taxpayer services, and its matching and detection
-algorithms are antiquated.
+For the IRS to change and become more accountable, more transparent, and better managed, there is a need to increase the number of Presidential appoint- ments subject to Senate confirmation, and not subject to Senate confirmation, at the IRS. At the very least, Congress should ensure that the Deputy Commissioner for Services and Enforcement, the Deputy Commissioner for Operations Support, the National Taxpayer Advocate, the Commissioner of the Wage and Investment Division, the Commissioner of the Large Business and International Division, the Commissioner of the Small Business Self-Employed Division, and the Com- missioner of the Tax Exempt and Government Entities Division are presidential appointees.38
 
-These problems are not primarily about resources. The IRS has spent approxi-
-mately $27 billion on IT during the past decade, with $7 billion of that designated
-as “development, modernization and enhancement.“40 The problem is one of man-
-agement. The bureaucracy is not up to the task, and neither Congress nor a long
-line of IRS commissioners has forced changes.
 
-A Deputy Commissioner for Operations Support with strong IT management
-skills should be appointed by the IRS Commissioner or the President (once the
-position is made a presidential appointment). The various subordinates to the
-Deputy Commissioner should be replaced. A thorough review of IT contracts
-should be conducted. The Integrated Modernization Business Plan41 should be
-systematically reviewed and a version of it cost-effectively implemented. An over-
-sight board composed of private sector IT experts should be established and given
-the authority to conduct meaningful, contemporaneous oversight.
+### Information Technology
+
+Despite the investment of billions of dollars for at least two decades, IRS information technology (IT) systems remain deficient.39 The IRS inadequately protects taxpayer information, its IT systems do not ade- quately support operations or taxpayer services, and its matching and detection algorithms are antiquated.
+
+These problems are not primarily about resources. The IRS has spent approxi- mately $27 billion on IT during the past decade, with $7 billion of that designated as “development, modernization and enhancement.“40 The problem is one of man- agement. The bureaucracy is not up to the task, and neither Congress nor a long line of IRS commissioners has forced changes.
+
+A Deputy Commissioner for Operations Support with strong IT management skills should be appointed by the IRS Commissioner or the President (once the position is made a presidential appointment). The various subordinates to the Deputy Commissioner should be replaced. A thorough review of IT contracts should be conducted. The Integrated Modernization Business Plan41 should be systematically reviewed and a version of it cost-effectively implemented. An over- sight board composed of private sector IT experts should be established and given the authority to conduct meaningful, contemporaneous oversight.
 

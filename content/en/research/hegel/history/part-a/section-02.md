@@ -43,7 +43,10 @@ This, after all, is a course in history, and we must proceed historically, i.e.,
 
 This is the sense, the meaning, of the history of philosophy. Philosophy develops through its history, and vice versa. 
 
-Philosophy and history of philosophy mirror each other. To study the history of philosophy is to study philosophy itself, and this principally as a logic. We shall speak further on of the concrete. In order to interpret the history of philosophy in this way, one must, it is true, previously know what philosophy is and what its history is. Still, one must not take an a priori view of the history of philosophy based on the principles of one philosophy. Purely historically, thought shows the way it progresses for itself.
+Philosophy and history of philosophy mirror each other. To study the history of philosophy is to study philosophy itself, and this principally as a logic. We shall speak further on of the concrete. 
+
+In order to interpret the history of philosophy in this way, one must, it is true, previously know what philosophy is and what its history is. Still, one must not take an a priori view of the history of philosophy based on the principles of one philosophy. Purely historically, thought shows the way it progresses for itself.
+
 
 c. How does the development of philosophy make its appearance in time? 
 

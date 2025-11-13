@@ -18,7 +18,8 @@ The nation's money can be commonly altered in three ways:
 3. When the standard is debased or enriched in the fineness of the gold and silver, yet the money continues in their former values.
 
 We always see people trying to supply the want for money, while keeping its plenty.
-They end up altering the money and say that= 
+
+They end up altering the money and say that:
 - the raising of the value of the coins will cause it to go overseas in hope of the gain,
 - the debasing of the money in the fineness or weight will keep it here for fear of the loss.
 
@@ -26,8 +27,11 @@ But these men only look at the beginning of this weighty business. They do not c
 Money is the true measure of all our local and foreign trade.
 
 This should be kept just and constant to avoid those confusions which accompany such alterations.
+
 If the common measure was changed at home, our local and foreign lands, leases, wares must alter in proportion.
+
 This is done with trouble and damage to some men in the short term.
+
 The intrinsic value of our coins is respected, not the denomination of our pounds, shillings, and pence.
 
 We have little  reason to add any further estimation or worth to those coins, because this would be= 
@@ -38,7 +42,9 @@ These methods hurt the people much and do not help the King.
 
 If the Mint debased once, the current and future tax revenue of His Majesty would suffer because they will be paid with money of less intrinsic value.
 
-Nor can it be said that the loss of the Kingdom would be the profit of the King. All estates (be it leases, lands, debts, wares or mony) must likewise suffer in their proportions, whereas His Majesty would gain only slightly from so much ready new coins. The estates might be worth £10,000 each. In total, they would be many millions pounds combined. Yet their owners do not have such money. They might only have £50 at home to to defray necessary charges. They get the rest by running from man to man to do trade for profit. Thus, fewer coins are enough to distribute great matters daily to all men in their just proportions.
+Nor can it be said that the loss of the Kingdom would be the profit of the King. All estates (be it leases, lands, debts, wares or mony) must likewise suffer in their proportions, whereas His Majesty would gain only slightly from so much ready new coins.
+
+The estates might be worth £10,000 each. In total, they would be many millions pounds combined. Yet their owners do not have such money. They might only have £50 at home to to defray necessary charges. They get the rest by running from man to man to do trade for profit. Thus, fewer coins are enough to distribute great matters daily to all men in their just proportions.
 
 Our old mony becomes light and would yield no profit at the Mint. Our heavy money would cause our vigilant neighbours to bring it overseas to be minted there. Our own Countrymen would turn into Coiners for this profit. This would cause His Majesty in the end to get little by such alterations.
 
@@ -48,7 +54,9 @@ Secondly, if we are inconsistent in our Coins and violate the Laws of foreign Co
 
 But some will yet say, that if our coin is raised while other Countries do not, then it will cause more Bullion and foreign coins to be brought in than before. 
 
-I answer that in such a case, it must be performed either by our Merchant exporters, or by foreign Merchants who imports our Commodities. But neither of these can be more advantageous than not changing the coin. <!--  by this Art now, than they might have had before the alteration of the coin.  --> For if Bullion and foreign Coins are more worth than our coins, what shall they get when these moneys are baser or lighter and have risen in proportion? 
+I answer that in such a case, it must be performed either by our Merchant exporters, or by foreign Merchants who imports our Commodities. 
+
+But neither of these can be more advantageous than not changing the coin. <!--  by this Art now, than they might have had before the alteration of the coin.  --> For if Bullion and foreign Coins are more worth than our coins, what shall they get when these moneys are baser or lighter and have risen in proportion? 
 
 Thus, these Innovations are no good in bringing treasure into the Kingdom, nor keeping it. 
 

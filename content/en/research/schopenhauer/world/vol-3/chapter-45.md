@@ -2,7 +2,8 @@
 heading: Chapter 45
 title: "The Assertion Of The Will To Live"
 description: ""
-weight: 8
+weight: 196
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -11,10 +12,10 @@ writer:
 
 
 
-40 This chapter is connected with § 60 of the first volume.
+This chapter is connected with § 60 of the first volume.
 
-If the will to live exhibited itself merely as an impulse to self-preservation, this would only be an assertion of the individual
-phenomenon for the span of time of its natural duration. 
+
+If the will to live exhibited itself merely as an impulse to self-preservation, this would only be an assertion of the individual phenomenon for the span of time of its natural duration. 
 
 The cares and troubles of such a life would not be great, and consequently existence would be easy and serene. Since, on the
 contrary, the will wills life absolutely and for all time, it exhibits
@@ -29,8 +30,7 @@ which changes its course. The will does not then transcend the
 individual, but is abolished in it. Yet this can only take place
 by means of the individual doing painful violence to itself. 
 
-If,
-however, it does take place, then the freedom from care and
+If, however, it does take place, then the freedom from care and
 the serenity of the purely individual existence is restored to the
 consciousness, and indeed in a higher degree. On the other hand,
 to the satisfaction of that most vehement of all impulses and
@@ -77,8 +77,7 @@ fill the scene. It is the theme of Æschylus.
 But now the act through which the will asserts itself and man
 arises is one of which all are, in their inmost being, ashamed,
 which they therefore carefully conceal; nay, if they are caught in
-it, are terrified as if they had been taken in a crime. It is an action of which in cold reflection one generally thinks with dislike, and
-in a lofty mood with loathing. Reflections which in this regard
+it, are terrified as if they had been taken in a crime. It is an action of which in cold reflection one generally thinks with dislike, and in a lofty mood with loathing. Reflections which in this regard
 approach the matter more closely are offered by Montaigne in
 the fifth chapter of the third book, under the marginal heading:
 “Ce que c'est que l'amour.” A peculiar sadness and repentance
@@ -194,8 +193,3 @@ bring the latter to consciousness in a mythical form. We have
 consequently no ground for assuming that a still more highly
 developed objectification of the will is ever reached, anywhere;
 for it has already reached its turning-point here.
-
-
-41 This chapter is connected with §§ 56-59 of the first volume. Also chapters
-11 and 12 of the second volume of the “Parerga and Paralipomena” should be
-compared with it.

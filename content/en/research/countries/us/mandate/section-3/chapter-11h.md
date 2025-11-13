@@ -3,7 +3,7 @@ title: "NEW AGENCY POLICIES THAT DON’T REQUIRE NEW LEGISLATION OR REGULATIONS 
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 weight: 32
 ---
 

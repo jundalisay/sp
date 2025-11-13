@@ -10,9 +10,12 @@ description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Ec
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 toc: false
+aliases:
+  /social/economics/fallacies/supply
 ---
+
 
 
 Chapter 3 explained the different types of effort. 

@@ -102,6 +102,8 @@ Let `S` be the Sun.
  <!-- start to decrease in size towards the Sun.  -->
  <!-- celestial -->
 
+{{< i s="/graphics/d/comet.jpg" a="Comet tail" >}}
+
  <!-- sky -->
 `C` is a comet in our solar system. The Sun's rays striking this comet are reflected towards all parts of the spheroid `DEFGH`. Those perpendicular to F mainly go straight to `3` but are also scattered sideways. 
 

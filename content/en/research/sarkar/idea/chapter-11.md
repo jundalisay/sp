@@ -9,10 +9,9 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: "PR Sarkar"
-# aliases:
-#   /research/indian/idea/chapter-11
+aliases:
+  /research/indian/idea/chapter-11
 ---
-
 
 
 Spirituality is not a utopian ideal. 

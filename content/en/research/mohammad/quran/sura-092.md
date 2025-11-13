@@ -36,13 +36,12 @@ By:
 
 <sup>18</sup> [He] who gives [from] his wealth to purify himself
 
-19. And not [giving] for anyone who has [done him] a favor to be
+<sup>19</sup> And not [giving] for anyone who has [done him] a favor to be
 rewarded 1809
 
-20. But only seeking the countenance of his Lord, Most High.
+<sup>20</sup> But only seeking the countenance of his Lord, Most High.
 
-21. And he is going to be satisfied.
-
+<sup>21</sup> He is going to be satisfied.
 
 
 ## 93. MORNING LIGHT (adh-Duha)

@@ -67,6 +67,7 @@ one idea with others, and a comparison only in the one respect
 of quantity, this also is not the information we are principally in
 search of.
 
+
 ### Natural science
 
 This is divided into 2:

@@ -34,6 +34,7 @@ Carrying Hun-Hunahpú's arm, Vucub-Caquix went home, and arrived there nursing h
 What has happened to you, my lord?
 {{< /r >}}
 
+
 {{< l a="Vucub-Caquix" >}}
 Two demons shot me with blowguns and dislocated my jaw. That is why my teeth are loose and pain me very much. But I have brought his arm, to put it on the fire. Let it hang there over the fire, for surely these demons will come looking for it.
 {{< /l  >}}
@@ -48,9 +49,9 @@ Having thought it over, Hun-Hunahpú and Xbalanqué went to talk with:
 They were really very old and humble, already bent. 
 
 
-{{< q a="Hunahpu-Xbalanque" >}}
+{{< l a="Hunahpu-Xbalanque" >}}
 Come with us to Vucub-Caquix's house to get our arm. We will follow you, and you shall tell them: 'These with us are our grandchildren; their mother and father are dead; so they follow us everywhere we are given alms, for the only thing that we know how to do is take the worm from the teeth.' In this way, Vucub-Caquix shall think we are boys and we shall also be there to advise you
-{{< /q >}}
+{{< /l >}}
 
 The old persons agreed. 
 
@@ -132,4 +133,4 @@ Having recovered the arm of Hun-Hunahpú, they put it in place, and it was all r
 
 It was only to bring about the death of Vucub-Caquix that they did this, because it seemed wicked to them that he should become so arrogant.
 
-The two youths went on, having in this way carried out the order of the Heart of Heaven.
+The 2 youths went on, having in this way carried out the order of the Heart of Heaven.

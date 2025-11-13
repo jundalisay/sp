@@ -1,12 +1,12 @@
 ---
 heading: "Proposition 13"
 title: The Nature of Bodies
-weight: 6
+weight: 18
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
 c: "indigo"
-icon: "/icons/spinoza.png"
+icon: "Spinoza"
 description: "The object of the human mind is the human body."
 ---
 
@@ -92,14 +92,14 @@ If A is subsequently found to be at rest, this rest cannot be the result of A's 
 The state of rest therefore must have resulted from an external cause which was not in A that determined A to be in a state of rest.
 
 
-#### Axiom 1: All modes, wherein one body is affected by another body, follow simultaneously from the nature of the body affected and the body affecting
+### Axiom 1: All modes, wherein one body is affected by another body, follow simultaneously from the nature of the body affected and the body affecting
 
 So that one and the same body may be moved in different modes, according to the difference in the nature of the bodies moving it.
 
 On the other hand, different bodies may be moved in different modes by one and the same body.
 
 
-#### Axiom 2: When a body in motion impinges on another body at rest, which it is unable to move, it recoils.
+### Axiom 2: When a body in motion impinges on another body at rest, which it is unable to move, it recoils.
 
 In order to continue its motion, and the angle made by the line of motion in the recoil and the plane of the body at rest, whereon the moving body has impinged, will be equal to the angle formed by the line of motion of incidence and the same plane.
 
@@ -112,7 +112,8 @@ Definition: When any given bodies of the same or different magnitude are compell
 
 Together, they compose one body. This is  distinguished from other bodies by this union.
 
-#### Axiom 3: In proportion as the parts of an individual, or a compound body, are in contact over a greater or less superficies, they will with greater or less difficulty admit of being moved from their position.
+
+### Axiom 3: In proportion as the parts of an individual, or a compound body, are in contact over a greater or less superficies, they will with greater or less difficulty admit of being moved from their position.
 
 Consequently the body will, with greater or less difficulty, be brought to assume another form.
 

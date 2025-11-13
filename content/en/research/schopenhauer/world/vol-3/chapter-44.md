@@ -2,7 +2,8 @@
 heading: Chapter 44
 title: "The Metaphysics Of The Love Of The Sexes"
 description: ""
-weight: 8
+weight: 190
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -11,7 +12,7 @@ writer:
 
 
 
-“Ye wise men, highly, deeply learned,
+<!-- “Ye wise men, highly, deeply learned,
 Who think it out and know,
 How, when, and where do all things pair?
 Why do they kiss and love?
@@ -19,13 +20,9 @@ Ye men of lofty wisdom, say
 What happened to me then;
 Search out and tell me where, how, when,
 And why it happened thus.”
-—BÜRGER.
+—BÜRGER. -->
 
-This chapter is the last of four whose various reciprocal relations,
-by virtue of which, to a certain extent, they constitute a subordi-
-nate whole, the attentive reader will recognise without it being
-needful for me to interrupt my exposition by recalling them or
-referring to them.
+This chapter is the last of four whose various reciprocal relations, by virtue of which, to a certain extent, they constitute a subordinate whole, the attentive reader will recognise without it being needful for me to interrupt my exposition by recalling them or referring to them.
 
 We are accustomed to see poets principally occupied with
 describing the love of the sexes. This is as a rule the chief theme
@@ -35,7 +32,9 @@ material of by far the largest part of lyrical and also of epic
 poetry, especially if we class with the latter the enormous piles
 of romances which for centuries every year has produced in all
 the civilised countries of Europe as regularly as the fruits of the
-earth. As regards their main contents, all these works are nothing
+earth. 
+
+As regards their main contents, all these works are nothing
 else than many-sided brief or lengthy descriptions of the passion
 we are speaking of. Moreover, the most successful pictures
 of it—such, for example, as Romeo and Juliet, La Nouvelle
@@ -100,21 +99,18 @@ without practical knowledge, therefore it is also partly incorrect.
 Lastly, Platner's treatment of the matter in his “Anthropology”
 (§ 1347 seq.) every one will find dull and shallow. On the other
 hand, Spinoza's definition, on account of its excessive naïveté,
-deserves to be quoted for the sake of amusement: “Amor est
-titillatio, concomitante idea causæ externæ” (Eth. iv., prop. 44,
+deserves to be quoted for the sake of amusement: “Amor est titillatio, concomitante idea causæ externæ” (Eth. iv., prop. 44,
 dem.) Accordingly I have no predecessors either to make use of
 or to refute. The subject has pressed itself upon me objectively,
 and has entered of its own accord into the connection of my
 consideration of the world. Moreover, least of all can I hope for
-approbation from those who are themselves under the power of [339]
-this passion, and who accordingly seek to express the excess of
-their feelings in the sublimest and most ethereal images. To them
-my view will appear too physical, too material, however meta-
-physical and even transcendent it may be at bottom. Meanwhile
-330 The World as Will and Idea (Vol. 3 of 3)
-let them reflect that if the object which to-day inspires them to
+approbation from those who are themselves under the power of this passion, and who accordingly seek to express the excess of
+their feelings in the sublimest and most ethereal images. 
+
+To them my view will appear too physical, too material, however metaphysical and even transcendent it may be at bottom. Meanwhile let them reflect that if the object which to-day inspires them to
 write madrigals and sonnets had been born eighteen years earlier
 it would scarcely have won a glance from them.
+
 For all love, however ethereally it may bear itself, is rooted in
 the sexual impulse alone, nay, it absolutely is only a more def-
 initely determined, specialised, and indeed in the strictest sense
@@ -128,26 +124,19 @@ mankind, is the ultimate goal of almost all human effort, exerts
 an adverse influence on the most important events, interrupts the
 most serious occupations every hour, sometimes embarrasses for
 a while even the greatest minds, does not hesitate to intrude with
-its trash interfering with the negotiations of statesmen and the in-
-vestigations of men of learning, knows how to slip its love letters
-and locks of hair even into ministerial portfolios and philosoph-
-ical manuscripts, and no less devises daily the most entangled
-and the worst actions, destroys the most valuable relationships,
-breaks the firmest bonds, demands the sacrifice sometimes of
-life or health, sometimes of wealth, rank, and happiness, nay,
+its trash interfering with the negotiations of statesmen and the investigations of men of learning, knows how to slip its love letters and locks of hair even into ministerial portfolios and philosophical manuscripts, and no less devises daily the most entangled and the worst actions, destroys the most valuable relationships, breaks the firmest bonds, demands the sacrifice sometimes of life or health, sometimes of wealth, rank, and happiness, nay,
 robs those who are otherwise honest of all conscience, makes
 those who have hitherto been faithful, traitors; accordingly, on
 the whole, appears as a malevolent demon that strives to pervert,
 confuse, and overthrow everything;—then one will be forced
 to cry, Wherefore all this noise? Wherefore the straining and
 storming, the anxiety and want? It is merely a question of[340]
-every Hans finding his Grethe.37 Why should such a trifle play
-so important a part, and constantly introduce disturbance and
-confusion into the well-regulated life of man? But to the earnest
-37 I have not ventured to express myself distinctly here: the courteous reader
-must therefore translate the phrase into Aristophanic language.
-331
-investigator the spirit of truth gradually reveals the answer. It is
+every Hans finding his Grethe.37 
+
+Why should such a trifle play so important a part, and constantly introduce disturbance and
+confusion into the well-regulated life of man? 
+
+But to the earnest investigator the spirit of truth gradually reveals the answer. It is
 no trifle that is in question here; on the contrary, the importance
 of the matter is quite proportionate to the seriousness and ardour
 of the effort. The ultimate end of all love affairs, whether they
@@ -167,6 +156,7 @@ knowledge of it in its application if we go through the degrees of
 love, from the passing inclination to the vehement passion, when
 we shall also recognise that the difference of these grades arises
 from the degree of the individualisation of the choice.
+
 The collective love affairs of the present generation taken
 together are accordingly, of the whole human race, the serious
 meditatio compositionis generationis futuræ, e qua iterum pen-
@@ -179,12 +169,10 @@ is on which the pathetic and sublime elements in affairs of love
 depend, which for thousands of years poets have never wearied
 of representing in innumerable examples; because no theme can
 equal in interest this one, which stands to all others which only
-concern the welfare of individuals as the solid body to the sur-
-face, because it concerns the weal and woe of the species. Just on
-332 The World as Will and Idea (Vol. 3 of 3)
-this account, then, is it so difficult to impart interest to a drama
+concern the welfare of individuals as the solid body to the surface, because it concerns the weal and woe of the species. Just on this account, then, is it so difficult to impart interest to a drama
 without the element of love, and, on the other hand, this theme is
 never worn out even by daily use.
+
 That which presents itself in the individual consciousness as
 sexual impulse in general, without being directed towards a def-
 inite individual of the other sex, is in itself, and apart from the
@@ -1255,76 +1243,61 @@ degrees up to that of passionate love, depends upon the highly
 serious interest which man takes in the special personal consti-
 tution of the next generation. Now this exceedingly remarkable
 interest confirms two truths which have been set forth in the
-preceding chapters. (1.) The indestructibility of the true nature of
-man, which lives on in that coming generation. For that interest
-which is so lively and eager, and does not spring from reflection
-and intention, but from the inmost characteristics and tendencies
-of our nature, could not be so indelibly present and exercise such
-great power over man if he were absolutely perishable, and were
-merely followed in time by a race actually and entirely different
-from him. (2.) That his true nature lies more in the species than
-in the individual. For that interest in the special nature of the
-species, which is the root of all love, from the passing inclination
-to the serious passion, is for every one really the highest concern,
-the success or failure of which touches him most sensibly; there-
-fore it is called par excellence the affair of the heart. Moreover,
-when this interest has expressed itself strongly and decidedly,
-everything which merely concerns one's own person is postponed
-and necessarily sacrificed to it. Through this, then, man shows
-that the species lies closer to him than the individual, and he
-lives more immediately in the former than in the latter. Why
-does the lover hang with complete abandonment on the eyes of
-his chosen one, and is ready to make every sacrifice for her?
+preceding chapters. 
+
+1. The indestructibility of the true nature of man, which lives on in that coming generation. 
+
+For that interest which is so lively and eager, and does not spring from reflection and intention, but from the inmost characteristics and tendencies of our nature, could not be so indelibly present and exercise such great power over man if he were absolutely perishable, and were merely followed in time by a race actually and entirely different from him.
+
+2. That his true nature lies more in the species than in the individual. 
+
+For that interest in the special nature of the species, which is the root of all love, from the passing inclination to the serious passion, is for every one really the highest concern, the success or failure of which touches him most sensibly; therefore it is called par excellence the affair of the heart. 
+
+Moreover, when this interest has expressed itself strongly and decidedly, everything which merely concerns one's own person is postponed and necessarily sacrificed to it. Through this, then, man shows that the species lies closer to him than the individual, and he
+lives more immediately in the former than in the latter. 
+
+Why does the lover hang with complete abandonment on the eyes of his chosen one, and is ready to make every sacrifice for her? 
+
 Because it is his immortal part that longs after her; while it is
 only his mortal part that desires everything else. That vehement
 or intense longing directed to a particular woman is accordingly
 an immediate pledge of the indestructibility of the kernel of our
-being, and of its continued existence in the species. But to regard
-this continued existence as something trifling and insufficient is
-364 The World as Will and Idea (Vol. 3 of 3)
-an error which arises from the fact that under the conception of
-the continued life of the species one thinks nothing more than the[374]
+being, and of its continued existence in the species. 
+
+But to regard this continued existence as something trifling and insufficient is an error which arises from the fact that under the conception of the continued life of the species one thinks nothing more than the[374]
 future existence of beings similar to us, but in no regard identical
-with us; and this again because, starting from knowledge directed
-towards without, one takes into consideration only the external
-form of the species as we apprehend it in perception, and not
-its inner nature. But it is just this inner nature which lies at the
+with us.
+
+This again because, starting from knowledge directed towards without, one takes into consideration only the external
+form of the species as we apprehend it in perception, and not its inner nature. But it is just this inner nature which lies at the
 foundation of our own consciousness as its kernel, and hence
 indeed is more immediate than this itself, and, as thing in itself,
 free from the principium individuationis, is really the same and
 identical in all individuals, whether they exist together or after
 each other. Now this is the will to live, thus just that which
 desires life and continuance so vehemently. This accordingly
-is spared and unaffected by death. It can attain to no better
-state than its present one; and consequently for it, with life, the
-constant suffering and striving of the individuals is certain. To
-free it from this is reserved for the denial of the will to live, as
-the means by which the individual will breaks away from the
-stem of the species, and surrenders that existence in it. We lack
-conceptions for that which it now is; indeed all data for such
+is spared and unaffected by death. 
+
+It can attain to no better state than its present one; and consequently for it, with life, the
+constant suffering and striving of the individuals is certain. To free it from this is reserved for the denial of the will to live, as the means by which the individual will breaks away from the stem of the species, and surrenders that existence in it. 
+
+We lack conceptions for that which it now is; indeed all data for such
 conceptions are wanting. We can only describe it as that which
 is free to be will to live or not. Buddhism denotes the latter case
 by the word Nirvana, the etymology of which was given in the
 note at the end of chapter 41. It is the point which remains for
 ever unattainable to all human knowledge, just as such.
+
 If now, from the standpoint of this last consideration, we
 contemplate the turmoil of life, we behold all occupied with its
 want and misery, straining all their powers to satisfy its infinite
 needs and to ward off its multifarious sorrows, yet without daring
-to hope anything else than simply the preservation of this tor-
-mented existence for a short span of time. In between, however,
+to hope anything else than simply the preservation of this tormented existence for a short span of time. In between, however,
 in the midst of the tumult, we see the glances of two lovers meet
-longingly: yet why so secretly, fearfully, and stealthily? Because
-these lovers are the traitors who seek to perpetuate the whole[375]
-365
-want and drudgery, which would otherwise speedily reach an
+longingly: yet why so secretly, fearfully, and stealthily? 
+
+Because
+these lovers are the traitors who seek to perpetuate the whole want and drudgery, which would otherwise speedily reach an
 end; this they wish to frustrate, as others like them have frustrated
 it before. This consideration already passes over into the subject
-of the following chapter.39
-[376]
-39 [The appendix to this chapter was added only in the third edition of the
-German, and is meant to explain, in consistency with Schopenhauer's general
-principles, the wide prevalence of the practice of pederasty, among different
-nations and in different ages. It is omitted.—Trs.]
-
-
+of the following chapter.

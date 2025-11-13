@@ -1,8 +1,9 @@
 ---
 heading: Chapter 25b
-title: "Transcendent Considerations Concerning The Will As Thing In Itself"
-description: ""
-weight: 8
+title: "Nature's Creations"
+description: "The internal construction of insects has infinite care and unwearied labour of Nature."
+weight: 35
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -13,37 +14,40 @@ writer:
 
 The internal construction of insects has infinite care and unwearied labour of Nature.
 
-This is repeated an infinite number of times in each one of innumerable individuals
-of every kind, and not less carefully worked out in that one whose
-dwelling-place is the most lonely, neglected spot, to which, till
-then, no eye had penetrated; 
+This is repeated an infinite number of times in each one of individuals of every kind.
 
-if we now follow the combination of
+It acts the same on even the most lonely, neglected unseen spot.
+
+<!-- if we now follow the combination of
 the parts of every organism as far as we can, and yet never come
-upon one part which is quite simple, and therefore ultimate, not to speak of one which is inorganic; if, finally, we lose ourselves in calculating the design of all those parts of the organism for the
+upon one part which is quite simple, and therefore ultimate, not to speak of one which is inorganic; 
+
+if, finally, we lose ourselves in calculating the design of all those parts of the organism for the
 maintenance of the whole by virtue of which every living thing
 is complete in and for itself; if we consider at the same time that
 each of these masterpieces, itself of short duration, has already
-been produced anew an innumerable number of times, and yet every example of a species, every insect, every flower, every
-leaf, still appears just as carefully perfected as was the first of its
-kind; 
+been produced anew an innumerable number of times, and yet  -->
 
-Thus that nature by no means wearies and begins to bungle,
-but, with equally patient master-hand, perfects the last like the
-first: then we become conscious, first of all, that all human art
-is completely different, not merely in degree, but in kind, from
-the works of nature; and, next, that the working force, the natura
+Every example of a species, insect, flower appears just as carefully perfected as was the first of its kind.
+
+Nature does not get weary or bungles. Instead, it perfects the last like the first.
+
+Human art is completely different in degree and in kind from the works of nature.
+
+<!--  and, next, that the working force, the natura
 naturans, in each of its innumerable works, in the least as in the
 greatest, in the last as in the first, is immediately present whole
 and undivided, from which it follows that, as such and in itself,
-it knows nothing of space and time. If we further reflect that the
-production of these hyperboles of all works of art costs nature
-absolutely nothing, so that, with inconceivable prodigality, she
-creates millions of organisms which never attain to maturity, and
+it knows nothing of space and time.  -->
+
+The production of these hyperboles of all works of art costs nature absolutely nothing.
+
+She can create millions of organisms which never attain to maturity, and
 without sparing exposes every living thing to a thousand accidents, yet, on the other hand, if favoured by chance or directed by human purpose, readily affords millions of examples of a species
 of which hitherto there was only one, so that millions cost her no
-more than one; this also leads us to see that the multiplicity of
-things has its root in the nature of the knowledge of the subject,
+more than one; 
+
+This also leads us to see that the multiplicity of things has its root in the nature of the knowledge of the subject,
 but is foreign to the thing in itself, i.e., to the inner primary force
 which shows itself in things; that consequently space and time,
 upon which the possibility of all multiplicity depends, are mere

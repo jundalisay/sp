@@ -3,7 +3,7 @@ title: "Office Of Legislative Affairs (ola); Public Affairs (opa); Partnership A
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 

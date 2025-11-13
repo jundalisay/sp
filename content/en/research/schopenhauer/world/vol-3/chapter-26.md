@@ -2,7 +2,8 @@
 heading: Chapter 26
 title: "Teleology"
 description: ""
-weight: 8
+weight: 38
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -12,7 +13,9 @@ writer:
 
 <!-- 4 This chapter and the following one are connected with § 28 of the first volume. -->
 
-The universal teleology or design of organised nature relative to the continuance of every existing being, together with the adaptation of organised to unorganised nature, cannot without violence enter into the connection of any philosophical system except that one which makes a will the basis of the existence of every natural being; a will which accordingly expresses its nature and tendency not merely in the actions, but already in the form of the phenomenal organism. In the preceding chapter I have merely indicated the account which our system of thought gives of this subject, since I have already expounded it in the passage of the first volume referred to below, and with special clearness and fulness in “The Will in Nature,” under the rubric “Comparative Anatomy.”
+The universal teleology or design of organised nature relative to the continuance of every existing being, together with the adaptation of organised to unorganised nature, cannot without violence enter into the connection of any philosophical system except that one which makes a will the basis of the existence of every natural being; a will which accordingly expresses its nature and tendency not merely in the actions, but already in the form of the phenomenal organism. 
+
+In the preceding chapter I have merely indicated the account which our system of thought gives of this subject, since I have already expounded it in the passage of the first volume referred to below, and with special clearness and fulness in “The Will in Nature,” under the rubric “Comparative Anatomy.”
 
 The astounding amazement which is wont to take possession of us when we consider the endless design displayed in the con- struction of organised beings ultimately rests upon the certainly natural but yet false assumption that that adaptation of the parts to each other, to the whole of the organism and to its aims in the external world, as we comprehend it and judge of it by means of knowledge, thus upon the path of the idea, has also come into being upon the same path; thus that as it exists for the intellect, it was also brought about by the intellect. We certainly can only bring about something regular and conforming to law, such, [078] for example, as every crystal is, under the guidance of the law and the rule; and in the same way, we can only bring about something designed under the guidance of the conception of the end; but we are by no means justified in imputing this limitation of ours to nature, which is itself prior to all intellect, and whose action is entirely different in kind from ours, as was said in the preceding chapter. It accomplishes that which appears so designed and planned without reflection and without conception of an end, because without idea, which is of quite secondary origin. Let us first consider what is merely according to rule, not yet adapted to ends.
 

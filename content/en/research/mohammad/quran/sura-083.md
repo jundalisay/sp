@@ -14,7 +14,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="7" >}} The record of the wicked is in Sijjeen, a numerical book.
 
-13. When our Our revelations are recited to the sinful aggressor, he says, “Legends of the ancients.”
+<sup>13</sup> When our Our revelations are recited to the sinful aggressor, he says, “Legends of the ancients.”
 - Their hearts have become corroded by what they used to earn.
 
 {{< s v="15" >}} On that Day:
@@ -23,28 +23,28 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="18-20" >}} The record of the righteous is in Elliyyeen, a numerical book.
 
-21. It is witnessed by those brought near.
+<sup>21</sup> It is witnessed by those brought near.
 
-22. The righteous will be amid bliss 23. on thrones, looking on.
+<sup>22</sup> The righteous will be amid bliss 23. on thrones, looking on.
 
-24. You will recognize on their faces the radiance of bliss.
+<sup>24</sup> You will recognize on their faces the radiance of bliss.
 
-25. They will be given to drink a sealed wine with a musk as a seal—this is what competitors should compete for.
+<sup>25</sup> They will be given to drink a sealed wine with a musk as a seal—this is what competitors should compete for.
 
-27. Its mixture is of Tasneem, 28. a spring from which those brought near drink.
+<sup>27</sup> Its mixture is of Tasneem, <sup>28</sup> a spring from which those brought near drink.
 
-29. Those who committed crimes used to laugh at those who believed.
+<sup>29</sup> Those who committed crimes used to laugh at those who believed.
 
-30. And when they passed by them, they would wink at one another.
+<sup>30</sup> And when they passed by them, they would wink at one another.
 
-31. And when they went back to their families, they would go back exulting.
+<sup>31</sup> And when they went back to their families, they would go back exulting.
 
-32. And if they saw them, they would say, “These people are lost.”
+<sup>32</sup> And if they saw them, they would say, “These people are lost.”
 
-33. Yet they were not sent as guardians over them.
+<sup>33</sup> Yet they were not sent as guardians over them.
 
-34. But on that Day, those who believed will laugh at the unbelievers.
+<sup>34</sup> But on that Day, those who believed will laugh at the unbelievers.
 
-35. On luxurious furnishings, looking on. 
+<sup>35</sup> On luxurious furnishings, looking on. 
 
-36. Have the unbelievers been repaid for what they used to do?
+<sup>36</sup> Have the unbelievers been repaid for what they used to do?

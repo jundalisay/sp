@@ -53,7 +53,7 @@ During the last two centuries, the customs of merchants have been adopted into t
 Extraordinary privileges were given to bills of exchange to the point that money is more readily advanced through them than any other kind of obligation, especially when they are made payable within a short period as 2-3 months.
 
 {{< box >}}
-## Superphysics Note: Drawing and Redrawing a Cheque
+### Superphysics Note: "Check Kiting" as Drawing and Redrawing a Bill
 
 An example of a bill of exchange is a cheque 
 

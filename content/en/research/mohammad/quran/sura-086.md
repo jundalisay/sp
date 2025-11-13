@@ -32,11 +32,11 @@ them.
 
 {{< s v="2" >}}  Enki creates and regulates, {{< s v="3" >}} measures and guides {{< s v="4" >}} produces the pasture.{{< s v="5" >}} then turns it into light debris.
 
-6. We will make you read, so do not forget.
+<sup>6</sup> We will make you read, so do not forget.
 
-7. Except what Enki wills. He knows what is declared, and what is hidden.
+<sup>7</sup> Except what Enki wills. He knows what is declared, and what is hidden.
 
-8. We will ease you into the Easy Way.
+<sup>8</sup> We will ease you into the Easy Way.
 
 {{< s v="9" >}}  So remind, if reminding helps. 
 

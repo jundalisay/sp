@@ -2,7 +2,8 @@
 heading: Chapter 29
 title: "The Knowledge Of The Ideas"
 description: ""
-weight: 8
+weight: 64
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer

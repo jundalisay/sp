@@ -1,17 +1,17 @@
 ---
 heading: "Proposition 14"
-title: The Nature of Bodies
-weight: 6
+title: The Human Mind
+weight: 21
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
 c: "indigo"
-icon: "/icons/spinoza.png"
+icon: "Spinoza"
 description: "The object of the human mind is the human body."
 ---
 
 
-### Proposition 14: The human mind can perceive many things in proportion as its body can receive many impressions. 
+## Proposition 14: The human mind can perceive many things in proportion as its body can receive many impressions. 
 
 Proof: The human body (by Post. iii. and vi.) is affected in very many ways by external bodies, and is capable in very many ways of affecting external bodies.
 
@@ -21,7 +21,7 @@ The human mind is, therefore, capable of perceiving a great number of things, an
 
 
 
-### Proposition 15: The idea, which constitutes the actual being of the human mind, is not simple, but compounded of a great number of ideas. 
+## Proposition 15: The idea, which constitutes the actual being of the human mind, is not simple, but compounded of a great number of ideas. 
 
 Proof: The idea constituting the actual being of the human mind is the idea of the body (2.13), which (Post. 1) is composed of a great number of complex individual parts.
 
@@ -30,7 +30,8 @@ But there is necessarily in God the idea of each individual part whereof the bod
 Therefore (2.7.), the idea of the human body is composed of these numerous ideas of its component parts. Q.E.D.
 
 
-### Proposition 16: The idea of every mode, in which the human body is affected by external bodies, must involve the nature of the human body, and also the nature of the external body.
+
+## Proposition 16: The idea of every mode, in which the human body is affected by external bodies, must involve the nature of the human body, and also the nature of the external body.
 
 Proof: All the modes, in which any given body is affected, follow from the nature of the body affected, and also from the nature of the affecting body (by Ax. 1, after the Coroll. of Lemma 3), wherefore their idea also necessarily (by 1. Ax. 4) involves the nature of both bodies.
 
@@ -43,7 +44,7 @@ That the ideas, which we have of external bodies, indicate rather the constituti
 <!-- I have amply illustrated this in the Appendix to Part 1. -->
 
 
-### Proposition 17: If the human body is affected in a manner which involves the nature of any external body, the human mind will regard the said external body as actually existing, or as present to itself, until the human body be affected in such a way, as to exclude the existence or the presence of the said external body.
+## Proposition 17: If the human body is affected in a manner which involves the nature of any external body, the human mind will regard the said external body as actually existing, or as present to itself, until the human body be affected in such a way, as to exclude the existence or the presence of the said external body.
 
 Proof: As long as the human body continues to be  affected, so long will the human mind (2.12) regard this modification of the body—that is (by the last Prop.), it will have the idea of the mode as actually existing, and this idea involves the nature of the external body.
 

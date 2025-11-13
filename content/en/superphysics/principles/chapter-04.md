@@ -21,10 +21,10 @@ These are created by the Negative Force as it cuts up the Supreme Entity into pa
 But at the same time, the Positive stitches those parts together. 
 
 These makes the nodes separated by perception gaps which we call timespan.
-- This is from the Negative Force which is imparted by the Air Element, which facilitates space and time.
+- This is from the Negative Force which is imparted by the Air Element or Spatial Layer which facilitates space and time.
 - The Positive Force glues these nodes together to create a single consistent experience.
 
-This operation is similar to your screen being made up of pixels that are separated by a distance called a pixel pitch.
+This operation is similar to your screen being made up of pixels that are separated by a distance called a *pixel pitch*.
 - The smallness of the gaps makes them imperceptible
 
 {{< i s="/graphics/tech/pitch.jpg" a="Pixel Pitch" c="The gap between metaphysical objects is like the gap between pixels" >}}
@@ -48,12 +48,12 @@ Each spacetime slice is a collection or group of waves that have a common qualit
 
 Their affinity with the observing mind, which is also a node but more subtle, makes them perceivable. 
 
-These are then stitched together by the Positive Force that incluences that mind to create the structure of reality for that mind. 
+These are then stitched together by the Positive Force that influences that mind to create the structure of reality for that mind.
 
 {{< i s="/graphics/super/nodes.svg" a="Slices" >}}
 
 
-In other words, each of our perceptions is in a cognition-slice called spacetime. These slices are glued together by the flow of our minds, creating our fluid reality. 
+In other words, each of our perceptions is in am aethereal cognition-slice called spacetime. These slices are glued together by the flow of our aethereal minds, creating our fluid reality. 
 
 **This means that only the present perception is the basis or anchor for all our other perceptions.** 
 
@@ -91,7 +91,7 @@ Space and time are merely effects of our successive perceptions which in turn ca
 
 ### The Slices are the Basis for Dimensions
 
-Past, present, and future are therefore the arrangement of the spacetime slices according to the flow of cognition. 
+Past, present, and future are therefore the arrangement of the spacetime slices according to the aethereal flow of cognition. 
 
 - Space is regarded as the 3rd dimension, which is really 2 dimensions stitched together by the same flow of cognition. 
 - Time is regarded as the 4th dimension when the 3rd dimension is stitched together according to the changes in itself. 
@@ -146,30 +146,3 @@ Dimension | Name | Manifestation
 8 | Void | Void
 
 
-## Non-Locality from the Independence of the Spacetime Slices
-
-The slices are independent of each other, just as a node is its own thing and not an effect of the previous nodes. 
-
-However, they are usually related to each other just as the crest of a wave is related to its trough.
-
-Similarly, a universe is independent of other universes. 
-
-However, what happens in another universe has a relation to other universes and can affect others.  
-
-This independence leads to the concept of non-locality in Quantum Mechanics. 
-
-<!-- The relation leads to the colllapse  -->
-
-<!-- The 8 dimensions are based on the spacetime where ideas and experiences are generated. 
-
-This includes the sequence of perceptions. For example, in the Existential, Planar, and Spatial dimensions, the concept of time is just of one moment, as there is no change or gaps in perceptions yet.
-
-Linear time really begins in the Temporal dimension where changes take place. 
-
-Nonlinear time begins in the Lateral dimension where alternate realities take place. In that dimension, switching between
-realities is possible and time becomes less linear. 
-
-An example is a  dream wherein experiences, as scenes, can jump from on to the other randomly. 
-
-In the Multiversal dimension, multiple universes and therefore multiple spacetime exist.
- -->

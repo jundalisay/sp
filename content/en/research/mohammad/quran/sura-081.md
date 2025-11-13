@@ -15,39 +15,39 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="5" >}}  When the beasts are gathered.
 
-6. When the oceans are set aflame.
+<sup>6</sup> When the oceans are set aflame.
 
-7. When the souls are paired.
+<sup>7</sup> When the souls are paired.
 
-8. When the girl, buried alive, is asked: for what crime was she killed?
+<sup>8</sup> When the girl, buried alive, is asked: for what crime was she killed?
 
-{{< s v="10" >}}  When the records are made public.{{< s v="11" >}}  When the sky is peeled away.
+{{< s v="10" >}}  When the records are made public. {{< s v="11" >}}  When the sky is peeled away.
 
-12. When the Fire is set ablaze.
+<sup>12</sup> When the Fire is set ablaze.
 
-13. When Paradise is brought near.
+<sup>13</sup> When Paradise is brought near.
 
-14. Each soul will know what it has readied.
+<sup>14-15</sup> Each soul will know what it has readied.
 
-15. {{< s v="16" >}} I swear by the galaxies precisely running their courses.
+{{< s v="16" >}} I swear by:
+- the galaxies precisely running their courses
+- <sup>17</sup> the night as it recedes
+- <sup>18</sup> the morn as it breathes
 
-17. And by the night as it recedes.
 
-18. And by the morn as it breathes.
+<sup>19-20</sup> This is the speech of a noble messenger, endowed with power, eminent with the Lord of the Throne.
 
-19. This is the speech of a noble messenger, endowed with power, eminent with the Lord of the Throne.
+<sup>21</sup> Obeyed and honest. 
 
-21. Obeyed and honest. 
+<sup>22</sup> Your friend is not possessed.
 
-22. Your friend is not possessed.
+<sup>23-24</sup> He saw him on the luminous horizon. He does not withhold knowledge of the Unseen.
 
-23. He saw him on the luminous horizon. And He does not withhold knowledge of the Unseen.
+<sup>25</sup> It is not the word of an accursed devil.
 
-25. It is not the word of an accursed devil.
+<sup>26</sup> So where are you heading?
 
-26. So where are you heading?
-
-27. It is only a Reminder to all mankind 28 to whoever of you wills to go straight.
+<sup>27</sup> It is only a Reminder to all mankind 28 to whoever of you wills to go straight.
 
 29. But you cannot will, unless Enki wills.
 
@@ -61,20 +61,20 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 Each soul will know what it has advanced, and what it has deferred.
 
-6. O man! What deluded you concerning your Lord, the Most Generous?
+<sup>6</sup> O man! What deluded you concerning your Lord, the Most Generous?
 
-7. He Who created you, and formed you, and proportioned you?
+<sup>7</sup> He Who created you, and formed you, and proportioned you?
 
-8. In whatever shape He willed, He assembled you.
+<sup>8</sup> In whatever shape He willed, He assembled you.
 
 {{< s v="9" >}}  But you reject the religion. {{< s v="10" >}}  Though over you are watchers and honest recorders that know everything you do.. 
 
 The virtuous will be in bliss.
 
-14. While the wicked will be in Hell. They will enter it on the Day of Justice. They will not be absent from it.
+<sup>14</sup> While the wicked will be in Hell. They will enter it on the Day of Justice. They will not be absent from it.
 
 But what will convey to you what the Day of Justice is?
 
-18. Then again, what will convey to you what the Day of Justice is?
+<sup>18</sup> Then again, what will convey to you what the Day of Justice is?
 
-19. It is the Day when no soul will avail another soul anything. The decision on that Day is Enki’s.
+<sup>19</sup> It is the Day when no soul will avail another soul anything. The decision on that Day is Enki’s.

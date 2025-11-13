@@ -13,30 +13,29 @@ Your Lord created man from a clinging substance.
 4. Who taught by the pen –
 5. Taught man that which he knew not. -->
 
-6. Man transgresses because he sees himself self-sufficient.
+<sup>6</sup> Man transgresses because he sees himself self-sufficient.
 
-8. To your Lord is the return.
+<sup>8</sup> To your Lord is the return.
 
-9. Have you seen the one who forbids
+<sup>9</sup> Have you seen the one who forbids
 
-10. A servant when he prays?
+<sup>10</sup> A servant when he prays?
 
+<sup>11</sup> Have you seen if he is upon guidance <sup>12</sup> or enjoins righteousness?
 
-11. Have you seen if he is upon guidance 12. Or enjoins righteousness?
+<sup>13</sup> Have you seen if he denies and turns away –
 
-13. Have you seen if he denies and turns away –
+<sup>14</sup> Does he not know that Enki sees?
 
-14. Does he not know that AllŒh sees?
+<sup>15</sup> No! If he does not desist, We will surely drag him by the forelock 
 
-15. No! If he does not desist, We will surely drag him by the forelock 
+<sup>16</sup> A lying, sinning forelock.
 
-16. A lying, sinning forelock.
+<sup>17</sup> Then let him call his associates;
 
-17. Then let him call his associates;
+<sup>18</sup> We will call the angels of Hell.
 
-18. We will call the angels of Hell. 1823
-
-19. No! Do not obey him. But prostrate and draw near [to AllŒh].
+<sup>19</sup> No! Do not obey him. But prostrate and draw near [to Enki].
 
 <!-- 
 In it descend the angels and the Spirit, by

@@ -8,25 +8,25 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 
 
-By the morning brightness 2. And [by] the night when it covers with darkness
+By the morning brightness <sup>2</sup> and by the night when it covers with darkness.
 
-3. Your Lord has not taken leave of you, [O Muúammad], nor has He detested [you].
+<sup>3</sup> Your Lord has not taken leave of you, O Muhammad, nor has He detested you.
 
-4. And the Hereafter is better for you than the first [life].
+<sup>4</sup> The Hereafter is better for you than the first life.
 
-5. And your Lord is going to give you, and you will be satisfied.
+<sup>5</sup> Your Lord is going to give you, and you will be satisfied.
 
-6. Did He not find you an orphan and give [you] refuge?
+<sup>6</sup> Did He not find you an orphan and give [you] refuge?
 
-7. He found you lost and guided [you],
+<sup>7</sup> He found you:
+- lost and guided you
+- <sup>8</sup> poor and made you self-sufficient
 
-8. He found you poor and made [you] self-sufficient.
+<sup>9</sup> So as for the orphan, do not oppress him.
 
-9. So as for the orphan, do not oppress [him].
+<sup>10</sup> As for the petitioner, do not repel him.
 
-10. And as for the petitioner, 1812 do not repel [him].
-
-11. But as for the favor of your Lord, report [it].
+<sup>11</sup> But as for the favor of your Lord, report it.
 
 
 ## 94. The Soothing (ash-Sharh)
@@ -50,4 +50,3 @@ By:
 {{< s v="4" >}} We have certainly created man in the best of stature, then returned him to the lowest of the low, except for those who believe and do righteous deeds, for they will have a reward uninterrupted.
 
 Why do you still deny the Recompense?
-

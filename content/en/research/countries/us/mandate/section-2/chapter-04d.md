@@ -3,7 +3,7 @@ title: "Dod Research, Development, Test, And Evaluation"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 ---
 
 

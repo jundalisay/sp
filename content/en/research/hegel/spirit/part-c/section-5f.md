@@ -9,7 +9,7 @@ weight: 10
 ---
 
 
-### Purpose [Dharma]
+## Purpose [Dharma]
 
 {{< s v=256 >}} The relation of the organic to elemental nature does not express the essence of that relation.
 
@@ -177,5 +177,3 @@ Irritability, again, expresses organic elasticity, the capacity to exercise the 
 Reproduction, however, is the operation of this entire self-reflected organism, its activity as having its purpose in itself, its activity qua genus, wherein the individual repels itself from itself, where in procreating it repeats either the organic parts or the whole individual.
 
 Reproduction, taken in the sense of self-preservation in general, expresses the formal principle or conception of the organic, or the fact of Sensibility; but it is, properly speaking, the realized notion of organic existence, or the whole, which either qua individual returns into itself through the process of producing individual parts of itself, or qua genus does so through the production of distinct individuals.
-
-

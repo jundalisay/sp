@@ -11,53 +11,42 @@ writer:
 
 
 
+This chapter, along with the one which follows it, is connected with § 8 and 9 of the first book.
 
-It must be possible to arrive at a complete knowledge of the
-consciousness of the brutes, for we can construct it by abstracting
-certain properties of our own consciousness. On the other hand,
-there enters into the consciousness of the brute instinct, which is
+
+It must be possible to arrive at a complete knowledge of the consciousness of the brutes, for we can construct it by abstracting certain properties of our own consciousness. 
+
+On the other hand,  there enters into the consciousness of the brute instinct, which is
 much more developed in all of them than in man, and in some of
 them extends to what we call mechanical instinct.
-The brutes have understanding without having reason, and
-therefore they have knowledge of perception but no abstract
-knowledge. They apprehend correctly, and also grasp the
-immediate causal connection, in the case of the higher species
-even through several links of its chain, but they do not, properly
-speaking, think. For they lack conceptions, that is, abstract
-ideas. The first consequence of this, however, is the want of
-a proper memory, which applies even to the most sagacious
-of the brutes, and it is just this which constitutes the principal
-difference between their consciousness and that of men. Perfect
-intelligence depends upon the distinct consciousness of the past
-and of the eventual future, as such, and in connection with the
-present. The special memory which this demands is therefore an
-orderly, connected, and thinking retrospective recollection. This,
-however, is only possible by means of general conceptions, the
-assistance of which is required by what is entirely individual, in
-order that it may be recalled in its order and connection. For
-the boundless multitude of things and events of the same and
 
-This chapter, along with the one which follows it, is connected with § 8 and
-9 of the first book.
+The brutes have:
+- understanding without having reason, and
+- knowledge of perception but no abstract knowledge
 
-similar kinds, in the course of our life, does not admit directly of
-a perceptible and individual recollection of each particular, for
-which neither the powers of the most comprehensive memory
-nor our time would be sufficient. Therefore all this can only be
-preserved by subsuming it under general conceptions, and the
-consequent reference to relatively few principles, by means of
-which we then have always at command an orderly and adequate
-survey of our past. We can only present to ourselves in perception
-particular scenes of the past, but the time that has passed since
-then and its content we are conscious of only in the abstract by
-means of conceptions of things and numbers which now represent
-days and years, together with their content. The memory of the
-brutes, on the contrary, like their whole intellect, is confined
-to what they perceive, and primarily consists merely in the fact
-that a recurring impression presents itself as having already been
-experienced, for the present perception revivifies the traces of an
-earlier one. Their memory is therefore always dependent upon
-what is now actually present. Just on this account, however,
+They apprehend correctly and grasp the immediate causal connection but they do not think. 
+
+This is because they lack conceptions as abstract ideas.
+
+The first consequence of this is the lack of a proper memory.
+
+This is the principal difference between their consciousness and that of men. 
+
+Perfect intelligence depends on the distinct consciousness of the past and of the eventual future, as such, and in connection with the present.
+
+The special memory which this demands is therefore an orderly, connected, and thinking retrospective recollection. 
+
+This, however, is only possible by means of general conceptions, the assistance of which is required by what is entirely individual, in order that it may be recalled in its order and connection. 
+
+For the boundless multitude of things and events of the same and similar kinds, in the course of our life, does not admit directly of a perceptible and individual recollection of each particular, for which neither the powers of the most  comprehensive memory nor our time would be sufficient.
+
+Therefore all this can only be preserved by subsuming it under general conceptions, and the consequent reference to relatively few principles, by means of which we then have always at command an orderly and adequate survey of our past. 
+
+We can only present to ourselves in perception particular scenes of the past, but the time that has passed since then and its content we are conscious of only in the abstract by means of conceptions of things and numbers which now represent days and years, together with their content. 
+
+The memory of the brutes, on the contrary, like their whole intellect, is confined to what they perceive, and primarily consists merely in the fact that a recurring impression presents itself as having already been experienced, for the present perception revivifies the traces of an earlier one.
+
+Their memory is therefore always dependent upon what is now actually present. Just on this account, however,
 this excites anew the sensation and the mood which the earlier
 phenomenon produced. Thus the dog recognises acquaintances,
 distinguishes friends from enemies, easily finds again the path
@@ -73,21 +62,14 @@ and thus we can measure the difference between the two from
 our own experience. For example, at the sight of a person
 whom it appears to us we know, although we are not able to
 remember when or where we saw him; or again, when we visit
-a place where we once were in early childhood, that is, whileChapter V. On The Irrational Intellect.
-227
-our reason was yet undeveloped, and which we have therefore
+a place where we once were in early childhood, that is, while our reason was yet undeveloped, and which we have therefore
 entirely forgotten, and yet feel that the present impression is one
-which we have already experienced. This is the nature of all the
-recollections of the brutes. We have only to add that in the case
-of the most sagacious this merely perceptive memory rises to a
-certain degree of phantasy, which again assists it, and by virtue of
-which, for example, the image of its absent master floats before
-the mind of the dog and excites a longing after him, so that when
-he remains away long it seeks for him everywhere. Its dreams
-also depend upon this phantasy. The consciousness of the brutes
-is accordingly a mere succession of presents, none of which,
-however, exist as future before they appear, nor as past after
-they have vanished; which is the specific difference of human
+which we have already experienced. 
+
+This is the nature of all the recollections of the brutes. We have only to add that in the case of the most sagacious this merely perceptive memory rises to a certain degree of phantasy, which again assists it, and by virtue of which, for example, the image of its absent master floats before the mind of the dog and excites a longing after him, so that when
+he remains away long it seeks for him everywhere. 
+
+Its dreams also depend upon this phantasy. The consciousness of the brutes is accordingly a mere succession of presents, none of which, however, exist as future before they appear, nor as past after they have vanished; which is the specific difference of human
 consciousness. Hence the brutes have infinitely less to suffer
 than we have, because they know no other pains but those which
 the present directly brings. But the present is without extension,

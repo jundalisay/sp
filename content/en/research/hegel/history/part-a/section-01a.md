@@ -9,42 +9,104 @@ weight: 8
 
 
 
-
 The notions (Bestimmungen) in question are: thought, concept, idea or reason, and their development.
 
-1. Thought as Concept and Idea
+### 1. Thought as Concept and Idea
 
 a. Thought. First, then, there is thought.
 
-(1) As Concept. Thought is not something empty and abstract; it is determining, in fact self-determining. In other words, thought is essentially concrete. This concrete thought we call concept. 
+(1) As Concept. 
 
-Thought must be a concept; no matter how abstract it may seem to be, of itself (in sich) it must be concrete. As soon as thought is philosophical it is of itself concrete. 
+Thought is:
+- not empty and abstract
+- is self-determining
+- essentially concrete
 
-From one point of view it is correct to say that philosophy deals in abstractions, insofar as it has to do with thoughts, which are abstracted from the sensible, the so-called concrete. From another point of view it is quite incorrect to speak in this way: abstractions belong to the reflection proper to understanding, not to philosophy; 
+This concrete thought we call concept. 
 
-It is precisely those who condemn philosophy for being abstract who are most immersed in the sort of reflections which are proper to understanding, even though they think they have to do with the concretest of contents. Because they reflect on the matter at hand (die Sache), what they have is a combination of the merely sensible and subjective thoughts – i.e., abstractions.
+Thought must be a concept.
 
-(2) As Idea. 
+No matter how abstract it might seem, it itself is concrete.
 
-In more precise terms, concrete thought is concept. Still further determined it is idea. The idea is the concept insofar as it is realized. To be realized it must determine itself, and this determination is nothing else but itself. Thus, its content is itself. Its infinite relation to itself, then, means that only from itself does its determination come.
+<!-- As soon as thought is philosophical it is of itself concrete.  -->
 
-Now, the idea is what we call truth – a large word. To the unprejudiced it will ever continue to be a large word, and it will make his heart swell. 
+From one point of view, philosophy deals in abstractions, insofar as it deals with thoughts which are abstracted from the sensible concrete.
 
-Recently, of course, the conclusion has been reached that we are incapable of knowing the truth. The object of philosophy, however, is concrete thought, and when this is further determined it is, precisely, idea or truth. 
+From another point of view, abstractions belong to the reflection proper to understanding, not to philosophy.
 
-As for the claim that the truth cannot be known, this claim is made specifically (fur sich) in the history of philosophy, and when we come to it we shall examine it more closely. Here need only be mentioned that it is to some extent the historians of philosophy themselves who give the prejudice a semblance of validity. 
+Some condemn philosophy for being abstract.
 
-Tennemann is a Kantian. He thinks that it is absurd to want to know the truth.
+They are most immersed in the reflections which are proper to understanding, even though they think they have to do with the concretest of contents.
 
-The proof of this is the history of philosophy. 
+Because they reflect on the matter at hand (die Sache), what they have is a combination of the merely sensible and subjective thoughts – i.e., abstractions.
 
-What is difficult to understand is that anyone with this conviction should work so hard at philosophy, could in fact continue to be concerned with it, with no purpose in mind. 
 
-This sort of thing makes the history of philosophy a mere account of all kinds of opinions, each of which falsely claims to be the truth. Another prejudice says that we can, of course, know about the truth, but only after we have reflected on it (that truth is not known in immediate perception or intuition – neither in external sensible nor in so-called intellectual intuition – since every intuition is as such sensible). 
+(2) As Idea
 
-I should like to call attention to (appellieren an) this prejudice. Granted that it is one thing to be capable of knowing about the truth and another to know the truth. 
+More precisely, concrete thought is concept which is further determined it is idea.
 
-It is only by reflection, however, that I experience what the truth of the matter is. First, then, there is the contention that we cannot know the truth and, secondly, that we know truth only through reflection. If we give a more precise account of these contentions we shall have progressed further in the picture (Vorstellung) we are trying to give.
+The idea is the concept insofar as it is realized.
 
-The first determinations we have arrived at, then, are that thought is concrete, that the concrete is truth, and that the truth can be the result only of thinking. To be even more determinate we can say that the spirit develops itself out of itself.
+To be realized it must determine itself.
 
+This determination is itself.
+
+Thus, its content is itself.
+
+Its infinite relation to itself means that only from itself does its determination come.
+
+This idea is what we call truth.
+
+<!-- To the unprejudiced it will ever continue to be a large word, and it will make his heart swell.  -->
+
+Recently, of course, the conclusion has been reached that 
+
+We are incapable of knowing the truth.
+
+The object of philosophy is concrete thought.
+
+When this is further determined it is, precisely, idea or truth. 
+
+Some say the truth cannot be known.
+
+<!-- This claim is made specifically (fur sich) in the history of philosophy, and when we come to it we shall examine it more closely. Here need only be mentioned that it is to some extent the historians of philosophy themselves who give the prejudice a semblance of validity.  -->
+
+Tennemann is a Kantian. He thinks that:
+- it is absurd to want to know the truth
+- the proof of this is the history of philosophy
+
+But why would he work so hard at philosophy with no purpose in mind?
+
+<!-- What is difficult to understand is that anyone with this conviction 
+
+ could in fact continue to be concerned with it, .  -->
+
+This sort of thing makes the history of philosophy a mere account of all kinds of opinions.
+
+<!-- , each of which falsely claims to be the truth.  -->
+
+Another prejudice says that we can know about the truth, but only after we have reflected on it.
+
+They say truth is not known in:
+- immediate perception or intuition 
+- external sensible nor intellectual intuition
+
+ <!-- – since every intuition is as such sensible).  -->
+
+<!-- I should like to call attention to (appellieren an) this prejudice. Granted that it is one thing to  -->
+
+Being capable of knowing the truth is different from knowing the truth. 
+
+I experience the truth of the matter only by reflection.
+
+The contentions are:
+
+1. We cannot know the truth
+2. We know truth only through reflection. 
+
+My first determination is that:
+- thought is concrete
+- the concrete is truth
+- the truth can be the result only of thinking
+
+The spirit develops itself out of itself.

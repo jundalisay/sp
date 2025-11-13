@@ -29,7 +29,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 <sup>22</sup> You have no control over them.
 
 
-## 89. THE DAWN (al-Fajr)
+## 89. The Dawn (al-Fajr)
 
 {{< s v="1" >}}  By:
 - the daybreak

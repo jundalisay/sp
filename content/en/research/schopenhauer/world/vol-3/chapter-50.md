@@ -3,10 +3,13 @@ heading: Chapter 50
 title: "Epiphilosophy"
 description: ""
 date: 2025-10-05
+weight: 280
+icon: Schopenhauer
 writer:
   name: Schopenhauer
   url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
 ---
+
 
 
 My philosophy does not explain the existence of the world in its ultimate grounds.

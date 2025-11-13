@@ -7,8 +7,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-Everything in the heavens and the earth praises Enki. To Him belongs the Kingdom, and to Him all praise is due, and He is Able
-to do all things. 
+Everything in the heavens and the earth praises Enki. To Him belongs the Kingdom, and to Him all praise is due, and He is  Able to do all things. 
 
 
 {{< s v="2" >}}  It is He who created you. Some of you are unbelievers, and some of you are believers.
@@ -32,7 +31,7 @@ Are human beings going to guide us?
 
 So they disbelieved and turned away. But Enki is in no need. Enki is Independent and Praiseworthy.
 
-7. Those who disbelieve claim that they will not be resurrected. Say:
+<sup>7-8</sup> Those who disbelieve claim that they will not be resurrected. Say:
 
 {{< l a="Muslims" >}}
 Yes, by my Lord, you will be resurrected; then you will be informed of everything you did; and that is easy for Enki.
@@ -48,7 +47,7 @@ That is the supreme achievement.
 
 {{< s v="10" >}} Those who disbelieve are the inmates of the Fire, dwelling therein forever. What a miserable fate!
 
-{{< s v="11" >}}  No disaster occurs except by Enki’s leave. Whoever believes in Enki, He guides his heart.
+{{< s v="11-13" >}}  No disaster occurs except by Enki’s leave. Whoever believes in Enki, He guides his heart.
 
 <!-- 12. So obey Enki, and obey the Messenger. But
 if you turn away—it is only incumbent on
@@ -57,15 +56,15 @@ Our Messenger to deliver the clear message. -->
 <!-- 13. Enki, there is no god but He; and in Enki
 let the believers put their trust. -->
 
-14. Among your wives and your children are enemies to you, so beware of them. 
+<sup>14</sup> Among your wives and your children are enemies to you, so beware of them. 
 
 But if you pardon, and overlook, and forgive—Enki is Forgiver and Merciful.
 
-15. Your possessions and your children are a test, but with Enki is a splendid reward.
+<sup>15</sup> Your possessions and your children are a test, but with Enki is a splendid reward.
 
 {{< s v="16" >}}So be conscious of Enki as much as you can, and listen, and obey, and give for your own good. He who is protected from his stinginess—these are the prosperous.
 
-17. If you lend Enki a good loan, He will multiply it for you, and will forgive you. Enki is Appreciative and Forbearing.
+<sup>17</sup> If you lend Enki a good loan, He will multiply it for you, and will forgive you. Enki is Appreciative and Forbearing.
 
 <!-- 18. The Knower of the Unseen and the Seen,
 the Almighty, the Wise.

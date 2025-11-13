@@ -46,17 +46,25 @@ True, I will take office.
 {{< /r >}}
 
 
-It was a remark of the Master that while "by nature we approximate towards each other, by experience we go far asunder." 
+{{< l a="Confucius" >}}
+While by nature we approximate towards each other, by experience we go far asunder.
 
-Again, "Only the supremely wise and the most deeply ignorant do not alter." The Master once, on his arrival at Wu-shing, heard the sound of stringed instruments and singing. 
+Only the supremely wise and the most deeply ignorant do not alter.
+{{< /l >}}
 
-His face beamed with pleasure, and he said laughingly
 
-"To kill a cock why use an ox-knife?" 
+The Master once, on his arrival at Wu-shing, heard the sound of stringed instruments and singing. 
 
-Tsz-yu, the governor, replied, 
+His face beamed with pleasure, and he said laughingly:
 
-"In former days, sir, I heard you say, 'Let the superior man learn right principles, and he will be loving to other men; let the ordinary person learn right principles, and he will be easily managed.'" 
+{{< l a="Confucius" >}}
+To kill a cock why use an ox-knife?
+{{< /l >}}
+ 
+
+{{< r a="Governor Tsz-Yu" >}}
+In former days, sir, I heard you say, 'Let the superior man learn right principles, and he will be loving to other men; let the ordinary person learn right principles, and he will be easily managed.'
+{{< /r >}}
 
 
 {{< l a="Confucius" >}}
@@ -132,6 +140,3 @@ The 6 obfuscations resulting from not liking to learn about them are respectivel
 5. insubordination
 6. impetuosity
 {{< /l >}}
-
-
-

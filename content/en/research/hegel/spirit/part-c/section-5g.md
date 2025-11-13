@@ -1,7 +1,6 @@
 ---
 heading: "Section 5g"
 title: Observation of Organic Nature
-# title: "Observation of Organic Nature"
 description: Reason has apprehended the concept of purpose in consciousness, which was given to it by rational observation.
 c: "steelblue"
 author: Hegel
@@ -104,7 +103,11 @@ Hence this mere playing at law-making is not confined to organic moments but can
 
 {{< s v='274' >}}  The law-making just considered implies the differences of the organism, taken in the sense of moments of its notion, and, strictly speaking, should be an a priori process. 
 
-But it essentially involves this idea, that those differences have the significance of being present as something given, and the attitude of mere observation has in any case to confine itself merely to their actual existence. Organic reality necessarily has within it such an opposition as its notion expresses, and which can be determined as irritability and sensibility, as these again both appear distinct from reproduction. The aspect in which the moments of the notion of organism are here considered, their Externality, is the proper and peculiar immediate externality of the inner; not the outer which is the outer embodied form of the whole organism; the inner is to be considered in relation to this later on.
+But it essentially involves this idea, that those differences have the significance of being present as something given, and the attitude of mere observation has in any case to confine itself merely to their actual existence.
+
+Organic reality necessarily has within it such an opposition as its notion expresses, and which can be determined as irritability and sensibility, as these again both appear distinct from reproduction. 
+
+The aspect in which the moments of the notion of organism are here considered, their Externality, is the proper and peculiar immediate externality of the inner; not the outer which is the outer embodied form of the whole organism; the inner is to be considered in relation to this later on.
 
 
 {{< s v='275' >}} If, however, the opposition of the moments is apprehended as it is found in actual existence, then sensibility, irritability, reproduction sink to the level of common properties, which are universals just as indifferent towards one another as specific weight, colour, hardness, etc. 
@@ -151,5 +154,3 @@ The inner, to which falls the universality appearing in the process, and the out
 At the bottom of the idea of law lies just this, that its two aspects should have a subsistence each on its own account indifferent to the other, and the relation of the two sides should be shared between them, thus appearing as a twofold characteristic corresponding to that relation. 
 
 But really each aspect of the organism consists inherently in being simple universality, wherein all determinations are dissolved, and in being the process of this resolution.
-
-

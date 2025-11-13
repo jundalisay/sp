@@ -2,7 +2,8 @@
 heading: Chapter 37
 title: "The Æsthetics Of Poetry"
 description: ""
-weight: 8
+weight: 98
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -29,8 +30,7 @@ and for this all often depends, ut nosti, upon a single touch
 or suggestion or reflex” (Briefe an Merck, edited by Wagner,
 1835, p. 193). 
 
-From the fact that the imagination of the reader
-is the material in which poetry exhibits its pictures, it has the
+From the fact that the imagination of the reader is the material in which poetry exhibits its pictures, it has the
 advantage that the fuller development of these pictures and their
 finer touches, take place in the imagination of every one just as is
 most suitable to his individuality, his sphere of knowledge, and

@@ -3,7 +3,7 @@ title: "Immediate Actions: Bureau of Land Management"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 heading: Chapter 16c
 # weight:
 ---

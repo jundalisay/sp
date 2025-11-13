@@ -2,7 +2,8 @@
 heading: Chapter 21
 title: "Retrospect and More General View"
 description: ""
-weight: 8
+weight: 4
+icon: Schopenhauer
 date: 2025-10-05
 writer:
   name: Schopenhauer
@@ -10,14 +11,29 @@ writer:
 ---
 
 
+The 2 preceding chapters show that the intellect is subordinate to the will.
 
-If the intellect were not of a subordinate nature, as the two preceding chapters show, then everything which takes place without it, i.e., without intervention of the idea, such as reproduction, the development and maintenance of the organism, the healing of wounds, the restoration or vicarious supplementing of mutilated parts, the salutary crisis in diseases, the works of the mechanical skill of animals, and the performances of instinct would not be done so infinitely better and more perfectly than what takes place with the assistance of intellect, all conscious and intentional achievements of men, which compared with the former are mere bungling. In general nature signifies that which operates, acts, performs without the assistance of the intellect.
+If it were not subordinate, then:
+- all conscious achievements of men would be a mere bungling
+- instinct would infinitely better when unaided by intellect
 
-This is really identical with what we find in ourselves as will is the general theme of this second book, and also of the essay, “Ueber den Willen in der Natur.” The possibility of this fundamental knowledge depends upon the fact that in us the will is directly lighted by the intellect, which here appears as self-consciousness; otherwise we could just as little arrive at a fuller knowledge of it within us as without us, and must for ever stop at inscrutable forces of nature. We have to abstract from the assistance of the[002] intellect if we wish to comprehend the nature of the will in itself, and thereby, as far as is possible, penetrate to the inner being of nature.
+<!-- Examples of things that happen without intervention of the idea are:
+- reproduction
+- the development and maintenance of the organism
+- the healing of wounds
+- the salutary crisis in diseases
+- the works of the mechanical skill of animals -->
 
-On this account, it may be remarked in passing, my direct
-antipode among philosophers is Anaxagoras; for he assumed ar-
-bitrarily as that which is first and original, from which everything
+
+Nature is that which operates, acts, performs without the assistance of the intellect.
+
+<!-- This is really identical with what we find in ourselves as will is the general theme of this second book, and also of the essay, “Ueber den Willen in der Natur.” The possibility of this fundamental knowledge depends upon the fact that  -->
+
+In us, the will is directly lighted by the intellect which appears as self-consciousness.
+
+Otherwise we could just as little arrive at a fuller knowledge of it within us as without us, and must for ever stop at inscrutable forces of nature. We have to abstract from the assistance of the[002] intellect if we wish to comprehend the nature of the will in itself, and thereby, as far as is possible, penetrate to the inner being of nature.
+
+On this account, it may be remarked in passing, my direct antipode among philosophers is Anaxagoras; for he assumed arbitrarily as that which is first and original, from which everything
 proceeds, a Ωø≈¬, an intelligence, a subject of ideas, and he is
 regarded as the first who promulgated such a view. According to
 him the world existed earlier in the mere idea than in itself; while

@@ -1,9 +1,9 @@
 ---
-title: "SBA POLICY PRIORITIES FOR 2025 AND BEYOND"
+title: "Sba Policy Priorities For 2025 And Beyond"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Karen Kerrigan"
 heading: Chapter 25d
 weight: 64
@@ -18,25 +18,17 @@ The IMPROVE the SBA Act68 would strengthen accountability, transparency,
 and oversight of the SBA and aligns with many of the reforms outlined in
 this chapter.
 
-Small-Business Size Standard Modernization. Many small-business pro-
-grams both inside and outside the SBA use the SBA’s definition of “small business.”
-Under the Small Business Act, the SBA is tasked with defining what counts as a
-small business and ensuring that the definition varies from industry to industry to
-reflect differences in regular size by industry. However, the SBA’s small-business
-size standards reflect a one-size-fits-all approach under which all businesses within
-its size standard are considered small businesses for all eligible purposes, from gov-
-ernment contracting preferences to eligibility for SBA loans through private banks.
-At the same time, the SBA is an outlier among competing economies in not
-considering medium-sized enterprises along with small businesses, often referred
-to collectively as small and medium-sized enterprises (SMEs). Medium-sized and
-regional businesses are increasingly critical to maintaining competition. The next
-Administration should:
+
+### Small-Business Size Standard Modernization
+
+Many small-business pro- grams both inside and outside the SBA use the SBA’s definition of “small business.” Under the Small Business Act, the SBA is tasked with defining what counts as a small business and ensuring that the definition varies from industry to industry to reflect differences in regular size by industry. However, the SBA’s small-business size standards reflect a one-size-fits-all approach under which all businesses within its size standard are considered small businesses for all eligible purposes, from gov- ernment contracting preferences to eligibility for SBA loans through private banks. At the same time, the SBA is an outlier among competing economies in not considering medium-sized enterprises along with small businesses, often referred to collectively as small and medium-sized enterprises (SMEs). Medium-sized and regional businesses are increasingly critical to maintaining competition. The next Administration should:
 
 The Small Business Regulatory Enforcement Fairness Act70 (SBREFA) panel
 process allows small businesses to provide input on agency rulemakings,
 gives participating small businesses greater procedural rights, and allows for
 judicial review of agency violations of the SBREFA panel process. SBREFA
 panel requirements should be extended to all federal agencies.
+
 The Fair and Open Competition Act71 would disallow the use of project labor
 agreements (PLAs) in federal contracting as required in President Biden’s
 Executive Order 14063,72 which puts small businesses at a competitive
@@ -52,15 +44,12 @@ require federal agencies to perform more thorough RFA economic analysis
 and provide a rationale for proposed regulations. It also would waive fines
 for certain first-time paperwork violations.
 
-COVID-19 Lending Program Accountability and Cleanup. 
 
-A major
-immediate priority for the next Administration should be a final accounting and
-accelerated cleanup of fraudulent COVID-19 loan and grant activity. As noted by
-the SBA IG, “managing COVID-19 stimulus lending is the greatest overall challenge
+### COVID-19 Lending Program Accountability and Cleanup. 
+
+A major immediate priority for the next Administration should be a final accounting and accelerated cleanup of fraudulent COVID-19 loan and grant activity. As noted by the SBA IG, “managing COVID-19 stimulus lending is the greatest overall challenge
 facing SBA, and it may likely continue to be for many years as the agency grapples
 with fraud in the programs....”40 The next Administration should:
-
 
 Consider bringing in private-sector support and expertise to close
 out these programs. Forgiveness and fraud must be dealt with as swiftly
@@ -71,8 +60,8 @@ To date, despite continued oversight attempts by Members of Congress,44
 the SBA has taken no action on the Planned Parenthood loans other
 than to forgive them, and in 2021, it approved new PPP loans to Planned
 Parenthood affiliates.45
-l
-Cooperate with ongoing congressional oversight efforts and
+
+l Cooperate with ongoing congressional oversight efforts and
 determine whether SBA has authority to reverse the forgiveness
 decisions. If it does have that authority, the SBA should reverse the
 forgiveness decisions for the subject loans, reiterate its preliminary
@@ -287,47 +276,18 @@ for certain first-time paperwork violations.
 
 
 
-## ORGANIZATIONAL ISSUES AND BUDGET
+## Organizational Issues And Budget
 
-Administrator and Key Staff. The position of Administrator should not be
-considered a symbolic or messaging-related position as some past Administrations
-have viewed it. Rather, the Administrator should have the requisite experience,
-skills, and knowledge to ensure that the SBA fulfills its statutory authorities.
-Because much of the SBA’s statutory authority relates to financing and reg-
-ulatory policy, and in order to make the SBA a more effective agency within the
-Administration, the Administrator and his or her key staff should have experience
-in small-business finance and investment and/or administrative law. For example,
-during the COVID-19 pandemic, the SBA was often forced to outsource key deci-
-sions and administrative follow-through to the Department of the Treasury. The
-SBA Administrator and leadership team must share the President’s mission and
-vision and execute the Administration’s policies effectively.
+Administrator and Key Staff. 
 
-Budget
-
-The next Administration should undertake a comprehensive review of the
-effectiveness of its various loan and grant programs and provide a report to
-Congress within six months. The report should rank programs by cost-effective-
-ness. In the interim, the roughly $1 billion overall agency budget should be held
-constant until the report is considered, after which Congress should terminate ineffective programs, consolidate duplicative functions, and reallocate resources
-to more effective programs (such as the Office of Advocacy) or consider reducing
-the SBA budget.
-
-Personnel Challenges
-
-The SBA continues to expand programs and initiatives without first document-
-ing the effectiveness of existing programs or whether they involve areas in which
-the agency lacks staff expertise. For example, the SBA wants to expand the number
-of licensed Small Business Lending Companies (SBLCs), implement a new “Mis-
-sion-Based SBLC,” and remove a requirement for loan authorization within the
-7(a) and 504 Loan programs and rely solely on a lender’s documents.
-Various IG reports have noted that the lack of skilled employees within the
-SBA has fueled fraud and mismanagement in COVID-19 lending programs, and
-congressional leaders have expressed alarm about these “changes that haphazardly
-overextend the SBA’s responsibilities at a time when they are devastated by fraud
-and underperforming on their core mission of serving the nation’s 33 million small
-businesses.”74 A conservative Administration should rein in these idealistic and
-impractical efforts, get current programs under control and properly staffed with
-people who can manage and perform competently, and outsource efforts where
-private-sector expertise is appropriate and more efficient.
+The position of Administrator should not be considered a symbolic or messaging-related position as some past Administrations have viewed it. Rather, the Administrator should have the requisite experience, skills, and knowledge to ensure that the SBA fulfills its statutory authorities. Because much of the SBA’s statutory authority relates to financing and reg- ulatory policy, and in order to make the SBA a more effective agency within the Administration, the Administrator and his or her key staff should have experience in small-business finance and investment and/or administrative law. For example, during the COVID-19 pandemic, the SBA was often forced to outsource key deci- sions and administrative follow-through to the Department of the Treasury. The SBA Administrator and leadership team must share the President’s mission and vision and execute the Administration’s policies effectively.
 
 
+### Budget
+
+The next Administration should undertake a comprehensive review of the effectiveness of its various loan and grant programs and provide a report to Congress within six months. The report should rank programs by cost-effective- ness. In the interim, the roughly $1 billion overall agency budget should be held constant until the report is considered, after which Congress should terminate ineffective programs, consolidate duplicative functions, and reallocate resources to more effective programs (such as the Office of Advocacy) or consider reducing the SBA budget.
+
+
+### Personnel Challenges
+
+The SBA continues to expand programs and initiatives without first document- ing the effectiveness of existing programs or whether they involve areas in which the agency lacks staff expertise. For example, the SBA wants to expand the number of licensed Small Business Lending Companies (SBLCs), implement a new “Mis- sion-Based SBLC,” and remove a requirement for loan authorization within the 7(a) and 504 Loan programs and rely solely on a lender’s documents. Various IG reports have noted that the lack of skilled employees within the SBA has fueled fraud and mismanagement in COVID-19 lending programs, and congressional leaders have expressed alarm about these “changes that haphazardly overextend the SBA’s responsibilities at a time when they are devastated by fraud and underperforming on their core mission of serving the nation’s 33 million small businesses.”74 A conservative Administration should rein in these idealistic and impractical efforts, get current programs under control and properly staffed with people who can manage and perform competently, and outsource efforts where private-sector expertise is appropriate and more efficient.

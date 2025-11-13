@@ -11,23 +11,22 @@ writer:
 ---
 
 
-History follows the thread of events; it is pragmatic so
-far as it deduces them in accordance with the law of motivation,
-a law that determines the self-manifesting will wherever it is
-enlightened by knowledge. At the lowest grades of its objectivity,
-where it still acts without knowledge, natural science, in the form
-of etiology, treats of the laws of the changes of its phenomena,
+History follows the thread of events.
+
+It is pragmatic so far as it deduces them in accordance with the law of motivation, a law that determines the self-manifesting will wherever it is enlightened by knowledge.
+
 
 <!-- 49 This last sentence cannot be understood without some acquaintance with
 the next book. -->
 
-and, in the form of morphology, of what is permanent in them.
+At the lowest grades of its objectivity, where it still acts without knowledge, natural science, in the form of etiology, treats of the laws of the changes of its phenomena, and, in the form of morphology, of what is permanent in them.
 This almost endless task is lightened by the aid of concepts, which
 comprehend what is general in order that we may deduce what is
 particular from it. Lastly, mathematics treats of the mere forms,
 time and space, in which the Ideas, broken up into multiplicity,
-appear for the knowledge of the subject as individual. All these,
-of which the common name is science, proceed according to
+appear for the knowledge of the subject as individual. 
+
+All these, of which the common name is science, proceed according to
 the principle of sufficient reason in its different forms, and their
 theme is always the phenomenon, its laws, connections, and the
 relations which result from them. But what kind of knowledge
@@ -36,6 +35,7 @@ relations, that which alone is really essential to the world, the
 true content of its phenomena, that which is subject to no change,
 and therefore is known with equal truth for all time, in a word,
 the Ideas, which are the direct and adequate objectivity of the thing in-itself, the will? We answer, Art, the work of genius.
+
 It repeats or reproduces the eternal Ideas grasped through pure
 contemplation, the essential and abiding in all the phenomena
 of the world; and according to what the material is in which it

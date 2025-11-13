@@ -3,7 +3,7 @@ title: "COVID-19 Lending Program Accountability and Cleanup"
 date: 2024-11-01
 description: ""
 c: "firebrick"
-icon: "US"
+icon: "Heritage Foundation"
 author: "Karen Kerrigan"
 heading: Chapter 25c
 weight: 64
