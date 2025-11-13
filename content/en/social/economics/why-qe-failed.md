@@ -121,8 +121,6 @@ QE3 Sep 2012 – Oct 2014 | $1.7 Trillion | MBSs ($40B/month) and Treasuries ($4
 <!-- QE4 (Pandemic-Era),Mar 2020 – Mar 2022,∼$4.7 Trillion,"Treasuries and MBSs (initially unlimited, later fixed at $80B and $40B per month, respectively).",The largest QE program; it more than doubled the Fed's balance sheet from $4.2 trillion to ∼$8.9 trillion. -->
 
 
-
-
 But instead of driving US growth, the wholesale money merely circulated between stock corporations instead of going down to the real economy as employment. 
 
 This led to:

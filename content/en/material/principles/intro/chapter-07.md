@@ -41,7 +41,7 @@ Material | Mostly Negative
 
 ## Action from Effort
 
-These layers and identities never exist in isolation. The contact of their spins exposes the differenecs in their configuration which manifests as relational action. 
+These layers and identities never exist in isolation. The contact of their spins exposes the differences in their configuration which manifests as relational action. 
 
 Each layer and particle has a specific set or range of actions as part of the duty of expressing its original or causal idea. 
 - This can be seen as their division of labor in creating reality. 
@@ -102,6 +102,6 @@ But this material force is not so relevant to radiant objects such as light whic
 
 
 
-{{< d t="Sept 11, 2025" >}}
+{{< d t="Update: Sept 11, 2025" >}}
 Overhauled action to connect to relationality, impact, and force
 {{< /d >}}

@@ -31,7 +31,7 @@ Hanno was at Cerne.
 
 The Carthaginians, it seems, made no use of this second enterprise.
 
-Scylax*  says, that the sea is not † navigable beyond Cerne, because it is shallow, full of mud and seaweeds
+Scylax* says, that the sea is not † navigable beyond Cerne, because it is shallow, full of mud and seaweeds
 
 In fact, there are many of these in those latitudes. *  
 
@@ -152,7 +152,9 @@ We see in the treaty which put an end to the first Punic war, that:
 - Carthage was attentive to preserve the empire of the sea
 - Rome was attentive to preserve the empire of the land. 
 
-Hanno, in his negociation with the Romans, declared, that they should not be suffered even to wash their hands in the sea of Sicily; they were not permitted to sail beyond the promontorium pulchrum  they were forbid to trade in Sicily, Sardinia, and Africa, except at Carthage: an exception that lets us see there was no design to favour them in their trade with that city.
+Hanno, in his negociation with the Romans, declared, that they should not be suffered even to wash their hands in the sea of Sicily.
+
+They were not permitted to sail beyond the promontorium pulchrum  they were forbid to trade in Sicily, Sardinia, and Africa, except at Carthage: an exception that lets us see there was no design to favour them in their trade with that city.
 
 In early times there had been very great wars between Carthage and Marseilles> ‡ on the subject of fishing.
 

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 4"
 title: "The Principal Difference between the Commerce of the Ancients and the Moderns"
 weight: 8
 description: "European trade is currently carried on principally from the north to the south"
@@ -21,7 +21,9 @@ Thus the burden of vessels, which was formerly computed by measures of corn, is 
 The ancient commerce was carred on from one port in the Mediterranean to another.
 
 It was almost wholly confined to the south.
-Now the people of the same climate, having nearly the same things of their own, have not the same need of trading amongst themselves as with those of a different climate.
+
+The people of the same climate, having nearly the same things of their own, have not the same need of trading amongst themselves as with those of a different climate.
+
 The commerce of Europe was therefore formerly less extended than at present.
 
 This does not at all contradict what I have said of our commerce to the Indies= for here the prodigious difference of climate destroys all relation between their wants and ours.

@@ -9,7 +9,7 @@ weight: 62
 
 Waters and Light.
 
-I (1). Praise of the holy bull.
+<!-- I (1). Praise of the holy bull.
 
 II (2-3). Invocation addressed to rain as a healing power.
 
@@ -19,7 +19,8 @@ III b (8-11). Joint invocation addressed to the waters and to the light of the m
 
 III c (12-17). Joint invocation addressed to the waters and to the light of the stars.
 
-IV (18-21). Spells against disease.
+IV (18-21). Spells against disease. -->
+
 
 I.
 

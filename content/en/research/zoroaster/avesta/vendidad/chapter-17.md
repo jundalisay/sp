@@ -9,11 +9,13 @@ weight: 51
 
 
 
-Hair and Nails.
+<!-- Hair and Nails.
 
 Anything that has been separated from the body of man is considered dead matter (Introd. V, 12), and is accordingly supposed to fall into the possession of the demon and to become the abode of death and uncleanness. Therefore, hair and nails, as soon as cut off, are at once the property of Ahriman, and the demon has to be driven away from them by spells, in the same way as he is from the bodies of the dead. They are withdrawn from his power by the recital of certain prayers, and by being deposited in the earth inside consecrated circles, which are drawn around them as an intrenchment against the fiend (see above, p. 122, n. 1).
 
-This chapter, which has given full scope to the ironical humour of many, is an invaluable document in the eyes of the mythologist, as he finds in it, if not the origin and explanation, at least the oldest record of world-wide superstitions. Not only in Bombay, but all over the world, people are found who believe that hair and nails are weapons in the hands of the evil one. The Esthonians, on the shores of the Baltic, take the utmost care not to drop the parings of their nails on the ground, lest the devil should pick them up, to make a visor to his cap, which will give him full power to injure men, unless the sign of the cross has been made over them 1. The Gauchos in the Chilian pampas fear to throw their hair to the winds, but deposit it in holes dug in a wall 2. In Liége good people are advised not to throw away their hair, nor to leave it in the teeth of the comb, lest a witch take hold of it and cast a spell over them 3.
+This chapter, which has given full scope to the ironical humour of many, is an invaluable document in the eyes of the mythologist, as he finds in it, if not the origin and explanation, at least the oldest record of world-wide superstitions. 
+
+Not only in Bombay, but all over the world, people are found who believe that hair and nails are weapons in the hands of the evil one. The Esthonians, on the shores of the Baltic, take the utmost care not to drop the parings of their nails on the ground, lest the devil should pick them up, to make a visor to his cap, which will give him full power to injure men, unless the sign of the cross has been made over them 1. The Gauchos in the Chilian pampas fear to throw their hair to the winds, but deposit it in holes dug in a wall 2. In Liége good people are advised not to throw away their hair, nor to leave it in the teeth of the comb, lest a witch take hold of it and cast a spell over them 3. -->
 
 I.
 
@@ -40,4 +42,3 @@ II.
 
 
 11 (30). 'All such sinners, embodiments of the Drug, are scorners of the law: all scorners of the law are rebels against the Lord: all rebels against the Lord are ungodly men; and any ungodly man shall pay for it with his life 1.'
-

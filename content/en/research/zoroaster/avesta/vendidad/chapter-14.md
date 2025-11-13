@@ -17,7 +17,9 @@ weight: 9
 
 4 (7). ‘He shall godly and piously tie and consecrate ten thousand bundles of baresma; he shall offer up to the good waters ten thousand Zaothra libations with the Haoma and the sacred meat 4, cleanly prepared and well strained, cleanly prepared and well strained by a pious man 5, as an atonement unto the soul (of the water dog).
 
-5 (9). ‘He shall kill ten thousand snakes of those that go upon the belly; he shall kill ten thousand snakes of those that have the shape of a dog 1; he shall kill ten thousand tortoises; he shall kill ten thousand land frogs 2; he shall kill ten thousand water frogs; he shall kill ten thousand corn-carrying ants 3; he shall kill ten thousand ants of those that bite and dig holes and work mischief 4.
+5 (9). ‘He shall kill ten thousand snakes of those that go upon the belly; he shall kill ten thousand snakes of those that have the shape of a dog 1; he shall kill ten thousand tortoises; he shall kill ten thousand land frogs 2; 
+
+He shall kill ten thousand water frogs; he shall kill ten thousand corn-carrying ants 3; he shall kill ten thousand ants of those that bite and dig holes and work mischief 4.
 
 6 (16). ‘He shall kill ten thousand earth worms; he shall kill ten thousand horrid flies 5.
 
