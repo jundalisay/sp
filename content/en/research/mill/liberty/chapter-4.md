@@ -73,7 +73,9 @@ When the period of education is finished, the self-regarding virtues should be i
 
 <!-- Human beings owe to each other help to distinguish the better from the worse, and encouragement to choose the[Pg 143] former and avoid the latter.  -->
 
-They should be for ever stimulating each other to increased exercise of their higher faculties, and increased direction of their feelings and aims towards wise instead of foolish, elevating instead of degrading, objects and contemplations. But neither one person, nor any number of persons, is warranted in saying to another human creature of ripe years, that he shall not do with his life for his own benefit what he chooses to do with it. 
+They should be for ever stimulating each other to increased exercise of their higher faculties, and increased direction of their feelings and aims towards wise instead of foolish, elevating instead of degrading, objects and contemplations. 
+
+But neither one person, nor any number of persons, is warranted in saying to another human creature of ripe years, that he shall not do with his life for his own benefit what he chooses to do with it. 
 
 He is the person most interested in his own well-being. The interest which any other person, except in cases of strong personal attachment, can have in it, is trifling, compared with that which he himself has. 
 
@@ -109,9 +111,23 @@ But of this he has no right to complain, unless he has merited their favour by s
 
 What I contend for is, that the inconveniences which are strictly inseparable from the [Pg 147]unfavourable judgment of others, are the only ones to which a person should ever be subjected for that portion of his conduct and character which concerns his own good, but which does not affect the interests of others in their relations with him. 
 
-Acts injurious to others require a totally different treatment. Encroachment on their rights; infliction on them of any loss or damage not justified by his own rights; falsehood or duplicity in dealing with them; unfair or ungenerous use of advantages over them; even selfish abstinence from defending them against injury—these are fit objects of moral reprobation, and, in grave cases, of moral retribution and punishment. 
+Acts injurious to others require a totally different treatment:
 
-Not only these acts, but the dispositions which lead to them, are properly immoral, and fit subjects of disapprobation which may rise to abhorrence. 
+- Encroachment on their rights
+- infliction on them of any loss or damage not justified by his own rights
+- falsehood or duplicity in dealing with them
+- unfair or ungenerous use of advantages over them
+- even selfish abstinence from defending them against injury—these are fit objects of moral reprobation, and, in grave cases, of moral retribution and punishment. 
 
-Cruelty of disposition; malice and ill-nature; that most anti-social and odious of all passions, envy; dissimulation and insincerity; irascibility on insufficient cause, and resentment disproportioned to the provocation; the love of domineering over others; the desire to engross more than one's share of advantages (the πλεονεξἱα [Greek= pleonexia] of the Greeks).
+The dispositions which lead to such acts are immoral:
+
+- cruelty of disposition
+- malice and ill-nature
+- envy -- the most anti-social and odious of all passions
+- dissimulation and insincerity
+- irascibility on insufficient cause
+- resentment disproportioned to the provocation
+- the love of domineering over others
+- the desire to engross more than one's share of advantages (the πλεονεξἱα [Greek= pleonexia] of the Greeks)
+
 

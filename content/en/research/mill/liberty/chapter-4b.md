@@ -97,7 +97,11 @@ The existing generation is master both of the training and the entire circumstan
 
 If society lets any considerable number of its members grow up mere children, incapable of being acted on by rational consideration of distant motives, society has itself to blame for the consequences. 
 
-Armed not only with all the powers of education, but with the ascendency which the authority of a received opinion always exercises over the minds who are least fitted to judge for themselves; and aided by the natural penalties which cannot be prevented from falling on those who incur the distaste or the contempt of those who know them; let not society pretend that it needs, besides all this, the power to issue commands and enforce obedience in the personal concerns of individuals, in which, on all principles of justice and policy, the decision ought to rest with those who are to abide the consequences. 
+Armed not only with all the powers of education, but with the ascendency which the authority of a received opinion always exercises over the minds who are least fitted to judge for themselves.
+
+Aided by the natural penalties which cannot be prevented from falling on those who incur the distaste or the contempt of those who know them.
+
+Let not society pretend that it needs, besides all this, the power to issue commands and enforce obedience in the personal concerns of individuals, in which, on all principles of justice and policy, the decision ought to rest with those who are to abide the consequences. 
 
 Nor is there anything which tends more to discredit and frustrate the better means of influencing conduct, than a resort to the worse. 
 
@@ -125,4 +129,6 @@ There are many who consider as an injury to themselves any conduct which they ha
 
 For example, a religious bigot, when charged with disregarding the religious feelings of others, has been known to retort that they disregard his feelings, by persisting in their abominable worship or creed. 
 
-But there is no parity between the feeling of a person for his own opinion, and the feeling of another who is offended at his holding it; no more than between the desire of a thief to take a purse, and the desire of the right owner to keep it. And a person's taste is as much his own peculiar concern as his opinion or his purse. 
+But there is no parity between the feeling of a person for his own opinion, and the feeling of another who is offended at his holding it.
+
+No more than between the desire of a thief to take a purse, and the desire of the right owner to keep it. And a person's taste is as much his own peculiar concern as his opinion or his purse. 
