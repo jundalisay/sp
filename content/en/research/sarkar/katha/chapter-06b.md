@@ -57,9 +57,7 @@ He knows my time and he will come only at that time.
 
 All the way he continued to ask so many things about Baba.
 
-On returning to Monghyr, I got busy in government work and in the evening
-reached Baba's residence for His darshan. I had His darshan, had an opportunity to do
-my pranam and then accompanied Him on His walk.
+On returning to Monghyr, I got busy in government work and in the evening reached Baba's residence for His darshan. I had His darshan, had an opportunity to do my pranam and then accompanied Him on His walk.
 
 When Baba sat down on the grave in the field, I asked him:
 
@@ -89,14 +87,7 @@ His wife was also there. She told me that since the morning after his bath he ha
 When I looked at him, I found that his hair was dishevelled. His wife appeared worried and he had forbidden anyone from outside be told about his
 condition.
 
-He asked his wife also to go out of the room for some time. When she had left and we were alone, he told me his story. He said that after taking his bath he had come out of the bathroom and approached the dressing table to do his hair. He stood
-in front of the mirror, which was big enough to reflect his whole body, and saw that
-Baba was standing in the mirror. He was standing in front of the mirror, and normally
-the mirror should have reflected his own image, but instead, he saw Baba there and
-was extremely surprised at it. He could not rely on his own eyes, and several times
-rubbed his eyes to see clearly, but he found that Baba was still standing in the mirror.
-At this, he felt such a pleasant sensation that he lost the consciousness of his body and
-began to shed tears of joy incessantly.
+He asked his wife also to go out of the room for some time. When she had left and we were alone, he told me his story. He said that after taking his bath he had come out of the bathroom and approached the dressing table to do his hair. He stood in front of the mirror, which was big enough to reflect his whole body, and saw that Baba was standing in the mirror. He was standing in front of the mirror, and normally the mirror should have reflected his own image, but instead, he saw Baba there and was extremely surprised at it. He could not rely on his own eyes, and several times rubbed his eyes to see clearly, but he found that Baba was still standing in the mirror. At this, he felt such a pleasant sensation that he lost the consciousness of his body and began to shed tears of joy incessantly.
 
 Hearing him and looking at him, I myself began to feel a sensation of ecstasy and began to wonder at the infinite liila of Baba. How compassionate He is to His devotees. Wherever His devotees may be, Baba is always with them. When Asthanaji took time to come out of the dressing room, his wife came in, and when she saw his condition she was amazed. She questioned him, but got no reply. She therefore became worried.
 

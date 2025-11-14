@@ -16,7 +16,7 @@ So far DMC had taken place in Jamalpur, Monghyr, Bhagalpur and Patna only. Thus 
 Baba’s Vanii for the occasion was like this:
 
 {{< l a="Baba" >}}
-“Those who have collected by taking the resolve of marching together the obstacles of the path cannot obstruct them. Those who are planning to conquer the world and marching to the tune of victory, their speed cannot be marred by the suspicious sight of cowardish thoughts. 
+Those who have collected by taking the resolve of marching together the obstacles of the path cannot obstruct them. Those who are planning to conquer the world and marching to the tune of victory, their speed cannot be marred by the suspicious sight of cowardish thoughts. 
 
 Oh human beings, you advance forward. Your only language should be the speed towards progress.”
 Anandamurti 1.1.1957
@@ -39,39 +39,37 @@ On January 1, 1957, all the Margiis of Muzzafarpur decided that Baba should come
 <!-- Our request was dispatched to Baba through a special messenger and we were waiting anxiously for Baba to send His acceptance of our request.
 rd -->
 
-Meanwhile on 3 January 1957, I was informed by phone from the office of my departmental head in Patna, that I had been promoted and that I have been posted in
-the head office at Danapur.
+Meanwhile on 3 January 1957, I was informed by phone from the office of my departmental head in Patna, that I had been promoted and that I have been posted in the head office at Danapur.
 
-I received this information on the same day and almost at the same time that two years before on 3rd January 1955, I had received the information of my demotion. I was relieved of my duty on 7 January 1957 to join my new post in the head office. Baba thus completed two years of my eventful career.
+I received this information on the same day and almost at the same time that two years before on January 3, 1955, I had received the information of my demotion. 
 
-As this was going Baba’s acceptance for DMC at Muzaffarpur also arrived. The time for DMC and Baba’s arrival was between 27 January1957 to 29 January. On the 15 January I was to take over my new post in the head office and I was sorry that Iwould not be able to devote time for the preparation of the DMC. 
+I was relieved of my duty on 7 January 1957 to join my new post in the head office. Baba thus completed two years of my eventful career.
 
-At that time the most prominent workers at Muzaffarpur were Acarya Kishanji,
-Acarya Prem Bahadurji, Acarya Vishwanathji Sakaldeoji, Gaunga Sharanji and such
-other respected persons. I consulted them all and I was allowed to join duties on 15
-January 1957 and asked to come to Muzaffarpur a day earlier than the DMC.
+As this was going Baba’s acceptance for DMC at Muzaffarpur also arrived. The time for DMC and Baba’s arrival was between  January 27, 1957 to January 29. 
+
+On the January 15, I was to take over my new post in the head office and I was sorry that Iwould not be able to devote time for the preparation of the DMC. 
+
+At that time the most prominent workers at Muzaffarpur were Acarya Kishanji, Acarya Prem Bahadurji, Acarya Vishwanathji Sakaldeoji, Gaunga Sharanji and such other respected persons. I consulted them all and I was allowed to join duties on 
+January 15, 1957 and asked to come to Muzaffarpur a day earlier than the DMC.
 
 I left my family at Muzaffarpur went and joined my duties on 15 January and returned to Muzaffarpur on the night of the 25 January and engaged myself in the work of helping to organise the DMC.
 
-Baba arrived by train. There was a big welcoming crowd of Margii brothers and
-sisters at the railway station. As the train steamed in the whole atmosphere vibrated
-with the sound of ‘Ananda Marga Amar Hey’ (‘Ananda Marga is Immortal’) and ‘Shrii
-Shrii Anandamurtiji ki Jai’. Every Margii was caught by a wonderful wave. Someone
-was weeping another was vibrating with songs and some one lost all awareness of the
-body.
+Baba arrived by train. There was a big welcoming crowd of Margii brothers and sisters at the railway station. As the train steamed in the whole atmosphere vibrated with the sound of ‘Ananda Marga Amar Hey’ (‘Ananda Marga is Immortal’) and ‘Shrii Shrii Anandamurtiji ki Jai’. 
 
-Among those who had come was Bindeshwariji who was dancing with great
-devotion, and singing. While dancing he lost all consciousness of his body Shrii Ram
-Khelavanji and other members of his family were looking after him. No-one remained
-untouched by these devotional vibrations. I was standing in one corner looking at all
-the devotees.
+Every Margii was caught by a wonderful wave. Someone was weeping another was vibrating with songs and some one lost all awareness of the body.
 
-Arrangements had ben made for Baba to stay in the bungalow of Acarya Prem Bahadur Mathur. Therefore he and Acarya Kishanji took Baba in his car to the house. The rest of the devotees started walking towards this house dancing and singing with devotion. They looked like the waves of the ocean rolling towards the shore. I had the responsibility to take those devotees from Jamalpur who had come with Baba to the place where they were to stay in my car.
+Among those who had come was Bindeshwariji who was dancing with great devotion, and singing. While dancing he lost all consciousness of his body Shrii Ram Khelavanji and other members of his family were looking after him. 
+
+No-one remained untouched by these devotional vibrations. I was standing in one corner looking at all the devotees.
+
+Arrangements had ben made for Baba to stay in the bungalow of Acarya Prem Bahadur Mathur. Therefore he and Acarya Kishanji took Baba in his car to the house. The rest of the devotees started walking towards this house dancing and singing with devotion. They looked like the waves of the ocean rolling towards the shore.
+
+I had the responsibility to take those devotees from Jamalpur who had come with Baba to the place where they were to stay in my car.
 
 The then General Secretary of the Marga, Shri P.K. Chatterjee, had also come along with Baba. I told him that I wanted to take Baba to my residence for some time. Though it would mean some trouble for Baba, but my house would be purified by His presence and my family would feel blessed. He said that he would certainly put my request before Baba. He did so and then called me in.
 
 
-### BABA VISITS MY HOUSE
+### Baba Visits My House
 
 My request to Baba to visit my house was supported by the General Secretary. 
 
@@ -80,11 +78,13 @@ to my residence. -->
 
 Every member of my family and myself got the opportunity to do our sastaunga pranam before Baba. I was so flooded with emotion due to the immense pleasure, that tears began to flow from my eyes and my voice was choked. I placed some fruits and sweets before Baba but He was not prepared to eat anything. 
 
-My wife was standing with a glass of water in her hands. With great persistence, I took one rasgulla up to His mouth. Baba took a very small bite and we were all highly pleased. Then Baba said, “Enough”, and took the glass of water from my wife’s hand. The rest of the fruits and sweets we ate as prasad.
+My wife was standing with a glass of water in her hands. With great persistence, I took one rasgulla up to His mouth. 
 
-Baba sat for sometime and talked with the children and then got ready to leave. All of us did our sastaunga pranam again and then I took Him to the residence ofGaunga Sharanji which was close by. Shrii Gaunga Sharanji was standing ready to welcome Baba. He took Baba to his drawing room. Baba stayed there for sometime and then left for Prem Bahadurji’s bungalow. While returning from Gaunga Sharanji’s house I asked Baba why non-Margiis were not allowed in the DMC.
+Baba took a very small bite and we were all highly pleased. Then Baba said, “Enough”, and took the glass of water from my wife’s hand. The rest of the fruits and sweets we ate as prasad.
 
-Baba said:
+Baba sat for sometime and talked with the children and then got ready to leave. All of us did our sastaunga pranam again and then I took Him to the residence ofGaunga Sharanji which was close by. 
+
+Shrii Gaunga Sharanji was standing ready to welcome Baba. He took Baba to his drawing room. Baba stayed there for sometime and then left for Prem Bahadurji’s bungalow. While returning from Gaunga Sharanji’s house I asked Baba why non-Margiis were not allowed in the DMC.
 
 {{< l a="Baba" >}}
 If some non-Margii would have an evil thought in the DMC about me, nature rebounds this immediately even without my wishing it, and he might be harmed. This is why non-Margiis are not allowed in DMC.” 

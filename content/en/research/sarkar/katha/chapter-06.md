@@ -29,8 +29,9 @@ He used to treat all his subordinates as his religious hosts and would relish wi
 
 <!-- We used to think that he followed the principle that 'food at others' cost is a real rarity in this world and should be taken repeatedly and abundantly'.  -->
 
-Sometimes even while taking his food, he would go the latrine to lighten himself. When the topic of sadhana was being discussed, he jumped into the discussion in the ancient posture of a religious debate and began to sing the praises of
-idol worship.
+Sometimes even while taking his food, he would go the latrine to lighten himself.
+
+When the topic of sadhana was being discussed, he jumped into the discussion in the ancient posture of a religious debate and began to sing the praises of idol worship.
 
 I told him that I was not well versed in the scriptures, but as far as common sense prevailed I contradicted this theory by repeating arguments which I picked up from Baba's conversations from time to time. 
 
@@ -47,13 +48,16 @@ agreed with panditji that one must eat, drink and be merry in this world and als
 remember God from time to time. He said that he disapproved of total dedication to
 God.
 
-Almost unwillingly I said, “Sir, after hearing our talk you are thinking in your mind to seek an opportunity to ask me to take you to the person where I learnt my
-sadhana, but just outwardly you are supporting the pandit's statement”.
+Almost unwillingly I said:
 
-Everyone laughed heartily at this remark of mine. All were about to leave now and I also left after this remark. The next day everyone had to come back to the office. 
+{{< r a="Nagina" >}}
+Sir, after hearing our talk you are thinking in your mind to seek an opportunity to ask me to take you to the person where I learnt my sadhana, but just outwardly you are supporting the pandit's statement
+{{< /r >}}
 
-I spent the night with Shri Chandranathji who was responsible for taking me to
-Baba for initiation. The train next morning was to leave very early and I missed it. 
+
+Everyone laughed at my remark. All were about to leave now and I also left after this remark. The next day everyone had to come back to the office. 
+
+I spent the night with Shri Chandranathji who was responsible for taking me to Baba for initiation. The train next morning was to leave very early and I missed it. 
 
 After breakfast, I rang up Shjri Asthanaji and informed him about my missing the train and the consequent inability to reach my office. I requested him either to sanction me a day's leave or to give me some office work for the day, so that I may utilize my time. 
 
@@ -79,18 +83,33 @@ some days.
 
 Baba smiled and asked, "Are you insisting again and again because he is your boss?"
 
-I replied, “it is not so. Whenever he meets me like one desirous of knowledge he insists on my requesting You that he may get permission. If I do not convey his feelings to You, my mind feels guilty. Hence, whenever he insists, I convey the same to You”.
+{{< r a="Nagina" >}}
+It is not so. Whenever he meets me like one desirous of knowledge he insists on my requesting You that he may get permission. If I do not convey his feelings to You, my mind feels guilty. Hence, whenever he insists, I convey the same to You
+{{< /r >}}
 
-Again when I met my boss he persisted in his request. This time it came to his mind that perhaps I was not putting his request forcefully before Baba. I guessed his feelings, but thought it best to keep quiet.
 
-Thereafter when I got an opportunity to meet Baba, I told Baba for his entertainment, "Baba, I am feeling like Trishanku. When I go to my worldly boss, he sends me here with his request and You escape by saying that his time has not yet come.
+When I met my boss he persisted in his request. This time it came to his mind that perhaps I was not putting his request forcefully before Baba. I guessed his feelings, but thought it best to keep quiet.
 
-Thus, I am being sandwiched between the worldly and the spiritual boss".
+Thereafter when I got an opportunity to meet Baba, I told Baba for his entertainment:
 
-Baba laughed heartily at this and said, "Are you keen that he should be initiated
-as he is your boss?"
+{{< r a="Nagina" >}}
+Baba, I am feeling like Trishanku. When I go to my worldly boss, he sends me here with his request and You escape by saying that his time has not yet come. Thus, I am being sandwiched between the worldly and the spiritual boss
+{{< /r >}}
 
-I said, "No Baba, his behaviour towards me is like that of relation." When I was about to leave, I asked again, "Baba, what reply should I give him?" 
+
+Baba laughed heartily:
+
+{{< l a="Baba" >}}
+Are you keen that he should be initiated as he is your boss?
+{{< /l >}}
+
+
+{{< r a="Nagina" >}}
+No Baba, his behaviour towards me is like that of relation. Baba, what reply should I give him?
+{{< /r >}}
+
+
+<!-- When I was about to leave, I asked again, ""  -->
 
 Baba was extremely kind and smilingly said, "Give him my postal address and let him find me out." I felt gratified and paid my respects. 
 

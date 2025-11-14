@@ -19,6 +19,7 @@ icon: "Rene Descartes"
 <!-- It followed after many days and years that a large part of this body D was consumed, and no more particles were found in it, except for the two species described earlier; and also that body E was quite dense and thick, because almost all the particles that had left D, either densified it by impacting its pores, or by encountering the particles of body B, were transformed and returned to it, increasing its thickness; and finally, leaving a sufficiently wide space F between D and E; which could only be filled with the material from which body B was formed; namely, the very fine particles of which easily passed through the passages of body E, leaving in places where slightly thicker ones exited from D. -->
 
 
+
 ## 40. How Body `D` was reduced in size, and left some space between itself and Body `E`
 
  <!-- rarefies -->

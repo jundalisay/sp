@@ -1,5 +1,5 @@
 ---
-title: "The 3 Kinds of Terrestrial Particles"
+title: "The Formation of the Earth"
 heading: Articles 37-39
 weight: 12
 description: "How the lower body C was divided into several others"

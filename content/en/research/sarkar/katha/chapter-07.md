@@ -15,46 +15,72 @@ My former boss, Ajit Singh, was attempting to get me demoted and himself promote
 
 He was of the firm conviction that his demotion was due to me, although this was far from true. He did not succeed in getting promoted; but he did succeed in getting me demoted. I received information in September 1954 that orders of my demotion had been passed in Delhi although formal orders were yet to be issued.
 
-I have always been attached to the prestige of my status. I therefore felt restless to save my prestige. I was not able to get leave and go to Baba, therefore I wrote a letter about my problems to Baba. I also wrote in the letter that I would prefer
-death to demotion and was least prepared to face a downfall in my rank.
+I have always been attached to the prestige of my status. I therefore felt restless to save my prestige. I was not able to get leave and go to Baba, therefore I wrote a letter about my problems to Baba. I also wrote in the letter that I would prefer death to demotion and was least prepared to face a downfall in my rank.
 
 When Baba received my letter He sent my relative and long-time friend Bindeshwariji, who was also a recent initiate, to find me in Begusarai. At the time however, I was in Khagaria for some work, but Bindeshwariji searched for me and
 found me there. He delivered Baba's message to me and immediately returned to
 Jamalpur.
 
-Baba's instructions were, “He was given two mantras. He makes use of one, but not the other at all. He should be told to use the other one also and so the order of demotion will not move further”.
+Baba's instructions were:
+
+{{< l a="Baba" >}}
+He was given two mantras. He makes use of one, but not the other at all. He should be told to use the other one also and so the order of demotion will not move further
+{{< /l >}}
 
 At this I immediately remembered the other mantra and began to follow the instructions in this regard. Meanwhile I also got leave and reached Baba's lotus feet in Jamalpur.
 
-At first Baba scolded me on my writing about my death. “You consider death to
-be a plaything”. Then He explained how promotion and demotion are part of a service
-career and one should not be perturbed at these. He also told that attachment to the
-status of a post is wrong. He advised me that it would be in my interest to accept the
-demotion that was coming.
+At first Baba scolded me on my writing about my death. 
 
-I was not at all ready to accept this situation. I enquired also what wrong I had
-done to deserve this punishment. Baba said 'I know that you have done nothing in this
-life to suffer a demotion in status. However this is a samskara of your past life and it
-would be best to suffer it. Even so, I was not ready to accept it.
-
-Baba then began to coax me in the same manner as parents do when a child
-begins to insist on something and during this process Baba said, "All right Nagina - let
-this be; that demotion will come when you want it".
-
-I thought over Baba's words for sometime and then it came to my mind that
-everyone in this world wants to rise. No one ever wants demotion. Baba is leaving me
-with the option of my own demotion - which is it shall come when I want it and will not
-come in case I do not want it. 
-
-Therefore why should I think of demotion at all? I thought
-that it was a good boon and why should I not accept it.
-I told Baba, "I am ready for it".
-
-Baba immediately said, “Let it be so”.I felt happy and went for a walk with Baba that evening.
-Salutations to Baba the Great Protector of Protectors!
+{{< l a="Baba" >}}
+You consider death to be a plaything
+{{< /l >}}
 
 
-### MAINJU IS BROUGHT BACK FROM THE DEAD
+Then He explained how promotion and demotion are part of a service career and one should not be perturbed at these. He also told that attachment to the status of a post is wrong.
+
+He advised me that it would be in my interest to accept the demotion that was coming.
+
+I was not ready to accept this situation.
+
+I enquired also what wrong I had done to deserve this punishment. 
+
+{{< l a="Baba" >}}
+I know that you have done nothing in this life to suffer a demotion in status. However this is a samskara of your past life and it would be best to suffer it. 
+{{< /l >}}
+
+
+Even so, I was not ready to accept it.
+
+{{< l a="Baba" >}}
+All right Nagina - let this be; that demotion will come when you want it
+{{< /l >}}
+
+
+<!-- Baba then began to coax me in the same manner as parents do when a child begins to insist on something and during this process Baba said, "". -->
+
+<!-- I thought over Baba's words for sometime and then it came to my mind  -->
+
+I realized that everyone in this world wants to rise. No one ever wants demotion. Baba is leaving me with the option of my own demotion - which is it shall come when I want it and will not come in case I do not want it. 
+
+Therefore why should I think of demotion at all? 
+
+I thought that it was a good boon and why should I not accept it. I told Baba:
+
+{{< r a="Nagina" >}}
+I am ready for it
+{{< /r >}}
+
+
+{{< l a="Baba" >}}
+Let it be so
+{{< /l >}}
+
+I felt happy and went for a walk with Baba that evening. 
+
+<!-- Salutations to Baba the Great Protector of Protectors! -->
+
+
+### Mainju Is Brought Back From The Dead
 
 My residence in Begusarai was in a lane.
 
