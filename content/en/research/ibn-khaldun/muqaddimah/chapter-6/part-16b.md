@@ -72,31 +72,29 @@ and argumentation, as is done in connection with human perceptions. -->
 
 This sort of insight corresponds to angelic perceptions and is transferred from them to human beings. Prophets have it through natural disposition. After them, saints have it through divine guidance. But one errs if one wants to obtain it by scientific methods. 
 
-Authors have occasionally tried to explain the (Sufi) opinions concerning the
-revelation (kashf) of existence and the order of the realities of existence according to
-the approach of the people who (have the theory of) "manifestations" (mazahir). 490
+Authors have occasionally tried to explain the (Sufi) opinions concerning the revelation (kashf) of existence and the order of the realities of existence according to the approach of the people who (have the theory of) "manifestations" (mazahir). 490
 
 As compared to people who cultivate speculation, technical terminology, and the sciences, (it must be said that) they have always added obscurity to obscurity. An example is al-Farghani,491 the commentator on Ibn al-Farid's Poem 492
 
-He wrote a preface at the beginning of his commentary. In connection with the origin of the world of existence from the Maker and its order, he mentions that all existence comes forth from the attribute of uniqueness (wahadniyah) which is the manifestation of unity (ahadiyah) 4 93 
+He wrote a preface at the beginning of his commentary. In connection with the origin of the world of existence from the Maker and its order, he mentions that all existence comes forth from the attribute of uniqueness (wahadniyah) which is the manifestation of unity (ahadiyah).
 
 Both of them together issue from the noble essence that is identical with oneness and nothing else. This process is called "revelation" (tajalli). 
 
-The first degree of revelation (tajalli), in (Sufi) opinion, is the revelation, as such 494 of the essence. This implies perfection, because it emanates creation and appearance, according to (God's) statement in the prophetic tradition
-transmitted by (the Sufis)= 
+The first degree of revelation (tajalli), in (Sufi) opinion, is the revelation, as such 494 of the essence. 
 
+This implies perfection, because it emanates creation and appearance, according to (God's) statement in the prophetic tradition transmitted by (the Sufis):
+
+{{< b >}}
 "I was a concealed treasure. I wanted to be known. Therefore, I created the creatures, so that they might know Me." 495 This is perfection in creation descending to the level of existence and particularization of the realities. It is, in (Sufi) opinion, the world of ideas, the nubilous ('amd'iyah) presence, 496 and Muhammadan reality. It contains the realities of the attributes, the writing tablet and the pen, the realities of all the prophets and messengers, and the whole of the people of the Muhammadan nation. All this is the particularization of the Muhammadan reality. 
 
 From these realities, other realities issue in the atomic (haba'iyah) presence, 497 which is the level of the ideas (mithal). From there, then, issue in succession the (divine) throne, the (divine) seat, the spheres, the world of the elements, and the world of composition. All this is (originally) in the world of mending (ratq), but when these things manifest themselves, they are in the world of rending (fatq). 
-
-End of the quotation.
-
+{{< /b >}}
 
 
 This school is called that of the people of revelation, manifestations, and presences. It is a theory that people cultivating (logical) speculation cannot properly grasp, because it is obscure and cryptic. 
 
 There also is a great gap between the theories of people who have vision and intuitive experience and those of people who
-cultivate logical reasoning. 498 
+cultivate logical reasoning.
 
 Sufi systems are often disapproved of on the strength of the plain wording of the religious law, for no indication of them can be found in it anywhere.
 
@@ -126,6 +124,6 @@ It exists only in perception. If there were no perceptions to create distinction
 
 When he sleeps and has no external sense perception, he loses in that condition all (perception of) sensibilia, with the exception of the things that the imagination particularizes for him. 
 
-They continued by saying that a person who is awake likewise experiences particularized perceptions only through the type of
-human perception (that exists) in him. If he had not that something in him that perceives, there would be no particularization. This is what the (Sufis) mean when they say "imaginary." They do not mean "imaginary" as a part (in the sequence) of human perceptions. 503 
+They continued by saying that a person who is awake likewise experiences particularized perceptions only through the type of human perception (that exists) in him.
 
+If he had not that something in him that perceives, there would be no particularization. This is what the (Sufis) mean when they say "imaginary." They do not mean "imaginary" as a part (in the sequence) of human perceptions.

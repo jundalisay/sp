@@ -74,19 +74,14 @@ for men who are in any way concerned with it.
 To understand Muhammad's statement, "The scholars are the heirs of the prophets," it should be realized that the jurists of this time and of the recent past have represented the religious law mainly by ruling on ritual practices and questions
 of mutual dealings (among Muslims). 
 
-They make (such rulings) for those who need them to be able to act in accordance with them. This has been the goal of (even) the greatest among (them). They are identified with (the religious law) only to a limited
-extent (and are known to be experts in it only) under certain conditions. The early
-Muslims, as well as pious and austere Muslims, on the other hand, represented the
-religious law in (all its aspects) and were identified with (all of) it and known to
-have had a thorough (practical) knowledge of its ways. People who represent the
-religious law without (recourse to the process of) transmission, may (be called)
-"heirs." Such, for instance, were the men mentioned in al-Qushayri's Risalah. 383
+They make (such rulings) for those who need them to be able to act in accordance with them. This has been the goal of (even) the greatest among (them). They are identified with (the religious law) only to a limited extent (and are known to be experts in it only) under certain conditions. 
 
-People who combine the two things 384 are religious scholars, the real "heirs," such
-as the jurists among the men of the second generation, the ancient Muslims, and the
-four imams, 385 as well as those who took them as models and followed in their
-steps. In the case of a Muslim who has only one of the two things, the better claimto be called an "heir" goes to a pious person rather than to a jurist who is not pious.
+The early Muslims, as well as pious and austere Muslims, on the other hand, represented the religious law in (all its aspects) and were identified with (all of) it and known to have had a thorough (practical) knowledge of its ways. People who represent the religious law without (recourse to the process of) transmission, may (be called) "heirs." 
 
-The pious man has inherited a quality. The jurist who is not pious, on the other hand, has not inherited anything. He merely makes rulings for us as to how to act. This applies to the majority of contemporary (jurists) 386 "except those who believe and
-do good, and they are few." <!-- 387 -->
+Such, for instance, were the men mentioned in al-Qushayri's Risalah. 383
+
+People who combine the 2 things are religious scholars, the real "heirs," such as the jurists among the men of the second generation, the ancient Muslims, and the four imams, as well as those who took them as models and followed in their
+steps. In the case of a Muslim who has only one of the two things, the better claimto be called an "heir" goes to a pious person rather than to a jurist who is not pious. 
+
+The pious man has inherited a quality. The jurist who is not pious, on the other hand, has not inherited anything. He merely makes rulings for us as to how to act. This applies to the majority of contemporary (jurists) 386 "except those who believe and do good, and they are few." <!-- 387 -->
 
