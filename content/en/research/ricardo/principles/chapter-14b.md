@@ -1,3 +1,13 @@
+---
+heading: Chapter 14b
+title: "The laboring class"
+description: ""
+c: "firebrick"
+weight: 185
+date: 2025-01-11
+---
+
+
 Smith uniformly and justly contends that the labouring classes cannot materially contribute to the burdens of the state. A tax on necessaries, or on wages, will therefore be shifted from the poor to the rich: if then, the meaning of Dr. Smith is, "that certain taxes are in the price of certain goods sometimes repeated, and accumulated four or five times," for the purpose only of accomplishing this end, namely, the transference of the tax from the poor to the rich, they cannot be liable to censure on that account.
 
 Suppose the just share of the taxes of a rich consumer to be 100l., and that he would pay it directly, if the tax were laid on income, on wine, or on any other luxury, he would suffer no injury if by the taxation of necessaries, he should319 be only called upon for the payment of 25l., as far as his own consumption of necessaries, and that of his family was concerned, but should be required to repeat this tax three times, by paying an additional price for other commodities to remunerate the labourers, or their employers, for the tax which they have been called upon to advance. Even in that case the reasoning is inconclusive: for if there be no more paid than what is required by Government; of what importance can it be to the rich consumer, whether he pay the tax directly, by paying an increased price for an object of luxury, or indirectly, by paying an increased price for the necessaries and other commodities he consumes? If more be not paid by the people, than what is received by Government, the rich consumer will only pay his equitable share; if more is paid, Adam Smith should have stated by whom it is received.

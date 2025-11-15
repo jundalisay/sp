@@ -138,35 +138,3 @@ Multimodal Transport is where a single contract of carriage is used for a journe
 
 Intermodal Transport uses 2 or more modes of transport, but each leg of the journey is covered by a separate contract with a separate carrier. This has Multiple Contracts, Multiple Operators.
 
-
-
-
-
-1.6 Penalties and Operational Charges (RENUMBERED)
-
-When a shipment encounters delays, specific fees are levied to compensate carriers or facility owners for the use of their equipment or space beyond the agreed free time.
-
-Term
-
-Definition
-
-Impact on Supply Chain
-
-Demurrage
-
-A charge payable to the shipping line (ocean carrier) for delaying their container past the "free time" while it is still inside the port terminal.
-
-Delays cargo pickup from the port, increasing import costs.
-
-Detention
-
-A charge payable to the shipping line for delaying the container past the "free time" while it is outside the port terminal (e.g., at the consignee’s warehouse for loading/unloading).
-
-Extends the time the container is out of circulation, impacting carrier fleet capacity.
-
-Storage
-
-A charge imposed by the port authority (terminal operator) for using their space to store a container past the "free time."
-
-Increases terminal operating costs and congestion.
-
