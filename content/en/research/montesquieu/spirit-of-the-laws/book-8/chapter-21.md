@@ -47,11 +47,23 @@ When the people are ready to starve, they disperse, in order to seek for nourish
 
 Most of them are extirpated in their very infancy, others swell, and are likewise suppressed. And yet, in so great a number of such distant provinces, some band or othe r may happen to meet with success. In that case, they maintain their ground , strengthen their party, form themselves into a military body, march up to the capital, and place their leader on the throne.
 
-From the very nature of things, a bad ad ministration is here immediately punished. The want of subsistence, in so p opulous a country, produces sudden disorders. The reason why the redress of abuses, Edition= current; Pa ge= [164] in other countries, is attended with such difficulty, is, becaus e their effects are not immediately felt; the prince is not informed in so  sudden and sensible a manner as in China.
+A bad administration is here immediately punished. 
 
-The emperor of China is not taught, like our princes, that, if he governs ill, he will be less happy in the other life, less powerful and less opulent in this. He knows, that, if his government is not just, he will be stripped both of empire and life.
+The lack of subsistence in so populous a country produces sudden disorders. 
 
-China grows more populous everyday despite the exposing of children. Its people are  incessantly employed in tilling the lands for food. This requires a very extraordinary attention in the government. It is their perpetual concern that every man should have it in his power to work, without the apprehension of being deprived of the fruits of his labour. Consequently, this is not so much a civil, as a domestic, government.
+The redress of abuses in other countries is difficult because their effects are not immediately felt.
+
+The prince is not informed in so sudden and sensible a manner as in China.
+
+The emperor of China is not taught, like our princes, that, if he governs ill, he will be less happy in the other life, less powerful and less opulent in this.
+
+He knows, that, if his government is not just, he will be stripped both of empire and life.
+
+China grows more populous everyday despite the exposing of children. Its people are  incessantly employed in tilling the lands for food. 
+
+This requires a very extraordinary attention in the government. It is their perpetual concern that every man should have it in his power to work, without the apprehension of being deprived of the fruits of his labour. 
+
+Consequently, this is not so much a civil, as a domestic, government.
 
 Such has been the origin of those regulations which have been so greatly extolled. They wanted to make the laws reign in conjunction with despotic power. But whatever is joined to the latter loses all its force. 
 

@@ -9,10 +9,12 @@ icon: "Montesquieu"
 ---
 
 
-MACHIAVEL says that:
-- Florence lost its liberty because its people did not judge cases of high-treason as a body, as was customary at Rome. 
-- Instead, they had 8 judges. 
-  - those few are corrupted by a few.
+Machiavelli says:
+
+{{< q a="Machiavelli" >}}
+Florence lost its liberty because its people did not judge cases of high-treason as a body, as was customary at Rome.  Instead, they had 8 judges. Those few are corrupted by a few.
+{{< /q >}}
+
 
 I agree to his maxim.
 
@@ -52,20 +54,25 @@ Besides, this would be confounding all ideas; it would be impossible to tell whe
 Lewis 13th being desirous to sit in judgement upon the trial of the duke ae la Valette†, sent for some [101] members of the parliament and of the privy-council to debate the matter. 
 
 
-
 The president de Believre was ordered by the king to give their opinion on the warrant for his arrest. He said:
 
-{{< q >}}
-<p>He found it very strange that a prince should pass sentence on a subject, that kings had reserved to themselves the power of pardoning, and left that of condemning to their officers, that his majesty wanted to see before him at the bar a person, who, by his decision, was to be hurried away into the other world, that the prince’s countenance should inspire with hopes, and not confound with fears= that his presence alone removed ecclesiastic censures= and that subjects ought not to go away dissatisfied from the sovereign.</p>
+{{< q a="President de Believre" >}}
+He found it very strange that a prince should pass sentence on a subject, that kings had reserved to themselves the power of pardoning, and left that of condemning to their officers, that his majesty wanted to see before him at the bar a person, who, by his decision, was to be hurried away into the other world, that the prince’s countenance should inspire with hopes, and not confound with fears: that his presence alone removed ecclesiastic censures= and that subjects ought not to go away dissatisfied from the sovereign.
 {{< /q >}}
 
-When sentence was passed, the same magistrate declared, “This is an unprecedented judgement; to see, contrary to the example of past ages, a king of France, in the quality of a judge, condemning a gentleman to death‡.”
+When sentence was passed, he declared:
+
+
+{{< q a="President de Believre" >}}
+This is an unprecedented judgement; to see, contrary to the example of past ages, a king of France, in the quality of a judge, condemning a gentleman to death‡.
+{{< /q >}}
+
 
 Again, sentences passed by the prince would be an inexhaustible source of injustice and abuse; the courtiers, by their importunity, would always be able to extort his decisions. Some Roman emperors were so mad as to sit as judges themselves; the consequence was, that no reigns ever so surprized the world with oppression and injustice.
 
 Tacitus says:
 
-{{< q >}}
+{{< q a="Tacitus" >}}
 Claudius, having appropriated to himself the determination of law suits and the function of magistrates, gave occasion to all manner of rapine.” 
 {{< /q >}}
 
@@ -73,20 +80,17 @@ Nero succeeded Claudius and tried to conciliate the people by declaring that he 
 
 Zozimus says:
 
-{{< q >}}
+{{< q a="Zozimus" >}}
 Under the reign of Arcadius, a swarm of calumniators spread themselves on every side, and infected the court. Upon a person’s decease, it was immediately supposed he had left no children and, in consequence of this, his property was given away by a recript. For, as the prince was surprizingly stupid, and the empress excessively enterprizing, she was a slave to the insatiable avarice of her domestics and confidents; insomuch, that, to an honest man, nothing could be more desirable than death.
 {{< /q >}}
 
 
 Procopius says:
 
-{{< q >}}
+{{< q a="Procopius" >}}
 There used to be very few people at court; but, in Justinian’s reign, as the judges had no longer the liberty of administering justice, their tribunals were deserted, while the prince’s palace resounded with the litigious clamours of the several parties.
 {{< /q >}}
 
 Everybody knows what a prostitution there was of public judgements, and even of the very laws themselves, at the emperor’s court.
 
 The laws are the eye of the prince; by them he sees what would otherwise escape his observation. Should he attempt the function of a judge, he would not then labour for himself, but for impostors, whose aim is to deceive him.
-
-
-

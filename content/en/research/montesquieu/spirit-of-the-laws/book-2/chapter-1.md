@@ -1,5 +1,5 @@
 ---
-heading: "Chapters 8-11"
+heading: "Chapters 1-2"
 title: "The Laws of a Republican Government"
 linkTitle: "Chapter 1"
 weight: 6

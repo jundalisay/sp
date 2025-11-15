@@ -2,7 +2,7 @@
 heading: "Chapter 13-15"
 title: "Mortal Sins"
 linkTitle: "Chapter 13-15"
-weight: 24
+weight: 14
 # "2021-09-30"
 description: "THE pious man and the atheist always talk of religion; the one speaks of what he loves, and the other of what he fears"
 c: "seagreen"

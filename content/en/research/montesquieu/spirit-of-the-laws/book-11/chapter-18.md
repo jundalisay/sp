@@ -2,6 +2,7 @@
 title: "The judiciary Power in the Roman Government"
 description: "Chapter 18"
 date: 2015-09-24
+weight: 22
 author: "Montesquieu"
 c: "seagreen"
 ---

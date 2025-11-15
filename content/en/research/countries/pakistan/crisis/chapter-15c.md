@@ -8,13 +8,30 @@ author: Munir Akram
 ---
 
 
-It was the sharp reaction within the higher echelons of the Pakistani Army to the Kerry-Lugar 'conditionalities', and the brazen attempt to assert control over Pakistan's Armed Forces and the ISI and dictate Pakistan's security priorities, which signalled that 'the worm had turned'. 
 
-This was followed by a period of 'inaction' by the Pakistani Army on Afghanistan. As the TTP and the Afghan Taliban made advances, strident statements emanated from Washington, issuing the improbable warning that Islamabad itself could be overrun by the Islamic radicals 'only sixty miles away'.
+Washington and its allies was able to act so blatantly against Pakistan's national interests because of:
+- the domestic vulnerability weakness of Pakistani leaders
+- their complete dependence on the US for survival
 
-When the Pakistan Army's operation was launched in Swat, the Western media presumed it was in response to American pressure. In fact, it was undertaken only when the local political leaders gave up their naive bid for accommodation with the TTP and public opinion in Pakistan turned
-against the militants due to their acts of brutality and barbarism. There was
-minimal coordination with the US. 
+This did not end with the change of government in 2008. 
+
+On the contrary, US efforts to control Pakistan's security and domestic affairs visibly intensified.
+
+This was evident from:
+- the conditionalities incorporated in the Kerry-Lugar Bill
+- the demand that Pakistan shift its military focus from deterring India to fighting the Taliban
+
+The Pakistani Army reacted that 'the worm had turned'.
+
+ <!-- to the Kerry-Lugar 'conditionalities', and the brazen attempt to assert control over Pakistan's Armed Forces and the ISI and dictate Pakistan's security priorities, which signalled that .  -->
+
+This was followed by 'inaction' by the Pakistani Army on Afghanistan.
+
+As the TTP and the Afghan Taliban made advances, strident statements emanated from Washington, issuing the improbable warning that Islamabad itself could be overrun by the Islamic radicals 'only sixty miles away'.
+
+When the Pakistan Army's operation was launched in Swat, the Western media presumed it was in response to American pressure. 
+
+In fact, it was undertaken only when the local political leaders gave up their naive bid for accommodation with the TTP and public opinion in Pakistan turned against the militants due to their acts of brutality and barbarism. There was minimal coordination with the US. 
 
 The operations focused only on the TTP not the Afghan Taliban. Later, Pakistan's high command clearly communicated that it would not relent in its priority aim of deterring India
 and responding to its conventional and nuclear arms build-up. 

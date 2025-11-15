@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 25"
 title: "The French Nobility"
-weight: 4
+weight: 74
 description: "Commerce was transferred to Jews who were covered with infamy."
 c: "seagreen"
 contributors: ['Montesquieu']

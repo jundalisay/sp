@@ -2,7 +2,7 @@
 heading: "Chapters 28-29"
 title: "How to Remedy a Depopulation; Healthcare Policy"
 linkTitle: "Chapter 16"
-weight: 24
+weight: 44
 # "2021-09-30"
 description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
 c: "seagreen"

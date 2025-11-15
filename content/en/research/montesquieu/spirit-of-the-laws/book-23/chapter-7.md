@@ -3,6 +3,8 @@ title:  "The Father’s Consent to Marriage"
 heading:  "Chapters 7-15"
 description:  "In common institutions, fathers have the disposal of their children in marriage. their prudence in this respect is always supposed to be superior to that of a stranger"
 c: "seagreen"
+weight: 8
+icon: "Montesquieu"
 author: "Montesquieu"
 ---
 
@@ -12,11 +14,14 @@ THE consent of fathers is founded on:
 - their love, reason, and
 - the uncertainty of that of their children, whom youth confines in a state of ignorance, and passion in a state of ebriety.
 
-In the small republics, or singular institutions already mentioned, they might have laws which gave to magistrates that right of inspection over the marriages of the children of citizens, which nature had already given to fathers. The love of the public might there equal or surpass all other love. Thus Plato would have marriages regulated by the magistrates:  this the Spartan magistrates performed.
+In the small republics, or singular institutions already mentioned, they might have laws which gave to magistrates that right of inspection over the marriages of the children of citizens, which nature had already given to fathers. The love of the public might there equal or surpass all other love. 
+
+Thus Plato would have marriages regulated by the magistrates:  this the Spartan magistrates performed.
 
 But in common institutions, fathers have the disposal of their children in marriage:  their prudence in this respect is always supposed to be superior to that of a stranger. Nature gives to fathers a desire of procuring successors to their children, when they have almost lost the desire of enjoyment themselves.
 
-In the several degrees of progeniture, they see themselves insensibly advancing to a kind of immortality. But what must be done, if oppression and avarice arise to such a height as to usurp all the authority of fathers? Let us hear what Thomas Gage* says in regard to the conduct of the Spaniards in the West-Indies.
+In the several degrees of progeniture, they see themselves insensibly advancing to a kind of immortality. But what must be done, if oppression and avarice arise to such a height as to usurp all the authority of fathers? Let us hear what Thomas Gage says in regard to the conduct of the Spaniards in the West-Indies.
+
 
 “According to the number of the sons and daughters that are marriageable, the father’s tribute is raised and increased, until they provide husbands and wives for their sons and daughters, who, as soon as they are married, are charged with tribute; which, that it may increase, they will suffer none above fifteen years of age to live unmarried. Nay, the set time of marriage, appointed for the Indians, is at 14 years for the man, and 13 for the woman; alledging that they are sooner ripe for the fruit of wedlock, and sooner ripe in knowledge and malice, and strength for work and service, than any other people. 
 
@@ -43,6 +48,3 @@ YOUNG women who are conducted by marriage alone to liberty and pleasure; who hav
 WHEREVER a place is found in which two persons can live commodiously, there they enter into marriage. Nature has a sufficient propensity to it, when unrestrained by the difficulty of subsistence.
 
 A rising people increase and multiply extremely. This is, because with them it would be a great inconveniency to live in celibacy; and none to have many children. The contrary of which is the case when a nation is formed.
-
-
-

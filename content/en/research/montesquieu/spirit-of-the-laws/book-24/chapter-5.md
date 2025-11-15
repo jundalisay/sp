@@ -2,7 +2,7 @@
 heading: "Chapters 5-6"
 title: "Catholicism is Best for a Monarchy, and the Protestant is Best for a Republic"
 linkTitle: "Chapter 5"
-weight: 24
+weight: 8
 # "2021-09-30"
 description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
 c: "seagreen"

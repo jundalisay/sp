@@ -3,6 +3,8 @@ title: "The Romans Needed to make Laws to increase their Population"
 heading: "Chapter 20-21"
 description: "THE Romans, by destroying others, were themselves destroyed."
 c: "seagreen"
+weight: 24
+icon: "Montesquieu"
 author: "Montesquieu"
 date: 2020-03-28
 ---

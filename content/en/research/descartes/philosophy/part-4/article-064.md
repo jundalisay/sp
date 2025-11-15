@@ -8,8 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
-# aliases:
-#   /research/descartes/philosophy/part-4/section-02e
+aliases:
+  /research/descartes/philosophy/part-4/section-02e
 ---
 
 
@@ -137,3 +137,4 @@ This occurs when they are trapped in narrow channels of the Earth and mixed with
 Additionally, many types of transparent fossils and gems are formed when they are first gathered in the cracks and cavities of the Earth as juices.
 
 Gradually, with their most slippery and fluid particles departing, the remaining ones adhere to each other.
+

@@ -61,3 +61,4 @@ If since the discovery of the Indies, gold and silver have increased in Europe 2
 The quantity of goods increases by an augmentation of commerce. The augmentation of commerce increases by:
 - an augmentation of the coin which successively arrives, and
 - new communications with fresh-discovered countries and seas, which furnish us with new commodities and new merchandizes.
+

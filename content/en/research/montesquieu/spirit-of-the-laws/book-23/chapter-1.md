@@ -3,6 +3,7 @@ title:  "The Population Growth of Humans and Animals"
 heading:  "Chapters 1-6"
 description:  "Female animals have an almost constant fecundity"
 c: "seagreen"
+weight: 4
 author: "Montesquieu"
 ---
 
@@ -97,6 +98,3 @@ Thus the Athenians excluded bastards from being citizens, that they might posses
 Aristotle informs us: 
 - that in many cities where there was not enough citizens, their bastards succeeded to their possessions
 - that when there was a proper number, they did not inherit.
-
-
-

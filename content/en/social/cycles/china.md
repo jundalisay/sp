@@ -1,5 +1,5 @@
 ---
-title: "How to fix China"
+title: "How to fix Modern China"
 heading: "Negative Thinker"
 linkTitle: China
 # date: 2021-08-16
@@ -20,6 +20,16 @@ Current Cycle | Years per Cycle | Social Age
 
 
 ![China]("/flags/cn.png")
+
+
+<!-- The four cardinal principles of Deng:
+
+1. Uphold the socialist economic system
+2. Uphold the dictatorship of the proletariat
+3. Uphold the leadership of the Communist Party
+4. Uphold Marxism-Leninism and Mao Zedong Thought -->
+
+
 
 
 The coming China-Taiwan war is a natural consequence of the wrong policies of Nixon.

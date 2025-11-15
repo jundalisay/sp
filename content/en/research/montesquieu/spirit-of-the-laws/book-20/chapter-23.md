@@ -1,7 +1,7 @@
 ---
 heading: "Chapters 23"
 title: "To what Nations Commerce is prejudicial"
-weight: 12
+weight: 18
 description: "Riches consist either in lands, or in moveable effects"
 c: "seagreen"
 contributors: ['Montesquieu']

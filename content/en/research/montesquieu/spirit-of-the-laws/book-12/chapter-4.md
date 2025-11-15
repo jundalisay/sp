@@ -1,7 +1,7 @@
 ---
 title: "The Four Kinds of Crimes"
 heading: "Chapter 4"
-weight: 2
+weight: 8
 c: "seagreen"
 author: "Montesquieu"
 description: "Liberty is favoured by the Nature and Proportion of Punishments"
