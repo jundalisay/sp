@@ -38,17 +38,23 @@ For such reasons it may not be an unimportant task to try to discuss these ideas
 physics in a not too technical language, to study their philosophical consequences, and to compare
 them with some of the older traditions. -->
 
-The best way to enter into the problems of modern physics may be by a historical description
-of the development of quantum theory. It is true that quantum theory is only a small sector of
-atomic physics and atomic physics again is only a very small sector of modern science. Still it is in
-quantum theory that the most fundamental changes with respect to the concept of reality have
-taken place, and in quantum theory in its final form the new ideas of atomic physics are concentrated and crystallized. The enormous and extremely complicated experimental equipment
-needed for research in nuclear physics shows another very impressive aspect of this part of
-modern science. But with regard to the experimental technique nuclear physics represents the
-extreme extension of a method of research which has determined the growth of modern science
-ever since Huyghens or Volta or Faraday. In a similar sense the discouraging mathematical
-complication of some parts of quantum theory may be said to represent the extreme
-consequence of the methods of Newton or Gauss or Maxwell. But the change in the concept of
-reality manifesting itself in quantum theory is not simply a continuation of the past; it seems to
-be a real break in the structure of modern science. Therefore, the first of the following chapters 
-will be devoted to the study of the historical development of quantum theory.
+The best way to enter into the problems of modern physics may be by a historical description of the development of quantum theory. 
+
+- Quantum theory is only a small sector of atomic physics.
+- Atomic physics is only a very small sector of modern science.
+
+
+The most fundamental changes in our concept of reality have taken place in quantum theory.
+
+The new ideas of atomic physics are concentrated and crystallized in the final form of quantum theory.
+
+The enormous and extremely complicated experimental equipment needed for research in nuclear physics shows another very impressive aspect of this part of modern science.
+
+But with regard to the experimental technique nuclear physics represents the extreme extension of a method of research which has determined the growth of modern science
+ever since Huyghens or Volta or Faraday. 
+
+In a similar sense the discouraging mathematical complication of some parts of quantum theory may be said to represent the extreme consequence of the methods of Newton or Gauss or Maxwell. 
+
+But the change in the concept of reality manifesting itself in quantum theory is not simply a continuation of the past; it seems to be a real break in the structure of modern science.
+
+Therefore, the first of the following chapters  will be devoted to the study of the historical development of quantum theory.
