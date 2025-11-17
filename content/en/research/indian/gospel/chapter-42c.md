@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 42b"
+heading: "Chapter 42c"
 title: Nitya and Lila
 c: "indigo"
 weight: 458

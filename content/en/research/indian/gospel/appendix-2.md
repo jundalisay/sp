@@ -2,7 +2,7 @@
 title: "Yearning for God"
 c: "indigo"
 heading: "Appendix A2"
-weight: 6
+weight: 703
 description: ""
 ---
 

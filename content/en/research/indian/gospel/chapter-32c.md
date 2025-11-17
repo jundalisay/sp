@@ -1,13 +1,11 @@
 ---
-title: "Master And Disciple"
+title: "Sin and God's name"
 c: "indigo"
-heading: "Chapter 1"
+heading: "Chapter 32c"
 weight: 311
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"
 ---
 
-
-## Sin and God's name
 
 SUB-JUDGE: "Sir, I am a sinner. How can I say that God dwells in me?"
 

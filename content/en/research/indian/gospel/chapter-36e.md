@@ -1,13 +1,11 @@
 ---
-title: "Sannyāsi's discipline"
+title: "Parable of the homa bird"
 c: "indigo"
-heading: "Chapter 36"
+heading: "Chapter 36e"
 weight: 365
 description: ""
 ---
 
-
-## Parable of the homa bird
 
 Pointing to Narendra, the Master said: "You all see this boy. He behaves that way here.
 
@@ -24,9 +22,7 @@ Kedar, Prankrishna, M., and many others remained.
 
 ## Master praises Narendra
 
-MASTER: "You see, Narendra excels in singing, playing on instruments, study, and
-everything. The other day he had a discussion with Kedar and tore his arguments to
-shreds. 
+MASTER: "You see, Narendra excels in singing, playing on instruments, study, and everything. The other day he had a discussion with Kedar and tore his arguments to shreds. 
 
 (All laugh.)
 
@@ -36,18 +32,13 @@ M: "Yes, sir, there is. It is called Logic."
 
 MASTER: "Tell me what it says."
 
-M. was a little embarrassed. He said: "One part of the book deals with deduction from
-the general to the particular. For example: All men are mortal. Scholars are men.
-Therefore scholars are mortal. Another part deals with the method of reasoning from
-the particular to the general. For example: This crow is black. That crow is black. The
-crows we see everywhere are black. Therefore all crows are black. But there may be a
-fallacy in a conclusion arrived at in this way; for on inquiry one may find a white crow in
-some country. There is another illustration: If there is rain, there is, or has been, a
-cloud. Therefore rain comes from a cloud. Still another example: This man has thirty-
-two teeth. That man has thirty-two teeth. All the men we see have thirty-two teeth.
+M. was a little embarrassed. He said: "One part of the book deals with deduction from the general to the particular. For example: All men are mortal. Scholars are men. Therefore scholars are mortal. 
 
-Therefore men have thirty-two teeth. English logic deals with such inductions and
-deductions."
+Another part deals with the method of reasoning from the particular to the general. For example: This crow is black. That crow is black. The crows we see everywhere are black. Therefore all crows are black. But there may be a fallacy in a conclusion arrived at in this way; for on inquiry one may find a white crow in some country.
+
+There is another illustration: If there is rain, there is, or has been, a cloud. Therefore rain comes from a cloud. Still another example: This man has thirty- two teeth. That man has thirty-two teeth. All the men we see have 32 teeth.
+
+Therefore men have 32 teeth. English logic deals with such inductions and deductions."
 
 Sri Ramakrishna barely heard these words. While listening he became absent-minded.
 So the conversation did not proceed far.

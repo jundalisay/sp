@@ -102,27 +102,25 @@ he doesn't seek any return from those he serves; if he can carry on his work of 
 in this spirit-then he performs truly selfless work, work without attachment. Through
 such selfless work he does good to himself. This is called karma yoga. This too is a way
 to realize God. But it is very difficult, and not suited to the Kaliyuga.
-"Therefore I say, he who works in such a detached spirit-who is kind and charitable-
-benefits only himself. Helping others, doing good to others-this is the work of God alone,
-who for men has created the sun and moon, father and mother, fruits, flowers, and corn.
-The love that you see in parents is God's love: He has given it to them to preserve His
-creation. The compassion that you see in the kind-hearted is God's compassion: He has
-given it to them to protect the helpless. Whether you are charitable or not, He will have
-His work done somehow or other. Nothing can stop His work.
-"What then is man's duty? What else can it be? It is just to take refuge in God and to
-pray to Him with a yearning heart for His vision.
-732Difficulty of karma-yoga
+
+"Therefore I say, he who works in such a detached spirit-who is kind and charitable-benefits only himself. Helping others, doing good to others-this is the work of God alone,  who for men has created the sun and moon, father and mother, fruits, flowers, and corn.
+
+The love that you see in parents is God's love: He has given it to them to preserve His creation. The compassion that you see in the kind-hearted is God's compassion: He has given it to them to protect the helpless. Whether you are charitable or not, He will have His work done somehow or other. Nothing can stop His work.
+
+"What then is man's duty? What else can it be? It is just to take refuge in God and to pray to Him with a yearning heart for His vision.
+
+
+## Difficulty of karma-yoga
+
 "Sambhu said to me: 'It is my desire to build a large number of hospitals and
 dispensaries. Thus I can do much good to the poor.' I said to him: 'Yes, that is not bad if
 you can do it in a detached spirit. But to be detached is very difficult unless you sincerely
 love God. And further, if you entangle yourself in many activities, you will be attached to
-them in a way unknown to yourself. You may think you have no motive behind your
-work, but perhaps there has already grown a desire for fame and the advertising of your
-name. Then again, if you are entangled in too many activities, the pressure of them will
-make you forget God.' I also said to him: 'Sambhu, let me ask you one thing. If God
+them in a way unknown to yourself. You may think you have no motive behind your work, but perhaps there has already grown a desire for fame and the advertising of your name. Then again, if you are entangled in too many activities, the pressure of them will make you forget God.' I also said to him: 'Sambhu, let me ask you one thing. If God
 appears before you, will you want Him or a number of hospitals and dispensaries?' If one
 realizes God, one doesn't enjoy anything else. One who has tasted syrup of sugar candy
 cannot enjoy a drink made from common treacle.
+
 "Those who build hospitals and dispensaries, and get pleasure from that, are no doubt
 good people; but they are of a different type. He who is a real devotee of God seeks
 nothing but God. If he finds himself entangled in too much work, he earnestly prays,

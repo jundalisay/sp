@@ -1,14 +1,11 @@
 ---
-title: "Master And Disciple"
+title: "Sattva, rajas, and tamas"
 c: "indigo"
-heading: "Chapter 1"
+heading: "Chapter 32d"
 weight: 315
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"
 ---
 
-
-
-## Sattva, rajas, and tamas
 
 "The characteristics of sattva, rajas, and tamas are very different. Egotism sleep,
 gluttony, lust, anger, and the like, are the traits of' people with tamas. Men with rajas
@@ -24,11 +21,11 @@ charity he makes a show of it. But a man endowed with sattva is quiet and peacef
 
 So far as dress is concerned, anything will do. He earns only enough money to give his stomach the simplest of food; he never flatters men to get money. His house is out of repair. He never worries about his children's clothing. He does not hanker for name and fame.
 
-His worship, charity, and meditation are all done in secret; people do not know, about them at all. He meditates inside his mosquito curtain. People think he doesn't sleep well at night and for that reason sleeps late in the morning. Sattva is the last step of the stairs; next is the roof. As soon as sattva is acquired there is no further delay in
-attaining God. One step forward and God is realized. (To the sub-judge) Didn't you say
+His worship, charity, and meditation are all done in secret; people do not know, about them at all. He meditates inside his mosquito curtain. People think he doesn't sleep well at night and for that reason sleeps late in the morning. Sattva is the last step of the stairs; next is the roof. As soon as sattva is acquired there is no further delay in attaining God. One step forward and God is realized. (To the sub-judge) Didn't you say
 that all men were equal? Now you see that there are so many varieties of human nature.
 
-Four classes of men
+
+## Four classes of men
 
 "There are still other classes and kinds of people. For instance, there are those who are
 eternally free, those who have attained liberation, those struggling for liberation, and

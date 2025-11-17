@@ -1,12 +1,10 @@
 ---
 title: "Encouraging Bhavanāth"
 c: "indigo"
-heading: "Chapter 51z"
+heading: "Chapter 51c"
 weight: 632
 description: ""
 ---
-
-
 
 
 Bhavanāth had married and was trying to find a job; so he could not visit Sri Ramakrishna frequently at Cossipore. He had said to M.: "I understand that Vidyāsāgar
@@ -197,10 +195,7 @@ As the Master listened, to the line,
 As Narendra sang the line,
 Thou", Hirananda
 
-"I see Thee wherever I look: all that exists art
-said to him: "Yes, 'All that exists art Thou.' Now you say: 'Thou!
+"I see Thee wherever I look: all that exists art said to him: "Yes, 'All that exists art Thou.' Now you say: 'Thou!
 Thou! Not I, but Thou!'"
 
-NARENDRA: Give me a one and I'll give you a million. Thou art I; I am Thou. Nothing
-exists but I "
-
+NARENDRA: Give me a one and I'll give you a million. Thou art I; I am Thou. Nothing exists but I "

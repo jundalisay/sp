@@ -1,17 +1,14 @@
 ---
-title: "Master And Disciple"
+title: "Different kinds of samādhi"
 c: "indigo"
-heading: "Chapter 1"
+heading: "Chapter 32f"
 weight: 317
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"
 ---
 
 
 
-
-It was ten o'clock in the evening. The Master got into a carriage to return to
-Dakshineswar. One or two attending devotees got in with him. The carriage stood under
-a tree, in deep darkness. Beni Pāl wanted to send some sweets and other food with Sri
+It was 10pm. The Master got into a carriage to return to Dakshineswar. One or two attending devotees got in with him. The carriage stood under a tree, in deep darkness. Beni Pāl wanted to send some sweets and other food with Sri
 Ramakrishna for Ramlal, the Master's nephew.
 
 BENI PĀL: "Sir, Ramlal was not here this evening. With your permission I should like to
@@ -28,6 +25,7 @@ made money his servant. But those who do not know the use of money are not men
 even though they have human forms. They may have human bodies, but they behave
 like animals. You are blessed indeed. You have made so many devotees happy today."
 
+
 Monday, October 20, 1884
 
 Two days after the worship of Kāli, the Mārwāris of the Burrabazar section of Calcutta
@@ -35,9 +33,8 @@ were celebrating the Annakuta festival. Sri Ramakrishna had been invited by the 
 devotees to the ceremony at 12 Mallick Street. It was the second day of the bright
 fortnight of the moon. The festival connected with the worship of Kāli, known as the
 "Festival of Light", was still going on at Burra bazar.
-About three o'clock in the afternoon M. and the younger Gopal came to Burrabazar. M.
-had in his hand a bundle of cloths he had purchased for Sri Ramakrishna. Mallick Street
-was jammed with people, bullock-carts, and carriages. As M. and Gopal approached
+
+About 3pm, M. and the younger Gopal came to Burrabazar. M. had in his hand a bundle of cloths he had purchased for Sri Ramakrishna. Mallick Street was jammed with people, bullock-carts, and carriages. As M. and Gopal approached
 Mallick Street they noticed Sri Ramakrishna in a carriage, which could hardly move because of the jam. Baburam and Ram Chakravarty were with the Master. He smiled at M. and Gopal.
 
 Sri Ramakrishna alighted from the carriage. With Baburam he proceeded on foot to the
@@ -92,6 +89,7 @@ MASTER: "Some people develop bhakti and others do not; how do you explain that, 
 PUNDIT: "There is no partiality in God. He is the Wish-fulfilling Tree. Whatever a man
 asks of God he gets. But he must go near the Tree to ask the boon."
 The pundit said all this in Hindusthani. The Master explained it to M.in Bengali.
+
 
 ## Different kinds of samādhi
 
@@ -202,4 +200,3 @@ Supreme Brahman."
 HOST: "You too are that same Rāma."
 
 MASTER: "For heaven's sake! Never say that."
-

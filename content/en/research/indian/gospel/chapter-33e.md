@@ -1,7 +1,7 @@
 ---
-title: "Qualified Advaita"
+title: "God supplies the needs of devotees"
 c: "indigo"
-heading: "Chapter 33"
+heading: "Chapter 33e"
 weight: 330
 description: ""
 ---

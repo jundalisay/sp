@@ -1,18 +1,15 @@
 ---
-title: "Master And Disciple"
+title: "Ramakrishna and the Host"
 c: "indigo"
-heading: "Chapter 1"
+heading: "Chapter 32g"
 weight: 319
-description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"
+description: "Sri Ramakrishna bowed down to the host and said, with folded hands"
 ---
 
 
+Sri Ramakrishna bowed down to the host and said, with folded hands:
 
-
-As, Sri Ramakrishna spoke these words, he bowed down to the host and said, with
-folded hands: "'That Rāma dwells in all beings; He exists everywhere in the universe. "I
-am your servant. It is Rāma Himself who has become all men, animals, and other living
-beings."
+"'That Rāma dwells in all beings; He exists everywhere in the universe. "I am your servant. It is Rāma Himself who has become all men, animals, and other living beings."
 
 HOST: "But sir, we do not know that."
 

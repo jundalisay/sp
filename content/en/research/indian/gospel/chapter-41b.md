@@ -1,7 +1,7 @@
 ---
 title: "Advice to the worldly"
 c: "indigo"
-heading: "Chapter 41"
+heading: "Chapter 41b"
 weight: 433
 description: ""
 ---

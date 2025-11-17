@@ -25,7 +25,9 @@ greens, and I ate them.
 "I touched my head and lips with the leaf-plates from which the beggars ate their food in
 the guest-house of the Kāli temple. Thereupon Haladhāri said to me: 'What have you
 done? You have taken the food left by beggars. How will you marry off your children?'
-These words aroused my anger. Haladhāri was my cousin, older than myself. But could
+These words aroused my anger. 
+
+Haladhāri was my cousin, older than myself. But could
 that restrain me? I said to him: 'You wretch! Isn't it you who take pride in the study of
 the Gitā and the Vedānta? Isn't it you who teach people that Brahman alone is real and
 the world illusory? And yet you imagine that I shall beget children! May your mouth that

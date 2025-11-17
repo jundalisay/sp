@@ -1,5 +1,5 @@
 ---
-title: "How to conquer passion"
+title: "Disciplines during the Sādhanā period"
 c: "indigo"
 heading: "Chapter 31b"
 weight: 292

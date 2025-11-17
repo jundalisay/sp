@@ -9,17 +9,12 @@ description: ""
 ---
 
 
-
 Friday, April 23, 1886
 
 It was Good Friday. Hirananda had taken his midday meal at the Cossipore garden
-house. About one o'clock in the afternoon he was stroking Sri Ramakrishna's feet. M. sat
-near by. Lātu and one or two other devotees were going in and out of the room. It was
-the Master's earnest desire that Hirananda should stay for some time at the Cossipore
-garden house.
+house. At 1pm, he was stroking Sri Ramakrishna's feet. M. sat near by. Lātu and one or two other devotees were going in and out of the room. It was the Master's earnest desire that Hirananda should stay for some time at the Cossipore garden house.
 
-While massaging the Master's feet, Hirananda conversed with him. He spoke in a very
-sweet voice, as if trying to console a child.
+While massaging the Master's feet, Hirananda conversed with him. He spoke in a very sweet voice, as if trying to console a child.
 
 HIRANANDA: "Why should you worry so much? You can enjoy peace of mind if you have faith in the physician. You are a child."
 

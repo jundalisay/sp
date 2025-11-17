@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 28h"
-title: "Identity of Brahman and Śakti"
+title: "Where is Krishna?"
 c: "indigo"
 weight: 261
 author: M
@@ -29,54 +29,33 @@ Another scene: Nimai is staying at home. Srivas comes to visit him. First he mee
 Sachi. The mother weeps and says: "My son doesn't attend to his household duties. My
 eldest son, Viswarupa, has renounced the world, and my heart has ached ever since.
 Now I fear that Nimai will follow in his steps."
+
 Nimai arrives. Sachi says to Srivas: "Look at him. Tears run down his cheeks and breast.
 Tell, tell me how I can free him from these notions."
-At the sight of Srivas, Nimai clings to his feet and says, with eyes full of tears: "Ah me!
-Revered sir, I have not yet attained devotion to Krishna. Futile is this wretched life! Tell
-me, sir, where is Krishna? Where shall I find Krishna? Give me the dust of your feet with your blessing, that I may realize the Blue One with the garland of wild-flowers hanging about His neck." 
 
-Sri Ramakrishna looked at M. He was eager to say something but he could not. His voice
-was choked with emotion; the tears ran down his cheeks; with unmoving eyes he
-watched Nimai clinging to Srivas's feet and saying, "Sir, I have not yet attained devotion
-to Krishna."
+At the sight of Srivas, Nimai clings to his feet and says, with eyes full of tears: "Ah me! Revered sir, I have not yet attained devotion to Krishna. Futile is this wretched life! Tell me, sir, where is Krishna? Where shall I find Krishna? Give me the dust of your feet with your blessing, that I may realize the Blue One with the garland of wild-flowers hanging about His neck." 
 
-Nimai has opened a school, but he cannot teach the students any longer. Gangadas, his
-former teacher, comes to persuade him to direct his attention to his worldly duties. He
-says to Srivas: "Listen, Srivas! We are brahmins, too, and devoted to the worship of
-Vishnu. But you people are ruining Nimai's worldly prospects."
+Sri Ramakrishna looked at M. He was eager to say something but he could not. His voice was choked with emotion; the tears ran down his cheeks; with unmoving eyes he watched Nimai clinging to Srivas's feet and saying, "Sir, I have not yet attained devotion to Krishna."
 
-MASTER (to M.): "That is the advice of the worldly-wise: Do 'this' as well as 'that'. When
-the worldly man teaches spirituality he always advises a compromise between the world
-and God."
+Nimai has opened a school, but he cannot teach the students any longer. Gangadas, his former teacher, comes to persuade him to direct his attention to his worldly duties. He says to Srivas: "Listen, Srivas! We are brahmins, too, and devoted to the worship of Vishnu. But you people are ruining Nimai's worldly prospects."
+
+MASTER (to M.): "That is the advice of the worldly-wise: Do 'this' as well as 'that'. When the worldly man teaches spirituality he always advises a compromise between the world and God."
 
 M: "Yes, sir. That is true."
 
-Gangadas continues his argument with Nimai. He says: "Nimai, undoubtedly you are
-versed in the scriptures. Reason with me. Explain to me if any other duty is superior to
-worldly duties. You are a householder. Why disregard the duties of a householder and
-follow others' duties?"
+Gangadas continues his argument with Nimai. He says: "Nimai, undoubtedly you are versed in the scriptures. Reason with me. Explain to me if any other duty is superior to worldly duties. You are a householder. Why disregard the duties of a householder and follow others' duties?"
 
 MASTER (to M.): "Did you notice? He's trying to persuade Nimai to make a compromise."
 
 M: "Yes, sir."
 
-Nimai says to Gangadas: "I am not wilfully indifferent to a householder's duties. On the
-contrary, it is my desire to hold to all sides. But, revered sir, I don't know what it is that
-draws me on. I don't know what to do. I want to cling to the shore but I cannot. My soul
-wanders away. I am helpless. My soul constantly wants to plunge headlong into the
-boundless Ocean."
+Nimai says to Gangadas: "I am not wilfully indifferent to a householder's duties. On the contrary, it is my desire to hold to all sides. But, revered sir, I don't know what it is that draws me on. I don't know what to do. I want to cling to the shore but I cannot. My soul wanders away. I am helpless. My soul constantly wants to plunge headlong into the boundless Ocean."
 
 MASTER: "Ah me!"
 
-The scene changes: Nityananda has arrived at Navadvip. After a search he meets Nimai,
-who, in turn, has been seeking him. When they meet, Nimai says to him: "Blessed is my
-life! Fulfilled is my dream! You visited me in a dream and then disappeared."
-The Master said in a voice choked with emotion, "Nimai said he had seen him in a
-dream."
+The scene changes: Nityananda has arrived at Navadvip. After a search he meets Nimai, who, in turn, has been seeking him. When they meet, Nimai says to him: "Blessed is my life! Fulfilled is my dream! You visited me in a dream and then disappeared." The Master said in a voice choked with emotion, "Nimai said he had seen him in a dream."
 
-Nimai is in an ecstatic mood and becomes engaged in conversation with Advaita, Srivas,
-Haridas, and other devotees. Nitai sings a song suited to Nimai's mood:
-605Where is Krishna? Where is my Krishna?
+Nimai is in an ecstatic mood and becomes engaged in conversation with Advaita, Srivas, Haridas, and other devotees. Nitai sings a song suited to Nimai's mood: Where is Krishna? Where is my Krishna?
 
 He is not in the grove, dear friends.
 
@@ -86,16 +65,9 @@ Radha's heart knows naught but Him.
 At this song Sri Ramakrishna went into samādhi. He remained in that state a long time.
 The orchestra played on. Gradually his mind came down to the relative plane. In the
 mean time a young man of Khardaha, born in the holy family of Nityananda, had entered
-the box. He was standing behind the Master's chair. Sri Ramakrishna was filled with
-delight at the sight of him. He held his hand and talked to him affectionately. Every now
-and then he said: "Please sit down here. Your very presence awakens my spiritual
-feeling." He played tenderly with the young man's hands and lovingly stroked his face.
-After he had left, Sri Ramakrishna said to M.: "He is a great scholar. His father is a great
-devotee of God. When I go to Khardaha to visit Syamasundar, the father entertains me
-with sacred offerings such as one cannot buy even for a hundred rupees. This young
-man has good traits. A little shaking will awaken his inner spirit. At the sight of him my
-spiritual mood is aroused. I should have been overwhelmed with ecstasy if he had stayed
-here a little longer."
+the box. He was standing behind the Master's chair. Sri Ramakrishna was filled with delight at the sight of him. He held his hand and talked to him affectionately. 
+
+Every now and then he said: "Please sit down here. Your very presence awakens my spiritual feeling." He played tenderly with the young man's hands and lovingly stroked his face. After he had left, Sri Ramakrishna said to M.: "He is a great scholar. His father is a great devotee of God. When I go to Khardaha to visit Syamasundar, the father entertains me with sacred offerings such as one cannot buy even for a hundred rupees. This young man has good traits. A little shaking will awaken his inner spirit. At the sight of him my spiritual mood is aroused. I should have been overwhelmed with ecstasy if he had stayed here a little longer."
 
 The curtain rises: Nityananda is walking in a procession on the public road with his
 companions, chanting the name of Hari. He meets two ruffians, Jagai and Madhai, who

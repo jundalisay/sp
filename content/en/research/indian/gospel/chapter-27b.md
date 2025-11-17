@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 27b"
-title: "Master in ecstasy"
+title: "M teaches Physics to Ramakrishna"
 c: "indigo"
 weight: 235
 author: M
@@ -10,9 +10,7 @@ description: ""
 
 
 
-
-Sri Ramakrishna walked toward the Panchavati with M. and a few other devotees. It was
-midday and time for the flood-tide in the Ganges.
+Sri Ramakrishna walked toward the Panchavati with M. and a few other devotees. It was midday and time for the flood-tide in the Ganges.
 
 They waited in the Panchavati to see the bore of the tide.
 
@@ -22,20 +20,15 @@ MASTER (to the devotees): "The ebb-tide and flood-tide are indeed amazing. But n
 
 M: "According to Western astronomy, they are due to the attraction of the sun and the moon."
 
-In order to explain it, M. drew figures on the earth and began to show the Master the
-movement of the earth, the sun, and the moon.
-The Master looked at the figures for a minute and said: "Stop, please! It gives me a
-headache."
+In order to explain it, M. drew figures on the earth and began to show the Master the movement of the earth, the sun, and the moon.
+
+The Master looked at the figures for a minute and said: "Stop, please! It gives me a headache."
 
 Presently the tide came up the Ganges. They heard the sound of the rushing water. The tide struck the bank of the river and flowed toward the north. Sri Ramakrishna looked at it intently and exclaimed like a child: "Look at that boat! I wonder what is going to happen to it."
 
-The Master and M. sat down for a while in the Panchavati, Sri Ramakrishna placing his
-umbrella on the cement platform. The conversation turned to Narayan. The boy was a
-student. Sri Ramakrishna looked upon him as Narayana, God Himself, and was very fond
-of him.
+The Master and M. sat down for a while in the Panchavati, Sri Ramakrishna placing his umbrella on the cement platform. The conversation turned to Narayan. The boy was a student. Sri Ramakrishna looked upon him as Narayana, God Himself, and was very fond of him.
 
-MASTER: "Have you noticed Naran's nature? He can mix with all, old and young. One
-cannot do this without a special power.
+MASTER: "Have you noticed Naran's nature? He can mix with all, old and young. One cannot do this without a special power.
 
 Besides, all love him. Is he really artless?"
 
@@ -49,11 +42,11 @@ MASTER: "Will you give him a rupee? Or shall I ask Kāli about it?"
 
 M: "Very well, sir. I shall give him the money."
 
-MASTER: "That's fine. It is good to help those who yearn for God. Thus one makes good
-use of one's money. What will you gain by spending everything on your family?"
-Kishori had several children. His salary was too small to support his family. Sri
-Ramakrishna said to M.: "Naran said he would get a job for Kishori. Please remind him of
-it."
+MASTER: "That's fine. It is good to help those who yearn for God. Thus one makes good use of one's money. What will you gain by spending everything on your family?" 
+
+Kishori had several children. His salary was too small to support his family. 
+
+Sri Ramakrishna said to M.: "Naran said he would get a job for Kishori. Please remind him of it."
 
 The Master walked away in the direction of the pine-grove. Returning to the Panchavati,
 he said to M.: "Please ask someone to spread a mat outside my room. I shall lie down a
@@ -66,8 +59,8 @@ very near him. A man went to a friend's house to light the charcoal for his smok
 though all the time he had a lighted lantern in his hand. Another man looked everywhere
 for his towel. Finally he discovered that it had been on his shoulder all the time."
 
-It was about one o'clock in the afternoon. The Master ate the prasad from the Kāli
-temple. Then he wanted to rest awhile, but the devotees were still sitting in his room.
+It was 1pm. The Master ate the prasad from the Kāli temple. Then he wanted to rest awhile, but the devotees were still sitting in his room. 
+
 They were asked to go out, and then the Master lay down. He said to Baburam, "Come
 here; sit near me." Baburam answered, "I am preparing betel-leaf." The Master said,"Put
 your betel-leaf aside"
@@ -141,4 +134,3 @@ Cherish my precious Mother Syama
 Tenderly within, O mind;
 May you and I alone behold Her,
 Letting no one else intrude. . . .
-

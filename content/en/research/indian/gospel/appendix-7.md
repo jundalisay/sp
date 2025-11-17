@@ -2,9 +2,10 @@
 title: "A Chronology Of Sri Ramakrishna's Life"
 heading: Appendix C
 c: "indigo"
-weight: 500
+weight: 730
 description: ""
 ---
+
 
 <!-- 1775 | Birth of Khudirām
 1791 Birth of Chandrā Devi.

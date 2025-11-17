@@ -22,6 +22,7 @@ MASTER: "I don't remember when the current went up. Now I am in the mood of a ch
 
 That is why I am playing with the flowers this way.
 
+
 ## Master's exalted vision
 
 Do you know what I see now? I see my body as a frame made of bamboo strips and covered with a cloth. The frame moves. And it moves because someone dwells inside it.
@@ -78,6 +79,3 @@ MASTER: "But that's only his guess.
 'May your spiritual consciousness be awakened.' People are so sinful in the Kaliyuga; if I awaken their spiritual consciousness I shall have to accept the burden of their sins." 
 
 M. (to Hirananda): "He will not awaken people's spiritual consciousness except at the right time. When a person is ready, he will awaken his spiritual consciousness."
-
-
-

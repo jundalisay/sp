@@ -18,8 +18,7 @@ The Master was resting after the meal.
 
 Again and again the Master asked M.: "Am I liberal-minded? Tell me."
 
-BHAVANĀTH (smiling): "Why do you ask him? He will only keep quiet." A beggar entered the room. He wanted to sing. The devotees listened to a song or two. Narendra liked his
-singing and asked him to sing more. 
+BHAVANĀTH (smiling): "Why do you ask him? He will only keep quiet." A beggar entered the room. He wanted to sing. The devotees listened to a song or two. Narendra liked his singing and asked him to sing more. 
 
 
 {{< l a="Ramakrishna" >}}

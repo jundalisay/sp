@@ -1,7 +1,7 @@
 ---
 title: "Master's first meeting with Keshab"
 c: "indigo"
-heading: "Chapter 33"
+heading: "Chapter 33c"
 weight: 326
 description: ""
 ---

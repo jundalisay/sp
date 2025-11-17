@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 39c"
-title: Advice to householders
+heading: "Chapter 39d"
+title: Mahendra
 c: "indigo"
 weight: 409
 author: M
@@ -12,9 +12,7 @@ description: ""
 
 Mahendra and his younger brother, Priya, had been visiting the Master for some time.
 
-Mahendra owned a flour-mill and other businesses. His brother was an engineer. Both
-the brothers engaged people to manage their affairs and therefore had considerable
-leisure. Mahendra was thirty-six or thirty-seven and his brother two years younger.
+Mahendra owned a flour-mill and other businesses. His brother was an engineer. Both the brothers engaged people to manage their affairs and therefore had considerable leisure. Mahendra was thirty-six or thirty-seven and his brother two years younger.
 
 Besides their country home at Kedeti, they had a house at Baghbazar, Calcutta. A young
 devotee named Hari accompanied them on their visits to Sri Ramakrishna. Hari was

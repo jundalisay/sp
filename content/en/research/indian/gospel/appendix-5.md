@@ -1,8 +1,8 @@
 ---
 title: "Ignorance from the Ego"
 c: "indigo"
-heading: "Appendix A2"
-weight: 8
+heading: "Appendix A5"
+weight: 718
 description: "Do you know what ignorance means? It is the feeling 'I am the doer'"
 ---
 

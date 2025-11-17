@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 39e"
-title: Advice to householders
+title: Trailokya
 c: "indigo"
 weight: 411
 author: M

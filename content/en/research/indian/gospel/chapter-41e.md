@@ -1,7 +1,7 @@
 ---
 title: "Significance of Radhika"
 c: "indigo"
-heading: "Chapter 41d"
+heading: "Chapter 41e"
 weight: 442
 description: ""
 ---

@@ -1,11 +1,10 @@
 ---
-title: "About Purna"
+title: "Master's eagerness for a spiritual companion"
 c: "indigo"
-heading: "Chapter 38f"
+heading: "Chapter 37d"
 weight: 377
 description: ""
 ---
-
 
 
 Saturday, March. 7, 1885
@@ -19,7 +18,8 @@ Mohinimohan had braught his wife and Nabin's mother with him to the temple
 garden from Calcutta. The ladies were with the Holy Mother; they were waiting far an
 opportunity to visit the Master when the men devotees would leave the room.
 
-### Master talks about his young disciples
+
+## Master talks about his young disciples
 
 Sri Ramakrishna was sitting on the small couch. As he looked at the young devotees his
 face beamed with joy.
@@ -91,18 +91,13 @@ the younger Naren says, 'I will come away for good."
 Sri Ramakrishna came down from the small couch and sat among the youngsters on the floor. M. sat by his side. 
 
 
-### Master's eagerness for a spiritual companion
+## Master's eagerness for a spiritual companion
 
 MASTER (to M.): "I have been seeking one who has totally renounced woman and gold.
 
-When I find a young man, I think that perhaps he will live with me; but everyone raises
-some objection or other.
+When I find a young man, I think that perhaps he will live with me; but everyone raises some objection or other.
 
-"A ghost sought a companion. It is said that a man who dies on a Saturday or Tuesday
-becomes a ghost. Therefore, whenever the ghost saw anybody fall from a roof or
-stumble and faint on the road on either of those days, he would run to him, hoping that
-the man, through an accidental death, would become a ghost and be his companion. But
-such was his ill luck that everyone revived. The poor thing could not get a companion.
+"A ghost sought a companion. It is said that a man who dies on a Saturday or Tuesday becomes a ghost. Therefore, whenever the ghost saw anybody fall from a roof or stumble and faint on the road on either of those days, he would run to him, hoping that the man, through an accidental death, would become a ghost and be his companion. But such was his ill luck that everyone revived. The poor thing could not get a companion.
 
 "Just see, Rakhal always gives his wife as an excuse. He says, 'What will become of her?'
 
@@ -127,15 +122,11 @@ In former years, when I used to go to Kamarpukur, I would feed some of the
 young boys with my own hand. Chine Sankhari would say, 'Why doesn't he feed us that
 way?' 
 
-But how could I? They led an immoral life. Who would feed them?"
-Sri Ramakrishna was in the happiest mood with his young and pure-souled devotees. He
-was seated on the small couch and was doing funny imitations of a kirtani. The devotees
-laughed heartily. The kirtani is dressed lavishly and covered with ornaments. She sings
-standing on the floor, a coloured kerchief in her hand. Now and then she coughs to draw people's attention and blows her nose, raising her nose-ring. When a respectable gentleman enters the room she welcomes him with appropriate words, still continuing her song. Now and then she pulls her sari from her arms to show off her jewels. 
+But how could I? They led an immoral life. Who would feed them?" 
+
+Sri Ramakrishna was in the happiest mood with his young and pure-souled devotees. He was seated on the small couch and was doing funny imitations of a kirtani. The devotees laughed heartily. The kirtani is dressed lavishly and covered with ornaments. She sings standing on the floor, a coloured kerchief in her hand. Now and then she coughs to draw people's attention and blows her nose, raising her nose-ring. When a respectable gentleman enters the room she welcomes him with appropriate words, still continuing her song. Now and then she pulls her sari from her arms to show off her jewels.
 
 The devotees were convulsed, with laughter at this mimicry by Sri Ramakrishna. Paltu
 rolled on the ground. Pointing to him, the Master said to M.: "Look at that child! He is
 rolling with laughter." He said to Paltu with a smile: "Don't report this to your father, or
 he will lose the little respect he has for me. You see, he is an 'Englishman."
-
-

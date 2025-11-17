@@ -2,7 +2,7 @@
 title: "Faith in the guru"
 c: "indigo"
 heading: "Appendix A4"
-weight: 10
+weight: 710
 description: "You should have faith in the guru's words. You should depend on his instruction"
 ---
 

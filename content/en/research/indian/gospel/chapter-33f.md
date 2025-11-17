@@ -1,7 +1,7 @@
 ---
-title: "Qualified Advaita"
+title: "I-consciousness"
 c: "indigo"
-heading: "Chapter 33"
+heading: "Chapter 33f"
 weight: 333
 description: ""
 ---
@@ -27,8 +27,6 @@ on account of māyā.
 
 "I said to Harish; 'This is the whole thing: the gold is hidden under a few basketfuls of
 earth, and you must remove the earth.'
-
-"I-consciousness"
 
 "The bhaktas retain 'I-consciousness'; the jnanis do not. Nangta used to teach how to
 establish oneself in the true Self, saying, 'Merge the mind in the buddhi and the buddhi
@@ -97,5 +95,3 @@ water for your uncle to wash his feet.
 "Those who love pigeons are highly pleased if you praise pigeons before them. But if you
 speak ill of pigeons, they will at once exclaim, 'Has anyone in your line for fourteen
 generations ever raised pigeons?'"
-
-

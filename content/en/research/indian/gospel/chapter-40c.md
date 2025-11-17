@@ -131,5 +131,5 @@ Girish conducted Sri Ramakrishna and the devotees to the roof, where the meal wa
 served. There was a bright moon in the sky. The devotees took their seats. The Master
 occupied a seat in front of them. All were in a joyous mood.
 
-Sri Ramakrishna was beside himself with joy at the sight of Narendra. The beloved disciple sat in the front row. Every now and then the Master asked how he was 'getting along. He had hardly finished half his meal when he came to Narendra with  some watermelon sherbet and curd from his own plate. Tenderly he said to the disciple, "Please eat
-this." Then he went back to his own place.
+Sri Ramakrishna was beside himself with joy at the sight of Narendra. The beloved disciple sat in the front row. Every now and then the Master asked how he was 'getting along. He had hardly finished half his meal when he came to Narendra with  some watermelon sherbet and curd from his own plate. Tenderly he said to the disciple, "Please eat this." Then he went back to his own place.
+

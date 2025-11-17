@@ -24,15 +24,9 @@ If cattle trample them underfoot, he throws, away the baked ones. But he collect
 
 The master of the house had not yet shown any sign of serving Sri Ramakrishna with refreshments. Sri Ramakrishna himself said to Nanda: "You see, you should offer me something to eat. That is why the other day I said to Jadu's mother: 'Look here. Give me something to eat.' Otherwise it brings harm to the householder."
 
-Nanda Bose ordered some sweets. Sri Ramakrishna began to eat them. Nanda and the
-others were watching the Master and his actions. After eating the sweets, Sri
-Ramakrishna wanted to wash his hands. The plate on which the sweets were served had
-been placed on the sheet covering the carpet; so the Master could not wash his hands in
-the plate. A servant brought a brass bowl for him to use. But Sri Ramakrishna would not
-907use it, since only rajasic people used such things. He asked the servant to take it away.
-The master of the house said to him, "Please wash your hands." Absent-mindedly Sri
+Nanda Bose ordered some sweets. Sri Ramakrishna began to eat them. Nanda and the others were watching the Master and his actions. After eating the sweets, Sri Ramakrishna wanted to wash his hands. The plate on which the sweets were served had been placed on the sheet covering the carpet; so the Master could not wash his hands in the plate. A servant brought a brass bowl for him to use. But Sri Ramakrishna would not 907use it, since only rajasic people used such things. He asked the servant to take it away. The master of the house said to him, "Please wash your hands." 
 
-Ramakrishna said: "What? Shall I wash my hands?"
+Absent-mindedly Sri Ramakrishna said: "What? Shall I wash my hands?"
 
 The Master walked to the south verandah. He asked M. to pour water into his hands. M.
 poured water from a jug. The Master dried his hands with his cloth and returned to the
@@ -156,5 +150,3 @@ of these people is amazing."
 Sri Ramakrishna laughed.
 
 The brahmani's sister exclaimed, "Here comes sister!"
-
-

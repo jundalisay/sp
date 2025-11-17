@@ -152,13 +152,13 @@ commit myself either way. I said that the potters put their pots in the sun to b
 Among them you see both baked and soft pots. Sometimes cattle trample over them.
 When the baked pots are broken, the potters throw them away; but when the soft ones
 are broken they keep them. They mix them with water and put the clay on the wheel
-and make new pots. They don't throwaway the unbaked pots. So I said to Keshab: 'The
-Potter won't let you go as long as you are unbaked. He will put you on the wheel of the
-world as long as you have not attained Knowledge, as long as you have not realized Him.
+and make new pots. They don't throwaway the unbaked pots. So I said to Keshab: 'The Potter won't let you go as long as you are unbaked. He will put you on the wheel of the world as long as you have not attained Knowledge, as long as you have not realized Him.
+
 He won't let you go. You will have to return to the earth again and again; there is no
 escape. You will be liberated only when you realize God. Then alone will the Potter let
 you go. It is because then you won't serve any purpose in this world of māyā.' The Jnāni
 has gone beyond māyā. What will he do in this world of māyā?
+
 "But God keeps some jnanis in the world of māyā to be teachers of men. In order to
 teach others the Jnāni lives in the world with the help of Vidyā-māyā. It is God Himself
 who keeps the Jnāni in the world for His work. Such was the case with Sukadeva and

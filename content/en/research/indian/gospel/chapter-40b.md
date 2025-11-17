@@ -1,7 +1,7 @@
 ---
-title: "The Master At The Houses Of Balarām And Girish"
+title: "Radha and Krishna"
 c: "indigo"
-heading: "Chapter 40"
+heading: "Chapter 40b"
 weight: 418
 description: ""
 ---
@@ -10,7 +10,7 @@ description: ""
 
 The kirtan continued. Radha had met Krishna on the bank of the Jamuna under the kadamba tree. Her companions describe her physical and mental condition:
 
-A hundred times each hour, in and out of the room she goes;
+A hundred times each hour, in and out of the room she goes.
 
 Restless, breathing hard, she looks toward the kadamba grove.
 
@@ -29,13 +29,14 @@ But we can guess her hand is reaching out to catch the moon.
 Humbly says Chandidas: Radha has fallen in Krishna's trap.
 
 The kirtan went on. Radha's friends say to her.
+
 Tell us, O Radha of comely face! Tell us what it is that ails you.
-Why has your mind wandered away? Why do you claw the
-earth in frenzy?
+
+Why has your mind wandered away? Why do you claw the earth in frenzy?
 
 Tell us why your golden skin has taken the ashy hue of cinders.
-From your body the scarlet cloth has dropped unheeded to the
-ground;
+
+From your body the scarlet cloth has dropped unheeded to the ground;
 
 Ah! Your eyes are red with tears; your lovely lotus face has
 withered.
@@ -49,7 +50,9 @@ The musician sang again.
 
 Hearing Krishna's flute, Radha has gone mad. She says to her
 friends:
+
 Who is the Sorcerer that dwells in the kadamba grove?
+
 His flute-notes suddenly enter my ears and strike a chord in my
 heart;
 

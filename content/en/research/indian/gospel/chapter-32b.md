@@ -1,14 +1,12 @@
 ---
-title: "Master And Disciple"
+title: "Futility of mere study"
 c: "indigo"
-heading: "Chapter 1"
+heading: "Chapter 32b"
 weight: 309
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"
 ---
 
 
-
-## Futility of mere study
 
 "Can one find God in the sacred books? By reading the scriptures one may feel at the
 most that God exists. But God does not reveal Himself to a man unless he himself dives
@@ -129,5 +127,3 @@ SUB-JUDGE: "How can we know that we have Knowledge?"
 MASTER: "When one has Knowledge one does not see God any more at a distance. One
 does not think of Him any more as 'He'. He becomes 'This'. Then He is seen in one's own
 heart. God dwells in every man. He who seeks God realizes Him."
-
-

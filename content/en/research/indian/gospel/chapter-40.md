@@ -10,10 +10,7 @@ description: ""
 Friday, April 24, 1885
 
 
-## Master and M.
-
-Around 1PM, M. arrived at Balarām's house in Calcutta and found the Master asleep, one or two devotees resting near him. M
-began to fan the Master gently. A few minutes later Sri Ramakrishna woke up and sat on the bed with his clothes in a rather untidy condition. M saluted him and took the dust of his feet.
+Around 1PM, M. arrived at Balarām's house in Calcutta and found the Master asleep, one or two devotees resting near him. M began to fan the Master gently. A few minutes later Sri Ramakrishna woke up and sat on the bed with his clothes in a rather untidy condition. M saluted him and took the dust of his feet.
 
 {{< l a="Ramakrishna" >}}
 (tenderly to M.): "Are you well? I'm feeling rather uneasy. I have a sore throat. I suffer very much during the early hours of the morning. Can you tell me how I
@@ -151,5 +148,3 @@ As chanting her name he faints away.
 The hair on his body stands on end;
 His tongue can lisp but a single word.
 Says Basu: Why is Gora so restless?
-
-

@@ -1,7 +1,7 @@
 ---
 title: "Favourable conditions for realization of God"
 c: "indigo"
-heading: "Chapter 33"
+heading: "Chapter 33b"
 weight: 324
 description: ""
 ---

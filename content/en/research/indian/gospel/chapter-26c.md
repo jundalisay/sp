@@ -9,7 +9,6 @@ description: ""
 ---
 
 
-
 It was now dusk. Sri Ramakrishna, as was usual with him during this part of the day, chanted the names of God and turned his mind to contemplation. Soon the moon rose in the sky. The temples, courtyards, and trees were bathed in its silvery light, and millions of broken moons played on the rippling surface of the Ganges. Rakhal and M. were with the Master in his room.
 
 MASTER (to M.): "Baburam says, 'Oh, the worldly life! God forbid!' "
