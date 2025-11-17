@@ -2,7 +2,7 @@
 title: "Master exhorts Ishan"
 c: "indigo"
 heading: "Chapter 31e"
-weight: 131
+weight: 299
 description: ""
 ---
 

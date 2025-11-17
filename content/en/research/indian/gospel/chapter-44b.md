@@ -2,7 +2,7 @@
 title: Different kinds of samādhi
 c: "indigo"
 heading: "Chapter 44b"
-weight: 223
+weight: 486
 description: "Narendra sang the following hymn to Śiva, in which the devotee prays for forgiveness for his sins"
 ---
 
@@ -126,6 +126,3 @@ will give up his body in samādhi.'
 
 Kedār, a believer in the Personal God, peeped in and
 ran away with a shudder.
-
-
-

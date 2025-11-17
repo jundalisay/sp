@@ -2,9 +2,9 @@
 title: "The Master On Himself And His Experiences"
 c: "indigo"
 heading: "Chapter 44"
-weight: 174
+weight: 482
 description: ""
-icon: "Ramakrishna"
+icon: "M"
 ---
 
 

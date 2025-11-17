@@ -2,7 +2,7 @@
 title: "Divine Incarnation"
 c: "indigo"
 heading: "Chapter 22b"
-weight: 90
+weight: 197
 description: "In the Incarnation there is a greater manifestation of God than in other men"
 ---
 
@@ -71,24 +71,31 @@ Brahman and Śakti
 than She whom I call Śakti, the Primal Energy. It is called Brahman in the Vedas when it
 transcends speech and thought and is without attributes and action. I call it Śakti,
 Ādyāśakti , and so forth, when I find it creating, preserving, and destroying the universe.'
-Difficulties of householder's life
+
+
+## Difficulties of householder's life
+
 "I said to Keshab: 'It is extremely difficult to realize God while leading a worldly life. How
 can a typhoid patient be cured if he is kept in a room where tamarind, pickle, and jars of
 water are kept? Therefore one should go into solitude now and then to practise spiritual
 discipline. When the trunk of a tree becomes thick and strong, an elephant can be tied to
 it; but a young sapling is eaten by cattle.' That is why Keshab would say in his lectures,
 'Live in the world after being strengthened in spiritual life.'
+
 (To the devotees) "You see, Keshab was a great scholar. He lectured in English. Many
 people honoured him. Queen Victoria herself talked to him. But when Keshab came here
 he would be bare-bodied and bring some fruit, as one should when visiting a holy man.
 He was totally free from egotism.
+
 (To Adhar) "You are a scholar and a deputy magistrate, but with all that you are hen-
 pecked. Go forward. Beyond the forest of sandal-wood there are many more valuable
 things: silver-mines, gold-mines, diamonds, and other gems. The wood-cutter was
 chopping wood in the forest; the brahmachāri said to him, 'Go forward.' "
+
 Sri Ramakrishna came down from the steps of the Śiva temples and went
 to his own room through the courtyard. The devotees were with him. Just then Ram
 Chatterji came and said that the Holy Mother's attendant had had an attack of cholera.
+
 RAM (to the Master): "I told you about it at ten o'clock this morning, but you didn't pay
 any attention to me."
 
@@ -110,18 +117,18 @@ The ladies mentioned before saluted the Master and were about to take their leav
 And have something to eat before you come here. Otherwise I shall feel unhappy. Come another day.
 
 Sri Ramakrishna sat down on the porch west of his room. Narendra Bannerji, Hari, M., and others sat by his side. The Master knew about Narendra's family difficulties.
-MASTER: "You see, all these sufferings are 'because of a piece of loin cloth'. A man takes
-a wife and begets children; therefore he must secure a job. The sādhu is worried about his loin-cloth, and the householder about his wife. Further, the householder may not live on good terms with his relatives; so he must live separately with his wife. (With a laugh)
+
+MASTER: "You see, all these sufferings are 'because of a piece of loin cloth'. A man takes a wife and begets children; therefore he must secure a job. The sādhu is worried about his loin-cloth, and the householder about his wife. Further, the householder may not live on good terms with his relatives; so he must live separately with his wife. (With a laugh)
 
 Chaitanya once said to Nityananda: 'Listen to me, brother. A man entangled in worldliness can never be free.' "
 M. (to himself): "Perhaps the Master is referring to the world of avidyā. It is the world of
 avidyā that entangles a householder."
 
 M. was still living in a separate house with his wife, on account of a misunderstanding with the other members of his family.
+
 MASTER (to Bannerji, pointing to M.): "He also lives in a separate house. You two will get along very well. Once two men happened to meet. One said to the other, 'Who are you?' 
 
-Oh, I am away from my country', was the other's reply. The second man then asked the first, 'And who are you, pray?' 'Oh, I am away from my beloved', was the
-answer. Both were in the same plight; so they got along very well. (All laugh.)
+Oh, I am away from my country', was the other's reply. The second man then asked the first, 'And who are you, pray?' 'Oh, I am away from my beloved', was the answer. Both were in the same plight; so they got along very well. (All laugh.)
 
 "But one need not have any fear if one takes refuge in God. God protects His devotee."
 
@@ -131,8 +138,10 @@ MASTER: "The truth is that a man doesn't feel restless for God unless he is fini
 
 Then a little medicine will do him good.'
 
-Nārada said to Rāma: 'Rāma, You are passing Your time in Ayhodhya. How will Ravana be killed? You have taken this human body for that purpose alone.' Rāma replied:
-'Nārada, let the right time come. Let Ravana's past actions begin to bear fruit. Then everything will be made ready for his death.' "
+Nārada said to Rāma: 'Rāma, You are passing Your time in Ayhodhya. How will Ravana be killed? You have taken this human body for that purpose alone.' 
+
+Rāma replied: 'Nārada, let the right time come. Let Ravana's past actions begin to bear fruit. Then everything will be made ready for his death.' "
+
 HARI: "Why is there so much suffering in the world?"
 
 MASTER: "This world is the līlā of God. It is like a game. In this game there are joy and sorrow, virtue and vice, knowledge and ignorance, good and evil. The game cannot continue if sin and suffering are altogether eliminated from the creation.
@@ -166,10 +175,13 @@ MASTER: "True. Once the wood catches fire, it cannot be put out. (To the devotee
 BANNERJI: "I have too much faith." 
 
 MASTER: "Bring the women of your family with those of Balarām's."
+
 BANNERJI: "Who is Balarām?"
+
 MASTER: "Don't you know Balarām? He lives at Bosepara."
-Sri Ramakrishna loved guileless people. Narendra Bannerji was absolutely guileless. The
-Master loved Niranjan because he, too, was without guile.
+
+Sri Ramakrishna loved guileless people. Narendra Bannerji was absolutely guileless. The Master loved Niranjan because he, too, was without guile.
+
 MASTER (to M.): "Why do I ask you to see Niranjan? It is to find out if he is truly
 guileless."
 

@@ -1,3 +1,12 @@
+---
+heading: "Chapter 38d"
+title: "How to cultivate longing for God"
+c: "indigo"
+weight: 390
+author: M
+icon: M
+description: ""
+---
 
 
 
@@ -145,5 +154,3 @@ and showed him much affection.
 
 NARENDRA (to the Master): "Why, I have meditated on Kāli for three or four days, but
 nothing has come of it."
-
-

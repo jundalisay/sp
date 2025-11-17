@@ -1,8 +1,8 @@
 ---
-title: "THE MASTER'S LOVE FOR HIS DEVOTEES"
+title: "The Master'S Love For His Devotees"
 c: "indigo"
 heading: "Chapter 51"
-weight: 202
+weight: 630
 description: ""
 ---
 

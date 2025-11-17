@@ -2,7 +2,7 @@
 title: "Discrimination and dispassion"
 c: "indigo"
 heading: "Chapter 4e"
-weight: 19
+weight: 20
 description: "In meditation one must be absorbed in God. By merely floating on the surface of the water, can you reach the gems lying at the bottom of the sea?"
 ---
 

@@ -2,11 +2,9 @@
 title: "Revelation about himself"
 c: "indigo"
 heading: "Chapter 37f"
-weight: 155
+weight: 381
 description: ""
 ---
-
-
 
 
 MASTER (to M.): "There is no outsider here. The other day, when Harish was with me, I saw Satchidananda come out of this sheath, It said, 'I incarnate Myself in every age.' I thought that I myself was saying these words out of mere fancy. I kept quiet and watched. 

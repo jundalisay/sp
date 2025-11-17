@@ -2,7 +2,7 @@
 title: "The Master And Narendra"
 c: "indigo"
 heading: "Chapter 37"
-weight: 151
+weight: 370
 description: ""
 ---
 
@@ -98,9 +98,8 @@ of God.
 pitcher, and Brahman like the ocean-an infinite expanse of water on all sides. The
 pitcher is set in this ocean. The water is both inside and out; the water is everywhere;
 yet the pitcher remains. Now, this pitcher is the 'ego of the devotee'. As long as the ego
-remains, 'you' and 'I' remain, and there also remains the feeling, 'O God, Thou art the
-776Lord and I am Thy devotee; Thou art the Master and I am Thy servant.' You may reason
-a million times, but you cannot get rid of it. But it is different if there is no pitcher."
+remains, 'you' and 'I' remain, and there also remains the feeling, 'O God, Thou art the Lord and I am Thy devotee; Thou art the Master and I am Thy servant.' You may reason a million times, but you cannot get rid of it. But it is different if there is no pitcher." 
+
 Narendra entered the room and saluted the Master. They began to talk together.
 Presently the Master came down from the couch and sat on the floor, on which a mat
 had been spread. In the mean time the room had become filled with people, both

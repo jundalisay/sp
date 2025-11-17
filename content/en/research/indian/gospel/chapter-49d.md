@@ -2,7 +2,7 @@
 title: "Master's Great Suffering"
 c: "indigo"
 heading: "Chapter 49d"
-weight: 195
+weight: 605
 description: ""
 ---
 
@@ -29,8 +29,7 @@ thinking of the Master's suffering of the previous night.
 
 ## His vision of unity
 
-MASTER (to the devotees): "Do you know what I see right now? I see that it is God Himself who has become all this. It seems to me that men and other living beings are
-made of leather, and that it is God Himself who, dwelling inside these leather cases, moves the hands, the feet, the heads. I had a similar vision once before, when I saw houses, gardens, roads, men, cattle-all made of One Substance; it was as if they were
+MASTER (to the devotees): "Do you know what I see right now? I see that it is God Himself who has become all this. It seems to me that men and other living beings are made of leather, and that it is God Himself who, dwelling inside these leather cases, moves the hands, the feet, the heads. I had a similar vision once before, when I saw houses, gardens, roads, men, cattle-all made of One Substance; it was as if they were
 all made of wax.
 
 I see that it is God Himself who has become the block, the executioner, and the victim

@@ -2,7 +2,7 @@
 title: "Is it necessary to have a guru?"
 c: "indigo"
 heading: "Chapter 11e"
-weight: 50
+weight: 74
 description: "Many need a guru. But a man must have faith in the guru's words"
 ---
 
@@ -94,6 +94,7 @@ There are two schools of thought: the Vedānta and the Purana. According to the
 Vedānta this world is a 'framework of illusion', that is to say, it is all illusory, like a
 dream. But according to the Purana, the books of devotion, God Himself has become
 the twenty-four cosmic principles. Worship God both within and without.
+
 "As long as God keeps the awareness of 'I' in us, so long do sense-objects exist; and we
 cannot very well speak of the world as a dream. There is fire in the hearth; therefore
 the rice and pulse and potatoes and the other vegetables jump about in the pot. They
@@ -101,6 +102,7 @@ jump about as if to say: 'We are here! We are jumping!' This body is the pot. Th
 and intelligence are the water. The objects of the senses are the rice, potatoes, and
 other vegetables. The 'I-consciousness' identified with the senses says, 'I am jumping
 about.' And Satchidananda is the fire.
+
 "Hence the Bhakti scriptures describe this very world as a 'mansion of mirth'.
 
 Ramprasad sang in one of his songs, 'This world is a framework of illusion.' Another
@@ -124,5 +126,3 @@ the ordinary man. The cloth his eyes are bandaged with is fastened to his back w
 screws, as it were. There are eight fetters. Shame, hatred, fear, caste, lineage, good
 conduct, grief, and secretiveness-these are the eight fetters. And they cannot be
 unfastened without the help of a guru.
-
-

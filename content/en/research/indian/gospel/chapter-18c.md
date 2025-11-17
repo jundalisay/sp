@@ -2,7 +2,7 @@
 title: "The Goddess Kali"
 c: "indigo"
 heading: "Chapter 18c"
-weight: 76
+weight: 163
 description: "There are 2 kinds of aspirants"
 ---
 

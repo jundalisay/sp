@@ -1,7 +1,14 @@
+---
+heading: "Chapter 38e"
+title: "Kāli and Brahman"
+c: "indigo"
+weight: 393
+author: M
+icon: M
+description: ""
+---
 
 
-
-## Kāli and Brahman
 
 MASTER: "All in good time, my child. Kāli is none other than Brahman That which is called Brahman is really Kāli. She is the Primal Energy. When that Energy remains inactive, I call It Brahman, and when It creates. preserves, or destroys, I call It Śakti or Kāli. What you call Brahman I call Kāli.
 
@@ -105,5 +112,3 @@ with wistful eyes. Soon the devotees turned homeward, a gentle south wind blowin
 their faces. Some were humming the lines of the song: Lord, Thou hast lifted all my sorrow with the vision of Thy face,
 
 The magic of Thy beauty has bewitched my mind.
-
-

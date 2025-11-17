@@ -2,7 +2,7 @@
 title: "How to conquer passion"
 c: "indigo"
 heading: "Chapter 31b"
-weight: 128
+weight: 292
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 title: "Bankim Chandra"
 c: "indigo"
 heading: "Chapter 34"
-weight: 139
+weight: 336
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 title: "About Purna"
 c: "indigo"
 heading: "Chapter 38f"
-weight: 155
+weight: 377
 description: ""
 ---
 
@@ -131,10 +131,7 @@ But how could I? They led an immoral life. Who would feed them?"
 Sri Ramakrishna was in the happiest mood with his young and pure-souled devotees. He
 was seated on the small couch and was doing funny imitations of a kirtani. The devotees
 laughed heartily. The kirtani is dressed lavishly and covered with ornaments. She sings
-standing on the floor, a coloured kerchief in her hand. Now and then she coughs to draw
-people's attention and blows her nose, raising her nose-ring. When a respectable
-gentleman enters the room she welcomes him with appropriate words, still continuing
-her song. Now and then she pulls her sari from her arms to show off her jewels. 
+standing on the floor, a coloured kerchief in her hand. Now and then she coughs to draw people's attention and blows her nose, raising her nose-ring. When a respectable gentleman enters the room she welcomes him with appropriate words, still continuing her song. Now and then she pulls her sari from her arms to show off her jewels. 
 
 The devotees were convulsed, with laughter at this mimicry by Sri Ramakrishna. Paltu
 rolled on the ground. Pointing to him, the Master said to M.: "Look at that child! He is

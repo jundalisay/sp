@@ -2,7 +2,7 @@
 title: "Encouraging Bhavanāth"
 c: "indigo"
 heading: "Chapter 51z"
-weight: 205
+weight: 632
 description: ""
 ---
 
@@ -189,14 +189,18 @@ Pondering, I have understood; I have seen it beyond a doubt;
 I find not a single thing that may be compared to Thee.
 To Jafar it has been revealed that Thou art all that
 exists.
+
 As the Master listened, to the line,
 "Thou hast entered every heart", he said by a sign:
 "God dwells in everybody's heart. He is the Inner Guide."
+
 As Narendra sang the line,
 Thou", Hirananda
+
 "I see Thee wherever I look: all that exists art
 said to him: "Yes, 'All that exists art Thou.' Now you say: 'Thou!
 Thou! Not I, but Thou!'"
+
 NARENDRA: Give me a one and I'll give you a million. Thou art I; I am Thou. Nothing
 exists but I "
 

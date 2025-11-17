@@ -1,8 +1,8 @@
 ---
-title: "ADVICE TO ISHAN"
+title: "Advice To Ishan"
 c: "indigo"
 heading: "Chapter 31"
-weight: 127
+weight: 289
 description: ""
 ---
 
@@ -15,7 +15,8 @@ M. and Priya Mukherji were sitting on the floor.
 
 M. had left his school at one o'clock and had just arrived at Dakshineswar. 
 
-### The worldly Jadu Mallick
+
+## The worldly Jadu Mallick
 
 The Master was telling anecdotes about the calculating nature of the wealthy Jadu Mallick.
 
@@ -104,3 +105,4 @@ That is what they call the 'attitude of Gopala.'
 Those who develop dispassion from early youth, those who roam about yearning for God from boyhood, those who refuse all worldly life, belong to a different class. They belong to an unsullied aristocracy. If they develop true renunciation, they keep themselves at least fifty cubits away from women lest their spiritual mood should be destroyed. 
 
 Once falling into the clutches of women, they no longer remain on the level of unsullied aristocracy. They fall from it and come to a lower level. People who practise renunciation from early youth belong to a very high level. Their ideal is very pure. They are stainless.
+

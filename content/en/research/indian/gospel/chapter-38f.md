@@ -2,7 +2,7 @@
 title: "About Purna"
 c: "indigo"
 heading: "Chapter 38f"
-weight: 155
+weight: 395
 description: ""
 ---
 

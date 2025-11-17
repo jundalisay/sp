@@ -1,112 +1,155 @@
 ---
-title: "Difficulty of the Vedantic method"
-c: "indigo"
 heading: "Chapter 12d"
-weight: 57
-description: "Taking advantage of the holiday, many householder devotees visited Sri Ramakrishna in his room at the Dakshineswar temple garden"
+title: "Master's visits to various devotees"
+c: "indigo"
+weight: 85
+author: M
+icon: M
+description: ""
 ---
 
 
-Sunday, July 22, 1883
+The carriage drove on. They were approaching Adhar's house. Sri Ramakrishna said to M., "Dwell in the truth and you will certainly realize God." 
 
-Taking advantage of the holiday, many householder devotees visited Sri Ramakrishna in his room at the Dakshineswar temple garden. The Young devotees, mostly students, generally came on week-days. 
+M: "You said the other day to Navadvip Goswami:'O God, I want Thee. Please do not delude me with Thy world-bewitching maya. I want to realize Thee.' "
 
-Sometimes the Master asked his intimate disciples to come on a Tuesday or a Saturday, days that he considered very auspicious for special
-religious instruction. Adhar, Rakhal , and M. had come from Calcutta in a hired carriage.
-Sri Ramakrishna had enjoyed a little rest after his midday meal. 
+MASTER: "Yes, one should be able to say that from one's innermost soul."
 
-The room had an atmosphere of purity and holiness. On the walls hung pictures of gods and goddesses, among them one of Christ rescuing the drowning Peter. Outside the room were plants laden with fragrant flowers, and the Ganges could be seen flowing toward the south.
+Sri Ramakrishna arrived at Adhar's house and took a seat in the parlour. Ramlal, Adhar, M., and the other devotees sat near him. Rakhal was staying with his father in Calcutta.
 
-The Master was seated on the small couch, facing the north, and the devotees sat on mats and carpets spread on the floor. All eyes were directed toward him. Mani Mallick, an old Brahmo devotee about sixty-five years of age, came to pay his respects to the Master. 
+MASTER (to Adhar): "Didn't you let Rakhal know that I was coming?"
 
-He had returned a few months earlier from a pilgrimage to Benares and was recounting his experiences to Sri Ramakrishna.
+ADHAR: "Yes, sir. I have sent him word."
 
+Finding that the Master was eager to see Rakhal, Adhar at once sent his carriage to fetch him. Adhar had been yearning to see the Master that day, but he had not definitely known that Sri Ramakrishna was coming.
 
-## Difficulty of the Vedantic method
+ADHAR: "You haven't been here for a long time. I prayed to God today that you might come. I even shed tears"
 
-MANI MALLICK: "A monk whom I met in Benares said that no religious experience is
-possible without the control of the sense-organs. Nothing could be achieved by merely
-crying, 'God! God!' "
+The Master was pleased and said with a smile, "You don't mean that!"
 
-MASTER: "Do you understand the views of teachers like him? According to them, one must first practise spiritual discipline: self-restraint, self-control, forbearance, and the like. 
+It was dusk and the lamps were lighted. Sri Ramakrishna saluted the Divine Mother with folded hands and sat quietly absorbed in meditation. Then he began to chant the names of God in his sweet voice: "Govinda! Govinda! Satchidananda! Hari! Hari!" Every word he uttered showered nectar on the ears of the devotees.
 
-Their aim is to attain Nirvāna. They are followers of Vedānta. They constantly discriminate, saying, 'Brahman alone is real, and the world illusory.' But this is an extremely difficult path. 
+Ramlal sang in praise of Kāli, the Divine Mother:
 
-If the world is illusory, then you too are illusory. The teacher
-who gives the instruction is equally illusory. His words, too, are as illusory as a dream.
+Thy name, I have heard, O Consort of Śiva, is the destroyer of
+our fear,
+And so on Thee I cast my burden: Save me! Save me, O kindly
+Mother!
+Out of Thy womb the world is born, and Thou it is that dost
+pervade it.
+Art Thou Kāli? Art Thou Radha? Who can ever rightly say?
+Mother, in every living creature Thou dost have Thy dwelling
+place;
+As Kundalini Thou dost live in the lotus of the Muladhara.
+Above it lies the Svadhisthana, where the four-petalled lotus
+blooms;
+There also Thou dost make Thy home, O mystic power of
+Kundalini,
+In the four petals of that flower, and in Vajrasana's six petals
+At the navel is Manipura, the blue ten-petalled lotus flower;
+Through the pathway of Sushumna, Thou dost ascend and enter
+there.
 
-"But this experience is beyond the reach of the ordinary man. Do you know what it is like? If you burn camphor nothing remains. When wood is burnt at least a little ash is left. 
+O Lady of the lotuses, in lotus blossoms Thou dost dwell!
+Beyond them lies the Lake of Nectar, in the region of the heart, 
+Where the twelve-petalled lotus flower enchants the eye with scarlet flame. 
+When Thou dost open it, O Mother, touching it with Thy Lotus Feet,
+The age-long darkness of the heart instantly scatters at Thy sight.
+Above, in the throat, is the sixteen-petalled lotus flower, of smoky hue;
+Within the petals of this flower there lies concealed a subtle space,
+Transcending which, one sees at length the universe in Space dissolve.
+And higher yet, between the eyebrows, blossoms the lotus of two petals,
+Where the mind of man remains a prisoner and past controlling;
+From this flower the mind desires to watch the sportive play of life.
 
-Finally, after the last analysis, the devotee goes into samādhi. Then he knows nothing whatsoever of 'I', 'you', or the universe.
-"Padmalochan was a man of deep wisdom. He had great respect for me, though at that time I constantly repeated the name of the Divine Mother. He was the court pundit of the Maharaja of Burdwan. 
+Highest of all, within the head, the soul-enthralling centre is,
+Where shines the thousand-petalled lotus, Mahadeva's dwelling place.
 
-Once he came to Calcutta and went to live in a garden house near kamarhati. I felt a desire to see him and sent Hriday there to learn if the pundit
-had any vanity. I was told that he had none. Then I met him. Though a man of great
-knowledge and scholarship, he began to weep on hearing me sing Ramprasad's devotional songs. We talked together a long while; conversation with nobody else gave me such satisfaction. 
+Having ascended to His throne, O Spouse of Śiva, sit beside
+Him!
+Thou art the Primal Power, O Mother! She whose senses are
+controlled;
+The yogis meditate on Thee as Uma, great Himalaya's
+daughter.
 
-He said to me, 'Give up the desire for the company of devotees; otherwise people of all sorts will come to you and make you deviate from your spiritual
-ideal.' Once he entered into a controversy, by correspondence, with Utshavananda,
-Vaishnavcharan's guru. He told me an interesting incident. 
+Thou who art the Power of Śiva! Put to death my ceaseless
+cravings;
+Grant that I never fall again into the ocean of this world.
+Mother, Thou art the Primal Power, Thou the five cosmic
+principles;
 
-Once a meeting was called to decide which of the two deities, Śiva or Brahma, was the greater. Unable to come to
-any decision, the pundits at last referred the matter to Padmalochan. With characteristic
-guilelessness he said: 'How do I know? Neither I nor any of my ancestors back to the
-fourteenth generation have seen Śiva or Brahma.' About the renunciation of 'woman and
-gold', he said to me one day: 'Why have you given up those things? Such distinctions as
-"This is money and that is clay" are the outcome of ignorance.' What could I say to that?
-I replied: 'I don't know all these things, my dear sir. But for my part, I cannot relish
-such things as money and the like.'
+Who can ever hope to know Thee, who art beyond all
+principles?
 
-"There was a pundit who was tremendously vain. He did not believe in the forms of God. But who can understand the inscrutable ways of the Divine? God revealed Himself to him as the Primal Power. 
+Only for Thy bhaktas' sake dost Thou assume Thy various
+forms;
+But when Thy devotee's five senses merge in the five elements,
+Mother, it is Thyself alone that he beholds as formless Truth.
 
-This vision made the pundit unconscious for a long time. After regaining partial consciousness he uttered only the sound 'Ka! Ka! Ka!' He could
-not fully pronounce 'Kāli'."
+As Ramlal sang the lines:
 
+Above, in the throat, is the sixteen-petalled lotus flower, of
+smoky hue;
+ ithin the petals of this flower there lies concealed a subtle
+space,
+Transcending which, one sees at length the universe in Space
+dissolve,
 
-A DEVOTEE: "Sir, you met Pundit Vidyasagar. What did you think of him?"
+The Master said to M.: "Listen. This is known as the vision of Satchidananda, the
+Formless Brahman. The Kundalini, rising above the Visuddha chakra, enables one to see
+everything as Ākāśa."
 
-MASTER: "Vidyasagar has both scholarship and charity, but he lacks inner vision. Gold lies hidden within him. Had he but found it out, his activities would have been reduced; finally they would have stopped altogether. Had he but known that God resides in his heart, his mind would have been directed to God in thought and meditation. 
+M: "Yes, sir."
 
-Some persons must perform selfless work a long time before they can practise dispassion and direct their minds to the spiritual ideal and at last be absorbed in God.
+MASTER: "One attains the Absolute by going beyond the universe and its created beings
+conjured up by maya. By passing beyond the Nada one goes into samādhi. By
+repeating 'Om' one goes beyond the Nada and attains samādhi."
 
+Adhar served Sri Ramakrishna with fruits and sweets. The Master left for Jadu Mallick's
+house.
 
+Sri Ramakrishna entered the room in Jadu's house where the Divine Mother was
+worshipped. He stood before the image, which had been decorated with flowers, garlands, and sandal-paste, and which radiated a heavenly beauty and splendour. 
 
-"The activities that Vidyasagar is engaged in are good. Charity is very noble. There is a
-great deal of difference between daya, compassion, and maya, attachment. Daya is
-good, but not maya. Maya is love for one's relatives-one's wife, children, brother, sister,
-nephew, father, and mother. But daya is the same love for all created beings without
-any distinction."
+Lights were burning before the pedestal. A priest was seated before the image. The Master
+asked one of his companions to offer a rupee in the shrine, according to the Hindu
+custom.
 
+Sri Ramakrishna stood a long time with folded hands before the blissful image, the
+devotees standing behind him. Gradually he went into samādhi, his body becoming
+motionless and his eyes fixed.
 
+With a long sigh he came back to the world of the senses and said, still intoxicated with
+divine fervour, "Mother, good-bye." But he could not leave the place. He remained
+standing there. Addressing Ramlal, he said: "Please sing that song. Then I shall be all
+right."
 
-## The three gunas
+Ramlal sang:
 
-M: "Is daya also a bondage?"
+O Mother, Consort of Śiva, Thou hast deluded this world. . . .
+The Master went to the drawing-room with the devotees. Every now and then he said,
+"O Mother, please dwell in my heart." Jadu was sitting in the drawing-room with his
+friends. The Master sat down, still in an ecstatic mood, and sang:
+O Mother, ever blissful as Thou art,
+Do not deprive Thy worthless child of bliss! . . .
+Finishing the song, he said to Jadu, still in a state of divine fervour: "Well, sir, what shall
+I sing? Shall I sing 'Mother, am I Thine eight-months child'? "
 
-MASTER: "Yes, it is. But that concept is something far beyond the ordinary man. Daya springs from sattva. Sattva preserves, rajas creates, and tamas destroys. But Brahman is beyond the three gunas. It is beyond Prakriti.
+He sang:
 
-"None of the three gunas can reach Truth; they are like robbers, who cannot come to a public place for fear of being arrested. Sattva, rajas, and tamas are like so many robbers.
+Mother, am I Thine eight-months child? Thy red eyes cannot
+frighten me!
+My riches are Thy Lotus Feet, which Śiva holds upon His
+breast;
 
-"Listen to a story. Once a man was going through a forest, when three robbers fell upon him and robbed him of all his possessions. One of the robbers said, 'What's the use of keeping this man alive?' So saying, he was about to kill him with his sword, when the
-second robber interrupted him, saying: 'Oh, no! What is the use of killing him? Tie him hand and foot and leave him here.' The robbers bound his hands and feet and went away.
+Yet, when I seek my heritage, I meet with excuses and delays.
+A deed of gift I hold in my heart, attested by Thy Husband Śiva;
+I shall sue Thee, if I must, and with a single point shall win.
+If Thou dost oppose me, Thou wilt learn what sort of mother's
+son I am.
 
-After a while the third robber returned and said to the man: 'Ah, I am sorry. Are you hurt? I will release you from your bonds.' After setting the man free, the thief said:
-
-'Come with me. I will take you to the public highway.' After a long time they reached the road. Then the robber said: 'Follow this road. Over there is your house.' At this the man said: 'Sir, you have been very good to me. Come with me to my house ' 'Oh, no!'
-the robber replied. 'I can't go there. The police will know it.'
-This world itself is the forest. The three robbers prowling here are sattva, rajas, and
-tamas. It is they that rob a man of the Knowledge of Truth. Tamas wants to destroy
-him. Rajas binds him to the world. But sattva rescues him from the clutches of rajas
-and tamas. Under the protection of sattva, man is rescued from anger, passion, and the
-other evil effects of tamas. Further, sattva loosens the bonds of the world. But sattva
-also is a robber. It cannot give him the ultimate Knowledge of Truth, though it shows
-him the road leading to the Supreme Abode of God. Setting him on the path, sattva tells
-him: 'Look yonder. There is your home.' Even sattva is far away from the Knowledge of
-Brahman.
-
-
-
-"What Brahman is cannot be described. Even he who knows It cannot talk about It.
-There is a saying that a boat, once reaching the 'black waters' of the ocean, cannot come
-back.
+This bitterly contested suit between the Mother and Her son-
+What sport it is! says Ramprasad. I shall not cease tormenting Thee
+Till Thou Thyself, shalt yield the fight and take me in Thine
+arms at last.
 

@@ -2,7 +2,7 @@
 title: "Compassion Versus Attachment"
 c: "indigo"
 heading: "Chapter 6g"
-weight: 32
+weight: 33
 description: "Many people have spoken about reincarnation; therefore I cannot disbelieve it"
 ---
 

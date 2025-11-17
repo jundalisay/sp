@@ -2,7 +2,7 @@
 title: "Brahmani's indescribable joy"
 c: "indigo"
 heading: "Chapter 43d"
-weight: 171
+weight: 480
 description: ""
 ---
 
@@ -193,8 +193,7 @@ M: "You also told us about Jesus."
 
 MASTER: "What did I say?"
 
-M: "You went into samādhi at the sight of Jesus Christ's picture in Jadu Mallick's garden house. You saw Jesus come down from the picture and merge in your body." Sri Ramakrishna was silent a few moments. Then he said to M.: "Perhaps there is a
-meaning in what has happened to my throat [referring to the sore in his throat]. This
+M: "You went into samādhi at the sight of Jesus Christ's picture in Jadu Mallick's garden house. You saw Jesus come down from the picture and merge in your body." Sri Ramakrishna was silent a few moments. Then he said to M.: "Perhaps there is a meaning in what has happened to my throat [referring to the sore in his throat]. This
 has happened lest I should make myself light before all; lest I should go to all sorts of
 places and sing and dance."
 

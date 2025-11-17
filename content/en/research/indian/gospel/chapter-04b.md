@@ -2,7 +2,7 @@
 title: "God and Worldly Duties"
 c: "indigo"
 heading: "Chapter 4b"
-weight: 16
+weight: 17
 description: "Perform your duties in an unselfish spirit"
 ---
 

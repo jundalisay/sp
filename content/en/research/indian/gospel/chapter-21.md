@@ -2,9 +2,10 @@
 title: "A Day At Dakshineswar"
 c: "indigo"
 heading: "Chapter 21"
-weight: 86
+weight: 189
 description: "That morning he had hired a boat and invited M. to accompany him to Dakshineswar"
 ---
+
 
 
 Saturday, April 5, 1884
@@ -109,3 +110,5 @@ The princes were becoming well versed in letters and military arts. I was secure
 real as is my being a wood-cutter. 
 
 If being a wood-cutter is real, then being a king in a dream is real also.' "
+
+

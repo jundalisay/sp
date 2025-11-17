@@ -2,10 +2,9 @@
 title: "With The Devotees In Calcutta"
 c: "indigo"
 heading: "Chapter 38"
-weight: 155
+weight: 383
 description: ""
 ---
-
 
 
 
@@ -145,5 +144,3 @@ dangerous things. (With a smile) But it is different with M. He is a serious man
 CHUNILAL: "People have begun to whisper about M.'s conduct. The younger Naren and Baburam are his students, as are Naran, Paltu, Purna, and Tejchandra. The rumour is that he brings these boys to you and so they neglect their studies. The boys' guardians hold M. responsible."
 
 MASTER: "But who would believe their words?"
-
-

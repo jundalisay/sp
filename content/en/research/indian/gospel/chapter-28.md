@@ -1,29 +1,27 @@
 ---
 heading: Chapter 28
-title: AT THE STAR THEATRE
+title: At The Star Theatre
 c: "indigo"
-weight: 114
+weight: 246
 description: "The Master was sitting in his room at Dakshineswar."
 ---
 
 
 Friday, September 19, 1884
 
-IT WAS MAHALAYA, a sacred day of the Hindus, and the day of the new moon. At 2PM, Sri Ramakrishna was sitting in his room with Mahendra Mukherji,
-Priya Mukherji, M., Baburam, Harish, Kishori, and Lātu. Some were sitting on the floor, some standing, and others moving about. Hazra was sitting on the porch. Rakhal was still at Vrindāvan with Balarām.
+IT WAS MAHALAYA, a sacred day of the Hindus, and the day of the new moon. At 2PM, Sri Ramakrishna was sitting in his room with Mahendra Mukherji, Priya Mukherji, M., Baburam, Harish, Kishori, and Lātu. Some were sitting on the floor, some standing, and others moving about. Hazra was sitting on the porch. Rakhal was still at Vrindāvan with Balarām.
 
 MASTER (to the devotees): "I was at Captain's house in Calcutta. It was very late when I returned. What a sweet nature Captain has! What devotion! He performs the Ārati before the image.
 
-First he waves a lamp with three lights, then a lamp with one light, and last of all he waves burning camphor. When performing the worship he does not
-speak. Once he motioned to me to take my seat. During the worship his eyes become swollen from spiritual emotion. They look as if they have been stung by wasps. He
-cannot sing, but he chants hymns beautifully. In his mother's presence he sits on a lower level; she sits on a high stool.
+First he waves a lamp with three lights, then a lamp with one light, and last of all he waves burning camphor. When performing the worship he does not speak. Once he motioned to me to take my seat. During the worship his eyes become swollen from spiritual emotion. They look as if they have been stung by wasps. 
+
+He cannot sing, but he chants hymns beautifully. In his mother's presence he sits on a lower level; she sits on a high stool.
 "His father was a havildar in the English army. He would hold a gun with one hand and with the other worship Śiva. His servant made a clay image of Śiva for him. He wouldn't even touch water before performing the worship. He earned six thousand rupees a year.
 
 "Captain sends his mother to Benares now and then. Twelve or thirteen servants attend her there; it is very expensive. Captain knows the Vedānta, the Gitā, and the Bhagavata by heart. He says that the educated gentlemen of Calcutta follow the ways of the
 mlechchhas.
 
-"In his earlier years he practised hathayoga. That is why he strokes my head gently when I am in samādhi. His wife worships the Deity in another form-that of Gopala. This time I didn't find her so miserly. She too knows the Gitā and other scriptures. What
-devotion they have!
+"In his earlier years he practised hathayoga. That is why he strokes my head gently when I am in samādhi. His wife worships the Deity in another form-that of Gopala. This time I didn't find her so miserly. She too knows the Gitā and other scriptures. What devotion they have!
 
 They cooked a goat curry. Captain said they could eat it for fifteen days, but she said, 'No, no! Only seven days.' But I liked the taste of it. They serve a very small quantity of each dish, but nowadays they give me good portions since I eat more than they do. After
 the meal either Captain or his wife fans me.
@@ -36,17 +34,24 @@ Dwarika Babu and the others wanted to hear her music. When she sang the Gitagovi
 was profoundly moved and wiped the tears from his eyes with his handkerchief. She was
 asked why she was not married. She said: 'I am the handmaid of God. Whom else shall I
 serve?' Her people respect her as a goddess, as the scriptures enjoin.
+
 (To Mahendra Mukherji and the others) "I shall feel very happy to know that you are
 being benefited by your visits here. (To M.) Why do people come here? I don't know
 much of reading and writing."
+
 M.: "God's power is in you. That is why there is such power of attraction. It is the Divine
 Spirit that attracts."
+
 MASTER: "Yes, this is the attraction of Yogamaya, the Divine Śakti. She casts the spell.
 God performs all His lila through the help of Yogamaya.
-Nature of gopis' love for Krishna
+
+
+## Nature of gopis' love for Krishna
+
 "The love of the gopis was like the attachment of a woman to her paramour. They were
 intoxicated with ecstatic love for Sri Krishna. A woman cherishing illicit love is not very
 keen about her own husband. If she is told that her husband has come, she will say:
+
 'What if he has? There is food in the kitchen. He can help himself.' But if she is told of
 the arrival of a stranger-jovial, handsome, and witty-she will run to see him and peep at
 him from behind a screen.
@@ -63,6 +68,7 @@ dunghill. The touch of the Malaya breeze turns all trees into sandal-wood, no do
 But there are a few exceptions-the banyan, the cotton-tree, and the Aśwattha, for example.
 
 (To the Mukherji brothers) "You are well off. If a man slips from the path of yoga, then he is reborn in a prosperous family and starts again his spiritual practice for the realization of God."
+
 
 ## Unfulfilled desires make one deviate from yoga
 
@@ -94,27 +100,27 @@ store-room.
 Once the idea came to me to put on a very expensive robe embroidered with gold and to smoke a silver hubble-bubble. Mathur Babu sent me the new robe and the hubble-
 bubble. I put on the robe. I also smoked the hubble-bubble in various fashions. 
 
-Sometimes I smoked it reclining this way, and sometimes that way, sometimes with head up, and sometimes with head down. Then I said to myself, 'O mind, this is what
-they call smoking a silver hubble-bubble.' Immediately I renounced it. I kept the robe on
-my body a few minutes longer and then took it off. I began to trample it underfoot and
+Sometimes I smoked it reclining this way, and sometimes that way, sometimes with head up, and sometimes with head down. Then I said to myself, 'O mind, this is what they call smoking a silver hubble-bubble.' Immediately I renounced it. I kept the robe on my body a few minutes longer and then took it off. I began to trample it underfoot and
 spit on it, saying: 'So this is an expensive robe! But it only increases man's rajas.'"
-About Rakhal
-Rakhal had been staying at Vrindāvan with Balarām. At first he had written excited
-letters praising the holy place. He had written to M.: "It is the best of all places. Please
-come here. The peacocks dance around, and one always hears and sees religious music
-and dancing. There is an unending flow of divine bliss." But then Rakhal had been laid up
-582with an attack of fever. Sri Ramakrishna was very much worried about him and vowed to
+
+
+
+## About Rakhal
+
+Rakhal had been staying at Vrindāvan with Balarām. At first he had written excited letters praising the holy place. He had written to M.: "It is the best of all places. Please come here. The peacocks dance around, and one always hears and sees religious music and dancing. There is an unending flow of divine bliss." 
+
+But then Rakhal had been laid up 582with an attack of fever. Sri Ramakrishna was very much worried about him and vowed to
 worship the Divine Mother for his recovery. So he began to talk about Rakhal.
-MASTER: "Rakhal had his first religious ecstasy while sitting here massaging my feet. A
-Bhagavata scholar had been expounding the sacred book in the room. As Rakhal listened
-to his words, he shuddered every now and then. Then he became altogether still.
-"His second ecstasy was at Balarām Bose's house. In that state he could not keep
-himself sitting upright; he lay flat on the floor. Rakhal belongs to the realm of the
+
+MASTER: "Rakhal had his first religious ecstasy while sitting here massaging my feet. A Bhagavata scholar had been expounding the sacred book in the room. As Rakhal listened to his words, he shuddered every now and then. Then he became altogether still.
+"His second ecstasy was at Balarām Bose's house. 
+
+In that state he could not keep himself sitting upright; he lay flat on the floor. Rakhal belongs to the realm of the
 Personal God. He leaves the place if one talks about the Impersonal.
+
 "I have taken a vow to worship the Divine Mother when he recovers. You see, he has
 renounced his home and relatives and completely surrendered himself to me. It was I
 who sent him to his wife now and then. He still had a little desire for enjoyment.
-(Pointing to M,) "Rakhal has written him from Vrindāvan that it is a grand place-the
-peacocks dance around. Now let the peacock's take care of him. He has really put me in
-a fix.
+
+(Pointing to M,) "Rakhal has written him from Vrindāvan that it is a grand place-the peacocks dance around. Now let the peacock's take care of him. He has really put me in a fix.
 

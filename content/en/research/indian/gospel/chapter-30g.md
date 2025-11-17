@@ -2,7 +2,7 @@
 heading: Chapter 30g
 title: Master's attitude toward women
 c: "indigo"
-weight: 126
+weight: 284
 description: I am very much afraid of women. When I look at one I feel as if a tigress were coming to devour me. Besides, I find that their bodies, their limbs, and even their pores are very large
 ---
 

@@ -2,7 +2,7 @@
 title: "Festival At Surendra's House"
 c: "indigo"
 heading: "Chapter 23"
-weight: 96
+weight: 204
 description: "Surendra had invited him and a large number of the devotees to a religious festival"
 ---
 

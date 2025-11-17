@@ -1,14 +1,11 @@
 ---
 title: "Different Classes Of Devotees And The Great Visions"
 c: "indigo"
-heading: "Chapter 49"
-weight: 192
+heading: "Chapter 49b"
+weight: 602
 description: ""
 ---
 
-
-
-## Different classes of devotees and The great visions
 
 {{< l a="Ramakrishna" >}}
 (To M.) "When God assumes a human body for the sake of His devotees, many of His devotees accompany Him to this earth. Some of them belong to the inner circle, some to
@@ -131,6 +128,7 @@ Narendra remained silent a few minutes and then resumed.
 
 NARENDRA: "Since reading the Viveka Chudāmani I have felt very much depressed. In it Sankaracharya says that only through great tapasya and good fortune does one acquire
 these three things: a human birth, the desire for liberation, and refuge with a great soul.
+
 I said to myself: 'I have surely gained all these three. As a result of great tapasya I
 have been born a human being; through great
 liberation; and through great
@@ -161,6 +159,6 @@ disciple.
 sun will soon rise." 
 
 This day Sri Ramakrishna's illness was worse. In spite of much suffering he said many things about Narendra-though mostly by means of signs.
+
 At night Narendra left for Dakshineswar. It was very dark, being the night of the new moon. He was accompanied by one or two devotees. M. spent the night at the Cossipore
 garden. He dreamt that he was seated in an assembly of sannyāsis.
-

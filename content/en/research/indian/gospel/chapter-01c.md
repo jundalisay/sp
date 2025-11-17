@@ -2,7 +2,7 @@
 title: "M.'s first argument"
 c: "indigo"
 heading: "Chapter 1c"
-weight: 4
+weight: 5
 description: "This was M.'s first argument with the Master, and happily his last"
 ---
 

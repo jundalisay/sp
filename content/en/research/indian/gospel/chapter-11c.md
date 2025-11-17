@@ -2,7 +2,7 @@
 title: "Parable of the Farmer"
 c: "indigo"
 heading: "Chapter 11c"
-weight: 48
+weight: 70
 description: "There was a farmer to whom an only son was born when he was rather advanced in age. As the child grew up, his parents became very fond of him"
 ---
 

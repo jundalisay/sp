@@ -2,7 +2,7 @@
 title: "Qualified Advaita"
 c: "indigo"
 heading: "Chapter 33"
-weight: 134
+weight: 328
 description: ""
 ---
 

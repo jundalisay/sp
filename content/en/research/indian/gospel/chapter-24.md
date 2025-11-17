@@ -1,8 +1,8 @@
 ---
-title: "PUNDIT SHASHADHAR"
+title: "Pundit Shashadhar"
 c: "indigo"
 heading: "Chapter 24"
-weight: 100
+weight: 212
 description: ""
 ---
 
@@ -175,15 +175,7 @@ Dive deep, O mind, dive deep in the Ocean of God's Beauty;
 If you descend to the uttermost depths,
 There you will find the gem of Love. . . .
 
-The Master continued: "One does not die if one sinks in this Ocean. This is the Ocean of
-Immortality. Once I said to Narendra: 'God is the Ocean of Bliss. Tell me if you want to
-plunge into It. Just imagine there is some syrup in a cup and that you have become a
-fly. Now tell me where you will sit to sip the syrup.' Narendra answered: 'I will, sit on the
-edge of the cup and stretch out my neck to drink, because I am sure to die if I go far
-into the cup.' Then I said to him: 'But my child, this is the Ocean of Satchidananda.
-There is no fear of death in it. This is the Ocean of Immortality. Only ignorant people say
-that one should not have an excess of devotion and divine love. How foolish! Can there
-be any excess of divine love?'
+The Master continued: "One does not die if one sinks in this Ocean. This is the Ocean of Immortality. Once I said to Narendra: 'God is the Ocean of Bliss. Tell me if you want to plunge into It. Just imagine there is some syrup in a cup and that you have become a fly. Now tell me where you will sit to sip the syrup.' Narendra answered: 'I will, sit on the edge of the cup and stretch out my neck to drink, because I am sure to die if I go far into the cup.' Then I said to him: 'But my child, this is the Ocean of Satchidananda. There is no fear of death in it. This is the Ocean of Immortality. Only ignorant people say that one should not have an excess of devotion and divine love. How foolish! Can there be any excess of divine love?'
 
 (To the pundit) "Therefore I say to you, dive into the Ocean of Satchidananda. Nothing will ever worry you if you but realize God. Then you will get His commission to teach people.
 

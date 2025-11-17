@@ -2,7 +2,7 @@
 title: "A Devotee's Dream"
 c: "indigo"
 heading: "Chapter 4d"
-weight: 18
+weight: 19
 description: "Chaitanya had several householders among his devotees, but they were householders in name only"
 ---
 

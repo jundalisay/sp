@@ -2,9 +2,9 @@
 title: "Path of Love is Easy"
 c: "indigo"
 heading: "Chapter 3c"
-weight: 12
+weight: 13
 description: "The path of love also leads to the Truth."
-date: 1882-04-02
+# date: 1882-04-02
 ---
 
 
@@ -109,7 +109,7 @@ O Lord, I am the servant; Thou art the Master. I am the child; Thou art the Moth
 {{< /l >}}
 
 
-{{< l a="Rama" >}}
+{{< l a="Ramakrishna" >}}
 How do you look on Me?
 {{< /l >}}
 

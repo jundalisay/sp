@@ -2,15 +2,12 @@
 title: "Advice to the worldly"
 c: "indigo"
 heading: "Chapter 41"
-weight: 165
+weight: 433
 description: ""
 ---
 
 
-MASTER: "The Company of holy men. Worldly people should listen to spiritual talk. They
-are in a state of madness, intoxicated with 'woman and gold'. A drunkard should be
-given rice-water as an antidote. Drinking it slowly, he gradually recovers his normal
-consciousness.
+MASTER: "The Company of holy men. Worldly people should listen to spiritual talk. They are in a state of madness, intoxicated with 'woman and gold'. A drunkard should be given rice-water as an antidote. Drinking it slowly, he gradually recovers his normal consciousness.
 
 "A worldly person should also receive instructions from a sadguru, a real teacher. Such a
 teacher has certain signs. You should hear about Banāras only from a man who has been
@@ -75,5 +72,3 @@ the drum the Master left the room and went there. The devotees followed him.
 Bhavanāth introduced Aswini to the Master. The Master introduced him to M. Aswini and
 M. were talking together when Narendra arrived. Sri Ramakrishna said to Aswini, "this is
 Narendra."
-
-

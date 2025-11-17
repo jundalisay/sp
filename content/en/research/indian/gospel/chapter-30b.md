@@ -2,7 +2,7 @@
 title: "Hard rules for a Sannyāsi"
 c: "indigo"
 heading: "Chapter 30b"
-weight: 124
+weight: 274
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 28b
 title: Balarām's devotion
 c: "indigo"
-weight: 115
+weight: 248
 description: "The Master was sitting in his room at Dakshineswar."
 ---
 

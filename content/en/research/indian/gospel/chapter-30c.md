@@ -2,9 +2,10 @@
 heading: Chapter 30c
 title: Nature of Brahman
 c: "indigo"
-weight: 125
+weight: 275
 description: "That which is Pure Ātman is unattached. Māyā, or avidyā, is in It"
 ---
+
 
 
 {{< l a="Ramakrishna" >}}

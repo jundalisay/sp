@@ -1,8 +1,8 @@
 ---
 title: "Spirituality and book-learning"
 c: "indigo"
-heading: "Chapter 34b"
-weight: 139
+heading: "Chapter 34c"
+weight: 341
 description: ""
 ---
 

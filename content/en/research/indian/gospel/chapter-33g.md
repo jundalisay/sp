@@ -2,7 +2,7 @@
 title: "Advantage of a householder's life"
 c: "indigo"
 heading: "Chapter 33"
-weight: 134
+weight: 334
 description: ""
 ---
 

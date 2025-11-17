@@ -1,8 +1,8 @@
 ---
 title: "The after-life"
 c: "indigo"
-heading: "Chapter 43b"
-weight: 171
+heading: "Chapter 43c"
+weight: 477
 description: ""
 ---
 

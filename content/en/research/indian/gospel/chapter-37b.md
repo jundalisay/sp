@@ -2,7 +2,7 @@
 title: "Worldly people have no time for spiritual practice"
 c: "indigo"
 heading: "Chapter 37b"
-weight: 155
+weight: 373
 description: ""
 ---
 

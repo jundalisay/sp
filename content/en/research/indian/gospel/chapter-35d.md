@@ -2,7 +2,7 @@
 title: "Master's spiritual experiences"
 c: "indigo"
 heading: "Chapter 35b"
-weight: 142
+weight: 351
 description: ""
 ---
 

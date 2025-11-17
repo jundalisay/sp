@@ -1,8 +1,8 @@
 ---
-title: "THE MASTER AND HIS INJURED ARM"
+title: "The Master And His Injured Arm"
 c: "indigo"
 heading: "Chapter 19"
-weight: 78
+weight: 171
 description: ""
 ---
 
@@ -207,5 +207,3 @@ I said to the Divine Mother, 'O Mother, I don't want to be a dry sādhu.'
 "After attaining Brahmajnana one does not have to discriminate even about food. The rishis of olden times, endowed with the Knowledge of Brahman and having experienced divine bliss, ate everything, even pork. 
 
 (To Mahima) "Generally speaking there are two kinds of yoga: karmayoga and manoyoga, that is to say, union with God through work and through the mind.
-
-

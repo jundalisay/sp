@@ -2,7 +2,7 @@
 title: "About Hazra"
 c: "indigo"
 heading: "Chapter 40c"
-weight: 161
+weight: 420
 description: ""
 ---
 

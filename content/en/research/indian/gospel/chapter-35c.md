@@ -2,7 +2,7 @@
 title: "Master and book-learning"
 c: "indigo"
 heading: "Chapter 35c"
-weight: 142
+weight: 349
 description: ""
 ---
 

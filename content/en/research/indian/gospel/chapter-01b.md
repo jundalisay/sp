@@ -2,7 +2,7 @@
 title: "Second visit"
 c: "indigo"
 heading: "Chapter 1b"
-weight: 3
+weight: 4
 description: "M.'s second visit to Sri Ramakrishna took place on the southeast verandah at 8PM"
 ---
 

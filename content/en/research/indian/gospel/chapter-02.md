@@ -2,7 +2,7 @@
 title: "With Devotees"
 c: "indigo"
 heading: "Chapter 2"
-weight: 7
+weight: 8
 description: "The devotees and the Master sang and danced in a state of divine fervour"
 date: 1882-03-11
 ---

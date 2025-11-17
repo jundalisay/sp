@@ -2,7 +2,7 @@
 title: "Bankim"
 c: "indigo"
 heading: "Chapter 34d"
-weight: 139
+weight: 343
 description: ""
 ---
 

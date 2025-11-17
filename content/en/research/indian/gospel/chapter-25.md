@@ -2,7 +2,7 @@
 title: "Advice To Pundit Shashadhar"
 c: "indigo"
 heading: "Chapter 25"
-weight: 103
+weight: 216
 description: ""
 ---
 
@@ -55,7 +55,8 @@ Lies prostrate underneath Her feet.
 Again he sang:
 Is Mother only Śiva's wife? To Her must needs bow down
 The all-destroying King of Death!
-511Naked She roams about the world, slaying Her demon foes,
+
+Naked She roams about the world, slaying Her demon foes,
 Or stands erect on Śiva's breast.
 Her feet upon Her Husband's form! What a strange wife She
 makes!
@@ -102,7 +103,7 @@ My sleep is broken; how can I slumber any more?
 For now I am wide awake in the sleeplessness of yoga.
 O Divine Mother, made one with Thee in yoga-sleep at last,
 My slumber I have lulled asleep for evermore.
-512I bow my head, says Prasad, before desire and liberation;
+I bow my head, says Prasad, before desire and liberation;
 Knowing the secret that Kāli is one with the highest Brahman,
 I have discarded, once for all, both righteousness and sin.
 Sri Ramakrishna continued:
@@ -112,8 +113,10 @@ Unto the tuft of hair on my head.
 Is tied the almighty mantra, Mother Kāli's name.
 My body I have sold in the market-place of the world
 And with it have bought Sri Durga's name.
+
 As Sri Ramakrishna sang the line, "And with it have bought Sri Durga's name", the tears
 flowed from Pundit Shashadhar's eyes. The Master went on with the song:
+
 Deep within my heart I have planted the name of Kāli,
 The Wish-fulfilling Tree of heaven;
 When Yama, King of Death, appears,
@@ -133,17 +136,17 @@ Whoever wins pure love surpasses all;
 He is adored by men;
 He triumphs over the three worlds. . . .
 Mere study of scriptures is futile
+
 The pundit had studied the Vedas and the other scriptures. He loved to discuss
 philosophy. The Master, seated on the couch, cast his benign look on the pundit and
 gave him counsel through parables.
+
 MASTER (to the pundit): "There are many scriptures like the Vedas. But one cannot
 realize God without austerity and spiritual discipline. 'God cannot be found in the six
 systems, the Vedas, or the Tantra.'
+
 "But one should learn the contents of the scriptures and then act according to their
-injunctions. A man lost a letter. He couldn't remember where he had left it. He began to
-513search for it with a lamp. After two or three people had searched, the letter was at last
-found. The message in the letter was: 'Please send us five seers of sandesh and a piece
-of wearing-cloth.' The man read it and then threw the letter away. There was no further
+injunctions. A man lost a letter. He couldn't remember where he had left it. He began to search for it with a lamp. After two or three people had searched, the letter was at last found. The message in the letter was: 'Please send us five seers of sandesh and a piece of wearing-cloth.' The man read it and then threw the letter away. There was no further
 need of it; now all he had to do was to buy the five seers of sandesh and the piece of
 cloth.
 

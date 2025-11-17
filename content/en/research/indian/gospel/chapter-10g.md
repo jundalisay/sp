@@ -2,7 +2,7 @@
 title: "Story of Uddhava"
 c: "indigo"
 heading: "Chapter 10g"
-weight: 46
+weight: 63
 description: "Rabindranath Tagore and a few other members of the Tagore family were present"
 ---
 

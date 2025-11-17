@@ -1,15 +1,16 @@
 ---
-title: "With The Devotees At Dakshineswar (II)"
-c: "indigo"
 heading: "Chapter 16"
-weight: 66
+title: "Chaitanya's exalted state"
+c: "indigo"
+weight: 135
+author: M
+icon: M
 description: ""
 ---
 
 
-Sunday, December 9, 1883
 
-## Chaitanya's exalted state
+Sunday, December 9, 1883
 
 SRI RAMAKRISHNA was seated on the small couch in his room with Adhar, Manomohan, Rakhal , M., Harish, and other devotees. It was about two o' clock in the afternoon. The Master was describing to them the exalted state of Sri Chaitanya.
 

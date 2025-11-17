@@ -2,7 +2,7 @@
 title: "Seven planes of the mind"
 c: "indigo"
 heading: "Chapter 7b"
-weight: 35
+weight: 36
 description: "Vijay Goswami was a paid preacher in the Sadharan Brahmo Samaj"
 ---
 

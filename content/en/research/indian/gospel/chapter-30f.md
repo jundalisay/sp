@@ -2,7 +2,7 @@
 heading: Chapter 30f
 title: Hazra's eccentricities
 c: "indigo"
-weight: 125
+weight: 282
 description: "That which is Pure Ātman is unattached. Māyā, or avidyā, is in It"
 ---
 

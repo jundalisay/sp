@@ -2,7 +2,7 @@
 title: "The Purpose of the scriptures"
 c: "indigo"
 heading: "Chapter 38c"
-weight: 155
+weight: 387
 description: ""
 ---
 
@@ -138,10 +138,7 @@ myself."
 
 Girish's house was not far away. The Master passed the crossing at Bosepara Lane.
 
-Suddenly he began to walk faster. The devotees were left behind. Presently Narendra
-was seen coming from a distance. At other times the Master's joy would have been
-803unbounded at the thought of Narendra or at the mere mention of his name; but now he
-did not even exchange a word with his beloved disciple.
+Suddenly he began to walk faster. The devotees were left behind. Presently Narendra was seen coming from a distance. At other times the Master's joy would have been unbounded at the thought of Narendra or at the mere mention of his name; but now he did not even exchange a word with his beloved disciple.
 
 As the Master and the devotees entered the lane where Girish lived, he was able to utter
 words. 
@@ -151,5 +148,4 @@ Every word the Master spoke was full of infinite tenderness. He had not yet reac
 door of Girish's house, when suddenly he stopped and said, looking at Narendra: "I want
 to tell you something.'This' is one and 'that' is another." Who could know what was
 passing through his innermost soul at that moment?
-
 

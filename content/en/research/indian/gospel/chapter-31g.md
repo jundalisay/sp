@@ -2,7 +2,7 @@
 title: "The worship in the temple"
 c: "indigo"
 heading: "Chapter 31g"
-weight: 131
+weight: 303
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 title: "Qualified Advaita"
 c: "indigo"
 heading: "Chapter 33"
-weight: 134
+weight: 333
 description: ""
 ---
 
@@ -57,7 +57,9 @@ is between existence and non-existence.
 "When the devotee develops raga-bhakti, passionate love of God, he realizes Him. But
 one loses vaidhi-bhakti, formal devotion, as easily as one gains it. This is formal
 devotion: so much japa, so much meditation, so much sacrifice and homa, so many
-articles of worship, and the recitation of so many mantras, before the Deity. Such
+articles of worship, and the recitation of so many mantras, before the Deity. 
+
+Such
 devotion comes in a moment and goes in a moment. Many people say: 'Well, friend, we
 have lived on havishya for so many days! How many times we have worshipped the
 Deity at our home! And what have we achieved?' But there is no falling away from raga-
@@ -86,11 +88,13 @@ the names of them all. What does that mean? Let me tell you. While the servant i
 counting out the money to purchase supplies, he says, 'These pennies are for potatoes
 these for egg-plants, these for fish.' He counts the money separately, but after the list is
 completed, he puts the coins together.
+
 "When one develops love of God, one likes to talk only of God. If you love a person, you
 love to talk and hear about him. A worldly person's mouth waters while he talks about
 his son. If someone praises his son, he will at once say to the boy, 'Go and get some
 water for your uncle to wash his feet.
-719"Those who love pigeons are highly pleased if you praise pigeons before them. But if you
+
+"Those who love pigeons are highly pleased if you praise pigeons before them. But if you
 speak ill of pigeons, they will at once exclaim, 'Has anyone in your line for fourteen
 generations ever raised pigeons?'"
 

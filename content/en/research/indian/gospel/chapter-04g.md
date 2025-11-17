@@ -2,7 +2,7 @@
 title: "Balaram"
 c: "indigo"
 heading: "Chapter 4d"
-weight: 21
+weight: 22
 description: "Chaitanya had several householders among his devotees, but they were householders in name only"
 ---
 

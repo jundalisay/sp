@@ -1,9 +1,12 @@
+---
+title: "Master at Devendra's house"
+c: "indigo"
+heading: "Chapter 38g"
+weight: 398
+description: ""
+---
 
 
-
-
-
-## Master at Devendra's house
 
 The carriage proceeded to Devendra's house. Once Sri Ramakrishna had said to Devendra at Dakshineswar, "I have been thinking of visiting your house one day."
 

@@ -2,7 +2,7 @@
 title: "At Ram's House"
 c: "indigo"
 heading: "Chapter 41"
-weight: 165
+weight: 430
 description: ""
 ---
 
@@ -139,5 +139,3 @@ you something. Suppose God appears before you; will you pray to Him; then, for s
 things as schools and dispensaries and hospitals?' "
 
 A DEVOTEE: "Sir, what is the way for worldly people?"
-
-

@@ -1,7 +1,7 @@
 ---
 title: "Seven Planes (Chakras) Of The Mind"
 c: "indigo"
-heading: "Chapter 6b"
+heading: "Chapter 6c"
 weight: 29
 description: "The Vedas speak of 7 planes where the mind dwells"
 ---

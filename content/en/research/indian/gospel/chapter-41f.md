@@ -2,7 +2,7 @@
 title: "Harmless ego"
 c: "indigo"
 heading: "Chapter 41f"
-weight: 165
+weight: 445
 description: ""
 ---
 
@@ -143,11 +143,9 @@ makes a man feels he is God's servant. His child is the "ripe ego". It doesn't h
 TRAILOKYA: "It is very difficult to get rid of the ego. People only think they are free from
 it."
 
-MASTER: "Gauri would not refer to himself as 'I' lest he should feel egotistic. He would
-say 'this' instead. I followed his example and would refer to myself as 'this' instead of 'I'.
-Instead of saying, 'I have eaten,' I would say, 'This has eaten.' Mathur noticed it and
-said one day: 'What is this, revered father? Why should you talk that way? Let them talk
-that way. They have their egotism. You are free from it; you don't have to talk like
+MASTER: "Gauri would not refer to himself as 'I' lest he should feel egotistic. He would say 'this' instead. I followed his example and would refer to myself as 'this' instead of 'I'. Instead of saying, 'I have eaten,' I would say, 'This has eaten.' 
+
+Mathur noticed it and said one day: 'What is this, revered father? Why should you talk that way? Let them talk that way. They have their egotism. You are free from it; you don't have to talk like
 them.'
 
 "I said to Keshab, 'Since the ego cannot be given up, let it remain as the servant, the
@@ -156,5 +154,3 @@ that mood he would say, 'Thou art verily I, and I am verily Thou.' But when he w
 conscious of his ego, he felt that God was the Master and he was His servant. After a
 man is firmly established in the ideal of 'I am He', he can live as God's servant. He may
 then think of himself as the servant of God.
-
-

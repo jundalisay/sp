@@ -2,24 +2,22 @@
 heading: Chapter 26
 title: Festival At Adhar'S House
 c: "indigo"
-weight: 108
+weight: 227
 description: ""
 ---
 
 
 Sunday, August 3, 1884
 
-SRI RAMAKRISHNA was sitting in his room in the temple garden at Dakshineswar after his midday meal. A party of Bauls from Shibpur, several devotees from Bhawanipur,
-Balarām, and M. were in the room. Rakhal, Lātu, and Harish were then living with the
+SRI RAMAKRISHNA was sitting in his room in the temple garden at Dakshineswar after his midday meal. A party of Bauls from Shibpur, several devotees from Bhawanipur, Balarām, and M. were in the room. Rakhal, Lātu, and Harish were then living with the
 Master. They too were present.
 
 The Master began the conversation by addressing the Baul musicians from Shibpur.
 
 
-MASTER: "Yoga is not possible if the mind dwells on 'woman and gold'. The mind of a worldly man generally moves among the three lower centres: those at the navel, at the
-sexual organ, and at the organ of evacuation. After great effort and spiritual practice the Kundalini is awakened. According to the yogis there are three nerves in the spinal
-column: Ida, Pingala, and Sushumna. Along the Sushumna are six lotuses, or centres, the lowest being known as the Muladhara. Then come successively Svadhisthana,
-Manipura, Anāhata, Visuddha, and Ājnā. 
+MASTER: "Yoga is not possible if the mind dwells on 'woman and gold'. The mind of a worldly man generally moves among the three lower centres: those at the navel, at the sexual organ, and at the organ of evacuation. After great effort and spiritual practice the Kundalini is awakened. 
+
+According to the yogis there are three nerves in the spinal column: Ida, Pingala, and Sushumna. Along the Sushumna are six lotuses, or centres, the lowest being known as the Muladhara. Then come successively Svadhisthana, Manipura, Anāhata, Visuddha, and Ājnā. 
 
 These are the six centres. The Kundalini, when awakened, passes through the lower centres and comes to the Anāhata, which is at the
 heart. It stays there. At that time the mind of the aspirant is withdrawn from the three
@@ -39,22 +37,11 @@ reaches it, the aspirant sees the form of God. But still there remains a slight 
 between the devotee and God. It is like a light inside a lantern. You may think you
 have touched the light, but in reality you cannot because of the barrier of glass.
 "And last of all is the seventh plane, which, according to Tantra, is the centre of the
-thousand-petalled lotus. When the Kundalini arrives there, the aspirant goes into
-540samādhi. In that lotus dwells Satchidananda Shiva, the Absolute. There Kundalini, the
-awakened Power, unites with Shiva. This is known as the union of Shiva and Śakti.
+thousand-petalled lotus. When the Kundalini arrives there, the aspirant goes into samādhi. In that lotus dwells Satchidananda Shiva, the Absolute. There Kundalini, the awakened Power, unites with Shiva. This is known as the union of Shiva and Śakti.
 
 ## Samādhi
 
-When the Kundalini rises to the Sahasrara and the mind goes into samādhi, the aspirant
-loses all consciousness of the outer world. He can no longer retain his physical body. If
-milk is poured into his mouth, it runs out again. In that state the life-breath lingers for
-twenty-one days and then passes out. Entering the 'black waters' of the ocean, the ship
-never comes back. But the Isvarakotis, such as the Incarnations of God, can come down
-from this state of samādhi. They can descend from this exalted state because they like
-to live in the company of devotees and enjoy the love of God. God retains in them the
-'ego of Knowledge' or the 'ego of Devotion' so that they may teach men. Their minds
-move between the sixth and the seventh planes. They run a boat-race back and forth,
-as it were, between these two planes.
+When the Kundalini rises to the Sahasrara and the mind goes into samādhi, the aspirant loses all consciousness of the outer world. He can no longer retain his physical body. If milk is poured into his mouth, it runs out again. In that state the life-breath lingers for twenty-one days and then passes out. Entering the 'black waters' of the ocean, the ship never comes back. But the Isvarakotis, such as the Incarnations of God, can come down from this state of samādhi. They can descend from this exalted state because they like to live in the company of devotees and enjoy the love of God. God retains in them the 'ego of Knowledge' or the 'ego of Devotion' so that they may teach men. Their minds move between the sixth and the seventh planes. They run a boat-race back and forth, as it were, between these two planes.
 
 After attaining samādhi some souls of their own accord keep the 'ego of Knowledge'.
 
@@ -184,4 +171,3 @@ else is unreal.
 Nārada prayed for pure love and said further, 'O Rāma, please grant that I may not be
 deluded by Thy world-bewitching māyā.' Rāma said: 'That is all right. But ask for
 something else.' Nārada replied: 'I don't want anything else. I pray only for pure love.'
-

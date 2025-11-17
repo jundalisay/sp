@@ -1,8 +1,10 @@
 ---
+heading: "Chapter 15b"
 title: "Signs of a true devotee"
 c: "indigo"
-heading: "Chapter 15"
-weight: 62
+weight: 129
+author: M
+icon: M
 description: ""
 ---
 

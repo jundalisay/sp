@@ -1,10 +1,14 @@
 ---
+heading: "Chapter 15c"
 title: "Master's own illness"
 c: "indigo"
-heading: "Chapter 15c"
-weight: 62
+weight: 131
+author: M
+icon: M
 description: ""
 ---
+
+
 
 
 Keshab laughed again and again at the Master's allusion to the hospital. Then Sri Ramakrishna spoke of his own illness. (To Keshab) 
@@ -108,4 +112,3 @@ Sen's house. It was about seven o'clock in the evening.
 In the drawing-room, Jaygopal's relatives and neighbours had gathered. Vaikuntha,
 Jaygopal's brother, said to the Master: "Sir, we are worldly people. Please give us some
 advice."
-

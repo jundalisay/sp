@@ -1,10 +1,13 @@
 ---
+heading: "Chapter 16b"
 title: "Story of a Vaishnava devotee"
 c: "indigo"
-heading: "Chapter 16b"
-weight: 66
+weight: 137
+author: M
+icon: M
 description: ""
 ---
+
 
 
 M. read: “There was a king named Jayamal who loved Krishna with all his heart. He followed with unfailing devotion all the rites and ceremonies associated with the adoration of Krishna, whom he worshipped under the name of Syamalasundara.
@@ -89,5 +92,3 @@ Life is indeed vain without this knowledge.
 great soul like him. He must have seen God. Otherwise, how could he talk with God
 day and night, addressing Him so intimately as 'Mother'? Otherwise, how could he love
 God so intimately? Such is his love for God that he forgets the outer world. He goes into samādhi and remains like a lifeless thing. Again, in the ecstasy of that love, he laughs and cries and dances and sings."
-
-

@@ -1,8 +1,8 @@
 ---
-title: "About Hazra"
+title: "Unreality of all worldly relationships"
 c: "indigo"
-heading: "Chapter 40c"
-weight: 161
+heading: "Chapter 40d"
+weight: 424
 description: ""
 ---
 
