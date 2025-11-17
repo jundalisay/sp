@@ -1,182 +1,131 @@
 ---
-title: "The worship in the temple"
+title: "The Master And Narendra"
 c: "indigo"
 heading: "Chapter 31f"
-weight: 131
+weight: 151
 description: ""
 ---
 
 
-Saturday, October 18, 1884
 
-It was the day of the worship of Kāli, the Divine Mother. The worship was to begin at
-eleven o'clock at night. Several devotees arrived at the temple.
+The devotees listened spellbound to Sri Ramakrishna. His burning words entered their souls, spurring them along the path of renunciation.
 
-All creation is the sport of my mad Mother Kāli;
-By Her māyā the three worlds are bewitched. 
+Now he spoke to Ishan in a serious voice.
 
-Mad is She and mad is Her Husband; mad are Her two disciples!
+MASTER: "Don't forget yourself because of what you hear from your flatterers. Flatterers gather around a worldly man. 
 
-None can describe Her loveliness, Her glories, gestures, moods;
+Vultures gather around the carcass of a cow. "Worldly people have no stuff in them. They are like a heap of cow-dung. 
 
-Śiva, with the agony of the poison in His throat,
-Chants Her name again and again.
-The Personal does She oppose to the Impersonal,
-Breaking one stone with another;
-Though to all else She is agreeable,
-Where duties are concerned She will not yield.
-675Keep your raft, says Ramprasad, afloat on the sea of life,
-Drifting up with the flood-tide, drifting down with the ebb.
-The Master was quite overwhelmed with the song. He said that songs like these denoted
-a state of divine inebriation. He sang one after another:
+Flatterers come to them and say: 'You are so charitable and wise! You are so pious!' These are not mere words but pointed  bamboos thrust at them. How foolish it is! To be surrounded day and night by a bunch of worldly brahmin pundits and hear their flattery! 
 
-This time I shall devour Thee utterly, Mother Kāli!
-For I was born under an evil star,
-And one so born becomes, they say, the eater of his mother. . . .
-Then:
-O Kāli, my Mother full of Bliss! Enchantress of the Almighty
-Śiva!
-In Thy delirious joy Thou dancest, clapping Thy
-hands together! . . .
-And then:
-If at the last my life-breath leaves me as I repeat the name
-of Kāli,
-I shall attain the realm of Śiva. What does Benares mean to
-me?
+"Worldly men are slaves of three things: they are slaves of their wives, slaves of their money, slaves of their masters. 
 
-Infinite are my Mother's glories; who can find the end of Her
-virtues?
-Śiva, beholding their smallest part, lies prostrate at Her Lotus
-Feet.
+Can they have any inner stuff? There is a certain person whom I shall not name; he earns eight hundred rupees a month but is the slave of his wife. He stands up or sits down at her bidding.
 
-The singing was over. Two sons of Rajnarayan entered the
-room and bowed low before the Master. In the afternoon they
-had sung with their father the glories of the Divine Mother. The
-Master sang again with them:
-All creation is the sport of my mad Mother Kāli
-The younger brother requested Sri Ramakrishna to sing a certain song about Sri
-Gaurānga. The Master sang:
-Gaur and Nitai, ye blessed brothers!
-I have heard how kind you are,
-And therefore I have come to you. . . .
-Ramlal entered the room. The Master said to him: "Please sing something about the
-Divine Mother. It is the day of Her worship."
+"Arbitration and leadership? How trifling these are! Charity and doing good to others?
+You have had enough of these. 
 
-Ramlal sang:
+Those who are to devote themselves to such things belong to a different class. Now the time is ripe for you to devote your mind to the Lotus Feet of God. If you realize God, you will get everything else. First God, then charity, doing good to others, doing good to the world, and redeeming people. Why need you worry about these things. 'Ravana died in Lanka and Behula wept for him bitterly!'
 
-Who is the Woman yonder who lights the field of battle?
-Darker Her body gleams even than the darkest storm-cloud,
-And from Her teeth there flash the lightning's blinding flames!
-Dishevelled Her hair is flying behind as She rushes about,
-Undaunted in this war between the gods and the demons.
-676Laughing Her terrible laugh, She slays the fleeing asuras,
-And with Her dazzling flashes She bares the horror of war. . . .
+"That's the trouble with you. It will be very good if a world-renouncing sannyāsi gives you some spiritual instruction. The advice of the worldly man will not be right, be he a brahmin pundit or anyone else.
 
-Again Ramlal sang:
+"Be mad! Be mad with love of God! Let people know that Ishan has gone mad and cannot perform worldly duties any more. Then people will no longer come to you for
+leadership and arbitration. Throw aside the kosakusi and justify your name of Ishan."
 
-Who, is this terrible Woman, dark as the sky at midnight?
-Who is this Woman dancing over the field of battle? . . .
-Sri Ramakrishna began to dance to the song. Then he himself sang:
-The black bee of my mind is drawn in sheer delight
-To the blue lotus flower of Mother Syama's feet,
-The blue flower of the feet of Kāli, Śiva's Consort.
-Tasteless, to the bee, are the blossoms of desire.
-My Mother's feet are black, and black, too, is the bee;
-Black is made one with black! This much of the mystery
-These mortal eyes behold, then hastily retreat.
-But Kamalakanta's hopes are answered in the end;
-He swims in the Sea of Bliss, unmoved by joy or pain.
+Ishan quoted:
 
-After the music and dancing Sri Ramakrishna sat on the couch and the devotees sat on
-the floor. He said to M.: "It is a pity you weren't here in the afternoon. The musical
-recital of the Chandi was very fine."
-Some of the devotees went to the temple to salute the image of the Divine Mother.
-Others sat quietly performing japa on the steps leading to the Ganges. It was about
-eleven o'clock, the most auspicious time for contemplation of the Divine Mother. The
-flood-tide was rising in the Ganges, and the lights on its banks were reflected here and
-there in its dark waters.
+O Mother, make me mad with Thy love!
+What need have I of knowledge or reason?
 
-From outside the shrine M. was looking wistfully at the image. Ramlal came to the
-temple with a book in his hand containing the rules of the worship. He asked M. if he
-wanted to come in. M. felt highly favoured and entered the shrine. He saw that the
-Divine Mother was profusely decorated. The room was brilliantly illuminated by a large
-chandelier that hung from the ceiling. Two candles were burning in front of the image.
-On the floor were trays full of offerings. Red hibiscus flowers and bel-leaves adorned Her
-feet. She wore garlands round Her neck, M.'s eyes fell on the chamara. Suddenly he
-remembered that Sri Ramakrishna often fanned the Divine Mother with it. With some
-hesitation he asked Ramlal if he might fan the image. The priest gave his permission. M.
-joyously fanned the image. The regular worship had not yet begun.
-The devotees again entered the Master's room. Beni Pāl had invited Sri Ramakrishna to
-visit the Sinthi Brahmo Samaj the next day, but had made a mistake in his letter with
-regard to the date.
+MASTER: "Mad! That's the thing! Shivanath once said that one 'loses one's head' by
+thinking too much of God. 'What?' said I. 'Can anyone ever become unconscious by
+thinking of Consciousness? God is of the nature of Eternity, Purity, and Consciousness.
+Through His Consciousness one becomes conscious of everything; through His
+Intelligence the whole world appears intelligent.' Shivanath said that some Europeans
+had gone insane, that they had 'lost their heads', by thinking too much about God. In
+their case it may be true; for they think of worldly things. There is a line in a song:
+'Divine fervour fills my body and robs me of consciousness.' The consciousness referred
+to here is the consciousness of the outer world."
 
-MASTER (to M.): "Beni Pāl has sent me an invitation. But why has he put the wrong
-date?"
+Ishan was seated touching Sri Ramakrishna's feet and listening to his words. Now and
+then he cast a glance at the basalt image of Kāli in the shrine. In the light of the lamp
+She appeared to be smiling. It was as if the living Deity, manifesting Herself through the
+image, was delighted to hear the Master's words, holy as the words of the Vedas.
+ISHAN (pointing to the image); "Those words from your sacred lips have really come
+from there."
 
-M: "The date was not written correctly. He wrote the letter carelessly."
-As Sri Ramakrishna spoke, he was standing in the middle of the room with Baburam by
-his side. He leaned toward the disciple, touching his body.
-Suddenly he went into samādhi. The devotees stood around with their eyes fixed on him.
-The Master's left foot was advanced a little; the shoulder was slightly inclined to one
-side; his arm rested on Baburam's neck near the ear. After a while he came down from
-the ecstatic state. As he stood there he put one hand to his cheek and appeared to be
-brooding over something. Then, smiling, he addressed the devotees.
+MASTER: "I am the machine and She is the Operator. I am the house and She is the Indweller.
 
-MASTER: "I saw everything-how far the devotees had advanced. I saw Rakhal, him
-(pointing to M.), Surendra, Baburam, and many others."
+I am the chariot and She is the Charioteer. I move as She moves me; I speak as She speaks through me. In the Kaliyuga one does not hear the voice of God, it is said, except through the mouth of a child or a madman or some such person.
 
-HAZRA: "Me?"
+"A man cannot be a guru. Everything happens by the will of God. Heinous sins-the sins
+of many births-and accumulated ignorance all disappear in the twinkling of an eye,
+through the grace of God. When light enters a room that has been kept dark a thousand
+years, does it remove the thousand years' darkness little by little, or instantly? Of
+course, at the mere touch of light all the darkness disappears.
 
-MASTER: "Yes."
+"What can a man do? He may speak many words, but after all is said and done everything rests with God. The lawyer says: 'I have said all that can be said. Now the verdict rests with the judge.'
 
-HAZRA: "Many more obstacles?"
+Brahman is actionless. When It is engaged in creation, preservation, and dissolution, It is called the Primal Power, Ādyāśakti . This Power must be propitiated. Don't you know that it is so written in the Chandi? The gods first sang a hymn to the Ādyāśakti in order to
+propitiate Her. Only then did Hari wake up from His yoga sleep."
 
-MASTER: "No."
+ISHAN: "Yes, sir. Brahma and the other gods sang this hymn at the timeof the death of the demons Madhu and Kaitabha:
+Svaha, Vashat, and Svadha art Thou; Thou the inner Self of the mantra;
+Thou the Nectar of Immortality, O Everlasting One!
 
-HAZRA: "What about Narendra?"
+Eternal and unutterable art Thou, and yet Thou art manifest
+In the three matras and the half matra:
+O Goddess, Thou art Savitri; Thou art the Ultimate Mother;
+All things have their support in Thee, by whom this universe
+was made.
+O Goddess, Thou sustainest all, and all by Thee is devoured!
+Thou it is that we call the Creator, when Thou createst the
+world,
+O Embodiment of creation!
+Thou it is that we call the Preserver, when Thou preservest it;
+Thou it is that we call the Destroyer, when Thou destroyest
+it."
 
-MASTER: "I didn't see him. But I can tell about him. He is a little entangled. But I saw that everyone will succeed. (To M.) I saw that all are in hiding."
-The devotees listened to these words with great wonder. It seemed to them that they were hearing an oracle.
+MASTER: "Yes, but you must assimilate that."
+The Master rose. He mounted the platform in front of the shrine and saluted the Mother,
+touching the ground with his forehead. The devotees quickly gathered around him and
+fell at his feet. They all begged his grace. He descended from the platform and started
+toward his room, conversing with M. First he sang:
 
-MASTER: "But I got into that mood by touching Baburam."
-HAZRA: "Who is first?"
+I bow my head, says Prasad, before desire and liberation;
+Knowing the secret that Kāli is one with the highest
+Brahman, I have discarded, once for all, both dharma and adharma.
+The Master continued: "Do you know the meaning of dharma and adharma? Here
+dharma means religious acts enjoined by the scriptures, suchas charity, sraddha, feeding
+the poor, and the like.
 
-Sri Ramakrishna was quiet for a time. Then he said, "I wish I had a few like Nityagopal."
+"The performance of this dharma is called the path of karma. It is an extremely difficult
+path: it is very hard to act without motive. Therefore one is asked to pursue the path of
+devotion.
 
-Again he appeared thoughtful. He remained standing. He said: "I wish Adhar Sen's duties would become fewer. But I am afraid the English officer will scold him. He may
-say, 'What is all this nonsense?'" (All smile.)
+"A man was performing the sraddha ceremony at his house. He was feeding many
+people. Just then a butcher passed, leading a cow to slaughter. He could not control the animal and became exhausted. He said to himself: 'Let me go into that house and enjoy the feast of the sraddha ceremony and strengthen my body. Then I shall be able to drag the cow along.' 
 
-Sri Ramakrishna sat on the small couch, and the devotees on the floor. Baburam. and
+So he carried out his intention. But when he killed the cow, the sin of the
+slaughter fell also on the performer of the sraddha. That is why I say the path of
+devotion is better than the path of action."
 
-Kishori came quickly to the Master and began to stroke his feet gently.
+The Master entered his room accompanied by M. He was humming a song. The forceful
+words of renunciation that he had just spoken to Ishan found expression through its
+words. He sang the lines:
 
-MASTER (to Kishori): "What's the matter? Why so much service today?
+Mother, take everything else away from me,
+But leave me my necklace of bones and my pot of hemp!
+Sri Ramakrishna sat down on the small couch, and Adhar, Kishori, and the other
+devotees sat on the foor.
 
-## The worship in the temple
+MASTER (to tile devotees): "I was noticing Ishan, Why, he hasn't achieved anything!
 
-Ramlal entered the room and saluted Sri Ramakrishna, touching the ground with his forehead. Then with great respect he touched the Master's feet. He was ready to worship
-the Divine Mother in the temple. 
+What can be the reason? He practised the purascharana for five months. That would
+have caused a revolution in any other person.'
 
-RAMLAL: "Please permit me to go to the shrine."
+ADHAR: "It wasn't wise of you to say those things to him in front of us."
 
-The Master twice uttered the words "Om Kāli" and said: "Perform the worship carefully. There is also a sheep to be slaughtered."
+MASTER: "How is that? He is so much given to japa! How can words affect him?"
 
-It was midnight. The worship began in the Kāli temple. The Master went to watch the ceremony. During the worship he stood near the image. Now the sheep was going to be
-slaughtered. The animal was consecrated before the Deity. 
-
-People stood in lines watching the ceremony. While the sheep was being taken to the block Sri Ramakrishna returned to his room. He could not bear the sight. 
-
-Several devotees remained in the temple till two o'clock in the morning. Haripada came and asked them to take the prasad to the Master's room. After finishing their meal they lay down wherever they could for the remainder of the night.
-
-It was morning. The dawn service in the temples was over and the theatrical performance was going on in the open hall in front of the shrine. M. was coming through
-the courtyard with Sri Ramakrishna. He wanted to take leave of the Master.
-
-MASTER: "Why should you go now?"
-
-M: "You are going to Sinthi in the afternoon. I too intend to be there. So I should like to
-go home for a few hours."
-
-They came to the Kāli temple. At the foot of the steps M. saluted the Master.
-
-MASTER: "You are going? All right. Please bring two pieces of cheap cloth for me. I shall
-use them while taking my bath."
+After a while Sri Ramakrishna said to Adhar, "Ishan is very charitable, and he practises japa and austerity a great deal." The Master remained quiet a few moments. The eyes of the devotees were fixed on him. Suddenly Sri Ramakrishna said to Adhar, "You have both-yoga and bhoga."

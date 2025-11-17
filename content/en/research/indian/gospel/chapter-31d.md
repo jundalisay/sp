@@ -7,14 +7,18 @@ description: ""
 ---
 
 
+
+
 "Names and forms are nothing but the manifestations of the power of Prakriti. Sita said to Hanuman: 'My child, in one form I am Sita, in another form I am Rāma. In one form I am Indra, in another I am IndRani. In one form I am Brahma, in another, Brahmani. 
 
 In one form I am Rudra, in another, Rudrani.' Whatever names and forms you see are nothing but the manifestations of the power of ChitŚakti. Everything is the power of ChitŚakti-even meditation and he who meditates. As long as I feel that I am meditating, I am within the jurisdiction of Prakriti. 
 
-(To M.) Try to assimilate what I have said. One should hear what the Vedas and the Puranas say, and carry it out in life. 665(To the pundit) "It is good to live in the company of holy men now and then. The disease of worldliness has become chronic in man. It is mitigated, to a great extent, in holy company.
+(To M.) Try to assimilate what I have said. One should hear what the Vedas and the Puranas say, and carry it out in life. 
+
+(To the pundit) "It is good to live in the company of holy men now and then. The disease of worldliness has become chronic in man. It is mitigated, to a great extent, in holy company.
 
 
-### Knowledge and ignorance
+## Knowledge and ignorance
 
 "'I' and 'mine'-that is ignorance. True knowledge makes one feel: 'O God, You alone do
 everything. You alone are my own. And to You alone belong houses, buildings, family,
@@ -121,10 +125,13 @@ Sri Ramakrishna was still silent. In a few moments the devotees noticed that he 
 A little later the Master. went to the Kāli temple. He looked at the image, took some sacred Rowers from the feet of the Mother, and placed them on his head. He prostrated himself before the Mother and went round the image. He waved the chamara. He appeared ecstatic with divine fervour. Coming out, he found Ishan performing the sandhya with the kosakusi.
 
 Rituals are only steps
+
 MASTER (to Ishan): "What? You are still here? Are you still performing the sandhya?
 Listen to a song:
+
 Why should I go to Ganga or Gaya, to Kasi, Kanchi, or
 Prabhas,
+
 So long as I can breathe my last with Kāli's name upon my
 lips?
 
@@ -134,20 +141,12 @@ If he repeats the Mother's name at the three holy hours?
 Rituals may pursue him close, but never can they overtake him.
 Charity, vows, and giving of gifts do not appeal to Madan's
 mind;
+
 The Blissful Mother's Lotus Feet are his whole prayer and
 sacrifice. . . .
 
 "How long must a man continue the sandhya? As long as he has not developed love for the Lotus Feet of God, as long as he does not shed tears and his hair does not stand on end when he repeats God's name.
 
-I bow my head, says Prasad, before desire and liberation;
-Knowing the secret that Kāli is one with the highest Brahman,
-I have discarded, once for all, both dharma and adharma.
-"When the fruit grows, the flower drops off. When one has developed love of God and
-has beheld Him, then one gives up the sandhya and other rites. When the young
-daughter-in-law is with child, the mother-in-law reduces her activities. When she has
-been pregnant for nine months, she is not allowed to perform any household duty. After
-the birth of the child, she only carries the child on her arm and nurses it. She has no
-other duty.
+I bow my head, says Prasad, before desire and liberation; Knowing the secret that Kāli is one with the highest Brahman, I have discarded, once for all, both dharma and adharma. "When the fruit grows, the flower drops off. When one has developed love of God and has beheld Him, then one gives up the sandhya and other rites. When the young daughter-in-law is with child, the mother-in-law reduces her activities. When she has been pregnant for nine months, she is not allowed to perform any household duty. After the birth of the child, she only carries the child on her arm and nurses it. She has no other duty.
 
 After the attainment of God, the sandhya and other rites are given up.
-

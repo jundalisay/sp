@@ -1,293 +1,133 @@
 ---
 heading: Chapter 30d
-title: Master's attitude toward women
+title: Liberation
 c: "indigo"
-weight: 126
-description: I am very much afraid of women. When I look at one I feel as if a tigress were coming to devour me. Besides, I find that their bodies, their limbs, and even their pores are very large
+weight: 125
+description: "That which is Pure Ātman is unattached. Māyā, or avidyā, is in It"
 ---
 
 
-I am very much afraid of women. When I look at one I feel as if a tigress were coming to devour me. Besides, I find that their bodies, their limbs, and even their pores are very large. 
 
-This makes me look upon them as she-monsters. I used to be much more afraid of women than I am at present. I wouldn't allow one to come near me. Now I persuade
-my mind in various ways to look upon women as forms of the Blissful Mother.
+{{< r a="Devotee" >}}
+Revered sir, is a man liberated only when he dies on the bank of the Ganges?
+{{< /r >}}
 
-A woman is a part of the Divine Mother. But as far as a man is concerned, especially a sannyāsi or a devotee of God, she is to be shunned. I don't allow a woman
-to sit near me very long, no matter how great her devotion may be. After a little while I
-say to her, 'Go and see the temples.'
 
-If that doesn't make her move, I myself leave the room on the pretext of smoking.
+{{< l a="Ramakrishna" >}}
+It is the Knowledge of God alone that gives liberation. The Jnāni will certainly attain liberation wherever he may die, whether in the charnel-pit or on the bank of the Ganges.
 
-"I find that some men are not at all interested in women. Niranjan says, 'A woman never enters my thought.' I asked Hari about it. He too says that his mind does not dwell on woman.
+But the bank of the Ganges is prescribed for a bound soul.
+{{< /l >}}
 
-Woman monopolizes 3/4 of the mind, which should be given to God. After the birth of a child, almost the whole mind is frittered away on the family.
 
-Then what is left to give to God?
+{{< r a="Devotee" >}}
+Revered sir, why does a man dying in Benares become liberated?
+{{< /r >}}
 
-Again, there are some men who shed their last drop of blood, as it were, to keep their wives out of mischief. There is the gate-keeper, an old man, whose wife is only 14 years old. She had to live with him. 
 
-They lived in a thatched hut with walls made of dry leaves. People made holes in the wall to peep in. Now she has left him and run away.
+MASTER: "A person dying in Benares sees the vision of Śiva. Śiva says to him: 'This is My aspect with form, My embodiment in māyā. I assume this form for the sake of the devotees. 
 
-I know another man. He doesn't know where to keep his wife. There was some trouble at home, and now he is greatly worried. Let's not talk about these things any more.
-"If a man lives with a woman, he cannot help coming under her control. Worldly men get up and sit down at the bidding of women. They all speak highly of their wives.
-"Once I wanted to go to a certain place. I asked Ramlal's aunt about it. 
+Now look. I am merging in the indivisible Satchidananda!' Uttering these words, Śiva withdraws His form and enables the dying person to see Brahman. "The
+Puranas say that even a chandala endowed with love of God achieves liberation.
 
-She forbade me to go; so I could not. A little while later I said to myself: 'I am not a householder. I have renounced "woman and gold". If, in spite of that, this is my plight, one can well imagine how much worldly people are controlled by their wives.'"
+According to this school the name of God is enough to liberate a soul. There is no need of such things as worship, sacrifice, the discipline of Tantra, and the recitation of mantras.
 
-M: "One who lives in the midst of 'woman and gold' can't help being stained by it, even if only slightly. You told us about Jaynarayan. He was such a great scholar. When you visited him he was an old man. You found him warming pillows and blankets in the sun."
 
-MASTER: "But he had no vanity of scholarship. Further, what he said about the last days of his life came to pass. He spent them in Benares, following the injunctions of the scriptures. I saw his children. They were wearing high boots and had been educated in English schools."
+## Path of devotion for Kaliyuga
 
-By means of questions and answers Sri Ramakrishna now explained to M. his own exalted state.
+But the teachings of the Vedas are different. According to the Vedas none but a brahmin can be liberated. Further, the worship is not accepted by the gods unless the
+mantras are recited correctly. One must perform sacrifice, worship, and so on, according to scriptural injunction. But where is the time in the Kaliyuga to perform the Vedic rituals?
 
-MASTER: "At first I went stark mad. Why am I less so now? But I get into that state now and then."
-M: "You don't have just one mood. As you said, you experience various moods.
+Therefore in the Kaliyuga the path of devotion prescribed by Nārada is best. The path of karma is very difficult. Karma becomes a cause of bondage unless it is performed in a spirit of detachment. Further, the life of man nowadays depends on food. He has no
+time to observe the rituals enjoined by the scriptures. 
 
-Sometimes you are like a child, sometimes like a madman, sometimes like an inert thing, and sometimes like a ghoul. And now and then you are a natural person."
-MASTER: "Yes, like a child. But I also experience the moods of a boy and a young man.
+The patient dies if he tries to cure his fever by taking the decoction of herbs prescribed by the orthodox native physicians.
+Therefore he should take a modern 'fever mixture'.
 
-When I give instruction I feel like a young man. Then there is my boyishness: like a boy 12 years old, I want to be frivolous. That is why I joke and make merry
-with the youngsters. 
+According to Nārada the devotee should sing the name and glories of God. The path of karma is not the right one for the Kaliyuga. Bhaktiyoga is the right path. Do your duties in the world as long as you need them to reap the fruit of the actions of your past lives.
 
-"What do you think of Naran?"
-M: "He has good traits, sir."
+But you must develop love for God and be passionately attached to Him. The singing of the name and glories of God destroys the effect of past action.
+"You don't have to perform duties all your life. As you develop unalloyed love and longing for God, your duties become fewer and fewer. After the realization of God they completely drop away. When the young daughter-in-law is pregnant, her mother-in-law
+lessens her duties. After the birth of the child she doesn't have to do any household
+work.
 
-MASTER: "Yes, the shell of the gourd is good. The Tānpura made out of it will give good
-music. He says to me, 'You are everything.' Everyone speaks of me according to his comprehension. Some say that I am simply a sādhu, a devotee of God.
+Several young men from the village of Dakshineswar entered the room and saluted Sri Ramakrishna. It was about four o'clock in the afternoon. They sat down and began to
+talk with the Master. 
 
-"If I forbid Naran to do something, he understands it very well. The other day I asked him to pull up the curtain, but he didn't do it. I had forbidden him to tie a knot, to sew his clothes, to lock a box, to pull up a curtain, and similar things. He understood it all. He who would renounce the world must practise all these disciplines. They are meant for
-sannyāsis.
 
-While practising sādhanā a man should regard a woman as a raging forest fire or a black
-cobra. But in the state of perfection, after the realization of God, she appears as the
-Blissful Mother. Then you will look on her as a form of the Divine Mother."
-A few days earlier Sri Ramakrishna had spoken many words of warning to Narayan about
-women. He had said: "Don't let yourself touch the air near a woman's body. 
+{{< r a="Young Man" >}}
+Sir, what is Knowledge?
+{{< /r >}}
 
-Cover yourself with a heavy sheet lest the air should touch your body. And keep yourself eight cubits, two cubits, or at least one cubit away from all women except your mother." 
 
-MASTER (to M.): "Naran's mother said to him about me, 'Even we are enchanted by the sight of him, not to speak of you, a mere child.' None but the guileless can realize God.
+MASTER: "It is to know that God is the only Reality and that all else is unreal. That which is the Real is also called Brahman. It has another name: Kala, Time. There is a saying, 
 
-How guileless Niranjan is!"
-M: "True, sir."
+'O brother, how many things come into being in Time and disappear in Time!' "That whieh sports with Kala is called Kāli. She is the Primal Energy. Kala and Kāli,
+Brahman and Śakti, are indivisible.
 
-MASTER: "Didn't you notice him that day in the carriage on the way to Calcutta? He is always the same-without guile. A man shows one side of his nature inside his house and another to the outside world. Since his father's death Narendra has been worried about
-his worldly affairs. He has a slightly calculating mind. How I wish that other youngsters
-were like Niranjan and Narendra!
+"That Brahman, of the nature of Reality, is eternal. It exists in past, present, and future. It is without beginning or end. It cannot be described in words. The utmost that can be said of Brahman is that It is of the very nature of Intelligence and Bliss.
 
-Today I went to the village to see Nilkantha's theatrical performance. It was given at Nabin Niyogi's house. The children there are very bad; they have nothing to do but find fault.
+The world is illusory; Brahman alone is real. The world is of the nature of magic. The magician is real but his magic is unreal"
 
-In such a place a person's spiritual feeling is restrained. During a performance the other day I saw Doctor Madhu shedding tears. I looked at him alone.
-(To M.) "Can you tell me why people feel so much attracted to this place [meaning himself]? What does it mean?"
-M: "It reminds me of an episode in Krishna's life at Vrindāvan. Krishna transformed
-Himself into the cowherd boys and the calves, whereupon the cows began to feel more
-strongly attracted to the cowherd boys, the gopis, and the calves."
-MASTER: "That is the attraction of God. The truth is, the Divine Mother creates the spell
-and it is that which attracts people.
-650"Well, not as many people come here as used to go to Keshab Sen. And how many
-people respect and honour Keshab! He is known even in England. Queen Victoria spoke
-with him. It is said in the Gitā that God's power is manifest in him who is honoured and
-respected by many. But so many people do not come here."
-M: "It was the householders who went to Keshab Sen."
-MASTER: "Yes, that is true. The worldly-minded."
-M: "Will what Keshab has founded remain a long time?"
-MASTER: "Why, he has written a samhita, a book of rules for the guidance of the
-members of his Brahmo Samaj."
 
-M: "But it is quite different with the work done by a Divine Incarnation Himself-
-Chaitanya's work, for instance. You yourself tell us that Chaitanyadeva said, 'The seeds I have sown will certainly bear fruit some time or other.' A man left some seeds on the cornice of a house. Later on the house fell down and trees grew from those seeds."
 
-MASTER: "Many people go to the Samaj founded by Shivanath and friends. Isn't that so?"
+## Power of inborn tendencies
 
-M: "Yes, sir. People of that sort."
+{{< r a="Young Man" >}}
+If the world is of the nature of illusion-magic-then why doesn't one get rid of it?
+{{< /r >}}
 
-MASTER (smiling): "Yes, yes. The worldly-minded go there, but not many of those who long for God and are trying to renounce 'woman and gold'."
-M: "It will be fine if a current flows from this place. Everything will be carried away by its
-force. Nothing that comes out of this place will be monotonous." 
 
-MASTER (smiling): "I keep men's own ideals intact. I ask a Vaishnava to hold to his Vaishnava attitude and a Sakta to his. But this also I say to them 'Never feel that your path alone is right and that the paths of others a wrong and full of errors. Hindus,
-Muslims, and Christians are going to the same destination by different paths. A man
-can realize God by following his own path if his prayer is sincere.
+MASTER: "It is due to the samskaras, inborn tendencies. Repeated births in this world of māyā make one believe that māyā is real.
 
-Vijay's mother-in-law said to me, 'Why don't you tell Balarām that it unnecessary to worship God with form; that it will be enough if he prays to the formless Satchidananda?' 
+"Let me tell you how powerful inborn tendencies are. A prince had, in a previous birth, been the son of a washerman. While playing with his chums in his incarnation as the prince, he said to them: 'Stop those games. I will show you a new one. I shall lie on my belly, and you will beat the clothes on my back as the washerman does, making a
+swishing sound.'
 
-I replied, 'Why should I say such a thing, and why should he listen to me even if I should
-say it?' "
+Many youngsters come here. But only a few long for God. These few are born with a spiritual tendency. They shudder at the talk of marriage. Niranjan has said from boyhood that he will not marry.
 
-M: "Yes. There are different paths to suit time, place, and the fitness of the candidate. Whatever path a man may follow, he will ultimately reach God if he is pure of
-heart and has sincere longing. That is what you say."
+More than 20 years ago two young men used to come here from Baranagore. One was named Govinda Pal and the other Gopal Sen. They had been devoted to God since boyhood. The very mention of marriage would frighten them. Gopal used to have bhava samādhi. He would shrink from worldly people, as a mouse from a cat. One day he saw the boys of the Tagore family strolling in the garden. He shut himself in the kuthi lest he should have to talk with them.
 
-Sri Ramakrishna was sitting in his room. Hari, the relative of the Mukherjis, M., and other devotees were on the floor. An unknown person saluted the Master and took a
-seat. The Master remarked later that his eyes were not good. They were yellow, like a cat's.
+"Gopal went into samādhi in the Panchavati. In that state he said to me, touching my feet: 'Let me go. I cannot live in this world any more. You have a long time to wait. Let me go.' I said to him, in an ecstatic mood, 'You must come again.' 'Very well, I will', he said. A few days later Govinda came to me. 'Where is Gopal?' I asked him. He said, 'He has passed away.'
 
-Hari prepared a smoke for Sri Ramakrishna.
+"What are the other youngsters about? Money, house, carriage, clothes, and finally marriage. These are the things that keep them busy. If they want to marry, at the outset they make inquiries about the girl. They want to find out for themselves whether she is beautiful.
 
-MASTER (to Hari): "Let me see the palm of your hand. This mark is good sign. Relax your hand."
+"There is a person who speaks much ill of me. He is always criticizing me for loving the youngsters. I love only those who are born with good tendencies, pure souls with longing for God, who do not pay any attention to money, creature comforts, and such things.
 
-He took Hari's hand into his as if to feel its weight.
+"If married people develop love for God, they will not be attached to the world.
+Hirananda is married. What if he is? He will not be much attached to the world."
+Hirananda, a member of the Brahmo Samaj, was a native of Sindh. He had met the Master in Calcutta and become devoted to him.
 
-MASTER: "He is still childlike. As yet there is no blemish in him. (To the devotees) From the hand I can tell whether a person is deceitful or guileless. (To Hari) Why, you should go to your father-in-law's house. You should talk to your wife and have a little fun with her if you like. (To M.) What do you say?" (M. and the others laugh.)
+Manilal, the Mārwāri devotees, the Brahmo devotees from Shibpur, and the young men
+from Dakshineswar saluted Sri Ramakrishna and took their leave.
 
-M: "If a new pot becomes bad, one can no longer keep milk in it."
+It was evening. Lamps were lighted on the south and west verandahs. A lamp was lighted in the Master's room also, and incense was burnt. He was repeating the name of the Divine Mother, absorbed in contemplation of Her. After a while he talked again to the devotees. 
 
-MASTER (smiling): "How do you know that it is not already bad?"
+There was still some time before the evening worship in the temples. MASTER (to M.): "What need of the sandhya has a man who thinks of God day and night?
 
-The 2 Mukherjis, Mahendra and Priyanath, were brothers. They did not work in an office, but had their own flour-mill. Priyanath had been an engineer. Sri Ramakrishna
-talked to Hari about the Mukherji brothers.
+What need of rituals has a man, what need of devotions any more,
+If he repeats the Mother's name at the three holy hours?
 
-MASTER: "The elder brother is nice, isn't he? He is artless. Isn't the younger brother very miserly? I understand that since coming here he has improved a great deal. He once said to me, 'I didn't know anything before.' (To Hari) Do they give anything in charity?"
+Rituals may pursue him close, but never can they overtake him.
 
-HARI: "Not much, as far as I can see. Their elder brother, now dead, was a very good man. He was very charitable."
+Charity, vows, and giving of gifts do not appeal to Madan's mind;
+The Blissful Mother's Lotus Feet are his whole prayer and sacrifice.
 
+The sandhya merges in the Gayatri, the Gayatri in Om. A man is firmly established in spiritual life when he goes into samādhi on uttering 'Om' only once.
 
-## Physical signs indicating character
+"There is a sādhu in Hrishikesh who gets up early in the morning and stands near a great waterfall. He looks at it the whole day and says to God: 'Ah, You have done well! Well done! 
 
-MASTER (to M. and the others): "Whether a person will make spiritual progress or not can be known to a great extent by his physical marks. The hand of a deceitful person is heavy. 
+How amazing! He doesn't practise any other form of japa or austerity. At night he returns to his hut.
+"What need is there even to bother one's head about whether God is formless or has a form? It is enough for a man to pray to Him, alone in solitude, weeping, 'O God, reveal Yourself to me as You are.'
 
-A snub nose is not a good sign. Sambhu had that kind of nose; hence he was not quite sincere in spite of all his wisdom. Pigeon-breast is not a good sign either. Hard
-bones and heavy elbow-joints are bad signs too; and yellow eyes, like a cat's.
+God is both inside and outside. It is He who dwells inside us. Therefore the Vedas say, Tattvamasi-That thou art.' God is also outside us. He appears manifold through māyā;
 
-A man becomes very mean if he has lips that are thick, like a dome's. A brahmin was here for a few months acting as priest of the Vishnu temple. I couldn't eat the food he touched. 
+but in reality He alone exists. Therefore before describing the various names and forms
+of God, one should say, 'Om Tat Sat.'
 
-One day I suddenly exclaimed, 'He is a dome!' Afterwards he said to me: 'Yes, sir. We live in the dome quarters. I know how to make wicker baskets and such things,
-Just like a dome.'
+"It is one thing to learn about God from the scriptures, and quite another to see Him.
 
-There are other bad physical signs: one eye and squint eyes. It is rather better to have one eye, but never squint eyes. Squint-eyed people are wicked and deceitful.
+The scriptures only give hints. Therefore to read a great many scriptures is not necessary. It is much better to pray to God in solitude. 
 
-"A student of Mahesh Nyayaratna's came here. He described himself as an atheist. He said to Hriday: 'I am an atheist. You may take up the position of a believer in God and argue with me.'
+"It isn't necessary to read all of the Gitā. One can get the essence of the Gitā by repeating the word ten times. It becomes reversed and is then 'tagi'. The essence of the book is: 'O man, renounce everything and worship God.'"
 
-I noticed that his eyes were yellow, like a cat's.
 
-"Whether a person is good or bad can also be known from the way he walks."
-
-Sri Ramakrishna paced the verandah. M. and Baburam walked with him.
-
-MASTER (to Hazra): "A man came here. I saw that his eyes were like a cat's. He asked
-me: 'Do you know astrology? I am in some difficulty.' I said: 'No, I don't. Go to
-Baranagore. There you will find astrologers.'"
-
-## Master and Nilkantha
-
-Baburam and M. talked about Nilkantha's theatrical performance. Baburam had spent the previous night at the temple garden after his return from Nabin Sen's house. In the morning he had attended Nilkantha's performance with the Master.
-
-MASTER (to M. and Baburam): "What are you talking about?"
-
-M. AND BABURAM: "About Nilkantha's performance."
-
-While pacing the verandah Sri Ramakrishna suddenly took M. aside and said, "The less people know about your thoughts of God, the better for You," Saying these words the Master abruptly went away. A short time afterwards he began to talk with Hazra.
-
-HAZRA: "Nilkantha told you he would pay you a visit. It would be good send for him."
-
-MASTER: "No, he didn't sleep at all last night. It will be different if he comes here through the will of God."
-
-Sri Ramakrishna asked Baburam to visit Narayan at his house. He looked on Narayan as God Himself, and so he longed to see him. The Master said to Baburam, "You may go to him with one of your English text-books."
-
-About 3PM, Sri Ramakrishna was sitting in his room. Nilkantha arrived with five or six of his companions. The Master went toward the east door as if to welcome him. The musicians bowed before the Master, touching the ground with their foreheads.
-
-Sri Ramakrishna went into samādhi. Baburam stood behind him. M., Nilkantha, and the musicians were in front of him, watching him in great amazement. Dinanath, an officer of the temple, looked on from the north side of the bed. Soon the room was filled with officers of the temple garden. Sri Ramakrishna's ecstasy abated a little. He seated himself on a mat on the floor, surrounded by Nilkantha and other devotees.
-
-MASTER (still in an ecstatic mood): "I am all right."
-
-NILKANTHA (with folded hands): "Make me all right too."
-
-MASTER (smiling): "Why, you are already all right. Adding the letter to 'a', one gets 'ka'.
-
-By adding another 'a' to 'ka', one still gets the same 'ka'." (All laugh.)
-
-NILKANTHA: "Revered sir, I am entangled in worldliness."
-
-MASTER (smiling): "God has kept you in the world for the sake of others. There are 8 fetters. One cannot get rid of them all. God keeps one or two so that a man may live in the world and teach others. You have organized this theatrical company. How many people are being benefited by seeing your bhakti! If you give up everything, then where will these musicians go?
-
-God is now doing all these works through you. When they are finish, you will not return to them. The housewife finishes her household duties feeds everyone, including the menservants and maidservants, and then goes to take her bath. She doesn't come back then even if people shout for her."
-
-NILKANTHA: "Please bless me."
-
-MASTER: "Yaśoda went mad with grief because she was separated from Krishna. She went to Radhika, who was meditating. Radhika said to her an ecstatic state: 'I am the Ultimate Prakriti, the Primal Power. Ask a boon of Me.' Yaśoda said to her: 'What shall I ask of You? Please bless me, that with all my body, mind, and speech I may think of God and serve Him; that with my ears I may hear the singing of God's name and glories; that with my hands I may serve Hari and His devotees; that with my eyes I may behold His form and His devotees.'
-
-"Your eyes fill with tears when you utter the name of God. Why then should you worry about anything? Divine love has grown in you.
-
-"To know many things is ajnāna, ignorance. To know only one thing is jnāna, Knowledge-the realization that God alone is real and that He dwells in all. And to talk to Him is vijnāna, a fuller Knowledge. To love God in different ways, after realizing Him, is vijnāna.
-
-It is also said that God is beyond one and two. He is beyond speech and mind. To go up from the Lila to the Nitya and come down again from the Nitya to the Lila is mature bhakti.
-
-"I love that song of yours about aspiring to reach the Lotus Feet of the Divine Mother. It is enough to know that everything depends on the grace of God. But one must pray to God; it will not do to remain inactive. The lawyer gives all the arguments and finishes his pleading by saying to the judge: 'I have said all I have to say. Now the decision rests with Your Honour.' "
-
-After a few minutes Sri Ramakrishna said to Nilkantha: "You sang so much in the morning, and now you have taken the trouble to come here. But here everything is 'honorary'."
-
-NILKANTHA: "Why so?"
-
-MASTER (smiling): "I know what you will say."
-
-NILKANTHA: "I shall get a precious gem from here."
-
-MASTER: "You already have that precious gem. What will you gain by adding again the letter 'a' to 'ka'? If you didn't have the gem, should I like your songs so much?
-Ramprasad had attained divine realization; that is why his songs appeal so much.  
-
-"I had already planned to hear your music. Later on Niyogi, too, came here to invite me."
-
-The Master was sitting on the small couch. He told Nilkantha that he would like to hear a song or two about the Divine Mother.
-
-Nilkantha sang two songs with his companions. When the Master heard the second song he stood up and went into samādhi. Presently he began to dance in an ecstasy of divine love. Nilkantha and the devotees sang and danced around him. Then Nilkantha sang a song about Śiva, and the Master danced with the devotees.
-
-When the singing was over, Sri Ramakrishna said to Nilkantha, "I should like to hear that song of yours I heard in Calcutta."
-
-M: "About Sri Gaurānga?"
-
-MASTER: "Yes, yes!"
-
-Nilkantha sang the song, "The beautiful Gaurānga, the youthful dancer, fair as molten gold."
-
-Sri Ramakrishna sang again and again the line, "Everything is swept away by the onrush of love", and danced with Nilkantha and the other devotees. Those who saw that indescribable dancing were never to forget it. The room was filled with people, all intoxicated with divine joy. It seemed as if Chaitanya himself were dancing with his companions.
-
-Manomohan was in an ecstatic mood. He was a devotee of Sri Ramakrishna and a brother-in-law of Rakhal. Several ladies of his family had come with him. They were witnessing this divine music and dancing from the north verandah.
-
-Sri Ramakrishna sang again, this time about Gaurānga and Nityananda:
-Behold, the two brothers have came, who weep while chanting Hari's name. . . .
-He danced with Nilkantha and the other devotees, improvising the line:
-Behold, the two brothers have come, they who are mad with love of Radha.
-Hearing the loud music, many people gathered about the room. The verandahs to the
-south and north, and the semicircular porch to the west of the room, were crowded with
-people. Even passengers in the boats going along the Gauges were attracted by the
-kirtan.
-
-The music was over Sri Ramakrishna bowed to the Divine Mother and said, "Bhagavata-
-Bhakta-Bhagavan. My salutations to the jnanis, my salutations to the yogis, my
-salutations to the bhaktas."
-
-The Master was seated on the semicircular porch with Nilkantha and the other devotees
-.
-The autumn moon flooded all the quarters with light. Sri Ramakrishna and Nilkantha talked.
-
-NILKANTHA: "You are none other than Gaurānga."
-
-MASTER: "Why should you say such a thing? I am the servant of .the servant of all. The waves belong to the Ganges; but does the Ganges belong to the waves?"
-
-NILKANTHA: "You may say whatever you like, but we regard you as Gaurānga himself."
-
-MASTER (tenderly, in an ecstatic mood): "My dear sir, I try to seek my 'I', but I do not find it. Hanuman said: 'O Rāma, sometimes I think that You are the whole and I am a part, and sometimes that You are the Master and I am Your servant. But when I have the Knowledge of Reality, I see that You are I and I am You.'"
-
-NILKANTHA: "What shall I say, sir? Please be gracious to us."
-
-MASTER (smiling): "You are ferrying many people across the ocean or the world. How many hearts are illumined by hearing your music!"
-
-NILKANTHA: "You talk of ferrying. But bless me that I may not be drowned in the ocean myself."
-
-MASTER (smiling): "If you get drowned, it will be in the Sea of Immortality."
-
-Sri Ramakrishna was delighted with Nilkantha's company. He said to the musician: "For
-you to have come here! You whom people see as a result of many austerities and prayers! Listen to a song."
-
-The Master sang a song, two lines of which ran:
-When the Blissful Mother comes to my house, how much of the Chandi I shall hear!
-
-How many monks will come here, and how many yogis with matted locks!
-
-He said, continuing, "As long as the Divine Mother has come here, many yogis with matted locks will come too."
-
-Sri Ramakrishna laughed. To M., Baburam, and the other devotees he said: "I feel very much like laughing. Just fancy, I am singing for these musicians!"
-
-NILKANTHA: "We go about singing; but today we have had our true reward."
-
-MASTER (smiling): 'when a shopkeeper sells an article, he sometimes gives a little extra something to the buyer. You sang at Nabin's house and have given the extra something here."
-
-All laughed.

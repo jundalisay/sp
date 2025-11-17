@@ -1,5 +1,5 @@
 ---
-title: "THE MASTER'S BIRTHDAY"
+title: "The Master'S Birthday"
 c: "indigo"
 heading: "Chapter 36"
 weight: 146
