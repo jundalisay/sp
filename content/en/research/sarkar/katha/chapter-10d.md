@@ -13,13 +13,16 @@ icon: Nagina
 
 It had been announced on the third Sunday of November 1954 that another demonstration would take place on the final Sunday of the month, November 28th.
 
-Once again the disciples gathered at Railway Quarter Number 339EF, arriving well in advance of Baba’s expected arrival. As usual, Baba was punctual. We did sastaunga
-pranam and Baba blessed us.
+Once again the disciples gathered at Railway Quarter Number 339EF, arriving well in advance of Baba’s expected arrival. As usual, Baba was punctual. We did sastaunga pranam and Baba blessed us.
 
-For the third time, Baba called upon Shri P. K. Chatterjee as His subject. Shri Chatterjee sat asw before before Baba in the lotus position, and Baba asked him to
-concentrate on his iista cakra.
+For the third time, Baba called upon Shri P. K. Chatterjee as His subject. Shri Chatterjee sat asw before before Baba in the lotus position, and Baba asked him to concentrate on his iista cakra.
 
-Baba then addressed the kundalinii: “I Yogeshvar Anandamurti, order you to leave Muladhara and go to svadhisthana cakra”.
+Baba then addressed the kundalinii: 
+
+{{< l a="Baba" >}}
+“I Yogeshvar Anandamurti, order you to leave Muladhara and go to svadhisthana cakra”.
+{{< /l >}}
+
 
 The kundalinii obeyed Baba’s command as we saw by observing the physical changes in the subject. Baba guided the kundalinii upward to manipura, anahata, vishuddha and ajina cakras, as He had done with this subject on November 14th. 
 
@@ -87,8 +90,12 @@ Side by side like brothers, all disciples basked in His divine love.  -->
 
 When the demonstration was finished, I said:
 
-“Baba, when You command the kundalinii to move from one cakra to another, it appears that various changes occur in
-the subject’s body”.
+
+{{< r a="Nagina" >}}
+Baba, when You command the kundalinii to move from one cakra to another, it appears that various changes occur in
+the subject’s body
+{{< /r >}}
+
 
 {{< l a="Baba" >}}
 Yes, various signs will appear in the sadhakas body when the kundalinii moves up or down through the cakras. The kundalinii can have different ways of motion, and different symptoms will appear accordingly

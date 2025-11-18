@@ -102,5 +102,8 @@ Come again
 {{< /l >}}
 
 
-On his way home M. began to wonder: "Who is this serene-looking man who is drawing me back to him? Is it possible for a man to be great without being a scholar? How wonderful it is! I should like to see him again. He himself said, 'Come again.' I shall go tomorrow or the day after."
+On his way home M. began to wonder: 
 
+{{< r a="M" >}}
+Who is this serene-looking man who is drawing me back to him? Is it possible for a man to be great without being a scholar? How wonderful it is! I should like to see him again. He himself said, 'Come again.' I shall go tomorrow or the day after.
+{{< /r >}}

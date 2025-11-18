@@ -1,3 +1,9 @@
+  /*border-radius: 0.5rem; /* Rounded corners for the table */*/
+  /* overflow: hidden;  Ensures background and borders respect the radius */
+  /* box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1); */
+
+
+
 logistics 
 disruption forecasting
 predictive maintenance

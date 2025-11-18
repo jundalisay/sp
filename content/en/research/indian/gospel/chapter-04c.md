@@ -187,21 +187,15 @@ In Him who is Pure Knowledge and Pure Bliss.
 
 Next they sang:
 
-Oh, when will dawn for me that day of blessedness
-When He who is all Good, all Beauty, and all Truth
-Will light the inmost shrine of my heart?
-At last Narendra himself was playing on the drums, and he sang with the Master, full of
-joy:
+Oh, when will dawn for me that day of blessedness When He who is all Good, all Beauty, and all Truth
+Will light the inmost shrine of my heart? At last Narendra himself was playing on the drums, and he sang with the Master, full of joy:
 
-With beaming face chant the sweet name of God
-When the music was over, Sri Ramakrishna held Narendra in his arms a long time and said, "You have made us so happy today!" The flood-gate of the Master's heart was open so wide, that night, that he could hardly contain himself for joy. It was 8pm. 
+With beaming face chant the sweet name of God When the music was over, Sri Ramakrishna held Narendra in his arms a long time and said, "You have made us so happy today!" The flood-gate of the Master's heart was open so wide, that night, that he could hardly contain himself for joy. It was 8pm. 
 
 Intoxicated with divine love, he paced the long verandah north of his room. Now and then he could be heard talking to the Divine Mother. Suddenly he said in an excited voice, "What can you do to me?" Was the Master hinting that maya was
 helpless before him, since he had the Divine Mother for his support?
 
-Narendra, M., and Priya were going to spend the night at the temple garden. This pleased the Master highly, especially since Narendra would be with him. The Holy Mother, who was living in the nahabat, had prepared the supper. Surendra bore the
-greater part of the Master's expenses. The meal was ready, and the plates were set out
-on the southeast verandah of the Masters room.
+Narendra, M., and Priya were going to spend the night at the temple garden. This pleased the Master highly, especially since Narendra would be with him. The Holy Mother, who was living in the nahabat, had prepared the supper. Surendra bore the greater part of the Master's expenses. The meal was ready, and the plates were set out on the southeast verandah of the Masters room.
 
 Near the east door of his room Narendra and the other devotees were gossiping.
 
@@ -210,26 +204,20 @@ Near the east door of his room Narendra and the other devotees were gossiping.
 How do you find the young men nowadays?
 {{< /l >}}
 
-
-M: "They are not bad; but they don't receive any religious instructions".
+{{< r a="M" >}}
+They are not bad; but they don't receive any religious instructions
+{{< /r >}}
 
 {{< l a="Narendra" >}}
 But from my experience I feel they are going to the dogs. They smoke cigarettes, indulge in frivolous talk, enjoy foppishness, play truant, and do everything of that sort. I have even seen them visiting questionable places.
 {{< /l >}}
 
-
-M: "I didn't notice such things during our student days."
-
-
-{{< l a="Narendra" >}}
-Perhaps you didn't mix with the students intimately. I have even seen them talking with people of immoral character. Perhaps they are on terms of intimacy with them."
-{{< /l >}}
-
-
-M: "It is strange indeed."
+{{< r a="M" >}}
+I didn't notice such things during our student days.
+{{< /r >}}
 
 {{< l a="Narendra" >}}
-I know that many of them form bad habits. It would be proper if the guardians of the boys, and the authorities, kept their eyes on these matters.
+Perhaps you didn't mix with the students intimately. I have even seen them talking with people of immoral character. Perhaps they are on terms of intimacy with them.  I know that many of them form bad habits. It would be proper if the guardians of the boys, and the authorities, kept their eyes on these matters.
 {{< /l >}}
 
 
@@ -273,9 +261,4 @@ What matchless loveliness is Hers! What infinite content
 Pervades the heart when She appears! O brothers, says
 Premdas, I humbly beg you, one and all, to sing the Mother's praise!
 
-
-
-
 Sri Ramakrishna sang and danced, and the devotees danced around him.
-
-

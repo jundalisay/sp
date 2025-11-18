@@ -1,5 +1,5 @@
 ---
-title: "LET HIM TAKE CARE OF HIS HEAD AND I WILL TAKE CARE OF HIS FEET"
+title: "Let Him Take Care Of His Head And I Will Take Care Of His Feet"
 heading: Chapter 34b
 weight: 112
 description: "This was due to the fact that they did not consider themselves worthy of this respect"

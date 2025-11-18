@@ -9,7 +9,6 @@ description: ""
 ---
 
 
-
 (To Hazra) "If there is knowledge of one, there is also knowledge of many. What will you achieve by mere study of the scriptures? The scriptures contain a mixture of sand and sugar, as it were. It is extremely difficult to separate the sugar from the sand. 
 
 Therefore one should learn the essence of the scriptures from the teacher or from a sādhu.
@@ -93,38 +92,16 @@ The devotees listened to these words with rapt attention.
 (To the Mukherji brothers) "Captain is now really in the state of the sadhaka. That the
 mere possession of wealth should create, attachment is by no means true. Sambhu Mallick used to say to Hriday, 'Hridu, I have packed my things and am ready for the journey.' 
 
-I said to him: 'God forbid! Why do you say such ominous words?' 'No', replied
-Sambhu. 'Please bless me that I may cast aside all these possessions and go to God.'
-"God's devotees have nothing to fear. They are His own He always stands by them. Once
-Duryodhana and his brothers were imprisoned by the gandharvas. It was Yudhisthira
-who freed them. Yudhisthira said, 'If our relatives are placed in such a plight, then it is
-our disgrace.' "
+I said to him: 'God forbid! Why do you say such ominous words?' 'No', replied Sambhu. 'Please bless me that I may cast aside all these possessions and go to God.' 
 
-It was about nine o'clock in the evening. The Mukherji brothers were ready to return to
-Calcutta. The Master left his seat and began to pace the room and the porch. He could
-hear the kirtan sung in the Vishnu temple. A devotee said that Harish and Lātu were in the singing party.
+"God's devotees have nothing to fear. They are His own He always stands by them. Once Duryodhana and his brothers were imprisoned by the gandharvas. It was Yudhisthira who freed them. Yudhisthira said, 'If our relatives are placed in such a plight, then it is our disgrace.' "
 
-Sri Ramakrishna and the devotees went to the Vishnu temple and saluted the Deity. The
-brahmins belonging to the staff of the temple garden, and also the priests, the cooks,
-and the servants, were singing the kirtan. He stood there a few minutes and encouraged
-the singers. On the way back to his room he remarked to the devotees, "You see, some
-of them polish the metal utensils and some go to houses of prostitution."
+It was 9pm. The Mukherji brothers were ready to return to Calcutta. The Master left his seat and began to pace the room and the porch. He could hear the kirtan sung in the Vishnu temple. A devotee said that Harish and Lātu were in the singing party.
 
-The Master returned to his room and took his seat. Presently the singers came and
-bowed low before him. The Master said to them: "One should perspire, dancing and
-singing the name of God, as people do earning money. I had thought of joining you in
-the dancing; but I found that you did everything very well. You had flavoured the curry
-with all the seasoning. What could I add? It will be nice if you sing devotional songs that
-way now and then."
+Sri Ramakrishna and the devotees went to the Vishnu temple and saluted the Deity. The brahmins belonging to the staff of the temple garden, and also the priests, the cooks, and the servants, were singing the kirtan. He stood there a few minutes and encouraged the singers. On the way back to his room he remarked to the devotees, "You see, some of them polish the metal utensils and some go to houses of prostitution."
 
-The Mukherji brothers saluted the Master. Their carriage was ready near the verandah
-north of the room. The Master stood facing the north. On his left was the Ganges; in
-front of him were the nahabat, the garden, and the kuthi; and to his right was the road
-leading to the gate. The night was dark, and a devotee had brought a lantern to show
-the visitors their way. One by one the devotees bowed and took the dust of the Master's
-feet. The carriage seemed too heavily loaded for the horses. The Master said, "Aren't
-there too many people in the carriage?"
+The Master returned to his room and took his seat. Presently the singers came and bowed low before him. The Master said to them: "One should perspire, dancing and singing the name of God, as people do earning money. I had thought of joining you in the dancing; but I found that you did everything very well. You had flavoured the curry with all the seasoning. What could I add? It will be nice if you sing devotional songs that way now and then."
 
-Sri Ramakrishna remained standing. As the carriage rolled away, the devotees looked
-back at the Master's face beaming with compassion and love.
+The Mukherji brothers saluted the Master. Their carriage was ready near the verandah north of the room. The Master stood facing the north. On his left was the Ganges; in front of him were the nahabat, the garden, and the kuthi; and to his right was the road leading to the gate. The night was dark, and a devotee had brought a lantern to show the visitors their way. One by one the devotees bowed and took the dust of the Master's feet. The carriage seemed too heavily loaded for the horses. The Master said, "Aren't there too many people in the carriage?"
 
+Sri Ramakrishna remained standing. As the carriage rolled away, the devotees looked back at the Master's face beaming with compassion and love.

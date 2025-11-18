@@ -17,15 +17,16 @@ But there is a type of teacher who goes to the length of using force when he fin
 
 ## No finality about God's nature
 
-A BRAHMO DEVOTEE: "Sir, has God forms or has He none?"
+{{< r a="Brahmo Devotee" >}}
+Sir, has God forms or has He none?
+{{< /r >}}
 
 {{< l a="Ramakrishna" >}}
 No one can say with finality that God is only 'this' and nothing else. He is formless, and again He has forms. For the bhakta He assumes forms. But He is formless for the jnani, that is, for him who looks on the world as a mere dream. The bhakta feels that he is one entity and the world another. Therefore God reveals Himself to him as a Person. 
 
 But the jnani-the Vedantist, for instance-always reasons, applying the process of 'Not this, not this'. Through this discrimination he realizes, by his inner perception, that the ego and the universe are both illusory, like a dream. Then the jnani realizes Brahman in his own consciousness. He cannot describe what Brahman is.
 
-"Do you know what I mean? Think of Brahman, Existence-Knowledge-Bliss Absolute, as a shoreless ocean. Through the cooling influence, as it were, of the bhakta's love, the water has frozen at places into blocks of ice. In other words, God now and then assumes various forms for His lovers and reveals Himself to them as a Person. But with the rising of the sun of Knowledge, the blocks of ice melt. Then one doesn't feel any more that God is a Person, nor does one see God's forms. What He is cannot be described. Who will describe Him? He who would do so disappears. He cannot find his
-'I' any more.
+Think of Brahman, Existence-Knowledge-Bliss Absolute, as a shoreless ocean. Through the cooling influence, as it were, of the bhakta's love, the water has frozen at places into blocks of ice. In other words, God now and then assumes various forms for His lovers and reveals Himself to them as a Person. But with the rising of the sun of Knowledge, the blocks of ice melt. Then one doesn't feel any more that God is a Person, nor does one see God's forms. What He is cannot be described. Who will describe Him? He who would do so disappears. He cannot find his 'I' any more.
 {{< /l >}}
 
 
@@ -63,7 +64,10 @@ You are bhaktas, not jnanis or Vedantists. It doesn't matter whether you accept 
 It is enough to feel that God is a Person who listens to our prayers, who creates, preserves, and destroys the universe, and who is endowed with infinite power.
 "It is easier to attain God by following the path of devotion."
 
-BRAHMO DEVOTEE: "Sir, is it possible for one to see God? If so, why can't we see Him?"
+{{< r a="Brahmo Devotee" >}}
+Sir, is it possible for one to see God? If so, why can't we see Him?
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 Yes, He can surely be seen. One can see His forms, and His formless aspect as well. How can I explain that to you?"
@@ -72,7 +76,9 @@ Yes, He can surely be seen. One can see His forms, and His formless aspect as we
 
 ## Intense longing enables one to see God
 
-BRAHMO DEVOTEE: "What are the means by which one can see God?"
+{{< r a="Brahmo Devotee" >}}
+What are the means by which one can see God?
+{{< /r >}}
 
 {{< l a="Ramakrishna" >}}
 Can you weep for Him with intense longing of heart? Men shed a jugful of tears for the sake of their children, for their wives, or for money. But who weeps for God? 
@@ -83,8 +89,10 @@ So long as the child remains engrossed with its toys, the mother looks after her
 
 ## Why so much controversy about God?
 
-BRAHMO DEVOTEE: "Sir, why are there so many different opinions about the nature of God? Some say that God has form, while others say that He is formless. Again, those
-who speak of God with form tell us about His different forms. Why all this controversy?"
+{{< r a="Brahmo Devotee" >}}
+Sir, why are there so many different opinions about the nature of God? Some say that God has form, while others say that He is formless. Again, those who speak of God with form tell us about His different forms. Why all this controversy?
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 A devotee thinks of God as he sees Him. In reality there is no confusion about God. God explains all this to the devotee if the devotee only realizes Him somehow. You haven't set your foot in that direction. How can you expect to know all about God?
@@ -123,4 +131,3 @@ Sometimes it has no colour at all. Now it has a colour, and now it has none.'
 "If a jug of water is enough to remove my thirst, why should I measure the quantity of water in a lake? I become drunk on even half a bottle of wine-what is the use of my calculating the quantity of liquor in the tavern? What need is there of knowing the Infinite?
 
 "The various states of mind of the Brahmajnani are described in the Vedas. The path of knowledge is extremely difficult. One cannot obtain jnāna if one has the least trace of worldliness and the slightest attachment to 'woman and gold'. This is not the path for the Kaliyuga.
-

@@ -1,12 +1,11 @@
 ---
-title: "MARGIIS PLAN TO ASK BABA TO SOLVE THEIR FINANCIAL DIFFICULTIES"
+title: "Margiis Plan To Ask Baba To Solve Their Financial Difficulties"
 heading: Chapter 27
 weight: 90
 description: "Economically speaking, Ananda Margiis have always been lower middle and middle class people"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 

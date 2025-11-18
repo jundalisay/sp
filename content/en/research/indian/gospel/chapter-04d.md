@@ -130,5 +130,3 @@ Is that anything to wonder at? Everything is possible for God.
 {{< r a="Other Yogi" >}}
 What? Making elephants pass through the eye of a needle - is that ever possible? You have never been to the Lord's dwelling-place.
 {{< /r >}}
-
-

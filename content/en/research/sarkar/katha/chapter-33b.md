@@ -1,5 +1,5 @@
 ---
-title: "I APPEAL TO BABA TO SAVE MY MOTHER"
+title: "I Appeal To Baba To Save My Mother"
 heading: Chapter 33b
 weight: 110
 description: "My revered mother had a stroke and was unconscious for more than 24 hours"
@@ -13,13 +13,9 @@ icon: Nagina
 
 I wrote a letter to Baba in great sorrow and helplessness and prayed in this letter that I did want my mother to leave this world in her present state of fear and asked Him He to kindly grant her more life. There was one more factor. 
 
-Both my brother and I were in service and my uncle and my father had expired any therefore it appeared that if mother did not survive the house and the property in the village would be ruined. After a long time I realized that it was mere illusion of mine. By now my
+Both my brother and I were in service and my uncle and my father had expired any therefore it appeared that if mother did not survive the house and the property in the village would be ruined. After a long time I realized that it was mere illusion of mine. By now my younger brother and his wife had picked up its management with full responsibility.
 
-younger brother and his wife had picked up its management with full responsibility.
-In the mean time the treatment continued. But there was not improvement in the
-condition of my mother. I continued to wait for blessings from Baba in the form of his
-reply to my letter. After writing the letter to Baba, I used to open my mail myself. But
-when no letter was received from Baba I felt depressed.
+In the mean time the treatment continued. But there was not improvement in the condition of my mother. I continued to wait for blessings from Baba in the form of his reply to my letter. After writing the letter to Baba, I used to open my mail myself. But when no letter was received from Baba I felt depressed.
 
 Meanwhile one day my mother’s condition deteriorated seriously and she was in dangerous condition. The doctors advised that it would be her last night. 
 
@@ -157,7 +153,7 @@ Meanwhile May arrived and the time for Vaeshakhii Purnima DMC. We began
 to wait for the message from Baba. This time Baba’s message read like this:
 
 {{< l a="Baba" >}}
-“At this juncture of the junction of 2 civilizations, the most important thing is the virtuous life of the individual. We shall have to be alert every moment so that in the darkness of petty selfishness this human treasure is not lost. 
+At this juncture of the junction of 2 civilizations, the most important thing is the virtuous life of the individual. We shall have to be alert every moment so that in the darkness of petty selfishness this human treasure is not lost. 
 
 If virtue cannot be saved, civilization also cannot be saved. As a consequence the long penance of the human race will go in vain. That learning which could not be practiced in real life is only bookish knowledge and it is worthless.
 

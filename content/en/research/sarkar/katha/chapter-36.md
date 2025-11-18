@@ -1,5 +1,5 @@
 ---
-title: "KRISHNANAGAR DMC: OCTOBER 1958"
+title: "Krishnanagar Dmc: October 1958"
 heading: Chapter 36
 weight: 116
 description: "An Editor’s note in Prajina Bharati October 1983"

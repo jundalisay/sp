@@ -16,13 +16,7 @@ visit him! He has many disciples and followers. His house is overflowing with fu
 and other things. People give him presents. He has such power that he can feed many
 people if he so desires.'
 
-"The profession of a teacher is like that of a prostitute. It is the selling of oneself for the
-trifle of money, honour, and creature comforts. For such insignificant things it is not
-good to prostitute the body, mind, and soul, the means by which one can attain God. A
-man once said about a certain woman: 'Ah! She is having a grand time now. She is so
-well off! She has rented a room and furnished it with a couch, a mat, pillows, and many
-other things. And how many people she controls! They are always visiting her.' In other
-words, the woman has now become a prostitute. Therefore her happiness is unbounded.
+"The profession of a teacher is like that of a prostitute. It is the selling of oneself for the trifle of money, honour, and creature comforts. For such insignificant things it is not good to prostitute the body, mind, and soul, the means by which one can attain God. A man once said about a certain woman: 'Ah! She is having a grand time now. She is so well off! She has rented a room and furnished it with a couch, a mat, pillows, and many other things. And how many people she controls! They are always visiting her.' In other words, the woman has now become a prostitute. Therefore her happiness is unbounded.
 
 Formerly she was a maidservant in a gentleman's house; now she is a prostitute. She
 has ruined herself for a mere trifle.

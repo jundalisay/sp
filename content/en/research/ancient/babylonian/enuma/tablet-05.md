@@ -37,20 +37,18 @@ He appointed him, a being of the night, to determine the days.
 
 Every month without ceasing with the crown he covered him, saying:
 
-"At the beginning of the month, when you shine on the land, you command the horns to determine 6 days, And on the seventh day to divide the crown.
 
-On the 14th day thou shalt stand opposite, the half....
+{{< l a="Marduk" >}}
+At the beginning of the month, when you shine on the land, you command the horns to determine 6 days, And on the seventh day to divide the crown. On the 14th day thou shalt stand opposite, the half....
 
 When the Sun-god on the foundation of heaven...you,
 
-The ... thou shalt cause to ..., and thou shalt make his...
-... unto the path of the Sun-god shalt thou cause to draw nigh,
+The ... you shall cause to ..., and thou shalt make his... unto the path of the Sun-god shalt thou cause to draw nigh,
 
-And on the ... day thou shalt stand opposite, and the Sun-god shall...
-... to traverse her way.
+And on the ... day you shall stand opposite, and the Sun-god shall... ... to traverse her way.
 
-... thou shalt cause to draw nigh, and thou shalt judge the right.
-... to destroy..."
+... you shall cause to draw nigh, and thou shalt judge the right. ... to destroy..."
+{{< /l >}}
 
 
 [Nearly 50 lines are here lost.]

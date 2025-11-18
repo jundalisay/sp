@@ -46,16 +46,17 @@ They were complaining, denouncing,
 
 [Several lines missing]
 
+{{< r a="Igigi" >}}
+[61] "Now them, call for battle, let us join for warfare!"
+{{< /r >}}
 
-[61] "Now them, call for battle, battle let us join, warfare!"
+The gods heard his words: they set fire to their tools.
 
-The gods heard his words: they set fire to their tools,
-
-
-[65] they put fire to their spaces, and flame to their workbaskets.
+[65] They put fire to their spaces, and flame to their workbaskets.
 
 Off they went, one and all, to the gate of the warrior Enlil's abode.
 ...
+
 
 ### Insurrection of the Lower Gods
 
@@ -71,25 +72,30 @@ It was night, half-way through the watch, Ekur was surrounded, but Enlil did not
 
 In the assembly of all the gods,
 
-[135] he knelt, stood up, expounded the command,
+[135] He knelt, stood up, expounded the command,
 
-"Anu, your father, your counsellor, the warrior Enlil, your prefect, Ninurta, and your bailiff Ennugi have sent me to say:
+{{< r a="Nusku" >}}
+Anu, your father, your counsellor, the warrior Enlil, your prefect, Ninurta, and your bailiff Ennugi have sent me to say:
 
-[140] 'Who is the instigator of this battle? Who is the instigator of these hostilities?
-Who declared war, that battle has run up to the gate of Enlil?
+[140] 'Who is the instigator of this battle? Who is the instigator of these hostilities? Who declared war, that battle has run up to the gate of Enlil?
 In ...
 
-[145] he transgressed the command of Enlil.'"
+[145] He transgressed the command of Enlil.'
+{{< /r >}}
 
-Reply by the Lower Gods
 
-"Everyone of us gods has declared war;
+## Reply by the Lower Gods
+
+{{< r a="Igigi" >}}
+Everyone of us gods has declared war.
 ...
-
 We have set ... un the excvation, excessive drudgery has killed us,
 
 [150] our forced labor was heavy, the misery too much!
-Now, everyone of us gods has resolved on a reckoning with Enlil."
+
+Now, everyone of us gods has resolved on a reckoning with Enlil.
+{{< /r >}}
+
 
 [The great gods decide to create man, to relieve the lower gods from their misery.]
 

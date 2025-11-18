@@ -18,19 +18,16 @@ In this love there is no desire; it is nothing but pure love of the Lotus Feet o
 "There is another kind of love, known as urjhitabhakti, an ecstatic love of God that
 overflows, as it were. When it is awakened, the devotee 'laughs and weeps and dances and sings'. Chaitanyadeva is an example of this love. Rāma said to Lakshmana, 'Brother, if anywhere you see the manifestation of urjhita bhakti, know for certain that I am there.'"
 
-GIRlSH: "Everything is possible through your grace. What was I before? And see what I
-am now."
 
-MASTER: "You had latent tendencies; so they are manifesting themselves now. Nothing
-happens except at the proper time. Take the case of a patient. Nature has almost cured
-him, when the physician prescribes a herb and asks him to drink its juice. After taking
-the medicine he is completely cured. Now, is the patient cured by the medicine, or does
+{{< r a="Girish" >}}
+Everything is possible through your grace. What was I before? See what I am now.
+{{< /r >}}
+
+
+MASTER: "You had latent tendencies; so they are manifesting themselves now. Nothing happens except at the proper time. Take the case of a patient. Nature has almost cured him, when the physician prescribes a herb and asks him to drink its juice. After taking the medicine he is completely cured. Now, is the patient cured by the medicine, or does
 he get well by himself? Who can tell?
 
-"Lakshmana said to Lava and Kusa: 'You are mere children; you don't know Rāma's
-power. At the touch of His feet, Ahalyā, who had been turned into a stone, got back her
-human form.' Lava and Kusa said: 'Revered sir, we know that. We have heard the story.
-The stone became Ahalyā because of the power of the holy man's words. The sage
+"Lakshmana said to Lava and Kusa: 'You are mere children; you don't know Rāma's power. At the touch of His feet, Ahalyā, who had been turned into a stone, got back her human form.' Lava and Kusa said: 'Revered sir, we know that. We have heard the story. The stone became Ahalyā because of the power of the holy man's words. The sage
 
 Gautama said to her: "In the Tretayuga, Rāma will pass this hermitage. You will become
 Hanuman being again at the touch of His feet."' Now, who can tell whether the miracle
@@ -41,8 +38,11 @@ holiness?
 awakened at this place, know that I am only an instrument. 'Uncle Moon is everybody's
 uncle.' All happens by the will of God."
 
-GIRISH (smiling): "Did you say 'by the will of God'? What I am saying is the very same
-thing." (All laugh.)
+{{< r a="Girish" >}}
+(smiling): "Did you say 'by the will of God'? What I am saying is the very same thing.
+{{< /r >}}
+
+(All laugh.)
 
 MASTER (to Girish): "By being guileless one can speedily realize God. There are several
 kinds of people who do not attain divine knowledge. First, a man with a perverse mind;
@@ -84,7 +84,10 @@ am Brahman.'
 
 ## Two paths of Brahmajnana
 
-A DEVOTEE: "Then shall we all follow the path of reasoning?"
+{{< r a="Devotee" >}}
+Then shall we all follow the path of reasoning?
+{{< /r >}}
+
 
 MASTER: "Reasoning is one of the paths; it is the path of the Vedantists. But there is
 another path, the path of bhakti. If a bhakta, weeps longingly for the Knowledge

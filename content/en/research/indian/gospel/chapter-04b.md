@@ -12,12 +12,12 @@ description: "Perform your duties in an unselfish spirit"
 a picture?
 {{< /l >}}
 
-
-M: "I shall try to get one."
+{{< r a="M" >}}
+I shall try to get one.
+{{< /r >}}
 
 As evening came on, the temples were lighted up. Sri Ramakrishna was seated on his small couch, meditating on the Divine Mother. Then he chanted the names of God. Incense was burnt in the room, where an oil lamp had been lighted. Sounds of conch-shells and gongs came floating on the air as the evening worship began in the temple of
 Kāli. The light of the moon flooded all the quarters. The Master again spoke to M.
-
 
 
 ## God and worldly duties
@@ -26,20 +26,32 @@ Kāli. The light of the moon flooded all the quarters. The Master again spoke to
 Perform your duties in an unselfish spirit. The work that Vidyasagar is engaged in is very good. Always try to perform your duties without desiring any result.
 {{< /l >}}
 
-M: "Yes, sir. But may I know if one can realize God while performing one's duties? Can 'Rama' and 'desire' coexist? The other day I read in a Hindi couplet: 'Where Rama is, there desire cannot be; where desire is, there Rama cannot be.' "
+{{< r a="M" >}}
+Yes, sir. But may I know if one can realize God while performing one's duties? Can 'Rama' and 'desire' coexist? The other day I read in a Hindi couplet: 'Where Rama is, there desire cannot be; where desire is, there Rama cannot be.'
+{{< /r >}}
 
-MASTER: "All, without exception, perform work. Even to chant the name and glories of God is work, as is the meditation of the non-dualist on 'I am He'. Breathing is also an activity. There is no way of renouncing work altogether. So do your work, but
-surrender the result to God." 
 
-M: "Sir, may I make an effort to earn more money?"
+MASTER: "All, without exception, perform work. Even to chant the name and glories of God is work, as is the meditation of the non-dualist on 'I am He'. Breathing is also an activity. There is no way of renouncing work altogether. So do your work, but surrender the result to God." 
+
+{{< r a="M" >}}
+Sir, may I make an effort to earn more money?
+{{< /r >}}
+
 
 MASTER: "It is permissible to do so to maintain a religious family. You may try to increase your income, but in an honest way. The goal of life is not the earning of money, but the service of God. Money is not harmful if it is devoted to the service of God."
 
-M: "How long should a man feel obliged to do his duty toward his wife and children?"
+
+{{< r a="M" >}}
+How long should a man feel obliged to do his duty toward his wife and children?
+{{< /r >}}
+
 
 MASTER: "As long as they feel pinched for food and clothing. But one need not take the responsibility of a son when he is able to support himself. When the young fledgling learns to pick its own food, its mother pecks it if it comes to her for food." 
 
-M: "How long must one do one's duty?"
+{{< r a="M" >}}
+How long must one do one's duty?
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 The blossom drops off when the fruit appears. One doesn't have to do one's duty after the attainment of God, nor does one feel like doing it then. 
@@ -53,7 +65,10 @@ Finish the few duties you have at hand, and then you will have peace. When the m
 
 ## Different groups of devotees
 
-M: "Sir, what is the meaning of the realization of God? What do you mean by God-vision? How does one attain it?"
+{{< r a="M" >}}
+Sir, what is the meaning of the realization of God? What do you mean by God-vision? How does one attain it?
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 According to the Vaishnavas the aspirants and the seers of God may be divided into different groups. These are the pravartaka, the sadhaka, the siddha, and the siddha of the siddha.
@@ -86,17 +101,16 @@ Sakhya, the attitude of friendship. Friends say to one another, 'Come here and s
 
 Vātsalya, the attitude of a mother toward her child. 
 
-This was Yaśoda's attitude toward Krishna. The wife, too, has a little of this. She feeds her husband with her very life-
-blood, as it were. The mother feels happy only when the child has eaten to his heart's content. Yaśoda would roam about with butter in her hand, in order to feed Krishna. "Madhur, the attitude of a woman toward her paramour. Radha had this attitude toward Krishna. The wife also feels it for her husband. This attitude includes all the other four."
+This was Yaśoda's attitude toward Krishna. The wife, too, has a little of this. She feeds her husband with her very life-blood, as it were. The mother feels happy only when the child has eaten to his heart's content. Yaśoda would roam about with butter in her hand, in order to feed Krishna. "Madhur, the attitude of a woman toward her paramour. Radha had this attitude toward Krishna. The wife also feels it for her husband. This attitude includes all the other four."
 
-M: "When one sees God does one see Him with these eyes?"
+
+{{< r a="M" >}}
+When one sees God does one see Him with these eyes?
+{{< /r >}}
 
 
 {{< l a="Ramakrishna" >}}
-God cannot be seen with these physical eyes. In the course of spiritual discipline one gets a 'love body', endowed with 'love eyes', 'love ears', and so on. One sees God with those 'love eyes'. One hears the voice of God with those 'love ears'. One even gets a sexual organ made of love."
-
-At these words M. burst out laughing. The Master continued, unannoyed, "With this
-'love body' the soul communes with God."
+God cannot be seen with these physical eyes. In the course of spiritual discipline one gets a 'love body', endowed with 'love eyes', 'love ears', and so on. One sees God with those 'love eyes'. One hears the voice of God with those 'love ears'. One even gets a sexual organ made of love." At these words M. burst out laughing. The Master continued, unannoyed, "With this 'love body' the soul communes with God."
 {{< /l >}}
 
 M. again became serious.
@@ -116,7 +130,10 @@ remarked that too much thinking about God confounds the brain. Thereupon I said 
 {{< /l >}}
 
 
-M: "Yes, sir, I realize that. It isn't like thinking of an unreal object. How can a man lose his intelligence if he always fixes his mind on Him whose very nature is eternal Intelligence?"
+{{< r a="M" >}}
+Yes, sir, I realize that. It isn't like thinking of an unreal object. How can a man lose his intelligence if he always fixes his mind on Him whose very nature is eternal Intelligence?"
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 (with pleasure): "It is through God's grace that you understand that. The doubts of the mind will not disappear without His grace. Doubts do not disappear without Self-realization.
@@ -126,10 +143,13 @@ M: "Yes, sir, I realize that. It isn't like thinking of an unreal object. How ca
 But this grace descends upon him only after he has prayed to God with intense yearning of heart and practised spiritual discipline. The mother feels compassion for her child when she sees him running about breathlessly. She has been hiding herself; now she appears before the child."
 {{< /l >}}
 
+{{< r a="M" >}}
+(thinking) But why should God make us run about?
+{{< /r >}}
 
-"But why should God make us run about?" thought M
+Immediately Sri Ramakrishna said: 
 
-Immediately Sri Ramakrishna said: "It is His will that we should run about a little. Then it is great fun. God has created the world in play, as it were. This is called Mahamaya, the Great Illusion. Therefore one must take refuge in the Divine Mother, the Cosmic Power Itself.
+It is His will that we should run about a little. Then it is great fun. God has created the world in play, as it were. This is called Mahamaya, the Great Illusion. Therefore one must take refuge in the Divine Mother, the Cosmic Power Itself.
 
 It is She who has bound us with the shackles of illusion. The realization of God is possible only when those shackles are severed." 
 
@@ -162,4 +182,6 @@ I passed two years as the handmaid and companion of the Divine Mother. But my na
 
 After attaining God one forgets His external splendour; the glories of His creation. One doesn't think of God's glories after one has seen Him. The devotee, once immersed in God's Bliss, doesn't calculate any more about outer things. When I see Narendra, I don't need to ask him: 'What's your name? Where do you live?' Where is the time for such questions? Once a man asked Hanuman which day of the fortnight it was. 
 
-'Brother,' said Hanuman, 'I don't know anything of the day of the week, or the fortnight, or the position of the stars. I think of Rama alone.' "
+{{< r a="Hanuman" >}}
+Brother, I don't know anything of the day of the week, or the fortnight, or the position of the stars. I think of Rama alone.
+{{< /r >}}

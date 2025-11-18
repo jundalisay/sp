@@ -96,7 +96,10 @@ A boy six or seven years old entered the room. The Master himself became like a 
 He covered the contents of the basket with the palm or his hand, as a child does to conceal sweets from another child lest the latter should snatch them. Then he put the basket aside.
 
 Suddenly the Master went into samādhi and sat thus a long time. His body was transfixed, his eyes wide open and unwinking, his breathing hardly perceptible. After a long time he drew a deep breath, indicating his return to the world of sense.
-Vision of Divine Mother
+
+
+## Vision of Divine Mother
+
 
 MASTER (to Prankrishna): "My Divine Mother is not only formless, She has forms as well. 
 
@@ -110,11 +113,9 @@ One can see Her forms. One can behold Her incomparable beauty through feeling an
 
 "Haladhāri used to say that God is beyond both Being and Non-being. I told the Mother about it and asked Her, 'Then is the divine form an illusion?' The Divine Mother appeared to me in the form of Rati's mother and said, 'Do thou remain in Bhāva ' I repeated this to Haladhāri.
 
-Now and then I forget Her command and suffer. Once I broke my teeth because I didn't remain in bhava. So I shall remain in bhava unless I receive a revelation from heaven or have a direct experience to the contrary. I shall follow the path of love. What do you say?"
+Now and then I forget Her command and suffer. Once I broke my teeth because I didn't remain in bhava. So I shall remain in bhava unless I receive a revelation from heaven or have a direct experience to the contrary. I shall follow the path of love.
 
-PRANKRISHNA: "Yes, sir."
-
-MASTER: "But why should I ask you about it? There is Someone within me who does all these things through me. At times I used to remain in a mood of Godhood and would enjoy no peace of mind unless I was being worshipped.
+But why should I ask you about it? There is Someone within me who does all these things through me. At times I used to remain in a mood of Godhood and would enjoy no peace of mind unless I was being worshipped.
 
 "I am the machine and God is the Operator. I act as He makes me act. I speak as He makes me speak. Keep your raft, says Ramprasad, afloat on the sea of life, Drifting up with the flood-tide, drifting down with the ebb.
 
@@ -124,17 +125,12 @@ MASTER: "But why should I ask you about it? There is Someone within me who does 
 
 "Hanuman once said to Rama: 'O Rama, I have taken refuge in Thee. Bless me that I may have pure devotion to Thy Lotus Feet and that I may not be caught in the spell of Thy world-bewitching maya.'
 
-"Once a dying bullfrog said to Rama: 'O Rama, when caught by a snake I cry for Your
-protection. But now I am about to die, struck by Your arrow. Hence I am silent.'
-God's nature like that of a child
+"Once a dying bullfrog said to Rama: 'O Rama, when caught by a snake I cry for Your protection. But now I am about to die, struck by Your arrow. Hence I am silent.' 
+
+
+### God's nature like that of a child
 
 "I used to see God directly with these very eyes, just as I see you. Now I see divine
 visions in trance.
 
-"After realizing God a man becomes like a child. One acquires the nature of the object
-one meditates upon. The nature of God is like that of a child. As a child builds up his
-toy house and then breaks it down, so God acts while creating, preserving, and
-destroying the universe. Further, as the child is not under the control of any guna, so
-God is beyond the three gunas-sattva, rajas, and tamas. That is why paramahamsas
-keep five or ten children with them, that they may assume their nature."
-
+"After realizing God a man becomes like a child. One acquires the nature of the object one meditates upon. The nature of God is like that of a child. As a child builds up his toy house and then breaks it down, so God acts while creating, preserving, and destroying the universe. Further, as the child is not under the control of any guna, so God is beyond the three gunas-sattva, rajas, and tamas. That is why paramahamsas keep five or ten children with them, that they may assume their nature."

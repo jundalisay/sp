@@ -8,14 +8,20 @@ description: "To avenge Apsu, Tiamat planned evil"
 
 
 
-Gaga went, he took his way and humbly before Lahmu and Lahamu, the gods, his fathers,
-He made obeisance, and he kissed the ground at their feet.
+Gaga went, he took his way and humbly before Lahmu and Lahamu, the gods, his fathers, He made obeisance, and he kissed the ground at their feet.
 
 He humbled himself. Then he stood up and spake unto them saying:
 
+{{< r a="Gaga" >}}
+Ansar, your son, hath sent me, [He repeats Tiamat's plot]
 
-"Ansar, your son, hath sent me, [He repeats Tiamat's plot]
+I sent Anu, but he could not withstand her; Nudimmud was afraid and turned back.
 
+But Marduk hath set out, the director of the gods, your son;
+To set out against Tiamat his heart hath prompted him.
+
+He told me:
+{{< /r >}}
 
 <!-- The purpose of his heart he hath made known unto me. He saith that Tiamat our mother hath conceived a hatred for us, With all her force she rageth, full of wrath.
 
@@ -65,44 +71,29 @@ Now Kingu, thus exalted, having received the power of Anu, decreed the fate for 
 Whoso is exalted in the battle, let him display his might!' -->
 
 
-I sent Anu, but he could not withstand her; Nudimmud was afraid and turned back.
-
-But Marduk hath set out, the director of the gods, your son;
-To set out against Tiamat his heart hath prompted him.
-
-He opened his mouth and spake unto me, saying:
 
 
-{{< q >}}
-'If I, your avenger, conquer Tiamat and give you life,
-Appoint an assembly, make my fate preeminent and proclaim it.
+{{< l a="Marduk" >}}
+If I, your avenger, conquer Tiamat and give you life, appoint an assembly. Make my fate preeminent and proclaim it.
 
-In Upsukkinaku seat yourselves joyfully together;
-With my word in place of you will I decree fate.
-May, whatsoever I do remain unaltered,
-May the word of my lips never be changed nor made of no avail.'
+In Upsukkinaku seat yourselves joyfully together; With my word in place of you will I decree fate. May, whatsoever I do remain unaltered, may the word of my lips never be changed nor made of no avail.
 
-Hasten, therefore, and swiftly decree for him the fate which you bestow,
-That he may go and fight your strong enemy!
-{{< /q >}}
+Hasten, therefore, and swiftly decree for him the fate which you bestow, that he may go and fight your strong enemy!
+{{< /l >}}
 
 
 Lahmu and Lahamu heard and cried aloud
 
-All of the Igigi [The elder gods] wailed bitterly, saying:
+<!-- [The elder gods] -->
+All of the Igigi wailed bitterly, saying:
 
 What has been altered so that they should we do not understand the deed of Tiamat!
 
-Then did they collect and go,
-The great gods, all of them, who decree fate.
-They entered in before Ansar, they filled...
-They kissed one another, in the assembly...;
+Then did they collect and go, the great gods, all of them, who decree fate.
+They entered in before Ansar, they filled... they kissed one another, in the assembly...
+They made ready for the feast, at the banquet they sat; they ate bread, they mixed sesame-wine.
 
-They made ready for the feast, at the banquet they sat;
-They ate bread, they mixed sesame-wine.
-
-The sweet drink, the mead, confused their...
-They were drunk with drinking, their bodies were filled.
+The sweet drink, the mead, confused their... they were drunk with drinking, their bodies were filled.
 
 They were wholly at ease, their spirit was exalted;
 Then for Marduk, their avenger, did they decree the fate.

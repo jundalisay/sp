@@ -6,7 +6,6 @@ description: "Some Margii brothers were also pressing me to file an appeal"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
@@ -30,11 +29,17 @@ While I was thus engaged in deliberation of this nature the pressure on me to ap
 
 That day in the evening when I went to Baba, after my pranam Baba asked:
 
-"Why are you not filing an appeal?"
+{{< l a="Baba" >}}
+Why are you not filing an appeal?
+{{< /l >}}
+
 
 I asked in a subdued tone whether I had any right to appeal.
 
-Baba said, "I know everything. This is my order that you should file an appeal."
+{{< l a="Baba" >}}
+I know everything. This is my order that you should file an appeal.
+{{< /l >}}
+
 
 Now that it was Baba’s order, there was no alternative left for me. Finally I prepared the draft of an appeal and took it to Baba for approval. Baba looked at it and said it was all right. He asked me to despatch it and then to follow it up like an ordinary person, at every office. 
 
@@ -42,37 +47,55 @@ I requested Baba to exempt me from the effort of pursuing it through the offices
 
 I was not accustomed to do this and would not be able to do it now.
 
-But Baba was adamant. He said, "It is my order."
+But Baba was adamant.
+
+{{< l a="Baba" >}}
+It is my order
+{{< /l >}}
 
 I had to keep quiet as it went against the grain to disobey him. I sent the appeal and after a week I set out to push the issue through the various offices.
 
 Before leaving Jamalpur that evening I went for Baba’s darshan and I told Baba that I was leaving for Patna and Delhi the next day. It was possible that I might be requested to stay in Patna for some time, and I would start for Delhi after my appeal has been moved up from there.
 
-Baba said:
+{{< l a="Baba" >}}
+That is alright. Go and only come back with the orders
+{{< /l >}}
 
-"That is alright. Go and only come back with the orders."I told Baba that it was not within my powers to get the orders issued, but I will try as far as possibas per your instruction.
+I told Baba that it was not within my powers to get the orders issued, but I will try as far as possibas per your instruction.
 
-Baba said:
+{{< l a="Baba" >}}
+You would not return unless you have talked to me
+{{< /l >}}
 
-"You would not return unless you have talked to me".
+{{< r a="Nagina" >}}
+Kindly let me know the number of the telephone where I could contact you
+{{< /r >}}
 
-I said: 
+Baba laughed and asked:
 
-"Kindly let me know the number of the telephone where I could contact you."
+{{< l a="Baba" >}}
+So you would ask me on telephone?
+{{< /l >}}
 
-Baba laughed and asked, "So you would ask me on telephone?"
+{{< r a="Nagina" >}}
+How else could I do so?
+{{< /r >}}
 
-I enquired, "How else could I do so?"
-
-Baba replied, "Ask me in meditation".
-
-I was somewhat surprised and enquired, “Is it was possible to talk to you during meditation?”
-
-He said, "Yes, you will get my voice in the same manner as you get it on the
-phone".
+{{< l a="Baba" >}}
+Ask me in meditation
+{{< /l >}}
 
 
-### BABA ORDERS ME TO PATNA AND DELHI TO PURSUE MY APPEAL
+{{< r a="Nagina" >}}
+Is it was possible to talk to you during meditation?”
+{{< /r >}}
+
+{{< l a="Baba" >}}
+Yes, you will get my voice in the same manner as you get it on the phone
+{{< /l >}}
+
+
+## Baba Orders Me To Patna And Delhi To Pursue My Appeal
 
 The next day I started for Patna and in Patna I stayed with one of my colleagues. While staying there I began to try so that my appeal may be sent to Delhi at an early date. It took more than a weak for my appeal to move out of Patna to Delhi. 
 
@@ -95,25 +118,27 @@ The attendant asked many leading and prompting questions, but I do not know what
 He reminded me that I had intended to stay for a full month and it was only three days since I came and I was already talking of leaving. He enquired whether some
 emergency occurred?.
 
-I said, “Yes it was like that. Please pack quickly!”The attendant said, "Sir, you have a hundred restrictions on your food and on the way you will not get vegetables without onions and garlic. I shall, therefore, see if there is some food fit for you in the hotel, so that you may take your food here. 
+{{< r a="Nagina" >}}
+Yes it was like that. Please pack quickly!
+{{< /r >}}
 
-While you have your lunch I shall pack up your luggage”.
+{{< l a="Attendant" >}}
+Sir, you have a hundred restrictions on your food and on the way you will not get vegetables without onions and garlic. I shall, therefore, see if there is some food fit for you in the hotel, so that you may take your food here.  While you have your lunch I shall pack up your luggage
+{{< /l >}}
 
 Thus saying he rushed and brought for me some chapatis and vegetables without onion or garlic. I started eating as if spell-bound and the attendant began to pack up my luggage.
-By the time I had finished eating, he had packed up my things and brought my
-hotel bill. I paid the bill and he ordered a taxi for me. 
 
-Then I paid him a two rupees tip. 
+By the time I had finished eating, he had packed up my things and brought my hotel bill. I paid the bill and he ordered a taxi for me. 
+
+Then I paid him a 2 rupees tip. 
 
 He asked me whether I remembered everything I had brought and had I left anything behind? He was indeed very helpful. I had not even checked up what he had packed. 
 
-Then he himself enquired. "Sir, there will not be any reservation with you, will it
-then be possible for you to board the train? If you like I shall got to the station with you
-and manage some berth for you, so that you may spend the journey in rest."
+{{< l a="Attendant" >}}
+Sir, there will not be any reservation with you, will it then be possible for you to board the train? If you like I shall got to the station with you and manage some berth for you, so that you may spend the journey in rest.
+{{< /l >}}
 
-I thought that perhaps, he was not satisfied with the tip and therefore wanted to
-go up to the station. I thought over the matter and decided that he would be a useful
-assistance at the station and therefore asked him to accompany me up to the station.
+I thought that perhaps, he was not satisfied with the tip and therefore wanted to go up to the station. I thought over the matter and decided that he would be a useful assistance at the station and therefore asked him to accompany me up to the station.
 
 At Delhi station as he took down my luggage he enquired about the class that I would travel. I replied that I would travel by Inter Class. He asked me to go and purchase the ticket while he would go to find some berth for me so that I could lie on it. 
 
@@ -122,20 +147,21 @@ train.
 
 When I came back with the ticked and reached the Inter-Class compartment I found that the attendant was eagerly waiting for me. 
 
-He said, "Sir, I have found a berth for you and I have spread your bedding on it.
+{{< l a="Attendant" >}}
+Sir, I have found a berth for you and I have spread your bedding on it. I have also taken out clothes for changing during the journey
+{{< /l >}}
 
-I have also taken out clothes for changing during the journey."
-
-He asked me to go into the bathroom and change and occupy the berth otherwise if someone comes and sits here it would be difficult to remove him. I did as
-he suggested and changed my clothes. He put my clothes in the suitcase and then I
+He asked me to go into the bathroom and change and occupy the berth otherwise if someone comes and sits here it would be difficult to remove him. I did as he suggested and changed my clothes. He put my clothes in the suitcase and then I
 occupied my seat. Meanwhile he rushed and brought a magazine for my reading during
-the journey. He gave it to me and said, "Sir, read it during your journey."
-Really, after I left the hotel things were happening almost automatically. It
-appeared that this bearer was some old family assistant of ours who knew every habit
-of mine so thoroughly. He persuaded me to lie down, which I did. Before lying down I
-have him a further tip of five rupees, which he accepted after long persuasion. He
-stood in the compartment as long as the train did not start. When the train started he
-saluted me and left.
+the journey. 
+
+He gave it to me and said:
+
+{{< l a="Attendant" >}}
+Sir, read it during your journey
+{{< /l >}}
+
+Really, after I left the hotel things were happening almost automatically. It appeared that this bearer was some old family assistant of ours who knew every habit of mine so thoroughly. He persuaded me to lie down, which I did. Before lying down I have him a further tip of five rupees, which he accepted after long persuasion. He stood in the compartment as long as the train did not start. When the train started he saluted me and left.
 
 For sometime I turned the pages of the magazine and then began to read it.
 
@@ -156,34 +182,68 @@ At first I thought that I should stay in Patna for sometime and then go to Jamal
 I was late in rising in the morning and therefore could not go to Baba's darshan,
 but that evening as I reached His residence and did my pranam, Baba enquired: "How
 did you find Delhi? like a snake or scorpion?"
-I got up and told Baba, “Delhi was so bad, why did You send me there?”
-Baba said, "You took this demotion as if nothing has happened to you."
-I said: "Baba all this is due to the grace of your Lotus Feet."
+
+I got up and told Baba:
+
+{{< r a="Nagina" >}}
+Delhi was so bad, why did You send me there?
+{{< /r >}}
+
+{{< l a="Baba" >}}
+You took this demotion as if nothing has happened to you
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+Baba all this is due to the grace of your Lotus Feet
+{{< /r >}}
+
 Thereafter Baba started for His walk and I accompanied Him, anxious to find an
 opportunity to ask Baba how I left the Delhi hotel?
 But Baba was talking about something or the other and I was not getting an
 opportunity to ask Him.
-Then Baba enquired, "Nagina, did you ever ride a horse?" I replied in the
-affirmative.
-Baba said, "If the horse is a strong and fast one and the rider lets go the reins
-after spurring him on, what will happen?"
-I replied, “Baba, both the horse and the rider will fall."
-Baba then asked, "If the horse is running fast and you suddenly pull the reins?”
-I replied, “In this circumstance also the horse and the rider both will fall.”
-Then Baba enquired, "Who is then to be blamed? The rider or the horse?"
-I said, "Baba, the fault is with the rider who does not know the correct use of the
-reins".
-At this Baba said, "If you had ordered meat, drink and cigarettes in the hotel,
-what was the need of my presence? I left you for a minute and you were tottering in
-just a moment".
-I enquired most innocently: "Baba, can this happen?" "Baba replied: "Yes!” and
-then he kept quiet.
 
-After he had walked some more distance, Baba said, "Nagina, there is a story
-with a moral. Listen!
+{{< l a="Baba" >}}
+Nagina, did you ever ride a horse?
+{{< /l >}}
 
-When Draopadii was being stripped she was protecting her garments with one
-hand and with the other she was pulling the garments to herself asking for justice fromall these present in the hall. 
+I replied in the affirmative.
+
+{{< l a="Baba" >}}
+If the horse is a strong and fast one and the rider lets go the reins after spurring him on, what will happen?
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+Baba, both the horse and the rider will fall.
+{{< /r >}}
+
+{{< l a="Baba" >}}
+If the horse is running fast and you suddenly pull the reins?
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+In this circumstance also the horse and the rider both will fall.
+{{< /r >}}
+
+{{< l a="Baba" >}}
+Who is then to be blamed? The rider or the horse?
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+Baba, the fault is with the rider who does not know the correct use of the reins
+{{< /r >}}
+
+{{< l a="Baba" >}}
+If you had ordered meat, drink and cigarettes in the hotel, what was the need of my presence? I left you for a minute and you were tottering in just a moment
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+Baba, can this happen?
+{{< /r >}}
+
+{{< l a="Baba" >}}
+Yes!
+
+Nagina, there is a story with a moral. Listen! When Draopadii was being stripped she was protecting her garments with one hand and with the other she was pulling the garments to herself asking for justice fromall these present in the hall. 
 
 At that time Krsna was sitting in Dwaraka with His wife. His wife reminded him that his sister was being insulted in Hastinapur and He was sitting there. Krsna kept quiet, he did not reply. When Draopadii got no aid from those present in the meeting, she began to cry ‘Krsna? Krsna!’ Even now both her hands were clutching the garments. 
 
@@ -196,15 +256,19 @@ She was already perplexed and lost. Now finding herself quite helpless she raise
 At this juncture the miracle of the infinite growth of the garment began to take place.
 
 When Draopadii fully surrendered the responsibility fell fully on Krishna."
+{{< /l >}}
+
 
 Thus I got the reply to all my questions without asking them.
 
-I then asked Baba, "This means where the disciple ends there the guru
-begins?"
+{{< r a="Nagina" >}}
+This means where the disciple ends there the guru begins?
+{{< /r >}}
 
-Baba said, "Yes, when a person loses confidence in his own power and intellect
-and when he surrenders himself fully before God, then the responsibility shifts to the
-Almighty."
+
+{{< l a="Baba" >}}
+Yes, when a person loses confidence in his own power and intellect and when he surrenders himself fully before God, then the responsibility shifts to the Almighty.
+{{< /l >}}
 
 By then Baba had reached almost to the middle of the field. Here Baba said so many other things about Delhi. 
 

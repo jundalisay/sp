@@ -7,8 +7,7 @@ description: "O Marduk, thou art chiefest among the great gods, your fate is une
 ---
 
 
-They prepared for him a lordly chamber,
-Before his fathers as prince he took his place.
+They prepared for him a lordly chamber, before his fathers as prince he took his place.
 
 
 <!-- "You are chiefest among the great gods, Your fate is unequaled, thy word is Anu! -->
@@ -22,7 +21,7 @@ None among the gods shall transgress thy boundary.
 
 Abundance, the desire of the shrines of the gods, shall be established in thy sanctuary, even though they lack offerings.
 
-O Marduk, thou art our avenger!
+O Marduk, you are our avenger!
 
 We give you sovereignty over the whole world.
 
@@ -33,13 +32,10 @@ Thy weapon shall never lose its power; it shall crush thy foe.
 O Lord, spare the life of him that putteth his trust in thee, But as for the god who began the rebellion, pour out his life."
 
 
-Then set they in their midst a garment, And unto Marduk,- their first-born they spake:
+Then set they in their midst a garment, And unto Marduk, their first-born they spake:
 
-"May your fate, O lord, be supreme among the gods, To destroy and to create; speak thou the word, and thy command shall be fulfilled.
+"May your fate, O lord, be supreme among the gods, To destroy and to create; speak thou the word, and thy command shall be fulfilled. Command now and let the garment vanish; And speak the word again and let the garment reappear!"
 
-Command now and let the garment vanish;
-
-And speak the word again and let the garment reappear!
 
 Then he spake with his mouth, and the garment vanished.
 
