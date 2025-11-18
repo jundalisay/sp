@@ -12,6 +12,73 @@ writer:
 ---
 
 
+
+## PART I The Marxian Doctrine
+
+MOST of the creations of the intellect or fancy pass away for good after an hour or a generation. 
+
+Some, however, do not. They suffer eclipses but they come back again. They come back not as unrecognizable elements of a cultural inheritance.
+
+<!--  but in their individual garb and with their personal scars which people may see
+and touch.  -->
+
+These are the great ones. This is applicable to the message of Marx.
+
+<!-- —it is no disadvantage of
+this definition that it links greatness to vitality. Taken in this sense, this is
+undoubtedly the word to apply to . But there is an
+additional advantage to defining  -->
+
+But greatness by revivals makes it independent of our love or hate. 
+
+<!-- We need not believe that a great achievement must necessarily be a source of light or faultless in either
+fundamental design or details. On the contrary, we may believe it to be a -->
+
+A great achievement might be from a power of darkness.
+
+<!-- we may think it fundamentally wrong or disagree with
+it on any number of particular points.  -->
+
+In the case of the Marxian system, such adverse judgment or even disproof, by its very failure to injure
+fatally, only serves to bring out the power of the structure.
+
+The last twenty years have witnessed a most interesting Marxian revival.
+
+The great teacher of the socialist creed came into his own in Soviet Russia.
+
+<!--  is not surprising. And it is only characteristic of such
+processes of canonization that there is, between the true meaning of Marx’s
+message and bolshevist practice and ideology, at least as great a gulf as there
+was between the religion of humble Galileans and the practice and ideology
+of the princes of the church or the warlords of the Middle Ages. -->
+
+The Marxian revival in the United States is less easy to explain.
+
+<!-- This phenomenon is so interesting because  -->
+
+Until the twenties, there was no Marxian strain of importance in either the American labor movement or in the thought of the American intellectual. 
+
+What Marxism there was always had been superficial, insignificant and without standing.
+
+<!-- Moreover, the bolshevist type of revival produced no similar spurt in those
+countries which had previously been most steeped in Marxology. 
+
+(not only those allied to the Social Democratic party but
+also those who went much beyond its cautious conservatism in practical questions)  -->
+
+Germany of all countries had the strongest Marxian tradition.
+
+A small orthodox sect kept alive during the post-war socialist boom as it had during the previous depression. 
+
+But the leaders of socialist thought betrayed little taste for reverting to the old tenets and, while worshiping the deity, took good care to keep it at a distance and to reason in economic matters exactly like other economists.
+
+Outside of Russia, therefore, the American phenomenon stands alone. 
+
+<!-- We are not concerned
+with its causes. But it is worth while to survey the contours and the
+meaning of the message so many Americans have made their own. 1 -->
+
+
 Marxism is a religion.
 
 To the believer it presents:
@@ -115,7 +182,7 @@ But it was not a true formulation of actual feelings, conscious or subconscious.
 
 Marx tried replacing actual feelings by a true or false revelation of the logic of social evolution. 
 
-By doing this and by at tributing—quite unrealistically—to the masses his own shibboleth of “class consciousness,” he undoubtedlyfalsified 
+By doing this and by at tributing—quite unrealistically—to the masses his own shibboleth of “class consciousness,” he undoubtedly falsified 
 
 The true psychology of the workman is that the workman wishes:
 - to become a small bourgeois

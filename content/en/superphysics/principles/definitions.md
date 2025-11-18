@@ -84,7 +84,7 @@ Religion | an organized metaphysical belief system based on limitation due to th
 Riches | the power of acquiring the property of what pleases (David Hume, Treatise Book 2)
 Self | The perception of identity by the same perceiver
 Shiva | “witnessing consciousness”
-Slavery | A regular state of control of another's actions that produces pain
+Slavery | A regular state of control of another's actions that produces perpetual subordination
 Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem
 Soul | a mind that is regarded without its crude parts. This is called atman in Sanskrit.
 Space | the perceptive gap within perception, marked by identities

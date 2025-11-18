@@ -9,12 +9,11 @@ weight: 6
 
 
 WE HAVE now to do a thing which is very objectionable to the faithful.
+
 They naturally resent any application of cold analysis to what for them
 is the very fountain of truth. 
 
-But one of the things they resent most is cutting
-Marx’s work into pieces and discussing them one by one. They would say
-that the very act displays the incapacity of the bourgeois to grasp the
+But one of the things they resent most is cutting Marx’s work into pieces and discussing them one by one. They would say that the very act displays the incapacity of the bourgeois to grasp the
 resplendent whole, all parts of which complement and explain one another,
 so that the true meaning is missed as soon as any one part or aspect is
 considered by itself. 

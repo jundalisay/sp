@@ -8,64 +8,61 @@ weight: 25
 ---
 
 
+The theories of monopolistic and oligopolistic competition show in 2 ways that capitalism is unfavorable to maximum performance in production.
 
-The theories of monopolistic and oligopolistic competition and their
-popular variants may in two ways be made to serve the view that
-capitalist reality is unfavorable to maximum performance in production.
+1. A belief that it always has been so.
 
-One may hold that it always has been so and that all along output has been
-expanding in spite of the secular sabotage perpetrated by the managing
-bourgeoisie. Advocates of this proposition would have to produce evidence
-to the effect that the observed rate of increase can be accounted for by a
-sequence of favorable circumstances unconnected with the mechanism of
-private enterprise and strong enough to overcome the latter’s resistance.
+This believes that output has been expanding despite the secular sabotage from the managing bourgeoisie. 
 
-This is precisely the question which we shall discuss in Chapter 9.
+Advocates of this proposition would have to produce evidence that the rate of increase is from favorable circumstances unconnected with private enterprise, strong enough to overcome the latter’s resistance.
+
+<!-- This is precisely the question which we shall discuss in Chapter 9. -->
+
+<!-- However, those who espouse this variant at least avoid the trouble about historical fact that the advocates of the alternative proposition have to face. -->
+
+2. Capitalism once favored maximum productive performance but the later spread of monopolist structures killed competition, reversing that tendency.
+
+<!-- , or at all events productive performance so considerable as to
+constitute a major element in any serious appraisal of the system;  -->
+
+This belief involves the ideas that:
+- the creation of an imaginary golden age of perfect competition that at some time somehow metamorphosed itself into the monopolistic age.
+- the rate of increase in output did not decrease from the nineties
+- there was no “break in trend”
+- most importantly, the modern standard of life of the masses evolved during the period of relatively unfettered “big business.”
+
+ <!-- from which, I suppose, the prevalence of the largest-size concerns, at least in manufacturing industry, would have to be dated; that -->
+
+<!-- is nothing in the behavior of the time series of total output to suggest a ; and, most important of all,  -->
+
+If we list the budget items of the modern workman from 1899 based on the hours of labor that will buy them, the rate of the advance was greater than before
+
+<!-- —i.e., each year’s money prices divided by each year’s hourly wage rates—we cannot fail to be struck by 
+
+, considering the spectacular improvement in qualities, seems to have been  and not smaller than it ever was before.  -->
+
+<!--  whereas it is quite clear that perfect competition has
+at no time been more of a reality than it is at present.  -->
 
 
-However, those who espouse this variant at least avoid the trouble about
-historical fact that the advocates of the alternative proposition have to face.
-This avers that capitalist reality once tended to favor maximum productive
-performance, or at all events productive performance so considerable as to
-constitute a major element in any serious appraisal of the system; but that
-the later spread of monopolist structures, killing competition, has by now
-reversed that tendency.
+If we economists were given less to wishful thinking and more to the observation of facts, doubts would immediately arise as to the realistic virtues of a theory that would have led us to expect a very different result.
 
-First, this involves the creation of an entirely imaginary golden age of
-perfect competition that at some time somehow metamorphosed itself into
-the monopolistic age, whereas it is quite clear that perfect competition has
-at no time been more of a reality than it is at present. Secondly, it is
-necessary to point out that the rate of increase in output did not decrease
-from the nineties from which, I suppose, the prevalence of the largest-size
-concerns, at least in manufacturing industry, would have to be dated; that
-there is nothing in the behavior of the time series of total output to suggest
-a “break in trend”; and, most important of all, that the modern standard of
-life of the masses evolved during the period of relatively unfettered “big
-business.” If we list the items that enter the modern workman’s budget and
-from 1899 on observe the course of their prices not in terms of money but
-in terms of the hours of labor that will buy them—i.e., each year’s money
-prices divided by each year’s hourly wage rates—we cannot fail to be struck
-by the rate of the advance which, considering the spectacular improvement
-in qualities, seems to have been greater and not smaller than it ever was
-before. If we economists were given less to wishful thinking and more to the observation of facts, doubts would immediately arise as to the realistic virtues of a theory that would have led us to expect a very different result.
-Nor is this all. As soon as we go into details and inquire into the individual
-items in which progress was most conspicuous, the trail leads not to the
-doors of those firms that work under conditions of comparatively free
-competition but precisely to the doors of the large concerns—which, as in
-the case of agricultural machinery, also account for much of the progress in
-the competitive sector—and a shocking suspicion dawns upon us that big
-business may have had more to do with creating that standard of life than
-with keeping it down.
+If we go into details of the individual items, the trail leads not to the firms in free competition but to the large concerns such as agricultural machinery.
 
-The conclusions alluded to at the end of the preceding chapter are in fact
-almost completely false. Yet they follow from observations and theorems that
-are almost completely 1 true. Both economists and popular writers have once
-more run away with some fragments of reality they happened to grasp. These
-fragments themselves were mostly seen correctly. Their formal properties
-were mostly developed correctly. But no conclusions about capitalist reality
-as a whole follow from such fragmentary analyses. If we draw them
-nevertheless, we can be right only by accident. That has been done. And the
-lucky accident did not happen.
+ <!-- also account for much of the progress in the competitive sector—and a shocking suspicion dawns upon us that  -->
+
+It shows that big business created that standard of life instead of keeping it down.*
+
+{{< n n="This is proven by China's state capitalism creating bullet trains, mega dams, electric cars for the benefit of the Chinese people">}}
+
+
+The conclusions at the end of the preceding chapter are almost completely false.
+
+Yet they follow from observations and theorems that are almost completely true. 
+
+Both economists and popular writers have once more run away with some fragments of reality they happened to grasp. These fragments themselves were mostly seen correctly. Their formal properties were mostly developed correctly. But no conclusions about capitalist reality as a whole follow from such fragmentary analyses. If we draw them nevertheless, we can be right only by accident. That has been done. 
+
+The lucky accident did not happen.
 
 The essential point to grasp is that in dealing with capitalism we are
 dealing with an evolutionary process. It may seem strange that anyone can
@@ -161,6 +158,7 @@ administers existing structures, whereas the relevant problem is how it creates
 and destroys them. As long as this is not recognized, the investigator does a
 meaningless job. As soon as it is recognized, his outlook on capitalist
 practice and its social results changes considerably. 3
+
 The first thing to go is the traditional conception of the modus operandi
 of competition. Economists are at long last emerging from the stage in which
 price competition was all they saw. As soon as quality competition and sales
@@ -234,5 +232,3 @@ the case neglects all that is most typically capitalist about it; even if correc
 in logic as well as in fact, it is like Hamlet without the Danish prince.
 inescapable limitations, he can never adapt him self to the methods of competitors who can
 afford to sell at the price at which he buys.
-
-

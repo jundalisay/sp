@@ -1,7 +1,16 @@
+---
+title: "The Gravitational Field of a Mass Point according to Einstein’s Theory"
+# linkTitle: "Einstein"
+heading: "Extremely Weapons-of-Mass-Destruction-Level Unenlightened"
+# date: 2022-07-26
+weight: 2
+description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+a: "Einstein"
+c: "firebrick"
+draft: true
+---
 
 
-
-The Gravitational Field of a Mass Point according to Einstein’s Theory
 
 by K. Schwarzschild
 

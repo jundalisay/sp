@@ -8,49 +8,28 @@ weight: 29
 ---
 
 
-4. Another Marxist doctrine is that in the era of big business, the maintenance of the value of existing investment—conservation of capital—becomes the chief aim of entrepreneurial activity and bids fair to put a stop to all cost-reducing improvement. 
+4. Another Marxist doctrine is that in the era of big business, the chief aim of entrepreneurial activity becomes:
+- the maintenance of the value of existing investment as the conservation of capital
+- stopping all cost-reducing improvement
 
-Hence the capitalist order becomes incompatible with progress.
+Hence, the capitalist order becomes incompatible with progress.
 
-Progress entails destruction of capital values in the strata
-with which the new commodity or method of production competes. In
-perfect competition the old investments must be adapted at a sacrifice or
-abandoned; but when there is no perfect competition and when each
-industrial field is controlled by a few big concerns, these can in various ways
-fight the threatening attack on their capital structure and try to avoid losses
-on their capital accounts; that is to say, they can and will fight progress itself.
+Progress entails destruction of capital values in the strata with which the new commodity or method of production competes.
 
-So far as this doctrine merely formulates a particular aspect of
-restrictive business strategy, there is no need to add anything to the
-argument already sketched in this chapter. Both as to the limits of that
-strategy and as to its functions in the process of creative destruction, we
-should only be repeating what has been said before. This becomes still
-more obvious if we observe that conserving capital values is the same
-thing as conserving profits. Modern theory tends in fact to use the
-concept Present Net Value of Assets (=capital values) in place of the
-concept of Profits. Both asset values and profits are of course not being
-simply conserved but maximized.
+In perfect competition, the old investments must be adapted at a sacrifice or abandoned; but when there is no perfect competition and when each industrial field is controlled by a few big concerns, these can in various ways fight the threatening attack on their capital structure and try to avoid losses on their capital accounts; that is to say, they can and will fight progress itself.
 
-But the point about the sabotage of cost-reducing improvement still calls
-for comment in passing. As a little reflection will show, it is sufficient to
-consider the case of a concern that controls a technological device—some
-patent, say—the use of which would involve scrapping some or all of its
-plant and equipment. Will it, in order to conserve its capital values, refrain
-from using this device when a management not fettered by capitalist
-interests such as a socialist management could and would use it to the
-advantage of all?
+So far as this doctrine merely formulates a particular aspect of restrictive business strategy, there is no need to add anything to the argument already sketched in this chapter. Both as to the limits of that strategy and as to its functions in the process of creative destruction, we should only be repeating what has been said before. This becomes still more obvious if we observe that conserving capital values is the same thing as conserving profits. Modern theory tends in fact to use the concept Present Net Value of Assets (=capital values) in place of the concept of Profits. Both asset values and profits are of course not being simply conserved but maximized.
 
-Again it is tempting to raise the question of fact. The first thing a modern
-concern does as soon as it feels that it can afford it is to establish a research
+But the point about the sabotage of cost-reducing improvement still calls for comment in passing. As a little reflection will show, it is sufficient to consider the case of a concern that controls a technological device—some patent, say—the use of which would involve scrapping some or all of its plant and equipment. Will it, in order to conserve its capital values, refrain from using this device when a management not fettered by capitalist interests such as a socialist management could and would use it to the advantage of all?
+
+The first thing a modern concern does as soon as it feels that it can afford it is to establish a research
 department every member of which knows that his bread and butter depends
 on his success in devising improvements. This practice does not obviously
 suggest aversion to technological progress. Nor can we in reply be referred
 to the cases in which patents acquired by business concerns have not been
 used promptly or not been used at all. For there may be perfectly good
 reasons for this; for example, the patented process may turn out to be no
-good or at least not to be in shape to warrant application on a commercial
-Monopolistic Practices 97
-basis. Neither the inventors themselves nor the investigating economists or
+good or at least not to be in shape to warrant application on a commercial basis. Neither the inventors themselves nor the investigating economists or
 government officials are unbiased judges of this, and from their
 remonstrances or reports we may easily get a very distorted picture. 13
 But we are concerned with a question of theory. Everyone agrees that
@@ -63,25 +42,11 @@ and equipment is entirely written off, whereas socialist management would,
 to the social advantage, replace the old by any new cost-reducing method
 as soon as such a method becomes available, i.e., without regard to capital
 values. This however is not so. 14
-Private management, if actuated by the profit motive, cannot be
-interested in maintaining the values of any given building or machine any
-more than a socialist management would be. All that private management
-tries to do is to maximize the present net value of total assets which is
-equal to the discounted value of expected net returns. This amounts to
-saying that it will always adopt a new method of production which it
-believes will yield a larger stream of future income per unit of the
-corresponding stream of future outlay, both discounted to the present, than
-does the method actually in use. The value of past investment, whether or
-not paralleled by a bonded debt that has to be amortized, does not enter
-at all except in the sense and to the extent that it would also have to enter
-into the calculation underlying the decisions of a socialist management. So
-far as the use of the old machines saves future costs as compared with the
-immediate introduction of the new methods, the remainder of their service
-value is of course an element of the decision for both the capitalist and the
-socialist manager; otherwise bygones are bygones for both of them and any
-attempt to conserve the value of past investment would conflict as much
-with the rules following from the profit motive as it would conflict with
-the rules set for the behavior of the socialist manager.
+
+<!-- Monopolistic Practices 97 -->
+
+Private management, if actuated by the profit motive, cannot be interested in maintaining the values of any given building or machine any more than a socialist management would be. All that private management tries to do is to maximize the present net value of total assets which is equal to the discounted value of expected net returns. This amounts to saying that it will always adopt a new method of production which it believes will yield a larger stream of future income per unit of the corresponding stream of future outlay, both discounted to the present, than does the method actually in use. The value of past investment, whether or not paralleled by a bonded debt that has to be amortized, does not enter at all except in the sense and to the extent that it would also have to enter into the calculation underlying the decisions of a socialist management. So far as the use of the old machines saves future costs as compared with the immediate introduction of the new methods, the remainder of their service value is of course an element of the decision for both the capitalist and the socialist manager; otherwise bygones are bygones for both of them and any attempt to conserve the value of past investment would conflict as much with the rules following from the profit motive as it would conflict with the rules set for the behavior of the socialist manager.
+
 13 Incidentally, it should be noticed that the kind of restrictive practice under discussion,
 granted that it exists to a significant extent, would not be without compensatory effects on
 social welfare. In fact, the same critics who talk about sabotage of progress at the same time
@@ -127,4 +92,3 @@ trying to stifle improvement in order to conserve existing capital values. Yet
 even the most patient of comrades would revolt if a socialist management
 were so foolish as to follow the advice of the theorist and to keep on
 scrapping plant and equipment every year.
-
