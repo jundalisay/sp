@@ -9,65 +9,136 @@ writer:
 ---
 
 
-There are many reasons why I am not grieved, O men of Athens, at the vote of condemnation. 
 
-I expected it, and am only surprised that the votes are so nearly equal. I had thought that the majority against me would have been far larger.
+O men of Athens, there are many reasons why I am not grieved at the vote of condemnation. 
+
+I expected it. I am only surprised that the votes are so nearly equal.
+- I had thought that the majority against me would have been far larger.
 
 But now, had 30 votes gone over to the other side, I should have been acquitted.
 
-I think that I have escaped Meletus
+I think that I have escaped Meletus.
 
-Without the assistance of Anytus and Lycon, anyone may see that he would not have had a fifth part of the votes, as the law requires. In which case he would have incurred a fine of a thousand drachmae.
+Without the assistance of Anytus and Lycon, anyone may see that he would not have had a fifth part of the votes, as the law requires. In which case he would have incurred a fine of 1,000 drachmae.
 
 He proposes death as the penalty.
 
-And what shall I propose on my part, O men of Athens? Clearly that which is my due. And what is my due? 
+What shall I propose on my part, O men of Athens? 
 
-What return shall be made to the man who has never had the wit to be idle during his whole life; but has been careless of what the many care for—wealth, and family interests, and military offices, and speaking in the assembly, and magistracies, and plots, and parties.
+<!-- Clearly that which is my due. And what is my due?  -->
 
-Reflecting that I was really too honest a man to be a politician and live, I did not go where I could do no good to you or to myself; but where I could do the greatest good privately to every one of you, thither I went, and sought to persuade every man among you that he must look to himself, and seek virtue and wisdom before he looks to his private interests, and look to the state before he looks to the interests of the state; and that this should be the order which he observes in all his actions. 
+<!-- What return shall be made to the man  -->
 
-What shall be done to such an one? 
+I have never had the wit to be idle in my whole life.
 
-Doubtless some good thing, O men of Athens, if he has his reward; and the good should be of a kind suitable to him. What would be a reward suitable to a poor man who is your benefactor, and who desires leisure that he may instruct you? 
+But I have been careless of what the many care for:
+- wealth
+- family interests
+- military offices
+- speaking in the assembly
+- magistracies
+- plots and parties
 
-There can be no reward so fitting as maintenance in the Prytaneum, O men of Athens, a reward which he deserves far more than the citizen who has won the prize at Olympia in the horse or chariot race, whether the chariots were drawn by two horses or by many. For I am in want, and he has enough.
+I was really too honest to be a politician.
 
-He only gives you the appearance of happiness, and I give you the reality. And if I am to estimate the penalty fairly, I should say that maintenance in the Prytaneum is the just return.
+I did not go where I could do no good to you or to myself.
 
-Perhaps you think that I am braving you in what I am saying now, as in what I said before about the tears and prayers. But this is not so. I speak rather because I am convinced that I never intentionally wronged any one, although I cannot convince you—the time has been too short; if there were a law at Athens, as there is in other cities, that a capital cause should not be decided in one day, then I believe that I should have convinced you.
+Instead, I went where I could do the greatest good privately to everyone/
 
-But I cannot in a moment refute great slanders; and, as I am convinced that I never wronged another, I will assuredly not wrong myself. I will not say of myself that I deserve any evil, or propose any penalty. Why should I? because I am afraid of the penalty of death which Meletus proposes? 
+I sought to persuade every man that he must:
+- look into himself
+- seek virtue and wisdom before he looks onto his private interests
+- look to the state before he looks to the interests of the state
 
-When I do not know whether death is a good or an evil, why should I propose a penalty which would certainly be an evil? Shall I say imprisonment? 
+**This should be the order which he observes in all his actions.** 
 
-Why should I live in prison, and be the slave of the magistrates of the year—of the Eleven? Or shall the penalty be a fine, and imprisonment until the fine is paid? There is the same objection.
+<!-- What shall be done to such an one? 
 
-I should have to lie in prison, for money I have none, and cannot pay. And if I say exile (and this may possibly be the penalty which you will affix), I must indeed be blinded by the love of life, if I am so irrational as to expect that when you, who are my own citizens, cannot endure my discourses and words, and have found them so grievous and odious that you will have no more of them, others are likely to endure me. 
+Doubtless some good thing, O men of Athens, if he has his reward; and the good should be of a kind suitable to him.  -->
 
-No, men of Athens, that is not very likely.
+What reward is suitable to a poor man who is your benefactor, and who desires leisure that he may instruct you? 
 
-What a life should I lead, at my age, wandering from city to city, ever changing my place of exile, and always being driven out! 
+The best reward, O men of Athens, is maintenance in the Prytaneum.
 
-Wherever I go, there, as here, the young men will flock to me. If I drive them away, their elders will drive me out at their request.
+That is better than winning the prize at Olympia in the horse or chariot race.
 
-If I let them come, their fathers and friends will drive me out for their sakes.
+<!-- , whether the chariots were drawn by two horses or by many.  -->
+
+<!-- For I am in want, and he has enough.
+
+He only gives you the appearance of happiness, and I give you the reality. And if I am to estimate the penalty fairly, I should say that maintenance in the Prytaneum is the just return. -->
+
+<!-- Perhaps you think that I am braving you in what I am saying now, as in what I said before about the tears and prayers. But this is not so.  -->
+
+I speak because I never intentionally wronged anyone.
+
+Although I cannot convince you as the time has been too short.
+
+If there were a law at Athens, as there is in other cities, that a capital cause should not be decided in one day, then I believe that I should have convinced you.
+
+But I cannot in a moment refute great slanders.
+
+<!--  and, as I am convinced that I never wronged another, I will assuredly not wrong myself. I will not say of myself that I deserve any evil, or propose any penalty. Why should I? because I am afraid of the penalty of death which Meletus proposes? 
+
+When I do not know whether death is a good or an evil, why should I propose a penalty which would certainly be an evil? Shall ?  -->
+
+
+I say imprisonment is evil as it lets me be the slave of the magistrates of the year—of the Eleven.
+
+A fine is just as bad if I am imprisoned until the fine is paid. There is the same objection.
+
+<!-- Or shall the penalty be a fine, and -->
+
+I would stay in prison for money I do not have and cannot pay.
+
+You are not likely to exile me as I am blinded by the love of life.
+
+You, my fellow citizens, cannot endure my discourses. Others would not likely endure me
+
+<!-- You would not , and have found them so grievous and odious that you will have no more of them, others are likely to .  -->
+
+I would wander from city to city always being driven out! 
+
+Wherever I go, the young men will flock to me. 
+
+- If I drive them away, their elders will drive me out at their request.
+- If I let them come, their fathers and friends will drive me out for their sakes.
 
 Some one will say: 
 
-Yes, Socrates, but cannot you hold your tongue, and then you may go into a foreign city, and no one will interfere with you? 
+{{< r a="People" >}}
+Yes, Socrates, but cannot you hold your tongue and then go into a foreign city where no one will interfere with you? 
+{{< /r >}}
+
 
 I have great difficulty in making you understand my answer to this.
 
-For if I tell you that to do as you say would be a disobedience to the God, and therefore that I cannot hold my tongue, you will not believe that I am serious; and if I say again that daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living, you are still less likely to believe me. Yet I say what is true, although a thing of which it is hard for me to persuade you. 
+Doing so would be a disobedience to the God. Therefore, I cannot hold my tongue. You will not believe that I am serious.
+
+The greatest good of man is to discourse daily about:
+- virtue, and
+- those other things which you hear me examining myself and others
+
+The unexamined life is not worth living.
+
+ <!-- you are still less likely to believe me. Yet I say what is true, although a thing of which it is hard for me to persuade you.  -->
 
 Also, I have never been accustomed to think that I deserve to suffer any harm.
 
-Had I money I might have estimated the offence at what I was able to pay, and not have been much the worse. But I have none, and therefore I must ask you to proportion the fine to my means. Well, perhaps I could afford a mina, and therefore I propose that penalty: Plato, Crito, Critobulus, and Apollodorus, my friends here, bid me say thirty minæ, and they will be the sureties. 
+Had I money I might have estimated the offence that I was able to pay, and not have been much the worse. 
 
-Let 30 minæ be the penalty; for which sum they will be ample security to you.
+But I have no money. Therefore, I ask you to proportion the fine to my means.
 
-Not much time will be gained, O Athenians, in return for the evil name which you will get from the detractors of the city, who will say that you killed Socrates, a wise man; for they will call me wise, even although I am not wise, when they want to reproach you. If you had waited a little while, your desire would have been fulfilled in the course of nature. 
+Perhaps I could afford 1 mina, so I propose that penalty: Plato, Crito, Critobulus, and Apollodorus, my friends here, bid me say 30 minæ, and they will be the sureties. 
+
+Let 30 minæ be the penalty which they will be ample security to you.
+
+Not much time will be gained, O Athenians, in return for the evil name which you will get from the detractors of the city, who will say that you killed Socrates, a wise man; for
+
+
+They call me wise, even though I am not wise, when they want to reproach you.
+
+If you had waited a little while, your desire would have been fulfilled in the course of nature. 
 
 I am far advanced in years, as you may perceive, and not far from death. I am speaking now not to all of you, but only to those who have condemned me to death.
 
