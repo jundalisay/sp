@@ -7,6 +7,7 @@ writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 
@@ -100,3 +101,4 @@ If it could be found it would be the philosopher's stone, the universal medicine
 
 <!-- There are many aspects of his teaching which are now looked upon as by no means so fantastic as they were considered in his own time.]  -->
 {{< /b >}}
+

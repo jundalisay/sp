@@ -1,12 +1,13 @@
 ---
 title: The Pan-German movement
 heading: Chapter 3g
-weight: 18
+weight: 21
 description: "The authority of the State can never be an end in itself. If that were so, any kind of tyranny would be inviolable and sacred"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 

@@ -5,6 +5,7 @@ heading: Extremely Unenlightened
 weight: 43
 description: "Mein Kampf"
 c: "firebrick"
+icon: "Adolf Hitler"
 a: "Adolf Hitler"
----0
+---
 

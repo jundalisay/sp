@@ -1,12 +1,13 @@
 ---
 title: German Marxists
-heading: Chapter 15b
+heading: Chapter 15c
 weight: 804
 description: "If the German working class, in 1914, consisted of real Marxists the War would have ended within 3 weeks"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 icon: "Adolf Hitler"
 ---
 

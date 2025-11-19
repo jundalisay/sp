@@ -7,6 +7,7 @@ writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 
@@ -125,35 +126,5 @@ answered the call for volunteers.  -->
 
 Tens of thousands, indeed hundreds of thousands, of such men came forward, so that that kind of human material steadily grew scarcer and scarcer. 
 
-What did not actually fall was maimed in the fight or gradually had to join the ranks of the crippled because of the wounds they were constantly receiving, and thus
-they had to carry on interminably owing to the steady decrease in the supply of such
-men. 
-
-Our feckless parliamentarians did not give the people proper training in peacetime.
-
-And so, in 1914, whole armies were composed of volunteers without training. They were thus thrown as defenceless cannon-fodder to the enemy. 
-
-
-The 400,000 who thus fell or were permanently maimed on the battlefields of Flanders could not be replaced anymore. 
-
-<!-- Their loss was something far more than merely numerical. With their death the scales, which were already too lightly weighed at that end of the social structure which represented our  -->
-
-
-This reduced our best in human quality, which were replaced by those who constituted the worst extreme of our population.
-
- <!-- now moved upwards rapidly, becoming heavier on the other end with those vulgar elements of infamy and cowardice--in short, there was an increase in the elements that  -->
-
-While our best human material was being thinned on the battlefields, our worst people wonderfully succeeded in saving themselves. 
-
-For each hero who made the supreme sacrifice and ascended the steps of Valhalla, there was a shirker who cunningly dodged death on the plea of being engaged in business that was useful at home.
-
-The great middle stratum of the nation had fulfilled its duty and paid its toll of blood. 
-
-The best elements had sacrificed itself. 
-
-The worst elements had preserved itself almost intact, through taking advantage of absurd laws and also because the authorities failed to enforce certain articles of the military code.
-
-This scum of our nation then made the Revolution because the best elements were no longer there to oppose it.
-
-<!-- Hence the German Revolution, from the very beginning, depended on only one section of the population. This act of Cain was not committed by the German people as such, but by an obscure CANAILLE of deserters, hooligans, etc. -->
+What did not actually fall was maimed in the fight or gradually had to join the ranks of the crippled because of the wounds they were constantly receiving, and thus they had to carry on interminably owing to the steady decrease in the supply of such men. 
 

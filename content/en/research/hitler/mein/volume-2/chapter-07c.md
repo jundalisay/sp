@@ -1,12 +1,13 @@
 ---
-title: The Conflict With The Red Forces
+title: The Marxist and Bourgeois Ways of Conducting Meetings
 heading: Chapter 7c
 weight: 64
-description: "The suspicion was whispered in German Nationalist circles that we also were merely another variety of Marxism"
+description: "The work of organizing the protective measures for our meetings was based on the following"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 
@@ -16,14 +17,17 @@ The work of organizing the protective measures for our meetings was based on the
 1. An energetic and psychologically judicious way of conducting the meeting.
 2. An organized squad of troops to maintain order.
 
-In those days we and no one else were masters of the situation at our meetings and on no occasion did we fail to emphasize this. Our opponents fully realized that any provocation would be the occasion of throwing them out of the hall at once, whatever
-the odds against us. 
+In those days we and no one else were masters of the situation at our meetings and on no occasion did we fail to emphasize this. Our opponents fully realized that any provocation would be the occasion of throwing them out of the hall at once, whatever the odds against us. 
 
 At meetings, particularly outside Munich, we had in those days from 500-800 hundred opponents against 15-16 National Socialists; yet we brooked no interference, for we were ready to be killed rather than capitulate. 
 
-More than once a handful of party colleagues offered a heroic resistance to a raging and violent mob of Reds. Those fifteen or twenty men would certainly have been overwhelmed in the end had not the opponents known that three or four times as many of themselves would first get their skulls cracked. Arid that risk they were not willing to run. 
+More than once, a handful of party colleagues heroically resisted a raging mob of Reds.
 
-We had done our best to study Marxist and bourgeois methods of conducting meetings, and we had certainly learnt something.
+Those 20 men would certainly have been overwhelmed in the end had not the opponents known that 4 times as many of themselves would get their skulls cracked.
+
+That risk they were not willing to run. 
+
+We had done our best to study Marxist and bourgeois methods of conducting meetings. We had certainly learnt something.
 
 The Marxists had always exercised a most rigid discipline so that the question of reaking up their meetings could never have originated in bourgeois quarters. 
 
@@ -37,14 +41,12 @@ Their language was chosen according to the importance of the official blockhead 
 a certain date in full strength for the purpose of 'putting a stop to the disgraceful
 machinations of the bourgeoisie by means of the proletarian fist'.
 
-The pitiful and frightened manner in which these bourgeois meetings are conducted must be seen in order to be believed. Very frequently these threats were sufficient to call off such a meeting at once. The feeling of fear was so marked that the meeting, instead of commencing at eight o'clock, very seldom was opened before a quarter to nine or nine o'clock. The Chairman thereupon did his best, by showering compliments on the
-'gentleman of the opposition' to prove how he and all others present were pleased (a palpable lie) to welcome a visit from men who as yet were not in sympathy with them for the reason that only by mutual discussion (immediately agreed to) could they be
+The pitiful and frightened manner in which these bourgeois meetings are conducted must be seen in order to be believed. Very frequently these threats were sufficient to call off such a meeting at once. The feeling of fear was so marked that the meeting, instead of commencing at eight o'clock, very seldom was opened before a quarter to nine or nine o'clock. The Chairman thereupon did his best, by showering compliments on the 'gentleman of the opposition' to prove how he and all others present were pleased (a palpable lie) to welcome a visit from men who as yet were not in sympathy with them for the reason that only by mutual discussion (immediately agreed to) could they be
 brought closer together in mutual understanding. Apart from this the Chairman also
 assured them that the meeting had no intention whatsoever of interfering with the
 professed convictions of anybody.
 
-Indeed no. Everyone had the right to form and hold his own political views, but others should be allowed to do likewise. He therefore
-requested that the speaker be allowed to deliver his speech without interruption--the
+Indeed no. Everyone had the right to form and hold his own political views, but others should be allowed to do likewise. He therefore requested that the speaker be allowed to deliver his speech without interruption--the
 speech in any case not being a long affair. People abroad, he continued, would thus not
 come to regard this meeting as another shameful example of the bitter fraternal strife
 that is raging in Germany. And so on and so forth The brothers of the Left had little if any appreciation for that sort of talk; the speaker
