@@ -16,6 +16,18 @@ icon: "Juan"
 
 <!-- gives the properties of time and space to ideas and feelings. This is represented by the Heart Chakra. -->
 
+
+System | Name
+--- | --- 
+Superphysics | Space, Air
+Physics | Spacetime
+Greek | Air
+Indian | Vayu
+Chinese | 水
+Japanese | 風
+Vietnamese | Mộc
+
+
 The Air Element facilitates the functioning of space and time in reality. Its job is to separate perceptions, identities, objects, ideas, and feelings from each other. 
 
 This is why it is the Element for the Forces such as gravity, magnetism, and material cohesion. 

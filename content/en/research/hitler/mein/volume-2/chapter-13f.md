@@ -23,8 +23,7 @@ indifference of the people to a feeling of indignation and transform that indign
 a spirit of dauntless resistance?
 
 
-Each point of that Treaty could have been engraved on the minds and hearts of the German people and burned into them until sixty million men and women would find their souls aflame with a feeling of rage and shame; and a torrent of fire would burst
-forth as from a furnace, and one common will would be forged from it, like a sword of
+Each point of that Treaty could have been engraved on the minds and hearts of the German people and burned into them until sixty million men and women would find their souls aflame with a feeling of rage and shame; and a torrent of fire would burst forth as from a furnace, and one common will would be forged from it, like a sword of
 steel. Then the people would join in the common cry: "To arms again!"
 
 Yes. A treaty of that kind can be used for such a purpose. Its unbounded oppression
@@ -64,6 +63,7 @@ politics and with whom the others feel that they can play. Only when the Governm
 and the people feel absolutely certain of being able to undertake a policy of alliances can
 one Power or another, whose interests coincide with ours, think of instituting a system
 of propaganda for the purpose of changing public opinion among its own people.
+
 Naturally it will take several years of persevering and ably directed work to reach such
 a result. Just because a long period is needed in order to change the public opinion of a
 country, it is necessary to reflect calmly before such an enterprise be undertaken. This
@@ -72,6 +72,7 @@ convinced that it is worth the trouble and that it will bring results which will
 valuable in the future. One must not try to change the opinions and feelings of a people
 by basing one's actions on the vain cajolery of a more or less brilliant Foreign Minister,
 but only if there be a tangible guarantee that the new orientation will be really useful.
+
 Otherwise public opinion in the country dealt with may be just thrown into a state of
 complete confusion. The most reliable guarantee that can be given for the possibility of
 subsequently entering into an alliance with a certain State cannot be found in the
@@ -81,6 +82,7 @@ in the support which is given to that policy by the public opinion of the countr
 faith of the public in this policy will be strengthened all the more if the Government
 organize one active propaganda to explain its efforts and secure public support for
 them, and if public opinion favourably responds to the Government's policy.
+
 Therefore a nation in such a position as ours will be looked upon as a possible ally if
 public opinion supports the Government's policy and if both are united in the same
 enthusiastic determination to carry through the fight for national freedom. That
@@ -89,6 +91,7 @@ change public opinion in other countries which, for the sake of defending their 
 elementary interests, are disposed to take the road shoulder-to-shoulder with a
 companion who seems able to play his part in defending those interests. In other words,
 this means that they will be ready to establish an alliance.
+
 For this purpose, however, one thing is necessary. Seeing that the task of bringing about
 a radical change in the public opinion of a country calls for hard work, and many do not
 at first understand what it means, it would be both foolish and criminal to commit
@@ -151,18 +154,7 @@ us of our colonies, or with Italy because she has taken possession of South Tyro
 with Poland or Czechoslovakia, then there remains no other possibility of an alliance in
 Europe except with France which, inter alia, has robbed us of Alsace and Lorraine.
 
-There can scarcely be any doubt as to whether this last alternative would be
-advantageous to the interests of the German people. But if it be defended by somebody
-one is always doubtful whether that person be merely a simpleton or an astute rogue.
-As far as concerns the leaders in these activities, I think the latter hypothesis is true.
-A change in public feeling among those nations which have hitherto been enemies and
-whose true interests will correspond in the future with ours could be effected, as far as
-human calculation goes, if the internal strength of our State and our manifest
-determination to secure our own existence made it clear that we should be valuable
-allies. Moreover, it is necessary that our incompetent way of doing things and our
-criminal conduct in some matters should not furnish grounds which may be utilized for
-purposes of propaganda by those who would oppose our projects of establishing an
-alliance with one or other of our former enemies.
+There can scarcely be any doubt as to whether this last alternative would be advantageous to the interests of the German people. But if it be defended by somebody one is always doubtful whether that person be merely a simpleton or an astute rogue. As far as concerns the leaders in these activities, I think the latter hypothesis is true. A change in public feeling among those nations which have hitherto been enemies and whose true interests will correspond in the future with ours could be effected, as far as human calculation goes, if the internal strength of our State and our manifest determination to secure our own existence made it clear that we should be valuable allies. Moreover, it is necessary that our incompetent way of doing things and our criminal conduct in some matters should not furnish grounds which may be utilized for purposes of propaganda by those who would oppose our projects of establishing an alliance with one or other of our former enemies.
 
 The answer to the third question is still more difficult: Is it conceivable that they who
 represent the true interests of those nations which may possibly form an alliance with

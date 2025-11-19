@@ -15,6 +15,16 @@ icon: "Superphysics"
 ---
 
 
+System | Name
+--- | --- 
+Superphysics | Aether
+Physics | Pseudoscience
+Greek | Aether
+Indian | Akasha
+Chinese | 水
+Japanese | 空
+Vietnamese | Thủy
+
 
 The aether is the substance of the abstract mind, as well as the ideas and feelings that are perceived by that mind. 
 - In Taoism, this is the water element. 

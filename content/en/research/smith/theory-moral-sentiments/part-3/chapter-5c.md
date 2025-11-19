@@ -4,6 +4,7 @@ heading: "Chapter 5b"
 description: "This reverence for the rules of conduct is still further enhanced by an opinion which is first impressed by nature."
 date: 2015-09-06
 c: "indigo"
+weight: 40
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

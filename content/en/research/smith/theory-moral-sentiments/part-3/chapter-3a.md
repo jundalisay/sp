@@ -4,6 +4,7 @@ heading: "Chapter 3a"
 description: "The Eye of the Impartial Spectator"
 date: 2015-09-18
 c: "indigo"
+weight: 14
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

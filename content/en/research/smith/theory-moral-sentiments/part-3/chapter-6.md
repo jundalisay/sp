@@ -5,6 +5,7 @@ heading: "Chapter 6"
 description: "Christianity has no rule saying that our sense of duty should be our sole principle"
 date: 2015-09-01
 c: "indigo"
+weight: 46
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

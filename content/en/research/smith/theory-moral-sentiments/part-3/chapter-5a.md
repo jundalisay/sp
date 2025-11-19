@@ -4,6 +4,7 @@ heading: "Chapter 5a"
 description: "The foundation of our moral faculties were given to us to direct of our conduct in this life"
 date: 2015-09-06
 c: "indigo"
+weight: 36
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

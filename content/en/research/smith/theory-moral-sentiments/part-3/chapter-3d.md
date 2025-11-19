@@ -4,11 +4,13 @@ heading: "Chapter 3d"
 description: "The Eye of the Impartial Spectator"
 date: 2015-09-18
 c: "indigo"
+weight: 20
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
 ---
+
 
 
 <sup>62</sup> In all other private misfortunes which affect ourselves immediately and directly, we can very seldom offend by appearing to be too little affected.

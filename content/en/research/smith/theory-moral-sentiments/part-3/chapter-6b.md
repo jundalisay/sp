@@ -4,11 +4,13 @@ heading: "Chapter 6b"
 description: "The general rules of the virtue called justice require the greatest exactness"
 date: 2015-09-01
 c: "indigo"
+weight: 50
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
 ---
+
 
 
 {{< s v="122" >}} The general rules of the virtue are called justice. This requires the greatest exactness. 
@@ -78,50 +80,68 @@ They lament the weakness of human nature which exposes us to such unhappy delusi
 - labouring after perfection
 - trying to act according to the best principle which can possibly direct us
 
-Only the false notions from religion can cause very gross perversions of our natural feelings in this way. In all other cases, common sense is sufficient to direct us. Everyone agrees that the first rule of duty is to obey the Deity's will. But they differ widely on the commandments that Deity imposes on us. Therefore, the greatest mutual toleration is required.
+Only the false notions from religion can cause very gross perversions of our natural feelings in this way. In all other cases, common sense is sufficient to direct us. Everyone agrees that the first rule of duty is to obey the 
+
+Deity's will. But they differ widely on the commandments that Deity imposes on us. Therefore, the greatest mutual toleration is required.
 <!-- Religion is alone capable of distorting our ideas of them considerably.  -->
 
 <!-- , if not to the most exquisite propriety of conduct, yet to something which is not very far from it;
 Provided we want to do well, our behaviour will always be praise-worthy, on the whole.
  -->
 Society's defence requires crimes to be punished from whatever motives. Yet a good man will always punish them reluctantly when their motives are from the false notions of religious duty.
+
 He will never feel that indignation which he feels against other criminals.
+
 He will rather regret and sometimes even admire their unfortunate firmness and magnanimity while he punishes them.
+
 The tragedy of Mahomet was one of Voltaire's finest.
 
 It properly represented what should be our feelings for crimes from such motives.
+
 In that tragedy, a young man Seid and woman Palmira had a mutual fondness for one another.
 
 They were most innocent and virtuous.
+
 They are instigated to commit a horrid murder by the strongest motives of a false religion.
 
 It shocks all the principles of human nature.
+
 A venerable old man expressed the most tender affection for both of them.
+
 He was the avowed enemy of their religion.
+
 They both conceived the highest reverence and esteem for him.
+
 In reality, he was their father who they did not know about.
 
 He is pointed out to them as a sacrifice which God expressly required at their hands.
+
 They are commanded to kill him.
 
 While executing this crime, they are tortured with all the agonies arising from the struggle between: 
-the idea of religious duty on the one side, and
-compassion, gratitude, reverence for the aged, and love for the humanity and virtue of the person they are going to destroy, on the other
+- the idea of religious duty on the one side, and
+- compassion, gratitude, reverence for the aged, and love for the humanity and virtue of the person they are going to destroy, on the other
 
 It shows one of the most interesting and instructive theatre spectacle.
+
 However, the sense of duty prevails finally over all the amiable weaknesses of human nature.
+
 They execute the crime imposed on them.
+
 But immediately they discover: 
-their error and
-the fraud which deceived them
+- their error and
+- the fraud which deceived them
 
 They are distracted with horror, remorse, and resentment.
 
 Our feelings for Seid and Palmira should be our feelings for anyone misled by religion in this way, when we are sure that it is really religion which misleads him and not the pretence of it.
+
 Its pretence is made as a cover to some of the worst human passions.
 
 
-{{< s v="125" >}} A person may act wrongly by following a wrong sense of duty. Nature may sometimes prevail and lead him to oppose it. In this case, we cannot be displeased to see the sense of duty prevail, which we think should prevail, though the person himself is so weak as to think otherwise.
+{{< s v="125" >}} A person may act wrongly by following a wrong sense of duty. Nature may sometimes prevail and lead him to oppose it. 
+
+In this case, we cannot be displeased to see the sense of duty prevail, which we think should prevail, though the person himself is so weak as to think otherwise.
 
 However, his conduct is the effect of weakness and not of principle.
 
@@ -130,15 +150,22 @@ During the massacre of St Bartholomew, Catholics were told that it was their dut
 <!-- out of compassion, would not seem entitled to our high applause, had he exerted the same generosity with complete self-approbation. -->
 
 We might be pleased with his humanity.
+
 But we should still regard him with a sort of pity.
+
 This pity would then be totally inconsistent with our admiration for perfect virtue.
 <!-- It is the same case with all the other passions. -->
 
 We do not dislike to see them exert themselves properly, even when a false notion of duty directs them otherwise.
+
 A very devout Quaker is struck on one cheek.
+
 Instead of turning up the other cheek, he forgets his literal interpretation of our Saviour's precept.
+
 He bestows some good discipline on the brute that insulted him.
+
 This would be agreeable to us.
+
 We should: 
 - laugh and be diverted with his spirit, and
 - like him more for it.

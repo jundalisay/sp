@@ -4,6 +4,7 @@ heading: "Chapter 3b"
 description: "They perpetually reproach our happiness while so many of our brethren are in misery"
 date: 2015-09-18
 c: "indigo"
+weight: 16
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -52,15 +53,18 @@ The great stoical maxim is:
   - unjustly promote his own advantage by another's loss.
 
 All honest men inwardly feel this truth.
- 
-49 We do not always need to restrain our natural anxiety on our own affairs or our natural indifference on the affairs of others when: 
 
-the happiness or misery of others do not depend on our conduct, and
-our interests are detached from theirs, so that there is no connection nor competition between them.
+
+<sup>49</sup> We do not always need to restrain our natural anxiety on our own affairs or our natural indifference on the affairs of others when: 
+- the happiness or misery of others do not depend on our conduct, and
+- our interests are detached from theirs, so that there is no connection nor competition between them.
+
 The most vulgar education teaches us to act with some impartiality between ourselves and others on important times.
 
 Even ordinary world commerce can adjust our active principles to some degree of propriety.
+
 But, it has been said, that only the most artificial and refined education can correct the inequalities of our passive feelings.
+
 It has been pretended that we must have recourse to the severest and profoundest philosophy.
  
 
@@ -84,14 +88,16 @@ They perpetually reproach our happiness while so many of our brethren are in mis
 
 They think: 
 - many poor people are: 
-    - labouring under calamities
-    - in the languor of poverty
-    - in the agony of disease
-    - in the horrors of death
-    - under the insults and oppression of their enemies.
+  - labouring under calamities
+  - in the languor of poverty
+  - in the agony of disease
+  - in the horrors of death
+  - under the insults and oppression of their enemies.
 - our natural joy of prosperity is impious
 
+
 The constant suffering of other people whom we never saw, should damp the pleasures of the fortunate.
+
 It should render a certain sad dejection habitual to all.
 
 But this extreme sympathy with misfortunes which we do not know seems absurd.
@@ -122,8 +128,8 @@ We naturally give them our good wishes.
 But if they are unfortunate, it is not our duty to give ourselves any anxiety about it.
 
 Nature seems to have wisely ordered that we should be but little interested in the fortune of people who: 
-we can neither serve nor hurt, and
-are so very remote from us
+- we can neither serve nor hurt, and
+- are so very remote from us
 
 We could still gain nothing if this original constitution changed.
 
@@ -157,10 +163,6 @@ What befalls ourselves we should regard as what befalls our neighbour, or, what 
 
 Epictetus says:
 
-{{< q a="Epictetus" >}}
-'When our neighbour loses his wife or son, everyone knows that this is a human calamity.
-It is a natural event according to the ordinary course of things.
-But, when the same thing happens to ourselves, we cry out, as if we had suffered the most dreadful misfortune.
-However, we should remember how we were affected when it happened to another.
-Such as we were in his case, such we should be in our own case.'
-{{< /q >}}
+{{< l a="Epictetus" >}}
+'When our neighbour loses his wife or son, everyone knows that this is a human calamity.  It is a natural event according to the ordinary course of things. But, when the same thing happens to ourselves, we cry out, as if we had suffered the most dreadful misfortune. However, we should remember how we were affected when it happened to another. Such as we were in his case, such we should be in our own case.'
+{{< /l >}}

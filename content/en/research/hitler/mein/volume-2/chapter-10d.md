@@ -12,8 +12,6 @@ icon: "Adolf Hitler"
 
 
 
-
-
 We, National Socialists, must not allow the consequences of that truth to pass by us
 unnoticed. In these matters also we must not permit ourselves to be misled by the
 phrases of our so-called national bourgeois parties. I say 'phrases', because these same

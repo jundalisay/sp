@@ -4,6 +4,7 @@ heading: "Chapter 4b"
 description: "Mankind's views on the propriety of their own conduct are so partial"
 # date: 2015-09-08
 c: "indigo"
+weight: 33
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
