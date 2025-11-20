@@ -2,10 +2,11 @@
 title: "Introduction"
 weight: 4
 date: 2025-01-25
-# date: 2022-08-08
 description: "Einstein explains Relativity"
-image: "/covers/electro.jpg"
+c: firebrick
+icon: Einstein
 ---
+
 
 
 Maxwell’s electrodynamics when applied to moving bodies, leads to asymmetries which are not inherent in the phenomena.

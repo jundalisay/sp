@@ -22,18 +22,38 @@ c: "firebrick"
 
 8 He shall slay with the sword your daughters in the field: and he shall make a fort against you, and cast a mount against you, and lift up the buckler against you. 
 
-9 He shall set engines of war against your walls, and with his axes he shall break down your towers. {26:10} By reason of the abundance of his horses their dust shall cover you: your walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter into your gates, as men enter into a city wherein is made a breach. {26:11} With the hoofs of his horses shall he tread down all your streets: he shall slay your people by the sword, and your strong garrisons shall go down to the ground.
+9 He shall set engines of war against your walls, and with his axes he shall break down your towers. {26:10} By reason of the abundance of his horses their dust shall cover you: your walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter into your gates, as men enter into a city wherein is made a breach.
 
-12 They shall make a spoil of your riches, and make a prey of your merchandise: and they shall break down your walls, and destroy your pleasant houses: and they shall lay your stones and your timber and your dust in the midst of the water. {26:13} And I will cause the noise of your songs to cease; and the sound of your harps shall be no more heard. {26:14} And I will make you like the top of a rock: you shalt be [a place] to spread nets upon; you shalt be built no more: for I Enki have spoken [it,] saith Enki.
+<sup>11</sup> With the hoofs of his horses shall he tread down all your streets: he shall slay your people by the sword, and your strong garrisons shall go down to the ground.
 
-15} Thus saith Enki to Tyrus; Shall not the isles shake at the sound of your fall, when the wounded cry, when the slaughter is made in the midst of you? {26:16} Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at [every] moment, and be astonished at you. 
+<sup>12</sup> They shall make a spoil of your riches, and make a prey of your merchandise: and they shall break down your walls, and destroy your pleasant houses: and they shall lay your stones and your timber and your dust in the midst of the water. 
 
-17 They shall take up a lamentation for you, and say to you, How art you destroyed, [that wast] inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror [to be] on all that haunt it! 
+<sup>13</sup> I will:
+- cause the noise of your songs to cease; and the sound of your harps shall be no more heard. 
+- <sup>14</sup> make you like the top of a rock.
 
-18 Now shall the isles tremble in the day of your fall; yea, the isles that [are] in the sea shall be troubled at your departure.
+You shall be a place to spread nets on.
 
-19 When I shall make you a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon you, and great waters shall cover you.
+You shall be built no more: for I Enki have spoken it.
 
-20 When I shall bring you down with them that descend into the pit, with the people of old time, and shall set you in the low parts of the earth, in places desolate of old, with them that go down to the pit, that you be not inhabited; and I shall set glory in the land of the living; {26:21} I will make you a terror, and you [shalt be] no [more:] though you be sought for, yet shalt you never be found again.
+<sup>15</sup> Thus saith Enki to Tyrus:
+
+Shall not the isles shake at the sound of your fall, when the wounded cry, when the slaughter is made in the midst of you? 
+
+<sup>16</sup> Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling.
+
+They shall sit upon the ground, and shall tremble at [every] moment, and be astonished at you. 
+
+<sup>17</sup> They shall take up a lamentation for you, and say to you, How art you destroyed, [that wast] inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror [to be] on all that haunt it! 
+
+<sup>18</sup> Now shall the isles tremble in the day of your fall; yea, the isles that [are] in the sea shall be troubled at your departure.
+
+<sup>19</sup> When I shall make you a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon you, and great waters shall cover you.
+
+<sup>20</sup> When I shall bring you down with them that descend into the pit, with the people of old time, and shall set you in the low parts of the earth, in places desolate of old, with them that go down to the pit, that you be not inhabited.
+
+I shall set glory in the land of the living.
+
+<sup>21</sup> I will make you a terror, and you [shalt be] no [more:] though you be sought for, yet shalt you never be found again.
 {{< /l >}}
 

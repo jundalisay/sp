@@ -6,6 +6,7 @@ c: "steelblue"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
+icon: Socrates
 ---
 
 
@@ -133,50 +134,98 @@ Perhaps I could afford 1 mina, so I propose that penalty: Plato, Crito, Critobul
 
 Let 30 minæ be the penalty which they will be ample security to you.
 
-Not much time will be gained, O Athenians, in return for the evil name which you will get from the detractors of the city, who will say that you killed Socrates, a wise man; for
-
+Not much time will be gained, O Athenians, in return for the evil name which you will get from the detractors of the city, who will say that you killed Socrates, a wise man.
 
 They call me wise, even though I am not wise, when they want to reproach you.
 
-If you had waited a little while, your desire would have been fulfilled in the course of nature. 
+If you had waited a little while, I would have died of old age anyway. 
 
-I am far advanced in years, as you may perceive, and not far from death. I am speaking now not to all of you, but only to those who have condemned me to death.
+ <!-- your desire would have been fulfilled in the course of nature.  -->
 
-You think that I was convicted because I had no words of the sort which would have procured my acquittal—I mean, if I had thought fit to leave nothing undone or unsaid. Not so; the deficiency which led to my conviction was not of words—certainly not.
+As you can see, I am old and not far from death.
 
-But I had not the boldness or impudence or inclination to address you as you would have liked me to do, weeping and wailing and lamenting, and saying and doing many things which you have been accustomed to hear from others, and which, as I maintain, are unworthy of me. 
+ <!-- I am speaking now not to all of you, but only to those who have condemned me to death. -->
 
-I thought at the time that I ought not to do anything common or mean when in danger: nor do I now repent of the style of my defence; I would rather die having spoken after my manner, than speak in your manner and live. For neither in war nor yet at law ought I or any man to use every way of escaping death.
+You think that I was convicted because I had no words to acquit myself and that I would not say anything.
 
-Often in battle there can be no doubt that if a man will throw away his arms, and fall on his knees before his pursuers, he may escape death; and in other dangers there are other ways of escaping death, if a man is willing to say and do anything. The difficulty, my friends, is not to avoid death, but to avoid unrighteousness; for that runs faster than death.
+<!-- mean, if I had thought fit to leave nothing undone or unsaid.  -->
 
-I am old and move slowly, and the slower runner has overtaken me, and my accusers are keen and quick, and the faster runner, who is unrighteousness, has overtaken them. 
+Not so. I was convicted because I did not 
+- address you as you liked
+- weep and wail like others 
 
+<!-- But I had not the boldness or impudence or inclination to 
+ would have liked me to do,  -->
 
+<!-- and lamenting, and saying and doing many things which you have been accustomed to hear from others, and which, as I maintain, are unworthy of me.  -->
 
-Now I depart hence condemned by you to suffer the penalty of death. They too go their ways condemned by the truth to suffer the penalty of villainy and wrong. I must abide by my award—let them abide by theirs. 
+I thought at the time that I should not do anything common or mean when in danger.
 
-I suppose that these things may be regarded as fated,—and I think that they are well.
+Nor do I now repent of the style of my defence.
 
-And now, O men who have condemned me, I would fain prophesy to you; for I am about to die, and in the hour of death men are gifted with prophetic power.
+I would rather die having spoken in my way than speak in your way and live.
 
-I prophesy to you who are my murderers, that immediately after my departure punishment far heavier than you have inflicted on me will surely await you.
+For neither in war nor at law should anyone use every way to escape death.
 
-Me you have killed because you wanted to escape the accuser, and not to give an account of your lives. But that will not be as you suppose: far otherwise. 
+Often in battle, a man might escape death if he:
+- throws away his arms
+- falls on his knees before his pursuers
 
-For I say that there will be more accusers of you than there are now; accusers whom hitherto I have restrained: and as they are younger they will be more inconsiderate with you, and you will be more offended at them.
+In other dangers, there are other ways of escaping death, if a man is willing to say and do anything. 
 
-If you think that by killing men you can prevent some one from censuring your evil lives, you are mistaken; that is not a way of escape which is either possible or honourable; the easiest and the noblest way is not to be disabling others, but to be improving yourselves. This is the prophecy which I utter before my departure to the judges who have condemned me.
+The difficulty is not in avoiding death, but in avoiding unrighteousness. For that runs faster than death.
+
+I am old and move slowly. The slower runner has overtaken me. My accusers are keen and quick.
+
+The faster runner, who is unrighteousness, has overtaken them. 
+
+Now I depart being condemned by you to death.
+
+They too go their ways condemned by the truth to suffer the penalty of villainy and wrong. 
+
+I abide by my award as they abide by theirs. 
+
+I suppose that these things are fated and I think that they are well.
+
+<!-- And now, O men who have condemned me, I would fain prophesy to you; for I am about to die, and in the hour of death men are gifted with prophetic power. -->
+
+I prophesy to you, my murderers, that immediately after my departure punishment far heavier than you have inflicted on me will surely await you.
+
+You have killed me because you wanted to escape the accuser and not to give an account of your lives.
+
+But the opposite will happen. 
+
+ <!-- will not h be as you suppose: far otherwise.  -->
+
+There will be more accusers of you than there are now, accusers whom hitherto I have restrained.
+
+They are younger and will be more inconsiderate with you, and you will be more offended at them.
+
+If you think that by killing men you can prevent some one from censuring your evil lives, you are mistaken.
+
+That is not a way of possible or honourable escape.
+
+The easiest and noblest way is not to be disabling others, but to be improving yourselves.
+
+<!-- This is the prophecy which I utter before my departure to the judges who have condemned me. -->
 
 <!-- Friends, who would have acquitted me, I would like also to talk with you about the thing which has come to pass, while the magistrates are busy, and before I go to the place at which I must die.
 
 Stay then a little, for we may as well talk with one another while there is time. You are my friends, and I should like to show you the meaning of this event which has happened to me. O my judges—for you I may truly call judges—I should like to tell you of a wonderful circumstance.  -->
 
-Hitherto the divine faculty of which the internal oracle is the source has constantly been in the habit of opposing me even about trifles, if I was going to make a slip or error in any matter; and now as you see there has come upon me that which may be thought, and is generally believed to be, the last and worst evil. 
+The internal oracle has a divine faculty which has constantly been opposing me even about trifles, if I was going to make a slip or error in any matter.
 
-But the oracle made no sign of opposition, either when I was leaving my house in the morning, or when I was on my way to the court, or while I was speaking, at anything which I was going to say; and yet I have often been stopped in the middle of a speech, but now in nothing I either said or did touching the matter in hand has the oracle opposed me. What do I take to be the explanation of this silence? I will tell you.
+<!-- and now as you see there has come upon me that which may be thought, and is generally believed to be, the last and worst evil.  -->
 
-It is an intimation that what has happened to me is a good, and that those of us who think that death is an evil are in error. For the customary sign would surely have opposed me had I been going to evil and not to good.
+But the oracle did not oppose me when I left my house this morning, or when I was on my way to the court, or while I was speaking.
+
+<!-- , at anything which I was going to say; and yet I have often been stopped in the middle of a speech, but now in nothing I either said or did touching the matter in hand has the oracle opposed me. What do I take to be the explanation of this silence? I will tell you. -->
+
+I believe that:
+- what has happened to me is a good
+- those of us who think that death is an evil are wrong
+
+For the customary sign would surely have opposed me had I been going to evil.
 
 There is great reason to hope that death is a good. Either:
 - death is a state of nothingness and utter unconsciousness or
@@ -187,33 +236,66 @@ If there is no consciousness, but an undisturbed sleep, then death will be an un
 
 <!-- For if a person were to select the night in which his sleep was undisturbed even by dreams, and were to compare with this the other days and nights of his life, and then were to tell us how many days and nights he had passed in the course of his life better and more pleasantly than this one, I think that any man, I will not say a private man, but even the great king will not find many such days or nights, when compared with the others. Now if death be of such a nature, I say that to die is gain;  -->
 
-But if death is the journey to another place, and there, as men say, all the dead abide, what good, O my friends and judges, can be greater than this? 
+But if death is the journey to another place then this is the greatest good. 
 
-If when the pilgrim arrives in the world below, he is delivered from the professors of justice in this world, and finds the true judges who are said to give judgment there, Minos and Rhadamanthus and Aeacus and Triptolemus, and other sons of God who were righteous in their own life, that pilgrimage will be worth making. 
+<!-- , and there, as men say, all the dead abide, what good, O my friends and judges, can be greater than this?  -->
 
-What would not a man give if he might converse with Orpheus and Musaeus and Hesiod and Homer? 
+A pilgrim who arrives in the world below is delivered from the justice in this world, and finds the true judges there:
+- Minos
+- Rhadamanthus
+- Aeacus
+- Triptolemus
+- other sons of God who were righteous in their own life
+
+That pilgrimage will be worth making. 
+
+What would not a man give to talk to Orpheus, Musaeus, Hesiod, and Homer? 
 
 If this be true, let me die again and again. 
 
-I myself shall have a wonderful interest in meeting and conversing with Palamedes, and Ajax the son of Telamon, and any other ancient hero who has suffered death through an unjust judgment.
+I myself shall have a wonderful interest in meeting and conversing with:
+- Palamedes
+- Ajax the son of Telamon
+- any other ancient hero who has suffered death through an unjust judgment
 
-There will be no small pleasure, as I think, in comparing my own sufferings with theirs.
+I would be happy to compare my own sufferings with theirs.
 
-Above all, I shall then be able to continue my search into true and false knowledge. As in this world, so also in the next.
+Above all, I shall then be able to continue my search into true and false knowledge. 
+
+As in this world, so also in the next.
 
 I shall find out:
 - who is wise
 - who pretends to be wise
 - who is not.
 
-What would not a man give, O judges, to be able to examine the leader of the great Trojan expedition; or Odysseus or Sisyphus, or numberless others, men and women too! 
+What would not a man give to examine:
+- the leader of the great Trojan expedition
+- Odysseus or Sisyphus
+- numberless other men and women 
 
-What infinite delight would there be in conversing with them and asking them questions! 
+<!-- What infinite delight would there be in conversing with them and asking them questions!  -->
 
-In another world they do not put a man to death for asking questions: assuredly not. For besides being happier than we are, they will be immortal, if what is said is true.
+In that world they do not put a man to death for asking questions.
 
-Wherefore, O judges, be of good cheer about death, and know of a certainty, that no evil can happen to a good man, either in life or after death. He and his are not neglected by the gods; nor has my own approaching end happened by mere chance. But I see clearly that the time had arrived when it was better for me to die and be released from trouble; wherefore the oracle gave no sign. For which reason, also, I am not angry with my condemners, or with my accusers; they have done me no harm, although they did not mean to do me any good; and for this I may gently blame them.
+<!-- For besides being happier than we are, they will be immortal, if what is said is true. -->
 
-Still I have a favour to ask of them. When my sons are grown up, I would ask you, O my friends, to punish them; and I would have you trouble them, as I have troubled you, if they seem to care about riches, or anything, more than about virtue; or if they pretend to be something when they are really nothing,—then reprove them, as I have reproved you, for not caring about that for which they ought to care, and thinking that they are something when they are really nothing. And if you do this, both I and my sons will have received justice at your hands.
+Wherefore, O judges, be of good cheer about death, and know of a certainty, that no evil can happen to a good man, either in life or after death.
+
+He and his are not neglected by the gods; nor has my own approaching end happened by mere chance. 
+
+But I see clearly that the time had arrived when it was better for me to die and be released from trouble; wherefore the oracle gave no sign. 
+
+For which reason, also, I am not angry with my condemners, or with my accusers; they have done me no harm, although they did not mean to do me any good; and for this I may gently blame them.
+
+Still I have a favour to ask of them.
+
+When my sons are grown up, please punish them, trouble them as I have troubled you if they:
+- care about riches, or anything more than virtue or
+- pretend to be something when they are really nothing
+
+Then reprove them, as I have reproved you, for not caring about that for which they ought to care, and thinking that they are something when they are really nothing.
+
+If you do this, both I and my sons will have received justice at your hands.
 
 The hour of departure has arrived, and we go our ways—I to die, and you to live. Which is better God only knows.

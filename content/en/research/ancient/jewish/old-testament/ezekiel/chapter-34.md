@@ -28,11 +28,11 @@ Tell them that Enki said to the shepherds: Woe be to the shepherds of Israel tha
 
 <sup>10</sup> Behold, I am against the shepherds. I will require my flock at their hand, and cause them to cease from feeding the flock. Neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.
 
-11 Behold, I will both search my sheep, and seek them out. 
+<sup>11</sup> Behold, I will both search my sheep, and seek them out. 
 
-12 As a shepherd seeketh out his flock in the day that he is among his sheep [that are] scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
+<sup>12</sup> As a shepherd seeketh out his flock in the day that he is among his sheep [that are] scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 
-13 I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.
+<sup>13</sup> I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.
 
 14 I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and [in] a fat pasture shall they feed upon the mountains of Israel.
 
@@ -66,4 +66,4 @@ And to have drunk of the deep waters, but you must foul the residue with your fe
 
 30 Thus shall they know that I Enki their God am with them and that they even the house of Israel, are my people
 
-31 You my flock, the flock of my pasture, [are] men, [and] I [am] your God, saith Enki.
+<sup>31</sup> You my flock, the flock of my pasture, [are] men, [and] I [am] your God, said Enki.
