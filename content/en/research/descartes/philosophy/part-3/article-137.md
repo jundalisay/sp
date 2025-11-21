@@ -35,34 +35,51 @@ But when the tails extend obliquely across between the poles and the ecliptic, [
 Finally, when they extend farther in those regions, they are brighter and narrower.
 
 
- <!-- than in other places. -->
 
-<!-- I do not think that any observation ever made about comets—which should not be taken as fable nor as miracle—fails to have its reason explained here. -->
- 
-<!-- This coma or tail is sometimes:
-- straight
-- curved
-- in a straight line, which passes through the centers of the Comet and the Sun
-- deviating somewhat from it
-- wider, narrower, or even brighter
+## 139. Why the Fixed Stars and Planets such as Jupiter and Saturn Do Not have with Such Tails.
 
-These depend on the lateral rays converging towards the eye.
+This is because:
 
-These show the irregularity of the spheroid `DEFGH`.
-- Towards the poles, its shape is flatter
-  
-This makes the tails of Comets appear straighter and wider.
-- In the bend between the poles and the ecliptic, this makes it appear more curved
-- Deviating from the opposite Sun and according to the length of this bend, it appears brighter and narrower. 
+1. The planets are smaller than some comets from our perspective.
 
-All the causes explained here have been observed so far about Comets in reality. -->
+Small comets do not show a tail when when their apparent diameter is no greater than that of the Fixed Stars.
 
-<!-- , at least not anything to be considered neither as a fable nor as a miracle, whose cause is not here.  -->
+Their small size prevents the reflection of more light. 
+
+ <!-- because the rays that form it do not have enough strength at that time. -->
 
 
-## 139. Why do such comae not appear around Fixed Stars or around the higher planets Jupiter and Saturn?
+2. The stars do not reflect light. 
 
-This is because: 
+If any tail appeared around them, it should be equally scattered on all sides.
+
+Consequently, it would be also very short, just like the Comets named Roses.
+
+But we do see such a tail around them.
+
+Their shape is not bounded by any uniform line.
+
+They are seen surrounded by rays on all sides.
+
+Perhaps this is also why their light twinkles, although other reasons can also be given for this.
+
+Jupiter and Saturn sometimes appear with such a tail in countries where the air is very clear and pure.
+
+I remember reading somewhere that this was observed in the past although I do not recall the author.
+
+Aristotle says in the book 1 of Meteorology, chapter 6, that the Egyptians sometimes saw such tails around the Stars.
+
+I believe these are Planets rather than the Fixed Stars.
+
+He says he saw a coma around one of the Stars in the thigh of the Dog (Sirius).
+
+This must have happened due to some extraordinary refraction that took place in the air, or rather due to some indisposition in his own eyes.
+
+For he adds that this tail appeared less clearly the more fixedly he gazed on it.
+
+
+
+<!-- This is because: 
 
 1. They are not usually seen in Comets.
 
@@ -70,32 +87,33 @@ This is because their apparent diameter is not greater than that of fixed stars,
 
 2. The fixed stars emit light from themselves.
 
-This would cause their coma, if there is any, to scattered and be very brief.
+This would cause their coma, if there is any, to scattered and be very brief. -->
 
 <!-- Indeed it seems to be such around them: for they -->
 
-Stars do not appear circumscribed by a uniform line. Instead, they are surrounded by wandering rays from all sides.
+<!-- Stars do not appear circumscribed by a uniform line. Instead, they are surrounded by wandering rays from all sides.
 
-This also causes their twinkling.
+This also causes their twinkling. -->
 
 <!-- and perhaps not incorrectly we will also refer their twinkling (of which, however, there may be several other causes) to this.  -->
 
-Jupiter and Saturn have very clear atmospheres. 
-- This causes short comae sometimes to appear from around their dark sides. 
+<!-- Jupiter and Saturn have very clear atmospheres. 
+- This causes short comae sometimes to appear from around their dark sides.  -->
 
 <!--  part opposing the sun. 
 
  even , extending towards the part away from the Sun may be seen around them. -->
 
-I have read something like this somewhere, though I do not recall the author.
+<!-- I have read something like this somewhere, though I do not recall the author.
 
-Aristotle says in his Meteorology, book 1, chapter 6 on the fixed stars, that they have been seen as comets by the Egyptians sometimes.
+Aristotle says in his Meteorology, book 1, chapter 6 on the fixed stars, that they have been seen as comets by the Egyptians sometimes. -->
 
 <!-- , I think it should be understood about these planets;  -->
 
-He says he saw a comet from one of the stars which are in the thigh of the Dog. This would have been:
+<!-- He says he saw a comet from one of the stars which are in the thigh of the Dog. This would have been:
 - a very oblique refraction in the air, or
 - a defect of his eyes
 
 This is because he says that it was less conspicuous when he was focusing his eyes on it than when he was looking away.
 
+ -->

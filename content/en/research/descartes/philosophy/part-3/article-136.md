@@ -90,15 +90,13 @@ When the Earth is at `4`, the Comet will be seen in the evening with a tail that
 ## 137. Explanation of the appearance of fire chevrons
 
 
-If the Earth is near point `5`, we will not be able to see the comet.
-
-This is because the Sun will be in the way.
+If the Earth is near point `5`, we will not be able to see the comet because the Sun will be in the way.
 
 We will only see a part of its tail or hair, which will appear as a chevron of fire.
 
 It will be visible either in the evening or in the morning depending on whether the Earth is closer to `4` or `2`.
 
-Thus, if it is exactly at `5`, equally distant from those two others, the comet will perhaps show us two fire chevrons:
+Thus, if it is exactly at `5`, equally distant from those two others, the comet will perhaps show us 2 fire chevrons:
 - one in the evening
 - the other in the morning
 
