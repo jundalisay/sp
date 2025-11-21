@@ -142,6 +142,7 @@ Jose | An alternative medicine practitioner since the 2000s, focusing on homeopa
 Jing | Vice-President of an agriculture association. He is a Catholic and does not care about samadhi. However, he is very keen on using Bio Superphysics for agriculture  
 Ehmil | Geologist. He is an Evangelical and also doesn't care about samadhi. But he is interested in Cartesian Physics for geological applications such as earthquake detection.
 Adrian | Mobile and Python developer. He has helped debug the Pantrypoints mobile apps.  
+Ngoc Anh | Early member who helped during the early days.
 {{< /dc >}}
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Descartes' Gravitational Lensing"
 # date: 2022-04-13
+date: 2025-11-21
 image: /graphics/physics/lensing.jpg
 description: "The phenomenon of gravitational lensing is the change in the apparent position of a star by the meddling of another star or a galaxy"
 writer:
@@ -20,21 +21,42 @@ Unknown to many, Descartes had already described gravitational lensing as "refra
 {{< i s="/graphics/physics/fig_2-w.jpg" a="Lensing" >}}
 
 Unlike General Relativity which bases the cause to spacetime being 'warped' by stellar or gravitational mass, Descartes' refraction is caused by:
-- the spin of spatial vortices, and
+- the density of spatial vortices, and
 - the position of its observer
 
 <!-- the gravitational territory of the star or galaxy, and -->
 
 <!-- and the star of that heliosphere (which he calls 'surfaces'). -->
 
-In Cartesian Physics, all stars and galaxies have a 3D area-of-influence in the universal ocean.
-- This area not only refracts light, but also changes its speed.
 
-This is why Cartesian Physics rejects the *universal* constant speed of light. It predicts that the speed of light is very slightly different in different stars.
+This refraction has been seen in:
+- Comet tails, as most obviously seen in the anti-tail of the comet 3I Atlas
+- Bullet Cluster
+- The Eddington Experiment
+
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3, Article 134" >}}
+The comet's tail is caused by a new type of refraction. I did not discuss this in Dioptrics because it is not observed in terrestrial bodies.
+{{< /q >}}
+
+
+
+
+In Cartesian Physics, all stars and galaxies have a 3D area-of-influence in the universal ocean.
+- This ocean dynamics is from the liquid nature of the 2nd Element or invisible space particles
+- This area is centered on a central vortex.
+
+This vortex can be weak or strong, spinning or not-so-spinning
+- For galaxies, this leads to elliptical or non-elliptical shapes
+
+<!-- - This area not only refracts light, but also changes its speed. -->
+
+
+<!-- This is why Cartesian Physics rejects the *universal* constant speed of light. It predicts that the speed of light is very slightly different in different stars.
 
 This 3D area has recently been proven by the IBEX satellite which mapped the sun's heliosphere, adding to the mountain of evidence that supports Cartesian Physics.
 
-{{< i s="/graphics/physics/helio.jpg" a="The heliosphere" >}}
+i s="/graphics/physics/helio.jpg" a="The heliosphere"
 
 Descartes gives 3 kinds of gravitational territories: 
 
@@ -48,11 +70,10 @@ Einstein's `c` and gravitational lensing only works on stellar gravitational ter
 
 3. Galactic or based on air-aether or the 2nd Element
 
-Hubble's constant and cosmological lensing only works on galactic gravitational territory via 'supermassive blackholes'. This accounts for 'dark matter'.
+Hubble's constant and cosmological lensing only works on galactic gravitational territory via 'supermassive blackholes'. This accounts for 'dark matter'. -->
 
 
-
-Stellar gravitational territories combine to form a single unit within a galaxy's gravitational territory.
+<!-- Stellar gravitational territories combine to form a single unit within a galaxy's gravitational territory.
 - This removes the need for dark matter to explain the constant speed of the galaxy rotation curve. 
 
 Galactic gravitational territories also combine to form a single unit within its cluster. 
@@ -60,17 +81,47 @@ Galactic gravitational territories also combine to form a single unit within its
 
 This cluster is based on the deployment of the aether which manifests as baryonic acoustic oscillation (BAO). 
 - This is because sound is a property of the aether.   
-- Again, this adds to the mountain of evidence making Cartesian Physics undeniable
+- Again, this adds to the mountain of evidence making Cartesian Physics undeniable -->
 
 
 
 ## There is no Dark Matter
 
-Physicists cite the bullet cluster as mass-less lensing. 
-- This leads them to create dark matter since Newtonian Physics believes that lensing is caused by gravity, and gravity comes from matter. 
 
-But Cartesian Physics KNOWS that gravity comes from virtual (invisible) space particles.
-- So the invisibility of the lensing source matches this knowledge exactly
+### Bullet Cluster: Separation by Collision
+
+Physicists cite the Bullet Cluster as as proof of matter-less lensing. 
+- This leads them to invent dark matter since Newtonian Physics believes that lensing is caused by gravity, and gravity comes from matter. 
+- So dark matter is invisible matter
+
+But Cartesian Physics KNOWS that gravity comes from virtual (invisible) space particles called the 2nd Element which is totally different from matter, which Descartes called the 3rd Element.
+- This difference of 2nd and 3rd Elements explains why they can be separated in the Bullet Cluster
+- Normally, they are united in planets, stars, and most galaxies.
+
+
+<!-- - So the invisibility of the lensing source matches this knowledge exactly -->
+
+{{< i s="/graphics/physics/bullet.jpg" a="Bullet Cluster" c="" >}}
+
+{{< youtube aDyohDWYPF8 >}}
+
+
+
+### Trainwreck Cluster: Separation by Tug of War
+
+This is also proven by the 'trainwreck' cluster Abell 520, wherein dark matter cannot explain why the gravitational-lensing part is so far away from the mass parts.
+
+Cartesian Physics explains that this is because the 2nd Element is superior to the 3rd Element. 
+- The 2nd Element can exist independently
+- But the 3rd Element always needs to be within the 2nd Element territory
+
+The 2nd Element vortices of the galaxies within Trainwreck Cluster act against each other.
+- This dislodges the matter or 3rd Element from other galaxies in a tug of war without any collision
+
+
+{{< i s="/graphics/physics/train.jpg" a="Train Wreck Cluster" c="The Train Wreck Cluster shows 8 2nd Element vortices and 8 3rd Element concentrations, some of which have been dislodged from the 2nd-Element-vortex-homes by mutual tug of war" >}}
+
+A better name for the train wreck cluster would be "Tug of War Cluster".
 
 
 <!-- To push for the existence of dark matter, physicists point to the Bullet Cluster which is the remnant of the collision of 2 groups of galaxies. 
@@ -78,13 +129,4 @@ But Cartesian Physics KNOWS that gravity comes from virtual (invisible) space pa
 
 But according to Cartesian Physics, the Bullet Cluster merely shows the disruption of the unity between stellar and galactic gravitational territories because of a collision.  -->
 
-This is also proven by the 'trainwreck' cluster Abell 520, wherein dark matter cannot explain why the gravitational-lensing part is so far away from the mass parts.
-
-Cartesian Physics explains that the lensing part is distant because stellar gravitational territories are subservient or are slaves to their galactic vortex (supermassive black hole) i.e. the 1st Element and 3rd Element are subordinate to the 2nd Element. 
-
-This causes the stars and matter to follow or be dragged along by the moving galaxy, as shown by the computer simulation for the Bullet Cluster:
-
-{{< youtube aDyohDWYPF8 >}}
-
-So we can say that the Bullet Cluster and Abell 520 are real phenomena that adds to the mountain of physical evidence proving without a doubt the basic principles of Cartesian Physics.
 
