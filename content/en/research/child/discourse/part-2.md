@@ -15,28 +15,69 @@ the well understanding and practice of which, does strangely infuse into most th
 
 The women are as knowing therein as the men, it does encourage their husbands to hold on their trades to their dying days, knowing the capacity of their wives to get in their estates, and carry on their trades after their deaths: 
 
-Whereas if a merchant in England arrive at any considerable estate, he commonly withdraws his estate from trade, before he comes near the conﬁnes of old age; reckoning that if God should call him out of the world, while the main of his estate is engaged abroad in trade, he must lose one third of it, through the unexperience and unaptness of his wife to such aﬀairs; and so it usually falls out.
+Whereas if a merchant in England arrives at any considerable estate, he commonly withdraws his estate from trade, before he comes near the conﬁnes of old age.
 
-Arithmetic, like other parts of the mathematics, improves the rational faculties and inclines those that are expert in it to thriftiness and good husbandry. It prevents husbands and wives from running out of their estates, when they always remember what their expences amount to, and how soon by that course their ruin must overtake them.
+He reckons that if God should call him out of the world, while the main of his estate is engaged abroad in trade, he must lose 1/3 of it through the inexperience of his wife to such affairs.
+- And so it usually falls out.
 
+Arithmetic, like other parts of the mathematics:
+- improves the rational faculties and
+- inclines those that are expert in it to thriftiness and good husbandry
 
-8. The lowness of their customs, and the height of their excise, which is certainly the most equal and indiﬀerent tax in the world, and least prejudicial to any people, as might be made appear, were it the subject of this discourse.
-
-
-9. The careful providing for, and employment of their poor, which it is easy to demonstrate can never be done in England comparatively to what it is with them, while it is left to the care of every parish to look after their own only.
-
-10. Their use of banks, which are of so immense advantage to them, that some not without good grounds have estimated the proﬁt of them to the public, to amount to at least one million of pounds sterling per annum.
-
-11. Their toleration of diﬀerent opinions in matters of religion: by reason of which many industrious people of other countries, that dissent from the established government of their churches, resort to them with their families and estates, and after a few years co-habitation with them, become of the same common interest.
-
-
-12. Their law-merchant, by which all controversies between merchants and tradesmen are decided in three or four days time, and that
-not at the fortieth part, I might say in many cases not the hundredth part,
-of the charge they are with us.
+It prevents husbands and wives from running out of their estates, when they remember:
+- what their expences amount to, and
+- how soon by that course their ruin must overtake them.
 
 
-13. The law that is in use among them for transferring of bills for debt from one man to another: this is of extraordinary advantage to them in their commerce; by means of which, they can turn their stocks twice or thrice in trade, for once that we can in England; because having sold our foreign goods here, we cannot buy again to advantage, till we are possest of our money; which perhaps, we shall be six, nine, or 12 months in recovering: and if what we sell be considerable, it is a good man’s work all the year to be following vintners and shopkeepers for money, whereas, were the law for transferring bills in practice with us, we could presently after sale of our goods, dispose of our bills, and close up our accounts, to do which, the advantage, ease, and accommodations it would be to trade, is so great, that none but merchants who have lived
-where that custom is in use, can value to its due proportion.
+8. The lowness of their customs duties and the height of their excise taxes.
+
+This is:
+- the most equal and indiﬀerent tax in the world
+- the least prejudicial to any people
+
+ <!-- as might be made appear, were it the subject of this discourse. -->
+
+
+9. The careful providing for, and employment of their poor.
+
+This is easy to demonstrate. It can never be done in England while every parish looks to the care of their own only.
+
+
+10. Their use of banks.
+
+This is of so immense advantage to them. 
+
+Some have estimated the public proﬁt from them to be at least 1 million pounds sterling per annum.
+
+
+11. Their toleration of diﬀerent opinions in matters of religion.
+
+This makes many industrious people of other countries, that dissent from the established government of their churches, resort to them with their families and estates.*
+
+{{< n n="This is the same model of the United States" >}}
+
+
+After a few years co-habitation with them, they become of the same common interest.
+
+
+12. Their law-merchant.
+
+This:
+- settles disputes between merchants and tradesmen in 3-4 days time.
+- charges less than 1% of what British law charges.
+
+<!--  and that not at the fortieth part, I might say in many cases not the hundredth part,
+of the charge they are with us. -->
+
+
+13. The law that is in use among them for transferring of bills for debt from one man to another.
+
+This is of extraordinary advantage to them in their commerce.
+
+This lets them turn their stocks twice or thrice in trade, for once that we can in England; because having sold our foreign goods here, we cannot buy again to advantage, till we are possest of our money; which perhaps, we shall be six, nine, or 12 months in recovering.
+
+If what we sell be considerable, it is a good man’s work all the year to be following vintners and shopkeepers for money, whereas, were the law for transferring bills in practice with us, we could presently after sale of our goods, dispose of our bills, and close up our accounts, to do which, the advantage, ease, and accommodations it would be to trade, is so great, that none but merchants who have lived where that custom is in use, can value to its due proportion.
+
 
 14. Their keeping up public registers of all lands and houses, sold or mortgaged, whereby many chargeable law-suits are prevented, and the securities of lands and houses rendred, such as we commonly call, real securities.
 
@@ -70,7 +111,9 @@ For about 20 years, interest has been at 6% despite our long civil wars, and the
 
 There are more men on the exchange now worth 10,000 pounds estates, than 1,000 pounds.
 
-And if this be doubted, let us ask the aged, whether ﬁve hundred pounds portion with a daughter sixty years ago, were not esteemed a larger portion than two thousand pounds now: and whether gentlewomen in those days would not esteem themselves well cloathed in a serge gown, which a chamber-maid now will be ashamed to be seen in whether our citizens and middle sort of gentry now are not more rich in cloaths, plate, jewels, and houshold goods, &c. than the best sort of knights and gentry were in those days. 
+And if this be doubted, let us ask the aged, whether ﬁve hundred pounds portion with a daughter sixty years ago, were not esteemed a larger portion than two thousand pounds now.
+
+Whether gentlewomen in those days would not esteem themselves well cloathed in a serge gown, which a chamber-maid now will be ashamed to be seen in whether our citizens and middle sort of gentry now are not more rich in cloaths, plate, jewels, and houshold goods, &c. than the best sort of knights and gentry were in those days. 
 
 And whether our best sort of knights and gentry now do not exceed by much in those things the nobility of England sixty years past: many of whom then would not go to
 the price of a whole satten doublet; the embroiderer being yet living, who has assured me he has made many hundreds of them for the nobility with canvas backs.
@@ -78,4 +121,3 @@ the price of a whole satten doublet; the embroiderer being yet living, who has a
 Which way ever we take our measures, to me it seems evident, that since our ﬁrst abatement of interest, the riches and splendor of this kingdom is increased to above four, I might say above six, times so much as it was.
 
 We have now almost 100 coaches for one we had formerly, we with ease can pay a greater tax now in one year, than our fore-fathers could in 20.
-

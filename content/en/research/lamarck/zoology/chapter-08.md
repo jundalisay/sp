@@ -2,10 +2,13 @@
 title: The Natural Order of animals
 heading: Chapter 8
 description: 
-
 c: "deeppink"
 date: 2025-09-16
 weight: 69
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 ---
 
  <!-- and the structure we must give to their general distribution so that it conforms to the very order of nature. -->

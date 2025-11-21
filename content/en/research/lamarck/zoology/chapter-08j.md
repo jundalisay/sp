@@ -1,11 +1,14 @@
 ---
-title: Annelids
-heading: Chapter 8f
+title: "Class 8: Annelids"
+heading: Chapter 8j
 description: This is the eighth class of the Animal Kingdom.
-
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 82
+weight: 94
 ---
  
 
@@ -55,6 +58,9 @@ Serpula
 Spirorbis
 Siliquaria
 Dentaliium
+
+
+
 
 Cirripeds
 

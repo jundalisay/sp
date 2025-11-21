@@ -5,6 +5,10 @@ description: "In order to give the idea of species has some real foundation, let
 c: "deeppink"
 date: 2025-09-16
 weight: 13
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 ---
  
 

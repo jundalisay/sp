@@ -4,6 +4,7 @@ heading: Chapter 1b
 description: This is the main divisions which initially divide a class.
 c: "deeppink"
 date: 2025-09-16
+icon: Lamarck
 weight: 6
 ---
 

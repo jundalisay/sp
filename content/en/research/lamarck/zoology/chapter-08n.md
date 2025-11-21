@@ -1,50 +1,12 @@
 ---
-title: Sternoptyges
-heading: Chapter 8h
+title: "Class 12: Reptiles"
+heading: Chapter 8n
 description: 
-
 c: "deeppink"
 date: 2025-09-16
-weight: 89
+weight: 119
 ---
  
-
-
-(2) An opercule over the gills but no membrane.
-
-STERNOPTYGES
-
-31. . . . . . . . . . . . .
-
-Sternoptyx
-
-(3) No opercule over the gills, but a membrane
-
-32. . . . . . . . . . . .
-
-Mormyrus
-Stylophorus
-
-(4) No operculum nor membrane over the gills; no paired lower fins
-
-OPHICHTHIANS
-
-33. . . . . . . . . . . 
-
-Unibranch aperture
-Sphagebranchus
-
-Murenophis
-Gymnomuraena
-
-
-Since the skeleton started to form itself in the fish, those called cartilaginous are probably the least perfected fish, and consequently the most imperfect of all must be the gasterobranch which Linnaeus, under the name myxine, considered a worm.  
-
-Thus, in the order which we are following, the genus gasterobranch must be the first of the fish, because it is the least perfected.
-
-
-
-## REPTILES
 
 Viviparous animals, with vertebra and cold blood; breathing incompletely by a lung, at least in their later life; with a smooth skin or one covered in scales or a bony shell.
 
@@ -129,3 +91,16 @@ Basiliseus
 Lophura
 Dracaena
 Crocodile
+
+
+
+
+## Fourth Order: Chelonian Reptiles
+
+Heart with a double auricle; body equipped with a carapace and four limbs; no teeth in the jaw bones
+
+Chelonia
+Chelys
+
+Emys
+Tortoise

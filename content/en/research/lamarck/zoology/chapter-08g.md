@@ -1,12 +1,17 @@
 ---
 title: "Class 5: Insects"
-heading: Chapter 8d
+heading: Chapter 8g
 description: 
 c: "deeppink"
 date: 2025-09-16
-weight: 77
+weight: 86
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 ---
  
+
 
 
 [The Insects and Arachnids]

@@ -1,14 +1,18 @@
 ---
-title: Vertebrates
-heading: Chapter 8g
+title: "Class 11: Fish"
+heading: Chapter 8m
 description: 
-
 c: "deeppink"
 date: 2025-09-16
-weight: 85
+weight: 98
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 ---
  
 
+## Vertebrates
 
 They have a vertebral column made up of a multitude of short bones, articulated and arranged in a linear sequence. 
 
@@ -20,13 +24,16 @@ Nerves ending at a spinal column and at a brain which does not fill the skull ca
 
 [The Fish and the Reptiles]
 
-The Fish
+
+
+## The Fish
 
 (Class Eleven of the Animal Kingdom)
 
 Oviparous animals, vertebrate and with cold blood; living in water, breathing by gills; covered with a skin, either scaly or almost bare and viscous, and having for movement only membranous fins, held up by a bony or cartilaginous framework.
 
-Observations
+
+### Observations
 
 The organic structure of fish is much more perfected than that of mollusks and of the animals of the preceding classes, since they are the first animals which have a vertebral column, the outline of a skeleton, a spinal chord, and a skull enclosing the brain. They are also the first in which the muscular system derives its points of attachment from interior parts.
 
@@ -403,3 +410,36 @@ Sphyraena
 Lepisosteus
 Polypterus
 Scombresox
+
+
+(2) An opercule over the gills but no membrane.
+
+STERNOPTYGES
+
+31. . . . . . . . . . . . .
+
+Sternoptyx
+
+(3) No opercule over the gills, but a membrane
+
+32. . . . . . . . . . . .
+
+Mormyrus
+Stylophorus
+
+(4) No operculum nor membrane over the gills; no paired lower fins
+
+OPHICHTHIANS
+
+33. . . . . . . . . . . 
+
+Unibranch aperture
+Sphagebranchus
+
+Murenophis
+Gymnomuraena
+
+
+Since the skeleton started to form itself in the fish, those called cartilaginous are probably the least perfected fish, and consequently the most imperfect of all must be the gasterobranch which Linnaeus, under the name myxine, considered a worm.  
+
+Thus, in the order which we are following, the genus gasterobranch must be the first of the fish, because it is the least perfected.

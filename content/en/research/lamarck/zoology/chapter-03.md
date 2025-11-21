@@ -2,7 +2,10 @@
 title: The Influence of Circumstances on the Actions and Habits of Animals
 heading: Chapter 3
 description: 
-
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
 weight:  11

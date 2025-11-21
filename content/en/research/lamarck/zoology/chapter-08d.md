@@ -5,7 +5,7 @@ heading: Chapter 8c
 description: 
 c: "deeppink"
 date: 2025-09-16
-weight: 72
+weight: 77
 ---
 
 <!-- POLYPS

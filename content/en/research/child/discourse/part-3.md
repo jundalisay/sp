@@ -24,22 +24,18 @@ More might be said, but the premises being considered, I judge will suﬃciently
 
 Near home we see it evidently, in Scotland and Ireland, where 10-12% is paid for interest; the people are poor and despicable, their persons ill clothed, their houses worse provided, and money intolerable scarce, notwithstanding they have great plenty of all provisions, nor will their land yield above eight or ten years purchase at most.
 
-In France where money is at seven per cent. their lands will yield about 18 years purchase; and the gentry who possess lands, live in good
-condition, tho’ the peasants are little better than slaves, because they can possess nothing but at the will of others.
+In France where money is at seven per cent. their lands will yield about 18 years purchase; and the gentry who possess lands, live in good condition, tho’ the peasants are little better than slaves, because they can possess nothing but at the will of others.
 
 In Italy money will not yield above 3% to be let out upon real security.
 
 There the people are rich, full of trade, well attired, and their lands will sell at thirty ﬁve to forty years purchase; and that it is so, or better with them in Holland, is too manifest.
 
-In Spain the usual interest is ten and twelve per cent. and there, notwithstanding they have the only trade in the world for gold and sil-
-ver, money is no where more scarce; the people poor, despicable, and void of commerce, other than such as the English, Dutch, Italians, Jews,
-and other foreigners bring to them; who are to them in eﬀect, but as leeches, who suck their blood and vital spirits from them.
+In Spain the usual interest is ten and twelve per cent. and there, notwithstanding they have the only trade in the world for gold and silver, money is no where more scarce; the people poor, despicable, and void of commerce, other than such as the English, Dutch, Italians, Jews, and other foreigners bring to them; who are to them in eﬀect, but as leeches, who suck their blood and vital spirits from them.
 
-I might urge many other instances of this nature, not only out of Christendom, but from under the Turks dominions, East-India and
-America: but every man by his experience in foreign countries, may easily inform himself, whether this rule does universally hold true or not: for
-my part, to satisfy my own curiosity, I have for some years, as occasion oﬀered, diligently enquired of all my acquaintance that had knowledge
-of foreign countries, and I can truly say that I never found it to fail in any particular instance.
+I might urge many other instances of this nature, not only out of Christendom, but from under the Turks dominions, East-India and America: but every man by his experience in foreign countries, may easily inform himself, whether this rule does universally hold true or not: for my part, to satisfy my own curiosity, I have for some years, as occasion oﬀered, diligently enquired of all my acquaintance that had knowledge of foreign countries, and I can truly say that I never found it to fail in any particular instance.
 
 If de facto, England is richer 8 times than it was before any law for interest was made, and that all countries are at this day richer or poorer in an exact proportion to what they pay, and have usually paid for the interest of money; it remains that we enquire carefully, whether the abatement of interest be in truth the cause of the riches of any country, or only the concomitant or eﬀect of the riches of a country; in which seems to lie the intricacy of this question.
 
-To satisfy myself in which, I have taken all opportunities to discourse this point with the most ingenious men I had the honour to be known to, and have searched for, and read all the books that I could ever hear were printed against the abatement of interest, and seriously considered all the arguments and objections used by them against it; all which have tended to conﬁrm me in this opinion, which I humbly oﬀer to the consideration of wiser heads, viz. that the abatement of interest is the cause of the prosperity and riches of any nation, and that the bringing down of interest in this kingdom from  to , or  per cent. will necessarily, in less than twenty years time, double the capital stock of the nation.
+To satisfy myself in which, I have taken all opportunities to discourse this point with the most ingenious men I had the honour to be known to, and have searched for, and read all the books that I could ever hear were printed against the abatement of interest, and seriously considered all the arguments and objections used by them against it.
+
+All which have tended to conﬁrm me in this opinion, which I humbly oﬀer to the consideration of wiser heads, viz. that the abatement of interest is the cause of the prosperity and riches of any nation, and that the bringing down of interest in this kingdom from  to , or  per cent. will necessarily, in less than twenty years time, double the capital stock of the nation.

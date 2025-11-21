@@ -2,7 +2,8 @@
 title: The Importance of Considering Affinities
 heading: Chapter 2b
 description: 
-  c: "deeppink"
+icon: Lamarck
+c: "deeppink"
 date: 2025-09-16
 weight: 9
 ---

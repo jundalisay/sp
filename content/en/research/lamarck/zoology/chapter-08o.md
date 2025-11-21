@@ -1,21 +1,16 @@
 ---
-title: "Fourth Order: Chelonian Reptiles"
-heading: Chapter 8h
+title: "Class 13: Birds"
+heading: Chapter 8o
 description: 
-
 c: "deeppink"
 date: 2025-09-16
-weight: 91
+weight: 125
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 ---
-
-
-Heart with a double auricle; body equipped with a carapace and four limbs; no teeth in the jaw bones
-
-Chelonia
-Chelys
-
-Emys
-Tortoise
+ 
 
 SIXTH DEGREE OF ORGANIC STRUCTURE
 
@@ -23,7 +18,7 @@ Nerves ending at a spinal chord and a brain which fills the cranial case; heart 
 
 [Birds and Mammals]
 
-BIRDS
+
 
 (Thirteenth Class of the Animal Kingdom)
 
@@ -63,6 +58,8 @@ Jacamar
 
 Ani
 Cuckoo
+
+
 
 SECOND ORDER: RAPTORS
 
@@ -272,19 +269,3 @@ Ornithorhynchus
 Echidna
 
 Note: I have already spoken of these animals in Chapter VI, where I showed that they are neither mammals, nor birds, nor reptiles.
-
-MAMMALS
-
-(Fourteenth Class of the Animal Kingdom)
-
-Viviparous animals with mammary glands; four articulated limbs, or only two; respiration entirely by lungs which are not pierced on the outside; hair on some parts of the body.
-
-Observations
-
-In the order of nature, which clearly proceeds from the simplest towards the most complex in its workings on living bodies, the mammals necessarily make up the last class of the animal kingdom.
-
-This class effectively includes the most perfect animals, those which have the most faculties, the most intelligence, and finally, the most complex organic structure.
-
-These animals whose structure comes closest the that of man display for this reasons a combination of senses and faculties more perfect than all the others.  They are the only ones which are truly viviparous and which have mammary glands to suckle their young.
-
-Thus, the mammals display the most significant complexity in the organic structure of animals, and represent the limit in the perfectioning and in the number of faculties which nature, with the help of this organic structure, was able to give to living bodies.  Therefore, they must come at the end of the immense series of existing animals
