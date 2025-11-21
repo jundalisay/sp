@@ -1,6 +1,6 @@
 ---
 title: "The Comet's Tail and Its Various Phenomena"
-heading: Articles 133-139
+heading: Articles 133-135
 weight: 60
 description: "Comets exhibit a long, radiant tail, which gives them their name"
 writer:
@@ -33,7 +33,6 @@ All else being equal, the the tail appears longer the farther the Earth is from 
 Sometimes, when the comet is hidden under the Sun's rays, only the tip of its tail, resembling a fiery beam, is visible. 
 
 Lastly, the tail can sometimes be wider or narrower, straight or curved, and sometimes directly opposed to the Sun or not precisely so.
-
 
 
 
@@ -139,54 +138,4 @@ If the obliquity is 90 degrees, the rays are not sent to the other side except a
 
 Conversely, rays obliquely scattered towards the center of the circle are stronger the greater the obliquity. -->
 
-
-## 136. Explanation of the Comet’s Tail Appearance
-
-<!-- celestial -->
-We apply this demonstration to air-aether globules. 
-
-There is no place for the larger globules to immediately replace the much smaller ones.
-
-Yet, the difference between those beyond Saturn's orbit and those near Earth's orbit is similar to the described difference between larger and smaller globules.
-
-Therefore, the effect of this inequality on Earth's orbit should be the same as if the smallest globules immediately followed the larger ones, except that the lines along which these rays are dispersed are not straight but gradually curved.
-
-Let `S` be the Sun.
-- Circle `2345` is the Earth's counterclockwise orbit
-- `DEFG` is the territorial boundary where the air-aether globules between the large globules near Saturn and the small globules near the Sun
- <!-- start to decrease in size towards the Sun.  -->
- <!-- celestial -->
-
-{{< i s="/graphics/d/comet.jpg" a="Comet tail" >}}
-
- <!-- sky -->
-`C` is a comet in our solar system. The Sun's rays striking this comet are reflected towards all parts of the spheroid `DEFGH`. Those perpendicular to F mainly go straight to `3` but are also scattered sideways. 
-
-Rays obliquely striking `G` go straight to `4` but are also refracted towards `3`.
-
-Those hitting `H` do not reach Earth's orbit directly but are reflected towards `4` and `5`, and so forth.
-
-Thus, if Earth is at `3`, this comet will appear from there with its tail spread in all directions.
-
-<!-- , resembling what is called a comet -->
-
-<!-- Namely, if S is the Sun, 2345 the orbit through which the Earth is carried in the space of a year, according to the order of the notes 234, DEFG that point from which the celestial globules begin to be gradually smaller and smaller up to the Sun (which point we said above does not have the shape of a perfect sphere, but of an irregular spheroid, much flatter towards the poles than towards the ecliptic), and let C be a Comet existing in our sky. 
-
-The rays of the Sun impinging on this Comet are reflected from there, towards all parts of the spheroid DEFGH, so that those which fall perpendicularly on F, AT VIII-1, 190 go straight to 3 for the most part, but still some of them are scattered here and there; and those which fall obliquely on G, not only go straight towards 4, but also are refracted towards 3;
-
-Finally, those which fall on H, do not reach the orbit of the Earth directly, but only reflect towards 4 and 5, and so on for the others.  -->
-
-<!-- Hence it is clear that if the Earth is in the part 3 of its orbit, this Comet will be seen from it, with its tail dispersed in all directions;  -->
-
-This type of Comet they call a Rose. 
-- The direct rays from `C` to `3` form its head.
-- The weaker ones, which are reflected from `E` and `G` towards `3`, will show its hair. 
-
-But if the Earth is in `4`, the same Comet will be seen through the straight rays `CG4`. Its coma, or rather tail, extends towards only one part, through rays from `H` and other places between `G` and `H` reflected towards `4`. 
-
-If the Earth is at `2`, the Comet will be seen by the straight rays `CE2`. Its coma will be seen by the oblique ones, which are between `CE2` and `CD2`.
-
-There will be no difference except that:
-- with the eye at `2`, the Comet will be seen in the morning, and its coma will precede it. 
-- with the eye at `4`, the Comet will be seen in the evening, and it will drag its tail behind it. 
 

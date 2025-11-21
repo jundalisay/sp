@@ -12,21 +12,34 @@ icon: "Rene Descartes"
 
 
 
-## 137. How beams also appear
 
-If the eye is towards `Point S`, it will be prevented by the rays of the Sun from seeing the Comet itself. 
-
-It will see only a part of its coma, like a fiery beam.
-
-This will appear either in the evening or in the morning, according to whether the eye is closer to `Point 4` or `Point 2`.
-
-If the eye is in the middle `Point 5`, the comet might appear one in the morning and the other in the evening. 
+## 138. Why the tails of comets are sometimes a little curved, not always straight, nor directly opposite the Sun.
 
 
+The tail or hair of comets does not always appear completely straight [going from the comet to the sun in a line]. 
 
-## 138. Why the tails of Comets, not always directly opposite the Sun, nor always straight, appear
+Instead, it:
+- deviates or bends from it somewhat. 
+- does not always appear equally broad
+  - Sometimes it appears narrower
+  - Sometimes it appears brighter when the rays that come from its sides converge toward the eye
 
-This coma or tail is sometimes:
+All of these are caused by the the sphere `DEFGH` not being regular. 
+
+Its shape is flatter towards the poles [minor axis of ellipse] than elsewhere.
+- This is why the tails of the Comets are straighter and broader at the poles. 
+<!-- - The tails of comets must be straighter and broader there. -->
+
+But when the tails extend obliquely across between the poles and the ecliptic, [major axis of ellipse] they are curved and bend a little from the line that passes through the centers of the Sun and the comet.
+
+Finally, when they extend farther in those regions, they are brighter and narrower.
+
+
+ <!-- than in other places. -->
+
+<!-- I do not think that any observation ever made about comets—which should not be taken as fable nor as miracle—fails to have its reason explained here. -->
+ 
+<!-- This coma or tail is sometimes:
 - straight
 - curved
 - in a straight line, which passes through the centers of the Comet and the Sun
@@ -42,9 +55,10 @@ This makes the tails of Comets appear straighter and wider.
 - In the bend between the poles and the ecliptic, this makes it appear more curved
 - Deviating from the opposite Sun and according to the length of this bend, it appears brighter and narrower. 
 
-All the causes explained here have been observed so far about Comets in reality.
+All the causes explained here have been observed so far about Comets in reality. -->
 
 <!-- , at least not anything to be considered neither as a fable nor as a miracle, whose cause is not here.  -->
+
 
 ## 139. Why do such comae not appear around Fixed Stars or around the higher planets Jupiter and Saturn?
 
