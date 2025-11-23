@@ -1,5 +1,5 @@
 ---
-title: "THE ELEMENTS OF MATTER"
+title: "The Elements Of Matter"
 heading: "CHAPTER 5"
 description: ""
 c: "firebrick"

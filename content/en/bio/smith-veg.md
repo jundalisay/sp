@@ -5,6 +5,7 @@ date: 2016-06-20
 lastmod: 2025-01-11
 keywords: ["Potatoes", "Dairy"]
 image: /photos/psych/eat.jpg
+tags: ['potatoes']
 description: "Adam Smith was a Vegetarian who favored potatoes"
 writer:
   name: Lam
@@ -61,7 +62,7 @@ Meat is not a necessary of life. It is known from experience that grain and vege
 Smith's biographer Rae even writes that Dr. Joseph Black, the scientist who first documented the properties of CO2, was a vegetarian:
 
 
-{{< q c="Simple Life Of Adam Smith" >}}
+{{< q a="Rae" c="Simple Life Of Adam Smith" >}}
 Black was a vegetarian. His usual fare was “some bread, a few prunes, and a measured quantity of milk diluted with water.” Adam Smith’s only weakness was for lump sugar. 
 {{< /q >}}
 
@@ -87,10 +88,8 @@ They come from the poorest people in Ireland who eat potatoes. This proves the n
 
 Indian philosopher PR Sarkar also praises potatoes for its nutrition and ease of cultivation. 
 
-{{< q a="Sarkar" c="Ideal Farming" >}}
-Potato is one of the most common vegetable crops. It is high in carbohydrates, contains many vitamins and is very satisfying. In emergency conditions it can be eaten instead of rice.
-
-Potato is especially beneficial when:
+{{< q a="PR Sarkar" c="Ideal Farming" >}}
+Potato is one of the most common vegetable crops. It is high in carbohydrates, contains many vitamins and is very satisfying. In emergency conditions it can be eaten instead of rice. Potato is especially beneficial when:
 - little land is available for cultivation
 - many people must be fed economically.
 {{< /q >}}

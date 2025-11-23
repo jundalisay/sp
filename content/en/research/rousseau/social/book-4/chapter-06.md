@@ -1,9 +1,9 @@
 ---
 heading: Chapter 6
-title: "THE DICTATORSHIP"
+title: "The Dictatorship"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 12
 date: 2025-01-11
 ---
 

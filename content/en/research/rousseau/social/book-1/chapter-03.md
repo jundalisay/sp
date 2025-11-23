@@ -5,7 +5,12 @@ description: ""
 c: "firebrick"
 weight: 8
 date: 2025-01-11
+icon: Rousseau
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 ---
+
 
 
 The strongest can only be the master if he transforms:

@@ -1,9 +1,9 @@
 ---
 heading: Chapter 10
-title: "THE ABUSE OF GOVERNMENT AND ITS TENDENCY TO DEGENERATE"
+title: "The Abuse Of Government And Its Tendency To Degenerate"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 27
 date: 2025-01-11
 ---
 
@@ -41,11 +41,17 @@ In order that I may give different things different names, I call him who usurps
 
 A case certain to be cited against my view is that of the Roman Republic, which, it will be said, followed exactly the opposite course, and passed from monarchy to aristocracy and from aristocracy to democracy. I by no means take this view of it.
 
-What Romulus first set up was a mixed government, which soon deteriorated into despotism. From special causes, the State died an untimely death, as new-born children sometimes perish without reaching manhood. The expulsion of the Tarquins was the real period of the birth of the Republic. But at first it took on no constant form, because, by not abolishing the patriciate, it left half its work undone. For, by this means, hereditary aristocracy, the worst of all legitimate forms of administration, remained in conflict with democracy, and the form of the government, as Macchiavelli has proved, was only fixed on the establishment of the tribunate: only then was there a true government and a veritable democracy. In fact, the people was then not only Sovereign, but also magistrate and judge; the senate was only a subordinate tribunal, to temper and concentrate the government, and the consuls themselves, though they were patricians, first magistrates, and absolute generals in war, were in Rome itself no more than presidents of the people.
+What Romulus first set up was a mixed government, which soon deteriorated into despotism. From special causes, the State died an untimely death, as new-born children sometimes perish without reaching manhood. The expulsion of the Tarquins was the real period of the birth of the Republic. But at first it took on no constant form, because, by not abolishing the patriciate, it left half its work undone. 
+
+For, by this means, hereditary aristocracy, the worst of all legitimate forms of administration, remained in conflict with democracy, and the form of the government, as Macchiavelli has proved, was only fixed on the establishment of the tribunate: only then was there a true government and a veritable democracy. 
+
+In fact, the people was then not only Sovereign, but also magistrate and judge; the senate was only a subordinate tribunal, to temper and concentrate the government, and the consuls themselves, though they were patricians, first magistrates, and absolute generals in war, were in Rome itself no more than presidents of the people.
 
 From that point, the government followed its natural tendency, and inclined strongly to aristocracy. The patriciate, we may say, abolished itself, and the aristocracy was found no longer in the body of patricians as at Venice and Genoa, but in the body of the senate, which was composed of patricians and plebeians, and even in the body of tribunes when they began to usurp an active function: for names do not affect facts, and, when the people has rulers who govern for it, whatever name they bear, the government is an aristocracy.
 
 The abuse of aristocracy led to the civil wars and the triumvirate. Sulla, Julius Cæsar and Augustus became in fact real monarchs; and finally, under the despotism of Tiberius, the State was dissolved. Roman history then confirms, instead of invalidating, the principle I have laid down.
 
-[2] Omnes enim et habentur et dicuntur tyranni, qui potestate utuntur perpetua in ea civitate quæ libertate usa est (Cornelius Nepos, Life of Miltiades). [For all those are called and considered tyrants, who hold perpetual power in a State that has known liberty.] It is true that Aristotle (Nicomachean Ethics, Book viii, chapter x) distinguishes the tyrant from the king by the fact that the former governs in his own interest, and the latter only for the good of his subjects; but not only did all Greek authors in general use the word tyrant in a different sense, as appears most clearly in Xenophon's Hiero, but also it would follow from Aristotle's distinction that, from the very beginning of the world, there has not yet been a single king.
+[2] Omnes enim et habentur et dicuntur tyranni, qui potestate utuntur perpetua in ea civitate quæ libertate usa est (Cornelius Nepos, Life of Miltiades). [For all those are called and considered tyrants, who hold perpetual power in a State that has known liberty.] 
+
+Aristotle (Nicomachean Ethics, Book viii, chapter x) distinguishes the tyrant from the king by the fact that the former governs in his own interest, and the latter only for the good of his subjects; but not only did all Greek authors in general use the word tyrant in a different sense, as appears most clearly in Xenophon's Hiero, but also it would follow from Aristotle's distinction that, from the very beginning of the world, there has not yet been a single king.
 

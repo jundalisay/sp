@@ -8,10 +8,11 @@ date: 2025-01-11
 ---
 
 
+No accumulation of capital will permanently lower profits, unless there be some permanent cause for the rise of wages. 
 
-From the account which has been given of the profits of stock, it will appear, that no accumulation of capital will permanently lower profits, unless there be some permanent cause for the rise of wages. 
+If the funds for maintaining labour were doubled, trebled, or quadrupled, the labour would easily be procured.
 
-If the funds for the maintenance of labour were doubled, trebled, or quadrupled, there would not long be any difficulty in procuring the requisite number of hands, to be employed by those funds; but owing to the increasing difficulty of making constant additions to the food of the country, funds of the same value would probably not maintain the same quantity of labour.
+But due to the increasing difficulty of making constant additions to the food of the country, funds of the same value would probably not maintain the same quantity of labour.
 
 If the necessaries of the workman could be constantly increased with the same facility, there could be no permanent alteration in the rate of profits or wages, to whatever amount capital might be accumulated. 
 
@@ -117,4 +118,8 @@ In time of peace, on the contrary, the ope414rations of the sinking fund, the un
 
 Whilst 100l. capital in 5% stock is selling for 95l., an exchequer bill of 100l., will be sometimes selling for 100l. 5s., for which exchequer bill, no more interest will be annually paid than 4l. 11s. 3d.: one of these securities pays to a purchaser at the above prices, an interest of more than 5¼%, the other but little more than 4¼; a certain quantity of these exchequer bills is required as a safe and marketable investment for bankers; if they were increased much beyond this demand, they would probably be as much depreciated as the 5% stock. A stock paying 3% per annum will always sell at a proportionally greater price than415 stock paying 5%, for the capital debt of neither can be discharged but at par, or 100l. money for 100l. stock. 
 
-The market rate of interest may fall to 4%, and Government would then pay the holder of 5% stock at par, unless he consented to take 4%, or some diminished rate of interest under 5%: they would have no advantage from so paying the holder of 3% stock, till the market rate of interest had fallen below 3% per annum. To pay the interest on the national debt, large sums of money are withdrawn from circulation four times in the year for a few days. These demands for money being only temporary, seldom affect prices; they are generally surmounted by the payment of a large rate of interest.35
+The market rate of interest may fall to 4%, and Government would then pay the holder of 5% stock at par, unless he consented to take 4%, or some diminished rate of interest under 5%: they would have no advantage from so paying the holder of 3% stock, till the market rate of interest had fallen below 3% per annum. 
+
+To pay the interest on the national debt, large sums of money are withdrawn from circulation four times in the year for a few days.
+
+These demands for money being only temporary, seldom affect prices; they are generally surmounted by the payment of a large rate of interest.

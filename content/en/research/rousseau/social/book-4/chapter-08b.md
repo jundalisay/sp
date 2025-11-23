@@ -1,11 +1,16 @@
 ---
-heading: Chapter 7b
-title: "The Censorship"
+heading: Chapter 8b
+title: "The Kinds of Religion"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 28
 date: 2025-01-11
+icon: Rousseau
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 ---
+
 
 
 Religion, considered in relation to society, which is either general or particular, may also be divided into two kinds:
@@ -134,8 +139,6 @@ Henry 4th embraced the Roman religion. This should made every honest man leave h
  <!-- it, and still more any prince who knows how to reason. -->
 
 
-
-
 [1] Nonne ea quæ possidet Chamos deus tuus, tibi jure debentur? (Judges xi. 24). Such is the text in the Vulgate. 
 
 Father de Carrières translates: "Do you not regard yourselves as having a right to what your god possesses?" I do not know the force of the Hebrew text: but I perceive that, in the Vulgate, Jephthah positively recognises the right of the god Chamos, and that the French translator weakened this admission by inserting an "according to you," which is not in the Latin.
@@ -158,5 +161,4 @@ Being in a position to marry or not to marry people, according to their acceptan
 <!-- ### CHAPTER 9: CONCLUSION
 
 Now that I have laid down the true principles of political right, and tried to give the State a basis of its own to rest on, I ought next to strengthen it by its external relations, which would include the law of nations, commerce, the right of war and conquest, public right, leagues, negotiations, treaties, etc. But all this forms a new subject that is far too vast for my narrow scope. I ought throughout to have kept to a more limited sphere.
-
  -->

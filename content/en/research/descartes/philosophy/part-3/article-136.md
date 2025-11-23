@@ -86,6 +86,9 @@ The only difference in this case is that when the Earth is at `2`, this Comet wi
 When the Earth is at `4`, the Comet will be seen in the evening with a tail that it will drag behind itself.
 
 
+{{< i s="/graphics/d/cometfix.jpg" a="Comet tail Fixed" c="We fix Descartes' refraction by simplifying it to concave and convex mirror analogies. Earth moving away from a comet will create a front facing tail because the increasing space acts a convex lens that flips the tail" >}}
+
+
 
 ## 137. Explanation of the appearance of fire chevrons
 

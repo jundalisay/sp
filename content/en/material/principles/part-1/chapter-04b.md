@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 4b"
-title: "Physical Identity SOA2: Quantum Spin"
-# date: 2020-01-01
-image: "/graphics/physics/waveflow.jpg"
-description: "Waves can be seen as identity or as flow"
+title: "The Sponge Universe"
+date: 2025-11-22
+image: "/graphics/physics/balloon.jpg"
+description: "we replace the Big Bang with the Sponge Universe of Descartes"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,193 +12,162 @@ icon: "Juan"
 ---
 
 
-Physical Identity is the main substance of Existence that within physical existence. 
+Material Superphysics is based on the Aether.
 
-Existence with capital E is made up of:
-- metaphysical existence
-  - This is the focus of Material Superphysics 
-- physical existence
-  - This is the focus of Bio, Social, and Spiritual Superphysics 
+This is opposite of Physics which is based on Matter. 
 
+This leads to different and opposing models for the unvierse.
 
-Normally, physical identity is discerned when it exists separate from another identity in space but not in time.
-
-However, the aethereal layer is above the spatial layer which becomes irrelevant. So how do we define identities if space doesn't exist to spatially separate identities?
-
-
-## Differences in monads as wave differences are used to separate identities
-
-Since space and time is irrelevant, we used the differences in wave quality.
-
-For example, in an orchestral music, we hear different instruments all at the same time and space (as the sound):
-- violin
-- cello 
-- double bass
-- piccolo
-- flute
-- trumpet
-- trombone
-- cymbals
-- bass drum
-- snare drum
-
-We identify them separately based on the differences of the soundwaves that they produce.
-
-This is done by our aethereal Cartesian Plane.  
-
-
-## Particle Spin
-
-Chapter 3 will explain the MSQ model. 
-
-The media are force particles that go into substances and quanta (which are non force particles).
-- The force particles are bolts
-- The non force particles are nuts
-
-The force particles have a length relative to the non force particles. 
-
-We call this the force-receiver ratio. 
-
-- A 1:1 force-receiver ratio means that it takes 1 force particle to fully rotate a receiver particle. An analogy is a bolt that fully fits a nut 
-- A 1:2 ratio means that 1 force particle can rotate 2 receivers. An analogy is a long bolt that fully fits 2 nuts
-- A 2:1 ratio means that 2 force particle are needed to rotate 1 receiver. This is a short bolt that goes into half a nut 
-<!-- - A 0:1 ration means that 1 force particle does not spin a receiver -->
-
-In Modern Physics, these ratios are known as particle spin: 0, 1, 1/2
-
-Spin | Sample Particle
---- | ---
-0 | Higgs Boson
-1 | Photon 
-2 | Graviton 
-1/2 | Fermions
-
-
-### The Big Problem with Quantum Spin of Physics
-
-Instead of being a force-nonforce ratio, Physics interprets this principle as quantum spin, as how fast a particle comes back to its original state upon being rotated in space.
-
-- A spin 0 does not change its state when its space changes
-  - This is a point
-- A spin 1 means its state changes as fast as its space changes
-  - This is a vector
-- A spin 2 means its state changes 2x as fast as its change in space (relative to spin 1)
-  - This is a double vector
-- A spin 1/2 means its state changes half as fast
-  - These are called "Fermions" 
-
-Focus particles have an "integer" spin, while Non-force particles have a "half-integer" spin.
-
-
-Modern Physics | Material Superphysics
---- | ---
-Spin | Force-Nonforce Ratio
-Charges | Micro Channels
-Poles | Macro Channels
-
-
-The whole problem with the Physics version began when Wolfgang Pauli discredited classical particle spin by saying that it violates the speed of light because the particle would have to spin or rotate faster than light.
-
-This is one of the dogmas created by Einstein's Relativity.
-
-<!-- and is why Einstein is such an evil person in the intellectual sense. -->
-
-
-## Force-Nonforce Ratio
-
-We explain that the electron spins within the speed of light because it needs 2 virtual photons to actually reach a complete spin. 
-- 1 virtual photon travels at the speed of light
-- But each unit of forward or horizontal motion only produces a fraction of vertical motion 
-
-The fractional spin of the electron per passing virtual photon ensures that the electron spins within the speed of light.  
-
-
-If follows that:
-- "spin 0" particles do not rotate at impact of force particles -- this is because they are boundaries
-- "spin 1" particles rotate at the speed of light since they are the basis for the measure
-- "spin 2" particles rotate faster than the speed of light -- this is the nature of the spatial layer with confines the radiant
-- "spin 1/2" particles rotate slower than the forward motion of light
-- "spin 3/2, 5/2", and higher can spin faster than the speed of light.
-  - **This would make them change their location in space and time.** 
-
-Therefore spins that are higher than 1 is the requirement for teleportation and levitation which changes a particles spacetime location.
-
-
-{{< i s="/graphics/physics/effort.jpg" a="Teleportation and Levitation" >}}
-
-
-
-<!--  charges represent the rotation direction of a spinning particle. 
-
-Its **rotation orientation**, on the other hand, debited by up or down spin. 
-
-This is revealed by running the particle through a magnetic field.
-- This is because a magnetic field, as explained in Chapter 3, is really a flow of virtual photons `mor2`.
-- These virtual photons are columnar in nature and so they corkscrew through other particles.
-
-
-This columnar nature is the reason why Physics calls photons or force particles as being `spin 1`. 
-- Matter particles on the other hand are flatter and non-columnar. 
-- This makes them have a 'half-integer' spin.
-
-
-When a `mor2` corkscrews through a particle, it causes that particle to spin.
-
-An electron or `qor1` has spin `1/2`. And so a magnetic field will cause:
-- half of the electrons to go in one direction and
-- the rest to go to another. 
-
-This can be explained classically without any quantum mechanics. 
-
-In fact, this is what Lorentz and Zeeman assigned as the cause for the Zeeman Effect.  -->
-
-
-
-
-<!-- light has direction as polarization    -->
-
-<!-- Particle | Spin | Spin States
+_ | Physics | Material Superphysics 
 --- | --- | ---
-Photon (mor1) | 1 | 3
-Electron (qor1) | 1/2 |  -->
-
-<!-- Flat 3-dimensional particles have a "spin" of 1/2 in Physics because they can flip. 
-
-Linear and columnar particles have a "spin" of 1 in Physics because they are rigidly linear.
-
-However, there are particles that can be linear and flat. Examples are:
-- spacetime particles
-- heat particles -->
+Theory | Big Bang | Sponge 
+Element | Matter | Aether
+Mechanism | Material Gravity | Space Particles or 2nd Element
+Space | Finite | Infinite 
+Time | 13.8 billion years | Eternal 
 
 
-<!-- For example, heat has a force that can make things expand. This is when heat switches from linear, going with photons, to flat, going with spacetime.
+## The Fallacy of the Big Bang
 
-Likewise, spacetime particles can go from linear, as the force of gravity and dark matter, to being flat, as energetic vortices (barycenters) or empty space which have less energy.
+The Newtonian belief that gravity comes from matter leads to the idea of a material Big Bang. 
 
-Cartesian Physics is all about vortices whether it be spiral galaxies, spinning black holes, vortex hurricanes, or DNA helixes. 
+This was postulated by the priest George Lemaitre after atomic theory was established. 
 
-Subatomic vortices are known as particle spin in Modern Physics which have the characeristics of charge and helicity. 
+{{< q a="Georges Lemaitre" c="The Primeval Atom">}}
+In this first phase of the expansion of space, starting asymptotically with a zero radius, we have particles of enormous velocities immersed in radiation.
+{{< /q >}}
 
-A particle is either positive, negative, or neutral based on Benjamin Franklin's naming convention. 
 
-We replace this with female, male, and bisexual charge to stand for clockwise, anticlockwise, and cancelling rotations.  
+This was later apparently "proven" by the cosmic microwave background which was detected many years later. 
 
-This will make isotopes more intuitive, as an atom being more unstable or unsure of itself the more bisexual neutrons it has.
+However, since Newton did not know the cause of gravity, then the cause of the Big Bang was also unknown. And so physicists could only guess how the universe began and how it will end. 
 
-For example, Deuterium has less neutrons than Tritium and is more stable.
+{{< q a="Newton" c="Principia Mathematica, Book 1, Definitions" >}}
+The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
+{{< /q >}}
 
-Uranium-235 has less neutrons than Uranium-238 and is more focused and fissile. 
 
-Spin number is the ratio of force-particles that are needed to spin the matter-particle. For example, an electron is spin 1/2 and so needs 2 virtual photons to make a complete turn. 
+The Fallacy of the Big Bang was later seen through:
+- The Hubble Tension where the expansion of the universe was measured to have different speeds
+- James Webb Space Telescope finding 'impossible' galaxies
 
-Spin 3/2 and 5/2 particles therefore spin faster than the physical speed limit. This is why they are split up into "Cooper pairs" by spacetime. 
 
-However, negating this effect by spacetime will lead to teleportation of matter. 
+## The Solution: A Sponge Universe
 
-All particles move forward in space. Heliity is whether they move forward anticlockwise (right-handed) or clockwise (left-handed).
+In 1644, Descartes published his expansion theory with an analogy of a sponge: -->
 
-Helicity is relevant mostly for the weak force and particle decay. There are only left-handed neutrinos because W boson are huge relative to it, forcing it to move bottom-first. 
-                                                   
-  -->
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article " >}}
+A sponge full of water is different from a dry sponge because the wet sponge has wider pores. This makes its body more diffused over a larger physical space. But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry. 
+{{< /q >}}
+
+
+This matches the current expansion of the universe which Physics compares to a balloon expanding.
+
+{{< youtube ZvcdkNKxxoQ >}}
+
+However, we stick to a sponge analogy because the balloon analogy causes matter to expand as well. 
+
+{{< i s="/graphics/meta/space.jpg" a="Sponge" >}}
+
+
+An expanding sponge keeps the matter of the sponge at the same density while matching the look of the cosmic web.
+- The dark holes are made up of the 2nd Element called aetherspace
+- The bright sopts and filaments are made up of the 3rd Element called matter, with the 2nd Element called space particles.
+
+{{< i s="/graphics/physics/balloon.jpg" a="Sponge" >}}
+
+This also emphasizes the liquid property of space which manifests as:
+- gravitational waves as proven by LIGO
+- acoustic bubbles as proven by DESI as baryonic acoustic oscillations
+
+The sponge universe has always existed and does not have a material start. 
+
+<!-- Descartes explained that gravity comes from the aether which is the substance of ideas and souls or abstract minds. -->
+
+
+## Dark Energy
+
+Instead of a material singularity, the matter in the universe comes from the energy of space. This is proven by quarks that emerge out of space as a result of excessive imposition of energy.
+
+The expansion is caused by 'dark energy' which we call the aetherspace which binds spacetime. 
+- These are bubbles that pop up everywhere and manifests as baryonic acoustic oscillations (BAOs).  
+- Bob Lazar calls them as Gravity-A waves, in contrast to Gravity-B which are space particles
+
+This aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
+
+
+{{< i s="/photos/physics/bao.jpg" a="BAOs" >}}
+
+
+## Heat Particles to Solve the Hubble Tension
+
+<!-- The CMB as local heat of cluster/s -->
+
+The Hubble Tension is the difference in the expansion speed of the universe measured through red shift at 73 kilometers per second per megaparsec (measured by James Webb) and through the CMB at 67 (measured by Planck Satellite). 
+
+This is easily solved through the concept of heat particles which have a shorter range than light particles. This is obviously seen in a lightbulb 300 meters away -- we can see the light, but we cannot feel its heat. 
+
+This means that the Cosmic Microwave Background (CMB) is the heat from galaxies and space within or near our galactic cluster.
+- The CMB has a short range
+- Red shifted stars have a much longer range
+
+This difference causes the Hubble Tension. 
+
+<!-- This is because heat particles have a shorter range than light particles because they are larger.  -->
+
+
+This matches the findings of DESI that shows expansion is faster in the distant universe which Physics wrongly interprets as going back in time!
+
+This is further consistent with the James Webb Space Telescope that found very distant galaxies already well-formed. This proves that those very distant galaxies are not ancient, but rather just very distant.
+
+
+
+The cause of these surprises was the false materialist belief called the [Big Bang Theory](/material/fallacies/big-bang) which says that the universe began as a primeval atom or singularity that exploded to create spacetime and the current galaxies. 
+
+Such a theory would lead to the following predictions:
+- There should be more galaxies at a certain region of the universe compared to others
+- Old galaxies should be bigger than new ones
+- Gravitational waves should be present because there was a huge singularity that created ripples in the fabric of space
+- There should be more temperature differences because of the expansion
+
+Such assumptions were destroyed by the findings of:
+- the **James Webb Space Telescope** which detected galaxies at the early universe being large instead of small
+- the **Planck satellite** which detected no gravitational waves in the CMB
+- **DESI** detecting variations in the acceleration of the expansion of space
+
+
+
+Since the aether or 5th Element is above spacetime or the 2nd Element, then the aether is not affected by space and time. 
+
+This means that the universe is eternal and infinite. 
+
+
+<!-- He described the expansion of space to be caused by the increase in space particles in an area without increasing the volume of matter. 
+
+This forms a sponge or a web that can expand or contract. 
+- Spacetime is the dense part of the universal sponge that contains matter and light
+- The aetherspace is the thin dark part that fills the gaps -->
+
+<!-- i s="/graphics/physics/balloon.jpg" a="Sponge Universe" c="The data from James Webb, DESI, and the Planck satellites jointly prove the dual nature of the 2nd Element or Spatial Layer" -->
+
+
+<!-- The properties of the media of the spatial layer, as space and aetherspace, lead to an eternal and infinite sponge universe. -->
+
+
+
+<!-- ## The Corruption in the Sciences
+
+The corrupted assumptions of Physics, just like the corrupted ones of Economics, create theoretical absurdities that lead to real problems.
+
+- The corrruption of Economics is the obsession with money
+- The corrruption of Physics is the obsession with visible things
+
+Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them into simplistic theories that are based on visible effects instead of invisible causes:
+
+- The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the hypothesis of the primeval atom
+
+- The force of gravity being based on matter is from Newton's ignorance on the cause of gravity
+
+These dogmas combined leads to the Big Bang theory which has been disproven by the recent data.
 
 

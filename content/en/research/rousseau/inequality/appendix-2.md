@@ -1,6 +1,6 @@
 ---
 heading: Appendix 2
-title: "We Must Always Go Back To A First Convention"
+title: "Luxury is the greatest of all evils"
 description: ""
 c: "firebrick"
 weight: 34
@@ -26,6 +26,7 @@ How many happy, but unequal, marriages have been broken or disturbed, and how ma
 
 How many good and virtuous husbands and wives are reciprocally punished for having been ill-assorted! How many young and unhappy victims of their parents' avarice plunge into vice, or pass their melancholy days in tears, groaning in the indissoluble bonds which their hearts repudiate and gold alone has formed! 
  -->
+
 Fortunate sometimes are those whose courage and virtue remove them from life before inhuman violence makes them spend it in crime or in despair.
 
 Forgive me, father and mother, whom I shall ever regret: my complaint embitters your griefs; but would they might be an eternal and terrible example to every one who dares, in the name of nature, to violate her most sacred right.

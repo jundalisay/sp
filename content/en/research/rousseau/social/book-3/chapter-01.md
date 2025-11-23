@@ -1,10 +1,14 @@
 ---
 heading: Chapter 1
-title: "GOVERNMENT IN GENERAL"
+title: "Government In General"
 description: ""
 c: "firebrick"
 weight: 4
 date: 2025-01-11
+icon: Rousseau
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 ---
 
 
@@ -154,3 +158,5 @@ From all these differences arise the various relations which the government ough
 
 
 [1] Thus at Venice the College, even in the absence of the Doge, is called "Most Serene Prince."
+
+

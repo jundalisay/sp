@@ -249,7 +249,7 @@ But it is merely repeating the same mistake in 2022 by not surrendering to Putin
 
 A barabarian would treat such non-surrendering as an affront which would be deal with it severely. This explains the harsh measures done by the Soviets against Ukraine.  
 
-Instead of acting like its barbarian neighbors, Ukraine was urged on by the love of liberty and wealth which is not common in that part of the world. This is because it knows that it has an asset in its fertile land. (Update 2025: We minerals as fertile mines).
+Instead of acting like its barbarian neighbors, Ukraine was urged on by the love of liberty and wealth which is not common in that part of the world. This is because it knows that it has an asset in its fertile land. (Update 2025: We add minerals as fertile mines).
 
 This violates the Law of Nature, leading to the problems that afflicts those who go against Nature. 
 

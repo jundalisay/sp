@@ -21,7 +21,9 @@ While the state coins money, and charges 501no seignorage, money will be of the 
 
 While the state alone coins, there can be no limit to this charge of seignorage; for by limiting the quantity of coin, it can be raised to any conceivable value.
 
-It is on this principle that paper money circulates: the whole charge for paper money may be considered as seignorage. Though it has no intrinsic value, yet, by limiting its quantity, its value in exchange is as great as an equal denomination of coin, or of bullion in that coin. On the same principle too, namely, by a limitation of its quantity, a debased coin would circulate at the value it should bear, if it were of the legal weight and fineness, not at the value of the quantity of metal which502 it actually contained. In the history of the British coinage, we find accordingly that the currency was never depreciated in the same proportion that it was debased; the reason of which was, that it never was multiplied in proportion to its diminished value.45
+It is on this principle that paper money circulates: the whole charge for paper money may be considered as seignorage. 
+
+Though it has no intrinsic value, yet, by limiting its quantity, its value in exchange is as great as an equal denomination of coin, or of bullion in that coin. On the same principle too, namely, by a limitation of its quantity, a debased coin would circulate at the value it should bear, if it were of the legal weight and fineness, not at the value of the quantity of metal which502 it actually contained. In the history of the British coinage, we find accordingly that the currency was never depreciated in the same proportion that it was debased; the reason of which was, that it never was multiplied in proportion to its diminished value.45
 
 After the establishment of banks, the state has not the sole power of coining or issuing money. The currency may as effectually be increased by paper as by coin; so that if a state were to debase its money, and limit its quantity, it could not support its value, because the banks would have an equal power of adding to the whole quantity of circulation.
 

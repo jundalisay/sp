@@ -1,15 +1,14 @@
-+++
-title=  "LEGACIES--Capital and Money lent"
-heading=  "Chapter 7"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 6"
-linkb=  "/research/musa/algebra/chapter-06"
-linkftext=  "Chapter 8"
-linkf=  "/research/musa/algebra/chapter-08"
-draft=  true
-+++
+---
+heading: "Chapter 7"
+title: "LEGACIES--Capital and Money lent"
+weight: 18
+c: "steelblue"
+description: "The Six Problems"
+draft: true
+date: 2020-01-30
+---
+
+
 
 A man dies, leaving two sons behind. 
 - He bequeathes 1/3 of his capital to a stranger.  

@@ -1,6 +1,6 @@
 ---
 heading: Appendix 1
-title: "We Must Always Go Back To A First Convention"
+title: "The Good and Evil of Life"
 description: ""
 c: "firebrick"
 weight: 24
@@ -103,4 +103,3 @@ If you add together all the dangers with which these causes are always threateni
 I shall not here repeat, what I have elsewhere said of the calamities of war; but wish that those, who have sufficient knowledge, were willing or bold enough to make public the details of the villainies committed in armies by the contractors for commissariat, and hospitals: we should see plainly that their monstrous frauds, already none too well concealed, which cripple the finest armies in less than no time, occasion greater destruction among the soldiers than the swords of the enemy.
 
 The number of people who perish annually at sea, by famine, the scurvy, pirates, fire and shipwrecks, affords matter for another shocking calculation. We must also place to the credit of the establishment of property, and consequently to the institution of society, assassinations, poisonings, highway robberies, and even the punishments inflicted on the wretches guilty of these crimes; which, though expedient to prevent greater evils, yet by making the murder of one man cost the lives of two or more, double the loss to the human race.
-

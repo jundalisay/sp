@@ -1,5 +1,5 @@
 ---
-title: "ATOMIC STRUCTURE"
+title: "Atomic Structure"
 # heading: "CHAPTER 5"
 description: ""
 c: "firebrick"
@@ -27,13 +27,12 @@ The three of action are the inner
 intersection planes of the cube and the
 three of reaction are the outer boundary
 planes of the wave field.
-All of these planes of the wave field are
-of zero curvature, but the spiral universe
-which is forming within those planes is
-curved. Curved planes of light act as
+
+All of these planes of the wave field are of zero curvature, but the spiral universe which is forming within those planes is curved. Curved planes of light act as
 two-way lenses which bend light to
 focal points and extend it from those
 focal points radially.
+
 As the two-way spirals of forming
 matter extend from the wave field
 center in opposite directions toward
@@ -44,18 +43,21 @@ cycle. Centers are formed at these focal
 points which become the one, two, three
 positive and negative elements of matter by rotating gyroscopically upon the wheels of light which act as
 equators for those horning tones.
+
 Multiplying and dividing pressures determine the density and volume of each succeeding element. The
 color spectrum records these pressures as the complete history of every element from octave to octave of
 the whole nine octave cycle of the elements.
 Multiplying pressures of the spiral also affect the curvature of its light lenses to such an extent that the
 focusing positions change their mathematical ratios in conformity with the acceleration of gravity and the
 deceleration of radiation.
+
 The positions of focal centers of gyroscopic wheels
 upon the wave shaft are thus affected as diagrammed
 in Fig. 76 and Fig. 72. Each element is the square of
 the distance to and from its succeeding one, in accordance with its direction. The direction of gravity is the
 inverse square, and the opposite direction is the direct
 square.
+
 The volume of each succeeding element is likewise
 affected directly and inversely as the cube.
 Six of the eight gyroscopic wheels of the whole

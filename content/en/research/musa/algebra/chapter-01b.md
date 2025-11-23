@@ -4,6 +4,7 @@ title: "Squares and Numbers Equal to Roots"
 weight: 4
 c: "steelblue"
 description: "Three kinds of numbers in calculations"
+draft: true
 ---
 
 

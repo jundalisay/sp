@@ -1,9 +1,9 @@
 ---
 heading: Chapter 11
-title: "THE DEATH OF THE BODY POLITIC"
+title: "The Death Of The Body Politic"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 34
 date: 2025-01-11
 ---
 
@@ -26,3 +26,4 @@ The State subsists by means not of the laws, but of the legislative power. Yeste
 Why then is so much respect paid to old laws? For this very reason. We must believe that nothing but the excellence of old acts of will can have preserved them so long: if the Sovereign had not recognised them as throughout salutary, it would have revoked them a thousand times.
 
 This is why, so far from growing weak, the laws continually gain new strength in any well constituted State; the precedent of antiquity makes them daily more venerable: while wherever the laws grow weak as they become old, this proves that there is no longer a legislative power, and that the State is dead.
+

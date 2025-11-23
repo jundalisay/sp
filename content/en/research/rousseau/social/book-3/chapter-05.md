@@ -1,10 +1,14 @@
 ---
 heading: Chapter 5
-title: "ARISTOCRACY"
+title: "Aristocracy"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 14
 date: 2025-01-11
+icon: Rousseau
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 ---
 
 
@@ -21,7 +25,9 @@ The first societies governed themselves aristocratically. The heads of families 
 
 The young bowed without question to the authority of experience. Hence such names as priests, elders, senate, and gerontes. The savages of North America govern themselves in this way even now, and their government is admirable.
 
-But, in proportion as artificial inequality produced by institutions became predominant over natural inequality, riches or power[1] were put before age, and aristocracy became elective. Finally, the transmission of the father's power along with his goods to his children, by creating patrician families, made government hereditary, and there came to be senators of twenty.
+But, in proportion as artificial inequality produced by institutions became predominant over natural inequality, riches or power were put before age, and aristocracy became elective.
+
+Finally, the transmission of the father's power along with his goods to his children, by creating patrician families, made government hereditary, and there came to be senators of twenty.
 
 There are then three sorts of aristocracy—natural, elective and hereditary. The first is only for simple peoples; the third is the worst of all governments; the second is the best, and is aristocracy properly so called.
 
@@ -78,7 +84,3 @@ These difficulties have not escaped our writers, who, all the same, are not trou
 [1] Macchiavelli was a proper man and a good citizen; but, being attached to the court of the Medici, he could not help veiling his love of liberty in the midst of his country's oppression. The choice of his detestable hero, Cæsar Borgia, clearly enough shows his hidden aim; and the contradiction between the teaching of the Prince and that of the Discourses on Livy and the History of Florence shows that this profound political thinker has so far been studied only by superficial or corrupt readers. The Court of Rome sternly prohibited his book. I can well believe it; for it is that Court it most clearly portrays.
 
 [2] Tacitus, Histories, i. 16. "For the best, and also the shortest way of finding out what is good and what is bad is to consider what you would have wished to happen or not to happen, had another than you been Emperor."
-
-[3] In the Politicus.
-
-

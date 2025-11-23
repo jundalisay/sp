@@ -5,7 +5,12 @@ description: "No man has a natural authority over his fellow. Force creates no r
 c: "firebrick"
 weight: 10
 date: 2025-01-11
+icon: Rousseau
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 ---
+
 
 
 No man has a natural authority over his fellow. Force creates no right. 
