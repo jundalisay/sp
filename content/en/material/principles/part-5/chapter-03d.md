@@ -7,7 +7,9 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-weight: 24
+weight: 10
+aliases:
+  /material/solutions/pangaea
 ---
 
 
@@ -39,4 +41,10 @@ Therefore, the current shape of the world as well as the position of the moon, w
 This knowledge is useful for lobbying to mine the moon. This because the impact of Theia added energy to the substances ejected by that impact. This added-energy increases the chances of finding precious metals on the moon. 
 
 This is different from the impact that destroyed the planet that now is seen as the asteroid belt. This is because that planet was already hardened and the energy dissipated instead of being absorbed to create new elements.   
+
+
+
+## Where did Theia Come From?
+
+We hypothesize that Theia came from the asteroid belt which really came from the destruction of the Planet Maldek, as written by the Sumerian texts. 
 

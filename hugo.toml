@@ -8,6 +8,7 @@ DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false
 enableEmoji = true
 
+
 # paginate = 12
 
 [pagination]
@@ -322,6 +323,8 @@ pagerSize = 24
 
 [build]
   writeStats = true
+  [build.buildStats]
+    enable = true
 
 # syntax highlight settings
 [markup]

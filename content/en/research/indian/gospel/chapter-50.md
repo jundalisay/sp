@@ -14,7 +14,11 @@ IT was 5pm. Narendra, Kāli, Niranjan, and M. were talking downstairs in the Cos
 
 NIRANJAN (to M.): "Is it true that Vidyāsāgar is going to open a new school? Why don't you try to secure employment there for Naren?"
 
-NARENDRA: "I have had enough of service under Vidyāsāgar."
+
+{{< r a="Narendra" >}}
+I have had enough of service under Vidyāsāgar.
+{{< /r >}}
+
 
 
 ## Narendra's visit to Bodh-Gaya
@@ -26,13 +30,20 @@ Kāli said, "One day at Gaya, at Mesh Babu's house, Narendra sang many classical
 Sri Ramakrishna sat on his bed in the big hall upstairs. It was evening. M. was alone in
 the room, fanning the Master. Lātu came in a little later.
 
-MASTER (to M.): "Please bring a chaddar for me and a pair of slippers.
+{{< l a="Ramakrishna" >}}
+(to M.): "Please bring a chaddar for me and a pair of slippers.
+{{< /l >}}
+
 
 M: "Yes, sir."
 
-MASTER (to Lātu): "The chaddar will cost ten ānnās , and then the slippers. 
+{{< l a="Ramakrishna" >}}
+(to Lātu): "The chaddar will cost ten ānnās , and then the slippers.
 
 What will be the total cost?"
+{{< /l >}}
+
+
 
 LĀTU: "One rupee and ten ānnās ."
 
@@ -51,44 +62,44 @@ MASTER (by signs): "Why atheist? He was not an atheist. He simply could not expr
 
 'Buddha' means to become one with Bodha, Pure Intelligence, by meditating on That which is of the nature of Pure Intelligence; it is to become Pure Intelligence Itself."
 
-NARENDRA: "Yes, sir. There are three classes of Buddhās: Buddha, Arhat, and Bodhisattva."
+
+{{< r a="Narendra" >}}
+Yes, sir. There are three classes of Buddhās: Buddha, Arhat, and Bodhisattva.
+{{< /r >}}
+
 
 MASTER: "This too is a sport of God Himself, a new lila of God.
 
 "Why should Buddha be called an atheist? When one realizes Svarupa, the true nature of
 one's Self, one attains a state that is something between Asti , is, and Nāsti , is not."
 
-NARENDRA (to M:): "It is a state in which contradictions meet. A combination of
-hydrogen and oxygen produces cool water; and the same hydrogen and oxygen are used
-in the oxyhydrogen blowpipe.
+{{< r a="Narendra" >}}
+(to M:): "It is a state in which contradictions meet. A combination of hydrogen and oxygen produces cool water; and the same hydrogen and oxygen are used in the oxyhydrogen blowpipe. In that state both activity and non-activity are possible; that is to say, one then
+performs unselfish action. Worldly people, who are engrossed in sense-objects, say that everything exists Asti. But
+the Mayavadis, the illusionists, say that nothing exists Nāsti. The experience of a Buddha is beyond both 'existence' and 'non-existence'.
+{{< /r >}}
 
-"In that state both activity and non-activity are possible; that is to say, one then
-performs unselfish action.
 
-"Worldly people, who are engrossed in sense-objects, say that everything exists Asti. But
-the Mayavadis, the illusionists, say that nothing exists Nāsti. The experience of a Buddha is beyond both 'existence' and 'non-existence'. "
+{{< l a="Ramakrishna" >}}
+This 'existence' and 'non-existence' are attributes of Prakriti. The Reality is beyond both.
 
-MASTER: "This 'existence' and 'non-existence' are attributes of Prakriti. The Reality is beyond both."
+(to Narendra): "What did Buddha preach?
+{{< /l >}}
 
-The devotees remained silent a few moments.
 
-MASTER (to Narendra): "What did Buddha preach?"
-
-NARENDRA: "He did not discuss the existence or non-existence of God. But he showed compassion for others all his life.
-"A hawk pounced upon a bird and was about to devour it. In order to save the bird,
-
-Buddha gave the hawk his own flesh."
-
+{{< r a="Narendra" >}}
+He did not discuss the existence or non-existence of God. But he showed compassion for others all his life. "A hawk pounced upon a bird and was about to devour it. In order to save the bird, Buddha gave the hawk his own flesh."
+{{< /r >}}
 
 ## Narendra's enthusiasm about Buddha
 
 Sri Ramakrishna remained silent. Narendra became more and more enthusiastic about Buddha.
 
-NARENDA: "How great his renunciation was! Born a prince, he renounced everything! If a man has nothing, no wealth at all, what does his renunciation amount to? After attaining Buddhahood and experiencing Nirvāna, Buddha once visited his home and
-exhorted his wife, his son, and many others of the royal household to embrace the life of
-renunciation. How intense his renunciation was! But look at Vyāsa's conduct! He forbade
-his son Sukadeva to give up the world, saying, 'My son, practise religion as a
-householder.' "
+
+{{< r a="Narendra" >}}
+How great his renunciation was! Born a prince, he renounced everything! If a man has nothing, no wealth at all, what does his renunciation amount to? After attaining Buddhahood and experiencing Nirvāna, Buddha once visited his home and exhorted his wife, his son, and many others of the royal household to embrace the life of renunciation. How intense his renunciation was! But look at Vyāsa's conduct! He forbade his son Sukadeva to give up the world, saying, 'My son, practise religion as a householder.'
+{{< /r >}}
+
 
 Sri Ramakrishna was silent. As yet he had not uttered a word.
 
@@ -107,8 +118,10 @@ NARENDRA: "I eat meat, no doubt, but I can also live on rice, mere rice, even wi
 After a few minutes Sri Ramakrishna broke his silence. He asked Narendra, by sign,
 whether he had seen a tuft of hair on Buddha's head.
 
-NARENDRA: "No, sir. He seems to have a sort of crown; his head seems to be covered
-by strings of rudraksha beads placed on top of one another."
+{{< r a="Narendra" >}}
+No, sir. He seems to have a sort of crown; his head seems to be covered by strings of rudraksha beads placed on top of one another.
+{{< /r >}}
+
 
 MASTER: "And his eyes?"
 
@@ -121,13 +134,15 @@ Sri Ramakrishna again became silent. Narendra and the other devotees looked at h
 intently. Suddenly a smile lighted his face and he began to talk with Narendra. M. was
 fanning him.
 
-MASTER (to Narendra): "Well, here you find everything-even ordinary red lentils and
-tamarind. Isn't that so?"
+{{< l a="Ramakrishna" >}}
+(to Narendra): "Well, here you find everything-even ordinary red lentils and tamarind. Isn't that so?
+{{< /l >}}
 
-NARENDRA: "After experiencing all those states, you are now dwelling on a lower
-plane."
+
+{{< r a="Narendra" >}}
+After experiencing all those states, you are now dwelling on a lower plane.
+{{< /r >}}
+
 
 M. (to himself): "Yes, after realizing all those ideals, he is now living as a bhakta, a
 devotee of God."MASTER: "Someone seems to be holding me to a lower plane."
-
-

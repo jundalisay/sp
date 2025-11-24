@@ -87,9 +87,7 @@ M87 shows a linear jet. V838 Monocerotis shows a radial expansion. Their
  -->
 
 
-
-
- ## Too Much Math is to Blame
+## Too Much Math is to Blame
 
 Both Poincare and Sabine Hossenfelder blames the collapse of Physics to the dominance of mathematicians who are out of touch with reality.  
 

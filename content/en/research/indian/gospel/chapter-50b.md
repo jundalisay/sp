@@ -23,26 +23,23 @@ NARENDRA: "I didn't hear you well"
 Sri Ramakrishna said again, by a sign, "I have seen that He and the one who dwells in
 my heart are one and the same Person."
 
-NARENDRA: "Yes, yes! Soham-I am He."
+
+{{< r a="Narendra" >}}
+Yes, yes! Soham-I am He.
+{{< /r >}}
+
 
 MASTER: "But only a line divides the two-that I may enjoy divine bliss."
 
-NARENDRA (to M.): "Great souls, even after their own liberation, retain the ego and
-experience the pleasure and pain of the body that they may help others to attain
-liberation.
-
-"It is like coolie work. We perform coolie work under compulsion, but great souls do so of
+{{< r a="Narendra" >}}
+(to M.): "Great souls, even after their own liberation, retain the ego and experience the pleasure and pain of the body that they may help others to attain liberation. "It is like coolie work. We perform coolie work under compulsion, but great souls do so of
 their own sweet pleasure."
+{{< /r >}}
+
 
 Again all fell into silence. After a time Sri Ramakrishna resumed the conversation.
 
-MASTER (to Narendra and the others): "The roof is clearly visible; but it is extremely
-hard to reach it."
-
-NARENDRA: "Yes, sir."
-
-MASTER: "But if someone who has already reached it drops down a rope, he can pull
-another person up.
+MASTER (to Narendra and the others): "The roof is clearly visible; but it is extremely hard to reach it. But if someone who has already reached it drops down a rope, he can pull another person up.
 
 
 ## Different kinds of samādhi
@@ -68,6 +65,9 @@ as though it were the movement of an ant.
 Rakhal (to the other devotees): "Let us stop here. He has already talked a great deal.
 It will aggravate his illness."
 
+
+
+
 Monday, April 12, 1886
 
 About 5pm, Sri Ramakrishna was sitting on the bed in his room in the Cossipore garden house. Śaśi and M. were with him. He asked M., by a sign, to fan him. 
@@ -90,10 +90,13 @@ They had visited Girish Ghosh's house and other places.
 
 TĀRAK: "We have eaten a great deal of meat and other heavy stuff today."
 
-NARENDRA: "Yes, our minds have come down a great deal. Let us practise tapasya . 
+{{< r a="Narendra" >}}
+Yes, our minds have come down a great deal. Let us practise tapasya.
 
 (To M.) What slavery to body and mind! We are just like coolies-as if this body and mind
 were not ours but belonged to someone else."
+{{< /r >}}
+
 
 In the evening lamps were lighted in the house. Sri Ramakrishna sat on his bed, facing
 the north. He was absorbed in contemplation of the Mother of the Universe. A few
@@ -136,3 +139,4 @@ and placed the cup near him. Sri Ramakrishna took the cup in his hand and looked
 Dr. Rajendra Dutta, Dr. Sreenāth, Rakhal, Haldār, and several others came in. Rakhal, Śaśi, and the younger Naren were in the room. The physicians heard the report of the Master's illness. 
 
 Dr. Sreenath had a copy of the Gitā in his hand.DR. SREENATH (to his friends): "Everything is under the control of Prakriti. Nobody can escape the fruit of past action. This is called Prārabdha ."
+
