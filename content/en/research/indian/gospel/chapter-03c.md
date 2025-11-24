@@ -120,5 +120,3 @@ O Rama, as long as I have the feeling of "I", I see that:
 
 But when, O Rama, I have the knowledge of Truth, then I realize that You are me and I am You.
 {{< /l >}}
-
-

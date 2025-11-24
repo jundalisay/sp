@@ -197,4 +197,3 @@ Sir, if a wicked man is about to do harm, or actually does so, should we keep qu
 A man living in society should make a show of tamas to protect himself from evil-minded people. But he should not harm anybody in anticipation of harm likely to be
 done him.
 {{< /l >}}
-

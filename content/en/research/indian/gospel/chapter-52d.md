@@ -30,9 +30,10 @@ Narendra told Rakhal about Prasanna's going away from the monastery. Prasanna ha
 
 It is very risky for me to live here. Here my mind is undergoing a change.
 
-Formerly I used to dream about my parents and other relatives. Then I dreamt of woman, the embodiment of māyā. I have suffered twice; I had to go back to my
-relatives at home. Therefore I am going far away from them. The Master once told me, 'Your people at home are apt to do anything; never trust them.' "Rakhal said: "These are the reasons for his going away. Once he remarked: 'Narendra often goes home to look after his mother, brothers, and sisters. And he supervises the
-family's lawsuit. I am afraid that I too may feel like going home, following his example.'"
+Formerly I used to dream about my parents and other relatives. Then I dreamt of woman, the embodiment of māyā. I have suffered twice; I had to go back to my relatives at home. Therefore I am going far away from them. The Master once told me, 'Your people at home are apt to do anything; never trust them.'
+
+Rakhal said: "These are the reasons for his going away. Once he remarked: 'Narendra often goes home to look after his mother, brothers, and sisters. And he supervises the family's lawsuit. I am afraid that I too may feel like going home, following his example.'"
+
 
 Narendra remained silent.
 

@@ -95,7 +95,8 @@ then he talks about God.
 
 ## Rishis of Ancient India
 
-"The rishis of old attained the Knowledge of Brahman. One cannot have this so long as there is the slightest trace of worldliness. How hard the rishis laboured! 
+{{< l a="Ramakrishna" >}}
+The rishis of old attained the Knowledge of Brahman. One cannot have this so long as there is the slightest trace of worldliness. How hard the rishis laboured! 
 
 Early in the morning they would go away from the hermitage, and would spend the whole day in solitude, meditating on Brahman. At night they would return to the hermitage and eat a little fruit or roots. 
 
@@ -108,6 +109,7 @@ In this state of mind, it is not proper for him to say, 'I am He.' When a man do
 Those who cannot give up attachment to worldly things, and who find no means to shake off the feeling of 'I', should rather cherish the idea 'I am God's servant; 
 
 I am His devotee.' One can also realize God by following the path of devotion.
+{{< /l >}}
 
 
 ## Jnani and Vijnāni

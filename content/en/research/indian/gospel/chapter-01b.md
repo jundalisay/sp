@@ -144,16 +144,21 @@ But sir, one should explain to those who worship the clay image that it is not G
 {{< /r >}}
 
 {{< l a="Ramakrishna" >}}
-(sharply): "That's the one hobby of you Calcutta people - giving lectures and bringing others to the light! Nobody ever stops to consider how to get the light himself. Who are you to teach others?
+(sharply): That's the one hobby of you Calcutta people - giving lectures and bringing others to the light! Nobody ever stops to consider how to get the light himself. Who are you to teach others?
 
-"He who is the Lord of the Universe will teach everyone. He alone teaches us, who has created this universe; who has made the sun and moon, men and beasts, and all other
-beings; who has provided means for their sustenance; who has given children parents and endowed them with love to bring them up. The Lord has done so many things - will
-He not show people the way to worship Him? If they need teaching, then He will be the Teacher. He is our Inner Guide.
+He who is the Lord of the Universe will teach everyone. 
 
-Suppose there is an error in worshipping the clay image; doesn't God know that through it He alone is being invoked? He will he pleased with that very worship. Why
-should you get a headache over it? You had better try for knowledge and devotion yourself.
+<!-- He alone teaches us, who has created this universe; who has made the sun and moon, men and beasts, and all other beings; who has provided means for their sustenance; who has given children parents and endowed them with love to bring them up. The Lord has done so many things - will -->
+
+He will show people the way to worship Him. If they need teaching, then He will be the Teacher. He is our Inner Guide.
+
+Suppose there is an error in worshipping the clay image. Doesn't God know that through it He alone is being invoked? He will he pleased with that very worship. 
+
+Why should you get a headache over it? You had better try for knowledge and devotion yourself.
 {{< /l >}}
 
-This time M. felt that his ego was completely crushed. He now said to himself: "Yes, he has spoken the truth. What need is there for me to teach others? Have I known God?
+This time M. felt that his ego was completely crushed. He now said to himself: 
 
-Do I really love Him? 'I haven't room enough for myself in my bed, and I am inviting my friend to share it with me!' I know nothing about God, yet I am trying to teach others. What a shame! How foolish I am! This is not mathematics or history or literature, that one can teach it to others. No, this is the deep mystery of God. What he says appeals to me."
+
+"Yes, he has spoken the truth. What need is there for me to teach others? Have I known God? Do I really love Him? 'I haven't room enough for myself in my bed, and I am inviting my friend to share it with me!' I know nothing about God, yet I am trying to teach others. What a shame! How foolish I am! This is not mathematics or history or literature, that one can teach it to others. No, this is the deep mystery of God. What he says appeals to me."
+

@@ -15,7 +15,10 @@ When Keshab was told of his arrival, he came to the drawing-room dressed to go o
 
 He cancelled his plan. The Master said to him: 
 
-"You have so many things to attend to. Besides, you have to edit a newspaper. You have no time to come to Dakshineswar. so I have come to see you. When I heard of your illness I vowed green coconut and sugar to the Divine Mother for your recovery. I said to Her, 'Mother, if something happens to Keshab, with whom shall I talk in Calcutta?'"
+{{< l a="Ramakrishna" >}}
+You have so many things to attend to. Besides, you have to edit a newspaper. You have no time to come to Dakshineswar. so I have come to see you. When I heard of your illness I vowed green coconut and sugar to the Divine Mother for your recovery. I said to Her, 'Mother, if something happens to Keshab, with whom shall I talk in Calcutta?'"
+{{< /l >}}
+
 
 Sri Ramakrishna spoke to Pratap and the other Brahmo devotees. M. was seated near by. Pointing to him, the Master said to Keshab: 
 
@@ -30,11 +33,14 @@ Sri Ramakrishna had asked M. to write to him, if his coming were delayed.
 
 Pundit Samadhyayi was present. The Brahmo devotees introduced him to Sri Ramakrishna as a scholar well versed in the Vedas and the other scriptures. 
 
-The Master said:
 
-"Yes, I can see inside him through his eyes, as one can see the objects in a room through the glass door."
+{{< l a="Ramakrishna" >}}
+Yes, I can see inside him through his eyes, as one can see the objects in a room through the glass door.
+{{< /l >}}
+
 
 Trailokya sang. Suddenly the Master stood up and went into samādhi, repeating the Mother's name. Coming down a little to the plane of sense consciousness, he danced and sang: 
+
 
 I drink no ordinary wine, but Wine of Everlasting Bliss, As I repeat my Mother Kāli's name;
 It so intoxicates my mind that people take me to be drunk!
@@ -52,6 +58,7 @@ worldly person. Looking at him, the Master sang again:
 We are afraid to speak, and yet we are afraid to keep still;
 Our minds, O Radha, half believe that we are about to lose you!
 We tell you the secret that we know -
+
 The secret whereby we ourselves, and others, with our help,
 Have passed through many a time of peril;
 Now it all depends on you.
@@ -67,7 +74,11 @@ As the Master was leaving Keshab's house, the Brahmo devotees accompanied him re
 
 Sunday, April 9, 1882
 
-Sri Ramakrishna was seated with his devotees in the drawing-room of Prankrishna Mukherji's house in Calcutta; it was between one and two o'clock in the afternoon. Since Colonel Viswanath4 lived in that neighbourhood, the Master intended to visit him before going to see Keshab at the Lily Cottage. A number of neighbours and other friends of Prankrishna had been invited to meet Sri Ramakrishna. They were all eager to hear his words.
+Sri Ramakrishna was seated with his devotees in the drawing-room of Prankrishna Mukherji's house in Calcutta.
+
+It was between 1-2pm. Colonel Viswanath lived in that neighbourhood, so the Master intended to visit him before going to see Keshab at the Lily Cottage.
+
+A number of neighbours and other friends of Prankrishna had been invited to meet Sri Ramakrishna. They were all eager to hear his words.
 
 <!-- God and His glory & Dangers of worldly life -->
 

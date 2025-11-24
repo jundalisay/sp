@@ -129,14 +129,11 @@ The purana writes that Rāma, who was God Himself, had to build a bridge to cros
 
 
 {{< l a="Ramakrishna" >}}
-Once a man was about to cross the sea. Bibhishana wrote Rama's name on a leaf, tied it in a corner of the man's wearing-cloth, and said to him: 'Don't be afraid. Have faith
-and walk on the water. But look here - the moment you lose faith you will be drowned.'
+Once a man was about to cross the sea. Bibhishana wrote Rama's name on a leaf, tied it in a corner of the man's wearing-cloth, and said to him: 'Don't be afraid. Have faith and walk on the water. But look here - the moment you lose faith you will be drowned.'
 
-The man was walking easily on the water. Suddenly he had an intense desire to see what was tied in his cloth. He opened it and found only a leaf with the name of Rāma
-written on it. 'What is this?' he thought. 'Just the name of Rāma!' As soon as doubt entered his mind he sank under the water.
+The man was walking easily on the water. Suddenly he had an intense desire to see what was tied in his cloth. He opened it and found only a leaf with the name of Rāma written on it. 'What is this?' he thought. 'Just the name of Rāma!' As soon as doubt entered his mind he sank under the water.
 
-"If a man has faith in God, then even if he has committed the most heinous sins - such as killing a cow, a brahmin, or a woman - he will certainly be saved through his
-faith. Let him only say to God, 'O Lord, I Will not repeat such an action', and he need not be afraid of anything."
+If a man has faith in God, then even if he has committed the most heinous sins - such as killing a cow, a brahmin, or a woman - he will certainly be saved through his faith. Let him only say to God, 'O Lord, I Will not repeat such an action', and he need not be afraid of anything.
 {{< /l >}}
 
 When he had said this, the Master sang:

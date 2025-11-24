@@ -24,7 +24,9 @@ The worst of all abuses is to pay an apparent obedience to the laws, only in ord
 
 In such a situation, it is vain to add edicts to edicts and regulations to regulations. Everything serves only to introduce new abuses, without correcting the old. The more laws are multiplied, the more they are despised, and all the new officials appointed to supervise them are only so many more people to break them, and either to share the plunder with their predecessors, or to plunder apart on their own. 
 
-The reward of virtue soon becomes that of robbery; the vilest of men rise to the greatest credit; the greater they are the more despicable they become; their infamy appears even in their dignities, and their very honours dishonour them. If they buy the influence of the leaders or the protection of women, it is only that they may sell justice, duty, and the State in their turn: in the meantime, the people, feeling that its vices are not the first cause of its misfortunes, murmurs and complains that all its misfortunes come solely from those whom it pays to protect it from such things.
+The reward of virtue soon becomes that of robbery; the vilest of men rise to the greatest credit; the greater they are the more despicable they become.
+
+Their infamy appears even in their dignities, and their very honours dishonour them. If they buy the influence of the leaders or the protection of women, it is only that they may sell justice, duty, and the State in their turn: in the meantime, the people, feeling that its vices are not the first cause of its misfortunes, murmurs and complains that all its misfortunes come solely from those whom it pays to protect it from such things.
 
 It is under these circumstances that the voice of duty no longer speaks in men's hearts, and their rulers are obliged to substitute the cry of terror, or the lure of an apparent interest, of which they subsequently trick their creatures. In this situation they are compelled to have recourse to all the petty and despicable shifts which they call rules of State and mysteries of the cabinet. 
 
