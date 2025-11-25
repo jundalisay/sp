@@ -1,50 +1,54 @@
 ---
-title: "Cartesian Plate Tectonics: Pangaea and the Moon"
-date: 2024-03-28
-image: /graphics/physics/mountain.jpg
-description: "Descartes discussed plate tectonics mixed in Part 4 of Principia Philosophia between Articles 57-74"
+heading: Chapter 3d
+linkTitle: Chapter 3d
+title: "Fluid Dynamics: Alternative to Navier Stokes"
+# date: 2020-01-31
+image: /graphics/physics/box2.jpg
+description: ""
+weight: 7
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
-weight: 10
-aliases:
-  /material/solutions/pangaea
 ---
 
 
 
-Rene Descartes discussed plate tectonics mixed in Part 4 of Principia Philosophia between Articles 57-74. He explains that the current outward form of the Earth arose from the crust falling into place after its mantle hardened. 
+Physics is matter based, applying the natter in F = ma into fluid dynamics called Navier-Stokes equations. 
 
-![The World](/graphics/physics/mountain.jpg)
+<!-- Sure, that's easy. Our paradigm is the pre Newtonian Physics of Descartes, Spinoza, and George Berekely, which aligns perfectly with Asian Physics of Hinduism and Taoism (inventors of gunpowder through the Water Element). -->
 
+ 
+For example for whirlpools, the Navier-Stokes equation is du/dt + (u∇)u = -1/p ∇p + v∇^2u + f
 
-We use his concepts to explain how the moon formed, as well as the current continental plates of the Earth, from a single impact event. 
+- du/dt is just the gradient (This is the acceleration part)
+- (u ∇) u is the directional speed of the fluid as whirlpool rotation (This is the mass part)
+- -1/p ∇p is internal pressure force (This is the force part)
+- v∇^2u is the internal friction
+- f is the external force like gravity 
 
-We propose that around 140 million years ago, a body named Theia hit Earth near Point Nemo (48 degrees south in the Pacific Ocean) at an angle of 20 degrees. This knocked the Earth, causing it to tilt its axis 23 degrees. 
+This works for typhoons in the short term, but not for the long term, as proven by typhoon models which change drastically.
 
-This carved out a huge chunk of the Earth which by itself, according to Descartes 3rd Rule of Motion, would rise straight up to create the moon with an orbit of 48 degrees. 
+This is because the Newtonian system does not account for the whirlpool as a complete system made up of 5 Elements.
 
-With the Earth's tilt, it would be 25 degrees.
+For example, it only has 3 Elements:
 
-Deduct the angle of the actual impact then you get 5 degrees, which is the current tilt of the moon's plane relative to the Earth.
+- 1/p ∇p and v∇^2u for material particles or material forces
+- f for space and electromagnetic particles or forces
 
-The impact sent shockwaves through the Earth's crust, creating cracks the tectonic plates in 3 main nearly-equidistant areas corresponding to how far they are from the impact:
-1. The mid-Atlantic ridge splitting the South American and African Plates
-2. The Somali Plate and Indian Plate
-3. Philippine Plate and Pacific Plate
-
-Ideally, the mid-Atlantic ridge should have been a single curve. But because of the Coriolis Force, the ridge goes West exactly at the equator.
-
-Therefore, the current shape of the world as well as the position of the moon, was due to that single impact event. 
-
-This knowledge is useful for lobbying to mine the moon. This because the impact of Theia added energy to the substances ejected by that impact. This added-energy increases the chances of finding precious metals on the moon. 
-
-This is different from the impact that destroyed the planet that now is seen as the asteroid belt. This is because that planet was already hardened and the energy dissipated instead of being absorbed to create new elements.   
+It totally misses out the aether and conversion forces (weak force). Newton seems to have not accounted for the conversion force because he did no chemistry experiments. In contrast, Descartes did chemistry by being exposed to gunpowder and medicine in the European wars. 
 
 
+## The Solution
 
-## Where did Theia Come From?
+We put the aether in the vortex side and the weak force in the gradient size. This accounts for the butterfly effect on the right side turning a classical navier stokes into "quantum" mechanics i.e. adding the aether (virtual 5th Element and 2nd Element particles) to classical mechanics then you get quantum mechanics. 
 
-We hypothesize that Theia came from the asteroid belt which really came from the destruction of the Planet Maldek, as written by the Sumerian texts. 
+It is then the 2 Forces of Positive and Negative that makes the aether rotate. Since the aether is not material, then `F = ma` does not apply. 
 
+Instead we use Descartes' 1st Rule of Motion: There is no void in Nature. This explains the dynamics of the cosmic web and of climate change (supertyphoons in Taiwan while drought affects Iran at the same time). 
+
+The big problem was that Newton and Einstein had no concept of [virtual (quasi) space particles](/research/descartes/philosophy/part-3/article-48/). And so their fluid equations always assumed fluids to has mass.
+
+But the aether is totally massless and is best seen in chakras (rotating organic vortices) and chi which Descartes calls animal spirits. 
+
+UFOs use this as "Gravity A" waves. 

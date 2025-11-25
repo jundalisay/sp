@@ -48,7 +48,9 @@ Make AC to AK, or ABHC to ABkK, as the force of gravity to the resistance in the
 
 Therefore, if the right lines Kk, Ll, Mm, Nn, &c., are produced so as to meet the hyperbola in q, r, s, t, &c. the areas ABqK, KqrL, LrsM, MstN, &c., will be equal, and therefore analogous to the equal times and equal gravitating forces.
 
-But the area ABqK (by Corol. 3, Lem. VII and VIII, Book I) is to the area Bkq as Kq to ½kq, or AC to ½AK, that is, as the force of gravity to the resistance in the middle of the first time. And by the like reasoning, the areas qKLr, rLMs, sMNt, &c., are to the areas qklr, rlms, smnt, &c., as the gravitating forces to the resistances in the middle of the second, third, fourth time, and so on.
+But the area ABqK (by Corol. 3, Lem. VII and VIII, Book I) is to the area Bkq as Kq to ½kq, or AC to ½AK, that is, as the force of gravity to the resistance in the middle of the first time. 
+
+By the like reasoning, the areas qKLr, rLMs, sMNt, &c., are to the areas qklr, rlms, smnt, &c., as the gravitating forces to the resistances in the middle of the second, third, fourth time, and so on.
 
 Therefore since the equal areas BAKq, qKLr, rLMs, sMNt, &c., are analogous to the gravitating forces, the areas Bkq, qklr, rlms, smnt, &c., will be analogous to the resistances in the middle of each of the times, that is (by supposition), to the velocities, and so to the spaces described. 
 
