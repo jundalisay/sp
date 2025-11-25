@@ -57,13 +57,15 @@ From manufactured commodities always falling, and raw produce always rising, wit
 
 Independently of the variations in the value of money, which necessarily affect wages, but which we have here supposed to have no operation, as we have considered money to be uniformly of the same value, wages are subject to a rise or fall from two causes:
 
-1st. The supply and demand of labourers.
+1. The supply and demand of labourers.
 
-2dly. The price of the commodities on which the wages of labour are expended.
+2. The price of the commodities on which the wages of labour are expended.
 
-In different stages of society, the accumulation of capital, or of the means of employing labour, is more or less rapid, and must in all cases depend on the productive powers of labour. The productive powers of labour are generally greatest when there is an abundance of fertile land: at such periods accumulation is often so rapid, that labourers cannot be supplied with the same rapidity as capital.
+In different stages of society, the accumulation of capital, or of the means of employing labour, is more or less rapid, and must in all cases depend on the productive powers of labour. 
 
-It has been calculated, that under favourable circumstances population may be doubled in twenty-five years; but under the same favourable circumstances, the whole capital of a country might possibly be doubled in a shorter period. In that case, wages during the whole period would have a tendency to rise, because the demand for labour would increase still faster than the supply.
+The productive powers of labour are generally greatest when there is an abundance of fertile land: at such periods accumulation is often so rapid, that labourers cannot be supplied with the same rapidity as capital.
+
+It has been calculated, that under favourable circumstances population may be doubled in 25 years; but under the same favourable circumstances, the whole capital of a country might possibly be doubled in a shorter period. In that case, wages during the whole period would have a tendency to rise, because the demand for labour would increase still faster than the supply.
 
 In new settlements, where the arts and knowledge of countries far advanced in refinement are introduced, it is probable that capital has a tendency to increase faster than mankind: and if the deficiency of labourers99 were not supplied by more populous countries, this tendency would very much raise the price of labour. In proportion as these countries become populous, and land of a worse quality is taken into cultivation, the tendency to an increase of capital diminishes; for the surplus produce remaining, after satisfying the wants of the existing population, must necessarily be in proportion to the facility of production, viz. to the smaller number of persons employed in production. Although, then, it is probable, that under the most favourable circumstances, the power of production is still greater than that of population, it will not long continue so; for the land being limited in quantity, and differing in quality; with every increased portion of capital employed on it, there will be a decreased rate of production, whilst the power of population continues always the same.
 
@@ -148,4 +150,6 @@ It is to this cause, that we must ascribe the fact of the poor laws not having y
 
 The principle of gravitation is not more certain than the tendency of such laws to change wealth and power into misery and weakness; to call away the exertions of labour from every object, except that of providing mere subsistence; to con115found all intellectual distinction; to busy the mind continually in supplying the body's wants; until at last all classes should be infected with the plague of universal poverty. 
 
-Happily these laws have been in operation during a period of progressive prosperity, when the funds for the maintenance of labour have regularly increased, and when an increase of population would be naturally called for. But if our progress should become more slow; if we should attain the stationary state, from which I trust we are yet far distant, then will the pernicious nature of these laws become more manifest and alarming; and then too will their removal be obstructed by many additional difficulties.
+Happily these laws, have been in operation during a period of progressive prosperity, when the funds for the maintenance of labour have regularly increased, and when an increase of population would be naturally called for.
+
+But if our progress should become more slow; if we should attain the stationary state, from which I trust we are yet far distant, then will the pernicious nature of these laws become more manifest and alarming; and then too will their removal be obstructed by many additional difficulties.

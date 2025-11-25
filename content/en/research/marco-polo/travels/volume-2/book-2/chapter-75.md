@@ -111,7 +111,12 @@ In the middle is the palace itself, a great and splendid building. It contains 2
 
 In this city there are 160 tomans of fires, or in other words 160 tomans of houses. Now I should tell you that the toman is 10,000, so that you can reckon the total as altogether 1,600,000 houses, among which are a great number of rich palaces. There is one church only, belonging to the Nestorian Christians.
 
-It is the custom for every burgess of this city, and in fact for every description of person in it, to write over his door his own name, the name of his wife, and those of his children, his slaves, and all the inmates of his house, and also the number of animals that he keeps. And if any one dies in the house then the name of that person is erased, and if any child is born its name is added. So in this way the sovereign is able to know exactly the population of the city. And this is the practice also throughout all Manzi and Cathay.{14}
+It is the custom for every burgess of this city, and in fact for every description of person in it, to write over his door his own name, the name of his wife, and those of his children, his slaves, and all the inmates of his house, and also the number of animals that he keeps. 
+
+
+If any one dies in the house then the name of that person is erased, and if any child is born its name is added. 
+
+So in this way the sovereign is able to know exactly the population of the city. And this is the practice also throughout all Manzi and Cathay.{14}
 
 Hang-chau-Fu with The Lake
 compiled from various Chinese Sources.

@@ -95,7 +95,7 @@ Sometimes-usually on the first of the month when the bills rolled in for upkeep 
 I have found the great heart of America expressed in the wondrous lines by Emma Lazarus, carved at the base of the Statue of Liberty, the “Mother of Exiles”:
 
 
-                       From her beacon-hand
+  From her beacon-hand
   Glows world-wide welcome; her mild eyes command
   The air-bridged harbor that twin cities frame.
   “Keep, ancient lands, your storied pomp!” cries she
@@ -106,7 +106,7 @@ I have found the great heart of America expressed in the wondrous lines by Emma 
   I lift my lamp beside the golden door.
 
 
-### Footnotes
+<!-- ### Footnotes
 
 37-1: Many of those faces I have since seen in the West, and instantly recognized..
 
@@ -119,3 +119,4 @@ I have found the great heart of America expressed in the wondrous lines by Emma 
 37-5: Dr. and Mrs. Robinson visited India in 1939, and were honored guests at the Ranchi school.
 
 37-6: Mme. Galli-Curci and her husband, Homer Samuels, the pianist, have been Kriya Yoga students for twenty years. The inspiring story of the famous prima donna’s years of music has been recently published (Galli-Curci’s Life Of Song, by C. E. LeMassena, Paebar Co., New York, 1945).
+ -->

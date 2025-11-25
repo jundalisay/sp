@@ -51,14 +51,10 @@ The father had already realized the wrong he had done in forcibly bringing Kashi
 
 My love for Kashi, and the pledge to find him after death, night and day haunted me. No matter where I went, his face loomed up before me. I began a memorable search for him, even as long ago I had searched for my lost mother.
 
-kashi
-
-Kashi, lost and rediscovered
-bishnu
+<!-- Kashi, lost and rediscovered
+bishnu -->
 
 My brother Bishnu; Motilal Mukherji of Serampore, a highly advanced disciple of Sri Yukteswar; my father; Mr. Wright; myself; Tulsi Narayan Bose; Swami Satyananda of Ranchi
-
-congress
 
 A group of delegates to the 1920 International Congress of Religious Liberals at Boston, where I gave my maiden speech in America. (Left to right) Rev. Clay MacCauley, Rev. T. Rhondda Williams, Prof. S. Ushigasaki, Rev. Jabez T. Sunderland, myself, Rev. Chas. W. Wendte, Rev. Samuel A. Eliot, Rev. Basil Martin, Rev. Christopher J. Street, Rev. Samuel M. Crothers.
 
@@ -94,10 +90,11 @@ Later I visited the child, whose parents had given him his old name of Kashi. Ev
 
 Years later the teen-age boy wrote me, during my stay in America. He explained his deep longing to follow the path of a renunciate. I directed him to a Himalayan master who, to this day, guides the reborn Kashi.
 
-28-1: The will, projected from the point between the eyebrows, is known by yogis as the broadcasting apparatus of thought. When the feeling is calmly concentrated on the heart, it acts as a mental radio, and can receive the messages of others from far or near. In telepathy the fine vibrations of thoughts in one person’s mind are transmitted through the subtle vibrations of astral ether and then through the grosser earthly ether, creating electrical waves which, in turn, translate themselves into thought waves in the mind of the other person.
+<!-- 28-1: The will, projected from the point between the eyebrows, is known by yogis as the broadcasting apparatus of thought. When the feeling is calmly concentrated on the heart, it acts as a mental radio, and can receive the messages of others from far or near. In telepathy the fine vibrations of thoughts in one person’s mind are transmitted through the subtle vibrations of astral ether and then through the grosser earthly ether, creating electrical waves which, in turn, translate themselves into thought waves in the mind of the other person.
 
 28-2: Every soul in its pure state is omniscient. Kashi’s soul remembered all the characteristics of Kashi, the boy, and therefore mimicked his hoarse voice in order to stir my recognition.
 
 28-3: Prokash Das is the present director of our Yogoda Math (hermitage) at Dakshineswar in Bengal.
 
 
+ -->

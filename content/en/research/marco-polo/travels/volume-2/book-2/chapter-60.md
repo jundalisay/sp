@@ -9,7 +9,7 @@ weight: 4
 ---
 
 
-## Part III.—JOURNEY SOUTHWARD THROUGH EASTERN PROVINCES OF CATHAY AND MANZI
+## Part Iii.—Journey Southward Through Eastern Provinces Of Cathay And Manzi
 
 
 Cacanfu is a noble city. The people are Idolaters and burn their dead.
@@ -33,7 +33,7 @@ There is nothing else worth mentioning, so let us go forward five days’ journe
 
 Chinangli is a city of Cathay as you go south, and it belongs to the Great Kaan; the people are Idolaters, and have paper-money. There runs through the city a great and wide river, on which a large traffic in silk goods and spices and other costly merchandize passes up and down.
 
-When you travel south from Chinangli for five days, you meet everywhere with fine towns and villages, the people of which are all Idolaters, and burn their dead, and are subject to the Great Kaan, and have paper-money, and live by trade and handicrafts, and have all the necessaries of life in great abundance. But there is nothing particular to mention on the way till you come, at the end of those five days, to Tadinfu.{1}
+When you travel south from Chinangli for 5 days, you meet everywhere with fine towns and villages, the people of which are all Idolaters, and burn their dead, and are subject to the Great Kaan, and have paper-money, and live by trade and handicrafts, and have all the necessaries of life in great abundance. But there is nothing particular to mention on the way till you come, at the end of those five days, to Tadinfu.{1}
 
 This is a very great city.
 
@@ -173,9 +173,15 @@ For he did not wish to engage in besieging them and they would not give themselv
 
 And when the King beheld Bayan coming with all his host, he was in great dismay, as one unused to see such sights. So he and a great company of his people got on board a thousand ships and fled to the islands of the Ocean Sea, whilst the Queen who remained behind in the city took all measures in her power for its defence, like a valiant lady.
 
-Now it came to pass that the Queen asked what was the name of the captain of the host, and they told her that it was Bayan Hundred-Eyes. So when she wist that he was styled Hundred-Eyes, she called to mind how their astrologers had foretold that a man of an hundred eyes should strip them of the kingdom.{5} Wherefore she gave herself up to Bayan, and surrendered to him the whole kingdom and all the other cities and fortresses, so that no resistance was made. And in sooth this was a goodly conquest, for there was no realm on earth half so wealthy.{6} The amount that the King used to expend was perfectly marvellous; and as an 147example I will tell you somewhat of his liberal acts.
+Now it came to pass that the Queen asked what was the name of the captain of the host, and they told her that it was Bayan Hundred-Eyes. So when she wist that he was styled Hundred-Eyes, she called to mind how their astrologers had foretold that a man of an hundred eyes should strip them of the kingdom.
 
-In those provinces they are wont to expose their new-born babes; I speak of the poor, who have not the means of bringing them up. But the King used to have all those foundlings taken charge of, and had note made of the signs and planets under which each was born, and then put them out to nurse about the country. And when any rich man was childless he would go to the King and obtain from him as many of these children as he desired. Or, when the children grew up, the King would make up marriages among them, and provide for the couples from his own purse. In this manner he used to provide for some 20,000 boys and girls every year.{7}
+Wherefore she gave herself up to Bayan, and surrendered to him the whole kingdom and all the other cities and fortresses, so that no resistance was made. And in sooth this was a goodly conquest, for there was no realm on earth half so wealthy.
+
+The amount that the King used to expend was perfectly marvellous; and as an 147example I will tell you somewhat of his liberal acts.
+
+In those provinces they are wont to expose their new-born babes; I speak of the poor, who have not the means of bringing them up. But the King used to have all those foundlings taken charge of, and had note made of the signs and planets under which each was born, and then put them out to nurse about the country. 
+
+And when any rich man was childless he would go to the King and obtain from him as many of these children as he desired. Or, when the children grew up, the King would make up marriages among them, and provide for the couples from his own purse. In this manner he used to provide for some 20,000 boys and girls every year.
 
 I will tell you another thing this King used to do.
 

@@ -11,7 +11,9 @@ weight: 24
 
 The position of the city is such that it has on one side a lake of fresh and exquisitely clear water (already spoken of), and on the other a very large river. 
 
-The waters of the latter fill a number of canals of all sizes which run through the different quarters of the city, carry away all impurities, and then enter the Lake; whence they issue again and flow to the Ocean, thus producing a most excellent atmosphere. By means of these channels, as well as by the streets, you can go all about the city. Both streets and canals are so wide and spacious that carts on the one and boats on the other can 201readily pass to and fro, conveying necessary supplies to the inhabitants.{2}
+The waters of the latter fill a number of canals of all sizes which run through the different quarters of the city, carry away all impurities, and then enter the Lake; whence they issue again and flow to the Ocean, thus producing a most excellent atmosphere. By means of these channels, as well as by the streets, you can go all about the city. 
+
+Both streets and canals are so wide and spacious that carts on the one and boats on the other can 201readily pass to and fro, conveying necessary supplies to the inhabitants.
 
 At the opposite side the city is shut in by a channel, perhaps 40 miles in length, very wide, and full of water derived from the river aforesaid, which was made by the ancient kings of the country in order to relieve the river when flooding its banks. This serves also as a defence to the city, and the earth dug from it has been thrown inwards, forming a kind of mound enclosing the city.{3}
 

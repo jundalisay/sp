@@ -1,7 +1,7 @@
 ---
+heading: Chapter 1
 title: "Prologue"
 description: ""
-# a: "Marco Polo"
 c: "darkslategray"
 weight: 2
 # date: 2022-03-10
@@ -51,6 +51,10 @@ After they had passed the desert, they arrived at a very great and noble city ca
 
 When they had got thither, they found they could neither proceed further forward nor yet turn back again; wherefore they abode in that city of Bocara for three years. And whilst they were sojourning in that city, there came from Alau, Lord of the Levant, Envoys on their way to the Court of the Great Kaan, the Lord of all the Tartars in the world. 
 
-When the Envoys beheld the Two Brothers they were amazed, for they had never before seen Latins in that part of the world. And they said to the Brothers: “Gentlemen, if ye will take our counsel, ye will find great honour and profit shall come thereof.” So they replied that they would be right glad to learn how. “In truth,” said the Envoys, “the Great Kaan hath never seen any Latins, and he hath a great desire so to do. Wherefore, if ye will keep us company to his Court, ye may depend upon it that he will be right glad to see you, and will treat you with great honour and liberality; whilst in our company ye shall travel with perfect security, and need fear to be molested by nobody.”{2}
+When the Envoys beheld the Two Brothers they were amazed, for they had never before seen Latins in that part of the world. 
+
+They said to the Brothers: “Gentlemen, if ye will take our counsel, ye will find great honour and profit shall come thereof.” 
+
+So they replied that they would be right glad to learn how. “In truth,” said the Envoys, “the Great Kaan hath never seen any Latins, and he hath a great desire so to do. Wherefore, if ye will keep us company to his Court, ye may depend upon it that he will be right glad to see you, and will treat you with great honour and liberality; whilst in our company ye shall travel with perfect security, and need fear to be molested by nobody.”{2}
 
 

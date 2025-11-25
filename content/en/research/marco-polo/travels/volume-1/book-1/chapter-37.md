@@ -13,7 +13,9 @@ weight: 22
 
 Pein is a province 5 days in length, lying between east and north-east. The people are worshippers of Mahommet, and subjects of the Great Kaan.
 
-There are a good number of towns and villages, but the most noble is Pein, the capital of the kingdom.{1} There are rivers in this country, in which quantities of Jasper and Chalcedony are found.{2} The people have plenty of all products, including cotton. They live by manufactures and trade. 
+There are a good number of towns and villages, but the most noble is Pein, the capital of the kingdom.
+
+There are rivers in this country, in which quantities of Jasper and Chalcedony are found.{2} The people have plenty of all products, including cotton. They live by manufactures and trade. 
 
 But they have a custom that I must relate. If the husband of any woman go away upon a journey and remain away for more than 20 days, as soon as that term is past the woman may marry another man, and the husband also may then marry whom he pleases.{3}
 

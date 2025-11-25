@@ -15,7 +15,11 @@ Master’s question startled me a bit. It is true that my private conviction at 
 
 “It is a thankless task, sir,” I answered. “No matter what the leader does or does not, he is criticized.”
 
-“Do you want the whole divine channa (milk curd) for yourself alone?” My guru’s retort was accompanied by a stern glance. “Could you or anyone else achieve God-contact through yoga if a line of generous- hearted masters had not been willing to convey their knowledge to others?” He added, “God is the Honey, organizations are the hives; both are necessary. Any form is useless, of course, without the spirit, but why should you not start busy hives full of the spiritual nectar?”
+“Do you want the whole divine channa (milk curd) for yourself alone?” My guru’s retort was accompanied by a stern glance. 
+
+“Could you or anyone else achieve God-contact through yoga if a line of generous- hearted masters had not been willing to convey their knowledge to others?” 
+
+He added, “God is the Honey, organizations are the hives; both are necessary. Any form is useless, of course, without the spirit, but why should you not start busy hives full of the spiritual nectar?”
 
 His counsel moved me deeply. Although I made no outward reply, an adamant resolution arose in my breast: I would share with my fellows, so far as lay in my power, the unshackling truths I had learned at my guru’s feet. “Lord,” I prayed, “may Thy Love shine forever on the sanctuary of my devotion, and may I be able to awaken that Love in other hearts.”
 
@@ -37,17 +41,26 @@ At Ranchi I organized an educational program for both grammar and high school gr
 
 Realizing that man’s body is like an electric battery, I reasoned that it could be recharged with energy through the direct agency of the human will. As no action, slight or large, is possible without willing, man can avail himself of his prime mover, will, to renew his bodily tissues without burdensome apparatus or mechanical exercises. I therefore taught the Ranchi students my simple “Yogoda” techniques by which the life force, centred in man’s medulla oblongata, can be consciously and instantly recharged from the unlimited supply of cosmic energy.
 
-The boys responded wonderfully to this training, developing extraordinary ability to shift the life energy from one part of the body to another part, and to sit in perfect poise in difficult body postures. 27-2 They performed feats of strength and endurance which many powerful adults could not equal. My youngest brother, Bishnu Charan Ghosh, joined the Ranchi school; he later became a leading physical culturist in Bengal. He and one of his students traveled to Europe and America, giving exhibitions of strength and skill which amazed the university savants, including those at Columbia University in New York.
+The boys responded wonderfully to this training, developing extraordinary ability to shift the life energy from one part of the body to another part, and to sit in perfect poise in difficult body postures. 27-2 
+
+They performed feats of strength and endurance which many powerful adults could not equal. My youngest brother, Bishnu Charan Ghosh, joined the Ranchi school; he later became a leading physical culturist in Bengal. 
+
+He and one of his students traveled to Europe and America, giving exhibitions of strength and skill which amazed the university savants, including those at Columbia University in New York.
 
 At the end of the first year at Ranchi, applications for admission reached two thousand. But the school, which at that time was solely residential, could accommodate only about one hundred. Instruction for day students was soon added.
 
-In the Vidyalaya I had to play father-mother to the little children, and to cope with many organizational difficulties. I often remembered Christ’s words: “Verily I say unto you, There is no man that hath left house, or brethren or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel’s, but he shall receive an hundredfold now in this time, houses and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.” 27-3 Sri Yukteswar had interpreted these words: “The devotee who forgoes the life-experiences of marriage and family, and exchanges the problems of a small household and limited activities for the larger responsibilities of service to society in general, is undertaking a task which is often accompanied by persecution from a misunderstanding world, but also by a divine inner contentment.”
+In the Vidyalaya I had to play father-mother to the little children, and to cope with many organizational difficulties. 
 
-math
+I often remembered Christ’s words: “Verily I say unto you, There is no man that hath left house, or brethren or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel’s, but he shall receive an hundredfold now in this time, houses and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.” 27-3 
 
-Yogoda Math, beautiful hermitage of Self-Realization Fellowship at Dakshineswar on the Ganges. Founded in 1938 as a yoga retreat for students of East and West.
+ Sri Yukteswar had interpreted these words: 
 
-ranchi
+“The devotee who forgoes the life-experiences of marriage and family, and exchanges the problems of a small household and limited activities for the larger responsibilities of service to society in general, is undertaking a task which is often accompanied by persecution from a misunderstanding world, but also by a divine inner contentment.”
+
+
+<!-- Yogoda Math, beautiful hermitage of Self-Realization Fellowship at Dakshineswar on the Ganges. Founded in 1938 as a yoga retreat for students of East and West.
+
+ranchi -->
 
 Central building of the Yogoda Sat-Sanga Brahmacharya Vidyalaya at Ranchi, Bihar, established in 1918 as a yoga school for boys, with grammar and high school education. Connected with it is the philanthropic Lahiri Mahasaya Mission.
 
@@ -71,53 +84,122 @@ I awoke immediately, and cried out, “Boys, the deer is dying!” The children 
 
 I ran to the corner of the room where I had placed the pet. It made a last effort to rise, stumbled toward me, then dropped at my feet, dead.
 
-According to the mass karma which guides and regulates the destinies of animals, the deer’s life was over, and it was ready to progress to a higher form. But by my deep attachment, which I later realized was selfish, and by my fervent prayers, I had been able to hold it in the limitations of the animal form from which the soul was struggling for release. The soul of the deer made its plea in a dream because, without my loving permission, it either would not or could not go. As soon as I agreed, it departed.
+According to the mass karma which guides and regulates the destinies of animals, the deer’s life was over, and it was ready to progress to a higher form. 
 
-All sorrow left me; I realized anew that God wants His children to love everything as a part of Him, and not to feel delusively that death ends all. The ignorant man sees only the unsurmountable wall of death, hiding, seemingly forever, his cherished friends. But the man of unattachment, he who loves others as expressions of the Lord, understands that at death the dear ones have only returned for a breathing-space of joy in Him.
+But by my deep attachment, which I later realized was selfish, and by my fervent prayers, I had been able to hold it in the limitations of the animal form from which the soul was struggling for release. The soul of the deer made its plea in a dream because, without my loving permission, it either would not or could not go. As soon as I agreed, it departed.
 
-The Ranchi school grew from small and simple beginnings to an institution now well-known in India. Many departments of the school are supported by voluntary contributions from those who rejoice in perpetuating the educational ideals of the rishis. Under the general name of Yogoda Sat-Sanga, 27-4 flourishing branch schools have been established at Midnapore, Lakshmanpur, and Puri.
+All sorrow left me; I realized anew that God wants His children to love everything as a part of Him, and not to feel delusively that death ends all. 
+
+The ignorant man sees only the unsurmountable wall of death, hiding, seemingly forever, his cherished friends. But the man of unattachment, he who loves others as expressions of the Lord, understands that at death the dear ones have only returned for a breathing-space of joy in Him.
+
+The Ranchi school grew from small and simple beginnings to an institution now well-known in India. Many departments of the school are supported by voluntary contributions from those who rejoice in perpetuating the educational ideals of the rishis. 
+
+Under the general name of Yogoda Sat-Sanga, 27-4 flourishing branch schools have been established at Midnapore, Lakshmanpur, and Puri.
 
 The Ranchi headquarters maintains a Medical Department where medicines and the services of doctors are supplied freely to the poor of the locality. The number treated has averaged more than 18,000 persons a year. The Vidyalaya has made its mark, too, in Indian competitive sports, and in the scholastic field, where many Ranchi alumni have distinguished themselves in later university life.
 
-The school, now in its twenty-eighth year and the center of many activities, 27-5 has been honored by visits of eminent men from the East and the West. One of the earliest great figures to inspect the Vidyalaya in its first year was Swami Pranabananda, the Benares “saint with two bodies.” As the great master viewed the picturesque outdoor classes, held under the trees, and saw in the evening that young boys were sitting motionless for hours in yoga meditation, he was profoundly moved.
+The school, now in its 28th year and the center of many activities, 27-5 has been honored by visits of eminent men from the East and the West. 
 
-“Joy comes to my heart,” he said, “to see that Lahiri Mahasaya’s ideals for the proper training of youth are being carried on in this institution. My guru’s blessings be on it.”
+One of the earliest great figures in its first year was Swami Pranabananda, the Benares “saint with two bodies.”
 
-A young lad sitting by my side ventured to ask the great yogi a question.
+He viewed the picturesque outdoor classes held under the trees.
 
-“Sir,” he said, “shall I be a monk? Is my life only for God?”
+He saw in the evening that young boys were sitting motionless for hours in yoga meditation.
+
+He was profoundly moved:
+
+{{< l a="Swami Pranabananda" >}}
+Joy comes to my heart to see that Lahiri Mahasaya’s ideals for the proper training of youth are being carried on in this institution. My guru’s blessings be on it.
+{{< /l >}}
+
+
+{{< r a="Boy" >}}
+Sir, shall I be a monk? Is my life only for God?
+{{< /r >}}
 
 Though Swami Pranabananda smiled gently, his eyes were piercing the future.
 
-“Child,” he replied, “when you grow up, there is a beautiful bride waiting for you.” The boy did eventually marry, after having planned for years to enter the Swami Order.
 
-Sometime after Swami Pranabananda had visited Ranchi, I accompanied my father to the Calcutta house where the yogi was temporarily staying. Pranabananda’s prediction, made to me so many years before, came rushing to my mind: “I shall see you, with your father, later on.”
+{{< l a="Swami Pranabananda" >}}
+Child, when you grow up, there is a beautiful bride waiting for you.
+{{< /l >}}
+
+The boy did eventually marry, after having planned for years to enter the Swami Order.
+
+Sometime after Swami Pranabananda had visited Ranchi, I accompanied my father to the Calcutta house where the yogi was temporarily staying. 
+
+Pranabananda made a prediction so many years before: 
+
+{{< l a="Swami Pranabananda" >}}
+I shall see you with your father later on
+{{< /l >}}
+
 
 As Father entered the swami’s room, the great yogi rose from his seat and embraced my parent with loving respect.
 
-“Bhagabati,” he said, “what are you doing about yourself? Don’t you see your son racing to the Infinite?” I blushed to hear his praise before my father. The swami went on, “You recall how often our blessed guru used to say: ‘Banat, banat, ban jai.’ 26-6 So keep up Kriya Yoga ceaselessly, and reach the divine portals quickly.”
+{{< l a="Swami Pranabananda" >}}
+Bhagabati, what are you doing about yourself? Don’t you see your son racing to the Infinite?” 
+{{< /l >}}
+
+
+I blushed to hear his praise before my father. 
+
+{{< l a="Swami Pranabananda" >}}
+You recall how often our blessed guru used to say: ‘Banat, banat, ban jai.’ 26-6 So keep up Kriya Yoga ceaselessly, and reach the divine portals quickly.”
+{{< /l >}}
+
 
 The body of Pranabananda, which had appeared so well and strong during my amazing first visit to him in Benares, now showed definite aging, though his posture was still admirably erect.
 
-“Swamiji,” I inquired, looking straight into his eyes, “please tell me the truth: Aren’t you feeling the advance of age? As the body is weakening, are your perceptions of God suffering any diminution?”
 
-He smiled angelically. “The Beloved is more than ever with me now.” His complete conviction overwhelmed my mind and soul. He went on, “I am still enjoying the two pensions-one from Bhagabati here, and one from above.” Pointing his finger heavenward, the saint fell into an ecstasy, his face lit with a divine glow-an ample answer to my question.
+{{< r a="Yogananda" >}}
+Swamiji, Aren’t you feeling the advance of age? As the body is weakening, are your perceptions of God suffering any diminution?
+{{< /r >}}
+
+
+{{< l a="Swami Pranabananda" >}}
+(smiling angelically). The Beloved is more than ever with me now.
+
+<!-- His complete conviction overwhelmed my mind and soul.  -->
+
+I am still enjoying the 2 pensions-one from Bhagabati here, and one from above.
+{{< /l >}}
+
+
+Pointing his finger heavenward, the saint fell into an ecstasy, his face lit with a divine glow-an ample answer to my question.
 
 Noticing that Pranabananda’s room contained many plants and packages of seed, I asked their purpose.
 
-“I have left Benares permanently,” he said, “and am now on my way to the Himalayas. There I shall open an ashram for my disciples. These seeds will produce spinach and a few other vegetables. My dear ones will live simply, spending their time in blissful God-union. Nothing else is necessary.”
+
+{{< l a="Swami Pranabananda" >}}
+I have left Benares permanently and am now on my way to the Himalayas. There I shall open an ashram for my disciples. These seeds will produce spinach and a few other vegetables. My dear ones will live simply, spending their time in blissful God-union. Nothing else is necessary.”
+{{< /l >}}
+
 
 Father asked his brother disciple when he would return to Calcutta.
 
-“Never again,” the saint replied. “This year is the one in which Lahiri Mahasaya told me I would leave my beloved Benares forever and go to the Himalayas, there to throw off my mortal frame.”
 
-My eyes filled with tears at his words, but the swami smiled tranquilly. He reminded me of a little heavenly child, sitting securely on the lap of the Divine Mother. The burden of the years has no ill effect on a great yogi’s full possession of supreme spiritual powers. He is able to renew his body at will; yet sometimes he does not care to retard the aging process, but allows his karma to work itself out on the physical plane, using his old body as a time-saving device to exclude the necessity of working out karma in a new incarnation.
+{{< l a="Disciple" >}}
+Never again, This year is the one in which Lahiri Mahasaya told me I would leave my beloved Benares forever and go to the Himalayas, there to throw off my mortal frame.
+{{< /r >}}
+
+
+My eyes filled with tears at his words, but the swami smiled tranquilly. He reminded me of a little heavenly child, sitting securely on the lap of the Divine Mother. The burden of the years has no ill effect on a great yogi’s full possession of supreme spiritual powers. 
+
+He is able to renew his body at will; yet sometimes he does not care to retard the aging process, but allows his karma to work itself out on the physical plane, using his old body as a time-saving device to exclude the necessity of working out karma in a new incarnation.
 
 Months later I met an old friend, Sanandan, who was one of Pranabananda’s close disciples.
 
-“My adorable guru is gone,” he told me, amidst sobs. “He established a hermitage near Rishikesh, and gave us loving training. When we were pretty well settled, and making rapid spiritual progress in his company, he proposed one day to feed a huge crowd from Rishikesh. I inquired why he wanted such a large number.
 
-“‘This is my last festival ceremony,’ he said. I did not understand the full implications of his words.
+{{< r a="Sanandan" >}}
+[crying] My adorable guru is gone. He established a hermitage near Rishikesh, and gave us loving training. 
+
+When we were pretty well settled, and making rapid spiritual progress in his company, he proposed one day to feed a huge crowd from Rishikesh. I inquired why he wanted such a large number.
+
+‘This is my last festival ceremony
+{{< /r >}}
+
+
 
 “Pranabanandaji helped with the cooking of great amounts of food. We fed about 2000 guests. After the feast, he sat on a high platform and gave an inspired sermon on the Infinite. At the end, before the gaze of thousands, he turned to me, as I sat beside him on the dais, and spoke with unusual force.
 
@@ -129,7 +211,9 @@ Months later I met an old friend, Sanandan, who was one of Pranabananda’s clos
 
 “He cried again, ‘Sanandan, here I kick the frame by the second Kriya Yoga.’ 27-9
 
-“He looked at the sea of faces before us, and gave a blessing. Directing his gaze inwardly to the spiritual eye, he became immobile. While the bewildered crowd thought he was meditating in an ecstatic state, he had already left the tabernacle of flesh and plunged his soul into the cosmic vastness. The disciples touched his body, seated in the lotus posture, but it was no longer the warm flesh. Only a stiffened frame remained; the tenant had fled to the immortal shore.”
+“He looked at the sea of faces before us, and gave a blessing. 
+
+Directing his gaze inwardly to the spiritual eye, he became immobile. While the bewildered crowd thought he was meditating in an ecstatic state, he had already left the tabernacle of flesh and plunged his soul into the cosmic vastness. The disciples touched his body, seated in the lotus posture, but it was no longer the warm flesh. Only a stiffened frame remained; the tenant had fled to the immortal shore.”
 
 I inquired where Pranabananda was to be reborn.
 
@@ -137,7 +221,8 @@ I inquired where Pranabananda was to be reborn.
 
 Years later I discovered from Swami Keshabananda 27-10 that Pranabananda, a few years after his birth in a new body, had gone to Badrinarayan in the Himalayas, and there joined the group of saints around the great Babaji.
 
-27-1: Vidyalaya, school. Brahmacharya here refers to one of the four stages in the Vedic plan for man’s life, as comprising that of (1) the celibate student (brahmachari); (2) the householder with worldly responsibilities (grihastha); (3) the hermit (vanaprastha); (4) the forest dweller or wanderer, free from all earthly concerns (sannyasi). This ideal scheme of life, while not widely observed in modern India, still has many devout followers. The four stages are carried out religiously under the lifelong direction of a guru.
+
+<!-- 27-1: Vidyalaya, school. Brahmacharya here refers to one of the four stages in the Vedic plan for man’s life, as comprising that of (1) the celibate student (brahmachari); (2) the householder with worldly responsibilities (grihastha); (3) the hermit (vanaprastha); (4) the forest dweller or wanderer, free from all earthly concerns (sannyasi). This ideal scheme of life, while not widely observed in modern India, still has many devout followers. The four stages are carried out religiously under the lifelong direction of a guru.
 
 27-2: A number of American students also have mastered various asanas or postures, including Bernard Cole, an instructor in Los Angeles of the Self-Realization Fellowship teachings.
 
@@ -158,3 +243,4 @@ Years later I discovered from Swami Keshabananda 27-10 that Pranabananda, a few 
 27-10: My meeting with Keshabananda is described in chapter 42.
 
 
+ -->

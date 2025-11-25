@@ -36,7 +36,23 @@ Reconsider therefore the importance of your productions; and, since the labours 
 
 Useless, do I say? Would God they were! Society would be more peaceful, and morals less corrupt. But these vain and futile declaimers go forth on all sides, armed with their fatal paradoxes, to sap the foundations of our faith, and nullify virtue. They smile contemptuously at such old names as patriotism and religion, and consecrate their talents and philosophy to the destruction; and defamation of all that men hold sacred. Not that they bear any real hatred to virtue or dogma; they are the enemies of public opinion alone; to bring them to the foot of the altar, it would be enough to banish them to a land of atheists. What extravagancies will not the rage of singularity induce men to commit!
 
-The waste of time is certainly a great evil; but still greater evils attend upon literature and the arts. One is luxury, produced like them by indolence and vanity. Luxury is seldom unattended by the arts and sciences; and they are always attended by luxury. I know that our philosophy, fertile in paradoxes, pretends, in contradiction to the experience of all ages, that luxury contributes to the splendour of States. But, without insisting on the necessity of sumptuary laws, can it be denied that rectitude of morals is essential to the duration of empires, and that luxury is diametrically opposed to such rectitude? Let it be admitted that luxury is a certain indication of wealth; that it even serves, if you will, to increase such wealth: what conclusion is to be drawn from this paradox, so worthy of the times? And what will become of virtue if riches are to be acquired at any cost? The politicians of the ancient world were always talking of morals and virtue; ours speak of nothing but commerce and money. One of them will tell you that in such a country a man is worth just as much as he will sell for at Algiers: another, pursuing the same mode of calculation, finds that in some countries a man is worth nothing, and in others still less than nothing; they value men as they do droves of oxen. According to them, a man is worth no more to the State, than the amount he consumes; and thus a Sybarite would be worth at least thirty Lacedæmonians. Let these writers tell me, however, which of the two republics, Sybaris or Sparta, was subdued by a handful of peasants, and which became the terror of Asia.
+The waste of time is certainly a great evil.
+
+But still greater evils attend on literature and the arts.
+
+One is luxury, produced like them by indolence and vanity. Luxury is seldom unattended by the arts and sciences; and they are always attended by luxury. 
+
+Our philosophy, fertile in paradoxes, pretends, in contradiction to the experience of all ages, that luxury contributes to the splendour of States. 
+
+But, without insisting on the necessity of sumptuary laws, can it be denied that rectitude of morals is essential to the duration of empires, and that luxury is diametrically opposed to such rectitude? 
+
+Let it be admitted that luxury is a certain indication of wealth; that it even serves, if you will, to increase such wealth: what conclusion is to be drawn from this paradox, so worthy of the times? And what will become of virtue if riches are to be acquired at any cost? 
+
+The politicians of the ancient world were always talking of morals and virtue; ours speak of nothing but commerce and money. 
+
+One of them will tell you that in such a country a man is worth just as much as he will sell for at Algiers: another, pursuing the same mode of calculation, finds that in some countries a man is worth nothing, and in others still less than nothing; they value men as they do droves of oxen. 
+
+According to them, a man is worth no more to the State, than the amount he consumes; and thus a Sybarite would be worth at least thirty Lacedæmonians. Let these writers tell me, however, which of the two republics, Sybaris or Sparta, was subdued by a handful of peasants, and which became the terror of Asia.
 
 The monarchy of Cyrus was conquered by thirty thousand men, led by a prince poorer than the meanest of Persian Satraps: in like manner the Scythians, the poorest of all nations, were able to resist the most powerful monarchs of the universe. When two famous republics contended for the empire of the world, the one rich and the other poor, the former was subdued by the latter. 
 
@@ -128,13 +144,20 @@ But so long as power alone is on one side, and knowledge and Understanding alone
 
 As for us, ordinary men, on whom Heaven has not been pleased to bestow such great talents; as we are not destined to reap such glory, let us remain in our obscurity. Let us not covet a reputation we should never attain, and which, in the present state of things, would never make up to us for the trouble it would have cost us, even if we were fully qualified to obtain it. 
 
-Why should we build our happiness on the opinions of others, when we can find it in our own hearts? Let us leave to others the task of instructing mankind in their duty, and confine ourselves to the discharge of our own. We have no occasion for greater knowledge than this.
+Why should we build our happiness on the opinions of others, when we can find it in our own hearts? 
+
+Let us leave to others the task of instructing mankind in their duty, and confine ourselves to the discharge of our own. We have no occasion for greater knowledge than this.
 
 Virtue! sublime science of simple minds, are such industry and preparation needed if we are to know you? Are not your principles graven on every heart? Need we do more, to learn your laws, than examine ourselves, and listen to the voice of conscience, when the passions are silent?
 
 This is the true philosophy, with which we must learn to be content, without envying the fame of those celebrated men, whose names are immortal in the republic of letters. 
 
 Let us, instead of envying them, endeavour to make, between them and us, that honourable distinction which was formerly seen to exist between two great peoples, that the one knew how to speak, and the other how to act, aright.
+
+
+
+
+
 
 [1] It is easy to see the allegory in the fable of Prometheus: and it does not appear that the Greeks, who chained him to the Caucasus, had a better opinion of him than the Egyptians had of their god Theutus. The Satyr, says an ancient fable, the first time he saw a fire, was going to kiss and embrace it; but Prometheus cried out to him to forbear, or his beard would rue it. It burns, says he, everything that touches it.
 

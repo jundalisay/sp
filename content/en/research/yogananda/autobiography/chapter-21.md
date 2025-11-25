@@ -130,7 +130,7 @@ When I ventured a few words of sympathy over his emaciated figure, my guru said 
 
 Listening to Master’s jovial laugh, I remembered the words of St. Francis de Sales: “A saint that is sad is a sad saint!”
 
-21-1: It is a mark of disrespect, in India, to smoke in the presence of one’s elders and superiors.
+<!-- 21-1: It is a mark of disrespect, in India, to smoke in the presence of one’s elders and superiors.
 
 21-2: The Oriental plane tree..
 
@@ -141,3 +141,4 @@ Listening to Master’s jovial laugh, I remembered the words of St. Francis de S
 21-5: See chapters 26, 43 notes .
 
 
+ -->

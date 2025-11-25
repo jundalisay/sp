@@ -18,13 +18,21 @@ Subsistence for man increases in an arithmetical ratio.
 
 <!-- Let us examine whether this position be just. I think it will be allowed, that  -->
 
-no state has hitherto existed (at least that we have any account of) where the manners were so pure and simple, and the means of subsistence so abundant, that no check whatever has existed to early marriages, among the lower classes, from a fear of not providing well for their families, or among the higher classes, from a fear of lowering their condition in life. 
+No state has hitherto existed where:
+- the manners were so pure and simple
+- the means of subsistence so abundant, that no check has existed to early marriages, among:
+  - the poor from a fear of not providing well for their families, or 
+  - the rich from a fear of lowering their condition in life. 
 
-Consequently in no state that we have yet known has the power of population been left to exert itself with perfect freedom.
+Consequently, the power of population has never been perfectly free.
+
+ <!-- in no state that we have yet known has  -->
 
 Whether the law of marriage be instituted or not, the dictate of nature and virtue seems to be an early attachment to one woman. 
 
-Supposing a liberty of changing in the case of an unfortunate choice, this liberty would not affect population till it arose to a height greatly vicious; and we are now supposing the existence of a society where vice is scarcely known.
+Supposing a liberty of changing in the case of an unfortunate choice, this liberty would not affect population till it arose to a height greatly vicious; 
+
+We are now supposing the existence of a society where vice is scarcely known.
 
 In a state therefore of great equality and virtue, where pure and simple manners prevailed, and where the means of subsistence were so abundant that no part of the society could have any fears about providing amply for a family, the power of population being left to exert itself unchecked, the increase of the human species would evidently be much greater than any increase that has been hitherto known.
 
@@ -34,21 +42,63 @@ The manners of the people more pure. Consequently, the checks to early marriages
 
 This ratio of increase, though short of the utmost power of population, yet as the result of actual experience, we will take as our rule, and say, that population, when unchecked, goes on doubling itself every twenty-five years or increases in a geometrical ratio.
 
-Let us now take any spot of earth, this Island for instance, and see in what ratio the subsistence it affords can be supposed to increase. We will begin with it under its present state of cultivation.
+Let us take any spot of earth,  like this Island.
 
-If I allow that by the best possible policy, by breaking up more land and by great encouragements to agriculture, the produce of this Island may be doubled in the first twenty-five years, I think it will be allowing as much as any person can well demand.
+What ratio can its subsistence increase?
 
-In the next twenty-five years, it is impossible to suppose that the produce could be quadrupled. It would be contrary to all our knowledge of the qualities of land. The very utmost that we can conceive, is, that the increase in the second twenty-five years might equal the present produce. Let us then take this for our rule, though certainly far beyond the truth, and allow that, by great exertion, the whole produce of the Island might be increased every twenty-five years, by a quantity of subsistence equal to what it at present produces. The most enthusiastic speculator cannot suppose a greater increase than this. In a few centuries it would make every acre of land in the Island like a garden.
+ <!-- We will begin with it under its present state of cultivation. -->
+
+I assume that the best possible policy is the:
+- breaking up more land and
+- great encouragements to agriculture
+
+The produce of this Island may be doubled in the first 25 years.
+
+ <!-- I think it will be allowing as much as any person can well demand. -->
+
+In the next 25 years, it is impossible for the produce to be quadrupled.
+
+<!-- It would be contrary to all our knowledge of the qualities of land.  -->
+
+The very utmost that we can conceive is that the increase in the second 25 years might equal the present produce. 
+
+Let us assume that the whole produce of the Island might be increased every 25 years, by a quantity of subsistence equal to what it at present produces. 
+
+<!-- The most enthusiastic speculator cannot suppose a greater increase than this. In a few centuries it would make every acre of land in the Island like a garden. -->
 
 Yet this ratio of increase is evidently arithmetical.
 
-It may be fairly said, therefore, that the means of subsistence increase in an arithmetical ratio. Let us now bring the effects of these two ratios together.
+<!-- It may be fairly said, therefore, that  -->
 
-The population of the Island is computed to be about seven millions, and we will suppose the present produce equal to the support of such a number. In the first twenty-five years the population would be fourteen millions, and the food being also doubled, the means of subsistence would be equal to this increase. In the next twenty-five years the population would be twenty-eight millions, and the means of subsistence only equal to the support of twenty-one millions. In the next period, the population would be fifty-six millions, and the means of subsistence just sufficient for half that number. And at the conclusion of the first century the population would be one hundred and twelve millions and the means of subsistence only equal to the support of thirty-five millions, which would leave a population of seventy-seven millions totally unprovided for.
+Thus, the means of subsistence increases in an arithmetical ratio. 
 
-A great emigration necessarily implies unhappiness of some kind or other in the country that is deserted. For few persons will leave their families, connections, friends, and native land, to seek a settlement in untried foreign climes, without some strong subsisting causes of uneasiness where they are, or the hope of some great advantages in the place to which they are going.
+Let us now bring the effects of these two ratios together.
 
-But to make the argument more general and less interrupted by the partial views of emigration, let us take the whole earth, instead of one spot, and suppose that the restraints to population were universally removed. If the subsistence for man that the earth affords was to be increased every twenty-five years by a quantity equal to what the whole world at present produces, this would allow the power of production in the earth to be absolutely unlimited, and its ratio of increase much greater than we can conceive that any possible exertions of mankind could make it.
+The population of the Island is about 7 millions.
+
+We suppose the present produce is equal to the support of such a number.
+
+In the first 25 years, the population would be 14 million.
+
+The food being also doubled, the means of subsistence would be equal to this increase. 
+
+In the next 25 years, the population would be 28 millions.
+
+The means of subsistence only equal to the support of twenty-one millions. In the next period, the population would be 56 millions, and the means of subsistence just sufficient for half that number. 
+
+At the conclusion of the first century:
+- the population would be 112 millions
+- the means of subsistence only equal to the support of 35 millions
+
+This means 77 millions are totally unprovided for.
+
+A great emigration necessarily implies unhappiness of some kind or other in the country that is deserted. 
+
+For few persons will leave their families, connections, friends, and native land, to seek a settlement in untried foreign climes, without some strong subsisting causes of uneasiness where they are, or the hope of some great advantages in the place to which they are going.
+
+But to make the argument more general and less interrupted by the partial views of emigration, let us take the whole earth, instead of one spot, and suppose that the restraints to population were universally removed. 
+
+If the subsistence for man that the earth affords was to be increased every twenty-five years by a quantity equal to what the whole world at present produces, this would allow the power of production in the earth to be absolutely unlimited, and its ratio of increase much greater than we can conceive that any possible exertions of mankind could make it.
 
 Taking the population of the world at any number, a thousand millions, for instance, the human species would increase in the ratio of—1, 2, 4, 8, 16, 32, 64, 128, 256, 512, etc. and subsistence as—1, 2, 3, 4, 5, 6, 7, 8, 9, 10, etc. In two centuries and a quarter, the population would be to the means of subsistence as 512 to 10: in three centuries as 4096 to 13, and in two thousand years the difference would be almost incalculable, though the produce in that time would have increased to an immense extent.
 
@@ -72,7 +122,11 @@ One principal reason is that the histories of mankind that we possess are histor
 
 Such a history would tend greatly to elucidate the manner in which the constant check upon population acts and would probably prove the existence of the retrograde and progressive movements that have been mentioned, though the times of their vibrations must necessarily be rendered irregular from the operation of many interrupting causes, such as the introduction or failure of certain manufactures, a greater or less prevalent spirit of agricultural enterprise, years of plenty, or years of scarcity, wars and pestilence, poor laws, the invention of processes for shortening labour without the proportional extension of the market for the commodity, and, particularly, the difference between the nominal and real price of labour, a circumstance which has perhaps more than any other contributed to conceal this oscillation from common view.
 
-It very rarely happens that the nominal price of labour universally falls, but we well know that it frequently remains the same, while the nominal price of provisions has been gradually increasing. This is, in effect, a real fall in the price of labour, and during this period the condition of the lower orders of the community must gradually grow worse and worse. But the farmers and capitalists are growing rich from the real cheapness of labour. Their increased capitals enable them to employ a greater number of men. Work therefore may be plentiful, and the price of labour would consequently rise. But the want of freedom in the market of labour, which occurs more or less in all communities, either from parish laws, or the more general cause of the facility of combination among the rich, and its difficulty among the poor, operates to prevent the price of labour from rising at the natural period, and keeps it down some time longer; perhaps till a year of scarcity, when the clamour is too loud and the necessity too apparent to be resisted.
+It very rarely happens that the nominal price of labour universally falls, but we well know that it frequently remains the same, while the nominal price of provisions has been gradually increasing. 
+
+This is, in effect, a real fall in the price of labour, and during this period the condition of the lower orders of the community must gradually grow worse and worse. But the farmers and capitalists are growing rich from the real cheapness of labour. 
+
+Their increased capitals enable them to employ a greater number of men. Work therefore may be plentiful, and the price of labour would consequently rise. But the want of freedom in the market of labour, which occurs more or less in all communities, either from parish laws, or the more general cause of the facility of combination among the rich, and its difficulty among the poor, operates to prevent the price of labour from rising at the natural period, and keeps it down some time longer; perhaps till a year of scarcity, when the clamour is too loud and the necessity too apparent to be resisted.
 
 The true cause of the advance in the price of labour is thus concealed, and the rich affect to grant it as an act of compassion and favour to the poor, in consideration of a year of scarcity, and, when plenty returns, indulge themselves in the most unreasonable of all complaints, that the price does not again fall, when a little rejection would shew them that it must have risen long before but from an unjust conspiracy of their own.
 

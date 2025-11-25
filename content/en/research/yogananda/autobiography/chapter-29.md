@@ -52,7 +52,9 @@ The poet spoke lovingly of his father, Devendranath, who had inspired the Santin
 
 “Father presented me with this fertile land, where he had already built a guest house and temple,” Rabindranath told me. “I started my educational experiment here in 1901, with only ten boys. The eight thousand pounds which came with the Nobel Prize all went for the upkeep of the school.”
 
-The elder Tagore, Devendranath, known far and wide as “Maharishi,” was a very remarkable man, as one may discover from his Autobiography. Two years of his manhood were spent in meditation in the Himalayas. In turn, his father, Dwarkanath Tagore, had been celebrated throughout Bengal for his munificent public benefactions. From this illustrious tree has sprung a family of geniuses. Not Rabindranath alone; all his relatives have distinguished themselves in creative expression. His brothers, Gogonendra and Abanindra, are among the foremost artists 29-3 of India; another brother, Dwijendra, is a deep-seeing philosopher, at whose gentle call the birds and woodland creatures respond.
+The elder Tagore, Devendranath, known far and wide as “Maharishi,” was a very remarkable man, as one may discover from his Autobiography. Two years of his manhood were spent in meditation in the Himalayas. 
+
+In turn, his father, Dwarkanath Tagore, had been celebrated throughout Bengal for his munificent public benefactions. From this illustrious tree has sprung a family of geniuses. Not Rabindranath alone; all his relatives have distinguished themselves in creative expression. His brothers, Gogonendra and Abanindra, are among the foremost artists 29-3 of India; another brother, Dwijendra, is a deep-seeing philosopher, at whose gentle call the birds and woodland creatures respond.
 
 Rabindranath invited me to stay overnight in the guest house. It was indeed a charming spectacle, in the evening, to see the poet seated with a group in the patio. Time unfolded backward: the scene before me was like that of an ancient hermitage-the joyous singer encircled by his devotees, all aureoled in divine love. Tagore knitted each tie with the cords of harmony. Never assertive, he drew and captured the heart by an irresistible magnetism. Rare blossom of poesy blooming in the garden of the Lord, attracting others by a natural fragrance!
 
@@ -76,7 +78,9 @@ The following day, after lunch, I bade the poet a reluctant farewell. I rejoice 
                                     RABINDRANATH TAGORE
 
 
-### Footnotes
+
+
+<!-- ### Footnotes
 
 29-1: The English writer and publicist, close friend of Mahatma Gandhi. Mr. Andrews is honored in India for his many services to his adopted land.
 
@@ -87,3 +91,4 @@ The following day, after lunch, I bade the poet a reluctant farewell. I rejoice 
 29-4: Gitanjali (New York: Macmillan Co.). A thoughtful study of the poet will be found in The Philosophy Of Rabindranath Tagore, by the celebrated scholar, Sir S. Radhakrishnan (Macmillan, 1918). Another expository volume is B. K. Roy’s Rabindranath Tagore: The Man And His Poetry (New York: Dodd, Mead, 1915). Buddha And The Gospel Of Buddhism (New York: Putnam’s, 1916), by the eminent Oriental art authority, Ananda K. Coomaraswamy, contains a number of illustrations in color by the poet’s brother, Abanindra Nath Tagore.
 
 
+ -->

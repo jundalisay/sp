@@ -10,25 +10,42 @@ weight: 74
 
 “As a loyal Hindu wife, I do not wish to complain of my husband. But I yearn to see him turn from his materialistic views. He delights in ridiculing the pictures of saints in my meditation room. Dear brother, I have deep faith that you can help him. Will you?”
 
-My eldest sister Roma gazed beseechingly at me. I was paying a short visit at her Calcutta home on Girish Vidyaratna Lane. Her plea touched me, for she had exercised a profound spiritual influence over my early life, and had lovingly tried to fill the void left in the family circle by Mother’s death.
+My eldest sister Roma gazed beseechingly at me. 
 
-“Beloved sister, of course I will do anything I can.” I smiled, eager to lift the gloom plainly visible on her face, in contrast to her usual calm and cheerful expression.
+I was paying a short visit at her Calcutta home on Girish Vidyaratna Lane. 
+
+Her plea touched me, for she had exercised a profound spiritual influence over my early life, and had lovingly tried to fill the void left in the family circle by Mother’s death.
+
+
+{{< l a="Yogananda" >}}
+Beloved sister, of course I will do anything I can.
+{{< /l >}}
+
+I smiled, eager to lift the gloom plainly visible on her face, in contrast to her usual calm and cheerful expression.
 
 Roma and I sat awhile in silent prayer for guidance. A year earlier, my sister had asked me to initiate her into Kriya Yoga, in which she was making notable progress.
 
-An inspiration seized me. “Tomorrow,” I said, “I am going to the Dakshineswar temple. Please come with me, and persuade your husband to accompany us. I feel that in the vibrations of that holy place, Divine Mother will touch his heart. But don’t disclose our object in wanting him to go.”
+An inspiration seized me. 
 
-Sister agreed hopefully. Very early the next morning I was pleased to find that Roma and her husband were in readiness for the trip. As our hackney carriage rattled along Upper Circular Road toward Dakshineswar, my brother-in-law, Satish Chandra Bose, amused himself by deriding spiritual gurus of the past, present, and future. I noticed that Roma was quietly weeping.
+{{< l a="Yogananda" >}}
+Tomorrow, I am going to the Dakshineswar temple. Please come with me, and persuade your husband to accompany us. I feel that in the vibrations of that holy place, Divine Mother will touch his heart. But don’t disclose our object in wanting him to go.”
+{{< /l >}}
 
-sandiego
 
-Self-Realization Church of All Religions, San Diego, California
-sisters
+Sister agreed hopefully. Very early the next morning I was pleased to find that Roma and her husband were in readiness for the trip. 
 
-I stand with my two sisters, Roma (at left) and Nalini
+As our hackney carriage rattled along Upper Circular Road toward Dakshineswar, my brother-in-law, Satish Chandra Bose, amused himself by deriding spiritual gurus of the past, present, and future. I noticed that Roma was quietly weeping.
+
+
+<!-- Self-Realization Church of All Religions, San Diego, California
+sisters -->
+
+<!-- I stand with my two sisters, Roma (at left) and Nalini
 uma
 
-My sister Uma, as a young girl
+My sister Uma, as a young girl -->
+
+
 “Sister, cheer up!” I whispered. “Don’t give your husband the satisfaction of believing that we take his mockery seriously.”
 
 “Mukunda, how can you admire worthless humbugs?” Satish was saying. “A SADHU’S very appearance is repulsive. He is either as thin as a skeleton, or as unholily fat as an elephant!”
@@ -91,7 +108,7 @@ The following afternoon I visited my sister at her home. She greeted me affectio
 
 “Dear brother,” she cried, “what a miracle! Last evening my husband wept openly before me.
 
-“‘Beloved devi ,’ 22-1 he said, ‘I am happy beyond expression that this reforming scheme of your brother’s has wrought a transformation. I am going to undo every wrong I have done you. From tonight we will use our large bedroom only as a place of worship; your small meditation room shall be changed into our sleeping quarters. I am sincerely sorry that I have ridiculed your brother. For the shameful way I have been acting, I will punish myself by not talking to Mukunda until I have progressed in the spiritual path. Deeply I will seek the Divine Mother from now on; someday I must surely find Her!’”
+“‘Beloved devi he said, ‘I am happy beyond expression that this reforming scheme of your brother’s has wrought a transformation. I am going to undo every wrong I have done you. From tonight we will use our large bedroom only as a place of worship; your small meditation room shall be changed into our sleeping quarters. I am sincerely sorry that I have ridiculed your brother. For the shameful way I have been acting, I will punish myself by not talking to Mukunda until I have progressed in the spiritual path. Deeply I will seek the Divine Mother from now on; someday I must surely find Her!’”
 
 Years later, I visited my brother-in-law in Delhi. I was overjoyed to perceive that he had developed highly in self-realization, and had been blessed by the vision of Divine Mother. During my stay with him, I noticed that Satish secretly spent the greater part of every night in divine meditation, though he was suffering from a serious ailment, and was engaged during the day at his office.
 
@@ -117,8 +134,6 @@ Taken aback at her ominous words, I yet realized their sting of truth. I was in 
 
 Thus prophetically passed my dearly beloved eldest sister Roma, and her husband Satish-he who changed at Dakshineswar from an ordinary worldly man to a silent saint.
 
-22-1: Goddess.
+<!-- 22-1: Goddess.
 
-22-2: The Hindu wife believes it is a sign of spiritual advancement if she dies before her husband, as a proof of her loyal service to him, or “dying in harness.”
-
-
+22-2: The Hindu wife believes it is a sign of spiritual advancement if she dies before her husband, as a proof of her loyal service to him, or “dying in harness.”  -->

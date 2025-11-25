@@ -8,102 +8,200 @@ weight: 338
 ---
 
 
+{{< r a="Sri Yukteswar" >}}
+Return to india. I have waited for you patiently for 15 years. Soon I shall swim out of the body and on to the Shining Abode. Yogananda, come!
+{{< /r >}}
 
-“Return to india. I have waited for you patiently for fifteen years. Soon I shall swim out of the body and on to the Shining Abode. Yogananda, come!”
 
-Sri Yukteswar’s voice sounded startlingly in my inner ear as I sat in meditation at my Mt. Washington headquarters. Traversing ten thousand miles in the twinkling of an eye, his message penetrated my being like a flash of lightning.
+Sri Yukteswar’s voice sounded startlingly in my inner ear as I sat in meditation at my Mt. Washington headquarters. 
 
-Fifteen years! Yes, I realized, now it is 1935; I have spent fifteen years in spreading my guru’s teachings in America. Now he recalls me.
+Traversing 10 thousand miles in the twinkling of an eye, his message penetrated my being like a flash of lightning.
+
+Fifteen years! Yes, I realized, now it is 1935; I have spent 15 years spreading my guru’s teachings in America. Now he recalls me.
 
 That afternoon I recounted my experience to a visiting disciple. His spiritual development under Kriya Yoga was so remarkable that I often called him “saint,” remembering Babaji’s prophecy that America too would produce men and women of divine realization through the ancient yogic path.
 
-This disciple and a number of others generously insisted on making a donation for my travels. The financial problem thus solved, I made arrangements to sail, via Europe, for India. 
+He and others generously insisted on making a donation for my travels. The financial problem thus solved, I made arrangements to sail, via Europe, for India. 
 
-Busy weeks of preparations at Mount Washington! In March, 1935 I had the Self- Realization Fellowship chartered under the laws of the State of California as a non-profit corporation. To this educational institution go all public donations as well as the revenue from the sale of my books, magazine, written courses, class tuition, and every other source of income.
+Busy weeks of preparations at Mount Washington! In March, 1935 I had the Self-Realization Fellowship chartered under the laws of the State of California as a non-profit corporation. 
 
-“I shall be back,” I told my students. “Never shall I forget America.”
+To this educational institution go all public donations as well as the revenue from the sale of my books, magazine, written courses, class tuition, and every other source of income.
 
-At a farewell banquet given to me in Los Angeles by loving friends, I looked long at their faces and thought gratefully, “Lord, he who remembers Thee as the Sole Giver will never lack the sweetness of friendship among mortals.”
 
-I sailed from New York on June 9, 1935 39-1 in the Europa. Two students accompanied me: my secretary, Mr. C. Richard Wright, and an elderly lady from Cincinnati, Miss Ettie Bletch. We enjoyed the days of ocean peace, a welcome contrast to the past hurried weeks. Our period of leisure was short-lived; the speed of modern boats has some regrettable features!
+{{< l a="Yogananda" >}}
+I shall be back. Never shall I forget America.
+{{< /l >}}
 
-Like any other group of inquisitive tourists, we walked around the huge and ancient city of London. The following day I was invited to address a large meeting in Caxton Hall, at which I was introduced to the London audience by Sir Francis Younghusband. Our party spent a pleasant day as guests of Sir Harry Lauder at his estate in Scotland. 
 
-We soon crossed the English Channel to the continent, for I wanted to make a special pilgrimage to Bavaria. This would be my only chance, I felt, to visit the great Catholic mystic, Therese Neumann of Konnersreuth.
+At a farewell banquet given to me in Los Angeles by loving friends, I looked long at their faces and thought gratefully:
 
-Years earlier I had read an amazing account of Therese. Information given in the article was as follows:
+“Lord, he who remembers Thee as the Sole Giver will never lack the sweetness of friendship among mortals.”
 
-(1) Therese, born in 1898, had been injured in an accident at the age of twenty; she became blind and paralyzed.
+I sailed from New York on June 9, 1935 in the Europa.
 
-(2) She miraculously regained her sight in 1923 through prayers to St. Teresa, “The Little Flower.” Later Therese Neumann’s limbs were instantaneously healed.
+Two students accompanied me: 
 
-(3) From 1923 onward, Therese has abstained completely from food and drink, except for the daily swallowing of one small consecrated wafer.
+1. My secretary, C. Richard Wright
+2. An elderly lady from Cincinnati, Miss Ettie Bletch
 
-(4) The stigmata, or sacred wounds of Christ, appeared in 1926 on Therese’s head, breast, hands, and feet. On Friday of every week thereafter, she has passed through the Passion of Christ, suffering in her own body all his historic agonies.
+<!-- We enjoyed the days of ocean peace, a welcome contrast to the past hurried weeks. Our period of leisure was short-lived; the speed of modern boats has some regrettable features!
 
-(5) Knowing ordinarily only the simple German of her village, during her Friday trances Therese utters phrases which scholars have identified as ancient Aramaic. At appropriate times in her vision, she speaks Hebrew or Greek.
+Like any other group of inquisitive tourists,  -->
 
-(6) By ecclesiastical permission, Therese has several times been under close scientific observation. Dr. Fritz Gerlick, editor of a Protestant German newspaper, went to Konnersreuth to “expose the Catholic fraud,” but ended up by reverently writing her biography. 39-2
+We walked around the huge and ancient city of London. 
 
-As always, whether in East or West, I was eager to meet a saint. I rejoiced as our little party entered, on July 16th, the quaint village of Konnersreuth. 
+The following day I was invited to address a large meeting in Caxton Hall, at which I was introduced to the London audience by Sir Francis Younghusband. 
 
-The Bavarian peasants exhibited lively interest in our Ford automobile (brought with us from America) and its assorted group-an American young man, an elderly lady, and an olive-hued Oriental with long hair tucked under his coat collar.
+Our party spent a pleasant day as guests of Sir Harry Lauder at his estate in Scotland. 
 
-Therese’s little cottage, clean and neat, with geraniums blooming by a primitive well, was alas! silently closed. The neighbors, and even the village postman who passed by, could give us no information. Rain began to fall; my companions suggested that we leave.
+<!-- We soon crossed the English Channel to the continent, for  -->
+
+I wanted to make a special pilgrimage to Bavaria to visit the great Catholic mystic, Therese Neumann of Konnersreuth.
+
+Years earlier I had read an amazing account of Therese. 
+<!-- Information given in the article was as follows: -->
+
+1. Therese, born in 1898, had been injured in an accident at the age of twenty; she became blind and paralyzed.
+
+2. She miraculously regained her sight in 1923 through prayers to St. Teresa, “The Little Flower.” 
+
+Later Therese Neumann’s limbs were instantaneously healed.
+
+3. From 1923 onward, Therese has abstained completely from food and drink, except for the daily swallowing of one small consecrated wafer.
+
+4. The stigmata, or sacred wounds of Christ, appeared in 1926 on Therese’s head, breast, hands, and feet. 
+
+On Friday of every week thereafter, she has passed through the Passion of Christ, suffering in her own body all his historic agonies.
+
+5. Knowing ordinarily only the simple German of her village, during her Friday trances Therese utters phrases which scholars have identified as ancient Aramaic. 
+
+At appropriate times in her vision, she speaks Hebrew or Greek.
+
+6. By ecclesiastical permission, Therese has several times been under close scientific observation. 
+
+Dr. Fritz Gerlick, editor of a Protestant German newspaper, went to Konnersreuth to “expose the Catholic fraud,” but ended up by reverently writing her biography. 39-2
+
+We entered, on July 16th, the quaint village of Konnersreuth. 
+
+The Bavarian peasants showed lively interest in our Ford automobile brought with us from America.
+
+ <!-- and its assorted group-an American young man, an elderly lady, and an olive-hued Oriental with long hair tucked under his coat collar. -->
+
+Therese’s little cottage, clean and neat, with geraniums blooming by a primitive well, was alas! silently closed. 
+
+The neighbors, and even the village postman who passed by, could give us no information. Rain began to fall; my companions suggested that we leave.
+
 
 “No,” I said stubbornly, “I will stay here until I find some clue leading to Therese.”
 
-Two hours later we were still sitting in our car amidst the dismal rain. “Lord,” I sighed complainingly, “why didst Thou lead me here if she has disappeared?”
+Two hours later we were still sitting in our car amidst the dismal rain. “Lord,” I sighed complainingly, “why did You lead me here if she has disappeared?”
 
 An English-speaking man halted beside us, politely offering his aid.
 
 “I don’t know for certain where Therese is,” he said, “but she often visits at the home of Professor Wurz, a seminary master of Eichstatt, eighty miles from here.”
 
-The following morning our party motored to the quiet village of Eichstatt, narrowly lined with cobblestoned streets. Dr. Wurz greeted us cordially at his home; “Yes, Therese is here.” He sent her word of the visitors. A messenger soon appeared with her reply.
+The following morning our party motored to the quiet village of Eichstatt, narrowly lined with cobblestoned streets. 
+
+Dr. Wurz greeted us cordially at his home.
+
+“Yes, Therese is here.” He sent her word of the visitors. A messenger soon appeared with her reply.
 
 “Though the bishop has asked me to see no one without his permission, I will receive the man of God from India.”
 
-Deeply touched at these words, I followed Dr. Wurz upstairs to the sitting room. Therese entered immediately, radiating an aura of peace and joy. She wore a black gown and spotless white head dress. 
+Deeply touched at these words, I followed Dr. Wurz upstairs to the sitting room. Therese entered immediately, radiating an aura of peace and joy. 
 
-Although her age was thirty-seven at this time, she seemed much younger, possessing indeed a childlike freshness and charm. Healthy, well- formed, rosy-cheeked, and cheerful, this is the saint that does not eat!
+She wore a black gown and spotless white head dress. 
+
+She was 37 at this time. But she seemed much younger, possessing indeed a childlike freshness and charm. 
+
+Healthy, well-formed, rosy-cheeked, and cheerful, this is the saint that does not eat!
 
 Therese greeted me with a very gentle handshaking. We both beamed in silent communion, each knowing the other to be a lover of God.
 
 Dr. Wurz kindly offered to serve as interpreter. As we seated ourselves, I noticed that Therese was glancing at me with naive curiosity; evidently Hindus had been rare in Bavaria.
 
-“Don’t you eat anything?” I wanted to hear the answer from her own lips.
 
-“No, except a consecrated rice-flour wafer, once every morning at six o’clock.”
+{{< l a="Yogananda" >}}
+Don’t you eat anything?
+{{< /l >}}
 
-“How large is the wafer?”
 
-“It is paper-thin, the size of a small coin.” She added, “I take it for sacramental reasons; if it is unconsecrated, I am unable to swallow it.”
+“No, except a consecrated rice-flour wafer, once every morning at 6am.”
 
-“Certainly you could not have lived on that, for twelve whole years?”
+{{< l a="Yogananda" >}}
+How large is the wafer?
+{{< /l >}}
 
-“I live by God’s light.” How simple her reply, how Einsteinian!
 
-“I see you realize that energy flows to your body from the ether, sun, and air.”
+“It is paper-thin, the size of a small coin. I take it for sacramental reasons; if it is unconsecrated, I am unable to swallow it.”
+
+
+{{< l a="Yogananda" >}}
+Certainly you could not have lived on that, for 12 whole years?
+{{< /l >}}
+
+
+“I live by God’s light.” 
+
+<!-- How simple her reply, how Einsteinian! -->
+
+
+{{< l a="Yogananda" >}}
+I see you realize that energy flows to your body from the ether, sun, and air.
+{{< /l >}}
+
 
 A swift smile broke over her face. “I am so happy to know you understand how I live.”
 
-“Your sacred life is a daily demonstration of the truth uttered by Christ: ‘Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.’” 39-3
 
-Again she showed joy at my explanation. “It is indeed so. One of the reasons I am here on earth today is to prove that man can live by God’s invisible light, and not by food only.”
+{{< l a="Yogananda" >}}
+Your sacred life is a daily demonstration of the truth uttered by Christ: ‘Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.’” 39-3
+{{< /l >}}
 
-“Can you teach others how to live without food?”
+
+Again she showed joy at my explanation. 
+
+“It is indeed so. One of the reasons I am here on earth today is to prove that man can live by God’s invisible light, and not by food only.”
+
+
+{{< l a="Yogananda" >}}
+Can you teach others how to live without food?
+{{< /l >}}
+
+
 
 She appeared a trifle shocked. “I cannot do that; God does not wish it.”
 
-As my gaze fell on her strong, graceful hands, Therese showed me a little, square, freshly healed wound on each of her palms. On the back of each hand, she pointed out a smaller, crescent-shaped wound, freshly healed. Each wound went straight through the hand. The sight brought to my mind distinct recollection of the large square iron nails with crescent-tipped ends, still used in the Orient, but which I do not recall having seen in the West.
+As my gaze fell on her strong, graceful hands, Therese showed me a little, square, freshly healed wound on each of her palms. 
 
-The saint told me something of her weekly trances. “As a helpless onlooker, I observe the whole Passion of Christ.” Each week, from Thursday midnight until Friday afternoon at one o’clock, her wounds open and bleed; she loses ten pounds of her ordinary 121-pound weight. Suffering intensely in her sympathetic love, Therese yet looks forward joyously to these weekly visions of her Lord.
+On the back of each hand, she pointed out a smaller, crescent-shaped wound, freshly healed. Each wound went straight through the hand. 
+
+The sight brought to my mind distinct recollection of the large square iron nails with crescent-tipped ends, still used in the Orient, but which I do not recall having seen in the West.
+
+The saint told me something of her weekly trances. 
+
+
+“As a helpless onlooker, I observe the whole Passion of Christ.” 
+
+
+Each week, from Thursday midnight until Friday afternoon at 1pm, her wounds open and bleed.
+
+She loses 10 pounds of her ordinary 121-pound weight. 
+
+Suffering intensely in her sympathetic love, Therese yet looks forward joyously to these weekly visions of her Lord.
 
 I realized at once that her strange life is intended by God to reassure all Christians of the historical authenticity of Jesus’ life and crucifixion as recorded in the New Testament, and to dramatically display the ever-living bond between the Galilean Master and his devotees.
 
 Professor Wurz related some of his experiences with the saint.
 
-“Several of us, including Therese, often travel for days on sight- seeing trips throughout Germany,” he told me. “It is a striking contrast-while we have three meals a day, Therese eats nothing. She remains as fresh as a rose, untouched by the fatigue which the trips cause us. As we grow hungry and hunt for wayside inns, she laughs merrily.”
+
+{{< r a="Professor Wurz" >}}
+Several of us, including Therese, often travel for days on sight- seeing trips throughout Germany
+{{< /r >}}
+
+
+
+“It is a striking contrast-while we have three meals a day, Therese eats nothing. She remains as fresh as a rose, untouched by the fatigue which the trips cause us. As we grow hungry and hunt for wayside inns, she laughs merrily.”
 
 The professor added some interesting physiological details: “Because Therese takes no food, her stomach has shrunk. She has no excretions, but her perspiration glands function; her skin is always soft and firm.”
 
@@ -137,9 +235,7 @@ My second test was connected with the fact that, just before I went upstairs to 
 
 I entered her chamber, filled with visitors; she was lying in a white robe on the bed. With Mr. Wright following closely behind me, I halted just inside the threshold, awestruck at a strange and most frightful spectacle.
 
-neumann
-
-THERESE NEUMANN
+<!-- THERESE NEUMANN -->
 
 Famous Catholic Stigmatist who inspired my 1935 pilgrimage to Konnersreuth, Bavaria
 
@@ -180,7 +276,7 @@ Our little party visited the Birth Manger, Joseph’s carpenter shop, the tomb o
 On to Egypt, with its modern Cairo and ancient pyramids. Then a boat down the narrow Red Sea, over the vasty Arabian Sea; lo, India!
 
 
-### Footnotes
+<!-- ### Footnotes
 
 39-1: The remarkable inclusion here of a complete date is due to the fact that my secretary, Mr. Wright, kept a travel diary.
 
@@ -194,9 +290,9 @@ The medulla is the principal entrance for the body’s supply of universal life 
 
 Cosmic energy is then stored up in the brain as a reservoir of infinite potentialities, poetically mentioned in the Vedas as the “thousand-petaled lotus of light.” The Bible invariably refers to AUM as the “Holy Ghost” or invisible life force which divinely upholds all creation. 
 
-“What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?”-I Corinthians 6:19.
+“What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?”-I Corinthians 6:19. -->
 
-39-4: During the hours preceding my arrival, Therese had already passed through many visions of the closing days in Christ’s life. Her entrancement usually starts with scenes of the events which followed the Last Supper. 
+<!-- 39-4: During the hours preceding my arrival, Therese had already passed through many visions of the closing days in Christ’s life. Her entrancement usually starts with scenes of the events which followed the Last Supper. 
 
 Her visions end with Jesus’ death on the cross or, occasionally, with his entombment.
 
@@ -207,5 +303,4 @@ Her visions end with Jesus’ death on the cross or, occasionally, with his ento
 The passage runs: “Aristoxenus, the musician, tells the following story about the Indians. One of these men met Socrates at Athens, and asked him what was the scope of his philosophy. 
 
 ‘An inquiry into human phenomena,’ replied Socrates. At this the Indian burst out laughing. ‘How can a man inquire into human phenomena,’ he said, ‘when he is ignorant of divine ones?’” The Aristoxenus mentioned was a pupil of Aristotle, and a noted writer on harmonics. His date is 330 B.C.
-
-
+ -->
