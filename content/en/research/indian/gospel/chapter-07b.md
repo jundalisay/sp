@@ -2,7 +2,7 @@
 title: "Parable of the two farmers"
 c: "indigo"
 heading: "Chapter 7b"
-weight: 34
+weight: 35
 description: "Vijay Goswami was a paid preacher in the Sadharan Brahmo Samaj"
 ---
 

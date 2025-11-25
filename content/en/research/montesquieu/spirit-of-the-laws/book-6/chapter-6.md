@@ -10,6 +10,8 @@ icon: "Montesquieu"
 
 
 
+## Chapter 6: In Monarchies, Ministers Should not sit as Judges
+
 <!-- IT is, likewise, a very great inconveniency, in monarchies, for the ministers of the prince to sit as judges. We have still instances of -->
 
 There are still many states where many judges to decide exchequer causes, and where the ministers judge cases.  

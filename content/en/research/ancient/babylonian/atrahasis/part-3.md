@@ -13,8 +13,8 @@ He assembled the Elders at his gate.
 
 [i.c40] Atraḥasis made ready to speak, and said to the Elders:
 
-"My god does not agree with your god, Enki and Enlil are constantly angry with each other. They have expelled me from the land.
-
+{{< r a="Atrahasis" >}}
+My god does not agree with your god, Enki and Enlil are constantly angry with each other. They have expelled me from the land.
 
 [i.c45] Since I have always reverenced Enki, he told me this.
 
@@ -23,6 +23,7 @@ Nor can I set my feet on the earth of Enlil.
 I will dwell with my god in the depths.
 
 [i.c50] This he told me: ..."
+{{< /r >}}
 
 
 ### Construction of the Ark
@@ -56,8 +57,7 @@ the creatures of the steppe,
 ... his family was brought on board.
 While one was eating an another was drinking,
 
-[ii.45] he went in and out; he could not sit, could not kneel,
-for his heart was broken, he was retching gall.
+[ii.45] he went in and out; he could not sit, could not kneel, for his heart was broken, he was retching gall.
 
 
 ### Departure
@@ -107,7 +107,9 @@ The darkness was dense, the sun was gone,
 
 [iii.45] Enki said to Nintu the birth goddess:
 
-"You, birth goddess, creatress of destinies, establish death for all peoples!
+
+{{< r a="Enki" >}}
+You, birth goddess, creatress of destinies, establish death for all peoples!
 
 [iii.d1] "Now then, let there be a third woman among the people, among the people are the woman who has borne and the woman who has not borne. 
 
@@ -116,4 +118,4 @@ Let there be also among the people the pasittu (she-demon):
 [iii.d5] Let her snatch the baby from the lap who bore it.
 
 And establish high priestesses and priestesses, let them be taboo,note and so cut down childbirth
-
+{{< /r >}}

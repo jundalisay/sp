@@ -1,19 +1,17 @@
 ---
-title: "SPIRITUAL ATTAINMENT AND ITS’ DOWNFALL"
+title: "Spiritual Attainment And Its’ Downfall"
 heading: Chapter 22
 weight: 64
 description: "An Editor’s note in Prajina Bharati October 1983"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
+One summer evening, I was fortunate to have a walk with Baba. When we reached the crossing near the Jamalpur Railway Station, we met the then General Secretary of Ananda Marga , Shri Pranay Kumar Chatterjee, who was coming on a bicycle. 
 
-One summer evening, I was fortunate to have a walk with Baba. When we reached the crossing near the Jamalpur Railway Station, we met the then General Secretary of Ananda Marga , Shri Pranay Kumar Chatterjee, who was coming on a bicycle. He was in western dress and by now he was an acarya. As his cycle was moving on a slope, he lowered his speed and mentally saluted Baba. Baba also
-accepted his salutation and gave his blessings. The General Secretary did not stop and
-moved on towards his destination.
+He was in western dress and by now he was an acarya. As his cycle was moving on a slope, he lowered his speed and mentally saluted Baba. Baba also accepted his salutation and gave his blessings. The General Secretary did not stop and moved on towards his destination.
 
 {{< l a="Baba" >}}
 Nagina! Have you seen acaryas in such modern dress before?
@@ -112,5 +110,3 @@ regularly a sadhaka is cleansed of those propensities. There are some people who
 minds fail to imagine or visualise the correct colours – for them, purchase papers of all
 the seven colours from the market, and they should be kept in pieces with them so that
 they may select one of them when they mentally offer the flower”.
-
-

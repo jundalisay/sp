@@ -1,15 +1,15 @@
-+++
-title=  "Another Species of Legacy"
-heading=  "Chapter 8"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 7"
-linkb=  "/research/musa/algebra/chapter-07"
-linkftext=  "Chapter 9"
-linkf=  "/research/musa/algebra/chapter-09"
-draft=  true
-+++
+---
+heading: "Chapter 8"
+title: "Another Species of Legacy"
+weight: 18
+c: "steelblue"
+description: "The Six Problems"
+draft: true
+date: 2020-01-30
+---
+
+
+
 
 A man dies, leaving his mother, his wife, and two brothers and two sisters by the same father and mother
 with himself. He bequeaths to a stranger 1/9 of his capital.

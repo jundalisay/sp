@@ -12,7 +12,7 @@ description: "Euler published 'Nova Theoria Laucis et Colorum' [9] while  living
 <!-- The Wave Theory:  -->
 
 The wave-theory was defended by:
-- Franklin[8]
+- Franklin
 - the mathematician Leonhard Euler (b, 1707, d. 1783)
 
 Euler published 'Nova Theoria Laucis et Colorum' [9] while  living under the patronage of Frederic the Great at Berlin.
@@ -75,11 +75,10 @@ This difficulty does not exist in the undulatory theory, since all disturbances 
  <!-- he met with an argument which strangely foreshadows the electric theory of light:  -->
 
 
-{{< q a="Young" >}}
-A medium resembling in many properties of the ether really does exist. This is undeniably proved by the phenomena of electricity. 
-
-The rapid transmission of the electrical shock shows that the electric medium has a great elasticity necessary  for the propagation of light. Whether the electric ether is the same with the luminons ether, if such a fluid exists, may be discovered by experiment in the future. I have not been able to observe that the refractive power of a fluid, undergoes any change by electricity."
+{{< q a="Thomas Young" >}}
+A medium resembling in many properties of the ether really does exist. This is undeniably proved by the phenomena of electricity. The rapid transmission of the electrical shock shows that the electric medium has a great elasticity necessary for the propagation of light. Whether the electric ether is the same with the luminons ether, if such a fluid exists, may be discovered by experiment in the future*. I have not been able to observe that the refractive power of a fluid, undergoes any change by electricity.
 {{< /q >}}
+
 
 
 Young then shows the superior power of the wave-theory to explain reflexion and refraction. 
@@ -88,7 +87,7 @@ In the corpuscular theory, it is difficult to see why part of the light should b
 
 But in the undulatory theory, there is no trouble, as is shown by analogy with the partial reflexion of sound from a cloud or denser stratum of air: 
 
-{{< q a="Young" >}}
+{{< q a="Thomas Young" >}}
 All refracting media can retain, by their attraction, a quantity of the luminous ether so as to make its density greater than its density in a vacuum, without increasing its elasticity 
 {{< /q >}}
 
@@ -104,7 +103,7 @@ He rejected Euler's hypothesis of induced vibrations. Instead, he:
 
 The idea of this process was not new. It had been   -->
 
-{{< q a="Young" >}}
+{{< q a="Thomas Young" >}}
 The tide may be propagated from the ocean through different channels towards the same port. It may pass in less time through some channels than through others. 
 
 In such a case, the same generating tide is thus divided into two or more succeeding one another. It may then produce by composition new types of tide.
@@ -115,25 +114,20 @@ Newton applied this principle to explain the anomalous tides at Batsha in Tonkin
 
 Young's own illustration of the principle is evidently suggested by Newton's. 
 
-{{< q a="Young" >}}
-Suppose [17] a number of equal waves move on a stagnant lake with a constant velocity. Then they enter a narrow channel leading out of the lake. Then another equal series of waves is created. These arrive at the same channel, with the same velocity, and at the same time with the first.
-
-Neither series of waves will destroy the other. But their effects will be combined. If they enter the channel in a way that the elevations of one series coincide with those of the other, they must together produce a series of greater joint elevations. 
-
-But if the elevations of one series correspond to the depressions of the other, they exactly fill up those depressions. The surface of the water remains smooth. Similar effects take place whenever two portions of light are mixed. I call this the general law of the interference of light."
+{{< q a="Thomas Young" >}}
+Suppose a number of equal waves move on a stagnant lake with a constant velocity. Then they enter a narrow channel leading out of the lake. Then another equal series of waves is created. These arrive at the same channel, with the same velocity, and at the same time with the first. Neither series of waves will destroy the other. But their effects will be combined. If they enter the channel in a way that the elevations of one series coincide with those of the other, they must together produce a series of greater joint elevations. But if the elevations of one series correspond to the depressions of the other, they exactly fill up those depressions. The surface of the water remains smooth. Similar effects take place whenever two portions of light are mixed. I call this the general law of the interference of light.
 {{< /q >}}
 
 
 Thus:
 
-{{< q a="Young" >}}
+{{< q a="Thomas Young" >}}
 Whenever 2 portions of the same light arrive to the eye by different routes, either exactly or very nearly in the same direction, the light becomes:
 - most intense when the difference of the routes is any multiple of a certain length
 - least intense in the intermediate state of the interfering portions.
 
 This length is different for light of different colours.
 {{< /q >}}
-
 
 
 Young's explanation of the colours of thin plates as seen by reflexion was, then, that the incident light gives rise to two beans which reach the eye: one of these beams has been reflected at the first surface of the plate, and the other at the second surface; and these two beams produce the colours by their interference.
@@ -177,7 +171,7 @@ I think that the result is highly favourable to the Huygenian theory. The existe
 
 Meanwhile the advocates of the corpuscular theory were not idle. In the next few years, a succession of discoveries on their part, both theoretical and experimental, seemed likely to imperil the good position to which Young had advanced the rival hypothesis.
 
-The first of these was a dynamical explanation of the refraction of the extraordinary ray in crystals, which was published in 1808 by Laplace.[22] 
+The first of these was a dynamical explanation of the refraction of the extraordinary ray in crystals, which was published in 1808 by Laplace.
 
 His method is an extension of that by which Maupertuis had accounted for the refraction of the ordinary ray, and which since Maupertuis' day had been so developed that it was now possible to apply it to problems of all degrees of complexity.
 

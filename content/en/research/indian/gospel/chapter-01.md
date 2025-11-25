@@ -2,7 +2,9 @@
 title: "Master And Disciple"
 c: "indigo"
 heading: "Chapter 1"
-weight: 2
+weight: 3
+author: M
+icon: M
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"
 ---
 
@@ -31,9 +33,7 @@ M. stood there speechless and looked on. It was as if he were standing where all
 ## Formalities and essentials of religion
 
 {{< l a="Ramakrishna" >}}
-When, hearing the name of Hari or Rāma once, you shed tears and your hair stands on end, then you may know that you do not have to perform such devotions as the sandhya any more. Then only will you have a right to renounce rituals. Or rather, rituals will drop away of themselves.  Then it will be enough if you repeat only the name of Rāma or Hari, or even simply Om.
-
-The sandhya merges in the Gayatri, and the Gayatri merges in Om.
+When, hearing the name of Hari or Rāma once, you shed tears and your hair stands on end, then you may know that you do not have to perform such devotions as the sandhya any more. Then only will you have a right to renounce rituals. Or rather, rituals will drop away of themselves.  Then it will be enough if you repeat only the name of Rāma or Hari, or even simply Om. The sandhya merges in the Gayatri, and the Gayatri merges in Om.
 {{< /l >}}
 
 
@@ -100,5 +100,8 @@ Come again
 {{< /l >}}
 
 
-On his way home M. began to wonder: "Who is this serene-looking man who is drawing me back to him? Is it possible for a man to be great without being a scholar? How wonderful it is! I should like to see him again. He himself said, 'Come again.' I shall go tomorrow or the day after."
+On his way home M. began to wonder: 
 
+{{< r a="M" >}}
+Who is this serene-looking man who is drawing me back to him? Is it possible for a man to be great without being a scholar? How wonderful it is! I should like to see him again. He himself said, 'Come again.' I shall go tomorrow or the day after.
+{{< /r >}}

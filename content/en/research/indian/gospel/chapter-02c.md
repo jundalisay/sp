@@ -2,9 +2,9 @@
 title: "Explanation of evil"
 c: "indigo"
 heading: "Chapter 2c"
-weight: 9
+weight: 10
 description: "Why does a man have evil tendencies?"
-date: 1882-04-02
+# date: 1882-04-02
 ---
 
 
@@ -139,3 +139,4 @@ Therefore I say: 'O Mother, Thou art the Operator and I am the machine. Thou art
 
 <!-- From Prankrishna's house the Master went to Colonel Viswanath's and from there to the
 Lily Cottage. -->
+

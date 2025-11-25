@@ -6,9 +6,9 @@ showdate: true
 weight: 5
 author: Juan
 description: "We list the output of Superphysics as a whole"
-authors:
+writer:
   name: Juan
-  link: https://www.linkedin.com/in/jundalisay/
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 {{< n n="Some blind believers in Einstein ask us what is our output, in their effort to contrast our contributions to those of Einstein whom we assert has killed Physics through his scam Relativity." >}}

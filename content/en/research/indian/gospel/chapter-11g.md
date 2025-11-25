@@ -2,15 +2,15 @@
 title: "Advice to Householders"
 c: "indigo"
 heading: "Chapter 11g"
-weight: 52
+weight: 78
 description: "Rakhal's father's father-in-law was a devotee of God"
 ---
 
 
 Friday, June 15, 1883
 
-It was a holiday on account of the Hindu religious festival Dasahara. Among the devotees who visited Sri Ramakrishna at Dakshineswar that day were Adhar, M., and Rakhal 's father. Rakhal 's father's father-in-law was also present. All were seated on
-the floor of the Master's room. 
+It was a holiday on account of the Hindu religious festival Dasahara. Among the devotees who visited Sri Ramakrishna at Dakshineswar that day were Adhar, M., and Rakhal 's father. Rakhal 's father's father-in-law was also present. All were seated on the floor of the Master's room. 
+
 
 ## Advice to householders
 
@@ -119,3 +119,4 @@ He can neither work nor think. Haven't you noticed, among women, that if one of 
 
 Narendra has big protruding eyes. (Pointing to a devotee) He also has good eyes and
 forehead.
+

@@ -83,7 +83,9 @@ According to those philosophers, we esteemed Cato and blamed Catiline not becaus
 - if we lived in those distant ages and countries, and
 - if we meet a Cato or Catiline in our own times.
 
-In short, those authors were groping about an idea which they were never able to unfold distinctly. This idea was the indirect sympathy we feel with the beneficiary's gratitude or the sufferer's resentment. They pointed at this indistinctly when they said that it was not the thought of what we gained or suffered which prompted our applause or indignation, but the conception of what we might gain or suffer if we acted with such associates.
+In short, those authors were groping about an idea which they were never able to unfold distinctly. This idea was the indirect sympathy we feel with the beneficiary's gratitude or the sufferer's resentment. 
+
+They pointed at this indistinctly when they said that it was not the thought of what we gained or suffered which prompted our applause or indignation, but the conception of what we might gain or suffer if we acted with such associates.
 
 
 
@@ -92,7 +94,9 @@ In short, those authors were groping about an idea which they were never able to
 - putting myself in your situation, and
 - conceiving what I should feel in the like circumstances.
 
-Sympathy arises from an imaginary change of situations with the subject-person. Yet this imaginary change is not supposed to happen to me, but in the person I sympathize with. When I condole with you for the loss of your only son, I do not consider what I would suffer if I had a son who died, in order to enter into your grief. But I consider what I should suffer if I were really you. I change circumstances with you and change persons and characters.
+Sympathy arises from an imaginary change of situations with the subject-person. Yet this imaginary change is not supposed to happen to me, but in the person I sympathize with. When I condole with you for the loss of your only son, I do not consider what I would suffer if I had a son who died, in order to enter into your grief.
+
+But I consider what I should suffer if I were really you. I change circumstances with you and change persons and characters.
 
 Therefore, my grief is entirely on your account and not on my own.
 It is not selfish at all.
@@ -101,5 +105,6 @@ How can a passion be selfish if it arose from thinking about other people?
 A man may sympathize with a woman giving birth, even if it is impossible for him to see himself as suffering her pains.
 
 That system which deduces all sentiments from self-love arose from some confused misapprehension of the system of sympathy.
+
 It has made so much noise in the world.
 But as far as I know, it has never yet been fully and distinctly explained.

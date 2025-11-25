@@ -5,6 +5,10 @@ description:
 c: "deeppink"
 date: 2025-09-16
 weight: 15
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 ---
 
 

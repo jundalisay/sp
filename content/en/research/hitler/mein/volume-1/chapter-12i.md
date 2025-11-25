@@ -7,6 +7,7 @@ writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 

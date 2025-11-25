@@ -2,7 +2,7 @@
 heading: Chapter 29b
 title: The Homa Bird
 c: "indigo"
-weight: 118
+weight: 265
 description: "The Vedas speak of the homa bird. It lives very high in the sky. There the mother bird lays her egg. She lives so high that the egg falls for many days. While falling it is hatched"
 ---
 
@@ -13,12 +13,18 @@ It was the day of the Mahāshtami, the most auspicious day of the worship of Dur
 
 Balarām and Rakhal were still at Vrindāvan.
 
-MASTER (looking at Vijay and Kedār, with a smile): "This is a nice reunion today. You 2 have the same spiritual mood. (To Vijay) Well, what about Shivanath? Did you-?"
+{{< l a="Ramakrishna" >}}
+(looking at Vijay and Kedār): "This is a nice reunion today. You 2 have the same spiritual mood. (To Vijay) Well, what about Shivanath? Did you-?" 
+{{< /l >}}
+
+
 VIJAY: "Yes, sir, he heard that you had been to his house. I haven't seen him, but I sent him word. He knows about it."
 
-MASTER (to Vijay and the others); "Four desires have come into my mind. I shall eat fish curry cooked with egg-plant. I shall visit Shivanath. The devotees will repeat the name of Hari over their beads, and I shall watch them. And the Tantrik devotees will drink
-consecrated wine, eight ānnās worth, on the ashtami day, and I shall watch them and
+{{< l a="Ramakrishna" >}}
+(to Vijay and the others); "Four desires have come into my mind. I shall eat fish curry cooked with egg-plant. I shall visit Shivanath. The devotees will repeat the name of Hari over their beads, and I shall watch them. And the Tantrik devotees will drink consecrated wine, eight ānnās worth, on the ashtami day, and I shall watch them and
 salute them."
+{{< /l >}}
+
 
 Narendra was seated in front of the Master. He was about 22 years old. While Sri Ramakrishna was talking thus his eyes fell upon his beloved disciple. At once the
 Master stood up and went into samādhi. He placed one foot on Narendra's knee. 

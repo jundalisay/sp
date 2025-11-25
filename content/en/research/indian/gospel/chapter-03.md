@@ -2,7 +2,7 @@
 title: "Visit To Pundit Vidyasagar"
 c: "indigo"
 heading: "Chapter 3"
-weight: 10
+weight: 11
 description: "Pundit Iswar Chandra Vidyasagar was born in the village of Beersingh"
 ---
 
@@ -185,3 +185,5 @@ But in his daily life he followed all the rituals of Hindu religion and wore the
 
 About God he had once declared: "It is indeed impossible to know Him. What, then, should be our duty? It seems to me that we should live in such a way that, if others followed our example, this very earth would be heaven. Everyone should try to do good to the world.
 {{< /r >}}
+
+

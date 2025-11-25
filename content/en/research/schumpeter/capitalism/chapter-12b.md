@@ -11,26 +11,11 @@ weight: 46
 So far we have been considering the effects of the capitalist process upon
 the economic bases of the upper strata of capitalist society and upon their social position and prestige. 
 
-But effects further extend to the institutional framework that protected them. In showing this we shall take the term in its
-widest acceptance so as to include not only legal institutions but also
-attitudes of the public mind and policies.
+But effects further extend to the institutional framework that protected them. In showing this we shall take the term in its widest acceptance so as to include not only legal institutions but also attitudes of the public mind and policies.
 
-1. Capitalist evolution first of all destroyed, or went far toward destroying,
-the institutional arrangements of the feudal world—the manor, the village, the
-craft guild. The facts and mechanisms of this process are too familiar to detain
-us. Destruction was wrought in three ways. The world of the artisan was
-destroyed primarily by the automatic effects of the competition that came from
-the capitalist entrepreneur; political action in removing atrophic organizations
-and regulations only registered results. The world of the lord and the peasant
-was destroyed primarily by political—in some cases revolutionary—action and
-capitalism merely presided over adaptive transformations say, of the German
-manorial organizations into large-scale agricul tural units of production. But
-along with these industrial and agrarian revolutions went a no less
-revolutionary change in the general attitude of legislative authority and public
-opinion. Together with the old economic organization vanished the economic
-and political privileges of the classes or groups that used to play the leading
-role in it, particularly the tax exemptions and the political prerogatives of the
-landed nobility and gentry and of the clergy.
+1. Capitalist evolution first of all destroyed, or went far toward destroying, the institutional arrangements of the feudal world—the manor, the village, the craft guild. 
+
+The facts and mechanisms of this process are too familiar to detain us. Destruction was wrought in three ways. The world of the artisan was destroyed primarily by the automatic effects of the competition that came from the capitalist entrepreneur; political action in removing atrophic organizations and regulations only registered results. The world of the lord and the peasant was destroyed primarily by political—in some cases revolutionary—action and capitalism merely presided over adaptive transformations say, of the German manorial organizations into large-scale agricul tural units of production. But along with these industrial and agrarian revolutions went a no less revolutionary change in the general attitude of legislative authority and public opinion. Together with the old economic organization vanished the economic and political privileges of the classes or groups that used to play the leading role in it, particularly the tax exemptions and the political prerogatives of the landed nobility and gentry and of the clergy.
 
 Economically all this meant for the bourgeoisie the breaking of so many
 fetters and the removal of so many barriers. Politically it meant the
@@ -42,31 +27,7 @@ was good for the bourgeois and his world. For those fetters not only
 hampered, they also sheltered. Before proceeding further we must carefully
 clarify and appraise this point.
 
-2. The related processes of the rise of the capitalist bourgeoisie and of
-the rise of national states produced, in the sixteenth, seventeenth and
-eighteenth centuries, a social structure that may seem to us amphibial though
-it was no more amphibial or transitional than any other. Consider the
-outstanding instance that is afforded by the monarchy of Louis XIV. The
-royal power had subjugated the landed aristocracy and at the same time
-conciliated it by proffering employment and pensions and by conditionally
-accepting its claim to a ruling or leading class position. The same royal
-power had subjugated and allied itself with the clergy. 2 It had finally
-strengthened its sway over the bourgeoisie, its old ally in the struggle with
-
-2 Gallicanism was nothing else but the ideological reflex of this.
-
-the territorial magnates, protecting and propelling its enterprise in order to
-exploit it the more effectively in turn. Peasants and the (small) industrial
-proletariat were likewise managed, exploited and protected by public
-authority—though the protection was in the case of the French ancien régime
-very much less in evidence than for instance in the Austria of Maria Theresa
-or of Joseph II—and, vicariously, by landlords or industrialists. This was not
-simply a government in the sense of nineteenth-century liberalism, i.e., a
-social agency existing for the performance of a few limited functions to be
-financed by a minimum of revenue. On principle, the monarchy managed
-everything, from consciences to the patterns of the silk fabrics of Lyons, and
-financially it aimed at a maximum of revenue. Though the king was never
-really absolute, public authority was all-comprehensive.
+2. The related processes of the rise of the capitalist bourgeoisie and of the rise of national states produced, in the sixteenth, seventeenth and eighteenth centuries, a social structure that may seem to us amphibial though it was no more amphibial or transitional than any other. Consider the outstanding instance that is afforded by the monarchy of Louis XIV. The royal power had subjugated the landed aristocracy and at the same time conciliated it by proffering employment and pensions and by conditionally accepting its claim to a ruling or leading class position. The same royal power had subjugated and allied itself with the clergy. 2 It had finally strengthened its sway over the bourgeoisie, its old ally in the struggle with the territorial magnates, protecting and propelling its enterprise in order to exploit it the more effectively in turn. Peasants and the (small) industrial proletariat were likewise managed, exploited and protected by public authority—though the protection was in the case of the French ancien régime very much less in evidence than for instance in the Austria of Maria Theresa or of Joseph II—and, vicariously, by landlords or industrialists. This was not simply a government in the sense of nineteenth-century liberalism, i.e., a social agency existing for the performance of a few limited functions to be financed by a minimum of revenue. On principle, the monarchy managed everything, from consciences to the patterns of the silk fabrics of Lyons, and financially it aimed at a maximum of revenue. Though the king was never really absolute, public authority was all-comprehensive.
 
 Correct diagnosis of this pattern is of the utmost importance for our subject.
 The king, the court, the army, the church and the bureaucracy lived to an
@@ -92,23 +53,12 @@ but was in turn supported by the other politically. Whatever we may think
 of the achievements or shortcomings of this arrangement, whatever the
 bourgeois himself may have thought of it at the time or later—and of the
 aristocratic scapegrace or idler—it was of the essence of that society.
-3. Of that society only? The subsequent course of things, best exemplified
-by the English case, suggests the answer. The aristocratic element continued
-to rule the roost right to the end of the period of intact and vital capitalism.
-No doubt that element—though nowhere so effectively as in England—
-currently absorbed the brains from other strata that drifted into politics; it made itself the representative of bourgeois interests and fought the battles
-of the bourgeoisie; it had to surrender its last legal privileges; but with these
-qualifications, and for ends no longer its own, it continued to man the
-political engine, to manage the state, to govern.
 
-The economically operative part of the bourgeois strata did not offer much
-opposition to this. On the whole, that kind of division of labor suited them
-and they liked it. Where they did revolt against it or where they got into the
-political saddle without having to revolt, they did not make a conspicuous
-success of ruling and did not prove able to hold their own. The question
-arises whether it is really safe to assume that these failures were merely due
-to lack of opportunity to acquire experience and, with experience, the
-attitudes of a politically ruling class.
+3. Of that society only? 
+
+The subsequent course of things, best exemplified by the English case, suggests the answer. The aristocratic element continued to rule the roost right to the end of the period of intact and vital capitalism. No doubt that element—though nowhere so effectively as in England— currently absorbed the brains from other strata that drifted into politics; it made itself the representative of bourgeois interests and fought the battles of the bourgeoisie; it had to surrender its last legal privileges; but with these qualifications, and for ends no longer its own, it continued to man the political engine, to manage the state, to govern.
+
+The economically operative part of the bourgeois strata did not offer much opposition to this. On the whole, that kind of division of labor suited them and they liked it. Where they did revolt against it or where they got into the political saddle without having to revolt, they did not make a conspicuous success of ruling and did not prove able to hold their own. The question arises whether it is really safe to assume that these failures were merely due to lack of opportunity to acquire experience and, with experience, the attitudes of a politically ruling class.
 
 It is not. There is a more fundamental reason for those failures such as
 are instanced by the French or German experiences with bourgeois attempts

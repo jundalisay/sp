@@ -7,7 +7,10 @@ writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
+
+
 
 <!-- Mein Kampf
 
@@ -46,15 +49,14 @@ At half-past twelve in the afternoon of November 9th, 1923, those whose names ar
 • Laforce, Karl, Student of Engineering, born October 28th, 1904
 • Neubauer, Kurt, Waiter, born March 27th, 1899
 • Pape, Claus von, Merchant, born August 16th, 1904
-• Pfordten, Theodor von der, Councillor to the Superior Provincial Court, born
-May 14th, 1873
+• Pfordten, Theodor von der, Councillor to the Superior Provincial Court, born May 14th, 1873
 • Rickmers, Johann, retired Cavalry Captain, born May 7th, 1881
 • Scheubner-Richter, Max Erwin von, Dr. of Engineering, born January 9th, 1884
 • Stransky, Lorenz Ritter von, Engineer, born March 14th, 1899
 • Wolf, Wilhelm, Merchant, born October 19th, 1898
-So-called national officials refused to allow the dead heroes a common burial. So I
-dedicate the first volume of this work to them as a common memorial, that the memory
-of those martyrs may be a permanent source of light for the followers of our Movement.
+
+So-called national officials refused to allow the dead heroes a common burial. So I dedicate the first volume of this work to them as a common memorial, that the memory of those martyrs may be a permanent source of light for the followers of our Movement. 
+
 The Fortress, Landsberg a/L.,
 October 16th, 1924 
 

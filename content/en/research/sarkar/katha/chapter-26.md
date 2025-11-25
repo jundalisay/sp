@@ -1,5 +1,5 @@
 ---
-title: "BABA ACCEPTS RATIONAL EXPLANATIONS"
+title: "Baba Accepts Rational Explanations"
 heading: Chapter 26
 weight: 88
 description: "Baba is very fond of discipline yet he likes the rational acts of Margiis"

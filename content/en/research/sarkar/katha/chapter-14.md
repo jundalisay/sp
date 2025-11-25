@@ -61,15 +61,21 @@ I thought, “Baba had said that Bindeshwariji should not know this, but he is t
 
 I immediately returned to Baba and told Him, "Baba you said that Bindeshwariji should not know about his death but he himself is talking about his death and grant of life and about the good fortune of his wife."
 
-At this Baba said, "How did it happen?"
+{{< l a="Baba" >}}
+How did it happen?
+{{< /l >}}
 
 I pleaded innocence and said that as I reached him he was already talking in this manner.
 
-Baba closed his eyes for a moment and then opened them and said, "When he was dying I gave a portion of my mind and pranah to him and therefore he knows My mind. Anyway, let him say so, you will always tell him forcefully that he was talking nonsense. You will have to be very cautious and careful in this matter."
+Baba closed his eyes for a moment and then opened them and said:
+
+{{< l a="Baba" >}}
+When he was dying I gave a portion of my mind and pranah to him and therefore he knows My mind. Anyway, let him say so, you will always tell him forcefully that he was talking nonsense. You will have to be very cautious and careful in this matter
+{{< /l >}}
+
 
 Now it was a second problem for me that Bindeshwariji would tell the truth and I would again and again tell him that he was wrong. 
 
 Even otherwise it was difficult to take care of such an old child and now I was to go on telling him that he was not correct in his thought. On my own I could not manage this, therefore, I left everything on Baba and as ordered by Baba, began to look after him. In Bhagalpur when ever he would talk of the gift of life to him and about the saving of his wife's marital life, I would call his talk that of a mad man or say that he was talking nonsense, thus trying to quieten him. 
 
 Sometimes Bindeshwariji would laugh away my statements and sometimes he would show his irritation at them. Although we did not stay long at Bhagalpur after the DMC, still this news spread amongst all the Margii brothers there.
-

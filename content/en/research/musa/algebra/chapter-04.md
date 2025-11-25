@@ -1,15 +1,13 @@
-+++
-title=  "Various Questions"
-heading=  "Chapter 4"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 3"
-linkb=  "/research/musa/algebra/chapter-03"
-linkftext=  "Chapter 5"
-linkf=  "/research/musa/algebra/chapter-05"
-draft=  true
-+++
+---
+heading: "Chapter 4"
+title: "Various Questions"
+weight: 10
+c: "steelblue"
+description: "The Six Problems"
+draft: true
+date: 2020-01-30
+---
+
 
 
 IF a person puts such a question to you as
@@ -2219,5 +2217,3 @@ sixteen.
 x*
 x
 = 4*.
-
-4

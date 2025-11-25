@@ -1,12 +1,11 @@
 ---
-title: "BABA VISITS RAM BAHADUR AGAIN"
+title: "Baba Visits Ram Bahadur Again"
 heading: Chapter 26b
 weight: 89
 description: "An Editor’s note in Prajina Bharati October 1983"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
@@ -25,11 +24,11 @@ you in establishing the Sadvipra Raj. You must not argue, you must not think
 twice, you should “do or die”. I do not want to see the face of a defeated son in
 flesh and blood”.
 
-Barahi
-affectionately
+Barahi affectionately
 27.12.59
 Yours
 Baba 
+
 
 All the members of the family of Ram Bahadurji were overjoyed having had Baba’s darshan and having received his blessing. While describing this unbounded grace and kindness of Baba, Ram Bahadurji becomes so sentimental that he moves even the stony hearts to devotion and faith. How fortunate are Ram Bahadurji and his wife.
 

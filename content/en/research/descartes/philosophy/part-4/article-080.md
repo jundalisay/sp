@@ -8,9 +8,10 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
-# aliases:
-#   /research/descartes/philosophy/part-4/section-03
+aliases:
+  /research/descartes/philosophy/part-4/section-03
 ---
+
 
 
 {{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance. We replace 3rd Element with earth-aether" >}}

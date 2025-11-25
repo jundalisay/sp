@@ -24,8 +24,7 @@ we to take its nature to be in the world  And -->
 
 What is its position relatively to the other physical elements?
 
-<!--  (For
-there is no question as to the relation of the bulk of the earth to
+<!--  (For there is no question as to the relation of the bulk of the earth to
 the size of the bodies which exist around it, since astronomical demonstrations
 have by this time proved to us that it is actually far smaller than
 some individual stars. 
@@ -41,7 +40,7 @@ Is it one kind of body? or more than one?
 and what are the bounds of their regions?  -->
 
 I have already:
-- described the first element, and
+- described the first element of fire, and
 - explained that the whole world of the upper motions is full of that 1st element 
 
 This is an ancient opinion.
@@ -54,7 +53,10 @@ Anaxagoras thinks that the ether means the same as fire.
 
 He thought that:
 - the upper regions were full of fire
-- men referred to those regions when they spoke of ether
+- men referred to those regions when they spoke of ether*
+
+{{< n n="The aether is the true 1st element called akasha in Vedic philosophy"
+ >}}
 
 In the latter point he was right.
 

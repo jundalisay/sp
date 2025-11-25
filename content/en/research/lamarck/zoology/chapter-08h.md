@@ -1,11 +1,17 @@
 ---
-title: Arachnids (6th Class)
-heading: Chapter 8e
+title: "Class 6: Arachnids"
+heading: Chapter 8h
 description:
 c: "deeppink"
 date: 2025-09-16
-weight: 79
+weight: 89
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
 ---
+ 
+
  
 These are oviparous animals with articulated limbs and eyes in the head.
 

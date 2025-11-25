@@ -1,3 +1,18 @@
+---
+title: "Class 7: Crustaceans"
+heading: Chapter 8i
+description: 
+c: "deeppink"
+date: 2025-09-16
+weight: 91
+writer:
+  name: Jean-Baptiste Lamarck
+  url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+icon: "Lamarck"
+---
+
+
+
 Fourth Degree of Organic Structure
 
 Nerves terminating in a longitudinal ganglionic chord or in a brain without a spinal chord; respiration with gills; arteries and veins for circulation.

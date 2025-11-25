@@ -22,42 +22,49 @@ like to pen for critical appreciation the answer I find within me. -->
 
 <!-- Since I am taking the liberty to express my views on a matter related to Nagina da’s writings, I offer my sincerest apology to him. -->
 
-Naginada has reproduced Baba’s words in Ananda Katha. He did not feel it necessary to question Baba on the points that are agitating some devotees. 
+
+Naginada has reproduced Baba’s words in Ananda Katha. He did not feel it necessary to ask Baba on the points that are agitating some devotees. 
 
 I think that he did not do it because:
 - he did not find any reason to disbelieve Baba, and 
 - those matters did not appear incongruous to him.
 
-The bone of contention is: Does Taraka Brahma have a previous life? How can Shri Ram Chandra Upadhyaya be Baba in this life?
+
+The bone of contention is: **Does Taraka Brahma have a previous life? How can Shri Ram Chandra Upadhyaya be Baba in this life?**
 
 Taraka Brahma has no previous life as he is unborn or self-born. What about Shri Ram Chandra Upadhyaya episode then? Is it untenable?*
 
 {{< n n="This is solved easily by saying that Anandamurti is Taraka Brahma, not needing a previous life. It is PR Sarkar, the mortal vehicle chosen by Anandamurti, that needs a previous life. Baba therefore should refer to Anandamurti and not PR Sarkar. This is consistent with Jesus being the vehicle of God, and Mohammad being the vehicle of Allah. This is why Anandamurti can manifest at will to his devotees." >}}
 
 
+
 To me, it is not. In order to understand this riddle, a short philosophical discussion will help:
 
-{{< q >}}
-In idea and Ideology, the non-uniformity of speed changes the movement of the unit mind to an elliptical force, and the movement changes to oval from circular. They get merged in Purusottama who aspired for Him as the ultimate destiny, but those who aim at moksa where sadhana is the complete surrender of self into that (Nirguna Brahma), get out of this Brahma Cakra by a tangential touch. 
+In idea and Ideology, the non-uniformity of speed changes the movement of the unit mind to an elliptical force.
+- The movement changes to oval from circular.
 
-At this point of tangential touch is the abode of Taraka Brahma (who resides within the scope of both Nirguna and Saguna Brahma)
-{{< /q >}}
+They get merged in Purusottama for those who aspired for Him as the ultimate destiny. 
 
+<!-- where sadhana is the complete surrender of self into that (Nirguna Brahma), -->
+But those who aim at moksa get out of this Brahma Cakra by a tangential touch. 
+- At this point of tangential touch is the abode of Taraka Brahma (who resides within the scope of both Nirguna and Saguna Brahma)
 
 This means it is a particular position and state of consciousness, which we call Taraka Brahma just as we call Nirguna and Saguna due to their distinctive state of consciousness. 
 
-We cannot say then that this entity has a separate existence* from the supreme and that it holds a particular position independent of the supreme. 
+Therefore, we cannot say that this entity:
+- has a separate existence* from the supreme
+- holds a particular position independent of the supreme. 
 
 {{< n n="Here, Santosananda reverts to dogma by unifying PR Sarkar and Anandamurti, in contradiction to Nagina's own accounts. Anandamurti is Taraka Brahma, PR Sarkar is just Its vehicle, just as Jesus was the medium for God, and Mohammad was the messenger for Allah. Nagina proves that metaphysics is the same everwhere." >}}
 
 
 It has become supreme. As such, it is Supreme in its new status. 
 
-Take for example water of well, pond, and ocean. After due purification when they are mixed together, no trace of the distinctive characteristics of well, pond or ocean could be found. 
+Take for example water of well, pond, and ocean. When they are mixed together, no trace of the distinctive characteristics of well, pond or ocean would be found. What we find is just water*. 
 
-What we find is just water*. All distinctions have vanished since the factors creating distinctions exist no more now.
+All distinctions have vanished since the factors creating distinctions exist no more now.
 
-{{< n n="Here, Santosananda really means Saguna Brahma and not Taraka Brahma. So his point is useless here. " >}}
+{{< n n="Here, Santosananda really means Saguna Brahma and not Taraka Brahma. So his point is useless here. What he is trying to do is to negate the metaphysical technicalities and establish simple dogma" >}}
 
 
 Similarly, a sadhaka in the elevated state of his mind passes through various experiences, and merges in the highest being when he has exhausted all his samskaras. 
@@ -93,7 +100,7 @@ But it doesn’t happen like that as this will be the negation of the laws of pr
 
 What does he do then? He wants to take a human form and assign a role for himself. 
 
-At that moment, he chooses a medium whose all samskaras have been exhausted and therefore free from the qualification of unit entity. Obviously this medium can be any unit who has reached that supreme state since all are same at that pinnacled state of consciousness. 
+At that moment, he chooses a medium whose all samskaras have been exhausted and therefore free from the qualification of unit entity. This medium can be any unit who has reached that supreme state since all are same at that pinnacled state of consciousness. 
 
 And it is in this background, that a particular body may be said to possess a particular name at a given time of its existence in the evolutionary flow of cosmological order. 
 
@@ -134,7 +141,7 @@ Taraka Brahma is an entity and not a body. He chooses a body for his expression 
 In his discourse on Tantra and Indo-Aryan civilization (see the book Abhimata) Baba has said:
 
 {{< q a="Baba" >}}
-the question as to who between Shiva Krsna is superior does not arise. All Brahma-knowing entities are same. They are all Brahma.
+The question as to who between Shiva Krsna is superior does not arise. All Brahma-knowing entities are same. They are all Brahma.
 {{< /q >}}
 
 
@@ -147,19 +154,13 @@ He is verily Brahma is that stance of his existence.
 While recording Baba’s words in the article, ”Unresolved Mystery” in Bodhikalpa (January 75), Amitananda Avadhuta writes: 
 
 {{< q a="Baba" >}}
-I have gone to Jamalpur hill for doing sadhana. Someone tells me in my ears, 'Come with me. I will show you a better place for sadhana, follow me'. 
-
-I see no one but I follow the voice whose presence I feel so clearly.
-
-After a while, it tells me, Are you mad? Don’t, he is Maya. Are you P.R. Sarkar? See who your are! 
-
-Then a reel of my past life, my earlier lives, flashes clearly before my eyes and I realize who I am” (Here “I” is used for Baba).
+I have gone to Jamalpur hill for doing sadhana. Someone tells me in my ears, 'Come with me. I will show you a better place for sadhana, follow me'. I see no one but I follow the voice whose presence I feel so clearly. After a while, it tells me, Are you mad? Don’t, he is Maya. Are you P.R. Sarkar? See who your are! Then a reel of my past life, my earlier lives, flashes clearly before my eyes and I realize who I am” (Here “I” is used for Baba).
 {{< /q >}}
 
 
 {{< n n="This is an example of Anandamurti talking to P.R. Sarkar." >}} 
 
-Once in a demonstration on an avadhuta at Jamalpur, Baba asked him to see who Baba was 7000 years ago. The avadhuta saw Shiva. When asked to see 3500 years ago, he saw Krsna*.
+Once in a demonstration on an avadhuta at Jamalpur, Baba asked him to see who Baba was 7,000 years ago. The avadhuta saw Shiva. When asked to see 3,500 years ago, he saw Krsna*.
 
 Taraka Brahma has no previous lives*. But the fact that he was Shiva and Krsna in previous lives is intended to suggest that Lord comes in every age on a particular mission.
 
@@ -197,9 +198,7 @@ This is why when Amitanandaji requested Baba to untangle the riddle about strang
 
 
 {{< q a="Baba" >}}
-*"Naham manye suvedeti no na vedeti veda ca. Yo nastadveda tadveda no na vedeti veda ca".*
-
-[I cannot say that I know Him. But I also cannot say that I don’t know Him. This is because I know He is beyond my knowing and not knowing]
+*"Naham manye suvedeti no na vedeti veda ca. Yo nastadveda tadveda no na vedeti veda ca".* [I cannot say that I know Him. But I also cannot say that I don’t know Him. This is because I know He is beyond my knowing and not knowing]
 {{< /q >}}
 
 

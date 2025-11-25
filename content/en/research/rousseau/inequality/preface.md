@@ -1,6 +1,6 @@
 ---
-heading: Preface
-title: "We Must Always Go Back To A First Convention"
+title: Preface
+# title: "We Must Always Go Back To A First Convention"
 description: ""
 c: "firebrick"
 weight: 14

@@ -10,9 +10,8 @@ description: "We use the 5 Elements for Goal-Setting as an alternative to SMART"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: "Superphysics"
+icon: "Lam"
 ---
-
 
 
 The 5 Elements of Reality is always useful since it describes how Reality works or is maintained.   

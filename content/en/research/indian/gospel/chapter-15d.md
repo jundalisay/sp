@@ -1,10 +1,13 @@
 ---
+heading: "Chapter 15d"
 title: "Advice to the worldly-minded"
 c: "indigo"
-heading: "Chapter 15d"
-weight: 66
+weight: 133
+author: M
+icon: M
 description: ""
 ---
+
 
 
 MASTER: "Do your duty to the world after knowing God. With one hand hold to the

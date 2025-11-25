@@ -162,9 +162,8 @@ That is certain; they will never neglect these activities. To take another examp
 
 Furthermore, if they still hanker after adventures, they will send some of their troops to invade and harass China 's frontiers; this, too, is not impossible. All this we must take fully into account.
 
-The world is progressing, the future is bright and no one can change this
-general trend of history. We should carry on constant propaganda among thepeople on the facts of world progress and the bright future ahead so that they
-will build their confidence in victory.
+The world is progressing, the future is bright and no one can change this general trend of history. We should carry on constant propaganda among thepeople on the facts of world progress and the bright future ahead so that they will build their confidence in victory.
+
 
 {{< cite >}}
 "On the Chungking Negotiations" (October 17, 1945), Selected Works, Vol. IV. p. 59.
@@ -174,6 +173,5 @@ will build their confidence in victory.
 The commanders and fighters of the entire Chinese People's Liberation Army absolutely must not relax in the least their will to fight; any thinking that relaxes the will to fight and belittles the enemy is wrong.
 
 {{< cite >}}
-"Report to the Second Plenary Session of the Seventh Central Committee of the
-Communist Party of China " (March 5, 1949), Selected Works, Vol. IV, p. 361.
+Report to the Second Plenary Session of the Seventh Central Committee of the Communist Party of China " (March 5, 1949), Selected Works, Vol. IV, p. 361.
 {{< /cite >}}

@@ -2,8 +2,8 @@
 title: "Different Attitudes Toward God"
 c: "indigo"
 heading: "Chapter 18d"
-weight: 77
-description: "Sri Ramakrishna was sitting in his room. M. was still staying with the Master, devoting his time to the practice of spiritual discipline. He had been spending a great part of each day in prayer and meditation under the bel-tree, where the Master had performed great austerities and had seen many wonderful visions of God."
+weight: 167
+description: "Sri Ramakrishna was sitting in his room. M. was still staying with the Master."
 ---
 
 

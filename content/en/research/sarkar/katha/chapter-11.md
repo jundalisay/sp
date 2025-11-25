@@ -1,5 +1,5 @@
 ---
-title: "DEEP NARAYANJI"
+title: "Deep Narayanji"
 heading: Chapter 11
 weight: 26
 description: "Ajit Singh, was attempting to get me demoted and himself promoted"
@@ -15,6 +15,7 @@ I met Shri Deep Narayanji for the first time when he was a colleague during my p
 Soon after, he was transferred to Karhagola and Madhepura. These places were also within the jurisdiction of the Begusarai office, so I still used to meet him now and then. 
 
 Deep Narayanji in those days was a healthy, handsome, strong and well-built person, tall and attractive. He was also of a poetic temperament. His mind and nature, like his physique, were also beautiful, and these attracted people to him very much.
+
 Being from Mithila, his language and behaviour were both very sweet and his food was
 also dominated by sweet rich preparations. 
 
@@ -24,34 +25,31 @@ Whilst eating, he liked to eat large quantities punctuated with frequent request
 
 When his desire for sadhana grew strong, I requested Baba to give him initiation. 
 
-After getting Baba's permission, Deep Narayanji was fortunate to get initiation in the latter half of 1954. After initiation his food habits became more sattvika (sentient)
-and he began to take greater interest in milk and milk foods. 
+After getting Baba's permission, Deep Narayanji was fortunate to get initiation in the latter half of 1954. After initiation his food habits became more sattvika (sentient) and he began to take greater interest in milk and milk foods. 
 
 Even during wintry nights when it is extremely cold, he prefers to eat beaten rice with moonlight like white curd rather than any other food. He eats in a pleasant and carefree manner. 
 
 He wouldn’t mind topping his curd and rice with some dozens of rasagullas. In fact this would give him his heart content.
 
-With continued practice of sadhana, Deep Narayanji’s interest in literature and music became more and more subtle and deep. From the very beginning his nature
-was a lovely mixture of hard work and deep devotion, and such combinations are rare.
+With continued practice of sadhana, Deep Narayanji’s interest in literature and music became more and more subtle and deep. From the very beginning his nature was a lovely mixture of hard work and deep devotion, and such combinations are rare.
 
 As his mind was pure and he surrendered himself fully to sadhana, he very soon became Baba's favourite and passed his examinations as tattvika and acarya.
-When Deep Narayanji sings the songs of Vidyapati or slokas of Giita, emotionally with deep devotion, he sways the minds of thousands of listeners, indeed,
-transports them, into the world of ecstasy. 
 
-He prefers sitting in groups of devotees and enjoys talks about Baba and saints. At such times he is at his best, full of ecstasy and
-bliss. On these occasions one can see him shedding tears of devotion and singing
-devotional songs so that everyone flows in that mood.
+When Deep Narayanji sings the songs of Vidyapati or slokas of Giita, emotionally with deep devotion, he sways the minds of thousands of listeners, transports them, into the world of ecstasy. 
 
+He prefers sitting in groups of devotees and enjoys talks about Baba and saints. At such times he is at his best, full of ecstasy and bliss. 
 
-Looking at him in these moments one is reminded of these famous lines of Surdas: ‘nisi din barsat nain hamare’ (‘My eyes are ever wet with tears’). His
-devotion to Baba and attachment to the spiritual ideal are really great. 
+On these occasions one can see him shedding tears of devotion and singing devotional songs so that everyone flows in that mood.
+
+Looking at him in these moments one is reminded of these famous lines of Surdas: ‘nisi din barsat nain hamare’ (‘My eyes are ever wet with tears’). His devotion to Baba and attachment to the spiritual ideal are really great. 
 
 He has sacrificed his entire life for these objectives. His strong resolve is to reach the stage of salvation. 
 
 He is one of the most loving devotees of Baba. Once Baba was heard to say, "Deep Narayanji sleeps in samadhi."
 Salutations to Baba Who Removes the Painful Reactions of Previous Births
 
-## HARISADHANJI
+
+## Harisadhanji
 
 During those days in the early 1950’s, one of my disciple brothers in Jamalpur, Shri Harisdhanji, was not only unemployed, but also completely poverty-stricken and lived with his elder brother. 
 
@@ -67,18 +65,35 @@ He was so devoted to Baba that he would seek Baba’s permission on every thing.
 
 That same evening I referred the matter to Baba and requested Him kindly to agree that Harisadhanji might take his meals with me as long as I was there.
 
-Baba said, “What has this to do with you?” 
+{{< l a="Baba" >}}
+What has this to do with you?
+{{< /l >}}
 
-I replied, "Baba I am insisting because of his circumstances."
+{{< r a="Nagina" >}}
+Baba I am insisting because of his circumstances.
+{{< /r >}}
 
-Baba did not like this and said somewhat loudly "Why should you worry about this?"
+Baba did not like this and said somewhat loudly:
 
-I told Baba with great humility and insistence "He is my disciple brother. If I am not to take care of him will a stranger care for him? It is but natural that I should worry
-about him. I shall be extremely grateful if you kindly permit him to take his meals with me."
+{{< l a="Baba" >}}
+Why should you worry about this?
+{{< /l >}}
+
+I told Baba with great humility and insistence:
+
+{{< r a="Nagina" >}}
+He is my disciple brother. If I am not to take care of him will a stranger care for him? It is but natural that I should worry about him. I shall be extremely grateful if you kindly permit him to take his meals with me.
+{{< /r >}}
+
 
 Baba said: "You are on leave it will cause you hardship also.”
 
-I said: "Baba I shall manage and it will be no bother for me." After that, Baba gave his permission.
+
+{{< r a="Nagina" >}}
+Baba I shall manage and it will be no bother for me.
+{{< /r >}}
+
+After that, Baba gave his permission.
 
 I was staying with Bindeshwariji and he was bearing all my expenses. 
 
@@ -86,19 +101,22 @@ I began to feel embarrassed as to how I should tell him that another disciple br
 
 Bindeshwariji felt happy hearing this and said it was a very good idea and it should be done. Harisadhanji said that he would start taking his meals with me from the next day. I immediately understood that he would seek confirmation from Baba and so I agreed. From the next day, he started eating with me.
 
-In the meantime, I had to go to Delhi, and when I returned from Delhi, I did not find this brother disciple. When I asked the cook said that one day he had arrived
-sometime before the meals were ready. 
+In the meantime, I had to go to Delhi, and when I returned from Delhi, I did not find this brother disciple. When I asked the cook said that one day he had arrived sometime before the meals were ready. 
 
 The cook asked him to wait and became busy in cooking the meals. He waited for sometime and thereafter left never to come backagain. The cook also informed me that when this disciple brother was a child, he was working as a cook in their household and he used to love him and take care of him. 
 
-Even now he was addressing him as "Thou". I immediately felt that man was rather sensitive and it might be that some word of the cook hurt him and therefore he stopped
-taking his food here. I therefore searched him out and persuaded him with great difficulty to again start taking his meals with me.
+Even now he was addressing him as "Thou". I immediately felt that man was rather sensitive and it might be that some word of the cook hurt him and therefore he stopped taking his food here. I therefore searched him out and persuaded him with great difficulty to again start taking his meals with me.
 
 This continued for hardly fortnight or twenty days. 
 
 After having discovered a hard stalk in the vegetables he asked the cook whether there was onion in the food.
 
-The cook laughingly said, "There is," and added: "Don't you know that no onions are added in the vegetable here? For years I have served as cook in your
-family. Have you ever noticed any onions in your vegetables?" 
+The cook laughingly said:
+
+{{< r a="Cook" >}}
+There is. Don't you know that no onions are added in the vegetable here? For years I have served as cook in your
+family. Have you ever noticed any onions in your vegetables?
+{{< /r >}}
+
 
 Then I asked the cook to keep quiet and somehow persuaded Harisadhanji to take his lunch, but he did not turn up for his dinner that day. As I was late in returning from Baba that day, I did not look for him. 

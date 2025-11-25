@@ -7,6 +7,7 @@ writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 
@@ -110,3 +111,5 @@ One must not believe, however, that such a radical change could be effected by m
 Such a revolution can be brought about only by means of a movement which is itself organized under the inspiration of these principles and thus bears the germ of the future State in its own organism.
 
 Therefore it is well for the National Socialist Movement to make itself completely familiar with those principles to-day and actually to put them into practice within its own organization, so that not only will it be in a position to serve as a guide for the future State but will have its own organization such that it can subsequently be placed at the disposal of the State itself. 
+
+

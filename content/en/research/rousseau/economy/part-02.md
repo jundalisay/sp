@@ -51,17 +51,46 @@ But though the government be not master of the law, it is much to be its guarant
 
 A fool, if he be obeyed, may punish crimes as well as another: but the true statesman is he who knows how to prevent them: it is over the wills, even more than the actions, of his subjects that his honourable rule is extended. If he could secure that every one should act aright, he would no longer have anything to do; and the masterpiece of his labours would be to be able to remain unemployed. It is certain, at least, that the greatest talent a ruler can possess is to disguise his power, in order to render it less odious, and to conduct the State so peaceably as to make it seem to have no need of conductors.
 
-I conclude, therefore, that, as the first duty of the legislator is to make the laws conformable to the general will, the first rule of public economy is that the administration of justice should be conformable to the laws. It will even be enough to prevent the State from being ill governed, that the Legislator shall have provided, as he should, for every need of place, climate, soil, custom, neighbourhood, and all the rest of the relations peculiar to the people he had to institute. 
+
+
+The first duty of the legislator is to make the laws conformable to the general will.
+
+The first rule of public economy is for the administration of justice to be conformable to the laws.
+
+It will even be enough to prevent the State from being ill governed, that the Legislator shall have provided, as he should, for every need of place, climate, soil, custom, neighbourhood, and all the rest of the relations peculiar to the people he had to institute. 
 
 Not but what there still remains an infinity of details of administration and economy, which are left to the wisdom of the government: but there are two infallible rules for its good conduct on these occasions; one is, that the spirit of the law ought to decide in every particular case that could not be foreseen; the other is that the general will, the source and supplement of all laws, should be consulted wherever they fail. But how, I shall be asked, can the general will be known in cases in which it has not expressed itself? Must the whole nation be assembled together at every unforeseen event? Certainly not. 
 
-It ought the less to be assembled, because it is by no means certain that its decision would be the expression of the general will; besides, the method would be impracticable in a great people, and is hardly ever necessary where the government is well-intentioned: for the rulers well know that the general will is always on the side which is most favourable to the public interest, that is to say, most equitable; so that it is needful only to act justly, to be certain of following the general will. When this is flouted too openly, it makes itself felt, in spite of the formidable restraint of the public authority. I shall cite the nearest possible examples that may be followed in such cases.
+It should the less to be assembled, because it is by no means certain that its decision would be the expression of the general will; besides, the method would be impracticable in a great people, and is hardly ever necessary where the government is well-intentioned: for the rulers well know that the general will is always on the side which is most favourable to the public interest, that is to say, most equitable; so that it is needful only to act justly, to be certain of following the general will. When this is flouted too openly, it makes itself felt, in spite of the formidable restraint of the public authority. I shall cite the nearest possible examples that may be followed in such cases.
 
-In China, it is the constant maxim of the Prince to decide against his officers, in every dispute that arises between them and the people. If bread be too dear in any province, the Intendant of that province is thrown into prison. If there be an insurrection in another, the Governor is dismissed, and every Mandarin answers with his head for all the mischief that happens in his department. Not that these affairs do not subsequently undergo a regular examination; but long experience has caused the judgment to be thus anticipated. There is seldom any injustice to be repaired; in the meantime, the Emperor, being satisfied that public outcry does not arise without cause, always discovers, through the seditious clamours which he punishes, just grievances to redress.
+In China, it is the constant maxim of the Prince to decide against his officers in every dispute between them and the people. 
 
-It is a great thing to preserve the rule of peace and order through all the parts of the Republic; it is a great thing that the State should be tranquil, and the law respected: but if nothing more is done, there will be in all this more appearance than reality; for that government which confines itself to mere obedience will find difficulty in getting itself obeyed. If it is good to know how to deal with men as they are, it is much better to make them what there is need that they should be.
+If bread is too dear in any province, the Intendant of that province is thrown into prison.
 
-The most absolute authority is that which penetrates into a man's inmost being, and concerns itself no less with his will than with his actions. It is certain that all peoples become in the long run what the government makes them; warriors, citizens, men, when it so pleases; or merely populace and rabble, when it chooses to make them so. Hence every prince who despises his subjects, dishonours himself, in confessing that he does not know how to make them worthy of respect. 
+If there be an insurrection in another, the Governor is dismissed, and every Mandarin answers with his head for all the mischief that happens in his department.
+
+Not that these affairs do not subsequently undergo a regular examination; but long experience has caused the judgment to be thus anticipated. 
+
+There is seldom any injustice to be repaired; in the meantime, the Emperor, being satisfied that public outcry does not arise without cause, always discovers, through the seditious clamours which he punishes, just grievances to redress.
+
+It is a great thing to preserve the peace. But if nothing more is done, there will be no real peace. 
+
+For the government which merely obeys will find difficulty in getting itself obeyed. 
+
+It is good to know how to deal with men.
+- But it is much better to make them do what is needed.
+
+ <!-- than what  there is need that they should be. -->
+
+The most absolute authority is that which penetrates into a man's inmost being.
+
+<!-- , and concerns itself no less with his will than with his actions. It is certain that  -->
+
+All people become in the long run what the government makes them: warriors, citizens, men, when it so pleases.
+
+ <!-- or merely populace and rabble, when it chooses to make them so.  -->
+
+Hence, every prince who despises his subjects, dishonours himself, in confessing that he does not know how to make them worthy of respect. 
 
 Make men command men.
 

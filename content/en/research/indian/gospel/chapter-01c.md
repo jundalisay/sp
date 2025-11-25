@@ -2,7 +2,7 @@
 title: "M.'s first argument"
 c: "indigo"
 heading: "Chapter 1c"
-weight: 4
+weight: 5
 description: "This was M.'s first argument with the Master, and happily his last"
 ---
 
@@ -57,11 +57,11 @@ But one must go into solitude to attain this divine love. To get butter from mil
 
 Next, you must put aside all other duties, sit in a quiet spot, and churn the curd. Only then do you get butter.
 
-By meditating on God in solitude the mind acquires knowledge, dispassion, and devotion. But the very same mind goes downward if it dwells in the world. In the world
-there is only one thought: 'woman and gold'.
+By meditating on God in solitude the mind acquires knowledge, dispassion, and devotion. But the very same mind goes downward if it dwells in the world. In the world there is only one thought: 'woman and gold'.
 
-The world is water and the mind milk. If you pour milk into water they become one. You cannot find the pure milk any more. But turn the milk into curd and churn it into
-butter. Then, when that butter is placed in water, it will float. So, practise spiritual discipline in solitude and obtain the butter of knowledge and love. Even if you keep that butter in the water of the world the two will not mix. The butter will float.
+The world is water and the mind milk. If you pour milk into water they become one. You cannot find the pure milk any more. But turn the milk into curd and churn it into butter. 
+
+Then, when that butter is placed in water, it will float. So, practise spiritual discipline in solitude and obtain the butter of knowledge and love. Even if you keep that butter in the water of the world the two will not mix. The butter will float.
 {{< /l >}}
 
 
@@ -79,9 +79,7 @@ I recently read a Sanskrit play called Prabodha Chandrodaya. It deals with discr
 {{< l a="Ramakrishna" >}}
 Yes, discrimination about objects. What is there in money or in a beautiful body? 
 
-Discriminate and you will find that even the body of a beautiful woman consists of bones, flesh, fat, and other disagreeable things. Why should a man give up
-God and direct his attention to such things? 
+Discriminate and you will find that even the body of a beautiful woman consists of bones, flesh, fat, and other disagreeable things. Why should a man give up God and direct his attention to such things? 
 
 Why should a man forget God for their sake?"
 {{< /l >}}
-

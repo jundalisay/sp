@@ -24,13 +24,20 @@ The eyes opened. We were thunderstruck With His foot still touching the subject�
 Who are you?
 {{< /l >}}
 
-“I am Shyama Charan Lahiri” replied the body.
+The body replied:
 
-Startled because we had expected to hear Kishto Pal speak his own name, we felt let down at first. 
+{{< r a="Lahiri Mahasaya" >}}
+I am Shyama Charan Lahiri.
+{{< /r >}}
+
+
+We were startled because we had expected to hear Kishto Pal speak his own name.
+
+<!-- , we felt let down at first. 
 
 We thought that maybe the demonstration had wiped out his memory . 
 
-If he had lost his mind, then the demonstration was not going to turn out as we had hoped. 
+If he had lost his mind, then the demonstration was not going to turn out as we had hoped.  -->
 
 Shri Lahiri Mahasaya was one of modern India’s greatest yogis who had passed away in 1895. 
 
@@ -41,18 +48,16 @@ Shri Lahiri Mahasaya was one of modern India’s greatest yogis who had passed a
 Why are you here?
 {{< /l >}}
 
-{{< r a="Shri-Lahiri" >}}
-I am the bodiless soul, and You have instructed me to protect this body
+{{< r a="Lahiri Mahasaya" >}}
+I am the bodiless soul, and You have instructed me to protect this body.
 {{< /r >}}
 
 
 Then we understood: the dead body was the medium, and the entity speaking through it was the bodiless soul of Shri Lahiri Mahasaya.
 
 {{< l a="Baba" >}}
-Very well. Now that you are here, do some work for us
+Very well. Now that you are here, do some work for us. Go to the planet Mars
 {{< /l >}}
-
-“I am ready”.
 
 <!-- Many a time on field walks with Baba I had besieged Him with questions about the world we live in. 
 
@@ -62,33 +67,37 @@ Sometimes Baba replied at length, but other times He cut it short, saying, “I 
 
 Now, it seemed, ‘later’ had finally come. -->
 
+
+A few seconds elapsed, and the bodiless soul replied:
+
+{{< r a="Lahiri Mahasaya" >}}
+Yes. I am there
+{{< /r >}}
+
 {{< l a="Baba" >}}
-Go to the planet Mars
+Is there any life there? What do you see there?
 {{< /l >}}
 
-A few seconds elapsed, and the bodiless soul replied, ”Yes. I am there”.
+{{< r a="Lahiri Mahasaya" >}}
+I do not recognise any life here. It appears to be marshy land all around. Algae or weedlike growth seem to be present.
+{{< /r >}}
 
-{{< l a="Baba" >}}
-“Is there any life there? What do you see there?”
-{{< /l >}}
-
-
-“I do not recognise any life here. It appears to be marshy land all around. Algae or weedlike growth seem to be present”.
 
 {{< l a="Baba" >}}
 All right. Now go to the earth’s moon.
 {{< /l >}}
 
-{{< r a="Shri-Lahiri" >}}
+{{< r a="Lahiri Mahasaya" >}}
 I am there
 {{< /r >}}
 
 
 {{< l a="Baba" >}}
-“What do you see there?”
+What do you see there?
 {{< /l >}}
 
-{{< r a="Shri-Lahiri" >}}
+
+{{< r a="Lahiri Mahasaya" >}}
 Vast, dead deserts and mountains
 {{< /r >}}
 
@@ -96,7 +105,7 @@ Vast, dead deserts and mountains
 Is there any life form?
 {{< /l >}}
 
-{{< r a="Shri-Lahiri" >}}
+{{< r a="Lahiri Mahasaya" >}}
 No. There is no oxygen here
 {{< /r >}}
 
@@ -106,7 +115,10 @@ Now go inside the land. Do you recognise any familiar substances?
 {{< /l >}}
 
 
-“Yes. There is gold in the soil”.
+{{< r a="Lahiri Mahasaya" >}}
+Yes. There is gold in the soil
+{{< /r >}}
+
 
 These exchanges filled us with wonder. At no time since entering the room did Baba break contact between His right toe and the sahasrara cakra of the subject. 
 
@@ -116,7 +128,7 @@ Soon Baba instructed the bodiless soul to go to the planet Venus.
 Is there any life form on Venus?
 {{< /l >}}
 
-{{< r a="Shri-Lahiri" >}}
+{{< r a="Lahiri Mahasaya" >}}
 Yes, but it is very different from ours. They are highly developed spiritually. Their complexion is somewhat reddish. Even the most ordinary life form here is more advanced than the spiritually advanced people of the earth
 {{< /r >}}
 
@@ -169,7 +181,7 @@ The subject appeared very dull and absent-minded, as if he had just awakened fro
 Why do you look so distracted?
 {{< /l >}}
 
-{{< r a="Kishto-Pal" >}}
+{{< r a="Kishto Pal" >}}
 [Scanning the room with glazed eyes and a bewildered expression] I feel thick-headed
 {{< /r >}}
  
@@ -191,11 +203,10 @@ The demonstration was over, and the crown dispersed. When Baba got up and left f
 
 On the way, one of the disciples told me that he knew the sadhaka who had been the subject of the demonstration. 
 
-{{< r a="Margi" >}}
 This morning when I went to Baba’s house, Shri Kishto Pal was already there. Baba was very angry with him, and He severely scolded and punished him in front of me. Then Baba told him to leave and to come to the demonstration in the evening.
 
 When he left Baba’s house, Baba told me.
-{{< /r >}}
+
 
 
 <!-- Animated by curiosity, I encouraged him to continue. He knew something that might reveal the answer to my first question. -->
@@ -225,7 +236,10 @@ I will not answer any questions about the demonstration
 {{< /l >}}
 
 
-“Fine. But what happened to You after You left the dead body of the subject and went tothe next room? Why were You so quiet when You lay down and why did You ask us to massage You vigorously? I have never seen You like that”
+{{< r a="Nagina" >}}
+Fine. But what happened to You after You left the dead body of the subject and went tothe next room? Why were You so quiet when You lay down and why did You ask us to massage You vigorously? I have never seen You like that
+{{< /r >}}
+
 
 <!-- Smiling, Baba asked, “Have you never seen me like that?”
 
@@ -243,7 +257,10 @@ You had a strong desire to see these demonstrations. I have therefore shown them
 {{< /l >}}
 
 
-I said, "Baba it does not matter whether I remain or not, but Your existence on the earth is so much necessary. The whole creation will be blessed by Your presence”. 
+{{< r a="Nagina" >}}
+Baba it does not matter whether I remain or not, but Your existence on the earth is so much necessary. The whole creation will be blessed by Your presence
+{{< /r >}}
+
 
 {{< l a="Baba" >}}
 Your curiosity and eagerness had increased so much that these demonstrations had to be shown. People take them to be miracles; which is not good
@@ -255,3 +272,4 @@ It is so true. I had been in the habit of questioning Baba on such matters all t
 By this I understood that Baba meant that I should no longer continue with such questions. 
 
 I, therefore, never asked such questions again.
+

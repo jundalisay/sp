@@ -3,6 +3,8 @@ title: "Constantine's Law"
 heading: "Chapter 20b"
 description: "The Papian law forbade the senators marrying freed-women"
 c: "seagreen"
+weight: 28
+icon: "Montesquieu"
 author: "Montesquieu"
 ---
 

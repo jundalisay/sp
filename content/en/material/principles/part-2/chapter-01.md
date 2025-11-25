@@ -76,15 +76,3 @@ The Spatial layer leads to spacetime and sets the speed of light, since it is su
 
 This layer gives the properties of size, space, timespan, etc the universe and everything in it. 
 
-
-
-## The Sponge Universe
-
-The properties of the media of the spatial layer, as space and aetherspace, lead to an eternal and infinite sponge universe.
-- Spacetime is the dense part of the universe that contains matter and light
-- The aetherspace is the thin part that fills the gaps
-
-{{< i s="/graphics/physics/balloon.jpg" a="Sponge Universe" c="The data from James Webb, DESI, and the Planck satellites jointly prove the dual nature of the 2nd Element or Spatial Layer" >}}
-
-This is a complete replacement to the materialist Big Bang Theory which has been debunked by the findings from the James Webb Space Telescope
-

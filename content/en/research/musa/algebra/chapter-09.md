@@ -1,15 +1,15 @@
-+++
-title=  "Another Species of Legacy"
-heading=  "Chapter 8"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 9"
-linkb=  "/research/musa/algebra/chapter-09"
-linkftext=  "Chapter 10"
-linkf=  "/research/musa/algebra/chapter-10"
-draft=  true
-+++
+---
+heading: "Chapter 9"
+title: "Another Species of Legacy"
+weight: 18
+c: "steelblue"
+description: "The Six Problems"
+draft: true
+date: 2020-01-30
+---
+
+
+
 
 On to
 A man

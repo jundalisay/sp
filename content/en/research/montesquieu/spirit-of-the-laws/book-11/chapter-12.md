@@ -3,6 +3,7 @@ title: "The Government of the Kings of Rome"
 heading: "Chapter 12"
 date: 2015-09-27
 c: "seagreen"
+weight: 12
 author: "Montesquieu"
 description: "How the three Powers were there distributed in Rome"
 icon: "Montesquieu"

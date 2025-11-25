@@ -2,7 +2,7 @@
 title: "Does God listen to our prayers?"
 c: "indigo"
 heading: "Chapter 25d"
-weight: 106
+weight: 222
 description: "God is the Kalpataru, the Wish-fulfilling Tree. You will certainly get whatever you ask of Him. But you must pray standing near the Kalpataru. Only then will your prayer be fulfilled"
 ---
 
@@ -169,4 +169,3 @@ They said to him: 'You are now a Muslim.
 Say "Allah". From now on you must repeat only the name of Allah.' With great difficulty he repeated the word 'Allah', but every now and then blurted out 'Jagadamba'. At that the Muslims were about to beat him. Thereupon he said to them: 'I beseech you! Please do not kill me. I have been trying my utmost to repeat the
 name of Allah, but our Jagadamba has filled me up to the throat. She pushes out your
 Allah.' (All laugh.)
-

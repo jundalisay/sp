@@ -2,7 +2,7 @@
 title: "Four stages of life"
 c: "indigo"
 heading: "Chapter 19"
-weight: 79
+weight: 173
 description: "There are 4 Stages of Life"
 ---
 

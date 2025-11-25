@@ -2,7 +2,7 @@
 heading: "Chapter 16"
 title: "How the Laws of Religion correct the Inconveniencies of a political Constitution"
 linkTitle: "Chapter 16"
-weight: 24
+weight: 18
 # "2021-09-30"
 description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
 c: "seagreen"

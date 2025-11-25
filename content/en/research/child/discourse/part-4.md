@@ -49,11 +49,5 @@ I answer that when they know they can make no more of their money by taking out 
 cent. how shall the king ﬁnd a considerable sum of money to be lent him
 by his people?
 
-I answer that the reduction of interest to the people, is the abate-
-ment of interest to the king, when he has occasion to take up money; for
-what is borrowed of the city of London, or other bodies politic, nothing can be demanded but the legal interest; and if the king have occasion to
-take up money of private persons, seeing his majesty, according to good right, is above the common course of law, the king must, and always has
-given more than the legal rate. As for instance; the legal rate is now %. but his majesty, or such as have disposed of his majesty’s exchequer-
-tallies, have been said to give ten and twelve in some cases; and if the legal rate were , his majesty might probably give  or ; so if interest
-be brought to  per cent. his majesty in such cases as he now gives must give but  or ; by which his majesty would have a clear advantage.
+I answer that the reduction of interest to the people, is the abatement of interest to the king, when he has occasion to take up money; for what is borrowed of the city of London, or other bodies politic, nothing can be demanded but the legal interest; and if the king have occasion to take up money of private persons, seeing his majesty, according to good right, is above the common course of law, the king must, and always has given more than the legal rate. As for instance; the legal rate is now %. but his majesty, or such as have disposed of his majesty’s exchequer-tallies, have been said to give 10-12 in some cases; and if the legal rate were , his majesty might probably give  or ; so if interest be brought to per cent. his majesty in such cases as he now gives must give but  or ; by which his majesty would have a clear advantage.
 

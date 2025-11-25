@@ -69,7 +69,7 @@ This was because those air-aether globules had greater force of agitation*.
 {{< b >}}
 ### Superphysics Note
 
-*This was from being displaced by the earth-aether which occupied the empty space at the center. 
+This was from being displaced by the earth-aether which occupied the empty space at the center. 
 - The more dense the center was with the earth-aether, the more air-aether will be kicked out. 
 - The more air-aether kicked out, the more gravity will be available to push down matter.
 
@@ -80,6 +80,3 @@ Therefore the more solid and massive the core is, the stronger will be the gravi
 {{< img src="/graphics/physics/earth.png" alt="Earth's regions" >}}
 
 <!-- IX. They initially lay upon each other around the Earth. Here it should be noted that as long as the Earth, like the fixed stars, revolved in its peculiar vortex and had not yet fallen towards the Sun, these particles of the third element, which surrounded it, although separated from each other, were not scattered haphazardly through the sky, but all gathered around the sphere M (see figure on the next page), lying upon each other; because they were pushed towards the center I by the globules of the second element, which, having a greater force of agitation, tried to recede from that center." -->
-
-
-

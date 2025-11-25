@@ -33,10 +33,12 @@ I will make myself known among them, when I have judged you.
 
 12 I have heard all your blasphemies which you hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.  
 
-13 Thus with your mouth you have boasted against me, and have multiplied your words against me: I have heard them.
+<sup>13</sup> Thus with your mouth you have boasted against me, and have multiplied your words against me: I have heard them.
 
-14 When the whole earth rejoiceth, I will make you desolate. 
+<sup>14</sup> When the whole earth rejoiceth, I will make you desolate. 
 
-15 As you didst rejoice at the inheritance of the Israelites, because it was desolate, so will I do unto you: you shalt be desolate, O mount Seir, and all Idumea, [even] all of it: and they shall know that I am the Lord.
+<sup>15</sup> As you didst rejoice at the inheritance of the Israelites, because it was desolate, so will I do unto you.
+
+You shalt be desolate, O mount Seir, and all Idumea, [even] all of it: and they shall know that I am the Lord.
 {{< /l >}}
 

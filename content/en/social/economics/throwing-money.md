@@ -7,7 +7,7 @@ description: "Money is the command of effecitve work that already exists, not fo
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 ---
 
 
@@ -36,11 +36,12 @@ The best solutions are not technological, but moral. It is the same lack of high
 
 So both the wealth of the finance community and their habit of throwing money at the problems that they themselves cause are the effects of the lack of high morals. 
 
+
 ## The Solution
 
 Morals are detected by the heart and not the brain. And so the development of the heart is the underlying step for any real solution to food security and global warming, just as will truly solve war and crime.  
 
-The educational system should push for heart and morals instead of just intellect and cognitive skills. Rather, moral sense should be added as a cognitive skill. 
+Our proposed Gurukul system version 2.0 pushes for heart and morals instead of just intellect and cognitive skills. Rather, moral sense should be added as a cognitive skill. 
 
 To deter the systemic amassment of money, we propose a moneyless economic system that focuses on economic social contracts, denominated in points, that also builds morality between parties:
 - being on time for the meetup

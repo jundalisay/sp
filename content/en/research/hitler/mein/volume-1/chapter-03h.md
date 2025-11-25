@@ -1,12 +1,13 @@
 ---
 title: The wreck of the Pan-German Movement
 heading: Chapter 3h
-weight: 18
+weight: 22
 description: "The authority of the State can never be an end in itself. If that were so, any kind of tyranny would be inviolable and sacred"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 
@@ -242,8 +243,11 @@ Or is it to be believed that the military officers of any other country in the w
 been the case in our country during the last five years and has even been deemed a
 meritorious attitude? 
 
-Or let us take another example. In regard to the Jewish problem, do not the two Christian denominations take up a standpoint to-day which does not respond to the national exigencies or even the interests of religion? Consider the
-attitude of a Jewish Rabbi towards any question, even one of quite insignificant
+Or let us take another example. 
+
+In regard to the Jewish problem, do not the two Christian denominations take up a standpoint to-day which does not respond to the national exigencies or even the interests of religion? 
+
+Consider the attitude of a Jewish Rabbi towards any question, even one of quite insignificant
 importance, concerning the Jews as a race, and compare his attitude with that of the
 majority of our clergy, whether Catholic or Protestant.
 

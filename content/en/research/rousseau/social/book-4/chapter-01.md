@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "THE GENERAL WILL IS INDESTRUCTIBLE"
+title: "The General Will Is Indestructible"
 description: ""
 c: "firebrick"
 weight: 4

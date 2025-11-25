@@ -1,14 +1,16 @@
 ---
-title: "Our natural love and hatred for others Simplified"
-heading: "Chapter 2a"
+title: "Our Natural Love and Hatred for Others"
+heading: "Chapter 2b"
 description: "Our natural love for some characters dispose us to wish to be loved ourselves"
 date: 2015-09-28
+weight: 6
 c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
 ---
+
 
 
 {{< s v="16" >}} We wamt to be loved because of our natural love for some people. 

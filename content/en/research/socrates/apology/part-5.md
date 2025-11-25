@@ -24,7 +24,7 @@ If they do not like to come themselves, some of their relatives, fathers, brothe
 Now is their time. 
 
 I see many of them in the court. 
-
+ 
 There is:
 - Crito, who is of the same age and of the same deme with myself
 - his son Critobulus, whom I also see

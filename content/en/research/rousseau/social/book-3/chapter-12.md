@@ -1,9 +1,9 @@
 ---
 heading: Chapter 12
-title: "HOW THE SOVEREIGN AUTHORITY MAINTAINS ITSELF"
+title: "How The Sovereign Authority Maintains Itself"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 44
 date: 2025-01-11
 ---
 

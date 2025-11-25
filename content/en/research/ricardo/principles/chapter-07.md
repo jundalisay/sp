@@ -32,7 +32,7 @@ For the proof of this we might refer to the increase of population—to the exte
 
 Taxes are not necessarily taxes on capital, because they are laid on capital; nor on income, because they are laid on income. If from my income of 1000l. per annum, I am required to pay 100l., it will really be a tax on my income, should I be content with the expenditure of the remaining 900l.; but it will be a tax on capital, if I continue to spend 1000l.
 
-The capital from which my income of 1000l. is derived may be of the value of 10,000l.; a tax of one per cent. on such ca190pital would be 100l.; but my capital would be unaffected, if after paying this tax, I in like manner contented myself with the expenditure of 900l.
+The capital from which my income of 1000l. is derived may be of the value of 10,000l.; a tax of one% on such ca190pital would be 100l.; but my capital would be unaffected, if after paying this tax, I in like manner contented myself with the expenditure of 900l.
 
 The desire which every man has to keep his station in life, and to maintain his wealth at the height which it has once attained, occasions most taxes, whether laid on capital or on income, to be paid from income; and therefore as taxation proceeds, or as government increases its expenditure, the annual expenditure of the people must be diminished, unless they are enabled proportionally to increase their capitals and income. It should be the policy of governments to encourage a disposition to do this in the people, and never to lay such taxes as will inevitably fall on capital; since by so doing, they impair the funds for the maintenance of labour, and thereby diminish the future production of the country.
 

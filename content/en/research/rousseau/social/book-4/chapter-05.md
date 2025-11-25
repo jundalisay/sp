@@ -3,7 +3,7 @@ heading: Chapter 5
 title: "The Tribunate"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 8
 date: 2025-01-11
 ---
 

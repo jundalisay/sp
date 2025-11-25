@@ -1,8 +1,10 @@
 ---
-title: "M. AT DAKSHINESWAR (II)"
-c: "indigo"
 heading: "Chapter 18"
-weight: 74
+title: "Brahman and Śakti are Identical"
+c: "indigo"
+weight: 159
+author: M
+icon: M
 description: ""
 ---
 
@@ -36,8 +38,6 @@ holy man and joyfully began a conversation with him.
 MASTER: "To which order of monks do you belong? Have you any title-Giri, Puri, or the like?"
 
 SĀDHU: "People call me a paramahamsa."
-
-Brahman and Śakti identical
 
 MASTER: "That is good. 'I am Śiva'-that is a good attitude. But I must tell you something else. The process of creation, preservation, and destruction that is going on
 day and night is due to Śakti, the Power of God. This Primal Power and Brahman are one and the same. Śakti cannot exist without Brahman, just as waves cannot exist

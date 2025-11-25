@@ -117,7 +117,7 @@ This is why economic slavery* is a real phenomenon in Economics through a system
 
  <!-- possibility, as seen in rising prices and in both personal and governmental debt . -->
 
-{{< f f="*We define slavery as a regular state of control of another's actions that produces pain. We replace the jargon 'elastic' and 'inelastic' with easy-to-understand words: 'price-sensitive' and 'price-insensitive'." >}}
+{{< f f="*We define slavery as a regular state of control of another's actions that produces perpetual subordination. We replace the jargon 'elastic' and 'inelastic' with easy-to-understand words: 'price-sensitive' and 'price-insensitive'." >}}
 
   
 <!-- me date="10/2015" -->

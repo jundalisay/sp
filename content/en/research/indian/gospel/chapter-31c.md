@@ -2,7 +2,7 @@
 title: "How to conquer passion"
 c: "indigo"
 heading: "Chapter 31c"
-weight: 129
+weight: 294
 description: ""
 ---
 
@@ -95,7 +95,7 @@ fooled.
 
 Does the moon ever leave the sky and dwell upon the earth?
 
-### Preparation for God vision
+## Preparation for God vision
 
 "One must practise intense spiritual discipline. Can one obtain the vision of God all of a
 sudden, without any preparation?
@@ -104,7 +104,7 @@ sudden, without any preparation?
 
 By the movement of the water you will know that a big fish has come.' "You want to eat butter. But what will you achieve by simply repeating that there is butter in milk? You have to work hard for it. Only thus can you separate butter from milk. Can one see God by merely repeating, 'God exists'? One needs sādhanā . "The Divine Mother Herself practised austere sādhanā to set an example for mankind. Sri Krishna, who is none other than the Ultimate Brahman, also practised sādhanā to set an example to others.
 
-Purusha and Prakriti
+## Purusha and Prakriti
 
 "Sri Krishna is the Purusha and Radha the Prakriti, the ChitŚakti, the Ādyāśakti . Radha is
 the Prakriti, the embodiment of the three Gunās . Sattva, rajas, and tamas are in her. As

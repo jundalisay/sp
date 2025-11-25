@@ -1,8 +1,8 @@
 ---
-title: "THE MASTER'S LOVE FOR HIS DEVOTEES"
+title: "The Master'S Love For His Devotees"
 c: "indigo"
 heading: "Chapter 51"
-weight: 202
+weight: 630
 description: ""
 ---
 
@@ -25,8 +25,8 @@ NARENDRA: "It may be his hallucination."
 
 M: "Whatever a person experiences in a particular state is real for him in that state.
 
-Suppose you are dreaming that you have gone to a garden. As long as the dream lasts, the garden is real for you. But you think of it as unreal when your mind undergoes a
-change, as, for instance, when you awake. When your mind attains the state in which one sees God, you will know God to be real."
+Suppose you are dreaming that you have gone to a garden. As long as the dream lasts, the garden is real for you. But you think of it as unreal when your mind undergoes a change, as, for instance, when you awake. When your mind attains the state in which one sees God, you will know God to be real."
+
 NARENDRA: "I want truth. The other day I had a great argument with Sri Ramakrishna
 himself."
 
@@ -157,7 +157,4 @@ If I touch a woman my hand becomes numb; it aches. If in a friendly spirit I app
 If a woman enters my room when I am alone, at once I become like a child and regard
 her as my mother."
 
-As M. listened to these words, he became speechless with wonder at Sri Ramakrishna's
-exalted state of mind. Bhavanāth and Narendra were sitting at a distance, talking
-together.
-
+As M. listened to these words, he became speechless with wonder at Sri Ramakrishna's exalted state of mind. Bhavanāth and Narendra were sitting at a distance, talking together.

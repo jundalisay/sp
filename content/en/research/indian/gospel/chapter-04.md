@@ -1,9 +1,8 @@
 ---
 title: Secret of Divine Communion
-# title: "Advice To Householders"
 c: "indigo"
 heading: "Chapter 4"
-weight: 15
+weight: 16
 description: "Chaitanya had several householders among his devotees, but they were householders in name only"
 ---
 

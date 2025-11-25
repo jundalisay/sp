@@ -1,8 +1,8 @@
 ---
 title: "After The Death of Ramakrishna"
 c: "indigo"
-heading: "Chapter 52"
-weight: 212
+heading: "Chapter 52b"
+weight: 642
 description: "Narendra went to Calcutta to look after a lawsuit that involved his family since the death of his father"
 ---
 

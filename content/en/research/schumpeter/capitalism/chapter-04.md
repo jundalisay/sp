@@ -10,7 +10,6 @@ weight: 14
 
 
 <!-- THE main components of the Marxian structure are now before us. What
->>>>>>> b19c1bcc4b186bb880f5d917dca1116cb886ee4e
 about the imposing synthesis as a whole? The question is not otiose. If
 ever it is true, it is in this case that the whole is more than the sum of the parts.
 

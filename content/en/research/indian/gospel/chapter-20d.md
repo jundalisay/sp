@@ -2,7 +2,7 @@
 title: "Vaishnavcharan"
 c: "indigo"
 heading: "Chapter 20d"
-weight: 85
+weight: 185
 description: "Sri Ramakrishna was sitting in his room after his midday meal, with Rakhal, Ram, and some other devotees. He was not quite well"
 ---
 

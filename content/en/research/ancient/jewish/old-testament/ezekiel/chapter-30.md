@@ -35,14 +35,21 @@ Her her cities shall be in the midst of the cities [that are] wasted.
 
 11 He and his people with him, the terrible of the nations, shall be brought to destroy the land.
 
-They shall draw their swords against Egypt, and fill the land with the slain. {30:12} And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I Enki have spoken [it. ]{30:13} Thus saith Enki; I will also destroy the idols, and I will cause [their] images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt.
+They shall draw their swords against Egypt, and fill the land with the slain. 
 
-14 I will make Pathros desolate, and will set fire in Zoan, and will execute judgments in No. {30:15} And I will pour my fury upon
-Sin, the strength of Egypt; and I will cut off the multitude of No. 
+<sup>12</sup> I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I Enki have spoken it.
 
-16 I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph [shall have] distresses daily. {30:17} The young men of Aven and of Pi-beseth shall fall by the sword: and these [cities] shall go into captivity. {30:18} At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.
+<sup>13</sup> I will also destroy the idols, and I will cause [their] images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt.
 
-{30:19} Thus will I execute judgments in Egypt: and they shall know that I am the Lord.
+14 I will make Pathros desolate, and will set fire in Zoan, and will execute judgments in No. {30:15} And I will pour my fury on Sin, the strength of Egypt; and I will cut off the multitude of No. 
+
+16 I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph [shall have] distresses daily. 
+
+<sup>17</sup> The young men of Aven and of Pi-beseth shall fall by the sword: and these [cities] shall go into captivity.
+
+<sup>18</sup> At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.
+
+<sup>19</sup> Thus will I execute judgments in Egypt: and they shall know that I am the Lord.
 {{< /l >}}
 
 
@@ -55,5 +62,7 @@ Sin, the strength of Egypt; and I will cut off the multitude of No.
 
 24 I will strengthen the arms of the king of Babylon, and put my sword in his hand: but I will break Pharaoh’s arms, and he shall groan before him with the groanings of a deadly wounded [man.]
 
-25 But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they  hall know that I am the Lord, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt. {30:26} And I will scatter the Egyptians among the nations, and disperse them among the countries; and they shall know that I [am] the LORD.
+25 But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they  hall know that I am the Lord, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.
+
+<sup>26</sup> I will scatter the Egyptians among the nations, and disperse them among the countries; and they shall know that I [am] the LORD.
 {{< /l >}}

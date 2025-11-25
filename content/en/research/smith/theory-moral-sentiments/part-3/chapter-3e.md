@@ -4,6 +4,7 @@ heading: "Chapter 3e"
 description: "The Stoics said that there is no essential difference in the happiness in one permanent situation and another"
 date: 2015-09-14
 c: "indigo"
+weight: 22
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

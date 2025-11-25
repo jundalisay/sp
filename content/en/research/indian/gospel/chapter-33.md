@@ -2,7 +2,7 @@
 title: "With Various Devotees"
 c: "indigo"
 heading: "Chapter 33"
-weight: 134
+weight: 322
 description: ""
 ---
 
@@ -153,3 +153,4 @@ It is not that God can be realized by this work and not by that. The vision of
 God depends on His grace. Still a man must work a little with longing for God in his
 heart. If he has longing he will receive the grace of God.
 {{< /l >}}
+

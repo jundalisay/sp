@@ -41,9 +41,10 @@ In summary:
 - this affecting of parts is called relationality
 - the job of relationality is to conserve the singleness of the unit
 
-Modern Physics sees the Conservation Laws as effect of Symmetry which is confusing cause as effect. 
+Modern Physics sees the Conservation Laws as the effect of Symmetry. 
+- Physics is therefore wrongly seeing the effect as the cause. 
 
-In contrast, Material Superphysics sees the Conservation Laws as the fundamental forces (i.e. Standard Model) as the Effect of Conservation which in turn is the effect of the Supreme Entity being a single entity. 
+In contrast, Material Superphysics sees physical constants and the fundamental forces (i.e. Standard Model) as the Effect of Conservation Laws which in turn are the effect of the Supreme Entity being a single entity. 
 
 {{< i s="/graphics/physics/symmetry.svg" a="Physics vs Superphysics" >}}
 
@@ -55,17 +56,19 @@ This is the Material Superphysics version of the Law of Conservation of Idea of 
 
 This operates in the aethereal layer and is the foundation of the gravitational signature which this law says must be unique. 
 
-This then leads to movement as those signatures adhere to this law in the physical domain.  
+This then leads to movement as those signatures adhere to this law in the physical domain.
 
 
 ## The Law of Conservation of Momentum 
 
-This operates in the spatial layer and is the foundation of the rules of motion which are the implementing rules for this law.  
+This operates in the spatial layer and is the foundation of Descartes' 4 Rules of Motion which are the implementing rules for this law.
+
+We can say that the rules of motion are the implementing rules for this law. 
 
 
 ## The Law of Conservation of Energy
 
-This operates in the radiant layer and is already well known in Physics. Energy is the crudified version of momentum.
+This operates in the radiant layer and is already well known in Physics. Energy is the crudified and more obvious version of momentum.
 
 This actually changes the energy from electromagnetic to material motion. For example, a generator converts electromagnetic force into physical motions. 
 
@@ -73,17 +76,21 @@ This actually changes the energy from electromagnetic to material motion. For ex
 ## The Law of Conservation of Aether 
 <!-- Substance -->
 
-This operates in the convertible layer which facilitates particle decay and in "flavor changing" which then creates the diversity of the material layer below it. 
+This operates in the convertible layer which facilitates chemical changes and "flavor changing" which then creates the diversity of the material layer below it. 
 
-This is because the Conversion layer converts matter the energy and vice versa. 
+This is because the Conversion layer converts matter into energy and vice versa. 
 
 Flavor changing is a good and natural word for this layer because traditionally this was called the Water Element. 
 
 It is the wetness of water and liquids that allows both:
 - the perception of tastes by our tongue
-- the detection of neutrinos by large liquid detectors.
+- the detection of neutrinos by large liquid detectors
 
 
 ## The Law of Conservation of Mass
 
-This operates in the material layer and is already well known in Physics. Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
+This operates in the material layer and is already well known in Physics. 
+
+Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
+
+

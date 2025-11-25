@@ -4,6 +4,7 @@ heading: "Chapter 3g"
 description: "Humanity is a gentle virtue, self-command is an austere virtue."
 date: 2015-09-10
 c: "indigo"
+weight: 27
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

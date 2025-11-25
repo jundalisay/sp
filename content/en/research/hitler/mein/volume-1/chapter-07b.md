@@ -7,6 +7,7 @@ writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 
@@ -33,11 +34,19 @@ victory impossible.
 
 A general strike in the munition factories was organized.
 
-If this conspiracy could achieve its purpose the German front would have collapsed and the wishes of the VORWÄRTS (the organ of the Social-Democratic Party) that this time victory should not take the side of the German banners, would have been fulfilled. 
+If this conspiracy could achieve its purpose:
+- the German front would have collapsed
+- the wishes of the VORWÄRTS (the organ of the Social-Democratic Party) would have been fulfilled
+  - It wanted that this time victory should not take the side of the German banners
 
-For want of munitions the front would be broken through within a few weeks, the offensive would be effectively stopped and the Entente saved. 
+For lack of munitions:
+- the front would be broken through within a few weeks
+- the offensive would be effectively stopped 
+- the Entente saved. 
 
-Then International Finance would assume control over Germany and the internal objective of the Marxist national betrayal would be achieved. That objective was the destruction of the national economic system and the establishment of international capitalistic domination in its stead. 
+Then International Finance would assume control over Germany and the internal objective of the Marxist national betrayal would be achieved. 
+
+That objective was the destruction of the national economic system and the establishment of international capitalistic domination in its stead. 
 
 This goal has really been reached, thanks to the stupid credulity of the one side and the unspeakable treachery of the other.
 

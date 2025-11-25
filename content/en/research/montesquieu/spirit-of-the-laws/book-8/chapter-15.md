@@ -1,26 +1,29 @@
-
-+++
-title= "Sure Methods of preserving the three Principles"
-heading= "Chapters 15-19"
-date= 2020-01-20
-image= "/covers/spirit.jpg"
-description= "Distinctive Properties of a Republic"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-8/chapter-8"
-linkbtext= "Chapter 8"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-8/chapter-21"
-linkftext= "Chapter 21"
-+++
+---
+heading: "Chapter 16"
+title: "Distinctive Properties of a Republic and Monarchy"
+weight: 14
+description: "A small republic is destroyed by a foreign force"
+c: "seagreen"
+contributors: ['Montesquieu']
+icon: "Montesquieu"
+---
 
 
-I shall not be able to make myself right ly understood, till the reader has perused the four following chapters.
 
+<!-- I shall not be able to make myself right ly understood, till the reader has perused the four following chapters. -->
 
 
 ## Chapter 16: Distinctive Properties of a Republic
 
-IT is natural for a republic to have only a small territory. Otherwise, it cannot long subsist. 
+This is natural for a republic which to have only a small territory. Otherwise, it cannot long subsist. 
 
-In a large republic, there are wealthy men of less moderation. there are trusts too considerable to be placed in any single subject; he has interests of his own; he soon begins to think that he may be happy and gl orious by oppressing his fellow-citizens; and that he may raise himself to  grandeur on the ruins of his country.
+In a large republic, there are wealthy men of less moderation.
+
+There are trusts too considerable to be placed in any single subject.
+
+He has interests of his own. He soon begins to think that he may be happy and glorious by:
+- oppressing his fellow-citizens
+- rising to grandeur on the ruins of his country
 
 In a large republic, the public good:
 - is sacrificed to a thousand private views
@@ -33,8 +36,11 @@ The republic of Sparta lasted long because it kept the same territory after all 
 - The sole aim of Sparta was liberty
 - The sole advantage of her liberty glory
 
-It was the spirit of the Greek republics to be as contented with their territories as with their laws. Athens was first fired with ambition, and gave it to Lacedmon; but it was an ambition rather of commanding a free people than of governing slaves; rather of directing than of breaking the union. All was lost upon the starting up of monarchy, a government whose spirit is more turned to increase of dominion.
+It was the spirit of the Greek republics to be as contented with their territories as with their laws. 
 
+Athens was first fired with ambition, and gave it to Sparta.
+
+But it was an ambition rather of commanding a free people than of governing slaves; rather of directing than of breaking the union. All was lost upon the starting up of monarchy, a government whose spirit is more turned to increase of dominion.
 
 Only a republican government can subsist longer in a single town. A prince of so petty a state would naturally endeavour to oppress his subjects, because his power would be great, while the means of enjoying it, or of causing it to be respected, would be inconsiderable. He would trample on his people. 
 
@@ -44,7 +50,7 @@ As soon as the sovereign of a single town is expelled, the quarrel is over. But 
 
 
 
-## Chapter 17: Distinctive Properties of a Mon archy.
+## Chapter 17: Distinctive Properties of a Monarchy.
 
 A monarchical state should be have a moderate size. If it were small, it would become a republic. If it very large, the nobility would:
 - have great estates and be far from the prince's eye
@@ -78,7 +84,7 @@ In the Netherlands, she essayed to rende r herself arbitrary, and, as soon as sh
 In Italy, Spain maintained her ground merely by exhausting herself and by enriching that country. For those, who woul d have been pleased to have got rid of the king of Spain, were not in a humour to refuse his gold.
 
 
-## Chapter 19= Distinctive Properties of a desp otic Government
+## Chapter 19: Distinctive Properties of a Despotic Government
 
 A large empire supposes a despotic authority in the person who governs. 
 

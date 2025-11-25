@@ -16,15 +16,13 @@ I give the rule which determines the quantities of goods exchanged for each othe
 
 <!-- , we must not be supposed to deny the accidental and temporary deviations of the actual or market price of commodities from this, their primary and natural price. -->
 
-In the ordinary course of events, there is no commodity which continues for any length of time to be supplied precisely in that decree of abundance, which the wants and wishes of mankind require, and therefore83 there is none which is not subject to accidental and temporary variations of price.
+In the ordinary course of events, there is no commodity which continues for any length of time to be supplied precisely in that decree of abundance, which the wants and wishes of mankind require, and therefore there is none which is not subject to accidental and temporary variations of price.
 
 It is only in consequence of such variations, that capital is apportioned precisely, in the requisite abundance and no more, to the production of the different commodities which happen to be in demand. 
 
 With the change of price:
 - profits are elevated above or depressed below their general level
 - capital either enters or leaves from the particular employment 
-
-<!-- in which the variation has taken place. -->
 
 Every man is free to employ his capital where he pleases.
 

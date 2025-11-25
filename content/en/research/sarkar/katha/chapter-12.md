@@ -26,7 +26,7 @@ to take time. Thus we returned to Bindeshwariji's house and began to prepare to 
 after taking our lunch.
 
 
-## I INCUR BABA’S WRATH
+## I Incur Baba’S Wrath
 
 In the meanwhile two other brother disciples came to Bindeshwariji. They also
 had the same task in mind. I was a big smoker then, but despite this I decided not to
@@ -87,4 +87,3 @@ Baba said in the same angry tone, "Go from here now, meet me in the quarter
 in the evening."
 
 Deep Narayanji and myself returned from Baba's place quickly.
-

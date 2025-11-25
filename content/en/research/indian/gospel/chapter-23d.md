@@ -2,7 +2,7 @@
 title: Niranjan's Guilelessness
 c: "indigo"
 heading: "Chapter 23c"
-weight: 97
+weight: 210
 description: "SRI RAMAKRISHNA arrived in the morning at the garden house of Surendra, one of his beloved householder disciples, in the village of Kankurgachi near Calcutta."
 ---
 

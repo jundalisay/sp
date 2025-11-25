@@ -1,8 +1,8 @@
 ---
-title: "ADVICE TO ISHAN"
+title: "Advice To Ishan"
 c: "indigo"
 heading: "Chapter 31"
-weight: 127
+weight: 289
 description: ""
 ---
 
@@ -15,7 +15,8 @@ M. and Priya Mukherji were sitting on the floor.
 
 M. had left his school at one o'clock and had just arrived at Dakshineswar. 
 
-### The worldly Jadu Mallick
+
+## The worldly Jadu Mallick
 
 The Master was telling anecdotes about the calculating nature of the wealthy Jadu Mallick.
 
@@ -41,6 +42,7 @@ He turned to me and laughed.
 That is the nature of the worldly man. He wants people to come to him. That spreads his name in the market.
 {{< /l >}}
 
+
 {{< l a="Ramakrishna" >}}
 Jadu went to Adhar's house. I told him it had made Adhar very happy. He said: 'What? Was he really happy?' A certain Mallick came to Jadu's house. He was very clever and deceitful. 
 
@@ -59,9 +61,14 @@ Narayan entered the room and sat on the floor.
 {{< /l >}}
 
 
-PRIYANATH: "What is so fine about him? Of course, he has a childlike nature."
+{{< r a="Priyanath" >}}
+What is so fine about him? Of course, he has a childlike nature.
+{{< /r >}}
 
-NARAYAN: "He addressed his wife as mother."
+{{< r a="Narayan" >}}
+He addressed his wife as mother.
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 What! Even I can't do that. And he calls her mother! 
@@ -79,42 +86,23 @@ Again, he told me he would take me to his house and sing kirtan. But he didn't d
 {{< /l >}}
 
 
-Warning devotees about women
+## Warning devotees about women
 
-"Haripada has fallen into the clutches of a woman of the Ghoshpara sect. He can't get rid
-of her. He says that she takes him on her lap and feeds him. She claims that she looks
-on him as the Baby Krishna. I have warned him a great many times. She says that she
-thinks of him as a child. But this maternal affection soon degenerates into something
-dangerous.
+"Haripada has fallen into the clutches of a woman of the Ghoshpara sect. He can't get rid of her. He says that she takes him on her lap and feeds him. She claims that she looks on him as the Baby Krishna. I have warned him a great many times. She says that she thinks of him as a child. But this maternal affection soon degenerates into something dangerous.
 
-"You see, you should keep far away from woman; then you may realize God. It is
-extremely harmful to have much to do with women who have bad motives, or to eat
-food from their hands. They rob a man of his spirituality. Only by being extremely
-careful about woman can one preserve one's love of God. One day Bhavanāth, Rakhal,
-and some other youngsters had cooked their own meal in the temple garden. They were
-sitting at their meal when a Baul arrived, sat down with them, and said he wanted to eat
-with them. 
+"You see, you should keep far away from woman; then you may realize God. It is extremely harmful to have much to do with women who have bad motives, or to eat food from their hands. They rob a man of his spirituality. Only by being extremely careful about woman can one preserve one's love of God. One day Bhavanāth, Rakhal, and some other youngsters had cooked their own meal in the temple garden. They were sitting at their meal when a Baul arrived, sat down with them, and said he  wanted to eat with them. 
 
-I said that there was not enough food; if anything was left it would be kept
-for him. He became angry and left. On the Vijaya day a man allows anyone and
-everyone to feed him with his own hand. It is not good. But one can eat food from the
-hand of a devotee who is pure in heart.
+I said that there was not enough food; if anything was left it would be kept for him. He became angry and left. On the Vijaya day a man allows anyone and everyone to feed him with his own hand. It is not good. But one can eat food from the hand of a devotee who is pure in heart.
 
-"You must be extremely careful about women. Women speak of the attitude of Gopala!
+"You must be extremely careful about women. Women speak of the attitude of Gopala! 
+
 Pay no attention to such things. The proverb says: 'A woman devours the three worlds.'
+
 Many women, when they see handsome and healthy young men, lay snares for them.
 
 That is what they call the 'attitude of Gopala.'
 
-"Those who develop dispassion from early youth, those who roam about yearning for
-God from boyhood, those who refuse all worldly life, belong to a different class. They
-belong to an unsullied aristocracy. If they develop true renunciation, they keep
-themselves at least fifty cubits away from women lest their spiritual mood should be
-destroyed. 
+Those who develop dispassion from early youth, those who roam about yearning for God from boyhood, those who refuse all worldly life, belong to a different class. They belong to an unsullied aristocracy. If they develop true renunciation, they keep themselves at least fifty cubits away from women lest their spiritual mood should be destroyed. 
 
-Once falling into the clutches of women, they no longer remain on the level of
-unsullied aristocracy. They fall from it and come to a lower level. People who practise
-renunciation from early youth belong to a very high level. Their ideal is very pure. They
-are stainless.
-
+Once falling into the clutches of women, they no longer remain on the level of unsullied aristocracy. They fall from it and come to a lower level. People who practise renunciation from early youth belong to a very high level. Their ideal is very pure. They are stainless.
 

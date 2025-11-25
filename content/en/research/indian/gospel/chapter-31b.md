@@ -1,8 +1,8 @@
 ---
-title: "How to conquer passion"
+title: "Disciplines during the Sādhanā period"
 c: "indigo"
 heading: "Chapter 31b"
-weight: 128
+weight: 292
 description: ""
 ---
 
@@ -110,12 +110,8 @@ But it must be said that he observed the Hindu customs. He left his shoes outsid
 
 I said: 'My dear sir, who are you? What good will you do to the world? Is the world such a small thing that you think you can help it?' " Narayan arrived. Sri Ramakrishna was very happy to see him. He seated Narayan by his side on the small couch. He showed him his love by stroking his body and giving him sweets to eat. Then he asked Narayan tenderly, "Will you have some water?" Narayan was a student at M.'s school. At home his people beat him for visiting Sri Ramakrishna. The Master said to Narayan with an affectionate smile, "You had better get a leather jacket; then the beating won't hurt." Turning to Harish, the Master said that he would like to have a smoke.
 
-Again addressing Narayan, Sri Ramakrishna said: "That woman who has established an
-artificial relationship of mother and son with Haripada came here the other day. I have
-warned Haripada very often. She belongs to the Ghoshpara sect. I asked her if she had
-found her 'man'. She said yes, and mentioned a man's name.
-(To M.) "Ah! Nilkantha came here the other day. What spiritual fervour he has! He said
-he would come here another day and sing for us. They are dancing over there. Why
-don't you go and see it? (To Ramlal) There is no oil in the room. (Looking at the oil-jar)
-The servant hasn't filled it."
+Again addressing Narayan, Sri Ramakrishna said: "That woman who has established an artificial relationship of mother and son with Haripada came here the other day. I have warned Haripada very often. She belongs to the Ghoshpara sect. I asked her if she had found her 'man'. She said yes, and mentioned a man's name.
 
+(To M.) "Ah! Nilkantha came here the other day. What spiritual fervour he has! He said he would come here another day and sing for us. They are dancing over there. 
+
+Why don't you go and see it? (To Ramlal) There is no oil in the room. (Looking at the oil-jar) The servant hasn't filled it."

@@ -100,13 +100,7 @@ It is ironic that Pakistan's strategic decline took place during the period of t
 
 Unfortunately, each time, as US strategic priorities shifted, these alliances of convenience turned into estrangement and even hostility. While the Pakistani governments and leaders of the time benefited from US support, any objective cost-benefit analysis would reveal the fundamental damage done to Pakistan—political, economic, and strategic—as a consequence of these periodic alliances with and dependence on the US. Thus, the Cold War alliance with the US evoked Soviet hostility, its veto against Kashmir and its support for India's break up of Pakistan in 1971. Pakistan's participation in the anti-Soviet Afghan war contributed directly to the rise of religious extremism, sectarianism, violence and terrorism in Pakistan.
 
-The past nine years of Pakistani cooperation with the US against al
-Qaeda and the Taliban in Afghanistan have no doubt provided Pakistan
-important US political and economic support, although the benefits of US
-patronage have been grossly under-utilised by the previous and present
-Pakistani governments. But this period of the counter-terrorism alliance
-has also witnessed some of the most serious strategic reversals for
-Pakistan. These include:
+The past nine years of Pakistani cooperation with the US against al Qaeda and the Taliban in Afghanistan have no doubt provided Pakistan important US political and economic support, although the benefits of US patronage have been grossly under-utilised by the previous and present Pakistani governments. But this period of the counter-terrorism alliance has also witnessed some of the most serious strategic reversals for Pakistan. These include:
 
 - The replacement of the 'friendly'—though internationally unacceptable—Taliban regime in Kabul by a hostile Panjsheri—Tajik-dominated government.
 - The migration of Afghan Taliban and al Qaeda leaders into Pakistan and progressive escalation of Pakistan's military involvement against them, shifting the locus of the war from Afghanistan to Pakistan.
@@ -114,38 +108,22 @@ Pakistan. These include:
 - The emergence of a coalition between radical Pakistani groups under the umbrella of the TTP, the spread of their influence, even control in parts of FATA and adjacent areas and bold attacks against Pakistan's security forces and civilian centres.
 - India's growing role and influence in Afghanistan, and its utilisation of Afghan territory and intelligence services to support subversion in Balochistan and the north western regions.
 - The unjust depiction of Pakistan as the 'safe haven' for al Qaeda and global terrorists, accompanied by mounting US pressure on Pakistan to 'do more' in its fight against them, leading to the deployment of 150,000 Pakistani troops on the Western border, inevitably iminishing Pakistan's defence capabilities against India, and provoking attacks against Pakistan's security forces, leaders and civilian population.
-
-• The Western campaign, actively supported by India, to de-legitimise
-Pakistan's nuclear programme, including US pressure for sensitive
-information and access after the A.Q. Khan proliferation scandal;
-questions raised regarding the safety and security of Pakistan's
-nuclear weapons and their possible takeover by 'Islamic' radicals;
-and the 'de-hyphenation' of the nuclear relationship between Pakistan
-and India.
+- The Western campaign, actively supported by India, to de-legitimise Pakistan's nuclear programme, including US pressure for sensitive information and access after the A.Q. Khan proliferation scandal; questions raised regarding the safety and security of Pakistan's nuclear weapons and their possible takeover by 'Islamic' radicals; and the 'de-hyphenation' of the nuclear relationship between Pakistan and India.
 
 Even as Pakistan's strategic interests, and its internal stability and
 cohesion, were eroded as a consequence of the US 'alliance', India's strategic
-position progressively improved. Apart from the closure of the Kashmiri
-militancy and opening of the Afghan avenue for subversion against Pakistan,
+position progressively improved. 
+
+Apart from the closure of the Kashmiri militancy and opening of the Afghan avenue for subversion against Pakistan,
 this period saw the crystallisation of the Indo-US 'strategic partnership',
 manifested in the Indo-US civilian nuclear agreement; US and Western offers
-of the most advanced military equipment and technologies to India, including
-304fighter aircraft, anti-ballistic missile systems, early warning, satellite and
-space capabilities, are all barred to Pakistan. This was done, under the banner
+of the most advanced military equipment and technologies to India, including fighter aircraft, anti-ballistic missile systems, early warning, satellite and space capabilities, are all barred to Pakistan. This was done, under the banner
 of 'de-hyphenating' US relations with Pakistan and India, without regard for
-the strategic consequences for Pakistan. Indeed, to rub salt in Pakistan's
-wounds, open declarations were made by US officials that Pakistan was not
+the strategic consequences for Pakistan. 
+
+To rub salt in Pakistan's wounds, open declarations were made by US officials that Pakistan was not
 eligible, deserving or capable of receiving the materials or access offered to
 India. US 'officials' and the Western media joined with the Indians to portray
 Pakistan as the 'epicentre' of terrorism and nuclear proliferation.
 
-Obviously, the domestic vulnerability and weakness of Pakistani leaders,
-and their almost complete dependence on the US for survival, made it possible
-for Washington and its allies to act so blatantly against Pakistan's vital national
-interests. This did not end with the change of government in 2008. On the
-contrary, US efforts to control Pakistan's security and domestic affairs visibly
-intensified, as evident from the conditionalities incorporated in the Kerry-Lugar
-Bill and the demand that Pakistan shift its military focus from deterring India to
-fighting the Taliban. Washington fully expected Pakistan's leadership to do its
-bidding.
 

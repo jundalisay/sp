@@ -15,25 +15,39 @@ Even today I get frightened when I remember that mood of Baba. All the way back 
 
 I straightaway went to Bindeshwariji's house and sitting in the small outside room began to ponder about what mistake that I had committed to make Baba angry. I thought and thought but could not locate the cause. 
 
-I sat in the room and pondered and mentally prayed to Baba, "Baba at any cost to me, kindly change this mood of Yours. 
+I mentally prayed to Baba:
 
-I did not come to Your shelter to see You in this mood." After this I mentally offered to Him one by one all the things and relations which I held dear in this world and at each offering continued to pray, “Baba, may You take all these and be pleased with me."
+{{< r a="Nagina" >}}
+Baba at any cost to me, kindly change this mood of Yours. I did not come to Your shelter to see You in this mood.
+{{< /r >}}
 
-During this process I remembered that I had adamantly requested Baba for the protection of my official position. I was so attached to my official position that I had
-even discarded Baba’s own recommendation to accept a demotion. 
 
-Now I said mentally "Baba You may take away this also if it please You; I shall feel gratified if you somehow feel pleased with me again." This was my last offering.
+After this I mentally offered to Him one by one all the things and relations which I held dear in this world and at each offering continued to pray:
+
+{{< r a="Nagina" >}}
+Baba, may You take all these and be pleased with me.
+{{< /r >}}
+
+During this process I remembered that I had adamantly requested Baba for the protection of my official position. I was so attached to my official position that I had even discarded Baba’s own recommendation to accept a demotion. 
+
+Now I said mentally:
+
+{{< r a="Nagina" >}}
+Baba You may take away this also if it please You; I shall feel gratified if you somehow feel pleased with me again.
+{{< /r >}}
+
+This was my last offering.
 
 Meanwhile the elder brother of Bindeshwariji came and enquired what I was doing sitting alone in that dark room? What is the time? I looked at my watch and told him that it was five o'clock. During winters in December even at five in the evening it starts growing dark. I was standing outside the room and talking to him, but my mind was dominated by Baba's angry mood.
 
-In the evening at seven I reached the railway quarter again. Before Baba arrived, the senior brother who stayed there told me that Baba is angry on the account
-of smoking in this house. I though that if this was the reason of Baba's anger, I shall
+In the evening at seven I reached the railway quarter again. Before Baba arrived, the senior brother who stayed there told me that Baba is angry on the account of smoking in this house. I though that if this was the reason of Baba's anger, I shall
 give up smoking from today itself. Since that day I have never smoked again.
 
-Baba came to the quarter and sat for a long time. Not to speak of talking to me, He did not even look at me. That day Baba did not go for His field walk. When He
-started from the quarter, we also followed Him.
+Baba came to the quarter and sat for a long time. Not to speak of talking to me, He did not even look at me. That day Baba did not go for His field walk. When He started from the quarter, we also followed Him.
 
-Summoning some courage I asked, “Baba, have I committed any mistake that
+Summoning some courage I asked:
+
+“Baba, have I committed any mistake that
 has made you angry with me?”
 
 Baba said:

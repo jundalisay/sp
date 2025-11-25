@@ -22,19 +22,19 @@ O Lord Enki, you know.
 
 
 {{< l a="Enki" >}}
-4 [To Ezekiel:] Prophesy on these bones, and say unto them, O you dry bones, hear the word of Enki. 
+<sup>4</sup> [To Ezekiel:] Prophesy on these bones, and say unto them, O you dry bones, hear the word of Enki. 
 
-5 [To the bones] Behold, I will cause breath to enter into you, and you shall live.
+<sup>5</sup> [To the bones] Behold, I will cause breath to enter into you, and you shall live.
 
-6 I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and you shall live. You shall know that I am the Lord. 
+<sup>6</sup> I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and you shall live. You shall know that I am the Lord. 
 {{< /l >}}
 
 
-7 So I prophesied as I was commanded. As I prophesied, there was a noise, and a shaking.
+<sup>7</sup> So I prophesied as I was commanded. As I prophesied, there was a noise, and a shaking.
 
 The bones came together, bone to his bone.
 
-8 The sinews and the flesh came up upon them, and the skin covered them above: but [there was ]no breath in them.
+<sup>8</sup> The sinews and the flesh came up upon them, and the skin covered them above: but [there was ]no breath in them.
 
 {{< l a="Enki" >}}
 9 [To Ezekiel] Prophesy to the wind, and say: Come from the 4 winds, O breath, and breathe upon these slain, that they may live. 
@@ -79,5 +79,3 @@ They shall become one in your hand.
 
 27 My tabernacle also  shall be with them: yea, I will be their God, and they shall be my people. 28 The heathen shall know that I Enki do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.
 {{< /l >}}
-
-

@@ -114,3 +114,4 @@ organized according to these principles.
 A State which, in an epoch of racial adulteration, devotes itself to the duty of preserving the best elements of its racial stock must one day become ruler of the Earth.
 
 The adherents of our Movements must always remember this, whenever they may have misgivings lest the greatness of the sacrifices demanded of them may not be justified by the possibilities of success. 
+

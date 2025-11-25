@@ -2,7 +2,7 @@
 title: "Signs of Knowledge"
 c: "indigo"
 heading: "Chapter 20e"
-weight: 84
+weight: 187
 description: "There are two signs of knowledge: buddhi and grit"
 ---
 

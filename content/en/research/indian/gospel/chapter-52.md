@@ -1,11 +1,10 @@
 ---
-title: "AFTER THE PASSING AWAY"
+title: "After The Passing Away"
 c: "indigo"
 heading: "Chapter 52"
-weight: 210
+weight: 640
 description: ""
 ---
-
 
 
 SRI RAMAKRISHNA passed away on Sunday, August 15, 1886, plunging his devotees and disciples into a sea of grief. They were like men in a shipwreck. But a strong bond of love held them together, and they found assurance and courage in each other's company. They could not enjoy the friendship of worldly people and would talk only of
@@ -14,20 +13,17 @@ their Master.
 "Shall we not behold him again?" -this was the one theme of their thought and the one dream of their sleep. Alone, they wept for him; walking in the streets of
 Calcutta, they were engrossed in the thought of him. 
 
-The Master had once said to M., "It becomes difficult for me to give up the body, when I realize that after my death you will
-wander about weeping for me." 
+The Master had once said to M., "It becomes difficult for me to give up the body, when I realize that after my death you will wander about weeping for me." 
 
-Some of them thought: "He is no longer in this world. How surprising that we still enjoy living! We could give up our bodies if we liked, but still
-we do not." Time and again Sri Ramakrishna had told them that God reveals Himself to
+Some of them thought: "He is no longer in this world. How surprising that we still enjoy living! We could give up our bodies if we liked, but still we do not." Time and again Sri Ramakrishna had told them that God reveals Himself to
 His devotees if they yearn for Him and call on Him with whole-souled devotion. He had
 assured them that God listens to the prayer of a sincere heart.
 
-The young unmarried disciples of the Master, who belonged to his inner circle, had attended on him day and night at the Cossipore garden house. After his passing away
-most of them returned to their families against their own wills. They had not yet formally
+The young unmarried disciples of the Master, who belonged to his inner circle, had attended on him day and night at the Cossipore garden house. After his passing away most of them returned to their families against their own wills. They had not yet formally
 renounced the world. For a short while they kept their family names. 
 
-But Sri Ramakrishna had made them renounce the world mentally. He himself had initiated
-several of them into the monastic life, giving them the ochre cloths of sannyāsis.
+But Sri Ramakrishna had made them renounce the world mentally. He himself had initiated several of them into the monastic life, giving them the ochre cloths of sannyāsis.
+
 
 ## Baranagore Monastery
 
@@ -86,18 +82,14 @@ our families?"
 hall. Narendra supervised the household. He was the leader of the monastery. 
 
 He would often tell his brother disciples, "The selfless actions enjoined in the Gitā are worship,
-japa, meditation, and so on, and not worldly duties." The brothers at the Math dependedon him for their spiritual inspiration. He said to them, "We must practise
-sādhanā ;
+japa, meditation, and so on, and not worldly duties." The brothers at the Math dependedon him for their spiritual inspiration. He said to them, "We must practise sādhanā ;
 otherwise we shall not be able to realize God."
+
 He and his brother disciples, filled with an ascetic spirit, devoted themselves day and
 night to the practice of spiritual discipline. Their one goal in life was the realization of
 God. 
 
-They followed to their hearts' content the injunctions prescribed in the Vedas, Puranas, and Tantras for an ascetic life. They spent their time in japa and meditation and
-study of the scriptures. Whenever they would fail to experience the Divine Presence, they would feel as if they were on the rack. They would practise austerity, sometimes
+They followed to their hearts' content the injunctions prescribed in the Vedas, Puranas, and Tantras for an ascetic life. They spent their time in japa and meditation and study of the scriptures. Whenever they would fail to experience the Divine Presence, they would feel as if they were on the rack. They would practise austerity, sometimes
 alone under trees, sometimes in a cremation ground, sometimes on the bank of the Ganges.
 
-Again, sometimes they would spend the entire day in the meditation room of the monastery in japa and contemplation; sometimes they would gather to sing and
-dance in a rapture of delight. All of them, and Narendra particularly, were consumed
-with the desire to see God. Now and then they would say to each other, "Shall we not
-starve ourselves to death to see God?"
+Again, sometimes they would spend the entire day in the meditation room of the monastery in japa and contemplation; sometimes they would gather to sing and dance in a rapture of delight. All of them, and Narendra particularly, were consumed with the desire to see God. Now and then they would say to each other, "Shall we not starve ourselves to death to see God?"

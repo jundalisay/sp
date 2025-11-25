@@ -11,9 +11,9 @@ icon: "Rene Descartes"
 ---
 
 
-<!-- ## [4.001] Maintaining the false hypothesis we have used before to explain the true natures of things.
+<!-- ## 1. Maintaining the false hypothesis we have used before to explain the true natures of things.
 
-Although I am unwilling to believe that the bodies of this visible world were ever generated in the manner described above, as I have sufficiently forewarned, I must still retain the same hypothesis to explain those things that appear above the Earth. Ultimately, if, as I hope to clearly demonstrate, the causes of all natural things can be given in this way, and not in any other, it may rightfully be concluded that their nature is none other than if they were generated in such a manner. -->
+Although I am unwilling to believe that the bodies of this visible world were ever generated in the manner described above, as I have sufficiently forewarned, I must still retain the same hypothesis to explain those things that appear above the Earth. Ultimately, if, as I hope to clearly demonstrate, the causes of all natural things can be given in this way, and not in any other, it may rightfully be concluded that their nature is none other than if they were generated in such a manner.  -->
 
 
 

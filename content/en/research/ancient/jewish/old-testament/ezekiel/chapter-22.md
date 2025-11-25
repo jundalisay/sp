@@ -17,63 +17,63 @@ c: "firebrick"
 
 You have caused your days to draw near, and art come [even] unto your years. So I have made you a reproach unto the heathen, and a mocking to all countries. 
 
-5 Those that are near and far from you shall mock you, [which art] infamous [and] much vexed. 
+<sup>5</sup> Those that are near and far from you shall mock you, [which art] infamous [and] much vexed. 
 
-6 The princes of Israel, every one were in you to their power to shed blood.
+<sup>6</sup> The princes of Israel, every one were in you to their power to shed blood.
 
-7 In you have they set light by father and mother: in the midst of you have they dealt by oppression with the stranger: in you have they vexed the fatherless and the widow. 
+<sup>7</sup> In you have they set light by father and mother: in the midst of you have they dealt by oppression with the stranger: in you have they vexed the fatherless and the widow. 
 
-8} You have despised my holy things, and hast profaned my sabbaths. 
+<sup>8</sup> You have despised my holy things, and hast profaned my sabbaths. 
 
-9} In you are men that carry tales to shed blood: and in you they eat upon the mountains: in the midst of you they commit lewdness. 
+<sup>9</sup> In you are men that carry tales to shed blood: and in you they eat upon the mountains: in the midst of you they commit lewdness. 
 
-10} In you have they discovered their fathers’ nakedness: in you have they humbled her that was set apart for pollution.
+<sup>10</sup> In you have they discovered their fathers’ nakedness: in you have they humbled her that was set apart for pollution.
 
-11} One hath committed abomination with his neighbour’s wife; and another hath lewdly defiled his daughter in law; and another in you hath humbled his sister, his father’s daughter. 
+<sup>11</sup> One hath committed abomination with his neighbour’s wife; and another hath lewdly defiled his daughter in law; and another in you hath humbled his sister, his father’s daughter. 
 
-12} In you have they taken gifts to shed blood; thou hast taken usury and increase, and you hast greedily gained of your neighbours by extortion, and hast forgotten me, saith Enki.
+<sup>12</sup> In you have they taken gifts to shed blood; thou hast taken usury and increase, and you hast greedily gained of your neighbours by extortion, and hast forgotten me, saith Enki.
 
-13} Behold, therefore I have smitten mine hand at your dishonest gain which you hast made, and at your blood which hath been in the midst of you. 
+<sup>13</sup> Behold, therefore I have smitten mine hand at your dishonest gain which you hast made, and at your blood which hath been in the midst of you. 
 
-14} Can thine heart endure, or can thine hands be strong, in the days that I shall deal with you? I Enki have spoken [it,] and will do [it. ]
+<sup>14</sup> Can thine heart endure, or can thine hands be strong, in the days that I shall deal with you? I Enki have spoken [it,] and will do [it. ]
 
-15} I will scatter you among the heathen, and disperse you in the countries, and will consume your filthiness out of you. 
+<sup>15</sup> I will scatter you among the heathen, and disperse you in the countries, and will consume your filthiness out of you. 
 
-16 You shalt take thine inheritance in yourself in the sight of the heathen, and thou shalt know that I am the Lord. 
+<sup>16</sup> You shalt take thine inheritance in yourself in the sight of the heathen, and thou shalt know that I am the Lord. 
 {{< /l >}}
 
-
-17 The word of Enki came unto me, saying:
-
+<sup>17</sup> The word of Enki came unto me, saying:
 
 {{< l a="Enki" >}}
-18 Son of man, the Israelites is to me become dross: all they [are] brass, and tin, and iron, and lead, in the midst of the furnace; they are [even] the dross of silver. 19} Therefore thus saith Enki; Because you are all become dross, behold, therefore I will gather you into the midst of Jerusalem.
+<sup>18</sup> Son of man, the Israelites is to me become dross: all they [are] brass, and tin, and iron, and lead, in the midst of the furnace; they are [even] the dross of silver.
 
-20} [As] they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt [it;] so will I gather [you] in mine anger and in my fury, and I will leave [you there,] and melt you. 21} Yea, I will gather you, and blow upon you in the fire of my wrath, and you shall be melted in the midst thereof. 
+<sup>19</sup> Therefore thus saith Enki; Because you are all become dross, behold, therefore I will gather you into the midst of Jerusalem.
 
-22 As silver is melted in the midst of the furnace, so shall you be melted in the midst thereof.
+<sup>20</sup> [As] they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt [it;] so will I gather [you] in mine anger and in my fury, and I will leave [you there,] and melt you. 
+
+<sup>21</sup> Yea, I will gather you, and blow upon you in the fire of my wrath, and you shall be melted in the midst thereof. 
+
+<sup>22</sup> As silver is melted in the midst of the furnace, so shall you be melted in the midst thereof.
 
 Ye shall know that I Enki have poured out my fury upon you.
 
-23-24 Son of man, say unto her, you are the land that is not cleansed, nor rained upon in the day of indignation. 
+<sup>23-24</sup> Son of man, say unto her, you are the land that is not cleansed, nor rained upon in the day of indignation. 
 
-25 There is a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls.
+<sup>25</sup> There is a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls.
 
 They have taken the treasure and precious things; they have made her many widows in the midst thereof. 
 
-26 Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed [difference] between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
+<sup>26</sup> Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed [difference] between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 
-27 Her princes in the midst thereof [are] like wolves ravening the prey, to shed blood, [and] to destroy souls, to get dishonest gain. 
+<sup>27</sup> Her princes in the midst thereof [are] like wolves ravening the prey, to shed blood, [and] to destroy souls, to get dishonest gain. 
 
-28 Her prophets have daubed them with untempered [morter,] seeing vanity, and divining lies unto them, saying, Thus saith Enki, when Enki hath not spoken.
+<sup>28</sup> Her prophets have daubed them with untempered [morter,] seeing vanity, and divining lies unto them, saying, Thus saith Enki, when Enki hath not spoken.
 
-29 The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy.
+<sup>29</sup> The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy.
 
 They have oppressed the stranger wrongfully. 
 
-30 I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none. 
+<sup>30</sup> I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none. 
 
-31 Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads.
+<sup>31</sup> Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads.
 {{< /l >}}
-
-

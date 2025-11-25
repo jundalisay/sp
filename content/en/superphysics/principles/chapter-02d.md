@@ -17,6 +17,18 @@ icon: "Juan"
 <!-- ## The Radiant Layer (Electromagnetism) -->
 
 
+System | Name
+--- | --- 
+Superphysics | Radiance, Fire
+Physics | Electromagnetism
+Greek | Fire
+Indian | Tejas
+Chinese | 火
+Japanese | 火
+Vietnamese | Hỏa
+
+
+
 This element handles information and 'energy'.
 
 This most commonly is seen as light and felt as heat. 

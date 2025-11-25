@@ -237,3 +237,4 @@ We should help them to proceed from these things to an understanding of the high
 {{< cite >}}
 "Be Concerned with the Well-Being of the Masses, Pay Attention to Methods of Work" (January 27, 1934), Selected Works, Vol. I, p. 149.*
 {{< /cite >}}
+

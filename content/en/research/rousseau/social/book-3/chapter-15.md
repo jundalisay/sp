@@ -1,9 +1,9 @@
 ---
 heading: Chapter 15
-title: "DEPUTIES OR REPRESENTATIVES"
+title: "Deputies Or Representatives"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 54
 date: 2025-01-11
 ---
 

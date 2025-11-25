@@ -1,62 +1,75 @@
 ---
-heading: "Chapter 4d"
-title: "Reality and Relational Collapse SOA3"
-# date: 2020-01-01
-image: "/photos/objects/rubik.jpg"
-description: "The Probability Layer is only theoretical"
+heading: "Chapter 4c"
+title: "The Creation of Matter and Planets"
+# date: 2020-01-31
+image: "/photos/physics/mars.jpg"
+description: "According to Physics, the universe was created through a Big Bang of a material Singularity. This is false."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 26
+weight: 22
 icon: "Juan"
 ---
 
 
 
-The uniqueness of identities creates so many relations to other identities. These are potentially infinite since all identities are changing. 
+### The Creation of Matter
 
-The similar identities create a relation that is within their identity space. 
-
-This network of identities are within a perception space. This network is called a reality as a collapse of probabilistic waves of identity. 
-
-<!-- ## Probability
-
-The Probability Layer is above and covers the aethereal layer. This means it is above existence  and is only theoretical.  We can also call this pre-existence that binds existence. -->
+Matter is created inside a steller vortex and is spread to the galaxy through dissociation which is either instant or gradual.
 
 
-{{< q a="Henri Poincare" c="" >}}
-Predicted facts can only be probable. Every time the physicist reasons by induction, he consciously requires the calculus of probabilities. That is why I examine what this calculus is worth, and what dependence we may place on it.
+{{< q a="PR Sarkar" c="Idea and Ideology" >}}
+Structural Dissociation happens when celestial bodies lose vital energy. This can be instantaneous or gradual.
 {{< /q >}}
 
 
-<!-- This layer is static and is driven by the desire of either the Creator or the createe / creation. -->
+1. Instant
 
-When describing movement, Rene Descartes uses the word 'tend to'. This is because movement is inherently probabilistic. This is why Cartesian Physics has Quantum Mechanics built in.  
+This happens when the Negative Force keeps on imposing itself on a lifeless, matter-filled, heavenly body. This results in a supernova.
 
-This is different from Newton or Einstein who formulated their laws of movement emhasizing total predictability. For example, Newton has a concept of absolute space. 
-
-In Cartesian-Spinozan Physics, everything is relative and nothing is absolute, other than the Absolute Entity. 
+A living heavenly body is one whose core is not yet filled with matter, but rather has the convertible, radiant, spatial, and aethereal layers still active.   
 
 
-{{< q a="Montesquieu" c="Spirit of the Laws, Book 1" >}}
-Intelligent beings might have laws of their own making. But they also have some which they never made. Before there were intelligent beings, they were a possibility.
+2. Gradual 
+
+This happens when the Negative Force slowly creeps into a living celestial body through its spaces or qosts. This manifests as a nebula.
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3, Article 116" >}}
+The star will easily be removed by a neighboring star as soon as it becomes covered with several spots. All the air-aether near the star will be added to the other star and will follow its motion. The remaining air-aether will migrate to other neighboring vortices.
 {{< /q >}}
 
 
-
-This Layer will be explained in Superphysics in order to reduce the content of Material Superphysics. 
-
-However, we can discuss its material aspects here, covered by Quantum Mechanics, specifically the Heisenberg Uncertainty Principle and the Schrodinger Equation.   
-
-<!-- > *This leads to the [Socratic Theory of Forms](/research/socrates/phaedo/chapter-8), which leads to Essences -->
+Both instantaneous and gradual dissociation converts the celestial body back into the component 5 layers.
+- Instant dissociation converts matter back to light
+- Gradual dissociation converts light into spacetie
 
 
-### The Schrodinger Equation
-
-Coming soon!
 
 
-### The Heisenberg Uncertainty Principle 
+### The Creation of Planets
 
-Coming soon!
+In Cartesian Physics, planets are stellar vortices that failed to become stars. 
 
+A stellar system being born has many vortices around a central vortex. The weaker ones get absorbed into the stronger ones. This leads to the following known outcomes:
+
+- 2 strong vortices as binary stars, and weaker vortices as planets. This is the most common.
+- 1 strong vortex as a star, and many weaker vortices.
+- 1 strong vortex alone. This is rare and is seen in Vega.
+
+The dynamics of planets such as plate tectonics will be discussed in the Material Layer.
+
+
+
+### The Creation of Life
+
+The dissociation of stellar vortices spreads both organic and inorganic matter within a galaxy. 
+
+Organic matter then becomes the vehicle for life when combined with the Positive Force emitted by a star. This is evidenced on earth by the patterns of the spread of certain viruses that follow the patterns of starlight.
+
+The evolution of life will be discussed by Bio Superphysics.
+
+<!-- - Phase 3: The electromagnetic layer turns the clumped energy into electrons or "quantum of electricity" (qoe) and photons "quantum of light" (qol) 
+- Phase 4: The weak force of the Convertible layer turn the electrons into neutrons "quantum of radioactivity" (qor)
+- Phase 5: The strong force turn neutrons into protons as quarks (quantum of matter or qom) via gluons --> 
+
+<!-- These lead to the first shining stars. The protons in them then make up the basic elements which are then spread throughout space through the explosion of the qost, as a supernova. The exploded matter and unconverted energy are then re-clumped in the same qost to repeat the process until all the energy is converted into matter.  -->

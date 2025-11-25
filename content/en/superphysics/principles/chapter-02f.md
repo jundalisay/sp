@@ -3,18 +3,26 @@ heading: "Chapter 2f"
 title: "The Earth Element"
 date: 2024-06-22
 image: "/photos/physics/neutrino.jpg"
-description: "The 8 Densities are based on the aether "
+description: "The Earth Element is the crudest one"
 weight: 68
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
-icontext: Superphysics icon
+icon: "Juan"
 ---
 
 
 
-<!-- ## The Material Layer -->
+System | Name
+--- | --- 
+Superphysics | Matter, Earth
+Physics | Strong Force
+Greek | Earth
+Indian | Prithvi
+Chinese | 金
+Japanese | 地
+Vietnamese | Kim
+
 
 This is the crudest and most obvious layer, just as the aether is the subtlest and most mysterious layer. 
 

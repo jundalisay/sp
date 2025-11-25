@@ -2,7 +2,7 @@
 title: "The nature of jnanis and vijnanis"
 c: "indigo"
 heading: "Chapter 25b"
-weight: 104
+weight: 218
 description: ""
 ---
 

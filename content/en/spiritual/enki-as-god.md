@@ -1,13 +1,12 @@
 ---
 title: "Enki as the Theist God"
-# heading: "My Meditation Journey Part 1"
 date: 2024-10-18
 image: "/graphics/history/moses.jpg"
 description: "After Enki led the Jews out of Egypt, he gave Moses a lot of laws up on Mount Sina"
 weight: 4
-authors:
+writer:
   name: Juan
-  link: https://www.linkedin.com/in/jundalisay/
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
@@ -16,9 +15,9 @@ After Enki led the Jews out of Egypt, he gave Moses a lot of laws up on Mount Si
 
 This is because Enki was totally insecure and jealous after losing command of Earth to Enlil.  
 
-{{< box >}}
-In the ancient Egyptian religion, Enlil is Ra while Enki is Sobek
-{{< /box >}}
+In the ancient Egyptian religion:
+- Enlil is Ra
+- Enki is Sobek
 
 
 To get legitimacy for these laws, Enki demonstrated his power to the Israelites through cloud, lightning, thunder, trumpets, and earthquakes (Exodus 19). 

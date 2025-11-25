@@ -7,6 +7,7 @@ writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 
@@ -142,11 +143,9 @@ From 1792 to 1814 the French Revolutionary Armies overran Germany. In 1800 Bavar
 
 In 1805 the Bavarian Elector was made King of Bavaria by Napoleon and stipulated to back up Napoleon in all his wars with a force of 30,000 men. Thus Bavaria became the absolute vassal of the French. This was 'TheTime of Germany's Deepest Humiliation', Which is referred to again and again by Hitler.
 
-In 1806 a pamphlet entitled 'Germany's Deepest Humiliation' was published in South Germany. Amnng those who helped to circulate the pamphlet was the Nürnberg bookseller, Johannes Philipp Palm. He was denounced to the French by a Bavarian
-police agent. 
+In 1806 a pamphlet entitled 'Germany's Deepest Humiliation' was published in South Germany. Amnng those who helped to circulate the pamphlet was the Nürnberg bookseller, Johannes Philipp Palm. He was denounced to the French by a Bavarian police agent. 
 
-At his trial he refused to disclose thename of the author. By Napoleon's orders, he was shot at Braunau-on-the-Innon August 26th, 1806. A monument erected to him on the site of the executionwas one of the first public objects that made an
-impression on Hitler asa little boy.
+At his trial he refused to disclose thename of the author. By Napoleon's orders, he was shot at Braunau-on-the-Innon August 26th, 1806. A monument erected to him on the site of the executionwas one of the first public objects that made an impression on Hitler asa little boy.
 
 Leo Schlageter's case was in many respects parallel to that of Johannes Palm. Schlageter was a German theological student who volunteered for service in 1914. He became an artillery officer and won the Iron Cross of both classes. When the French occupied the Ruhr in 1923 Schlageter helped to organize the passive resistance on the German side.
 He and his companions blew up a railway bridge for the purpose of making the
@@ -161,10 +160,9 @@ Schlageter refused to disclose the identity of those who issued the order to blo
 at that time German Minister of the Interior. It is said that representations were made,
 to himon Schlageter's behalf and that he refused to interfere.
 
-Schlageter has become the chief martyr of the German resistancc to the French occupation of the Ruhr and also one of the great heroes of the National Socialist Movement. He had joined the Movement at a very early stage, his card of membership
-bearing the number 61.]
+Schlageter has become the chief martyr of the German resistancc to the French occupation of the Ruhr and also one of the great heroes of the National Socialist Movement. He had joined the Movement at a very early stage, his card of membership bearing the number 61.]
 
-[Note 2. Non-classical secondary school. The Lyceum and GYMNASIUM were classical
+<!-- [Note 2. Non-classical secondary school. The Lyceum and GYMNASIUM were classical
 or semi-classical secondary schools.]
 [Note 3. See Translator's Introduction.]
 [Note 4. When Francis II had laid down his title as Emperor of the Holy Roman Empireof the German Nation, which he did at the command of Napoleon, the Crownand Mace, as the Imperial Insignia, were kept in Vienna. After the German
@@ -172,3 +170,4 @@ Empire was refounded, in 1871, under William I, there were many demands tohave t
 Insignia transferred to Berlin. But these went unheeded. Hitler had them brought to
 Germany after the Austrian Anschluss and displayed at Nuremberg during the Party
 Congress in September 1938.] 
+ -->

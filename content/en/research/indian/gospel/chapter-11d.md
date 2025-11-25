@@ -2,7 +2,7 @@
 title: "Ram, Kedar Chatterji, and Tarak"
 c: "indigo"
 heading: "Chapter 11d"
-weight: 49
+weight: 72
 description: "Ram, Kedar Chatterji, and Tarak arrived from Calcutta with flowers and sweets. Kedar was about 50 years old"
 ---
 
@@ -133,3 +133,4 @@ As is a man's meditation, so is his feeling of love;
 As is a man's feeling of love, so is his gain;
 And faith is the root of all.
 If one has faith one has nothing to fear."
+

@@ -1,5 +1,5 @@
 ---
-title: "BABA’S CHILDHOOD AND FAMILY LIFE"
+title: "Baba’S Childhood And Family Life"
 heading: Chapter 25
 weight: 76
 description: "His family and his father had lot of goodwill and fame in Jamalpur"

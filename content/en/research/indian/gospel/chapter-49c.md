@@ -1,10 +1,11 @@
 ---
 title: "Devotees' Detachment From The World"
 c: "indigo"
-heading: "Chapter 49"
-weight: 194
+heading: "Chapter 49c"
+weight: 604
 description: ""
 ---
+
 
 Tuesday, January 5, 1886
 
@@ -163,7 +164,6 @@ The Holy Mother busied herself day and night in the Master's service. Among the 
 some of them occasionally spent the night there.
 
 That day Sri Ramakrishna was feeling very ill. At midnight the moonlight flooded the garden, but it could wake no response in the devotees' hearts. They were drowned in a sea of grief. They felt that they were living in a beautiful city besieged by a hostile army.
-Perfect silence reigned everywhere. Nature was still, except for the gentle rustling of the
-leaves at the touch of the south wind. Sri Ramakrishna lay awake. One or two devotees
-sat near him in silence. At times he seemed to doze.
+
+Perfect silence reigned everywhere. Nature was still, except for the gentle rustling of the leaves at the touch of the south wind. Sri Ramakrishna lay awake. One or two devotees sat near him in silence. At times he seemed to doze.
 

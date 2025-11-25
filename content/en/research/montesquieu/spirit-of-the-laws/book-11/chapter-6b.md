@@ -1,6 +1,6 @@
 ---
 title: "The Legislative"
-heading: "Chapter 6"
+heading: "Chapter 6b"
 # date: 2015-09-30
 weight: 6
 c: "seagreen"

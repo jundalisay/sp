@@ -1,7 +1,8 @@
 ---
 heading: Ezekiel 18
-title: "The Sinner Versus the Just"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+title: The Fathers have Eaten Sour Grapes
+# title: "The Sinner Versus the Just"
+description: "The fathers have eaten sour grapes, and the children’s teeth are set on edge"
 weight: 44
 c: "firebrick"
 ---
@@ -13,7 +14,7 @@ c: "firebrick"
 
 <sup>4</sup> All souls are mine -- the soul of the father, the son. The soul that sins shall die.
 
-<sup>5</sup> But a man shall surely live if he
+<sup>5</sup> But a man shall surely live if he:
 - is just, does which is lawful and right
 - <sup>6</sup> has not eaten on the mountains
 - has not lifted up his eyes to the idols of the Israelites
@@ -24,57 +25,106 @@ c: "firebrick"
 - has spoiled none by violence
 - has given his bread to the hungry
 - has covered the naked with a garment
-- has <sup>8</sup> not committed usury, neither hath taken any increase, [that] hath withdrawn his hand from iniquity, hath executed true judgment between man and man
-- <sup>9</sup> Hath walked in my statutes, and hath kept my judgments, to deal truly
+- has <sup>8</sup> not committed usury, neither hath taken any increase, [that] haswithdrawn his hand from iniquity, has executed true judgment between man and man
+- <sup>9</sup> has walked in my statutes
+- has kept my judgments, to deal truly
 
-<sup>10</sup> If he beget a son that is a robber, a shedder of blood, and does similar things, <sup>11</sup> but does not do any of those duties, but even hath eaten upon the mountains, and defiled his neighbour’s wife, 12} Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination, 13} Hath given forth upon usury, and hath taken increase: shall he then live? 
+<sup>10</sup> He shall not live if he: 
+- begets a son that is a robber, a shedder of blood, and does similar things
+- <sup>11</sup> does not do any of those duties
+- has eaten upon the mountains
+- has defiled his neighbour’s wife
+- <sup>12</sup> has oppressed the poor
+- has spoiled by violence
+- has not restored the pledge
+- has lifted up his eyes to the idols
+- has committed abomination
+- <sup>13</sup> has given forth upon usury, and hath taken increase: 
 
-he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.
+He shall not live if he has done all these abominations.
 
-14 If he beget a son, that seeth all his father’s sins which he hath done, and considereth, and doeth not such like, 15} [That] hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the Israelites, hath not defiled his neighbour’s wife, 16} Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, [but] hath given his bread to the hungry, and hath covered the naked with a garment, 17} [That] hath taken off his hand from the poor, [that] hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live. 18} [As for] his father, because he cruelly oppressed, spoiled his brother by violence, and did [that] which [is] not good among his people, lo, even he shall die in his iniquity.
+He shall surely die. His blood shall be upon him.
+
+<sup>14</sup> Assume that he begets a son that sees all his father’s sins but does not do them himself. 
+
+The son shall surely live if he:
+- <sup>15</sup> has not eaten upon the mountains
+- has not lifted up his eyes to the idols of the Israelites
+- has not defiled his neighbour’s wife
+- <sup>16</sup> has not oppressed anyone
+- has not withholden the pledge
+- has not spoiled by violence
+- has given his bread to the hungry
+- has covered the naked with a garment
+- <sup>17</sup> has taken off his hand from the poor
+- has not received usury nor increase
+- has executed my judgments
+- has walked in my statutes
+
+He shall not die for the iniquity of his father.
+
+<sup>18</sup> His father:
+- cruelly oppressed
+- spoiled his brother by violence
+- did [that] which [is] not good among his people
+
+Even he shall die in his iniquity.
 
 
-<sup>19</sup> Yet say ye, Why?
+<sup>19</sup> Yet you say: Why?
 
 Does not the son bear the iniquity of the father?
 
-When the son hath done that which is lawful and right, [and] hath kept all my statutes, and hath done them, he shall surely live. 
+The son shall surely live if he:
+- has done that which is lawful and right
+- has kept and has done all my statutes
 
-<sup>20</sup> The soul that sinneth, it shall die.
 
-The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.
+<sup>20</sup> The soul that sinned shall die.
 
-<sup>21</sup> But if the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which
-is lawful and right, he shall surely live, he shall not die.
+The son shall not bear the iniquity of the father. Neither shall the father bear the iniquity of the son.
+- The righteousness of the righteous shall be upon him. 
+- The wickedness of the wicked shall be upon him.
 
-<sup>22</sup> All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that
-he hath done he shall live.
 
-<sup>23</sup> Have I any pleasure at all that the wicked should die? saith Enki: [and]
-not that he should return from his ways, and live?
+<sup>21</sup> But the wicked shall surely live and not die if he:
+- turns from all his sins
+- keep all my statutes
+- does that which is lawful and right
 
-<sup>24</sup> But when the righteous turneth away from his righteousness, and committeth iniquity, [and] doeth according to all the abominations that the wicked [man] doeth, shall he live? 
+
+<sup>22</sup> All his transgressions that he has committed, they shall not be mentioned unto him.
+
+He shall live in his righteousness that he has done.
+
+
+<sup>23</sup> Do I take pleasure in seeing the wicked die? saith Enki: and not that he should return from his ways, and live?
+
+<sup>24</sup> But when the righteous turns away from his righteousness, and commits iniquity, and does according to all the abominations that the wicked man does, shall he live? 
 
 All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die.
 
-<sup>25</sup> Yet you say, The way of the Lord is not equal. Is not my way equal? are not
-your ways unequal?
+<sup>25</sup> Yet you say, The way of the Lord is not equal. Is not my way equal? are not your ways unequal?
 
 
-<sup>26</sup> When a righteous [man] turneth away from his righteousness, and committeth
-iniquity, and dieth in them; for his iniquity that he hath done shall he die. 27} Again, when the wicked [man] turneth
-away from his wickedness that he hath committed, and doeth that which is lawful and right, he shall save his soul
-alive. 
+<sup>26</sup> When a righteous man shall die if he:
+- turns away from his righteousness
+- commits iniquity and dies in them
 
-<sup>28</sup> Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die. 29} Yet saith the house of Israel, The way of the Lord is not equal. 
+<!-- His iniquity that he hath done shall he die.  -->
+
+<sup>27</sup> When the wicked man turns away from his wickedness and does that which is lawful and right, he shall save his soul alive. 
+
+<sup>28</sup> Because he considers, and turns away from all his transgressions that he has committed, he shall surely live, he shall not die.
+
+<sup>29</sup> Yet said the house of Israel, The way of the Lord is not equal. 
 
 O Israelites, are not my ways equal? are not your ways unequal?
 
-<sup>30</sup> Therefore I will judge you, O Israelites, every one
-according to his ways, saith Enki. Repent, and turn [yourselves] from all your transgressions; so iniquity
-shall not be your ruin.
+<sup>30</sup> Therefore I will judge you, O Israelites, every one according to his ways, saith Enki. 
 
-<sup>31</sup> Cast away from you all your transgressions, whereby you have transgressed; and make you a new heart 
+Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.
 
-and a new spirit: for why will you die, O Israelites? 32} For I have no pleasure in the death of him that
-dieth, saith Enki: wherefore turn [yourselves,] and live ye.
+<sup>31</sup> Cast away from you all your transgressions, whereby you have transgressed; and make you a new heart and a new spirit: for why will you die, O Israelites? 
+
+<sup>32</sup> For I have no pleasure in the death of him that died, saith Enki: wherefore turn yourselves and live!

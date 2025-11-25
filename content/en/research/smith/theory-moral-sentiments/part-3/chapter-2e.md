@@ -1,9 +1,10 @@
 ---
-title: "Praise and Blame Simplified"
-heading: "Chapter 2d"
+title: "Praise and Blame"
+heading: "Chapter 2e"
 description: "Praise and blame actually express praiseworthiness and blameworthiness"
 date: 2015-09-22
 c: "indigo"
+weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -55,6 +56,7 @@ I shall hereafter give an account of some of their systems but not stop to exami
 In other words, unless they have actually obtained that praise which they think due to the one and to the other.
 
 In this respect, however, people differ considerably from one another.
+
 Some seem indifferent about the praise when they are perfectly satisfied that they have attained the praiseworthiness.
 Others appear much less anxious about the praiseworthiness than about the praise.
  
@@ -62,6 +64,7 @@ Others appear much less anxious about the praiseworthiness than about the praise
 {{< s v="36" >}} No man can be tolerably satisfied with having avoided everything blameworthy in his conduct, unless he has also avoided the blame.
 
 A wise man may frequently neglect praise even when he has best deserved it.
+
 In serious matters, he will most carefully regulate his conduct to avoid blame-worthiness and every probable imputation of blame.
 
 He will never avoid blame by: 
@@ -70,10 +73,13 @@ He will never avoid blame by:
 - neglecting any opportunity of doing anything he judges to be praise-worthy.
 
 But he will most anxiously and carefully avoid it.
+
 To show much anxiety about praise, even for praiseworthy actions, is seldom a mark of great wisdom.
+
 It is generally a mark of some weakness.
 
 But there may be no weakness in being anxious to avoid blame or reproach.
+
 There frequently is the most praise-worthy prudence in doing so.
 
 
@@ -87,7 +93,9 @@ However, this inconsistency is founded in the unalterable principles of human na
 - be hurt when they disapprove of it.
 
 He has made man the immediate judge of mankind.
+
 He created man after his own image.
+
 He appointed man as his representative on earth to superintend his brethren's behaviour.
 
 They are taught by nature to: 

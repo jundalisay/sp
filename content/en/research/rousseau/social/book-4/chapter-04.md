@@ -1,14 +1,13 @@
 ---
 heading: Chapter 4
-title: "We Must Always Go Back To A First Convention"
+title: "The Roman Comitia"
 description: ""
 c: "firebrick"
-weight: 4
+weight: 6
 date: 2025-01-11
 ---
 
 
-### THE ROMAN COMITIA
 
 We do not have well-certified records of the first period of Rome's existence.
 

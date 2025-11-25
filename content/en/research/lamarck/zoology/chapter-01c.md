@@ -4,10 +4,9 @@ heading: Chapter 1b
 description: This is the main divisions which initially divide a class.
 c: "deeppink"
 date: 2025-09-16
+icon: Lamarck
 weight: 7
 ---
-
-
 
 
 ## The Genus, Genera
@@ -81,7 +80,11 @@ To reach a point where we could gain and keep using all these natural things wit
 
 "This part of the work of naturalists is the one which is the most advanced. For good reason, in approximately the past century and a half, we have made immense efforts to improve the work because it helped us to understand what was newly observed and to remember what we had already learned and because it had to fix our knowledge of things whose properties are or will be then be recognized as useful to us.
 
-"But the naturalists leaned too heavily on the use of all these ideas about the lines of separation which they were able to get to divide up the general series, whether of animals or plants. They turned their attention almost exclusively to this sort of work, without considering it from a realistic point of view and without thinking of listening to each other, that is, without establishing first convenient rules to limit the range of each part of this large enterprise and to establish the principles for each method of determining things. Thus, a number of abuses were introduced, so that each one changed arbitrarily the criteria for the formation of classes, orders, and genera, and continually published different systems of classification. 
+"But the naturalists leaned too heavily on the use of all these ideas about the lines of separation which they were able to get to divide up the general series, whether of animals or plants.
+
+They turned their attention almost exclusively to this sort of work, without considering it from a realistic point of view and without thinking of listening to each other, that is, without establishing first convenient rules to limit the range of each part of this large enterprise and to establish the principles for each method of determining things. 
+
+Thus, a number of abuses were introduced, so that each one changed arbitrarily the criteria for the formation of classes, orders, and genera, and continually published different systems of classification. 
 
 Hence, the genera underwent constant changes without limits, and the productions of nature, as a consequence of this poorly thought out process, continually change their names.
 

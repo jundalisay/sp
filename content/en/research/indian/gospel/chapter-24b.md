@@ -2,7 +2,7 @@
 title: "Three Yogas "
 c: "indigo"
 heading: "Chapter 24b"
-weight: 101
+weight: 214
 description: ""
 ---
 
@@ -179,11 +179,8 @@ open the door at once. The hermit, in a fit of anger, began to curse her.
 The chaste woman answered from the inner apartments: 'I am not your crow. Wait a few minutes, sir. After finishing my service to my husband I shall give you my attention.' The hermit was very much surprised to find that this simple woman was aware of his having burnt
 the crow to ashes. 
 
-He wanted her to give him spiritual instruction. At her bidding he went to the 'pious hunter' at Benares. This hunter sold meat, but he also served his
-parents day and night as embodiments of God. The hermit said to himself in utter
-amazement: 'Why, he is a butcher and a worldly man! How can he give me the
-509Knowledge of Brahman?' But the hunter was a knower of Brahman and had acquired
-divine knowledge through the performance of his worldly duties. The hermit was
+He wanted her to give him spiritual instruction. At her bidding he went to the 'pious hunter' at Benares. This hunter sold meat, but he also served his parents day and night as embodiments of God. The hermit said to himself in utter
+amazement: 'Why, he is a butcher and a worldly man! How can he give me the Knowledge of Brahman?' But the hunter was a knower of Brahman and had acquired divine knowledge through the performance of his worldly duties. The hermit was
 illumined by the instruction of the 'pious hunter'."
 
 The Master was about to take his leave. He was standing at the door of the next house, where Ishan's father-in-law lived. Ishan and the other devotees stood by the Master. 

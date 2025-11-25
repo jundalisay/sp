@@ -2,7 +2,7 @@
 title: "The Parable of the Calf"
 c: "indigo"
 heading: "Chapter 23b"
-weight: 98
+weight: 206
 description: "The calf says, 'Hamma! Hamma!' that is, 'I! I!'"
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "THE MASTER AT COSSIPORE"
+title: "The Master At Cossipore"
 c: "indigo"
 heading: "Chapter 49"
-weight: 194
+weight: 600
 description: ""
 ---
 
@@ -14,8 +14,9 @@ Master moved to Cossipore
 
 ON FRIDAY, DECEMBER 11, Sri Ramakrishna was moved to a beautiful house at Cossipore, a suburb of Calcutta. The house was situated in a garden covering about five acres of land and abounding in fruit trees and flowering plants. Here the final curtain fell on the Master's life.
 
-At Cossipore he set himself with redoubled energy to the completion of the work of spiritual ministration he had begun long before at Dakshineswar. Realizing that the end
-of' his physical life was approaching, he gave away his spiritual treasures without stint to one and all. He was like one of those fruit-sellers who bring their fruit to the marketplace, bargain at first about the prices, but then toward sunset, when the market is about to close, give away the fruit indiscriminately. Here his disciples saw the greatest manifestation of his spiritual powers.
+At Cossipore he set himself with redoubled energy to the completion of the work of spiritual ministration he had begun long before at Dakshineswar. Realizing that the end of' his physical life was approaching, he gave away his spiritual treasures without stint to one and all. 
+
+He was like one of those fruit-sellers who bring their fruit to the marketplace, bargain at first about the prices, but then toward sunset, when the market is about to close, give away the fruit indiscriminately. Here his disciples saw the greatest manifestation of his spiritual powers.
 
 
 ## Predicting his passing away
@@ -61,35 +62,47 @@ MASTER (to M.): "Buy a stool for me. What will it cost?"
 M: "Between two and three rupees."
 
 MASTER: "If a small wooden seat costs only twelve
-ānnās ,
-why should you have to pay
-so much for a stool?"
+ānnās , why should you have to pay so much for a stool?"
+
 M: "Perhaps it won't cost so much."
+
 MASTER: "Tomorrow is Thursday. The latter part of the afternoon is inauspicious. Can't
 you come before three o'clock?"
+
 M: "Yes, sir. I shall."
+
 MASTER: "Well, can you tell how long it will take me to recover from this illness?"
+
 M: "It has been aggravated a little and will take some days."
+
 MASTER: "How long?"
+
 M: "Perhaps five to six months."
+
 Hearing this, Sri Ramakrishna became impatient, like a child, and said: "So long? What
 do you mean?"
+
 M: "I mean, Sir, for complete recovery:"Significance of the Master's illness
+
 MASTER: "Oh, that! I am relieved. Can you explain one thing? How is it that in spite of
 all these visions, all this ecstasy and samādhi, I am so ill?"
+
 M: "Your suffering is no doubt great; but it has a deep meaning."
+
 MASTER: "What is it?"
+
 M: "A change is coming over your mind. It is being directed toward the formless aspect
 of God. Even your 'ego of Knowledge is vanishing.' "
-MASTER: "That is true. My teaching of others is coming to an end. I cannot give any
-more instruction. I see that everything is Rāma Himself. And sometimes I say to myself,
-'Whom shall I teach?' You see, because I am living in a rented house many kinds of
-devotees are coming here. I hope I shall not have to put up a 'signboard', like
-Shashadhar or Krishnaprasanna Sen, announcing my lectures." (The Master and M.
-laugh.)
 
-M: "There is yet another purpose in this illness. It is the final sifting of disciples. The devotees have achieved in these few days what they could not have realized by five
-years' tapasya . Their love and devotion are growing by leaps and bounds." 
+MASTER: "That is true. My teaching of others is coming to an end. I cannot give any more instruction. I see that everything is Rāma Himself.
+
+Sometimes I say to myself, 'Whom shall I teach?' You see, because I am living in a rented house many kinds of devotees are coming here. I hope I shall not have to put up a 'signboard', like Shashadhar or Krishnaprasanna Sen, announcing my lectures." 
+
+(The Master and M. laugh.)
+
+M: "There is yet another purpose in this illness. It is the final sifting of disciples. The devotees have achieved in these few days what they could not have realized by 5 years' tapasya. 
+
+Their love and devotion are growing by leaps and bounds." 
 
 MASTER: "That may be true; but Niranjan went back home. (To Niranjan) Please tell me how you feel."
 

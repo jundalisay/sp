@@ -1,12 +1,13 @@
 ---
 title: German International Socialist
 heading: Chapter 3i
-weight: 20
+weight: 23
 description: "The German International Socialist may be plundered by his comrades in all the other countries of the world in the name of 'solidarity'"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
 
 

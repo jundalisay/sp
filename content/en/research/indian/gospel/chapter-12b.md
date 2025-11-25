@@ -2,7 +2,7 @@
 title: "The Ideal of the Gitā"
 c: "indigo"
 heading: "Chapter 12"
-weight: 55
+weight: 81
 description: "Brahman alone is real and the world illusory"
 ---
 

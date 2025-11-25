@@ -5,12 +5,11 @@ date: 2023-12-27
 weight: 70
 image: "/graphics/super/wave.jpg"
 description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
-icon: "Superphysics"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
-
 
 
 
@@ -85,5 +84,3 @@ Here, the Subtlifying Influence is stronger
 {{< img src="/graphics/physics/msq.svg" alt="The 3 Gunas create the 3 sublayers per Layer" cap="The 3 Gunas create the 3 sublayers per Layer, as well as the internal layer boundary" >}}
 
 These manifest most obviously in the Earth Element or Strong Force as the 3 'colors' of quarks. 
-
-

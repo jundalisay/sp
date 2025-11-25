@@ -1,7 +1,7 @@
 ---
 title: "The Laws of Perfection in Religion"
 heading: "Chapter 7"
-weight: 2
+weight: 12
 c: "seagreen"
 author: "Montesquieu"
 description: "Liberty is favoured by the Nature and Proportion of Punishments"

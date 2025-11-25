@@ -1,18 +1,15 @@
 ---
 heading: Part 1
-title: "KINEMATICAL PART"
+title: "Kinematical Part"
 weight: 4
 date: 2025-01-25
-# linkTitle: "EPR Paradox"
-# date: 2022-08-08
 description: "Einstein explains Relativity"
-image: "/covers/electro.jpg"
 author: "Albert Einstein"
 icon: "Einstein"
 ---
 
 
-### 1. Definition of Simultaneity
+## 1. Definition of Simultaneity
 
 Let us take a system of co-ordinates, as a "stationary system" in which the equations of Newtonian mechanics hold good.2 
 
@@ -90,18 +87,18 @@ We assume that this definition of synchronism is free from contradictions, and p
 Thus with the help of certain imaginary physical experiments we have settled what is to be understood by synchronous stationary clocks located at different places, and have evidently obtained a definition of “simultaneous,” or
 “synchronous,” and of “time.” 
 
-The “time” of an event is that which is given
-simultaneously with the event by a stationary clock located at the place of
-the event, this clock being synchronous, and indeed synchronous for all time
-determinations, with a specified stationary clock.
+The “time” of an event is that which is given simultaneously with the event by a stationary clock located at the place of the event, this clock being synchronous, and indeed synchronous for all time determinations, with a specified stationary clock. 
 
-In agreement with experience we further assume the quantity
+In agreement with experience we further assume the quantity ... as a universal constant, as the velocity of light in empty space.
 
-2AB
+
+<!-- 2AB
 = c,
-t0A − tA
-to be a universal constant—the velocity of light in empty space.
-It is essential to have time defined by means of stationary clocks in the
-stationary system, and the time now defined being appropriate to the stationary
-system we call it “the time of the stationary system.”
+t0A − tA -->
+
+
+
+It is essential to define time through stationary clocks in the stationary system.
+
+“The time of the stationary system” is that time now defined as appropriate to that stationary system.
 

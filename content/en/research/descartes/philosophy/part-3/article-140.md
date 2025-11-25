@@ -13,7 +13,6 @@ icon: "Rene Descartes"
 
 <!-- ## 140. The principle of the motion of a Planet
 
-
 Let us assume that star `N` has less agitation, or less solidity, than the air-aether globules which are towards the circumference of our heavens, but still somewhat more than some of those which are towards the Sun.
 
 As soon as it is snatched away by the Sun's vortex, it must immediately descend towards its center until it reaches those air-aether globules which are equal to it in solidity, or in aptitude for persevering in its motion along straight lines.
@@ -68,6 +67,7 @@ Hence it follows that a planet never moves as quickly as the celestial globules 
 
 Hence, it also follows that when the motion of these celestial globules is accelerated, slowed down, or bent, the motion of the planet moving among them is not accelerated, slowed down, or bent as much, nor as quickly.
  -->
+
 
 ## 140. The principle of the motion of a Planet
 

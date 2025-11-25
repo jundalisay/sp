@@ -3,9 +3,12 @@ title:  "Population Policy"
 heading:  "Chapter 16-19"
 author:  "Montesquieu"
 description:  "Population policy depends greatly on circumstances. There are countries, in which nature does all"
-image:  "/covers/spirit.jpg"
+weight: 22
+icon: "Montesquieu"
+author: "Montesquieu"
 date:  2020-03-29
 ---
+
 
 
 Population policy depends greatly on circumstances. There are countries, in which nature does all. 
@@ -77,7 +80,7 @@ ALL these little republics were swallowed up in a large one, and the globe insen
 
 Livy says:
 
-{{< q >}}
+{{< q a="Livy" >}}
 Where the Volsci could find soldiers to support the war, after having been so often defeated. There must have been formerly an infinite number of people in those countries, which at present would be little better than a desart, were it not for a few soldiers and Roman slaves.
 {{< /q >}}
 

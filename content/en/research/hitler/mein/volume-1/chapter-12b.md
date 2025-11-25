@@ -8,6 +8,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 icon: "Adolf Hitler"
+icon: "Adolf Hitler"
 ---
 
 

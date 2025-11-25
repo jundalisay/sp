@@ -7,16 +7,18 @@ c: "firebrick"
 ---
 
 
+<sup>1</sup> In year 6, month 6, day 5 I sat in my house.
 
-1 In the year 6, month 6, day 5 I sat in my house.
+The elders of Judah sat before me. The hand of Enki fell there on me.
 
-The elders of Judah sat before me, that the hand of Enki fell there on me.
 
-2 Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire.
+<sup>2</sup> Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire.
 
 From his loins even upward, as the appearance of brightness, as the colour of amber.
 
-3 He put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where [was] the seat of the image of jealousy, which provoketh to jealousy.
+<sup>3</sup> He put forth the form of an hand, and took me by a lock of my head.
+
+The spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where was the seat of the image of jealousy, which provoketh to jealousy.
 
 4 The glory of Enki of Israel was there, according to the vision that I saw in the plain.
 

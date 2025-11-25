@@ -2,7 +2,7 @@
 title: "The Monkey and Kitten"
 c: "indigo"
 heading: "Chapter 18b"
-weight: 75
+weight: 161
 description: "There are 2 kinds of aspirants"
 ---
 
@@ -156,4 +156,5 @@ It is forbidden me to speak.
 
 I am about to die, for lack of a kindred soul
 To understand my misery. . . .
+
 

@@ -30,20 +30,18 @@ Then, worldly aspirations increased in the 8th century and afterwards. People no
 
 Al-Qushayri says:
 
-{{< q >}}
-<p>No etymology or analogy can be found for this term in the Arabic language.</p>
-{{< /q >}}
+{{< l a="Al-Qushayri" >}}
+No etymology or analogy can be found for this term in the Arabic language.
+{{< /l >}}
 
 It is a nickname. Theories derive the word from:
 - as-safa' (purity, sincerity), or
 - as-suffah (bench), or
 - as-saff (row) <!-- 455  -->
 
-Al-Qushayri) continued:
-
-{{< q >}}
+{{< l a="Al-Qushayri" >}}
 The same applies to the derivation from as-suf (wool), because the Sufis were not the only ones who wore Wool.
-{{< /q >}}
+{{< /l >}}
 
 
 The most obvious etymology is "as-suf" because Sufis were characterized by their woolen garments. They were opposed to people wearing gorgeous garments, and so chose to wear wool.
@@ -61,7 +59,6 @@ Man is distinguished from other animals by his ability to perceive, which is of 
 
 2. He can perceive "states" persisting in himself, such as joy and grief, anxiety and relaxation, satisfaction, anger, patience, gratefulness, and similar things. 
 
- <!-- 458 -->
 The reasoning part active in the body originates from perceptions, volitions, and states. 
 
 <!-- It is through them that man is distinguished (from the other animals), as we have stated. 459 They
@@ -77,12 +74,14 @@ The "stations" (form an ascending order). The Sufi novice continues to progress 
 
 Muhammad says:
 
-{{< q >}}
-<p>Whoever dies confessing that there is no God but God, enters Paradise.</p> <!-- 461 -->
-{{< /q >}}
+{{< l a="Mohammad" >}}
+Whoever dies confessing that there is no God but God, enters Paradise. <!-- 461 -->
+{{< /l >}}
 
 
-Thus, the novice must progress by such stages. The basis of all of them is obedience and sincerity. Faith precedes and accompanies all of them. Their result and fruit are states and attributes. They lead to others, and again others, up to the station of the (recognition of the) oneness of God and of gnosis ('irfan). 
+Thus, the novice must progress by such stages. The basis of all of them is obedience and sincerity. Faith precedes and accompanies all of them. 
+
+Their result and fruit are states and attributes. They lead to others, and again others, up to the station of the (recognition of the) oneness of God and of gnosis ('irfan). 
 
 <!-- 462 -->
 If the result shows some defect, then it comes from some shortcoming that existed in the previous stage. The same applies to the ideas of the soul and the inspirations of the heart.
@@ -118,9 +117,11 @@ It is concerned with pious exertion, self-scrutiny with regard to it, discussion
 
 When the sciences were written down systematically and when the jurists wrote works on jurisprudence and the principles of jurisprudence, on speculative theology, Qur'an interpretation, and other subjects, the Sufis, too, wrote on their subject. 
 
-Some Sufis wrote on the laws governing asceticism and self-scrutiny, how to act and not act in imitation of model (saints). That was done by al-Muhasibi, in his Kitab ar-Ri'ayah. 467 Other (Sufi authors) wrote on the behavior of (Sufis) and their different kinds of mystical and ecstatic experience in the "states." 
+Some Sufis wrote on the laws governing asceticism and self-scrutiny, how to act and not act in imitation of model (saints). That was done by al-Muhasibi, in his Kitab ar-Ri'ayah.
 
-Al-Qushayri in his Kitab ar-Risalah, and as-Suhrawardi 468 in the Kitab `Awarif al-ma`arif, as well as others, did this.
+Other Sufi authors wrote on the behavior of Sufis )and their different kinds of mystical and ecstatic experience in the "states." 
+
+Al-Qushayri in his Kitab ar-Risalah, and as-Suhrawardi in the Kitab `Awarif al-ma`arif, as well as others, did this.
 
 Al-Ghazzali combined the two matters in the Kitab alIhya'. In it, he dealt systematically with the laws governing asceticism and the imitation of models. 
 
@@ -166,4 +167,3 @@ When this happens, they believe that the whole of existence is encompassed by th
 <!-- 475  -->
 
 This was said by al-Ghazzali in the Kitab al-Ihya', after he had mentioned the forms of mystical exercise.
-

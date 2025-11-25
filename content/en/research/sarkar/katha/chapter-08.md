@@ -85,29 +85,35 @@ not give me one. Ultimately it happened as I desired. He gave one betel each to
 everyone except me. I was feeling attracted towards him.
 
 
-I was a new recruit in the field of sadhana, even so, mentally I placed Baba in
-Dattaji's figure.
+I was a new recruit in the field of sadhana, even so, mentally I placed Baba in Dattaji's figure.
 
-As I did this Dattaji laughed aloud and looked at me and said; "Nagina you are wondering as to what I am?” He called me near and said in Arabic, “ba isma ba mosamba".
+As I did this Dattaji laughed aloud:
+
+{{< r a="Dattaji" >}}
+Nagina you are wondering as to what I am?
+{{< /r >}}
+
+
+He called me near and said in Arabic, “ba isma ba mosamba".
 
 <!-- I did not follow the meaning of these words to I began to look at his face.  -->
 
-A gentleman was asked to explain the meaning to me. He told me that the meaning of
-this expression is that ‘qualities follow the name’. I was silent.
+A gentleman was asked to explain the meaning to me. He told me that the meaning of this expression is that ‘qualities follow the name’. I was silent.
 
-During that visit he did many miraculous things for several people, such as
-curing the daughter-in-law of a devotee by sending her a glass of water from which he
-had drunk. 
+During that visit he did many miraculous things for several people, such as curing the daughter-in-law of a devotee by sending her a glass of water from which he had drunk. 
 
-He also revived the fevered, uinconscious daughter of a destitute follower
-by anointing her teeth with his own saliva.Then he departed.
+He also revived the fevered, uinconscious daughter of a destitute follower by anointing her teeth with his own saliva. Then he departed.
 
 He was to go next day by the morning train and I had to take him to the station.
 
-When I reached the station with him the train was late. He squatted on the floor of the
-platform. Many people had come to see him off. People surrounded him and there also
-he gave many miscellaneous blessings to his followers. When the train arrived he
-called me and asked me why I had not requested for anything from him while others
-had done so.
+When I reached the station with him the train was late. He squatted on the floor of the platform. Many people had come to see him off. People surrounded him and there also he gave many miscellaneous blessings to his followers. When the train arrived he called me and asked me why I had not requested for anything from him while others had done so.
 
 
+{{< l a="Nagina" >}}
+You know best. I do not know what to ask for
+{{< /l >}}
+
+
+He immediately said, “On the 17th day from today I shall send you the Mukhtare Ahamad”. 
+
+I did not understand this Urdu expression.

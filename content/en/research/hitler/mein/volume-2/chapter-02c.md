@@ -1,13 +1,15 @@
 ---
-title: The Fundamental Principle of the State
+title: The Excellence of a State
 heading: Chapter 2c
 weight: 16
-description: "Any new movement which is based on the racial concept will first have to advance a clear doctrine of the State's nature and purpose"
+description: "The state's excellence is in how its institutions serve its racial stock"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
+icon: "Adolf Hitler"
 ---
+
 
 
 We National Socialists know that in holding these views, we take up a revolutionary stand as revolutionaries. 
@@ -22,9 +24,7 @@ On these principles we National Socialists base our standards of value in apprai
 
 This value will be relative when viewed from the particular standpoint of the individual nation, but it will be absolute when considered from the standpoint of humanity as a whole. 
 
-In other words, this means:
-That the excellence of a State can never be judged by the level of its culture or the degree of importance which the outside world attaches to its power, but that its excellence must be judged by the degree to which its institutions serve the racial stock
-which belongs to it.
+This means: That the excellence of a State can never be judged by the level of its culture or the degree of  importance which the outside world attaches to its power, but that **its excellence must be judged by the degree to which its institutions serve the racial stock which belongs to it.**
 
 A State is a model example if it:
 - adequately serves the vital needs of the racial stock it represents
@@ -122,5 +122,3 @@ signal for a rally of all those temperaments that are of the real fighting metal
 If a highly energetic and active body of men emerge from a nation and unite in the fight for one goal, thereby ultimately rising above the inert masses of the people, this small percentage will become masters of the whole. 
 
 World history is made by minorities if these numerical minorities represent in themselves the will and energy and initiative of the people as a whole.
-
-

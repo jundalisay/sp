@@ -1,15 +1,14 @@
-+++
-title=  "ON MERCANTILE TRANSACTIONS"
-heading=  "Chapter 2"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 4"
-linkb=  "/research/musa/algebra/chapter-04"
-linkftext=  "Chapter 6"
-linkf=  "/research/musa/algebra/chapter-06"
-draft=  true
-+++
+---
+heading: "Chapter 5"
+title: "On Mercantile Transactions"
+weight: 12
+c: "steelblue"
+description: "The Six Problems"
+draft: true
+date: 2020-01-30
+---
+
+
 
 All mercantile transactions such as buying and selling, exchange and hire, comprehend always two notions and four numbers, which are stated by the enquirer ; namely, measure and price,
 

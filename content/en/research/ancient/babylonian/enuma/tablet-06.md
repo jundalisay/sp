@@ -22,11 +22,16 @@ But I will alter the ways of the gods, and I will change their paths.
 Together shall they be oppressed and unto evil shall they....
 
 Ea answered him and spake the word:
-"... the ... of the gods I have changed
+
+
+{{< l a="Ea" >}}
+... the ... of the gods I have changed
 ... and one...
 ... shall be destroyed and men will I...
 ... and the gods .
 ... and they..."
+{{< /l >}}
+
 
 [The rest of the text is wanting with the exception of the last few lines of the tablet, which read as follows.]
 
@@ -41,4 +46,3 @@ Of the heroic son, their avenger, they cried:
 They seated themselves and in the assembly they named him...,
 
 They all cried aloud, they exalted him...
-

@@ -12,22 +12,26 @@ icon: Jean Baptiste Say
 
 
 
-## Book 3: The Consumption of Wealth
-
-### Chapter 1: The Different Kinds of Consumption
 
 Whatever cannot possibly lose its value is not liable to consumption. 
 
 A landed estate cannot be consumed. But its annual productive agency may; for when once that agency has been exerted, it cannot be exerted again. 
 
-The improvements of an estate may be consumed, although their value may possibly exceed that of the estate itself; for these improvements are the effect of human exertion and industry; but the land itself is inconsumable. 1
+The improvements of an estate may be consumed, although their value may possibly exceed that of the estate itself; for these improvements are the effect of human exertion and industry; but the land itself is inconsumable.
 
-In the course of my work, I have frequently been obliged to anticipate the explanation of terms and notions which in the natural order should have been postponed to a later period of the investigation. Thus I was obliged in the first book to explain the sense, in which I used the term, consumption, because production cannot be effected without consumption.
+Book 1 explained consumption, as production cannot be effected without consumption.
 
-My reader will have seen from the explanation there given, that, in like manner as by production is meant the  creation, not of substance, but of utility, so by consumption is meant the destruction of utility, and not of substance, or matter. 
+It had a different explanation there.
 
-When once the utility of a thing is destroyed, there is an end of the source and basis of its value; — an extinction of that, which made it an object of desire and of demand. It thenceforward ceases to possess value, and is no longer an item of wealth.
-So likewise it is with any industrious faculty. One may consume a labourer’s day’s work, but not his faculty of working;
+This is similar to production meaning creation of utility.
+
+Here I explain consumption as the destruction of utility. 
+
+When once the utility of a thing is destroyed, its value ends. It is no longer an item of wealth.
+
+So likewise it is with any industrious faculty.
+
+One may consume a labourer’s day’s work, but not his faculty of working;
 which, however, is liable to destruction by the death of the person possessing it.
 
 All products are consumed sooner or later; indeed they are produced solely for the purpose of consumption, and, when-
@@ -111,4 +115,3 @@ ages, which are commonly neither numerous nor amply provided.
 Upon this principle, it would be the very acme of perfection to produce nothing and to have no wants; that is to say, to annihilate human existence. 
 
 In each country the wants of the consumer determine the quality of the product. The product most wanted is most in demand; and that which is most in demand yields the largest profit to industry, capital, and land, which are therefore employed in raising this particular product in preference; and, vice versa, when a product becomes less in demand, there is a less profit to be got by its production; it is, therefore, no 
-

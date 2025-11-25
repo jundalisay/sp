@@ -1,8 +1,8 @@
 ---
 title: "About Nityagopal"
 c: "indigo"
-heading: "Chapter 52"
-weight: 216
+heading: "Chapter 52c"
+weight: 646
 description: ""
 ---
 
