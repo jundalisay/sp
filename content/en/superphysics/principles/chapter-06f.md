@@ -23,6 +23,8 @@ There are 5 fixed Elements in Nature and so there are fixed relations in every u
 
 Physics calls these fixed relations between and within the 5 Elements as physical "constants". 
 
+{{< youtube ZiIK28vewlc >}}
+
 
 Constant | Relationality
 --- | ---

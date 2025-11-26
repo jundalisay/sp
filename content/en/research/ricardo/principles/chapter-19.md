@@ -8,31 +8,45 @@ date: 2025-01-11
 ---
 
 
-No accumulation of capital will permanently lower profits, unless there be some permanent cause for the rise of wages. 
+No accumulation of capital will permanently reduce profits unless wages rise permanently. 
 
-If the funds for maintaining labour were doubled, trebled, or quadrupled, the labour would easily be procured.
+ <!-- the funds for maintaining labour  -->
+If wages were were doubled, trebled, or quadrupled, the labour would easily be procured.
 
-But due to the increasing difficulty of making constant additions to the food of the country, funds of the same value would probably not maintain the same quantity of labour.
+But it would beincreasingly difficult to constantly add to the country's food.
+- And so funds of the same value would probably not maintain the same quantity of labour.
 
-If the necessaries of the workman could be constantly increased with the same facility, there could be no permanent alteration in the rate of profits or wages, to whatever amount capital might be accumulated. 
+If the worker's necessaries could be constantly increased, there could be no permanent change in the rate of profits or wages, to whatever amount capital might be accumulated. 
 
 Adam Smith, however, uniformly ascribes the fall of profits to:
 - accumulation of capital, and
 - the competition which will result from it
 
-He never points to the increasing difficulty of providing food for the additional labourers which the additional capital will employ. 
+He never points to the increasing difficulty of providing food for the additional labourers.
 
-"The increase of stock he says, which raises wages, tends to lower profit. When the stocks of many rich merchants are turned into the same trade, their mutual competition naturally tends to lower its profit; and when there is a like increase of stock in all the different trades carried on in the same society, the same competition must produce the same effect in all." 
+<!--  which the 
+says thatadditional capital will employ.  -->
 
-Adam Smith speaks here of a rise of wages.
 
-But it is of a temporary rise, proceeding from increased funds before the population is increased; and he does not appear to see, that at the same time that capital is increased, the work to be effected by capital, is increased in the same proportion. 
+{{< l a="Adam Smith" >}}
+The increase of stock which raises wages, tends to lower profit. When the stocks of many rich merchants are turned into the same trade, their mutual competition naturally lowers its profit. When there is a like increase of stock in all the different trades carried on in the same society, the same competition must produce the same effect in all.
+{{< /l >}}
 
-Say has however most satisfactorily shewn that there is no amount of capital which may not be employed in a country, because demand is only limited by production.
 
-No man produces, but with a view to consume or sell, and he never sells, but with an intention to purchase some other commodity, which may be immediately useful to him, or which may contribute to future production. By producing, then, he necessarily becomes either the consumer of his own goods, or the purchaser and consumer of the goods of some other person.
+Adam Smith speaks here of a rise of wages.*
 
-It is not to be supposed that he should, for any length of time, be ill-informed of the commodities which he can most advantageously produce, to attain the object which he has in view, namely, the possession of other goods; and therefore it is not probable that he will continually produce a commodity for which there is no demand.
+{{< n n="No, it is an increase or overinvestment in a certain inudstry. For example, if AI is heavily invested, then there will be so many AI providers who must compete with each other. This forces them to a race to the bottom. Chinese EV makers actually have this problem" >}}
+
+
+But this rise of wages is temporary. It comes from increased funds before the population is increased. 
+
+He does not see, that when capital is increased, the work to be effected by capital, is increased in the same proportion. 
+
+Say has however shewn that there is no amount of capital which may not be employed in a country, because demand is only limited by production.
+
+A man produces with a view to consume or sell. He sells with an intention to purchase some other commodity, which may be immediately useful to him, or which may contribute to future production. By producing, he necessarily becomes either the consumer of his own goods, or the purchaser and consumer of the goods of some other person.
+
+He is not ill-informed of the commodities which he can most advantageously produce to have other goods. He will continually produce a commodity that has no demand.
 
 There cannot then be accumulated in a country any amount of capital which cannot be employed productively, until wages rise so high in consequence of the rise of necessaries, and so little consequently remains for the profits of stock, that the motive for accumulation ceases.
 
@@ -62,7 +76,9 @@ When merchants engage their capitals in foreign trade, or in the carrying trade,
 
 Adam Smith has justly observed "that the desire of food is limited in every man by the narrow capacity of the human stomach, but the desire of the conveniences and ornaments406 of building, dress, equipage, and household furniture, seems to have no limit or certain boundary." 
 
-Nature then has necessarily limited the amount of capital which can at any one time be profitably engaged in agriculture, but she has placed no limits to the amount of capital that may be employed in procuring "the conveniences and ornaments" of life. To procure these gratifications in the greatest abundance is the object in view, and it is only because foreign trade, or the carrying trade, will accomplish it better, that men engage in them, in preference to manufacturing the commodities required, or a substitute for them, at home. If, however, from peculiar circumstances, we were precluded from engaging capital in foreign trade, or in the carrying trade, we should, though with less advantage, employ it at home; and while there is no limit to the desire of "conveniences, ornaments of building, dress, equipage, and household furniture," there can be no limit to the capital that may be employed in procuring them, except that which bounds our power to maintain the workmen who are to produce them.
+Nature then has necessarily limited the amount of capital which can at any one time be profitably engaged in agriculture, but she has placed no limits to the amount of capital that may be employed in procuring "the conveniences and ornaments" of life. To procure these gratifications in the greatest abundance is the object in view, and it is only because foreign trade, or the carrying trade, will accomplish it better, that men engage in them, in preference to manufacturing the commodities required, or a substitute for them, at home. 
+
+If, however, from peculiar circumstances, we were precluded from engaging capital in foreign trade, or in the carrying trade, we should, though with less advantage, employ it at home; and while there is no limit to the desire of "conveniences, ornaments of building, dress, equipage, and household furniture," there can be no limit to the capital that may be employed in procuring them, except that which bounds our power to maintain the workmen who are to produce them.
 
 Adam Smith however, speaks of the carry407ing trade as one not of choice, but of necessity; as if the capital engaged in it would be inert if not so employed, as if the capital in the home trade could overflow, if not confined to a limited amount. 
 
@@ -102,7 +118,7 @@ But in all countries, from mistaken notions411 of policy, the state has interfer
 
 Loans have been raised by Government at an interest exceeding 6%, and individuals have been frequently obliged, by indirect means, to pay more than 10%, for the interest of money; yet during this same period the legal rate of interest has been uniformly at 5% Little dependance for information then can be placed on that which is the fixed and legal rate of interest, when we find it may differ so considerably from the market rate.
 
-Adam Smith informs us, that from the 37th of Henry VIII., to 21st of James I., 10% continued to be the legal rate of interest. Soon after the restoration, it was reduced to 6%,412 and by the 12th of Anne, to 5% He thinks the legal rate followed, and did not precede the market rate of interest. Before the American War, Government borrowed at 3%, and the people of credit in the capital, and in many other parts of the kingdom at 3½, 4, and 4½%
+Adam Smith informs us, that from the 37th of Henry VIII., to 21st of James I., 10% continued to be the legal rate of interest. Soon after the restoration, it was reduced to 6%, and by the 12th of Anne, to 5% He thinks the legal rate followed, and did not precede the market rate of interest. Before the American War, Government borrowed at 3%, and the people of credit in the capital, and in many other parts of the kingdom at 3½, 4, and 4½%
 
 The rate of interest, though ultimately and permanently governed by the rate of profit, is however subject to temporary variations from other causes. With every fluctuation in the quantity and value of money, the prices of commodities naturally vary.
 

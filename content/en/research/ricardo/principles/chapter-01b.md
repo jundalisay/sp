@@ -29,19 +29,42 @@ If the labourer's shoes and clothing could be produced by 1/4 of the labour due 
 
 But he would not be able to permanently buy 4 coats, or 4 pair of shoes, instead of one.
 
-His wages would in no long time be adjusted by the effects of competition, and the stimulus to population, to the new value of the necessaries on which they were expended. 
+This is because his wages would also be reduced by competition from the population increase.
 
-If these improvements extended to all the objects of the labourer's consumption, we should find him probably at the end of a very few years, in possession of only a small, if any, addition to his enjoyments, although the exchangeable value of those commodities, compared with any other commodity, in the manufacture of which no such improvement were made, had sustained a very considerable reduction; and though they were the produce of a very considerably diminished quantity of labour.
+<!-- , to the new value of the necessaries on which they were expended.  -->
 
-Adam Smith is therefore wrong: "that as labour may sometimes purchase more, and sometimes fewer goods. It is their value which varies, not that of the labour which purchases them;"
+If these improvements extended to all the objects of the labourer's consumption, at the end of a few years he would have only a small addition to his enjoyments even if the exchangeable value of those commodities were very much reduced through mechanization. 
 
-Therefore, "that labour alone never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared.
+<!-- , compared with any other commodity, in the manufacture of which no such improvement were made, had sustained a very considerable reduction; and though they were the produce of a very considerably diminished quantity of labour. -->
 
-But it is correct to say, as Adam Smith had previously said, "that the proportion between the quantities of labour necessary for acquiring different objects, seems to be the only circumstance which can afford any rule for exchanging them for one another;"
+Adam Smith is therefore wrong: 
 
-In other words, that it is the comparative quantity of commodities which labour will produce, that determines their present or past relative value, and not the comparative quantities of commodities, which are given to the labourer in exchange for his labour.
+{{< l a="Adam Smith" >}}
+"that as labour may sometimes purchase more, and sometimes fewer goods. It is their value which varies, not that of the labour which purchases them; that labour alone never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared."
+{{< /l >}}
 
-If any one commodity could be found, which now and at all times required precisely the same quantity of labour to produce it, that commodity would be of an unvarying value, and would be eminently useful as a standard by which the variations of other things might be measured. Of such a commodity we have no knowledge, and consequently are unable to fix on any standard of value. 
+{{< n n="Adam Smith was talking about life, not about wages. At all states of society, people want to live and will produce what they produce. Labour here means stress, which is subjective and personal" >}}
+
+
+But it is correct to say, as Adam Smith had said:
+
+{{< l a="Adam Smith" >}}
+that the proportion between the quantities of labour necessary for acquiring different objects, seems to be the only circumstance which can afford any rule for exchanging them for one another
+{{< /l >}}
+
+
+
+
+The relative value of commodities is based on the comparative quantity produced. 
+- It is not based on the comparative quantities of commodities **GIVEN** to the labourer in exchange for his labour.
+
+A commodity would have an unvarying value if it were produced at all times by the same quantity of labour.
+- It would be a standard to measure the variations of the value of other things.*
+
+{{< n n="This is precisely why Smith used corn or grains as the measure of value because all humans need the same amount of grain per day. If we eat 2 cups of rice per meal, we will not likely increase to 4 cups of rice or 0 cups per meal tomorrow. The 2 cups represents the requirement to live daily. A baby might need milk instead of rice. But even its milk will be of a predictable amount" >}}
+
+
+Of such a commodity we have no knowledge, and consequently are unable to fix on any standard of value. 
 
 It is, however, of considerable use towards attaining a correct theory, to ascertain what the essential qualities of a standard are, that we may know the causes of the variation in the relative value of commodities, and that we may be enabled to calculate the degree in which they are likely to operate.
 
